@@ -97,7 +97,13 @@ main { flex: 1; padding-block: 44px 80px; outline: none; }
   padding: 6px 12px; border: var(--border) solid transparent; border-radius: 8px;
 }
 .topnav a:hover { border-color: var(--on-primary); background: rgba(255,255,255,.2); }
-.topnav a[aria-current="page"] { border-color: var(--on-primary); background: #fff; color: var(--ink); box-shadow: 2px 2px 0 rgba(0,0,0,.3); }
+.topnav a[aria-current="page"],
+.topnav a[aria-current="page"]:hover {
+  border-color: var(--on-primary);
+  background: #fff;
+  color: #111111;
+  box-shadow: 2px 2px 0 rgba(0,0,0,.3);
+}
 
 .footer { border-top: var(--border) solid var(--ink); background: var(--surface); color: var(--muted); font-size: .9375rem; padding-block: 24px; }
 

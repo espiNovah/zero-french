@@ -10,6 +10,37 @@
       "description": "Start from zero: learn the French alphabet, pronunciation, greetings, basic grammar and everyday vocabulary.",
       "sections": [
         {
+          "id": "foundations-and-pronunciation",
+          "title": "Foundations & Pronunciation",
+          "description": "Master the French alphabet, accents, vowel mechanics, nasal sounds, and core phonetic rules.",
+          "lessons": [
+            {
+              "id": "alphabet-and-accents",
+              "title": "The Alphabet, Accents, and Spelling",
+              "description": "Learn the 26 French letters, avoid English letter traps (G/J, E/I/U), master the 5 accents, and dictate Canadian postal codes and emails.",
+              "file": "a1_basics/foundations_and_pronunciation/alphabet_and_accents.md"
+            },
+            {
+              "id": "vowels-and-nasals",
+              "title": "Pure Vowels, U vs OU, and Nasal Sounds",
+              "description": "Master French monophthongs, the tricky U (/y/) versus OU (/u/) distinction, and the three core nasal vowels (an, on, in).",
+              "file": "a1_basics/foundations_and_pronunciation/vowels_and_nasals.md"
+            },
+            {
+              "id": "silent-letters-and-liaisons",
+              "title": "Silent Letters, Elision, and Liaisons",
+              "description": "Learn the CaReFuL final consonant rule, elision with apostrophes, mandatory vs forbidden liaisons, and phonetic shifts (s/x to /z/, d to /t/).",
+              "file": "a1_basics/foundations_and_pronunciation/silent_letters_and_liaisons.md"
+            },
+            {
+              "id": "numbers-time-dates",
+              "title": "Numbers, Time, and the Calendar",
+              "description": "Master cardinal numbers 0 to 100+, the vigesimal system (70–99), telling time in 12h/24h systems, days, months, and Canadian date conventions.",
+              "file": "a1_basics/foundations_and_pronunciation/numbers_time_dates.md"
+            }
+          ]
+        },
+        {
           "id": "greetings-and-introductions",
           "title": "Greetings & Introductions",
           "description": "Say hello, introduce yourself, and understand basic polite phrases in French.",
@@ -57,6 +88,31 @@
               "title": "Regular -er Verbs and Daily Actions",
               "description": "Conjugate present tense regular -er verbs for routine morning and evening activities, work, and leisure.",
               "file": "a1_basics/daily_routine_and_places/regular_er_verbs.md"
+            },
+            {
+              "id": "irregular-verbs-triad",
+              "title": "The Essential Irregular Triad: Aller, Faire, Venir",
+              "description": "Master the high-frequency verbs aller, faire, and venir to describe movement, activities, weather expressions, and immediate future/past actions.",
+              "file": "a1_basics/daily_routine_and_places/irregular_verbs_triad.md"
+            },
+            {
+              "id": "asking-questions-basics",
+              "title": "Asking Questions and Essential Interrogatives",
+              "description": "Formulate questions in French using intonation, est-ce que, and the core interrogatives (qui, que, où, quand, comment, pourquoi, combien).",
+              "file": "a1_basics/daily_routine_and_places/asking_questions_basics.md"
+            },
+            {
+              "id": "places-in-town-and-prepositions",
+              "title": "Places in Town and Navigation Prepositions",
+              "description": "Identify municipal landmarks, master spatial prepositions with contractions (à côté de, en face de, près de), and give directions.",
+              "file": "a1_basics/daily_routine_and_places/places_in_town_and_prepositions.md"
+            },
+            {
+              "id": "project-daily-routine-and-neighborhood",
+              "title": "Project: Daily Routine & Neighborhood",
+              "description": "Write a 60–120 word email to a friend describing your daily schedule, living area, and extending an invitation under timed TCF-SO conditions.",
+              "file": "a1_basics/daily_routine_and_places/project_daily_routine_and_neighborhood.md",
+              "project": true
             }
           ]
         }
