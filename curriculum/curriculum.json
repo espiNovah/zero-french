@@ -5,7 +5,7 @@
     {
       "id": "a1-basics",
       "title": "A1 Basics",
-      "hours": 80,
+      "hours": 100,
       "optional": false,
       "description": "Start from zero: learn the French alphabet, pronunciation, greetings, basic grammar and everyday vocabulary.",
       "sections": [
@@ -19,6 +19,18 @@
               "title": "Greetings and Politeness",
               "description": "Learn to greet people formally and informally, say goodbye, and use basic polite expressions.",
               "file": "a1_basics/greetings_and_introductions/greetings_and_politeness.md"
+            },
+            {
+              "id": "personal-identity-and-verbs",
+              "title": "Personal Identity and Essential Verbs",
+              "description": "State your name, nationality, age, and profession using the essential verbs être and avoir.",
+              "file": "a1_basics/greetings_and_introductions/personal_identity_and_verbs.md"
+            },
+            {
+              "id": "family-and-relationships",
+              "title": "Family and Relationships",
+              "description": "Describe immediate family members, marital status, and express relationships using possessive adjectives.",
+              "file": "a1_basics/greetings_and_introductions/family_and_relationships.md"
             },
             {
               "id": "project-introduce-yourself",
