@@ -37,6 +37,13 @@
               "title": "Numbers, Time, and the Calendar",
               "description": "Master cardinal numbers 0 to 100+, the vigesimal system (70–99), telling time in 12h/24h systems, days, months, and Canadian date conventions.",
               "file": "a1_basics/foundations_and_pronunciation/numbers_time_dates.md"
+            },
+            {
+              "id": "project-pronunciation-benchmark",
+              "title": "Project: Pronunciation Benchmark",
+              "description": "Record an audio benchmark testing vowel contrasts (U vs OU), nasal vowels, silent letters, liaisons, and numbers.",
+              "file": "a1_basics/foundations_and_pronunciation/project_pronunciation_benchmark.md",
+              "project": true
             }
           ]
         },
@@ -112,6 +119,44 @@
               "title": "Project: Daily Routine & Neighborhood",
               "description": "Write a 60–120 word email to a friend describing your daily schedule, living area, and extending an invitation under timed TCF-SO conditions.",
               "file": "a1_basics/daily_routine_and_places/project_daily_routine_and_neighborhood.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "food-shopping-needs",
+          "title": "Food, Shopping & Basic Needs",
+          "description": "Navigate grocery stores and markets, master partitive articles, order at cafés, describe clothing, and discuss weather.",
+          "lessons": [
+            {
+              "id": "food-and-partitives",
+              "title": "Food, Groceries, and Partitive Articles",
+              "description": "Master essential food vocabulary, supermarket departments, and partitive articles (du, de la, de l', des) versus definite articles.",
+              "file": "a1_basics/food_shopping_needs/food_and_partitives.md"
+            },
+            {
+              "id": "cafe-and-transactions",
+              "title": "Ordering at a Café and Polite Transactions",
+              "description": "Order coffee, pastries, and lunch at counters, master the polite conditional je voudrais, ask prices, and settle bills in France and Canada.",
+              "file": "a1_basics/food_shopping_needs/cafe_and_transactions.md"
+            },
+            {
+              "id": "clothing-and-agreements",
+              "title": "Clothing, Sizes, and Adjective Agreements",
+              "description": "Name everyday garments and winter outerwear, master gender and number adjective agreements, color rules, and shopping mechanics.",
+              "file": "a1_basics/food_shopping_needs/clothing_and_agreements.md"
+            },
+            {
+              "id": "weather-and-seasons",
+              "title": "Weather, Seasons, and Temperatures",
+              "description": "Describe atmospheric conditions using impersonal verbs (il fait, il pleut, il neige), state temperatures, and master season prepositions.",
+              "file": "a1_basics/food_shopping_needs/weather_and_seasons.md"
+            },
+            {
+              "id": "project-a1-capstone",
+              "title": "Project: A1 Capstone Challenge",
+              "description": "Demonstrate complete A1 mastery with a 3-minute oral interaction inquiry and a timed 60–80 word practical message under TCF Canada conditions.",
+              "file": "a1_basics/food_shopping_needs/project_a1_capstone.md",
               "project": true
             }
           ]

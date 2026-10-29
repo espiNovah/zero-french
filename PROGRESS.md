@@ -4,9 +4,9 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (14 lessons)
+## 1. Reviewed Lessons (20 lessons — Path 00: A1 Basics 100% Complete!)
 
-These lessons have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
+These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
 | Date Reviewed | File | Words | Review Status | Notes & Flags |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,20 +20,29 @@ These lessons have completed both the authoring phase AND the strict reviewer au
 | 2026-10-29 | `curriculum/a1_basics/foundations_and_pronunciation/vowels_and_nasals.md` | 2,895 | **Reviewed** | Pure vowels, /y/ vs /u/, 3 nasal vowels, glides verified |
 | 2026-10-29 | `curriculum/a1_basics/foundations_and_pronunciation/silent_letters_and_liaisons.md` | 2,888 | **Reviewed** | CaReFuL rule, mandatory/forbidden liaisons, tard & tie fix applied |
 | 2026-10-29 | `curriculum/a1_basics/foundations_and_pronunciation/numbers_time_dates.md` | 3,310 | **Reviewed** | Numbers 0–100+, vigesimal system (70–99), 12h/24h time, dates verified |
+| 2026-10-29 | `curriculum/a1_basics/foundations_and_pronunciation/project_pronunciation_benchmark.md` | 2,050 | **Reviewed** | Phonetic benchmark script, /ɥit/ IPA consistency applied |
 | 2026-10-29 | `curriculum/a1_basics/daily_routine_and_places/irregular_verbs_triad.md` | 2,927 | **Reviewed** | Aller, Faire, Venir; futur proche & passé récent; bail (/baj/) IPA fix applied |
 | 2026-10-29 | `curriculum/a1_basics/daily_routine_and_places/asking_questions_basics.md` | 3,093 | **Reviewed** | Intonation, est-ce que, 7 core interrogatives, quel agreements verified |
 | 2026-10-29 | `curriculum/a1_basics/daily_routine_and_places/places_in_town_and_prepositions.md` | 3,231 | **Reviewed** | City landmarks, spatial prepositions with contractions, Audible typo fix applied |
 | 2026-10-29 | `curriculum/a1_basics/daily_routine_and_places/project_daily_routine_and_neighborhood.md` | 1,357 | **Reviewed** | TCF Writing Task 1 email (60–120 words), FEI rubric, tutoiement alignment applied |
+| 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/food_and_partitives.md` | 3,720 | **Reviewed** | Partitives vs definite, negative de, Canadian grocery lexicon verified |
+| 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/cafe_and_transactions.md` | 3,005 | **Reviewed** | Ordering formulas, je voudrais, prices, bills & Canadian tipping verified |
+| 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/clothing_and_agreements.md` | 3,280 | **Reviewed** | Adjective agreements, invariable marron/orange, prompt gender fix applied |
+| 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/weather_and_seasons.md` | 2,919 | **Reviewed** | Impersonal weather, season prepositions, present-tense drill fix applied |
+| 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/project_a1_capstone.md` | 1,819 | **Reviewed** | Dual A1 Capstone (Task 2 speaking & Task 1 writing), FEI rubrics verified |
 
 ---
 
 ## 2. Drafted Lessons Awaiting Review (0 lessons)
 
-All currently drafted lessons in A1 Basics have completed review.
+All 20 lessons and projects across Path 00 (A1 Basics) are complete and fully reviewed.
 
 ---
 
-## 3. Curriculum Pipeline (Upcoming)
+## 3. Curriculum Pipeline (Upcoming — Path 01: A2 Survival French)
 
-- `curriculum/a1_basics/foundations_and_pronunciation/project_pronunciation_benchmark.md` (Completing Section 1 of A1)
-- `curriculum/a1_basics/food_shopping_needs/` (Section 3 of A1)
+- `curriculum/a2_survival/past_narratives/passe_compose_avoir.md` (Next batch: 1 of 2)
+- `curriculum/a2_survival/past_narratives/passe_compose_etre.md` (Next batch: 2 of 2)
+- `curriculum/a2_survival/past_narratives/narrative_chronology_connectors.md`
+- `curriculum/a2_survival/past_narratives/tcf_listening_short_announcements.md`
+- `curriculum/a2_survival/past_narratives/project_past_vacation_recount.md`
