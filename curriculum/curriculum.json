@@ -1,0 +1,35 @@
+{
+  "title": "Zéro French",
+  "tagline": "A free, project-based curriculum that takes you from zero French to passing the TCF Canada.",
+  "paths": [
+    {
+      "id": "a1-basics",
+      "title": "A1 Basics",
+      "hours": 80,
+      "optional": false,
+      "description": "Start from zero: learn the French alphabet, pronunciation, greetings, basic grammar and everyday vocabulary.",
+      "sections": [
+        {
+          "id": "greetings-and-introductions",
+          "title": "Greetings & Introductions",
+          "description": "Say hello, introduce yourself, and understand basic polite phrases in French.",
+          "lessons": [
+            {
+              "id": "greetings-and-politeness",
+              "title": "Greetings and Politeness",
+              "description": "Learn to greet people formally and informally, say goodbye, and use basic polite expressions.",
+              "file": "a1_basics/greetings_and_introductions/greetings_and_politeness.md"
+            },
+            {
+              "id": "project-introduce-yourself",
+              "title": "Project: Introduce Yourself",
+              "description": "Record a short self-introduction in French using the greetings and polite phrases you have learned.",
+              "file": "a1_basics/greetings_and_introductions/project_introduce_yourself.md",
+              "project": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

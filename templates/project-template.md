@@ -1,0 +1,28 @@
+### Introduction
+
+A BRIEF INTRODUCTION: WHAT THE LEARNER WILL PRODUCE AND WHICH SKILLS IT PRACTICES.
+
+### Before you start
+
+ANY SETUP: TOOLS NEEDED (E.G. A VOICE RECORDER, A TIMER), MATERIALS PROVIDED, OR REFERENCE PAGES TO REVIEW.
+
+### Assignment
+
+<div class="lesson-content__panel" markdown="1">
+
+1. A REQUIREMENT OR TASK DESCRIPTION.
+1. Record, write or complete the task within the time limit.
+
+#### Evidence
+
+- WHAT THE LEARNER MUST KEEP TO PROVE THE PROJECT WORKS (SEE THE EVIDENCE TABLE IN THE LAYOUT STYLE GUIDE).
+
+#### Extra credit
+
+- AN OPTIONAL ADD-ON THAT WOULD DEMONSTRATE A HIGHER LEVEL.
+
+</div>
+
+### Submitting your work
+
+POINTERS TO WHAT A GOOD SUBMISSION LOOKS LIKE.
