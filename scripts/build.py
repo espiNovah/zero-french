@@ -11,8 +11,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SITE_URL = "https://example.github.io/zero-french/"
-REPO_URL = "https://github.com/example/zero-french"
+SITE_URL = "https://espinovah.github.io/zero-french/"
+REPO_URL = "https://github.com/espiNovah/zero-french"
 
 TITLE = "Zéro French: Free Curriculum to Pass the TCF Canada"
 DESCRIPTION = (
@@ -126,9 +126,8 @@ def render_index(manifest):
     <div class="container topbar-inner">
       <a class="brand" href="#/">Zéro French</a>
       <nav class="topnav" aria-label="Main">
-        <a href="#/" data-nav="home">Paths</a>
         <a href="#/about" data-nav="about">About</a>
-        <a href="#/tcf" data-nav="tcf">TCF Canada</a>
+        <a href="#/tcf" data-nav="tcf">TCF Guide</a>
         <a href="{REPO_URL}" target="_blank" rel="noopener">GitHub</a>
       </nav>
     </div>
