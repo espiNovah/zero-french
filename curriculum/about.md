@@ -46,4 +46,4 @@ The "Mark as complete" buttons save to this browser only. Clearing site data or 
 
 ### Contributing
 
-Found a broken link, an outdated resource or a better free tool? This project is open source. See the [contributing guide](https://github.com/example/zero-french/blob/main/CONTRIBUTING.md).
+Found a broken link, an outdated resource or a better free tool? This project is open source. See the [contributing guide](https://github.com/espiNovah/zero-french/blob/main/CONTRIBUTING.md).
