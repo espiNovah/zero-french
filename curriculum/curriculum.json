@@ -33,11 +33,30 @@
               "file": "a1_basics/greetings_and_introductions/family_and_relationships.md"
             },
             {
+              "id": "everyday-objects-and-gender",
+              "title": "Everyday Objects and Grammatical Gender",
+              "description": "Name common home and workplace objects, master definite and indefinite articles (le, la, un, une), and describe items with basic colors.",
+              "file": "a1_basics/greetings_and_introductions/everyday_objects_and_gender.md"
+            },
+            {
               "id": "project-introduce-yourself",
               "title": "Project: Introduce Yourself",
               "description": "Record a short self-introduction in French using the greetings and polite phrases you have learned.",
               "file": "a1_basics/greetings_and_introductions/project_introduce_yourself.md",
               "project": true
+            }
+          ]
+        },
+        {
+          "id": "daily-routine-and-places",
+          "title": "Daily Routine & Places",
+          "description": "Conjugate regular verbs, talk about your daily schedule, and navigate buildings and town landmarks.",
+          "lessons": [
+            {
+              "id": "regular-er-verbs",
+              "title": "Regular -er Verbs and Daily Actions",
+              "description": "Conjugate present tense regular -er verbs for routine morning and evening activities, work, and leisure.",
+              "file": "a1_basics/daily_routine_and_places/regular_er_verbs.md"
             }
           ]
         }
