@@ -277,5 +277,5 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Lawless French — Conjugating Être & Avoir](https://www.lawlessfrench.com/grammar/etre-lesson/): Complete breakdown of irregular verb conjugations with audio examples.
-- [Français avec Pierre — Se Présenter en Français](https://www.francaisavecpierre.com/se-presenter-en-francais/): Detailed guide and video examples for introducing yourself naturally.
+- [Français avec Pierre — Se Présenter en Français](https://www.francaisavecpierre.com/comment-se-presenter-en-francais/): Detailed guide and video examples for introducing yourself naturally.
 - [Banque de dépannage linguistique (OQLF Québec) — Féminisation des titres](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Official Canadian linguistic guidelines on feminine professional titles.

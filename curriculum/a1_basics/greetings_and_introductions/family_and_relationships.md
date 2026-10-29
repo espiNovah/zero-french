@@ -190,7 +190,7 @@ Using simple connectors like **mais** (*but*), **et** (*and*), and **avec** (*wi
 
    1. **sa** (*sa sœur* — sister is feminine singular; the owner's gender does not affect the adjective).
    2. **son** (*son frère* — brother is masculine singular).
-   3. **Mon** (*Mon amie* — although *amie* is feminine, it begins with a vowel sound, so *mon* is mandatory).
+   3. **Son** (*Son amie* — although *amie* is feminine, it begins with a vowel sound, so *son* replaces *sa*).
    4. **nos** (*nos parents* — parents is plural, owned by *nous*).
    5. **vos** (*vos enfants* — formal/plural possession for a plural noun).
    6. **Leur** (*Leur fille* — single daughter owned by multiple people *ils/elles*).
@@ -249,5 +249,5 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Lawless French — Possessive Adjectives](https://www.lawlessfrench.com/grammar/possessive-adjectives/): In-depth guide with audio examples and interactive quizzes.
-- [Français avec Pierre — La Famille en Français](https://www.francaisavecpierre.com/la-famille-en-francais/): Clear video lesson covering all immediate and extended family vocabulary.
-- [Immigration, Réfugiés et Citoyenneté Canada (IRCC) — Définition de conjoint de fait](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/parrainer-membre-famille/epoux-partenaire-enfant.html): Official legal criteria for common-law status in Canada.
+- [Français avec Pierre — Le vocabulaire de la famille](https://www.youtube.com/watch?v=s2_j1q03J8g): Clear video lesson covering all immediate and extended family vocabulary with authentic pronunciation.
+- [Vitrine linguistique (OQLF Québec) — Conjoint de fait](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Official Canadian linguistic and administrative definition of common-law union.

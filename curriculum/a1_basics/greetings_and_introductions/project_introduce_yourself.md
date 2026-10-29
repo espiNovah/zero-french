@@ -12,7 +12,7 @@ Before recording, ensure you have the necessary setup ready:
 
 - **Audio Recording Tool**: Use your smartphone's built-in voice recorder, your computer's audio app, or a free browser-based tool such as [Vocaroo](https://vocaroo.com/).
 - **Countdown Timer**: A physical timer or phone stopwatch set to **2 minutes (120 seconds)**.
-- **Reference Review**: Review the phrases and registers taught in [Greetings and Politeness](#/lessons/a1-basics/greetings-and-politeness).
+- **Reference Review**: Review the phrases and registers taught in [Greetings and Politeness](#/lessons/a1-basics/greetings-and-politeness) and the verb conjugations and identity forms in [Personal Identity and Essential Verbs](#/lessons/a1-basics/personal-identity-and-verbs).
 - **Physical Environment**: Choose a quiet room with minimal background echo to simulate testing room conditions.
 
 ### Assignment

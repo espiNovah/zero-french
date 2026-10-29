@@ -216,7 +216,7 @@ Notice the difference between **jour** (a point in time: *bonjour*) and **journ�
 | :--- | :--- | :--- | :--- |
 | **Au revoir** | /o ʁə.vwaʁ/ | Goodbye | Universal standard; appropriate in every context |
 | **Bonne journée** | /bɔn ʒuʁ.ne/ | Have a good day | Polite daytime departure |
-| **Bonne soirée** | /bɔn swaʁ.e/ | Have a good evening | Polite evening departure |
+| **Bonne soirée** | /bɔn swa.ʁe/ | Have a good evening | Polite evening departure |
 | **Bonne nuit** | /bɔn nɥi/ | Good night | Exclusively before going to sleep |
 | **À bientôt** | /a bjɛ̃.to/ | See you soon | Neutral; implies seeing each other soon |
 | **À demain** | /a də.mɛ̃/ | See you tomorrow | Specific to seeing someone the next day |
@@ -325,4 +325,4 @@ This section contains helpful links to related content. It isn't required, so co
 
 - [Lawless French — Greetings & Politeness](https://www.lawlessfrench.com/vocabulary/greetings/): Comprehensive breakdown of French formal etiquette with audio recordings of every phrase.
 - [Français avec Pierre — Tu ou Vous ?](https://www.francaisavecpierre.com/tu-ou-vous/): Detailed video explanation and cultural guidance on when French natives transition from formal to informal address.
-- [Radio-Canada — Guide des formules de politesse](https://ici.radio-canada.ca/): Clear guide on Canadian French administrative and everyday greeting conventions.
+- [Vitrine linguistique (OQLF Québec) — Formules de politesse et salutations](https://vitrinelinguistique.oqlf.gouv.qc.ca/banque-de-depannage-linguistique): Comprehensive guide from the Office québécois de la langue française on polite formulas and Canadian greeting etiquette.

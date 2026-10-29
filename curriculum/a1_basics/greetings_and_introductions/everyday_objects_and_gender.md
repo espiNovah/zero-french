@@ -22,7 +22,7 @@ This section contains a general overview of topics that you will learn in this l
 
 In French, there is no neuter pronoun like "it." Every noun is inherently either **masculine** (*le masculin*) or **feminine** (*le féminin*). 
 
-This gender has nothing to do with biological sex or physical properties. A necktie (*la cravate*) is feminine, while a dress (*une robe*) is masculine in history though worn by women. The word for person (*la personne*) is always feminine, even when referring to a man, while the word for mannequin (*le mannequin*) is masculine.
+This gender has nothing to do with biological sex or physical properties. A necktie (*la cravate*) is feminine though traditionally worn by men, while a suit (*un costume*) is masculine. The word for person (*la personne*) is always feminine, even when referring to a man, while the word for mannequin (*le mannequin*) is masculine.
 
 Because gender is an inseparable property of each noun, you must adopt the golden habit of language acquisition: **never memorize a French noun alone.** Always learn every noun accompanied by its article:
 
@@ -271,5 +271,5 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Lawless French — Definite vs Indefinite Articles](https://www.lawlessfrench.com/grammar/articles/): Comprehensive guide with audio examples and exercises.
-- [Français avec Pierre — Le Genre des Noms](https://www.francaisavecpierre.com/le-genre-des-mots-en-francais/): Detailed video guide on how to guess noun gender using suffix patterns.
+- [Français avec Pierre — Le Genre des Noms](https://www.francaisavecpierre.com/le-genre-en-francais/): Detailed video guide on how to guess noun gender using suffix patterns.
 - [Office québécois de la langue française (OQLF) — Le grand dictionnaire terminologique](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian database for official French terminology (*courriel*, *cellulaire*).

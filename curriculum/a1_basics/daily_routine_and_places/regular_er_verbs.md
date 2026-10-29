@@ -167,7 +167,7 @@ Be careful when a Canadian asks: *"On mange ensemble pour le dîner ?"* In Québ
 
 Let us assemble these elements into a cohesive A1 daily routine narrative:
 
-> **Tous les jours, je commence ma journée vers sept heures. Je prépare le déjeuner et j'écoute les nouvelles à la radio. À huit heures et demie, je voyage en métro pour aller au bureau. Je travaille comme analyste et je termine ma journée à dix-sept heures. Le soir, je cuisine avec ma conjointe et nous regardons une série. Je me couche vers vingt-deux heures.**
+> **Tous les jours, je commence ma journée vers sept heures. Je prépare le déjeuner et j'écoute les nouvelles à la radio. À huit heures et demie, j'utilise le métro pour aller au bureau. Je travaille comme analyste et je termine ma journée à dix-sept heures. Le soir, je cuisine avec ma conjointe et nous regardons une série. Je me couche vers vingt-deux heures.**
 
 Notice the progression: temporal marker (*Tous les jours*) → actions with regular *-er* verbs (*commence*, *prépare*, *écoute*, *termine*, *cuisine*, *regardons*) → clear chronological sequencing. This is the exact structure rewarded in TCF Writing Task 1.
 
@@ -250,12 +250,12 @@ The following questions are an opportunity to reflect on key topics in this less
 - [How is the 3rd person plural verb ending -ent pronounced on a conjugated verb?](#the-six-endings-and-the-silent-pronunciation-rule)
 - [Where do frequency adverbs like toujours and souvent typically go in a French sentence?](#frequency-adverbs-and-structuring-routine-schedules)
 - [What is the difference between le déjeuner and le dîner in Québec versus France?](#mealtime-terminology-quebec-vs-france-conventions)
-- [How does knowing regular -er verbs help you maximize points on TCF Writing Task 1?](#mealtime-terminology-quebec-vs-france-conventions)
+- [How does knowing regular -er verbs help you maximize points on TCF Writing Task 1?](#a-complete-daily-routine-narrative)
 
 ### Additional resources
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Lawless French — Regular -ER Verbs](https://www.lawlessfrench.com/grammar/regular-er-verbs/): Complete conjugation rules, audio pronunciations, and quizzes.
-- [Français avec Pierre — La Journée Type d'un Français](https://www.francaisavecpierre.com/la-journee-type-d-un-francais/): Video walkthrough of authentic daily routines with subtitles.
+- [Français avec Pierre — Raconter sa journée en français](https://www.francaisavecpierre.com/raconter-sa-journee-en-francais/): Video walkthrough of authentic daily routines with subtitles.
 - [TV5Monde — Parler de sa routine quotidienne (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant): Free interactive exercises on routine verbs and time expressions.
