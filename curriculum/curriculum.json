@@ -218,6 +218,50 @@
               "title": "Apartment Features, Real Estate Ads, and Rental Terms",
               "description": "Read classified real estate ads, decode abbreviations (rdc, asc., sdb, cc), and master European versus Canadian room sizing systems (1½ to 5½).",
               "file": "a2_survival/housing_and_transit/apartment_features_and_ads.md"
+            },
+            {
+              "id": "imparfait-descriptions-habits",
+              "title": "Imparfait: Descriptions, States, and Past Habits",
+              "description": "Form the imperfect tense using the regular nous stem, master the irregular être stem (ét-), and describe past settings, weather, and routines.",
+              "file": "a2_survival/housing_and_transit/imparfait_descriptions_habits.md"
+            },
+            {
+              "id": "object-pronouns-direct-indirect",
+              "title": "Direct and Indirect Object Pronouns: Le, La, Les, Lui, Leur",
+              "description": "Replace repeated nouns using direct pronouns (le, la, les) and indirect pronouns (lui, leur) and master pronoun placement before verbs and auxiliaries.",
+              "file": "a2_survival/housing_and_transit/object_pronouns_direct_indirect.md"
+            },
+            {
+              "id": "formal-questioning-techniques",
+              "title": "Formal Questioning Techniques: Inversion, Est-ce que, and Indirect Openers",
+              "description": "Master subject-verb inversion, euphonic -t- insertion, complex noun inversion, and polite indirect question openers for TCF Speaking Task 2.",
+              "file": "a2_survival/housing_and_transit/formal_questioning_techniques.md"
+            },
+            {
+              "id": "project-apartment-inquiry-roleplay",
+              "title": "Project: Apartment Inquiry Roleplay",
+              "description": "Lead a 3.5-minute unscripted telephone inquiry roleplay asking 8–10 formal questions to a landlord under TCF Speaking Task 2 conditions.",
+              "file": "a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "work-and-daily-life",
+          "title": "Work & Daily Life",
+          "description": "Describe professional duties, work schedules, job titles, and contrast compound past and imperfect tenses in workplace narratives.",
+          "lessons": [
+            {
+              "id": "professions-and-workplace-tasks",
+              "title": "Professions, Job Titles, and Workplace Tasks",
+              "description": "Master Canadian gender-inclusive job titles, action verbs for workplace responsibilities (gérer, rédiger, animer), schedules, and telework.",
+              "file": "a2_survival/work_and_daily_life/professions_and_workplace_tasks.md"
+            },
+            {
+              "id": "passe-compose-vs-imparfait",
+              "title": "Passé Composé vs Imparfait: Backdrop vs Event",
+              "description": "Master the defining contrast of French past narration: continuous descriptive backdrops (imparfait) versus completed punctual events (passé composé).",
+              "file": "a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md"
             }
           ]
         }

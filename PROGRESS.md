@@ -39,20 +39,25 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons — All 26 Current Lessons Reviewed)
+## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 14–16 / Path 01 Batches 4–6)
 
-All written lessons across Path 00 and the first two sections of Path 01 have passed complete editorial, linguistic, and technical review.
+**Running Batches Completed**: 16 (Cycle Batch 3 of 3 complete — Ready for Independent Review!)
 
 | Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| — | None currently | — | — | — | — |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/imparfait_descriptions_habits.md` | done | 2,749 | None (imparfait regular nous stem & habits verified) | Podcast Français Facile (grammar drill) |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/object_pronouns_direct_indirect.md` | done | 2,785 | None (COD/COI placement & non-gendered lui/leur verified) | Podcast Français Facile (audio dialogue) |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/formal_questioning_techniques.md` | done | 2,696 | None (inversion, euphonic -t- & indirect questions verified) | Podcast Français Facile (audio drill) |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md` | done | 1,486 | None (TCF Speaking Task 2 roleplay format & FEI rubric verified) | Vocaroo (online audio recorder) |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md` | done | 2,097 | None (OQLF feminine job titles & active duties verified) | Radio-Canada (careers portal) |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md` | done | 2,598 | None (cinematic model, triggers & meaning-shift verbs verified) | Podcast Français Facile (narrative drill) |
 
 ---
 
 ## 3. Curriculum Pipeline (Upcoming — Path 01: A2 Survival French)
 
-- `curriculum/a2_survival/housing_and_transit/imparfait_descriptions_habits.md` (Next batch: 1 of 2)
-- `curriculum/a2_survival/housing_and_transit/object_pronouns_direct_indirect.md` (Next batch: 2 of 2)
-- `curriculum/a2_survival/housing_and_transit/formal_questioning_techniques.md`
-- `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md`
-- `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md`
+- `curriculum/a2_survival/work_and_daily_life/futur_proche_and_simple.md` (Next batch: 1 of 2)
+- `curriculum/a2_survival/work_and_daily_life/comparisons_and_superlatives.md` (Next batch: 2 of 2)
+- `curriculum/a2_survival/work_and_daily_life/project_career_profile_and_goals.md`
+- `curriculum/a2_survival/health_and_public_services/medical_symptoms_and_advice.md`
+- `curriculum/a2_survival/health_and_public_services/pronouns_y_and_en.md`
