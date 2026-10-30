@@ -455,6 +455,59 @@
               "title": "Canadian Immigration and Integration: Systems, Regions, and Society",
               "description": "Navigate Canadian and Quebec immigration structures (IRCC, MIFI, Express Entry, CSQ), analyze regionalization policies, and debate integration models.",
               "file": "b1_independent/canadian_realities/canadian_immigration_integration.md"
+            },
+            {
+              "id": "quebec-lexicon-and-phonology",
+              "title": "Quebec French Lexicon and Phonology: Everyday Terms, Affrication, and Registers",
+              "description": "Master distinct Canadian French vocabulary (courriel, fin de semaine, char), decode affrication ([ts], [dz]) and vowel shifts, and navigate formal vs colloquial registers.",
+              "file": "b1_independent/canadian_realities/quebec_lexicon_and_phonology.md"
+            },
+            {
+              "id": "discourse-connectors-b1",
+              "title": "B1 Discourse Connectors and Logical Articulators: Building Textual Cohesion",
+              "description": "Master structured discourse markers (en premier lieu, d'une part, néanmoins, par conséquent, ainsi), avoid false traps, and construct coherent paragraphs.",
+              "file": "b1_independent/canadian_realities/discourse_connectors_b1.md"
+            },
+            {
+              "id": "tcf-b1-listening-reading-tactics",
+              "title": "TCF Canada B1 Listening and Reading Tactics: Mastering Items 1 to 25",
+              "description": "Master single-play listening protocols, reading pacing grids, and binary elimination strategies to achieve near-perfect accuracy on items 1 to 25.",
+              "file": "b1_independent/canadian_realities/tcf_b1_listening_reading_tactics.md"
+            },
+            {
+              "id": "project-b1-milestone-mock",
+              "title": "Project: B1 Milestone Mock Examination",
+              "description": "Complete a full 4-part B1 milestone mock exam evaluating listening (25 items), reading (25 items), writing (Tasks 1 & 2), and speaking (Tasks 1, 2, 3) under official TCF Canada conditions.",
+              "file": "b1_independent/canadian_realities/project_b1_milestone_mock.md",
+              "project": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-advanced",
+      "title": "B2 Advanced French",
+      "hours": 200,
+      "optional": false,
+      "description": "Master nuanced argumentation, dialectical synthesis, complex radio debates, administrative nominalization, and advanced exam tactics for NCLC 7+.",
+      "sections": [
+        {
+          "id": "argumentation-mastery",
+          "title": "Argumentation Mastery",
+          "description": "Structure persuasive dialectical essays, elevate stylistic register through nominalization, and master advanced rhetorical strategies.",
+          "lessons": [
+            {
+              "id": "structuring-persuasive-essays",
+              "title": "Structuring Persuasive Essays at B2: Problem Statements, Dialectical Plans, and Formal Synthesis",
+              "description": "Master tripartite dialectical plans (thèse, antithèse, synthèse), formulate precise problem statements, and execute concessive counterargument refutations.",
+              "file": "b2_advanced/argumentation_mastery/structuring_persuasive_essays.md"
+            },
+            {
+              "id": "nominalization-and-formality",
+              "title": "Nominalization and Register Elevation: Administrative and Academic Style",
+              "description": "Elevate conversational verbal structures into formal nominal phrases, master suffixation paradigms, and achieve high informational density.",
+              "file": "b2_advanced/argumentation_mastery/nominalization_and_formality.md"
             }
           ]
         }

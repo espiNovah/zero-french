@@ -69,20 +69,26 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons currently awaiting review)
+## 2. Drafted Lessons Awaiting Review (6 lessons currently awaiting review)
 
-All drafted lessons through Canadian Realities (Part 1) have been reviewed, verified against `WRITER_BRIEF.md`, and published.
+| Date Drafted | File | Words | Review Status | Notes & Flags |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/quebec_lexicon_and_phonology.md` | 2,742 | Drafted | Quebec lexicon (courriel, fin de semaine, char), affrication [ts]/[dz] & register awareness |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/discourse_connectors_b1.md` | 2,868 | Drafted | B1 discourse connectors, taxonomy, cause/consequence & concession mechanics |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/tcf_b1_listening_reading_tactics.md` | 2,827 | Drafted | TCF items 1–25 tactics, single-play protocol, reading pacing grid & distractor traps |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/project_b1_milestone_mock.md` | 2,473 | Drafted | Full 4-part B1 milestone mock (CO 25 items, CE 25 items, EE Tasks 1 & 2, EO Tasks 1, 2, 3) |
+| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/structuring_persuasive_essays.md` | 2,203 | Drafted | B2 dialectical plans (thèse, antithèse, synthèse), problématique & concessive refutations |
+| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/nominalization_and_formality.md` | 2,214 | Drafted | Verbal and deadjectival nominalization, administrative register & syntactic transpositions |
 
 ---
 
-## 3. Curriculum Pipeline (Upcoming — Path 02: B1 Independent French)
+## 3. Curriculum Pipeline (Upcoming — Path 03: B2 Advanced French)
 
-- `curriculum/b1_independent/canadian_realities/quebec_lexicon_and_phonology.md` (Next batch: 1 of 2)
-- `curriculum/b1_independent/canadian_realities/francophone_cultures_and_indigenous_realities.md` (Next batch: 2 of 2)
-- `curriculum/b1_independent/canadian_realities/project_canadian_societal_debate.md`
-- `curriculum/b1_independent/b1_capstone_mock/tcf_b1_listening_comprehension_mastery.md`
-- `curriculum/b1_independent/b1_capstone_mock/tcf_b1_reading_synthesis_mastery.md`
-- `curriculum/b1_independent/b1_capstone_mock/project_b1_milestone_mock.md`
+- `curriculum/b2_advanced/argumentation_mastery/advanced_logical_articulators.md` (Next batch: 1 of 2)
+- `curriculum/b2_advanced/argumentation_mastery/nuance_and_modalization.md` (Next batch: 2 of 2)
+- `curriculum/b2_advanced/argumentation_mastery/project_writing_task3_foundations.md`
+- `curriculum/b2_advanced/complex_audio_and_voices/decoding_rapid_spontaneous_speech.md`
+- `curriculum/b2_advanced/complex_audio_and_voices/radiocanada_podcasts_analysis.md`
 
 
 
