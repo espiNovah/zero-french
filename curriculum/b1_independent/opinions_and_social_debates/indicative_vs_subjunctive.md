@@ -264,7 +264,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Subjonctif ou Indicatif : comment choisir](https://www.podcastfrancaisfacile.com/grammaire/subjonctif-ou-indicatif.html): Clear grammatical rules, side-by-side comparison tables, and self-scoring tests.
-- [Français avec Pierre — Indicatif ou Subjonctif en français](https://www.francaisavecpierre.com/): Video tutorial highlighting the most common traps (*espérer*, *après que*, *il est probable que*).
-- [Podcast Français Facile — Exercice subjonctif ou indicatif](https://www.podcastfrancaisfacile.com/exercices/exercice-subjonctif-ou-indicatif.html): Interactive drill testing verb mood selection in varied contexts.
+- [Podcast Français Facile — Le subjonctif présent : règles et emplois](https://www.podcastfrancaisfacile.com/grammaire/subjonctif.html): Clear grammatical rules, side-by-side comparison tables, and explanations of indicative vs subjunctive.
+- [Podcast Français Facile — Cours complet sur le subjonctif](https://www.podcastfrancaisfacile.com/cours/subjonctif.html): Comprehensive tutorial contrasting factual certainty with modal doubt, emotion, and necessity.
+- [Podcast Français Facile — Exercices au subjonctif présent](https://www.podcastfrancaisfacile.com/exercices/subjonctif-present.html): Interactive drill testing verb mood selection in varied communicative contexts.
 - [Vitrine linguistique (OQLF) — Indicatif ou subjonctif après certaines locutions](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian guide on mood selection following conjunctions and impersonal verbs.

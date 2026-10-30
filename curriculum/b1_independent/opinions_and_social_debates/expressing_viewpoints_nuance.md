@@ -277,7 +277,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Exprimer son opinion en français](https://www.podcastfrancaisfacile.com/vocabulaire/exprimer-son-opinion.html): Comprehensive vocabulary lists, audio examples, and interactive exercises for expressing opinions.
-- [Français avec Pierre — Donner son avis et argumenter en français](https://www.francaisavecpierre.com/): Practical video tutorials breaking down debate markers, connectors, and DELF/TCF exam strategies.
+- [Podcast Français Facile — Donner son opinion](https://www.podcastfrancaisfacile.com/cours/donner-son-opinion.html): Clear grammatical explanations, audio examples, and intermediate exercises for expressing points of view.
+- [Podcast Français Facile — Donner son avis au travail](https://www.podcastfrancaisfacile.com/francais-des-affaires/donner-son-avis.html): Professional debate markers, workplace meeting dialogues, and formal disagreement expressions.
 - [Radio-Canada — Chroniques et débats d'opinion](https://ici.radio-canada.ca/): Authentic Canadian editorial columns, opinion essays, and public debates.
 - [Vitrine linguistique (OQLF) — Les marqueurs de relation et connecteurs logiques](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian guide on discourse articulators, argumentation, and text cohesion.

@@ -288,7 +288,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Le subjonctif présent : cours et formation](https://www.podcastfrancaisfacile.com/grammaire/subjonctif-present-cours.html): Comprehensive guide detailing regular stems, irregular roots, and conjugation charts.
-- [Podcast Français Facile — Les verbes irréguliers au subjonctif](https://www.podcastfrancaisfacile.com/grammaire/subjonctif-irregulier.html): Targeted audio drills and exercises for *être, avoir, faire, aller, pouvoir, savoir*.
-- [Français avec Pierre — Le subjonctif en français : tout comprendre](https://www.francaisavecpierre.com/): Comprehensive video tutorial detailing triggers, psychological moods, and common traps.
+- [Podcast Français Facile — Le subjonctif présent : leçon et emplois](https://www.podcastfrancaisfacile.com/cours/subjonctif-present.html): Comprehensive grammatical lesson with audio models, triggers, and practical examples.
+- [Podcast Français Facile — Formation du subjonctif présent](https://www.podcastfrancaisfacile.com/grammaire/subjonctif-present.html): Detailed conjugation breakdown for regular stems, dual-base verbs, and irregular roots.
+- [Podcast Français Facile — Exercices au subjonctif présent](https://www.podcastfrancaisfacile.com/exercices/subjonctif-present.html): Interactive exercises testing stem conjugation and trigger identification.
 - [Vitrine linguistique (OQLF) — Emploi du subjonctif](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian linguistic portal on subjunctive syntax, subordinate clauses, and stylistic usage.

@@ -256,6 +256,6 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Podcast Français Facile — L'expression de la concession cours et exercices](https://www.podcastfrancaisfacile.com/grammaire/la-concession.html): Clear grammatical explanations, audio examples, and interactive exercises on concession.
-- [Français avec Pierre — L'opposition et la concession en français](https://www.francaisavecpierre.com/): Comprehensive video tutorial detailing *bien que*, *même si*, *avoir beau*, and debate connectors.
+- [France Éducation international — TCF Canada](https://www.france-education-international.fr/test-de-connaissance-du-francais): Official evaluation standards and descriptor rubrics for argumentative structure, nuance, and logical articulators.
 - [Podcast Français Facile — Connecteurs logiques d'opposition et concession](https://www.podcastfrancaisfacile.com/grammaire/connecteurs-logiques.html): Vocabulary lists and practical exercises on logical articulators.
 - [Vitrine linguistique (OQLF) — Exprimer la concession et l'opposition](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian linguistic portal on argumentative syntax and discourse markers.

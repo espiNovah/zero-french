@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (44 lessons — Path 00 & Path 01 100% Complete, Path 02 underway!)
+## 1. Reviewed Lessons (50 lessons — Path 00 & Path 01 100% Complete, Path 02: 10 lessons completed!)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -54,19 +54,18 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/si_clauses_structures_1_2.md` | 2,571 | **Reviewed** | Verified 200 OK si-clause & hypothesis audio dialogue URLs applied |
 | 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/workplace_negotiation_disputes.md` | 2,863 | **Reviewed** | CNESST bot blocker added; verified 200 OK interview & Quebec employment URLs applied |
 | 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/tcf_speaking_task2_negotiation.md` | 2,611 | **Reviewed** | Verified 200 OK FEI TCF speaking & conditional dialogue URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md` | 2,124 | **Reviewed** | TCF Writing Task 2 formal letter (120–150 words), FEI 20-point rubric & benchmarks verified |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md` | 2,771 | **Reviewed** | Subjective/objective markers verified; verified 200 OK PFF opinion & workplace debate URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md` | 3,220 | **Reviewed** | Subjunctive stems & trigger categories verified; verified 200 OK PFF lesson & exercises URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md` | 2,840 | **Reviewed** | Polarity shifts & trigger traps verified; verified 200 OK PFF rules & FEI TCF portal URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md` | 2,696 | **Reviewed** | Concession mechanics & dialectical markers verified; verified 200 OK FEI TCF evaluation portal applied |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md` | 2,326 | **Reviewed** | TCF Speaking Task 3 unscripted 4.5m monologue, FEI rubric, 458-word benchmark & Vocaroo tool verified |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 1, 2 & 3 of 3)
+## 2. Drafted Lessons Awaiting Review (0 lessons currently awaiting review)
 
-| Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md` | done | 2,124 | None (FEI 120-150 word count rules, conditional diplomacy & compromise verified) | Vocaroo (oral recorder) |
-| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md` | done | 2,771 | None (subjective/objective markers, certainty scale & concessions verified) | Radio-Canada (chroniques) |
-| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md` | done | 3,220 | None (regular/dual stems, 8 irregulars, obligation/will/emotion triggers verified) | Podcast Français Facile (subjonctif) |
-| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md` | done | 2,840 | None (fact vs perception, espérer/après que traps, polarity shifts verified) | Français avec Pierre (indicatif vs subjonctif) |
-| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md` | done | 2,696 | None (opposition vs concession, bien que/quoique, même si & certes... mais verified) | Podcast Français Facile (concession) |
-| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md` | done | 2,326 | None (4.5m unscripted monologue, FEI rubrics & dialectical telework model verified) | Vocaroo (oral recorder) |
+All drafted lessons through Path 02 *Opinions & Social Debates* have been reviewed, verified against `WRITER_BRIEF.md`, and published.
 
 ---
 
