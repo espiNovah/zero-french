@@ -135,7 +135,7 @@ Atmospheric conditions ongoing in the past are naturally expressed with the impa
 > **Il faisait très froid et il neigeait doucement.** — /il fə.zɛ tʁɛ fʁwa e il nɛ.ʒɛ dus.mɑ̃/  
 > *It was very cold and it was snowing softly.*
 
-> **Il y avait beaucoup de vent sur le pont Jacques-Cartier.** — /i.l‿i.j‿a.vɛ bo.ku də vɑ̃ syʁ lə pɔ̃ ʒak kaʁ.tje/  
+> **Il y avait beaucoup de vent sur le pont Jacques-Cartier.** — /il j‿a.vɛ bo.ku də vɑ̃ syʁ lə pɔ̃ ʒak kaʁ.tje/  
 > *There was a lot of wind on the Jacques Cartier Bridge.*
 
 ### Past habits, routines, and repeated actions
@@ -222,15 +222,15 @@ During the 10-second preview window for Listening items, check whether the quest
    - *être habitué à* (/ɛtʁ a.bi.tɥe a/) — to be accustomed to
    - *le logement était...* (/lə lɔʒ.mɑ̃ e.tɛ/) — the accommodation was...
    - *il faisait beau/froid* (/il fə.zɛ bo / fʁwa/) — the weather was nice/cold
-   - *il y avait* (/i.l‿i.j‿a.vɛ/) — there was / there were
+   - *il y avait* (/il j‿a.vɛ/) — there was / there were
    - *j'avais l'intention de...* (/ʒ‿a.vɛ l‿ɛ̃.tɑ̃.sjɔ̃ də/) — I intended to...
    - *chaque fin de semaine* **(QC)** (/ʃak fɛ̃ də səmɛn/) — every weekend
    - *les voisins étaient...* (/le vwa.zɛ̃.z‿e.tɛ/) — the neighbors were...
-   - *spacieux / lumineuse* (/spa.sjø / ly.mi.nøz/) — spacious / bright
+   - *spacieux / spacieuse* (/spa.sjø / spa.sjøz/) — spacious
    - *calme et sécurisé* (/kalm e se.ky.ʁi.ze/) — quiet and secure
 
 3. **Step 3: Receptive Reading Practice**  
-   Read a short nostalgic or descriptive text on [Podcast Français Facile — L'imparfait description et habitudes](https://www.podcastfrancaisfacile.com/grammaire/imparfait-formation.html).  
+   Read a short nostalgic or descriptive text on [Podcast Français Facile — L'imparfait en contexte](https://www.podcastfrancaisfacile.com/grammaire/imparfait.html).  
    - Read the story aloud, paying close attention to clean pronunciation of the *-ais, -ait, -aient* endings (/ɛ/).
    - Identify every verb in the imparfait and determine whether it describes a physical scene, a psychological state, or a repeated routine.
 
@@ -259,6 +259,6 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Français avec Pierre — L'imparfait en français](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Clear pedagogical video breakdown on the formation, pronunciation, and primary uses of the imperfect tense.
-- [Podcast Français Facile — Formation de l'imparfait](https://www.podcastfrancaisfacile.com/grammaire/imparfait-formation.html): Audio drills, conjugation charts, and interactive self-scoring exercises.
+- [Français avec Pierre — L'imparfait en français](https://www.francaisavecpierre.com/imparfait/): Clear pedagogical video breakdown on the formation, pronunciation, and primary uses of the imperfect tense.
+- [Podcast Français Facile — Formation de l'imparfait](https://www.podcastfrancaisfacile.com/grammaire/imparfait.html): Audio drills, conjugation charts, and interactive self-scoring exercises.
 - [OQLF Vitrine linguistique — L'imparfait de l'indicatif](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Québec's authoritative linguistic reference for grammatical aspects, temporal values, and usage rules.

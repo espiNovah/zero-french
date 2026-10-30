@@ -71,7 +71,7 @@ The most common narrative construction in French combines both tenses in a singl
 [Action in progress in the IMPARFAIT] + quand / lorsque / soudain + [Interruption in the PASSÉ COMPOSÉ]
 ```
 
-> **Je dormais profondément quand le réveille-matin a sonné.** — /ʒə dɔʁ.mɛ pʁɔ.fɔ̃.de.mɑ̃ kɑ̃ lə ʁe.vɛj ma.tɛ̃ a sɔ.ne/  
+> **Je dormais profondément quand le réveil-matin a sonné.** — /ʒə dɔʁ.mɛ pʁɔ.fɔ̃.de.mɑ̃ kɑ̃ lə ʁe.vɛj ma.tɛ̃ a sɔ.ne/  
 > *I was sleeping deeply when the alarm clock went off.*  
 > (*Dormais* = ongoing background; *a sonné* = punctual interruption).
 
@@ -208,7 +208,7 @@ This dual-layer structure guarantees variety, satisfies the FEI narrative cohere
    - *pendant que je travaillais* (/pɑ̃.dɑ̃ kə ʒə tʁa.va.jɛ/) — while I was working (backdrop)
 
 3. **Step 3: Receptive Reading Practice**  
-   Read a short anecdote or immigration story on [Podcast Français Facile — Passé composé et imparfait en contexte](https://www.podcastfrancaisfacile.com/grammaire/passe-compose-ou-imparfait.html).  
+   Read a short anecdote or immigration story on [Podcast Français Facile — Passé composé et imparfait en contexte](https://www.podcastfrancaisfacile.com/dialogue/passe-compose-imparfait.html).  
    - Identify every verb in the text and label it as either **Backdrop (Imparfait)** or **Event (Passé composé)**.
    - Explain why the author chose that specific tense for each verb.
 
@@ -238,6 +238,5 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Français avec Pierre — Passé composé ou Imparfait ?](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Essential video tutorial detailing the golden rules, practical examples, and common traps when choosing between past tenses.
-- [Podcast Français Facile — Passé composé ou Imparfait](https://www.podcastfrancaisfacile.com/grammaire/passe-compose-ou-imparfait.html): Audio stories, exercises, and interactive quizzes for contrasting compound past and imperfect tenses.
+- [Podcast Français Facile — Passé composé et imparfait en dialogue](https://www.podcastfrancaisfacile.com/dialogue/passe-compose-imparfait.html): Audio stories, text dialogues, exercises, and interactive quizzes for contrasting compound past and imperfect tenses.
 - [OQLF Vitrine linguistique — Emploi du passé composé et de l'imparfait](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian grammatical reference explaining aspectual differences and narrative harmony in French.

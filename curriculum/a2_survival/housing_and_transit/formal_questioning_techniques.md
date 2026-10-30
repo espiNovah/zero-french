@@ -167,7 +167,7 @@ However, in any **administrative, legal, or housing transaction**, and especiall
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: The 7-Question Generation Grid for Speaking Task 2
+#### Exam tip: The 6-Point Question Generation Grid for Speaking Task 2
 
 During your **2 minutes of preparation time** for TCF Speaking Task 2, you are given a blank sheet of scrap paper. Do not write full sentences (you will run out of time!).
 
@@ -222,7 +222,7 @@ This grid guarantees that you will never run out of questions during the 3.5-min
    - *quelle est la date de...* (/kɛl ɛ la dat də/) — what is the date of...
    - *quels sont les services...* (/kɛl sɔ̃ le sɛʁ.vis/) — what are the services...
    - *quelles sont les conditions...* (/kɛl sɔ̃ le kɔ̃.di.sjɔ̃/) — what are the conditions...
-   - *y a-t-il un...* (/i.l‿i.j‿a.t‿il œ̃/) — is there a... (inverted)
+   - *y a-t-il un...* (/j‿a.t‿il œ̃/) — is there a... (inverted)
    - *le logement comprend-il...* (/lə lɔʒ.mɑ̃ kɔ̃.pʁɑ̃.t‿il/) — does the dwelling include...
    - *est-il possible de visiter...* (/ɛ.t‿il pɔ.sibl də vi.zi.te/) — is it possible to visit...
    - *je vous remercie pour ces précisions* (/ʒə vu ʁə.mɛʁ.si puʁ se pʁe.si.zjɔ̃/) — thank you for these clarifications
@@ -255,6 +255,5 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Français avec Pierre — Poser des questions en français](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Comprehensive video tutorial covering all three question registers, euphonic rules, and inversion traps.
-- [Podcast Français Facile — L'interrogation formelle](https://www.podcastfrancaisfacile.com/grammaire/interrogation-totale-partielle.html): Grammar lessons and audio pronunciation drills for inverted and indirect questions.
+- [Podcast Français Facile — L'interrogation en français](https://www.podcastfrancaisfacile.com/cours/interrogation.html): Grammar lessons, audio pronunciation drills, and quizzes for inverted and indirect questions.
 - [TV5Monde — Entraînement TCF Expression orale](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire): Official practice materials and simulated examiner interactions for TCF Speaking Tasks.

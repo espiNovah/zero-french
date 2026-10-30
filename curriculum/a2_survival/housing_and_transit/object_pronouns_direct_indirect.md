@@ -44,7 +44,7 @@ The French direct object pronouns correspond to English *me, you, him, her, it, 
 
 Notice that before a verb beginning with a vowel or silent *h*, **me, te, le,** and **la** elide to **m', t',** and **l'**:
 - *Je regarde l'appartement.* → *Je **l'**aime beaucoup.* (/ʒə l‿ɛm bo.ku/)
-- *Il écoute la radio.* → *Il **l'**écoute tous les soirs.* (/i.l‿l‿e.kut tu le swaʁ/)
+- *Il écoute la radio.* → *Il **l'**écoute tous les soirs.* (/il l‿e.kut tu le swaʁ/)
 
 ### Indirect object pronouns: replacing people introduced by the preposition a
 
@@ -230,7 +230,7 @@ Using **le**, **la**, and **me** transforms your speech from robotic A1 queries 
    - *je ne le connais pas* (/ʒə nə lə kɔ.nɛ pa/) — I don't know it/him
 
 3. **Step 3: Receptive Audio Dialogue Practice**  
-   Listen to a short rental inquiry dialogue on [Podcast Français Facile — Pronoms compléments directs et indirects](https://www.podcastfrancaisfacile.com/grammaire/pronoms-personnels-cod-coi.html).  
+   Listen to a short rental inquiry dialogue on [Podcast Français Facile — Pronoms compléments directs (COD)](https://www.podcastfrancaisfacile.com/grammaire/pronoms-cod.html).  
    - Listen to the conversation and note down every instance where *le, la, l', les, lui,* and *leur* are used.
    - For each pronoun, identify the exact noun it replaced earlier in the dialogue.
 
@@ -258,6 +258,6 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Français avec Pierre — Les pronoms COD et COI](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Clear pedagogical video lesson explaining the difference between direct and indirect object pronouns with memory shortcuts.
-- [Podcast Français Facile — Pronoms personnels COD et COI](https://www.podcastfrancaisfacile.com/grammaire/pronoms-personnels-cod-coi.html): Audio drills, exercises, and diagnostic quizzes for mastering French pronouns.
+- [Podcast Français Facile — Les pronoms compléments d'objet direct (COD)](https://www.podcastfrancaisfacile.com/grammaire/pronoms-cod.html): Clear explanations, audio examples, and interactive self-scoring exercises.
+- [Podcast Français Facile — Les pronoms compléments d'objet indirect (COI)](https://www.podcastfrancaisfacile.com/grammaire/pronoms-coi.html): Audio drills, exercises, and diagnostic quizzes for mastering French indirect pronouns.
 - [OQLF Vitrine linguistique — Les pronoms compléments](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian grammatical reference outlining pronoun agreement, placement, and syntax.

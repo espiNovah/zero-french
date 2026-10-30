@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (26 lessons — Path 00 100% Complete & Path 01 Batches 1–3 Complete!)
+## 1. Reviewed Lessons (32 lessons — Path 00 100% Complete & Path 01 Batches 1–6 Complete!)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -36,21 +36,22 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-30 | `curriculum/a2_survival/past_narratives/tcf_listening_short_announcements.md` | 2,427 | **Reviewed** | Transit announcement URL corrected to authentic station podcast |
 | 2026-10-30 | `curriculum/a2_survival/past_narratives/project_past_vacation_recount.md` | 1,319 | **Reviewed** | Authentic liaison example (nous‿avons voyagé) applied; FEI rubrics verified |
 | 2026-10-30 | `curriculum/a2_survival/housing_and_transit/apartment_features_and_ads.md` | 2,578 | **Reviewed** | Québec 1½–5½ system; rental & agency URLs and TAL official link corrected |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/imparfait_descriptions_habits.md` | 2,748 | **Reviewed** | /il j‿a.vɛ/ IPA fix; adjective pair fix; verified 200 OK grammar URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/object_pronouns_direct_indirect.md` | 2,780 | **Reviewed** | /il l‿e.kut/ IPA tie fix; verified 200 OK COD/COI resource URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/formal_questioning_techniques.md` | 2,676 | **Reviewed** | 6-point grid heading alignment; /j‿a.t‿il/ IPA fix; verified interrogation URL applied |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md` | 1,486 | **Reviewed** | TCF Speaking Task 2 unscripted 3.5m roleplay & FEI rubric verified |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md` | 2,075 | **Reviewed** | Canadian OQLF feminized titles verified; authentic job interview URL applied |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md` | 2,575 | **Reviewed** | Réveil-matin spelling fix; verified 200 OK dialogue URLs applied |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 14–16 / Path 01 Batches 4–6)
+## 2. Drafted Lessons Awaiting Review (0 lessons — All 32 Current Lessons Reviewed)
 
-**Running Batches Completed**: 16 (Cycle Batch 3 of 3 complete — Ready for Independent Review!)
+All written lessons across Path 00 and Path 01 Batches 1–6 have passed complete editorial, linguistic, and technical review.
 
 | Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/imparfait_descriptions_habits.md` | done | 2,749 | None (imparfait regular nous stem & habits verified) | Podcast Français Facile (grammar drill) |
-| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/object_pronouns_direct_indirect.md` | done | 2,785 | None (COD/COI placement & non-gendered lui/leur verified) | Podcast Français Facile (audio dialogue) |
-| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/formal_questioning_techniques.md` | done | 2,696 | None (inversion, euphonic -t- & indirect questions verified) | Podcast Français Facile (audio drill) |
-| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md` | done | 1,486 | None (TCF Speaking Task 2 roleplay format & FEI rubric verified) | Vocaroo (online audio recorder) |
-| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md` | done | 2,097 | None (OQLF feminine job titles & active duties verified) | Radio-Canada (careers portal) |
-| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md` | done | 2,598 | None (cinematic model, triggers & meaning-shift verbs verified) | Podcast Français Facile (narrative drill) |
+| — | None currently | — | — | — | — |
 
 ---
 

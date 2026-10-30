@@ -194,6 +194,5 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Parler de son travail et de sa profession](https://www.podcastfrancaisfacile.com/podcast/parler-de-son-travail.html): Audio interviews, dialogues, and vocabulary drills for discussing professional careers and schedules.
-- [Français avec Pierre — Le vocabulaire du travail en français](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Video tutorial explaining professional French expressions, corporate communication, and workplace idioms.
-- [OQLF Vitrine linguistique — Féminisation des titres et vocabulaire du travail](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Official Québec database for gender-inclusive job titles and Canadian administrative terminology.
+- [Podcast Français Facile — Entretien d'embauche et vie professionnelle](https://www.podcastfrancaisfacile.com/dialogue/entretien-dembauche.html): Audio dialogues, transcripts, and vocabulary drills for discussing job responsibilities, skills, and schedules.
+- [OQLF Vitrine linguistique — Féminisation des titres et vocabulaire du travail](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Official Québec database for gender-inclusive job titles, professional terms, and Canadian administrative lexicon.
