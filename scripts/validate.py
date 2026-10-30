@@ -20,7 +20,7 @@ ANCHOR_LINK_RE = re.compile(r"\]\(#([a-z0-9-]+)\)")
 OUTLINE_MARK = "#### Outline lesson"
 PAGES = ("about.md", "tcf.md")  # standalone pages, not listed in curriculum.json
 # Sites that block automated requests but are known to exist.
-BOT_BLOCKERS = ("realpython.com", "openai.com", "medium.com", "coursera.org", "runestone.academy", "tv5monde.com", "rfi.fr")
+BOT_BLOCKERS = ("realpython.com", "openai.com", "medium.com", "coursera.org", "runestone.academy", "tv5monde.com", "rfi.fr", "ramq.gouv.qc.ca")
 
 
 def slug(text):

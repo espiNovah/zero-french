@@ -288,7 +288,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — À la poste : dialogue et vocabulaire](https://www.podcastfrancaisfacile.com/dialogue/a-la-poste.html): Realistic postal counter audio dialogue with comprehension questions.
-- [Podcast Français Facile — À la banque : ouvrir un compte](https://www.podcastfrancaisfacile.com/dialogue/a-la-banque-ouvrir-un-compte.html): Practical banking dialogue illustrating customer and clerk interactions.
-- [Français avec Pierre — Les formules de politesse en français](https://www.francaisavecpierre.com/): Video tutorial covering formal address and polite conditional requests.
+- [Podcast Français Facile — Dialogue à la poste](https://www.podcastfrancaisfacile.com/dialogue/dialogue-a-la-poste.html): Realistic postal counter audio dialogue with comprehension questions.
+- [Service-Public.fr — Ouvrir un compte bancaire et droit au compte](https://www.service-public.fr/particuliers/vosdroits/N358): Official French administrative guide on banking procedures, required identity documents, and rights.
+- [Vitrine linguistique (OQLF) — Correspondance et formules de politesse](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian guide on formal salutations, vouvoiement, and public service interactions.
 - [Services Québec — Accueil des citoyens](https://www.quebec.ca/services-quebec): Official Quebec portal detailing administrative desk procedures and public services.

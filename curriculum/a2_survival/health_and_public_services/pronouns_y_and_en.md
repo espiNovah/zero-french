@@ -331,7 +331,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Les pronoms Y et EN expliqués](https://www.podcastfrancaisfacile.com/grammaire/y-et-en.html): Clear explanations, audio examples, and interactive self-scoring exercises.
-- [Français avec Pierre — Le pronom Y en français](https://www.francaisavecpierre.com/): Video tutorials and grammatical breakdowns of prepositional replacement.
-- [Français avec Pierre — Le pronom EN en français](https://www.francaisavecpierre.com/): Practical guide to mastering partitive quantities and verbal constructions.
-- [Podcast Français Facile — Exercice pronoms compléments Y et EN](https://www.podcastfrancaisfacile.com/exercices/y-et-en-exercices.html): Targeted grammar exercises for testing pronoun placement.
+- [Podcast Français Facile — Le pronom Y règle et cours](https://www.podcastfrancaisfacile.com/grammaire/pronom-y.html): Clear explanations, audio examples, and interactive self-scoring exercises.
+- [Podcast Français Facile — Le pronom EN règle et cours](https://www.podcastfrancaisfacile.com/grammaire/pronom-en.html): Targeted grammar lessons and drills for partitive quantities and verbal constructions.
+- [Français avec Pierre — Les pronoms EN et Y](https://www.francaisavecpierre.com/les-pronoms-en-et-y/): Video tutorials and grammatical breakdowns comparing both pronouns with practical exercises.
+- [Français avec Pierre — Le pronom EN en français](https://www.francaisavecpierre.com/le-pronom-en-en-francais/): In-depth guide to mastering partitive quantities and de-preposition replacements.

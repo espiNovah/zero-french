@@ -114,7 +114,7 @@ While the endings of the futur simple are 100% regular, many of the most essenti
 | **envoyer** | **enverr-** (double r) | **J'enverrai** (/ʒ‿ɑ̃.vɛ.ʁe/) | I will send | *J'enverrai mon CV par courriel ce soir.* |
 | **voir** | **verr-** (double r) | **Je verrai** (/ʒə vɛ.ʁe/) | I will see | *Nous verrons les options d'hébergement.* |
 
-> **Il y aura** (/i.l‿i.j‿o.ʁa/) is the future form of *il y a* (*there will be*):  
+> **Il y aura** (/il j‿o.ʁa/) is the future form of *il y a* (*there will be*):  
 > *Il y aura une réunion demain à 9 heures.* (There will be a meeting tomorrow at 9:00 AM).
 
 ### Deciding between futur proche and futur simple
@@ -219,7 +219,7 @@ This deliberate contrast between immediate steps (*vais passer*) and formal aspi
    - *je devrai* (/ʒə də.vʁe/) — I will have to
    - *je viendrai* (/ʒə vjɛ̃.dʁe/) — I will come
    - *j'enverrai* (/ʒ‿ɑ̃.vɛ.ʁe/) — I will send
-   - *il y aura* (/i.l‿i.j‿o.ʁa/) — there will be
+   - *il y aura* (/il j‿o.ʁa/) — there will be
    - *bientôt* (/bjɛ̃.to/) — soon
    - *l'année prochaine* (/l‿a.ne pʁɔ.ʃɛn/) — next year
    - *dans six mois* (/dɑ̃ si mwa/) — in six months

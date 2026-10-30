@@ -317,7 +317,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 - [Which contracted article must be used before masculine body parts like le dos and le ventre?](#describing-physical-symptoms-with-avoir-mal-and-body-parts)
 - [How do you express sensations like fever, dizziness, and a runny nose in French?](#common-illnesses-and-general-sensations)
-- [Why is there no past participle agreement in phrases like elle s'est coupe le doigt?](#common-illnesses-and-general-sensations)
+- [Why is there no past participle agreement in phrases like elle s'est coupé le doigt?](#common-illnesses-and-general-sensations)
 - [What is the Canadian term for a walk-in medical clinic and what is the health card called?](#navigating-clinics-and-pharmacies-in-france-and-quebec)
 - [How does a physician formulate imperative instructions and prohibitions using vous?](#doctor-instructions-and-medical-imperative)
 - [What strategy should you follow when reporting medical absences for TCF Canada Writing?](#tcf-canada-exam-strategy-for-medical-situations)
@@ -327,6 +327,6 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Podcast Français Facile — Chez le médecin dialogue et vocabulaire](https://www.podcastfrancaisfacile.com/dialogue/chez-le-medecin.html): Authentic listening dialogue with transcript and comprehension questions.
-- [Français avec Pierre — Vocabulaire de la santé et du corps humain](https://www.francaisavecpierre.com/): Comprehensive video explanations of health expressions and anatomy.
+- [Podcast Français Facile — À la pharmacie dialogue et conseils](https://www.podcastfrancaisfacile.com/podcast/la-pharmacie-1.html): Authentic dialogue between a pharmacist and a patient, with audio and comprehension exercises.
 - [Gouvernement du Québec — Trouver une clinique sans rendez-vous](https://www.quebec.ca/sante/trouver-une-ressource): Official portal explaining how frontline clinics, CLSC centers, and Info-Santé 811 operate in Quebec.
 - [Régie de l'assurance maladie du Québec (RAMQ) — Carte d'assurance maladie](https://www.ramq.gouv.qc.ca/fr/citoyens/assurance-maladie): Practical information on eligibility and medical coverage for newcomers to Quebec.

@@ -263,7 +263,6 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Français avec Pierre — Le comparatif et le superlatif en français](https://www.francaisavecpierre.com/le-passe-compose-en-francais/): Comprehensive video guide detailing comparisons, irregular forms, and practical drills.
-- [Podcast Français Facile — Le comparatif](https://www.podcastfrancaisfacile.com/grammaire/le-comparatif.html): Clear explanations, audio examples, and interactive self-scoring exercises for adjectives, nouns, and verbs.
-- [Podcast Français Facile — Le superlatif](https://www.podcastfrancaisfacile.com/grammaire/le-superlatif.html): Grammar exercises, dialogue examples, and rules for forming French superlatives.
+- [Podcast Français Facile — Le comparatif](https://www.podcastfrancaisfacile.com/cours/comparatif.html): Clear explanations, audio examples, and interactive self-scoring exercises for adjectives, nouns, and verbs.
+- [Podcast Français Facile — Le superlatif](https://www.podcastfrancaisfacile.com/cours/superlatif.html): Grammar exercises, dialogue examples, and rules for forming French superlatives.
 - [OQLF Vitrine linguistique — Les degrés de comparaison](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian linguistic portal explaining syntax, agreement rules, and stylistic nuances.

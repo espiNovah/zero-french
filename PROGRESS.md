@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (32 lessons — Path 00 100% Complete & Path 01 Batches 1–6 Complete!)
+## 1. Reviewed Lessons (38 lessons — Path 00 100% Complete & Path 01 16 of 18 Complete!)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -42,19 +42,18 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-30 | `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md` | 1,486 | **Reviewed** | TCF Speaking Task 2 unscripted 3.5m roleplay & FEI rubric verified |
 | 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md` | 2,075 | **Reviewed** | Canadian OQLF feminized titles verified; authentic job interview URL applied |
 | 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md` | 2,575 | **Reviewed** | Réveil-matin spelling fix; verified 200 OK dialogue URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/futur_proche_and_simple.md` | 2,663 | **Reviewed** | /il j‿o.ʁa/ IPA fix applied; verified 200 OK weather/future URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/comparisons_and_superlatives.md` | 2,599 | **Reviewed** | Verified 200 OK comparative and superlative course URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/project_career_profile_and_goals.md` | 2,103 | **Reviewed** | Career benchmark, oral rubric & Vocaroo tool verified |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/medical_symptoms_and_advice.md` | 3,969 | **Reviewed** | Past participle coupé accent fix; verified 200 OK pharmacy dialogue applied |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/pronouns_y_and_en.md` | 3,261 | **Reviewed** | Verified 200 OK Y & EN grammar rules and Pierre video URLs applied |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/administrative_interactions.md` | 3,064 | **Reviewed** | Verified 200 OK postal dialogue, banking rights and OQLF politeness URLs applied |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 1, 2 & 3 of 3)
+## 2. Drafted Lessons Awaiting Review (0 lessons)
 
-| Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/futur_proche_and_simple.md` | done | 2,663 | None (futur proche vs simple regular & irregular stems verified) | MétéoMédia (forecast drill) |
-| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/comparisons_and_superlatives.md` | done | 2,599 | None (comparatives/superlatives & meilleur vs mieux verified) | Radio-Canada (economic articles) |
-| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/project_career_profile_and_goals.md` | done | 2,103 | None (FEI word counts, action verbs & temporal synthesis verified) | Vocaroo (oral recorder) |
-| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/medical_symptoms_and_advice.md` | done | 3,969 | None (avoir mal à + anatomy, imperative advice & Quebec RAMQ terms verified) | Québec.ca (clinique sans rendez-vous) |
-| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/pronouns_y_and_en.md` | done | 3,261 | None (y for locations/à + thing, en for partitive/quantities & imperative -s verified) | Podcast Français Facile (Y & En) |
-| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/administrative_interactions.md` | done | 3,064 | None (counter etiquette, vouvoiement, postal/bank/registry terms & TCF roleplay verified) | Services Québec (accueil) |
+All completed lessons have been reviewed and validated.
 
 ---
 
