@@ -306,6 +306,59 @@
               "title": "Administrative Interactions and Counter Etiquette",
               "description": "Master formal counter etiquette (vouvoiement), polite conditional requests, administrative documents, and postal/banking interactions.",
               "file": "a2_survival/health_and_public_services/administrative_interactions.md"
+            },
+            {
+              "id": "tcf-a2-reading-signage-notices",
+              "title": "TCF Reading: Public Signage, Notices, and Classified Ads",
+              "description": "Fast scanning and skimming of street signs, safety warnings, store hours, rental ads, and municipal directives for items 1–12.",
+              "file": "a2_survival/health_and_public_services/tcf_a2_reading_signage_notices.md"
+            },
+            {
+              "id": "project-a2-milestone-mock",
+              "title": "Project: A2 Milestone Mock Exam",
+              "description": "Demonstrate complete A2 survival French with a 4-part milestone mock exam evaluating listening, reading, writing, and speaking under TCF conditions.",
+              "file": "a2_survival/health_and_public_services/project_a2_milestone_mock.md",
+              "project": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-independent",
+      "title": "B1 Independent French",
+      "hours": 200,
+      "optional": false,
+      "description": "Achieve functional autonomy: express nuanced opinions, formulate hypotheses, negotiate professionally, and master the subjunctive mood.",
+      "sections": [
+        {
+          "id": "politeness-and-hypotheses",
+          "title": "Politeness & Hypotheses",
+          "description": "Master polite conditional requests, si-clause hypothetical structures, workplace negotiations, and formal dispute resolution.",
+          "lessons": [
+            {
+              "id": "conditionnel-present",
+              "title": "The Present Conditional: Politeness, Advice, and Wishes",
+              "description": "Form the conditionnel présent with future stems and imperfect endings, soften requests diplomatically, and offer professional advice.",
+              "file": "b1_independent/politeness_and_hypotheses/conditionnel_present.md"
+            },
+            {
+              "id": "si-clauses-structures-1-2",
+              "title": "Hypothetical Sentences: Si Clauses Structures 1 and 2",
+              "description": "Master real future conditions (si + présent → futur) and potential present conditions (si + imparfait → conditionnel).",
+              "file": "b1_independent/politeness_and_hypotheses/si_clauses_structures_1_2.md"
+            },
+            {
+              "id": "workplace-negotiation-disputes",
+              "title": "Workplace Negotiations, Disputes, and Diplomatic Compromises",
+              "description": "Express professional dissatisfaction diplomatically, negotiate schedule adjustments and deadlines, and draft formal dispute emails.",
+              "file": "b1_independent/politeness_and_hypotheses/workplace_negotiation_disputes.md"
+            },
+            {
+              "id": "tcf-speaking-task2-negotiation",
+              "title": "TCF Speaking Task 2: Advanced Interaction and Negotiation",
+              "description": "Lead 3.5-minute unscripted roleplays, challenge examiner objections, formulate counter-proposals, and negotiate agreements.",
+              "file": "b1_independent/politeness_and_hypotheses/tcf_speaking_task2_negotiation.md"
             }
           ]
         }

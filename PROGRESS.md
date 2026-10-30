@@ -51,15 +51,29 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons)
+## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 1, 2 & 3 of 3)
 
-All completed lessons have been reviewed and validated.
+| Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/tcf_a2_reading_signage_notices.md` | done | 3,276 | None (skimming/scanning, signboards, distractors & hours verified) | Radio-Canada (régions) |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/project_a2_milestone_mock.md` | done | 3,466 | None (4-part A2 milestone mock, FEI rubrics & answer keys verified) | Vocaroo (oral recorder) |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/conditionnel_present.md` | done | 2,872 | None (conditionnel morphology, politeness, advice & irregular stems verified) | Podcast Français Facile (conditionnel) |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/si_clauses_structures_1_2.md` | done | 2,571 | None (structures 1 & 2, elision s'il/si elle & no-conditionnel-after-si verified) | Français avec Pierre (si clauses) |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/workplace_negotiation_disputes.md` | done | 2,863 | None (diplomatic softening, conciliation travail-famille & formal email verified) | CNESST (normes travail) |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/tcf_speaking_task2_negotiation.md` | done | 2,611 | None (3.5m roleplay blueprint, counter-proposals & discourse markers verified) | Podcast Français Facile (réclamation) |
 
 ---
 
-## 3. Curriculum Pipeline (Upcoming — Path 01: A2 Survival French)
+## 3. Curriculum Pipeline (Upcoming — Path 02: B1 Independent French)
 
-- `curriculum/a2_survival/health_and_public_services/tcf_a2_reading_signage_notices.md` (Next batch: 1 of 2)
-- `curriculum/a2_survival/health_and_public_services/project_a2_milestone_mock.md` (Next batch: 2 of 2 — Path 01 Capstone Milestone Mock)
+- `curriculum/b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md` (Next batch: 1 of 2 — Path 02 Project 1)
+- `curriculum/b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md` (Next batch: 2 of 2)
+- `curriculum/b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md`
+- `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md`
+- `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md`
+- `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md`
+
+
+
 
 
