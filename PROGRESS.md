@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (20 lessons — Path 00: A1 Basics 100% Complete!)
+## 1. Reviewed Lessons (26 lessons — Path 00 100% Complete & Path 01 Batches 1–3 Complete!)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -30,19 +30,29 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/clothing_and_agreements.md` | 3,280 | **Reviewed** | Adjective agreements, invariable marron/orange, prompt gender fix applied |
 | 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/weather_and_seasons.md` | 2,919 | **Reviewed** | Impersonal weather, season prepositions, present-tense drill fix applied |
 | 2026-10-29 | `curriculum/a1_basics/food_shopping_needs/project_a1_capstone.md` | 1,819 | **Reviewed** | Dual A1 Capstone (Task 2 speaking & Task 1 writing), FEI rubrics verified |
+| 2026-10-30 | `curriculum/a2_survival/past_narratives/passe_compose_avoir.md` | 3,505 | **Reviewed** | /il.z‿ɔ̃ paʁ.le/ IPA liaison fix applied; auxiliary mechanics verified |
+| 2026-10-30 | `curriculum/a2_survival/past_narratives/passe_compose_etre.md` | 3,707 | **Reviewed** | False liaisons removed; t'es réveillée mandatory elision applied; /il j‿a/ IPA fix applied |
+| 2026-10-30 | `curriculum/a2_survival/past_narratives/narrative_chronology_connectors.md` | 2,541 | **Reviewed** | J'ai vu un ami pronoun fix; bail (/baj/) IPA fix; natural imparfait note applied |
+| 2026-10-30 | `curriculum/a2_survival/past_narratives/tcf_listening_short_announcements.md` | 2,427 | **Reviewed** | Transit announcement URL corrected to authentic station podcast |
+| 2026-10-30 | `curriculum/a2_survival/past_narratives/project_past_vacation_recount.md` | 1,319 | **Reviewed** | Authentic liaison example (nous‿avons voyagé) applied; FEI rubrics verified |
+| 2026-10-30 | `curriculum/a2_survival/housing_and_transit/apartment_features_and_ads.md` | 2,578 | **Reviewed** | Québec 1½–5½ system; rental & agency URLs and TAL official link corrected |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons)
+## 2. Drafted Lessons Awaiting Review (0 lessons — All 26 Current Lessons Reviewed)
 
-All 20 lessons and projects across Path 00 (A1 Basics) are complete and fully reviewed.
+All written lessons across Path 00 and the first two sections of Path 01 have passed complete editorial, linguistic, and technical review.
+
+| Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| — | None currently | — | — | — | — |
 
 ---
 
 ## 3. Curriculum Pipeline (Upcoming — Path 01: A2 Survival French)
 
-- `curriculum/a2_survival/past_narratives/passe_compose_avoir.md` (Next batch: 1 of 2)
-- `curriculum/a2_survival/past_narratives/passe_compose_etre.md` (Next batch: 2 of 2)
-- `curriculum/a2_survival/past_narratives/narrative_chronology_connectors.md`
-- `curriculum/a2_survival/past_narratives/tcf_listening_short_announcements.md`
-- `curriculum/a2_survival/past_narratives/project_past_vacation_recount.md`
+- `curriculum/a2_survival/housing_and_transit/imparfait_descriptions_habits.md` (Next batch: 1 of 2)
+- `curriculum/a2_survival/housing_and_transit/object_pronouns_direct_indirect.md` (Next batch: 2 of 2)
+- `curriculum/a2_survival/housing_and_transit/formal_questioning_techniques.md`
+- `curriculum/a2_survival/housing_and_transit/project_apartment_inquiry_roleplay.md`
+- `curriculum/a2_survival/work_and_daily_life/professions_and_workplace_tasks.md`

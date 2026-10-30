@@ -162,6 +162,66 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a2-survival-french",
+      "title": "A2 Survival French",
+      "hours": 100,
+      "optional": false,
+      "description": "Handle day-to-day interactions: narrate past events, ask detailed questions, navigate housing and transport, and communicate with public services.",
+      "sections": [
+        {
+          "id": "past-narratives",
+          "title": "Past Narratives & Daily Life",
+          "description": "Master compound past tenses (passé composé with avoir and être), sequence events chronologically, and decode everyday announcements.",
+          "lessons": [
+            {
+              "id": "passe-compose-avoir",
+              "title": "Passé Composé with Avoir and Past Participles",
+              "description": "Form the passé composé with auxiliary avoir, master regular and irregular past participles, and place negations and adverbs correctly.",
+              "file": "a2_survival/past_narratives/passe_compose_avoir.md"
+            },
+            {
+              "id": "passe-compose-etre",
+              "title": "Passé Composé with Être and Past Agreement",
+              "description": "Master movement verbs (DR & MRS VANDERTRAMP), reflexive verbs in the past, and mandatory past participle gender and number agreement.",
+              "file": "a2_survival/past_narratives/passe_compose_etre.md"
+            },
+            {
+              "id": "narrative-chronology-connectors",
+              "title": "Narrative Chronology and Discourse Connectors",
+              "description": "Structure past anecdotes step-by-step using narrative markers (d'abord, ensuite, puis, soudain, tout à coup, enfin, finalement).",
+              "file": "a2_survival/past_narratives/narrative_chronology_connectors.md"
+            },
+            {
+              "id": "tcf-listening-short-announcements",
+              "title": "TCF Listening: Short Announcements and Messages",
+              "description": "Decode public address announcements, transit advisories, commercial messages, and voicemails under TCF single-play conditions.",
+              "file": "a2_survival/past_narratives/tcf_listening_short_announcements.md"
+            },
+            {
+              "id": "project-past-vacation-recount",
+              "title": "Project: Past Vacation Recount",
+              "description": "Compose an 80–120 word written recount and deliver a 2-minute unscripted oral narrative of a past vacation or journey under TCF exam conditions.",
+              "file": "a2_survival/past_narratives/project_past_vacation_recount.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "housing-and-transit",
+          "title": "Housing & Transit",
+          "description": "Navigate rental listings, understand real estate abbreviations, lease agreements, and communicate about housing.",
+          "lessons": [
+            {
+              "id": "apartment-features-and-ads",
+              "title": "Apartment Features, Real Estate Ads, and Rental Terms",
+              "description": "Read classified real estate ads, decode abbreviations (rdc, asc., sdb, cc), and master European versus Canadian room sizing systems (1½ to 5½).",
+              "file": "a2_survival/housing_and_transit/apartment_features_and_ads.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
