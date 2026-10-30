@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (50 lessons — Path 00 & Path 01 100% Complete, Path 02: 10 lessons completed!)
+## 1. Reviewed Lessons (56 lessons — Path 00 & Path 01 100% Complete, Path 02: 16 lessons completed!)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -60,19 +60,18 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md` | 2,840 | **Reviewed** | Polarity shifts & trigger traps verified; verified 200 OK PFF rules & FEI TCF portal URLs applied |
 | 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md` | 2,696 | **Reviewed** | Concession mechanics & dialectical markers verified; verified 200 OK FEI TCF evaluation portal applied |
 | 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md` | 2,326 | **Reviewed** | TCF Speaking Task 3 unscripted 4.5m monologue, FEI rubric, 458-word benchmark & Vocaroo tool verified |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/reading_francophone_press.md` | 2,862 | **Reviewed** | Nominalization & 5 Ws verified; paywalled Le Devoir replaced with free La Presse; 200 OK PFF URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md` | 2,682 | **Reviewed** | RFI/Radio-Canada broadcast pacing & shorthand verified; 200 OK dialogue & audio text URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md` | 3,285 | **Reviewed** | Qui/que/où/dont & cleft sentences verified; verified 200 OK relative pronoun URLs & La Presse applied |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/reported_speech_present.md` | 3,026 | **Reviewed** | Indirect discourse mechanics & reporting verbs verified; verified 200 OK PFF & La Presse URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/project_current_event_digest.md` | 2,335 | **Reviewed** | Dual-modality capstone (129-word synthesis + 2m55s oral dispatch), FEI rubrics & Vocaroo tool verified |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/canadian_immigration_integration.md` | 2,828 | **Reviewed** | IRCC/MIFI dual framework & regionalization verified; free La Presse URL & Quebec immigration portal verified |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (6 lessons currently awaiting review)
+## 2. Drafted Lessons Awaiting Review (0 lessons currently awaiting review)
 
-| Date Drafted | File | Words | Review Status | Notes & Flags |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-10-30 | `curriculum/b1_independent/media_and_society/reading_francophone_press.md` | 2,862 | Drafted | Authentic press formats, inverted pyramid, headlines & French press URLs |
-| 2026-10-30 | `curriculum/b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md` | 2,682 | Drafted | RFI and Radio-Canada radio cadences, audio decoding, single-play exercise |
-| 2026-10-30 | `curriculum/b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md` | 3,285 | Drafted | Relative pronouns qui, que, où, dont, ce qui/ce que/ce dont & cleft sentences |
-| 2026-10-30 | `curriculum/b1_independent/media_and_society/reported_speech_present.md` | 3,026 | Drafted | Indirect discourse in the present, reporting verbs, pronoun shifts & no tense shift rule |
-| 2026-10-30 | `curriculum/b1_independent/media_and_society/project_current_event_digest.md` | 2,335 | Drafted | Capstone project: 120-word press synthesis + 3-minute oral briefing & Vocaroo tool |
-| 2026-10-30 | `curriculum/b1_independent/canadian_realities/canadian_immigration_integration.md` | 2,828 | Drafted | Canadian & Quebec immigration systems (IRCC, MIFI, CSQ), regionalization & integration |
+All drafted lessons through Canadian Realities (Part 1) have been reviewed, verified against `WRITER_BRIEF.md`, and published.
 
 ---
 

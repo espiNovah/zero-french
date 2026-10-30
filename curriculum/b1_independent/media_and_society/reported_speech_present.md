@@ -309,11 +309,11 @@ Confirm your mastery of indirect speech mechanics before proceeding:
 
 ---
 
-### 11. Authentic Media and Grammar References
+### Additional resources
 
-Explore these curated, free resources to practice indirect discourse and observe reporting verbs in real-world media:
+This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [Podcast Français Facile — Le discours rapporté au présent](https://www.podcastfrancaisfacile.com/grammaire/le-discours-rapporte-au-present.html) — Audio lesson with clear explanations and comprehensive interactive transformation exercises.
+* [Podcast Français Facile — Le discours indirect au présent](https://www.podcastfrancaisfacile.com/grammaire/discours-indirect.html) — Clear explanations and interactive exercises on transposing direct speech to indirect speech.
+* [Podcast Français Facile — Cours complet sur le discours indirect](https://www.podcastfrancaisfacile.com/cours/discours-indirect.html) — Comprehensive grammatical guide on introductory reporting verbs, question transformations, and commands.
 * [Radio-Canada Info — Politique et société](https://ici.radio-canada.ca/info) — Observe how Canadian political journalists report quotes and speeches using precise attribution verbs.
-* [Le Monde — Les Décodeurs](https://www.lemonde.fr/les-decodeurs/) — Fact-checking section illustrating rigorous distinction between verified assertions (*affirmer, démontrer*) and unsubstantiated claims (*prétendre, alléguer*).
-* [Podcast Français Facile — Les verbes introducteurs du discours indirect](https://www.podcastfrancaisfacile.com/grammaire/verbes-introducteurs-discours-indirect.html) — Reference list of nuance-rich reporting verbs and their prepositional structures.
+* [La Presse — Débats et société](https://www.lapresse.ca/) — Authentic Montreal news reports illustrating rigorous attribution between verified assertions (*affirmer, préciser*) and skeptical claims (*prétendre*).

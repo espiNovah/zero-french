@@ -301,11 +301,11 @@ Verify your understanding of relative pronouns and common traps before progressi
 
 ---
 
-### 12. Authentic Media and Grammar References
+### Additional resources
 
-Deepen your mastery of relative pronouns with these free resources and native French publications:
+This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [Podcast Français Facile — Les pronoms relatifs simples qui, que, où, dont](https://www.podcastfrancaisfacile.com/grammaire/pronoms-relatifs-simples-qui-que-ou-dont.html) — Clear video lesson and interactive audio exercises on relative pronoun selection.
-* [Podcast Français Facile — Le pronom relatif DONT](https://www.podcastfrancaisfacile.com/grammaire/pronom-relatif-dont.html) — In-depth breakdown of verbs constructed with *de* and practical drills.
-* [Le Devoir — Actualités et analyses](https://www.ledevoir.com/) — Montreal's premier independent daily newspaper, excellent for studying complex journalistic sentence structures in context.
+* [Podcast Français Facile — Les pronoms relatifs qui, que, où, dont](https://www.podcastfrancaisfacile.com/grammaire/pronoms-relatifs.html) — Comprehensive grammar lesson and interactive audio exercises on relative pronoun selection.
+* [Podcast Français Facile — Cours sur les pronoms relatifs](https://www.podcastfrancaisfacile.com/cours/pronoms-relatifs.html) — In-depth breakdown of relative clauses, antecedents, and sentence synthesis.
+* [La Presse — Actualités et analyses](https://www.lapresse.ca/) — Montreal's premier free digital daily newspaper, excellent for studying complex journalistic sentence structures in context.
 * [Radio-Canada Info](https://ici.radio-canada.ca/info) — Flagship Canadian public news source featuring contemporary articles rich in subordinate clauses and professional syntax.

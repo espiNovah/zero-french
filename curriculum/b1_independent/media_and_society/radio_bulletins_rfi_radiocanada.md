@@ -228,7 +228,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Écouter la radio en français](https://www.podcastfrancaisfacile.com/dialogue/a-la-radio-dialogue-fle.html): Realistic radio dialogue with audio player, transcript, and vocabulary exercises.
+- [Podcast Français Facile — Dialogues et compréhension orale](https://www.podcastfrancaisfacile.com/category/dialogue): Realistic audio dialogues across everyday, professional, and media topics with synchronized transcripts.
 - [Radio-Canada — Nouvelles et radio en direct](https://ici.radio-canada.ca/): Live broadcast streaming, news summaries, and podcasts from across Canada.
-- [Podcast Français Facile — Compréhension orale intermédiaire B1](https://www.podcastfrancaisfacile.com/comprehension/comprehension-orale-b1.html): Dedicated listening comprehension drills calibrated for CEFR B1 candidates.
+- [Podcast Français Facile — Textes et enregistrements audio](https://www.podcastfrancaisfacile.com/apprendre-le-francais/liste-des-textes-fle): Audio articles and listening comprehension exercises calibrated for intermediate candidates.
 - [France Éducation international — TCF Canada épreuve de compréhension orale](https://www.france-education-international.fr/test-de-connaissance-du-francais): Official format specifications, timing rules, and sample audio tracks for the TCF listening test.

@@ -243,7 +243,7 @@ Step 4: Systematic Elimination of Distractors (25 seconds)
    </details>
 
 4. **Step 4: Reading Speed Sprint Challenge**  
-   Set a timer for **3 minutes**. Navigate to an authentic article on [Radio-Canada Info](https://ici.radio-canada.ca/) or [Le Devoir](https://www.ledevoir.com/). Scan the article and answer the 5 Ws:
+   Set a timer for **3 minutes**. Navigate to an authentic article on [Radio-Canada Info](https://ici.radio-canada.ca/) or [La Presse](https://www.lapresse.ca/). Scan the article and answer the 5 Ws:
    - **Qui ?** : ________________
    - **Quoi ?** : ________________
    - **Où ?** : ________________
@@ -267,7 +267,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Vocabulaire de la presse et des médias](https://www.podcastfrancaisfacile.com/vocabulaire/vocabulaire-de-la-presse.html): Comprehensive vocabulary lists, audio pronunciations, and media terminology exercises.
-- [Podcast Français Facile — La nominalisation cours et exercices](https://www.podcastfrancaisfacile.com/grammaire/la-nominalisation.html): Clear grammatical rules for transforming verbs into nouns for headlines.
+- [Podcast Français Facile — La nominalisation dans la presse](https://www.podcastfrancaisfacile.com/cours/nominalisation.html): Grammatical rules and practical examples of verb-to-noun transformations for headlines.
+- [Podcast Français Facile — Exercices sur la nominalisation](https://www.podcastfrancaisfacile.com/grammaire/nominalisation.html): Interactive exercises converting full sentences into concise press headings.
 - [Radio-Canada — Portail officiel d'actualités](https://ici.radio-canada.ca/): Premier authentic Canadian national and international French journalism.
-- [Le Devoir — Quotidien d'information et d'idées](https://www.ledevoir.com/): Historic Montreal intellectual daily known for editorial rigor and cultural journalism.
+- [La Presse — Actualités et dossiers d'enquête](https://www.lapresse.ca/): Major free Francophone digital daily providing comprehensive coverage of Canadian and Quebec society.

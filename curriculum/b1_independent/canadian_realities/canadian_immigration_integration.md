@@ -253,11 +253,11 @@ Verify your understanding of Canadian immigration structures and terminology bef
 
 ---
 
-### Authentic Canadian Resources and References
+### Additional resources
 
-Deepen your knowledge of Canadian immigration policies and francophone community life through these official portals and verified news sources:
+This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 * [Immigration, Réfugiés et Citoyenneté Canada (IRCC)](https://www.canada.ca/fr/immigration-refugies-citoyennete.html) — Official portal of the Government of Canada for Express Entry, immigration programs, and citizenship criteria.
 * [Gouvernement du Québec — Immigration et francisation](https://www.quebec.ca/immigration) — Official information on the Arrima platform, the CSQ, and subsidized francisation courses.
 * [Radio-Canada — Dossiers Immigration et société](https://ici.radio-canada.ca/info) — In-depth investigative journalism, podcasts, and regional reports on immigration realities across Canada.
-* [Le Devoir — Société et politique d'immigration](https://www.ledevoir.com/) — Independent Quebec daily providing analytical coverage of demographic and integration debates.
+* [La Presse — Société et immigration](https://www.lapresse.ca/) — Independent Quebec daily providing analytical, paywall-free coverage of demographic and integration debates.
