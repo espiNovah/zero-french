@@ -310,7 +310,7 @@ Confirm your mastery of Canadian French lexicon and phonology before moving to d
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [Podcast Français Facile — Les particularités du français québécois](https://www.podcastfrancaisfacile.com/culture/francais-quebecois.html) — Audio guide and explanations of Quebec vocabulary and pronunciation differences.
+* [OQLF — Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Official lexical portal and Banque de dépannage linguistique for Québec pronunciation, terminology, and regional usage.
 * [Radio-Canada Info](https://ici.radio-canada.ca/info) — Stream daily audio dispatches and podcasts featuring authentic Canadian pronunciation.
 * [La Presse — Actualités québécoises](https://www.lapresse.ca/) — High-quality written journalism illustrating contemporary Canadian terminology in context.
 * [Office québécois de la langue française (OQLF)](https://www.oqlf.gouv.qc.ca/) — Official terminology database (*Le Grand Dictionnaire terminologique*) explaining standardized French terms.

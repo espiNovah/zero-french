@@ -216,7 +216,7 @@ Confirm your understanding of B2 argumentative essay structure before proceeding
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [Podcast Français Facile — Exprimer son opinion et débattre](https://www.podcastfrancaisfacile.com/grammaire/exprimer-son-opinion.html) — Audio lesson on nuanced stance markers and opinion formulations.
-* [France Éducation international — Épreuves et grilles du TCF](https://www.france-education-international.fr/) — Official scoring criteria for CEFR B2 written argumentation.
-* [Le Devoir — Idées et débats contemporains](https://www.ledevoir.com/) — Intellectual daily newspaper showcasing formal dialectical essays and societal debate.
+* [Podcast Français Facile — Exprimer son opinion et débattre](https://www.podcastfrancaisfacile.com/cours/donner-son-opinion.html) — Audio lesson on nuanced stance markers and opinion formulations.
+* [France Éducation international — Épreuves et grilles du TCF](https://www.france-education-international.fr/test-de-connaissance-du-francais) — Official scoring criteria for CEFR B2 written argumentation.
+* [Radio-Canada Info — Analyses et débats de société](https://ici.radio-canada.ca/info) — Flagship Canadian reporting featuring in-depth dialectical debates and public policy opinions.
 * [La Presse — Chroniques d'actualité et d'opinion](https://www.lapresse.ca/) — High-quality editorial journalism illustrating persuasive refutation and analytical stance.

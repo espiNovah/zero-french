@@ -247,7 +247,7 @@ Confirm your mastery of TCF receptive test tactics before undertaking milestone 
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [France Éducation international — TCF Canada épreuves obligatoires](https://www.france-education-international.fr/) — Official portal providing exam specifications, scoring scales, and regulatory guidelines.
+* [France Éducation international — TCF Canada épreuves obligatoires](https://www.france-education-international.fr/test-de-connaissance-du-francais) — Official portal providing exam specifications, scoring scales, and regulatory guidelines.
 * [Podcast Français Facile — Compréhension orale intermédiaire](https://www.podcastfrancaisfacile.com/apprendre-le-francais/liste-des-textes-fle) — Audio articles and interactive comprehension quizzes designed for intermediate test prep.
 * [Radio-Canada Info — Actualités et reportages](https://ici.radio-canada.ca/info) — Practice skimming and scanning authentic news headlines and regional Canadian reports.
 * [La Presse — Analyses et dossiers de fond](https://www.lapresse.ca/) — Excellent free resource for building reading speed on contemporary societal topics.

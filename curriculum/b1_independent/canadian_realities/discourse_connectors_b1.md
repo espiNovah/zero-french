@@ -300,7 +300,7 @@ Verify your command of discourse connectors before moving to exam tactics:
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-* [Podcast Français Facile — Les connecteurs logiques en français](https://www.podcastfrancaisfacile.com/grammaire/connecteurs-logiques-francais.html) — Reference table with audio examples and interactive classification exercises.
-* [Podcast Français Facile — La cause et la conséquence](https://www.podcastfrancaisfacile.com/grammaire/cause-et-consequence.html) — In-depth breakdown of prepositional phrases and conjunctions of causality.
+* [Podcast Français Facile — Les connecteurs logiques en français](https://www.podcastfrancaisfacile.com/grammaire/connecteurs-logiques.html) — Reference table with audio examples and interactive classification exercises.
+* [OQLF — Vitrine linguistique : Les charnières et connecteurs](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Official syntactic guide on logical progression, cause-and-effect linkers, and formal punctuation.
 * [La Presse — Chroniques et débats d'idées](https://www.lapresse.ca/) — High-quality contemporary opinion columns demonstrating authentic connector pacing in journalistic debate.
-* [France Éducation international — Grille d'évaluation du TCF](https://www.france-education-international.fr/) — Official rubric detailing textual cohesion criteria for B1 and B2 evaluations.
+* [France Éducation international — Grille d'évaluation du TCF](https://www.france-education-international.fr/test-de-connaissance-du-francais) — Official rubric detailing textual cohesion criteria for B1 and B2 evaluations.

@@ -4,7 +4,7 @@ This document tracks authoring and review progress across the curriculum. Every 
 
 ---
 
-## 1. Reviewed Lessons (56 lessons — Path 00 & Path 01 100% Complete, Path 02: 16 lessons completed!)
+## 1. Reviewed Lessons (62 lessons — Path 00, Path 01 & Path 02 100% Complete! Path 03: 2 lessons completed)
 
 These lessons and projects have completed both the authoring phase AND the strict reviewer audit pass, with all pedagogical, phonetic, grammatical, and link fixes applied and validated against `WRITER_BRIEF.md`.
 
@@ -66,19 +66,18 @@ These lessons and projects have completed both the authoring phase AND the stric
 | 2026-10-30 | `curriculum/b1_independent/media_and_society/reported_speech_present.md` | 3,026 | **Reviewed** | Indirect discourse mechanics & reporting verbs verified; verified 200 OK PFF & La Presse URLs applied |
 | 2026-10-30 | `curriculum/b1_independent/media_and_society/project_current_event_digest.md` | 2,335 | **Reviewed** | Dual-modality capstone (129-word synthesis + 2m55s oral dispatch), FEI rubrics & Vocaroo tool verified |
 | 2026-10-30 | `curriculum/b1_independent/canadian_realities/canadian_immigration_integration.md` | 2,828 | **Reviewed** | IRCC/MIFI dual framework & regionalization verified; free La Presse URL & Quebec immigration portal verified |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/quebec_lexicon_and_phonology.md` | 2,742 | **Reviewed** | Quebec lexicon, affrication [ts]/[dz], lax vowels, nasal contrasts verified; verified OQLF Vitrine linguistique URL applied |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/discourse_connectors_b1.md` | 2,868 | **Reviewed** | 7-part connector taxonomy, grâce à vs à cause de polarity verified; 200 OK PFF & OQLF URLs applied |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/tcf_b1_listening_reading_tactics.md` | 2,827 | **Reviewed** | 60-min reading pacing grid, single-play listening protocol & distractor traps verified; direct FEI TCF link applied |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/project_b1_milestone_mock.md` | 2,473 | **Reviewed** | Full 4-skill milestone exam (CO/CE 25 items, EE Tasks 1 & 2, EO Tasks 1, 2, 3), 80-pt scale, AI simulator prompt & benchmarks verified |
+| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/structuring_persuasive_essays.md` | 2,203 | **Reviewed** | Dialectical plan (thèse, antithèse, synthèse), problématique formulation & concessive refutations verified; 200 OK PFF, FEI & Radio-Canada URLs applied |
+| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/nominalization_and_formality.md` | 2,214 | **Reviewed** | Verbal & deadjectival nominalization, administrative transpositions & avoidance of hyper-nominalization verified; 100% 200 OK URLs verified |
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (6 lessons currently awaiting review)
+## 2. Drafted Lessons Awaiting Review (0 lessons currently awaiting review)
 
-| Date Drafted | File | Words | Review Status | Notes & Flags |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-10-30 | `curriculum/b1_independent/canadian_realities/quebec_lexicon_and_phonology.md` | 2,742 | Drafted | Quebec lexicon (courriel, fin de semaine, char), affrication [ts]/[dz] & register awareness |
-| 2026-10-30 | `curriculum/b1_independent/canadian_realities/discourse_connectors_b1.md` | 2,868 | Drafted | B1 discourse connectors, taxonomy, cause/consequence & concession mechanics |
-| 2026-10-30 | `curriculum/b1_independent/canadian_realities/tcf_b1_listening_reading_tactics.md` | 2,827 | Drafted | TCF items 1–25 tactics, single-play protocol, reading pacing grid & distractor traps |
-| 2026-10-30 | `curriculum/b1_independent/canadian_realities/project_b1_milestone_mock.md` | 2,473 | Drafted | Full 4-part B1 milestone mock (CO 25 items, CE 25 items, EE Tasks 1 & 2, EO Tasks 1, 2, 3) |
-| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/structuring_persuasive_essays.md` | 2,203 | Drafted | B2 dialectical plans (thèse, antithèse, synthèse), problématique & concessive refutations |
-| 2026-10-30 | `curriculum/b2_advanced/argumentation_mastery/nominalization_and_formality.md` | 2,214 | Drafted | Verbal and deadjectival nominalization, administrative register & syntactic transpositions |
+*(All written lessons through Path 02 and first 2 lessons of Path 03 have been fully reviewed, edited, validated, and pushed)*
 
 ---
 
