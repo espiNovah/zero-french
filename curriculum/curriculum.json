@@ -262,6 +262,50 @@
               "title": "Passé Composé vs Imparfait: Backdrop vs Event",
               "description": "Master the defining contrast of French past narration: continuous descriptive backdrops (imparfait) versus completed punctual events (passé composé).",
               "file": "a2_survival/work_and_daily_life/passe_compose_vs_imparfait.md"
+            },
+            {
+              "id": "futur-proche-and-simple",
+              "title": "Futur Proche and Futur Simple: Plans and Projections",
+              "description": "Express immediate plans with futur proche (aller + infinitive) and long-term career aspirations with futur simple, mastering irregular stems.",
+              "file": "a2_survival/work_and_daily_life/futur_proche_and_simple.md"
+            },
+            {
+              "id": "comparisons-and-superlatives",
+              "title": "Comparisons and Superlatives: Evaluating Options",
+              "description": "Compare qualities, quantities, and actions using plus, moins, aussi, and autant de, mastering the irregular distinction between meilleur and mieux.",
+              "file": "a2_survival/work_and_daily_life/comparisons_and_superlatives.md"
+            },
+            {
+              "id": "project-career-profile-and-goals",
+              "title": "Project: Career Profile and Professional Goals",
+              "description": "Compose a 100–120 word professional cover note and deliver a 2-minute unscripted oral career presentation under TCF Canada exam conditions.",
+              "file": "a2_survival/work_and_daily_life/project_career_profile_and_goals.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "health-and-public-services",
+          "title": "Health & Public Services",
+          "description": "Communicate medical symptoms, seek health advice, use pronouns y and en, and interact politely with public administrations and services.",
+          "lessons": [
+            {
+              "id": "medical-symptoms-and-advice",
+              "title": "Medical Symptoms, Doctor Visits, and Imperative Advice",
+              "description": "Express physical pain with avoir mal à, describe sensations and illnesses, navigate clinics and pharmacies, and give medical guidance.",
+              "file": "a2_survival/health_and_public_services/medical_symptoms_and_advice.md"
+            },
+            {
+              "id": "pronouns-y-and-en",
+              "title": "Adverbial and Prepositional Pronouns: Y and En",
+              "description": "Master place and preposition replacement with y (locations and à + thing) and partitive/quantity replacement with en (de + thing).",
+              "file": "a2_survival/health_and_public_services/pronouns_y_and_en.md"
+            },
+            {
+              "id": "administrative-interactions",
+              "title": "Administrative Interactions and Counter Etiquette",
+              "description": "Master formal counter etiquette (vouvoiement), polite conditional requests, administrative documents, and postal/banking interactions.",
+              "file": "a2_survival/health_and_public_services/administrative_interactions.md"
             }
           ]
         }

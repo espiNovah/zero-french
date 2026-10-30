@@ -45,20 +45,22 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons — All 32 Current Lessons Reviewed)
-
-All written lessons across Path 00 and Path 01 Batches 1–6 have passed complete editorial, linguistic, and technical review.
+## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 1, 2 & 3 of 3)
 
 | Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| — | None currently | — | — | — | — |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/futur_proche_and_simple.md` | done | 2,663 | None (futur proche vs simple regular & irregular stems verified) | MétéoMédia (forecast drill) |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/comparisons_and_superlatives.md` | done | 2,599 | None (comparatives/superlatives & meilleur vs mieux verified) | Radio-Canada (economic articles) |
+| 2026-10-30 | `curriculum/a2_survival/work_and_daily_life/project_career_profile_and_goals.md` | done | 2,103 | None (FEI word counts, action verbs & temporal synthesis verified) | Vocaroo (oral recorder) |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/medical_symptoms_and_advice.md` | done | 3,969 | None (avoir mal à + anatomy, imperative advice & Quebec RAMQ terms verified) | Québec.ca (clinique sans rendez-vous) |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/pronouns_y_and_en.md` | done | 3,261 | None (y for locations/à + thing, en for partitive/quantities & imperative -s verified) | Podcast Français Facile (Y & En) |
+| 2026-10-30 | `curriculum/a2_survival/health_and_public_services/administrative_interactions.md` | done | 3,064 | None (counter etiquette, vouvoiement, postal/bank/registry terms & TCF roleplay verified) | Services Québec (accueil) |
 
 ---
 
 ## 3. Curriculum Pipeline (Upcoming — Path 01: A2 Survival French)
 
-- `curriculum/a2_survival/work_and_daily_life/futur_proche_and_simple.md` (Next batch: 1 of 2)
-- `curriculum/a2_survival/work_and_daily_life/comparisons_and_superlatives.md` (Next batch: 2 of 2)
-- `curriculum/a2_survival/work_and_daily_life/project_career_profile_and_goals.md`
-- `curriculum/a2_survival/health_and_public_services/medical_symptoms_and_advice.md`
-- `curriculum/a2_survival/health_and_public_services/pronouns_y_and_en.md`
+- `curriculum/a2_survival/health_and_public_services/tcf_a2_reading_signage_notices.md` (Next batch: 1 of 2)
+- `curriculum/a2_survival/health_and_public_services/project_a2_milestone_mock.md` (Next batch: 2 of 2 — Path 01 Capstone Milestone Mock)
+
+
