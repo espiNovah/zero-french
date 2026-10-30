@@ -57,20 +57,29 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons)
+## 2. Drafted Lessons Awaiting Review (6 lessons — Batches 1, 2 & 3 of 3)
 
-All completed lessons have been reviewed and validated.
+| Date | File | Status | Word Count | Flagged for Native Speaker | Flagged for Browser Check |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-30 | `curriculum/b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md` | done | 2,124 | None (FEI 120-150 word count rules, conditional diplomacy & compromise verified) | Vocaroo (oral recorder) |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md` | done | 2,771 | None (subjective/objective markers, certainty scale & concessions verified) | Radio-Canada (chroniques) |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md` | done | 3,220 | None (regular/dual stems, 8 irregulars, obligation/will/emotion triggers verified) | Podcast Français Facile (subjonctif) |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md` | done | 2,840 | None (fact vs perception, espérer/après que traps, polarity shifts verified) | Français avec Pierre (indicatif vs subjonctif) |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md` | done | 2,696 | None (opposition vs concession, bien que/quoique, même si & certes... mais verified) | Podcast Français Facile (concession) |
+| 2026-10-30 | `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md` | done | 2,326 | None (4.5m unscripted monologue, FEI rubrics & dialectical telework model verified) | Vocaroo (oral recorder) |
 
 ---
 
 ## 3. Curriculum Pipeline (Upcoming — Path 02: B1 Independent French)
 
-- `curriculum/b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md` (Next batch: 1 of 2 — Path 02 Project 1)
-- `curriculum/b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md` (Next batch: 2 of 2)
-- `curriculum/b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md`
-- `curriculum/b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md`
-- `curriculum/b1_independent/opinions_and_social_debates/structuring_arguments_concession.md`
-- `curriculum/b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md`
+- `curriculum/b1_independent/media_and_society/reading_francophone_press.md` (Next batch: 1 of 2)
+- `curriculum/b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md` (Next batch: 2 of 2)
+- `curriculum/b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md`
+- `curriculum/b1_independent/media_and_society/reported_speech_present.md`
+- `curriculum/b1_independent/media_and_society/project_current_event_digest.md`
+
+
+
 
 
 

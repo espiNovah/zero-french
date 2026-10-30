@@ -359,6 +359,51 @@
               "title": "TCF Speaking Task 2: Advanced Interaction and Negotiation",
               "description": "Lead 3.5-minute unscripted roleplays, challenge examiner objections, formulate counter-proposals, and negotiate agreements.",
               "file": "b1_independent/politeness_and_hypotheses/tcf_speaking_task2_negotiation.md"
+            },
+            {
+              "id": "project-writing-task2-letter",
+              "title": "Project: Writing Task 2 Formal Letter Simulation",
+              "description": "Compose a 120–150 word formal diplomatic dispute and negotiation email to a supervisor under official TCF Canada conditions.",
+              "file": "b1_independent/politeness_and_hypotheses/project_writing_task2_letter.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "opinions-and-social-debates",
+          "title": "Opinions & Social Debates",
+          "description": "Articulate nuanced personal viewpoints, master the subjunctive mood and its triggers, structure concessions, and engage in societal debates.",
+          "lessons": [
+            {
+              "id": "expressing-viewpoints-nuance",
+              "title": "Expressing Viewpoints, Nuance, and Degrees of Certainty",
+              "description": "Master sophisticated opinion markers (selon moi, à mon sens, il me paraît évident que), calibrate certainty, and formulate concessions.",
+              "file": "b1_independent/opinions_and_social_debates/expressing_viewpoints_nuance.md"
+            },
+            {
+              "id": "subjonctif-present-triggers",
+              "title": "The Present Subjunctive: Formation and Essential Triggers",
+              "description": "Form the subjonctif présent with regular and irregular stems, and master the four trigger categories: obligation, will, emotion, and doubt.",
+              "file": "b1_independent/opinions_and_social_debates/subjonctif_present_triggers.md"
+            },
+            {
+              "id": "indicative-vs-subjunctive",
+              "title": "Indicative vs Subjunctive: Deciding Moods and Avoiding Traps",
+              "description": "Master the decisive boundary between fact (indicatif) and perception (subjonctif), opinion verb polarity, and avoid false triggers like espérer.",
+              "file": "b1_independent/opinions_and_social_debates/indicative_vs_subjunctive.md"
+            },
+            {
+              "id": "structuring-arguments-concession",
+              "title": "Structuring Arguments, Concession, and Counter-Arguments",
+              "description": "Master concession markers (certes... mais, bien que, toutefois, en revanche), construct balanced dialectical syntheses, and debate social issues.",
+              "file": "b1_independent/opinions_and_social_debates/structuring_arguments_concession.md"
+            },
+            {
+              "id": "project-speaking-task3-simulator",
+              "title": "Project: Speaking Task 3 Monologue Simulator",
+              "description": "Deliver an unscripted 4.5-minute dialectical debate monologue on telework and modern labor practices under official TCF Canada conditions.",
+              "file": "b1_independent/opinions_and_social_debates/project_speaking_task3_simulator.md",
+              "project": true
             }
           ]
         }
