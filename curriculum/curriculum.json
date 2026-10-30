@@ -406,6 +406,57 @@
               "project": true
             }
           ]
+        },
+        {
+          "id": "media-and-society",
+          "title": "Media & Society",
+          "description": "Decode Francophone journalism, follow rapid news radio bulletins, construct complex relative clauses, and report statements accurately.",
+          "lessons": [
+            {
+              "id": "reading-francophone-press",
+              "title": "Reading Francophone Press: Structure, Headlines, and Tone",
+              "description": "Navigate Francophone newspapers (Le Monde, Le Devoir, La Presse), analyze inverted pyramid structures, and decode journalistic headlines.",
+              "file": "b1_independent/media_and_society/reading_francophone_press.md"
+            },
+            {
+              "id": "radio-bulletins-rfi-radiocanada",
+              "title": "Radio Bulletins: Following RFI and Radio-Canada Cadences",
+              "description": "Train ears to professional radio cadences, decode rapid audio dispatches, and extract essential news facts under single-play conditions.",
+              "file": "b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md"
+            },
+            {
+              "id": "relative-pronouns-qui-que-ou-dont",
+              "title": "Complex Sentence Building: Relative Pronouns Qui, Que, Où, and Dont",
+              "description": "Master simple relative pronouns (qui, que, où, dont) and compound relatives (ce qui, ce que, ce dont) to build sophisticated sentences without repetition.",
+              "file": "b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md"
+            },
+            {
+              "id": "reported-speech-present",
+              "title": "Reported Speech in the Present: Relaying News, Statements, and Interviews",
+              "description": "Master indirect discourse with present-tense reporting verbs, transform questions and commands, adjust pronouns, and use nuanced attribution verbs.",
+              "file": "b1_independent/media_and_society/reported_speech_present.md"
+            },
+            {
+              "id": "project-current-event-digest",
+              "title": "Project: Current Event Digest and Oral News Briefing",
+              "description": "Synthesize conflicting journalistic sources into a 120-word written digest and deliver a 3-minute unscripted radio news dispatch under TCF Canada conditions.",
+              "file": "b1_independent/media_and_society/project_current_event_digest.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "canadian-realities",
+          "title": "Canadian Realities",
+          "description": "Understand Canadian and Quebec societal frameworks, immigration systems, regional integration, and distinct sociolinguistic conventions.",
+          "lessons": [
+            {
+              "id": "canadian-immigration-integration",
+              "title": "Canadian Immigration and Integration: Systems, Regions, and Society",
+              "description": "Navigate Canadian and Quebec immigration structures (IRCC, MIFI, Express Entry, CSQ), analyze regionalization policies, and debate integration models.",
+              "file": "b1_independent/canadian_realities/canadian_immigration_integration.md"
+            }
+          ]
         }
       ]
     }

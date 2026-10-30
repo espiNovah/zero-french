@@ -63,19 +63,27 @@ These lessons and projects have completed both the authoring phase AND the stric
 
 ---
 
-## 2. Drafted Lessons Awaiting Review (0 lessons currently awaiting review)
+## 2. Drafted Lessons Awaiting Review (6 lessons currently awaiting review)
 
-All drafted lessons through Path 02 *Opinions & Social Debates* have been reviewed, verified against `WRITER_BRIEF.md`, and published.
+| Date Drafted | File | Words | Review Status | Notes & Flags |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/reading_francophone_press.md` | 2,862 | Drafted | Authentic press formats, inverted pyramid, headlines & French press URLs |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md` | 2,682 | Drafted | RFI and Radio-Canada radio cadences, audio decoding, single-play exercise |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md` | 3,285 | Drafted | Relative pronouns qui, que, où, dont, ce qui/ce que/ce dont & cleft sentences |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/reported_speech_present.md` | 3,026 | Drafted | Indirect discourse in the present, reporting verbs, pronoun shifts & no tense shift rule |
+| 2026-10-30 | `curriculum/b1_independent/media_and_society/project_current_event_digest.md` | 2,335 | Drafted | Capstone project: 120-word press synthesis + 3-minute oral briefing & Vocaroo tool |
+| 2026-10-30 | `curriculum/b1_independent/canadian_realities/canadian_immigration_integration.md` | 2,828 | Drafted | Canadian & Quebec immigration systems (IRCC, MIFI, CSQ), regionalization & integration |
 
 ---
 
 ## 3. Curriculum Pipeline (Upcoming — Path 02: B1 Independent French)
 
-- `curriculum/b1_independent/media_and_society/reading_francophone_press.md` (Next batch: 1 of 2)
-- `curriculum/b1_independent/media_and_society/radio_bulletins_rfi_radiocanada.md` (Next batch: 2 of 2)
-- `curriculum/b1_independent/media_and_society/relative_pronouns_qui_que_ou_dont.md`
-- `curriculum/b1_independent/media_and_society/reported_speech_present.md`
-- `curriculum/b1_independent/media_and_society/project_current_event_digest.md`
+- `curriculum/b1_independent/canadian_realities/quebec_lexicon_and_phonology.md` (Next batch: 1 of 2)
+- `curriculum/b1_independent/canadian_realities/francophone_cultures_and_indigenous_realities.md` (Next batch: 2 of 2)
+- `curriculum/b1_independent/canadian_realities/project_canadian_societal_debate.md`
+- `curriculum/b1_independent/b1_capstone_mock/tcf_b1_listening_comprehension_mastery.md`
+- `curriculum/b1_independent/b1_capstone_mock/tcf_b1_reading_synthesis_mastery.md`
+- `curriculum/b1_independent/b1_capstone_mock/project_b1_milestone_mock.md`
 
 
 
