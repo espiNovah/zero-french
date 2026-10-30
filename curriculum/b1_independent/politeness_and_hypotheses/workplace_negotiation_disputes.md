@@ -245,7 +245,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Dialogue professionnel au bureau](https://www.podcastfrancaisfacile.com/dialogue/dialogue-au-travail.html): Realistic workplace dialogue illustrating team collaboration and task delegation.
-- [Français avec Pierre — Le français des affaires et professionnel](https://www.francaisavecpierre.com/): Practical video tutorials on business vocabulary, polite emailing, and meetings.
+- [Podcast Français Facile — L'entretien d'embauche et vocabulaire professionnel](https://www.podcastfrancaisfacile.com/podcast/entretien-dembauche.html): Authentic dialogue illustrating professional communication, question handling, and career discussion.
+- [Gouvernement du Québec — Emploi et marché du travail](https://www.quebec.ca/emploi): Official Quebec portal for employment standards, workforce development, and workplace integration.
 - [CNESST Québec — Normes du travail et conciliation travail-famille](https://www.cnesst.gouv.qc.ca/fr/normes-travail): Official Quebec government labor standards, employee rights, and schedule regulations.
 - [Vitrine linguistique (OQLF) — Rédaction de courriels professionnels](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian guidelines for professional email etiquette and formal salutations.

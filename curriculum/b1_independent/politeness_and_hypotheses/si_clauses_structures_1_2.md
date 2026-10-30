@@ -225,7 +225,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Les phrases avec SI cours et exercices](https://www.podcastfrancaisfacile.com/grammaire/les-phrases-avec-si.html): Comprehensive explanations of hypothesis structures 1, 2, and 3 with audio examples.
-- [Français avec Pierre — Les hypothèses avec SI en français](https://www.francaisavecpierre.com/les-hypotheses-avec-si-en-francais/): Detailed video guide breaking down conditional structures and common traps.
-- [Podcast Français Facile — Exercice hypothèse avec si](https://www.podcastfrancaisfacile.com/exercices/hypothese-avec-si-exercice.html): Interactive conjugation drill testing si-clause tense agreements.
+- [Podcast Français Facile — Si + présent + futur simple](https://www.podcastfrancaisfacile.com/grammaire/si-present-futur.html): Clear explanations, audio examples, and drills for real future conditions.
+- [Podcast Français Facile — Hypothèse sur le présent : Si + imparfait + conditionnel](https://www.podcastfrancaisfacile.com/cours/hypothese-sur-le-present.html): Comprehensive lesson on imaginary and potential present conditions.
+- [Podcast Français Facile — Dialogue DELF B1 : Hypothèse avec SI](https://www.podcastfrancaisfacile.com/dialogue/fle-hypothese-si-imparfait-conditionnel-fle-delf-dialogue.html): Authentic conversational audio dialogue practicing hypothetical clauses.
 - [Vitrine linguistique (OQLF) — La concordance des temps dans les subordonnées de condition](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Official Canadian linguistic reference on hypothetical syntax and stylistic nuances.

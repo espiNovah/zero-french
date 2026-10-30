@@ -267,7 +267,7 @@ The following questions are an opportunity to reflect on key topics in this less
 - [What is the morphological formula for forming the present conditional in French?](#morphology-and-formation-of-the-conditionnel-present)
 - [How does the pronunciation of the first-person singular differ between futur simple and conditionnel present?](#morphology-and-formation-of-the-conditionnel-present)
 - [What are the irregular stems of avoir, etre, pouvoir, vouloir, and falloir in the conditional?](#regular-stems-and-irregular-future-conditionnel-stems)
-- [Why is pourriez-vous preferred over pouve-vous or direct imperatives at administrative counters?](#the-conditionnel-of-politeness-and-softened-requests)
+- [Why is pourriez-vous preferred over pouvez-vous or direct imperatives at administrative counters?](#the-conditionnel-of-politeness-and-softened-requests)
 - [How can you formulate constructive professional advice using devoir and falloir?](#formulating-advice-recommendations-and-hypothetical-wishes)
 - [How does integrating the conditional elevate candidate marks in TCF Canada Speaking Task 2 and Task 3?](#tcf-canada-exam-applications-for-speaking-and-writing)
 
@@ -275,7 +275,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Le conditionnel présent cours et exercices](https://www.podcastfrancaisfacile.com/grammaire/conditionnel-present.html): Grammar explanations, audio drills, and interactive self-scoring exercises.
-- [Podcast Français Facile — Le conditionnel de politesse](https://www.podcastfrancaisfacile.com/grammaire/conditionnel-de-politesse.html): Dedicated drills on softening requests and social courtesy.
-- [Français avec Pierre — Le conditionnel en français](https://www.francaisavecpierre.com/le-conditionnel-en-francais/): In-depth video tutorial covering morphology, irregular stems, and practical nuances.
+- [Podcast Français Facile — Le conditionnel présent cours et règles](https://www.podcastfrancaisfacile.com/grammaire/conditionnel-present.html): Grammar explanations, audio drills, and interactive self-scoring exercises.
+- [Podcast Français Facile — Formation du conditionnel présent](https://www.podcastfrancaisfacile.com/conjugaison/conditionnel-present-formation-apprendre-le-francais.html): Detailed conjugation stems and ending patterns for regular and irregular verbs.
+- [Podcast Français Facile — Exercices au conditionnel présent](https://www.podcastfrancaisfacile.com/exercices/exercice-conditionnel-present.html): Targeted grammar exercises testing conditional conjugation and polite transformations.
 - [Vitrine linguistique (OQLF) — Emploi du conditionnel](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian linguistic guide on modal usage, politeness, and journalism.

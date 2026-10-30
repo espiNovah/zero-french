@@ -312,7 +312,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Panneaux et signalisation en France](https://www.podcastfrancaisfacile.com/vocabulaire/panneaux-de-signalisation-vocabulaire.html): Vocabulary exercises and photos of French road, pedestrian, and municipal signs.
-- [Français avec Pierre — Compréhension écrite en français](https://www.francaisavecpierre.com/): Strategies for fast reading, vocabulary recognition, and exam question elimination.
+- [Service-Public.fr — Papiers et citoyenneté administrative](https://www.service-public.fr/particuliers/vosdroits/N19806): Official French public service portal explaining administrative forms, identity verification, and public notices.
 - [Radio-Canada — Nouvelles et actualités régionales](https://ici.radio-canada.ca/): Authentic Canadian regional news announcements and municipal updates.
-- [Ville de Montréal — Avis publics et règlements municipaux](https://montreal.ca/avis-publics): Authentic municipal public notices and community advisories.
+- [Ville de Montréal — Portail municipal officiel](https://montreal.ca/): Authentic municipal public notices, community services, and urban regulations.
+- [Vitrine linguistique (OQLF) — Terminologie de l'affichage public](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Canadian linguistic guidelines on public signage, store notices, and administrative terminology.

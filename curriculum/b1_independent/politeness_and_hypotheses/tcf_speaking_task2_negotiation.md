@@ -199,7 +199,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [Podcast Français Facile — Dialogue de négociation et réclamation](https://www.podcastfrancaisfacile.com/dialogue/reclamation-dialogue-fle.html): Authentic negotiation and customer complaint audio dialogue with transcript.
-- [Français avec Pierre — Réussir l'épreuve orale du TCF / DELF](https://www.francaisavecpierre.com/): Comprehensive video tutorial detailing speaking strategies, timing, and examiner expectations.
-- [Podcast Français Facile — Exprimer son désaccord avec politesse](https://www.podcastfrancaisfacile.com/dialogue/exprimer-son-desaccord.html): Useful dialogue patterns for diplomatic debate and professional objections.
+- [France Éducation international — Épreuve d'expression orale du TCF Canada](https://www.france-education-international.fr/test/tcf-canada): Official FEI guidelines, format specifications, and evaluation grids for interactive speaking roleplays.
+- [Podcast Français Facile — Dialogue au conditionnel présent](https://www.podcastfrancaisfacile.com/dialogue/preparation-de-la-fete-dialogue-fle-au-conditionnel-niveau-a2.html): Audio dialogue illustrating practical suggestions, conditional verbs, and interactive agreements.
+- [Radio-Canada — Émissions et débats de société](https://ici.radio-canada.ca/): Authentic Canadian spoken French dialogues, interviews, and public debate panels.
 - [Vitrine linguistique (OQLF) — Vocabulaire de la négociation et des affaires](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian portal for corporate negotiation, arbitration, and agreement terms.
