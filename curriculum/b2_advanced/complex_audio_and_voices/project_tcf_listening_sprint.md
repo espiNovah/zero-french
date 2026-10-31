@@ -2,13 +2,13 @@
 
 The **TCF Canada Compréhension orale (CO)** examination is an unforgiving test of real-time auditory processing: **39 questions in 35 minutes, played once and only once (*écoute unique*)**.
 
-While candidates can comfortably attain B1 (scores of 300–399) by catching explicit factual information in items 1 through 25, crossing into **Upper B2 (NCLC 7, requiring a minimum of 458 points out of 699)** depends entirely on your performance on **items 26 through 39**.
+Items get progressively harder. Catching explicit factual information in the easier, earlier items is not enough: reaching **NCLC 7 (458 points or more out of 699 in listening)** depends heavily on how you handle the **harder, later items**, which are weighted by difficulty.
 
-In this capstone project for the *Complex Audio & Voices* section, you will undertake a full-scale, timed **14-Item Upper-Tier Listening Sprint**. This sprint directly simulates the hardest tier of the TCF Canada exam:
+In this capstone project for the *Complex Audio & Voices* section, you will undertake a timed **14-Item Advanced Listening Sprint**, a fictional practice set modeled on the harder TCF Canada items:
 1. Extended authentic multi-speaker radio panels, street interviews, and academic lectures.
 2. Diverse regional accents (Laurentian Québec, Acadian, Belgian, and standard European French).
 3. Advanced distractor mechanics (*lexical recycling*, *polarity inversion*, *over-generalization*, and *chronological misdirection*).
-4. Strict computer exam time constraints (10-second preview window, single-play audio, 5-second post-audio decision window).
+4. Single-play conditions: one exposure to each recording, then answer and move on.
 
 Completing this project provides empirical baseline data on your auditory processing speed, your vulnerability to distractor patterns, and your readiness to secure a certified NCLC 7 or higher.
 
@@ -16,13 +16,13 @@ Completing this project provides empirical baseline data on your auditory proces
 
 ### Before you start
 
-To ensure your practice session produces valid diagnostic data, replicate official computer-delivered test conditions (*TCF-SO*):
+To ensure your practice session produces valid diagnostic data, replicate exam-like conditions:
 
 - **Headphones**: Wear over-ear or in-ear headphones to mirror the testing center audio setup.
 - **Single-Play Rule**: Under no circumstances should you pause, rewind, or replay an audio passage while completing the sprint. You get exactly one exposure.
-- **Strict Countdown Timer**: Set a countdown timer for **16 minutes** for the 14-item sprint (averaging approximately 65 seconds per question including audio duration and preview/response intervals).
-- **No Pauses for Reflection**: When the post-audio prompt chime sounds, you have 5 seconds to select your answer. If undecided, apply the **Five-Second Drop Rule**: make your best elimination-based guess and move your eyes immediately to the next item.
-- **Score Log Ready**: Open `templates/mock-exam-score-log.md` to record your raw score, distractor errors, and converted NCLC level.
+- **Strict Countdown Timer**: Set a countdown timer for **16 minutes** for the 14-item sprint (a self-imposed practice pace, not an official exam timing).
+- **No Pauses for Reflection**: Once the recording (or script) ends, select your answer quickly. If undecided, make your best elimination-based guess and move your eyes immediately to the next item.
+- **Score Log Ready**: Open `templates/mock-exam-score-log.md` to record your sprint score (/14) and distractor errors.
 
 ---
 
@@ -30,29 +30,29 @@ To ensure your practice session produces valid diagnostic data, replicate offici
 
 <div class="lesson-content__panel" markdown="1">
 
-#### Official Exam Parameters and Sprint Protocol
+#### Sprint Protocol
 
-The table below outlines the architecture of the 14 sprint items you are about to encounter:
+The table below outlines the 14 sprint items you are about to encounter. The difficulty labels are this course's estimates; the real exam has no official item-number→level map.
 
-| Sprint Item | Target Level | Audio Format & Source | Core Cognitive Challenge |
+| Sprint Item | Approx. Difficulty | Audio Format & Source | Core Cognitive Challenge |
 | :--- | :--- | :--- | :--- |
-| **Items 26–27** | Solid B2 (NCLC 7) | Radio report on labor market shifts (France Info) | Extracting core sociological thesis & statistical nuances |
-| **Items 28–29** | Solid B2 (NCLC 7) | Street interviews on housing costs in Montréal (Radio-Canada) | Decoding spoken reductions and Québec lexical items |
-| **Items 30–31** | Upper B2 (NCLC 7–8) | Radio debate on telework legislation (2 speakers) | Attributing divergent perspectives and concessive pivots |
-| **Items 32–33** | Upper B2 (NCLC 8) | Academic interview on artificial intelligence ethics | Identifying subtle epistemic distance and implicit skepticism |
-| **Items 34–35** | Upper B2 / C1 (NCLC 8–9) | Environmental debate on water resource privatization | Deconstructing disguised counter-arguments and irony |
-| **Items 36–37** | C1 (NCLC 9) | Cultural essay on the evolution of Francophone literature | Tracking abstract aesthetic hypotheses without explicit cues |
-| **Items 38–39** | C1 / C2 (NCLC 10) | Scientific roundtable on neurocognitive plasticity | Dissecting dense academic terminology and hypothetical models |
+| **Items 1–2** | B2 | Radio report on labor market shifts (France Info) | Extracting core sociological thesis & statistical nuances |
+| **Items 3–4** | B2 | Street interviews on housing costs in Montréal (Radio-Canada) | Decoding spoken reductions and Québec lexical items |
+| **Items 5–6** | Upper B2 | Radio debate on telework legislation (2 speakers) | Attributing divergent perspectives and concessive pivots |
+| **Items 7–8** | Upper B2 | Academic interview on artificial intelligence ethics | Identifying subtle epistemic distance and implicit skepticism |
+| **Items 9–10** | B2 / C1 | Environmental debate on water resource privatization | Deconstructing disguised counter-arguments and irony |
+| **Items 11–12** | C1 | Cultural essay on the evolution of Francophone literature | Tracking abstract aesthetic hypotheses without explicit cues |
+| **Items 13–14** | C1 / C2 | Scientific roundtable on neurocognitive plasticity | Dissecting dense academic terminology and hypothetical models |
 
 ---
 
-#### The 14-Item Upper-Tier Sprint (Items 26–39)
+#### The 14-Item Sprint
 
-Read each question and its four options during the 10-second preview window, read the audio script once at a brisk pace (approx. 200 words per minute), then immediately select your answer. Check your solutions only after completing all 14 questions.
+Read each question and its four options first, read the audio script once at a brisk pace (or have a partner read it aloud once), then immediately select your answer. Check your solutions only after completing all 14 questions.
 
 ---
 
-##### Item 26 : Rapport économique — Les mutations de l'artisanat d'art
+##### Item 1 : Rapport économique — Les mutations de l'artisanat d'art
 
 > **Audio Script :**  
 > *« Longtemps considérés comme les vestiges d'une époque révolue, les métiers d'art connaissent aujourd'hui un regain d'intérêt spectaculaire auprès des jeunes diplômés de l'enseignement supérieur. Ce phénomène ne relève pas d'une simple toquade nostalgique : il traduit un profond rejet de la dématérialisation du travail de bureau et une quête de sens à travers la maîtrise tangible de la matière. Toutefois, si les vocations affluent, la viabilité économique de ces ateliers demeure précaire en raison des coûts prohibitifs des loyers commerciaux dans les centres historiques et du manque d'accompagnement bancaire adapté aux cycles longs de production. »*
@@ -65,7 +65,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 27 : Suite du rapport économique
+##### Item 2 : Suite du rapport économique
 
 **Question : Quelle mise en garde la journaliste formule-t-elle quant à l'avenir de ces artisans ?**
 - **A)** Ils éprouvent de grandes difficultés à pérenniser leur activité faute de financements et d'espaces abordables.
@@ -75,7 +75,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 28 : Vox populi à Montréal — La crise du logement locatif
+##### Item 3 : Vox populi à Montréal — La crise du logement locatif
 
 > **Audio Script :**  
 > *« **L'enquêteur :** Madame, vous cherchez un appartement à louer sur le Plateau-Mont-Royal depuis plusieurs mois. Comment se passe votre recherche ?  
@@ -89,7 +89,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 29 : Suite de l'intervention citoyenne
+##### Item 4 : Suite de l'intervention citoyenne
 
 **Question : Quelle conséquence cette citoyenne envisage-t-elle face à l'échec de ses démarches ?**
 - **A)** Engager une action en justice contre son ancien propriétaire.
@@ -99,7 +99,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 30 : Débat radiophonique — L'encadrement légal du télétravail
+##### Item 5 : Débat radiophonique — L'encadrement légal du télétravail
 
 > **Audio Script :**  
 > *« **L'animateur :** Le projet de loi visant à inscrire un droit inconditionnel au travail à distance divise les partenaires sociaux. Maître Legrand, vous défendez les organisations patronales : en quoi cette flexibilité pose-t-elle problème ?  
@@ -114,7 +114,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 31 : Suite du débat radiophonique
+##### Item 6 : Suite du débat radiophonique
 
 **Question : Quelle est la position de madame Caron face aux objections patronales ?**
 - **A)** Elle suggère de suspendre temporairement le télétravail pour les nouvelles recrues.
@@ -124,7 +124,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 32 : Entretien scientifique — L'éthique des algorithmes décisionnels
+##### Item 7 : Entretien scientifique — L'éthique des algorithmes décisionnels
 
 > **Audio Script :**  
 > *« **Le journaliste :** Professeur, les algorithmes prédictifs sont de plus en plus utilisés pour évaluer l'éligibilité aux crédits bancaires ou présélectionner des candidatures à l'embauche. Peut-on réellement leur attribuer une neutralité objective ?  
@@ -138,7 +138,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 33 : Suite de l'entretien scientifique
+##### Item 8 : Suite de l'entretien scientifique
 
 **Question : Que préconise l'invité pour prévenir les dérives de ces technologies ?**
 - **A)** Interdire tout développement de l'intelligence artificielle dans le secteur bancaire.
@@ -148,7 +148,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 34 : Tribune publique — La gestion des ressources hydriques
+##### Item 9 : Tribune publique — La gestion des ressources hydriques
 
 > **Audio Script :**  
 > *« **L'éditorialiste :** En ces temps de sécheresses récurrentes, la proposition de confier la distribution de l'eau potable à des partenariats public-privé refait surface. Les promoteurs de cette réforme font miroiter une modernisation rapide des canalisations et une optimisation de la maintenance. C'est oublier un peu vite que là où de telles concessions ont été expérimentées, à Berlin comme à Buenos Aires, la facture des ménages a flambé pendant que les dividendes des actionnaires prospéraient, souvent au détriment des investissements patrimoniaux indispensables. L'eau n'est pas une marchandise substituable : c'est un bien commun inaliénable dont la gestion ne saurait être subordonnée à des impératifs de rentabilité boursière trimestrielle. »*
@@ -161,7 +161,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 35 : Suite de la tribune publique
+##### Item 10 : Suite de la tribune publique
 
 **Question : Quel principe éthique fondamental sous-tend l'argumentation de l'éditorialiste ?**
 - **A)** La gratuité intégrale de toutes les ressources énergétiques pour les citoyens.
@@ -171,7 +171,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 36 : Chronique littéraire — L'évolution des récits francophones
+##### Item 11 : Chronique littéraire — L'évolution des récits francophones
 
 > **Audio Script :**  
 > *« Si le roman francophone contemporain a longtemps célébré les grandes fresques polyphoniques et l'expérimentation formelle postmoderne, on assiste depuis une décennie à un resserrement notable de la focale narrative. L'écriture se fait volontiers documentaire, presque clinique : l'intime s'entremêle désormais aux archives judiciaires ou sociologiques pour sonder les fractures collectives. L'auteur d'aujourd'hui répugne à surplomber le monde d'une voix omnisciente ; il préfère consigner les silences, exhumer les anonymes et interroger sa propre légitimité à témoigner. »*
@@ -184,7 +184,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 37 : Suite de la chronique littéraire
+##### Item 12 : Suite de la chronique littéraire
 
 **Question : Quelle attitude l'écrivain d'aujourd'hui adopte-t-il envers sa propre fonction ?**
 - **A)** Une certitude inébranlable quant à sa supériorité morale sur ses contemporains.
@@ -194,7 +194,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 38 : Débat scientifique — La plasticité cérébrale à l'âge adulte
+##### Item 13 : Débat scientifique — La plasticité cérébrale à l'âge adulte
 
 > **Audio Script :**  
 > *« **L'animateur :** Docteur Roche, on a longtemps enseigné en faculté de médecine que le cerveau adulte était une structure rigide, incapable de régénérer ses réseaux neuronaux après l'adolescence. Ce dogme a-t-il vécu ?  
@@ -208,7 +208,7 @@ Read each question and its four options during the 10-second preview window, rea
 
 ---
 
-##### Item 39 : Suite du débat scientifique
+##### Item 14 : Suite du débat scientifique
 
 **Question : Quelle nuance essentielle la chercheuse apporte-t-elle concernant la stimulation cognitive ?**
 - **A)** Les jeux sur téléphone portable suffisent amplement à développer le potentiel intellectuel.
@@ -225,20 +225,20 @@ Read each question and its four options during the 10-second preview window, rea
 
 | Item | Key | Distractor A Diagnosis | Distractor B Diagnosis | Distractor C Diagnosis | Distractor D Diagnosis |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| **26** | **B** | **Polarity**: banks lack adapted financing | **CORRECT**: rejects de-materialization | **Lexical trap**: not a simple nostalgic fad | **Polarity**: rents are prohibitive, not low |
-| **27** | **A** | **CORRECT**: rents and banking issues | **Contradicted**: quality is praised | **Unsubstantiated**: vocations are affluentes | **Over-generalization**: no ban on workshops |
-| **28** | **B** | **Unstated**: transit not main housing topic | **CORRECT**: dilapidated 3½ with high rent | **Distorted**: not legally forced to move | **Unstated**: parks not mentioned |
-| **29** | **B** | **Contradicted**: no lawsuit mentioned | **CORRECT**: move to suburbs despite traffic | **Unstated**: no roommates discussed | **Distorted**: looking to rent, not buy |
-| **30** | **B** | **Unstated**: insurance costs not cited | **CORRECT**: loss of managerial control | **Polarity**: productivity actually rose | **Unstated**: computer equipment not cited |
-| **31** | **C** | **Distorted**: no suspension requested | **Polarity**: studies show productivity rose | **CORRECT**: uniform legal framework | **Unstated**: no financial bonus demanded |
-| **32** | **B** | **Polarity**: math amplifies human biases | **CORRECT**: perpetuates historic prejudices | **Over-generalization**: no total replacement | **Contradicted**: algorithms fed on human data |
-| **33** | **C** | **Over-generalization**: no total AI ban | **Polarity**: rejects tech self-regulation | **CORRECT**: human judicial responsibility | **Opposite**: rejects unaccountable open code |
-| **34** | **B** | **Contradicted**: costs surged, work lagged | **CORRECT**: warns based on Berlin/BA results | **Polarity**: argues against concession | **Opposite**: water is common good, not trade |
-| **35** | **C** | **Over-generalization**: energy not cited | **Opposite**: argues public superiority | **CORRECT**: inalienable common heritage | **Contradicted**: collective, not individual duty |
-| **36** | **B** | **Polarity**: engages deeply with society | **CORRECT**: clinical, documentary realism | **Opposite**: rejects omniscient narrators | **Extravagant**: novel writing still thrives |
-| **37** | **C** | **Opposite**: authors reject superiority | **Polarity**: avoids dogmatic preaching | **CORRECT**: questions right to speak for others | **Contradicted**: weaves personal with social |
-| **38** | **B** | **Extravagant**: no magic aging cure | **CORRECT**: adult cortical plasticity proven | **Opposite**: old dogma was shattered | **Polarity**: rehabilitation is crucial |
-| **39** | **C** | **Polarity**: mobile brain games criticized | **Polarity**: language learning is praised | **CORRECT**: deep, sustained multimodal effort | **Extravagant**: surgery not required |
+| **1** | **B** | **Polarity**: banks lack adapted financing | **CORRECT**: rejects de-materialization | **Lexical trap**: not a simple nostalgic fad | **Polarity**: rents are prohibitive, not low |
+| **2** | **A** | **CORRECT**: rents and banking issues | **Contradicted**: quality is praised | **Unsubstantiated**: vocations are affluentes | **Over-generalization**: no ban on workshops |
+| **3** | **B** | **Unstated**: transit not main housing topic | **CORRECT**: dilapidated 3½ with high rent | **Distorted**: not legally forced to move | **Unstated**: parks not mentioned |
+| **4** | **B** | **Contradicted**: no lawsuit mentioned | **CORRECT**: move to suburbs despite traffic | **Unstated**: no roommates discussed | **Distorted**: looking to rent, not buy |
+| **5** | **B** | **Unstated**: insurance costs not cited | **CORRECT**: loss of managerial control | **Polarity**: productivity actually rose | **Unstated**: computer equipment not cited |
+| **6** | **C** | **Distorted**: no suspension requested | **Polarity**: studies show productivity rose | **CORRECT**: uniform legal framework | **Unstated**: no financial bonus demanded |
+| **7** | **B** | **Polarity**: math amplifies human biases | **CORRECT**: perpetuates historic prejudices | **Over-generalization**: no total replacement | **Contradicted**: algorithms fed on human data |
+| **8** | **C** | **Over-generalization**: no total AI ban | **Polarity**: rejects tech self-regulation | **CORRECT**: human judicial responsibility | **Opposite**: rejects unaccountable open code |
+| **9** | **B** | **Contradicted**: costs surged, work lagged | **CORRECT**: warns based on Berlin/BA results | **Polarity**: argues against concession | **Opposite**: water is common good, not trade |
+| **10** | **C** | **Over-generalization**: energy not cited | **Opposite**: argues public superiority | **CORRECT**: inalienable common heritage | **Contradicted**: collective, not individual duty |
+| **11** | **B** | **Polarity**: engages deeply with society | **CORRECT**: clinical, documentary realism | **Opposite**: rejects omniscient narrators | **Extravagant**: novel writing still thrives |
+| **12** | **C** | **Opposite**: authors reject superiority | **Polarity**: avoids dogmatic preaching | **CORRECT**: questions right to speak for others | **Contradicted**: weaves personal with social |
+| **13** | **B** | **Extravagant**: no magic aging cure | **CORRECT**: adult cortical plasticity proven | **Opposite**: old dogma was shattered | **Polarity**: rehabilitation is crucial |
+| **14** | **C** | **Polarity**: mobile brain games criticized | **Polarity**: language learning is praised | **CORRECT**: deep, sustained multimodal effort | **Extravagant**: surgery not required |
 
 </details>
 
@@ -250,7 +250,7 @@ To validate your completion of this project, compile the following three diagnos
 
 1. **Standardized Sprint Score Log**:
    - File name: `sprint_co_b2_log.md`.
-   - Record: Date, Raw Score (/14), Estimated Scaled Equivalent (/699), and NCLC Level.
+   - Record: Date, Sprint Score (/14), time used, and number of errors per trap type. (There is no official raw→scaled conversion, so do not convert this to a /699 score.)
 2. **Distractor Breakdown Table**:
    - For every question you answered incorrectly, identify the exact trap mechanism (*Lexical Recycling*, *Polarity Inversion*, *Over-Generalization*, or *Chronological Confusion*).
    - Write a 1-sentence reflection explaining what auditory cue you misinterpreted.
@@ -260,24 +260,25 @@ To validate your completion of this project, compile the following three diagnos
 
 ---
 
-#### Official FEI Scoring Rubric and NCLC Conversion Scale
+#### TCF Canada Listening → NCLC (IRCC equivalency)
 
-The official France Éducation international scaling converts raw correct answers on the 39-question Compréhension orale test to a 699-point scale:
+The Compréhension orale test is scored from 0 to 699. IRCC converts that score to an NCLC level as follows. FEI publishes **no raw→scaled conversion**: items are weighted by difficulty, so you cannot turn a number of correct answers into a score.
 
-| Raw Score (/39) | Scaled Score (/699) | CEFR Level | Canadian NCLC Level | Immigration Significance |
-| :---: | :---: | :---: | :---: | :--- |
-| **0 – 14** | 100 – 299 pts | A1 – A2 | NCLC 1 – 4 | Insufficient for skilled worker immigration |
-| **15 – 22** | 300 – 399 pts | B1 | NCLC 5 | Baseline threshold for citizenship / trades |
-| **23 – 28** | 400 – 457 pts | Mid B2 | **NCLC 6** | **Failing for Express Entry French bonus!** |
-| **29 – 32** | **458 – 502 pts** | **Upper B2** | **NCLC 7** | **SUCCESS: Maximum Express Entry points unlocked** |
-| **33 – 36** | 503 – 568 pts | C1 | NCLC 8 – 9 | Comfortable safety margin / executive roles |
-| **37 – 39** | 569 – 699 pts | C2 | NCLC 10+ | Near-native academic mastery |
+| NCLC | Compréhension orale score (/699) |
+| :---: | :---: |
+| 10+ | 549 – 699 |
+| 9 | 523 – 548 |
+| 8 | 503 – 522 |
+| **7** | **458 – 502** |
+| 6 | 398 – 457 |
+| 5 | 369 – 397 |
+| 4 | 331 – 368 |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Critical score threshold: NCLC 6 vs NCLC 7
 
-Notice the sharp dividing line between 28 and 29 raw correct answers: **scoring 28 correct yields NCLC 6 (ineligible for the 50-point Express Entry French bonus), while scoring 29 correct crosses the 458-point barrier into NCLC 7**. This single-question threshold underscores why mastering items 26–39 is not optional.
+In listening, **457 is NCLC 6 and 458 is NCLC 7**. NCLC 7 is the threshold for the Express Entry French bonus, which requires **NCLC 7+ in all four French skills**: 50 CRS points if your English is CLB 5+, or 25 points if your English is CLB 4 or lower (the two amounts don't stack). NCLC 7 is a threshold, not "maximum CRS points": language points keep rising up to CLB 10. Because a single difficult item can move you across the line, aim for a comfortable margin rather than the bare minimum.
 
 </div>
 
@@ -288,17 +289,17 @@ Notice the sharp dividing line between 28 and 29 raw correct answers: **scoring 
 If you analyze your sprint responses with an AI language model, paste the following prompt along with your answer sheet and notes to receive an uninflated diagnostic review:
 
 ```markdown
-Vous êtes un auditeur et examinateur accrédité de France Éducation international (FEI), spécialiste de l'épreuve de Compréhension orale du TCF Canada.
+Vous êtes un formateur expérimenté en préparation au TCF Canada, spécialiste de l'épreuve de Compréhension orale.
 
-Je viens de compléter un sprint d'entraînement de 14 questions de niveau B2/C1 (items 26 à 39). Voici mes réponses ainsi que le corrigé officiel :
-- Mes réponses : [Insérer vos choix : ex. 26: B, 27: C, 28: B...]
-- Réponses correctes : [Insérer le corrigé officiel]
+Je viens de terminer un sprint d'entraînement de 14 questions de niveau B2/C1. Voici mes réponses ainsi que le corrigé du sprint :
+- Mes réponses : [Insérer vos choix : ex. 1: B, 2: C, 3: B...]
+- Réponses correctes : [Insérer le corrigé du sprint]
 - Temps total utilisé : [Insérer votre chrono en minutes et secondes]
 - Accents ayant posé difficulté : [Ex. accent québécois, débit rapide, etc.]
 
 Votre mission :
-1. Calculer mon score brut sur 14 et estimer mon score projeté sur 39 en tenant compte d'une performance théorique de 22/25 sur les items 1 à 25.
-2. Déterminer si ma projection actuelle me positionne au-dessus ou en-dessous du seuil critique du NCLC 7 (458 points).
+1. Calculer mon score brut sur 14, sans le convertir en score sur 699 (il n'existe pas de table de conversion officielle).
+2. M'indiquer quels types de questions me séparent encore d'un NCLC 7 confortable (458 points ou plus en compréhension orale).
 3. Analyser chacune de mes erreurs en la classant selon la taxonomie des pièges du TCF :
    - Piège du mot-à-mot (Lexical Recycling)
    - Inversion de polarité / contresens
@@ -311,7 +312,7 @@ Votre mission :
 
 #### Extra credit
 
-For candidates seeking an invulnerable safety buffer (C1 / NCLC 8–9):
+For candidates seeking a comfortable safety margin above NCLC 7:
 1. **Authentic Transcription Challenge**: Go to [Radio-Canada Première — Midi info](https://ici.radio-canada.ca/premiere) or [Les faits d'abord](https://ici.radio-canada.ca/premiere). Select a 3-minute debate segment on economic policy or federal-provincial relations.
 2. **Verbatim Orthographic Transcription**: Transcribe 90 seconds of continuous speech verbatim, noting all spoken reductions (`[ts]`, `[dz]`, elisions of *il y a*, *tu* interrogatives).
 3. **Item Authoring**: Author **two original TCF-format multiple-choice questions** based on your audio excerpt:
@@ -327,7 +328,7 @@ For candidates seeking an invulnerable safety buffer (C1 / NCLC 8–9):
 
 This section provides verified links to high-quality external resources for ongoing listening sprint practice:
 
-* [France Éducation international — Manuel du candidat TCF Canada](https://www.france-education-international.fr/) — Official exam manual outlining test conditions, interface rules, and score bands.
+* [France Éducation international — Manuel du candidat TCF Canada](https://www.france-education-international.fr/) — Official information on test conditions and candidate rules.
 * [Radio-Canada Première — Émissions d'actualité](https://ici.radio-canada.ca/premiere) — The premier audio training ground for mastering authentic Canadian debates, panels, and interviews.
 * [Radio-Canada Ohdio — Balados de société et politique](https://ici.radio-canada.ca/ohdio) — Extensive on-demand audio platform offering deep investigative reporting and cultural discussions.
 * [La Presse — Actualités et chroniques](https://www.lapresse.ca/) — Indispensable reading companion for cross-reinforcing advanced public policy terminology.

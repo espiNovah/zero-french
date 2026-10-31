@@ -7,13 +7,13 @@ In the **TCF Canada Expression écrite (EE)** examination, candidates are evalua
 
 Because Task 1 appears simple at first glance—often framed as an email to a friend recounting a vacation, describing a new apartment, or declining an invitation—many candidates treat it casually. This is a severe strategic miscalculation.
 
-In the official grading matrix of **France Éducation international (FEI)**:
-1. **The Word-Count Floor and Ceiling**: Submitting fewer than 60 words or more than 120 words triggers automatic, irreversible point deductions. A submission of 58 words or 123 words is immediately penalized, regardless of how eloquent the French may be.
-2. **Task Fulfilment (*Respect de la consigne*)**: Prompts always contain two or three mandatory operational sub-tasks (e.g., *décrivez votre logement, donnez vos impressions, posez deux questions*). Neglecting even one sub-task cuts your task realization mark by 50%.
-3. **Register Contamination**: Mixing *tu* and *vous* (*« Salut Marc, je vous écris pour te dire... »*) immediately flags linguistic instability and caps your morphosyntax score.
-4. **The Time Trap**: Spending 25 minutes polishing Task 1 robs precious time from Task 3, which carries the highest weighting for B2 and C1 certification.
+Keep these evaluation priorities in mind:
+1. **The Word-Count Floor and Ceiling**: Submitting fewer than 60 words or more than 120 words affects your task-completion score. Length requirements are part of the instructions, regardless of how eloquent the French may be.
+2. **Task Fulfilment (*Respect de la consigne*)**: Prompts always contain two or three mandatory operational sub-tasks (e.g., *décrivez votre logement, donnez vos impressions, posez deux questions*). Neglecting any sub-task directly weakens your task realization mark.
+3. **Register Contamination**: Mixing *tu* and *vous* (*« Salut Marc, je vous écris pour te dire... »*) immediately flags linguistic instability and weakens your score.
+4. **The Time Trap**: Spending 25 minutes polishing Task 1 robs precious time from Task 3, which carries higher communicative weight for advanced proficiency.
 
-To achieve an overall writing score of **12 to 16+ points (Solid B2 to C1 / NCLC 7–9)**, you must execute Task 1 with clinical perfection: **80 to 100 words typed in under 12 minutes**, fully satisfying all prompt requirements with pristine register alignment.
+To reach **NCLC 7 or higher** (10/20 or more in Expression écrite), you must execute Task 1 with precision: **80 to 100 words typed in under 12 minutes**, fully satisfying all prompt requirements with pristine register alignment.
 
 ---
 
@@ -21,7 +21,7 @@ To achieve an overall writing score of **12 to 16+ points (Solid B2 to C1 / NCLC
 
 By the end of this lesson, you will be able to:
 - Deconstruct official TCF Writing Task 1 prompts and extract every mandatory communicative requirement.
-- Apply official FEI token-counting rules (elisions, hyphenations, numbers) to guarantee a score within the 60–120 word boundary.
+- Apply space-delimited word-counting conventions to keep your text within the 60–120 word boundary.
 - Maintain rigorous **register consistency** (*tutoiement* vs *vouvoiement*) across opening formulas, body sentences, and closings.
 - Execute the **12-Minute Modular Writing Architecture** (2m planning, 8m typing, 2m proofreading).
 - Deploy functional B1/B2 connectors and descriptive structures to achieve high lexical density within a concise word budget.
@@ -52,35 +52,34 @@ FEI examiners evaluate *Réalisation de la tâche* using a strict checklist:
 - Did the candidate address Bullet 2? (Yes / Partial / No)
 - Did the candidate address Bullet 3? (Yes / Partial / No)
 
-If your draft contains 110 words of breathtaking French describing your kitchen, but you forget to invite your friend or ask two questions (Bullet 3), **your task achievement score will be slashed by half**. Before typing a single word, verify that your mental plan explicitly allocates one sentence to each bullet.
+If your draft contains 110 words of breathtaking French describing your kitchen, but you forget to invite your friend or ask two questions (Bullet 3), **your task achievement score will drop significantly**. Before typing a single word, verify that your mental plan explicitly allocates one sentence to each bullet.
 
 ---
 
-### The FEI Word Count Calculus and Penalty System
+### The Word Count Rules and Target Range (60–120 Words)
 
-On the computer-based TCF Canada (TCF-SO), the exam interface includes an automated word counter. However, you must understand exactly how FEI algorithms and human raters count words to avoid catastrophic miscalculations:
+Task 1 requires a text of **60 to 120 words**. To avoid surprises, follow the standard FEI/DELF word-counting convention: **any sequence of characters between two spaces counts as one word** (*j'ai* = 1 word, *l'appartement* = 1 word, *c'est-à-dire* = 1 word). Always consult the current TCF Canada candidate guide for specific software details at your test center.
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
-│                     OFFICIAL FEI TOKEN-COUNTING RULES                     │
+│                       SPACE-DELIMITED WORD-COUNT CONVENTION               │
 ├───────────────────────────────┬──────────────┬────────────────────────────┤
 │ Word Construction             │ Word Count   │ Explanatory Rationale      │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
-│ *l'appartement*               │ **2 words**  │ *l'* (article) +           │
-│                               │              │ *appartement* (noun)       │
+│ *l'appartement*               │ **1 word**   │ String between spaces      │
+│                               │              │ (FEI/DELF convention)      │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
-│ *j'ai visité*                 │ **3 words**  │ *j'* (pronoun) + *ai*      │
-│                               │              │ (verb) + *visité* (pp)     │
+│ *j'ai visité*                 │ **2 words**  │ *j'ai* (1) +               │
+│                               │              │ *visité* (1)               │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
-│ *c'est-à-dire*                │ **1 word**   │ Hyphenated compounds count │
-│                               │              │ as a single token          │
+│ *c'est-à-dire*                │ **1 word**   │ Single hyphenated string   │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
-│ *peut-être / grand-mère*      │ **1 word**   │ Hyphen joins elements      │
+│ *peut-être / grand-mère*      │ **1 word**   │ Single hyphenated string   │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
 │ *au revoir*                   │ **2 words**  │ Separated by space         │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
-│ *15 mai 2026*                 │ **3 words**  │ Each numeral token counts  │
-│                               │              │ as one word                │
+│ *15 mai 2026*                 │ **3 words**  │ Each numeral token         │
+│                               │              │ separated by space         │
 ├───────────────────────────────┼──────────────┼────────────────────────────┤
 │ *quatre-vingt-dix*            │ **1 word**   │ Hyphenated number          │
 └───────────────────────────────┴──────────────┴────────────────────────────┘
@@ -88,15 +87,15 @@ On the computer-based TCF Canada (TCF-SO), the exam interface includes an automa
 
 #### The "Sweet Spot" Strategy: 80 to 100 Words
 The official boundary is strictly **60 to 120 words**:
-- Below 60 words: **Automated score penalty applied**.
-- Above 120 words: **Words beyond 120 are crossed out by the examiner and ignored**. If your invitation or sign-off occurs on word 124, you fail Bullet 3!
-- **Target the Sweet Spot**: Aiming for **85 to 95 words** ensures you are safely 25 words above the minimum floor and 25 words below the maximum ceiling. This provides complete immunity to minor counting discrepancies between software counters and human examiners.
+- **Below 60 words**: Length affects your mark; falling below the floor signals insufficient development of required points.
+- **Above 120 words**: Exceeding the ceiling risks penalizing task completion or wasting time needed for Tasks 2 and 3.
+- **Target the Sweet Spot**: Aiming for **80 to 100 words** ensures you are safely 20 words above the minimum floor and 20 words below the maximum ceiling. This provides complete immunity to minor counting discrepancies between software counters and human examiners.
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip
 
-On the TCF-SO keyboard interface, every elision (`d'`, `l'`, `qu'`, `j'`, `s'`) is treated as a distinct word separated by the apostrophe. Do not attempt to save words by avoiding elisions (which is a severe grammatical error); instead, monitor the built-in counter and aim to stop typing between **85 and 95 words**.
+Monitor the onscreen word counter and aim to stop typing between **80 and 100 words**. Any string of characters between two spaces is generally treated as one word (*j'ai* = 1 word, *l'édifice* = 1 word). Verify local software behavior with your test center instructions.
 
 </div>
 
@@ -181,7 +180,7 @@ Manage your 60-minute writing test by allocating no more than **12 minutes** to 
 > *• Proposez-lui de vous retrouver pour regarder vos photos.*  
 > *(60 à 120 mots).*
 
-##### Calibrated Benchmark Submission (94 words — Solid B2 Standard)
+##### Calibrated Benchmark Submission (85 words — Solid B2 Standard)
 
 > *Salut Thomas,*  
 > 
@@ -195,12 +194,12 @@ Manage your 60-minute writing test by allocating no more than **12 minutes** to 
 > *Julien*
 
 ##### Word Count and Criteria Audit
-- **Word Count**: 94 words (safely between 60 and 120).
+- **Word Count**: 85 words (safely between 60 and 120 words).
 - **Bullet 1 (Places visited)**: *Vieux-Montréal, kayak dans le parc de la Mauricie, paysages sauvages* (Satisfied).
 - **Bullet 2 (Feelings / impressions)**: *voyage mémorable, jours formidables, véritablement ébloui, dépaysant et ressourçant* (Satisfied).
 - **Bullet 3 (Proposal to meet)**: *Es-tu disponible vendredi soir pour dîner... regarder les photos* (Satisfied).
 - **Register**: Flawless *tutoiement* (*toi, tu, te*), natural closing (*Amitiés*).
-- **FEI Score Prediction**: **20/20 on Task 1 criteria**.
+- **Self-Assessment Check**: Fully satisfies all task and register requirements.
 
 ---
 
@@ -214,7 +213,7 @@ Manage your 60-minute writing test by allocating no more than **12 minutes** to 
 > *• Demandez les tarifs annuels et les modalités d'inscription.*  
 > *(60 à 120 mots).*
 
-##### Calibrated Benchmark Submission (89 words — Solid B2 Standard)
+##### Calibrated Benchmark Submission (86 words — Solid B2 Standard)
 
 > *Bonjour Monsieur Tremblay,*  
 > 
@@ -229,68 +228,58 @@ Manage your 60-minute writing test by allocating no more than **12 minutes** to 
 > *Antoine Lavoie*
 
 ##### Word Count and Criteria Audit
-- **Word Count**: 89 words.
+- **Word Count**: 86 words.
 - **Bullet 1 (Activities and level)**: *randonnée pédestre, ski de fond, niveau intermédiaire* (Satisfied).
 - **Bullet 2 (Motivations)**: *participer à des sorties de groupe pour progresser dans un cadre sécuritaire* (Satisfied).
 - **Bullet 3 (Fees and modalities)**: *montant de la cotisation annuelle, pièces justificatives requises* (Satisfied).
 - **Register**: Flawless formal *vouvoiement* (*vous contacte, votre association, pourriez-vous, vous remerciant*).
-- **FEI Score Prediction**: **20/20 on Task 1 criteria**.
+- **Self-Assessment Check**: Fully satisfies all task and register requirements.
 
 ---
 
 ### Guided Practice Drills
 
-#### Drill 1: Exact FEI Word Count Audit
-Calculate the exact official FEI word count for the following message. Apply all elision rules:
+#### Drill 1: Exact Space-Delimited Word Count Audit
+Calculate the word count for the following message under the standard space-delimited convention:
 
 > *« Salut Alex ! J'ai enfin trouvé l'appartement idéal au centre-ville. C'est un deux et demi très clair. Tu dois absolument venir le visiter ce week-end ! Es-tu libre ? À samedi, Marc. »*
 
 <details>
-<summary>View Official Word Count Calculation</summary>
+<summary>View Word Count Calculation</summary>
 
-Let us count token by token:
+Let us count token by token (any string of characters between two spaces):
 1. *Salut* (1)
 2. *Alex* (2)
-3. *!* (punctuation, 0)
-4. *J'* (3)
-5. *ai* (4)
-6. *enfin* (5)
-7. *trouvé* (6)
-8. *l'* (7)
-9. *appartement* (8)
-10. *idéal* (9)
-11. *au* (10)
-12. *centre-ville* (11 — hyphenated compound noun = 1 word)
-13. *.* (0)
-14. *C'* (12)
-15. *est* (13)
-16. *un* (14)
-17. *deux* (15)
-18. *et* (16)
-19. *demi* (17)
-20. *très* (18)
-21. *clair* (19)
-22. *.* (0)
-23. *Tu* (20)
-24. *dois* (21)
-25. *absolument* (22)
-26. *venir* (23)
-27. *le* (24)
-28. *visiter* (25)
-29. *ce* (26)
-30. *week-end* (27 — hyphenated noun = 1 word)
-31. *!* (0)
-32. *Es-tu* (28 — hyphenated verb-pronoun inversion counts as 1 or 2 depending on software, rater counts as 2 tokens: *es* + *tu* = 28, 29)
-33. *libre* (30)
-34. *?* (0)
-35. *À* (31)
-36. *samedi* (32)
-37. *,* (0)
-38. *Marc* (33)
-39. *.* (0)
+3. *J'ai* (3)
+4. *enfin* (4)
+5. *trouvé* (5)
+6. *l'appartement* (6)
+7. *idéal* (7)
+8. *au* (8)
+9. *centre-ville* (9 — hyphenated compound noun = 1 word)
+10. *C'est* (10)
+11. *un* (11)
+12. *deux* (12)
+13. *et* (13)
+14. *demi* (14)
+15. *très* (15)
+16. *clair.* (16)
+17. *Tu* (17)
+18. *dois* (18)
+19. *absolument* (19)
+20. *venir* (20)
+21. *le* (21)
+22. *visiter* (22)
+23. *ce* (23)
+24. *week-end* (24 — hyphenated noun = 1 word)
+25. *Es-tu* (25 — hyphenated verb-pronoun inversion)
+26. *libre* (26)
+27. *À* (27)
+28. *samedi,* (28)
+29. *Marc.* (29)
 
-**Total Count: ~33 words.**  
-*Diagnosis*: This draft is critically **UNDER-LENGTH** (floor is 60 words). It would receive an automatic penalty despite flawless French. It needs 30 additional words of description and feeling.
+**Total Count: ~29 words.**  
+*Diagnosis*: This draft is critically **UNDER-LENGTH** (floor is 60 words). It needs at least 35 additional words of description and feeling to satisfy the task.
 
 </details>
 
@@ -318,7 +307,7 @@ Identify and fix the three register contamination errors in the following email 
 <div class="lesson-content__panel" markdown="1">
 
 #### Exercise 1: Word Count Floor/Ceiling Diagnostic
-Analyze the three word counts below against official FEI TCF rules and diagnose their exam status:
+Analyze the three word counts below against TCF rules and diagnose their exam status:
 1. **Submission A**: 54 words.
 2. **Submission B**: 88 words.
 3. **Submission C**: 135 words.
@@ -326,9 +315,9 @@ Analyze the three word counts below against official FEI TCF rules and diagnose 
 <details>
 <summary>Check your answers</summary>
 
-1. **Submission A (54 words)**: **FAIL / PENALIZED**. Below the absolute floor of 60 words. Immediate point deduction for non-compliance with word count instructions.
-2. **Submission B (88 words)**: **OPTIMAL / PERFECT**. Positioned right in the sweet spot (80–100 words). Safe from any software or human tally discrepancies.
-3. **Submission C (135 words)**: **OVER-LENGTH PENALTY**. The final 15 words will be ignored. If the closing questions or signature are past word 120, the candidate loses points for missing required bullet points.
+1. **Submission A (54 words)**: **UNDER-LENGTH**. Below the floor of 60 words. This will weaken your task achievement score for insufficient development.
+2. **Submission B (88 words)**: **OPTIMAL / TARGET ZONE**. Positioned safely in the 80–100 word sweet spot.
+3. **Submission C (135 words)**: **OVER-LENGTH RISK**. Exceeds the 120-word limit. Beyond potential penalties for failing to follow word count instructions, writing too much in Task 1 robs time from Tasks 2 and 3.
 
 </details>
 
@@ -344,7 +333,7 @@ Set a countdown timer for **12 minutes** and complete the following authentic pr
 > *(60 à 120 mots).*
 
 <details>
-<summary>Check Model Benchmark (92 words)</summary>
+<summary>Check Model Benchmark (86 words)</summary>
 
 *Salut Mathieu,*  
 
@@ -354,17 +343,17 @@ Set a countdown timer for **12 minutes** and complete the following authentic pr
 
 *L'ambiance est particulièrement chaleureuse et mes collègues m'ont accueilli avec une grande bienveillance.*  
 
-*Et toi, comment se passe la rentrée ? L'équipe va-t-elle bien ? Donne-m'en des nouvelles !*  
+*Et toi, comment se passe la rentrée ? L'équipe va-t-elle bien ? Donne-moi de leurs nouvelles !*  
 
 *À très bientôt,*  
 *Sébastien*  
 
-*(92 mots — Respect intégral des trois consignes, tutoiement irréprochable, connecteurs naturels).*
+*(86 mots — Respect intégral des trois consignes, tutoiement irréprochable, connecteurs naturels).*
 
 </details>
 
 #### Exercise 3: Self-Scoring Verification Checklist
-Evaluate your Exercise 2 draft against the official FEI 4-criteria checklist:
+Evaluate your Exercise 2 draft against this unofficial self-assessment checklist:
 - [ ] Word count falls strictly between **60 and 120 words** (ideally 80–100 words).
 - [ ] Bullet 1 (Job title and duties) is explicitly described.
 - [ ] Bullet 2 (Impressions on colleagues and atmosphere) is clearly articulated.
@@ -381,9 +370,9 @@ Evaluate your Exercise 2 draft against the official FEI 4-criteria checklist:
 Confirm your tactical mastery of TCF Canada Writing Task 1:
 
 1. What are the strict word count boundaries for TCF Canada Writing Task 1, and what is the optimal "sweet spot"?  
-   [Review the FEI word count calculus and penalty system](#the-fei-word-count-calculus-and-penalty-system)
-2. How do elisions like *l'appartement* and *j'ai* count under official FEI token rules?  
-   [Review token-counting rules in word count calculus](#the-fei-word-count-calculus-and-penalty-system)
+   [Review the word count rules and target range](#the-word-count-rules-and-target-range-60120-words)
+2. How are words counted under standard FEI/DELF space-delimited conventions?  
+   [Review word-counting rules in word count rules](#the-word-count-rules-and-target-range-60120-words)
 3. Why does omitting even one bullet point from the prompt severely degrade your score?  
    [Review the golden rule of task 1 in anatomy of writing task 1](#anatomy-of-writing-task-1-prompts-and-functional-realities)
 4. What is "register contamination", and why is it penalized by examiners?  

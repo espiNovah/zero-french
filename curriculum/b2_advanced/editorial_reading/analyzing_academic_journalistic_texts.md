@@ -1,13 +1,13 @@
 ### Introduction
 
-On the **TCF Canada**, the **Compréhension écrite (CE)** examination requires candidates to complete 39 questions in 60 minutes. While early items (1 to 20) test pragmatic literacy—such as interpreting train schedules, workplace emails, short classified advertisements, and public safety notices—**items 26 through 39 present authentic, high-density journalistic editorials, academic essays, and public policy analyses**.
+On the **TCF Canada**, the **Compréhension écrite (CE)** examination requires candidates to complete 39 questions in 60 minutes. Items get progressively harder: the early items test pragmatic literacy—such as interpreting train schedules, workplace emails, short classified advertisements, and public safety notices—while **the later, harder items tend to present high-density journalistic editorials, academic essays, and public policy analyses**.
 
-These texts, drawn from leading Francophone publications such as *Le Monde*, *La Presse*, *Le Devoir*, and academic journals, are characterized by:
+These texts, similar in style to leading Francophone publications such as *Le Monde*, *La Presse*, *Le Devoir*, and academic journals, are characterized by:
 1. **High informational density**: Sentences containing multiple clauses, heavy nominalization, appositions, and passive constructions that pack extensive data into compact syntactic units.
 2. **Abstract and specialized lexicon**: Vocabulary spanning economics, sociology, ecology, administrative law, and technology.
 3. **Complex rhetorical architecture**: Authors do not present simple factual lists; they construct dialectical arguments where hypotheses are introduced, challenged with statistical counter-evidence, conceded in part, and reframed into an overarching conclusion.
 
-Attempting to read these texts word-by-word like a novel under a running 60-minute countdown is a fatal mistake that leaves candidates scrambling with unread passages on items 35–39. 
+Attempting to read these texts word-by-word like a novel under a running 60-minute countdown is a fatal mistake that leaves candidates scrambling with unread passages on the last items. 
 
 To achieve **NCLC 7 or higher (scores of 453–699 in Reading)**, you must master **macro-reading**: the ability to instantly decode a text's rhetorical skeleton, isolate core argumentative pivots, and navigate complex syntactic structures with surgical efficiency.
 
@@ -53,7 +53,7 @@ Whether analyzing an economic white paper from the *Institut du Québec* or an e
 ```
 
 #### Where Exam Questions Focus Their Targets
-TCF Canada reading questions on long texts (items 26–39) are almost never distributed randomly throughout a passage. They target specific structural junctures:
+TCF Canada reading questions on long texts are rarely distributed randomly throughout a passage. They tend to target specific structural junctures:
 - **Questions on the Author's Primary Purpose (*L'intention de l'auteur*)**: Target the **Problématique** (Paragraph 1) and the **Chute** (Final Paragraph).
 - **Questions on Specific Arguments (*L'argument avancé*)**: Target the **Exposé Dialectique** (Paragraphs 2 and 3).
 - **Questions on Obstacles or Criticisms (*Le reproche / L'objection*)**: Target the **Réfutation** (Paragraph 3 or 4).
@@ -63,7 +63,7 @@ TCF Canada reading questions on long texts (items 26–39) are almost never dist
 
 #### Exam tip
 
-Never read the entire 300-word text before reading the question stem! In TCF Reading, always **read the question stem first** (ignoring the four answer choices momentarily). The question stem tells you exactly which structural layer of the text to target. If the question asks *« Quel constat initial motive la réflexion de l'auteur ? »*, your eyes should go straight to the first three lines (*l'accroche*), ignoring the rest of the text.
+Never read an entire long text before reading the question stem! In TCF Reading, always **read the question stem first** (ignoring the four answer choices momentarily). The question stem tells you exactly which structural layer of the text to target. If the question asks *« Quel constat initial motive la réflexion de l'auteur ? »*, your eyes should go straight to the first three lines (*l'accroche*), ignoring the rest of the text.
 
 </div>
 
@@ -87,15 +87,15 @@ Let us deconstruct this into its underlying active propositions:
 
 By isolating the **grammatical subject** (*L'intensification*), the **causal nexus** (*consécutive à*), and the **main predicate** (*accentue l'effritement*), the sentence becomes crystal clear: **Automation causes job insecurity, which weakens the middle class.**
 
-#### 2. Participial Clauses and Absolute Constructions
-Instead of writing separate sentences linked by *parce que* or *puisque*, editorial writers use participial clauses (*participes présents* and *participes passés* used adverbially):
+#### 2. Participial Clauses and Infinitive Phrases
+Instead of writing separate sentences linked by *parce que* or *puisque*, editorial writers use participial clauses (*participes présents* and *participes passés* used adverbially) and prepositional infinitive phrases (*faute de*, *après*, *pour* + infinitive):
 
 > **Exemple :**  
 > *« Faute d'avoir anticipé la transition démographique, les régimes de retraite se trouvent aujourd'hui confrontés à un déséquilibre actuariel sans précédent. »*  
-> /fot d‿a.vwaʁ ɑ̃.ti.si.pe la tʁɑ̃.zi.sjɔ̃ de.mɔ.gʁa.fik, le ʁe.ʒim də ʁə.tʁɛt sə tʁuv o.ʒuʁ.dɥi kɔ̃.fʁɔ̃.te a œ̃ de.ze.ki.lɪbʁ ak.tsɥa.ʁjɛl sɑ̃ pʁe.se.dɑ̃/  
+> /fot d‿a.vwaʁ ɑ̃.ti.si.pe la tʁɑ̃.zi.sjɔ̃ de.mɔ.gʁa.fik, le ʁe.ʒim də ʁə.tʁɛt sə tʁuv o.ʒuʁ.dɥi kɔ̃.fʁɔ̃.te a œ̃ de.ze.ki.libʁ ak.tɥa.ʁjɛl sɑ̃ pʁe.se.dɑ̃/  
 > *Failing to have anticipated the demographic transition, pension systems now face an unprecedented actuarial imbalance.*
 
-The initial phrase *« Faute d'avoir anticipé »* establishes the causal explanation for the main clause that follows.
+The initial phrase *« Faute d'avoir anticipé »* is not a participial clause but a **prepositional infinitive phrase** (*faute de* + past infinitive). It establishes the causal explanation for the main clause that follows. A true participial equivalent would be *« N'ayant pas anticipé la transition démographique, les régimes de retraite… »*.
 
 #### 3. Nested Relative Clauses with Prepositions
 Upper-tier texts frequently deploy complex relative pronouns (*auquel, duquel, par lequel, au terme duquel*) that link multiple conceptual layers:
@@ -118,7 +118,7 @@ To navigate B2/C1 texts without constant dictionary hesitation, you must master 
 | **une aporie** | /yn a.pɔ.ʁi/ | logical impasse / insurmountable contradiction | *Tenter de concilier croissance infinie et ressources limitées constitue une aporie.* |
 | **la conciliation** | /la kɔ̃.si.lja.sjɔ̃/ | reconciliation / balancing conflicting needs | *La conciliation entre vie professionnelle et obligations familiales demeure complexe.* |
 | **le désengagement** | /lə de.zɑ̃.gaʒ.mɑ̃/ | withdrawal / scaling back of involvement | *Le désengagement progressif de l'État dans le financement du logement social.* |
-| **une dichotomie** | /yn dzi.kɔ.tɔ.mi/ | sharp division into two opposing parts | *L'auteur réfute la dichotomie simpliste entre écologie et rentabilité économique.* |
+| **une dichotomie** | /yn di.kɔ.tɔ.mi/ | sharp division into two opposing parts | *L'auteur réfute la dichotomie simpliste entre écologie et rentabilité économique.* |
 | **corroborer** | /kɔ.ʁɔ.bɔ.ʁe/ | to confirm / substantiate with evidence | *Les données statistiques récentes viennent corroborer les hypothèses de l'étude.* |
 | **infirmer** | /ɛ̃.fiʁ.me/ | to invalidate / disprove a theory | *Les résultats des essais cliniques ont infirmé la théorie initiale des chercheurs.* |
 | **obvier à** | /ɔb.vje a/ | to obviate / prevent or circumvent a danger | *Des mesures d'urgence ont été adoptées afin d'obvier aux ruptures d'approvisionnement.* |
@@ -129,7 +129,7 @@ To navigate B2/C1 texts without constant dictionary hesitation, you must master 
 
 In Canadian public administration and media, you will regularly encounter institutional terms distinct from European French:
 - *un mémoire* **(QC)**: A formal brief submitted by an organization during parliamentary or public hearings (*déposer un mémoire lors des consultations publiques*).
-- *la concertation sociale* **(QC)**: Tripartite dialogue between government, employers, and labor unions.
+- *la concertation sociale*: Tripartite dialogue between government, employers, and labor unions. (The term is also standard in France; it is listed here because it is frequent in Québec public debate.)
 - *les ordres de gouvernement* **(QC)**: The federal, provincial, and municipal levels of government (often called *les paliers de gouvernement*).
 - *l'itinérance* **(QC)**: The preferred Canadian term for homelessness (*le sans-abrisme* in France).
 
@@ -139,7 +139,7 @@ In Canadian public administration and media, you will regularly encounter instit
 
 ### The Three-Pass Macro-Reading Strategy
 
-To complete the 39 questions of Compréhension écrite within the 60-minute limit, implement the **Three-Pass Strategy** for every long passage (items 26–39):
+To complete the 39 questions of Compréhension écrite within the 60-minute limit, implement the **Three-Pass Strategy** for every long passage:
 
 ```
 PASS 1: THE RECONNAISSANCE SCAN (15 Seconds)
@@ -163,9 +163,9 @@ Eliminate literal matches (lexical traps) and select the conceptual paraphrase.
 
 ### Authentic Text Dissection: Editorial Case Study
 
-Let us analyze an authentic journalistic editorial modeled on contemporary Francophone Canadian debates.
+Let us analyze a fictional practice editorial modeled on contemporary Francophone Canadian debates.
 
-#### Source Text: *La Presse — Débats & Société*
+#### Practice Text (fictional, in the style of a newspaper op-ed)
 
 > **Titre : L'illusion du tout-numérique dans le réseau de la santé**  
 > *Par Dre Claire Morissette, médecin spécialiste*
@@ -264,7 +264,7 @@ Deconstruct the following dense sentence into its three fundamental component pr
 <div class="lesson-content__panel" markdown="1">
 
 #### Exercise 1: Structural Deconstruction Matrix
-Read the following authentic journalistic excerpt on telework and urban density, then complete the structural matrix below:
+Read the following practice excerpt on telework and urban density, then complete the structural matrix below:
 
 > **Texte :**  
 > *« L'avènement du travail hybride a suscité un fol espoir de décongestion pour nos métropoles étouffées par la circulation automobile. D'aucuns y ont vu le début d'un rééquilibrage harmonieux au profit des villes moyennes de villégiature. Il appert toutefois que ce desserrement spatial produit des effets pervers imprévus. En s'installant dans des banlieues toujours plus éloignées tout en conservant deux jours de présence hebdomadaire au centre-ville, les télétravailleurs parcourent des distances individuelles accrues, souvent au volant de véhicules lourds, anéantissant ainsi les gains énergétiques escomptés. »*
@@ -363,5 +363,5 @@ This section provides verified links to high-quality external resources for ongo
 * [La Presse — Débats et éditoriaux](https://www.lapresse.ca/) — High-quality Canadian editorial journalism offering rich public policy debates and formal prose.
 * [Radio-Canada Info — Analyses et dossiers de fond](https://ici.radio-canada.ca/info) — In-depth investigative articles and long-format analytical reporting on Canadian and international affairs.
 * [OQLF — Vitrine linguistique du Québec](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Indispensable reference for Canadian institutional terminology, administrative syntax, and formal usage.
-* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official guidelines detailing reading passage typography, difficulty bands, and question design.
+* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official information on the TCF Canada reading section.
 

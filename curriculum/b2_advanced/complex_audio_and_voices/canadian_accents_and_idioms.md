@@ -1,8 +1,8 @@
 ### Introduction
 
-For candidates taking the **TCF Canada**, mastering standard metropolitan French is essential, but relying on it exclusively is one of the most perilous traps in the entire examination. Because the TCF Canada is specifically accredited by **Immigration, Refugees and Citizenship Canada (IRCC)** and the **Ministère de l'Immigration, de la Francisation et de l'Intégration (MIFI)** of Québec, the **Compréhension orale (CO)** section systematically integrates authentic recordings featuring speakers from Québec, New Brunswick (Acadia), and Franco-Ontarian communities.
+For candidates taking the **TCF Canada**, mastering standard metropolitan French is essential, but relying on it exclusively is one of the most perilous traps in the entire examination. Because the TCF Canada is specifically accredited by **Immigration, Refugees and Citizenship Canada (IRCC)** and the **Ministère de l'Immigration, de la Francisation et de l'Intégration (MIFI)** of Québec, you may hear varied francophone accents in the **Compréhension orale (CO)** section, and Canadian speakers are a realistic possibility. Outside the exam, Québec, Acadian, and Franco-Ontarian French are what you will hear every day in Canada.
 
-In items 26 through 39 (the Upper B2 and C1 tiers), candidates regularly encounter unscripted panel debates, street interviews (*micro-trottoirs*), and cultural segments where speakers naturally employ **Québec phonological rules** (such as dental affrication, high-vowel laxing, and vowel diphthongization) and high-frequency colloquial expressions. Candidates who have trained only on European French often experience cognitive paralysis when an audio recording features a speaker saying *« Faque là, il a frappé un nœud pis il s'est fait passer un sapin »*.
+In authentic Canadian audio—unscripted panel debates, street interviews (*micro-trottoirs*), and cultural segments—speakers naturally employ **Québec phonological rules** (such as dental affrication, high-vowel laxing, and vowel diphthongization) and high-frequency colloquial expressions. Learners who have trained only on European French often freeze when a recording features a speaker saying *« Faque là, il a frappé un nœud pis il s'est fait passer un sapin »*.
 
 To achieve **NCLC 7 or higher (scores of 458–699 in Listening)**, you do not need to speak with a Québec accent yourself during the oral exam, but you must possess **flawless passive decoding competence**. This lesson breaks down the exact acoustic transformations, phonetic rules, grammatical markers, and idiomatic expressions characteristic of North American French, enabling you to extract critical communicative meaning instantly under single-play exam conditions.
 
@@ -16,7 +16,7 @@ By the end of this lesson, you will be able to:
 - Understand the phonetic mechanisms and auditory patterns of **vowel diphthongization** in lengthened syllables.
 - Decipher common spoken Canadian morphosyntactic features, including the interrogative particle *tu*, the connective *faque*, and emphatic *pantoute*.
 - Interpret high-frequency Canadian idiomatic expressions in spontaneous conversations without falling for literal distractor traps.
-- Apply systematic decoding strategies to TCF Canada audio items 25–35 featuring North American Francophone speakers.
+- Apply systematic decoding strategies to listening items featuring North American Francophone speakers.
 
 ---
 
@@ -41,13 +41,15 @@ The single most pervasive acoustic feature of Laurentian (Québec and Ontario) F
 | :--- | :--- | :--- | :--- | :--- |
 | **tu dis** | /ty di/ | [tsy dzi] | *"tsu dzee"* | you say |
 | **dimanche** | /di.mɑ̃ʃ/ | [dzi.mãːʃ] | *"dzee-menche"* | Sunday |
-| **le député** | /lə de.py.te/ | [lə dze.py.te] | *"le dzéputé"* | the member of parliament |
-| **l'équipe** | /l‿e.kip/ | [l‿e.tsɪp] | *"lé-tsip"* | the team |
-| **partir** | /paʁ.tiʁ/ | [paʁ.tsɪːʁ] | *"par-tseer"* | to leave |
+| **dur** | /dyʁ/ | [dzyːʁ] | *"dzur"* | hard |
+| **la tuque** | /la tyk/ | [la tsʏk] | *"la tsuk"* | the winter hat |
+| **partir** | /paʁ.tiʁ/ | [paʁ.tsiːʁ] | *"par-tseer"* | to leave |
+
+Affrication **never** applies before other vowels: *le député* stays [lə de.py.te] (/d/ + /e/), *l'équipe* stays [l‿e.kɪp] (no /t/ at all), and *tout* stays [tu]. Only the /t/ or /d/ directly followed by /i, y, j, ɥ/ changes.
 
 > **Tu viens-tu dimanche matin ?** — /tsy vjɛ̃ tsy dzi.mɑ̃ʃ ma.tɛ̃/ — *Are you coming Sunday morning?*
 
-On the TCF Canada exam, affrication appears constantly in both formal institutional interviews and street-level vox pops. You must train your auditory cortex to filter out the [s] and [z] friction so that *« l'attitude du député »* is immediately registered as *attitude du député* rather than an unfamiliar vocabulary item.
+In Canadian recordings, affrication appears constantly in both formal institutional interviews and street-level vox pops. You must train your ear to filter out the [s] and [z] friction so that *« l'attitude du député »*—heard as [la.tsi.tsʏd dzy de.py.te]—is immediately registered as *attitude du député* rather than an unfamiliar vocabulary item.
 
 #### 2. High-Vowel Laxing (/i/ → [ɪ], /y/ → [ʏ], /u/ → [ʊ])
 In standard European French, high vowels (/i/, /y/, /u/) remain tense and peripheral regardless of syllable structure. In Canadian French, when these vowels appear in a **closed syllable** (a syllable ending in a pronounced consonant other than the lengthening consonants /ʁ, z, v, vʁ/), they become lax, adopting open qualities identical to English short vowels in *bit*, *book*, and German *Hütte*:
@@ -55,9 +57,9 @@ In standard European French, high vowels (/i/, /y/, /u/) remain tense and periph
 | Vowel Shift | Standard IPA | Canadian IPA | Example Word | Meaning |
 | :--- | :--- | :--- | :--- | :--- |
 | **/i/ → [ɪ]** | /vit/ | [vɪt] | **vite** | fast |
-| **/i/ → [ɪ]** | /mi.nyt/ | [mi.nʏt] | **minute** | minute |
+| **/i/ → [ɪ]** | /ʁiʃ/ | [ʁɪʃ] | **riche** | rich |
 | **/y/ → [ʏ]** | /lyn/ | [lʏn] | **lune** | moon |
-| **/y/ → [ʏ]** | /syr/ | [sʏːʁ] | **sûr** | sure / certain |
+| **/y/ → [ʏ]** | /lyt/ | [lʏt] | **lutte** | struggle / fight |
 | **/u/ → [ʊ]** | /tut/ | [tʊt] | **toute** | all (fem.) |
 | **/u/ → [ʊ]** | /ʁut/ | [ʁʊt] | **route** | road |
 
@@ -68,14 +70,14 @@ When a historically long vowel (often indicated in orthography by a circumflex a
 
 - **/ɛː/ → [aɛ̯] or [ɛɪ̯]**: *la fête* becomes [la faɛ̯t], *la tête* becomes [la taɛ̯t], *maître* becomes [maɛ̯tʁ].
 - **/oː/ → [oʊ̯] or [aʊ̯]**: *la chose* becomes [la ʃoʊ̯z], *un autre* becomes [œ̃n oʊ̯tʁ].
-- **/øː/ → [øʏ̯]**: *le jeune* becomes [lə ʒaœ̯n], *le fleuve* becomes [lə flaœ̯v].
+- **/øː/ → [øʏ̯]**: *le jeûne* (fasting) becomes [lə ʒøʏ̯n]. Long /œː/ before /ʁ/ or /v/ can likewise become [aœ̯]: *le fleuve* [lə flaœ̯v], *la peur* [la paœ̯ʁ]. Short vowels do not diphthongize: *le jeune* stays [lə ʒœn].
 - **/œ̃/ vs /ɛ̃/ Preservation**: While European French has largely merged *brun* /bʁœ̃/ into *brin* /bʁɛ̃/, Canadian French maintains the strict distinction: *un bon vin blanc* preserves four completely distinct nasal vowels: [œ̃ bɔ̃ vɛ̃ blɑ̃].
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
-In France, the word *maison* is pronounced [mɛ.zɔ̃] or [me.zɔ̃]. In informal Canadian speech, you will frequently hear [meɪ̯.zɔ̃] or even [maɛ̯.zɔ̃]. Similarly, *le père* is pronounced [lə pɛʁ] in Paris but [lə paɛ̯ʁ] in regional Québec speech. Recognizing these diphthongs prevents the momentary disorientation that leads candidates to miss the subsequent sentence on the exam recording.
+In France, the word *neige* is pronounced [nɛʒ]. In informal Canadian speech, the long vowel before /ʒ/ is frequently heard as [nɛɪ̯ʒ] or even [naɛ̯ʒ]. Similarly, *le père* is pronounced [lə pɛʁ] in Paris but [lə paɛ̯ʁ] in regional Québec speech. Recognizing these diphthongs prevents the momentary disorientation that leads listeners to miss the next sentence of a recording.
 
 </div>
 
@@ -83,7 +85,7 @@ In France, the word *maison* is pronounced [mɛ.zɔ̃] or [me.zɔ̃]. In informa
 
 ### Morphosyntax and Discourse Markers in Spoken Canadian French
 
-Spoken Canadian French utilizes several unique grammatical structures and discourse connectors that do not exist in standard written textbooks. When listening to dialogues in items 20–30 on the TCF Canada, encountering these structures can derail your comprehension if you treat them literally.
+Spoken Canadian French utilizes several unique grammatical structures and discourse connectors that do not exist in standard written textbooks. When listening to informal Canadian dialogues, encountering these structures can derail your comprehension if you treat them literally.
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -140,7 +142,7 @@ Contraction of *à cette heure*, functioning as *maintenant* or *à présent*:
 
 ### Authentic Idioms and Metaphorical Expressions
 
-TCF Canada listening recordings frequently test your ability to infer meaning from figurative and idiomatic speech. The table below presents ten of the most common Canadian idioms encountered in media discussions, workplaces, and informal narratives:
+Listening comprehension often requires you to infer meaning from figurative and idiomatic speech, and spontaneous Canadian French is rich in it. The table below presents ten common Canadian idioms encountered in media discussions, workplaces, and informal narratives (all are familiar register):
 
 | Canadian Idiom | Literal Image | Figurative Meaning | Standard French Equivalent |
 | :--- | :--- | :--- | :--- |
@@ -153,7 +155,7 @@ TCF Canada listening recordings frequently test your ability to infer meaning fr
 | **avoir de l'eau dans la cave** | to have water in the basement | wearing pants that are noticeably too short | *porter des pantalons trop courts* |
 | **cogner des clous** | to hammer nails (with one's nodding head) | to nod off while fighting sleep | *somnoler / s'endormir de fatigue* |
 | **virer de bord** | to turn the boat around | to change direction or change one's mind | *faire demi-tour / changer d'avis radicalement* |
-| **donner son voyage (à qqn)** | to give someone their trip | to fire, dismiss, or terminate someone's employment | *licencier quelqu'un / renvoyer un employé* |
+| **avoir son voyage** | to have one's trip | to be fed up, to have had enough (also: to be flabbergasted) | *en avoir assez / en avoir marre* |
 
 #### Contextual Analysis of Expressions
 
@@ -168,7 +170,7 @@ Let us examine how these expressions operate within authentic Canadian speech:
 > *In commercial negotiations, one must be vigilant so as not to get swindled.*
 
 > **Malgré les difficultés de la première session, l'étudiant a refusé de lâcher la patate.**  
-> /mal.gʁe le dzi.fi.kyl.te də la pʁə.mjɛːʁ sɛ.sjɔ̃, l‿e.tsy.djɑ̃ a ʁə.fy.ze də lɑ.ʃe la pa.tat/  
+> /mal.gʁe le dzi.fi.kyl.te də la pʁə.mjɛːʁ sɛ.sjɔ̃, l‿e.tsy.dzjɑ̃ a ʁə.fy.ze də lɑ.ʃe la pa.tat/  
 > *Despite the difficulties of the first term, the student refused to throw in the towel.*
 
 ---
@@ -186,7 +188,7 @@ TCF CANADA AUDIO TRAPS        ┼─── Trap 2: The Affrication Stumble (conf
 ```
 
 #### Trap 1: The Literal Fallacy
-In item 28, an employee says: *« Mon patron voulait me refiler le dossier litigieux, mais j'étais vite sur mes patins et j'ai refusé poliment. »*  
+In a listening item, an employee says: *« Mon patron voulait me refiler le dossier litigieux, mais j'étais vite sur mes patins et j'ai refusé poliment. »*  
 The multiple-choice options might offer:
 - A) L'employé pratique le patinage artistique en hiver.
 - B) L'employé a réagi avec vivacité pour éviter une tâche problématique.
@@ -198,12 +200,12 @@ The multiple-choice options might offer:
 #### Trap 2: Acoustic De-affrication Strategy
 When you hear an affricated consonant, apply **mental de-affrication**:
 1. Hear `[ts]` followed by `[i]` or `[y]` → strip the `[s]` → recognize `/t/`.  
-   *Example*: `[œ̃ tsɪ.tsɛt]` → strip `[s]` → *un ticket* (un billet).
+   *Example*: `[œ̃ tsɪp]` → strip `[s]` → *un type* (un gars, a guy).
 2. Hear `[dz]` followed by `[i]` or `[y]` → strip the `[z]` → recognize `/d/`.  
    *Example*: `[dzy vɛ̃]` → strip `[z]` → *du vin*.
 
 #### Trap 3: Register Sensitivity
-On the TCF Canada, speakers switch registers depending on context. In **formal interviews** on Radio-Canada (*Midi info*), the host and guest will use formal international syntax (*le vouvoiement*, standard inversion or *est-ce que*, absence of *faque*), but will retain subtle **affrication** and **vowel timbre shifts**. In informal vox pops (*micro-trottoirs*), full colloquial syntax (*tu* questions, *faque*, idioms) will be present. You must adapt your decoding expectations to the speaker's social context.
+Canadian speakers switch registers depending on context. In **formal interviews** on Radio-Canada (*Midi info*), the host and guest will use formal international syntax (*le vouvoiement*, standard inversion or *est-ce que*, absence of *faque*), but will retain subtle **affrication** and **vowel timbre shifts**. In informal vox pops (*micro-trottoirs*), full colloquial syntax (*tu* questions, *faque*, idioms) will be present. You must adapt your decoding expectations to the speaker's social context.
 
 ---
 
@@ -215,7 +217,7 @@ Convert each spoken Québec statement into standard international French:
 1. *« Y fait frette dehors, attache ta tuque avec de la broche si tu sors ! »*
 2. *« Le char est tombé en panne sur la vingt, faque je suis arrivé en retard au meeting. »*
 3. *« C'est-tu la bonne porte pour le bureau des passeports ? »*
-4. *« Ils nous ont fait passer un sapin avec ce contrat d'assurance là. »*
+4. *« Ils nous ont passé un sapin avec ce contrat d'assurance là. »*
 5. *« J'ai ben gros de la misère à comprendre ce règlement-là. »*
 
 <details>
@@ -230,7 +232,7 @@ Convert each spoken Québec statement into standard international French:
 </details>
 
 #### Drill 2: TCF Audio Comprehension Simulation
-Read the script of an authentic TCF Canada Level B2 dialogue and answer the question:
+Read the script of a fictional B2-level practice dialogue (written in the style of a TCF Canada item) and answer the question:
 
 > **L'interviewer :**  
 > *« Alors, monsieur Tremblay, après la fermeture inattendue de l'usine textile de Shawinigan, comment les salariés ont-ils réagi face à la direction ? »*
@@ -266,27 +268,27 @@ Read the script of an authentic TCF Canada Level B2 dialogue and answer the ques
 #### Exercise 1: Systematic Affrication and Lexicon Decoding
 Transcribe the following 6 Canadian phonetic phrases into standard orthographic French, then provide their English meaning:
 
-1. `[tsy ve tsy vniʁ a mɔ̃.ʁe.al]`
-2. `[il a dɔ.ne sɔ̃ vwa.jaːʒ o kɔ̃p.tabl]`
-3. `[s‿e tsy pɔ.sɪbl də kɔ.mɑ̃.de œ̃ bʁœ̃]`
+1. `[tsy vø tsy vniʁ a mɔ̃.ʁe.al]`
+2. `[ʒ‿e mɔ̃ vwa.jaːʒ, lə kɔ̃.tabl a ɑ̃.kɔʁ pɛʁ.dzy lə dɔ.sje]`
+3. `[s‿e tsy pɔ.sɪbl də sta.sjɔ.ne i.sɪt]`
 4. `[fak la, ʒ‿e fʁa.pe œ̃ nœ avɛk la bɑ̃k]`
-5. `[l‿e.tsɪp a ʁə.fy.ze də lɑ.ʃe la pa.tat]`
-6. `[ʒ‿e pɑ̃.tʊt kɔ̃.pʁi lə dzi.skuːʁ dy dze.py.te]`
+5. `[l‿e.kɪp a ʁə.fy.ze də lɑ.ʃe la pa.tat]`
+6. `[ʒ‿e pɑ kɔ̃.pʁi pɑ̃.tʊt lə dzis.kuːʁ dzy de.py.te]`
 
 <details>
 <summary>Check your answers</summary>
 
 1. **Orthography:** *Tu veux-tu venir à Montréal ?*  
    **English:** Do you want to come to Montreal?
-2. **Orthography:** *Il a donné son voyage au comptable.*  
-   **English:** He fired / dismissed the accountant.
-3. **Orthography:** *C'est-tu possible de commander un brun ?*  
-   **English:** Is it possible to order a [coffee with milk] / a brown one?
+2. **Orthography:** *J'ai mon voyage, le comptable a encore perdu le dossier.*  
+   **English:** I'm fed up — the accountant lost the file again. (*Avoir son voyage* = to have had enough; "to fire someone" would be *mettre quelqu'un à la porte*.)
+3. **Orthography:** *C'est-tu possible de stationner icitte ?*  
+   **English:** Is it possible to park here?
 4. **Orthography:** *Faque là, j'ai frappé un nœud avec la banque.*  
    **English:** So then, I hit a brick wall / encountered a major obstacle with the bank.
 5. **Orthography:** *L'équipe a refusé de lâcher la patate.*  
    **English:** The team refused to give up / throw in the towel.
-6. **Orthography:** *J'ai pantoute compris le discours du député.* (or *Je n'ai pantoute compris...*)  
+6. **Orthography:** *J'ai pas compris pantoute le discours du député.* (*Pantoute* follows the verb and pairs with *pas*, like *pas du tout*.)  
    **English:** I didn't understand the member of parliament's speech at all.
 
 </details>
@@ -297,11 +299,11 @@ Add the following high-priority Canadian items to your spaced-repetition deck wi
 1. **le char** — /lə ʃaʁ/ — *la voiture / l'automobile (car)*
 2. **le dépanneur** — /lə de.pa.nœʁ/ — *la supérette / le magasin de quartier ouvert tard (convenience store)*
 3. **la facture** — /la fak.tsyːʁ/ — *l'addition au restaurant / note à payer (bill)*
-4. **magasiner** — /ma.ga.zi.ne/ — *faire les courses / faire du shopping (to shop)*
+4. **magasiner** — /ma.ga.zi.ne/ — *faire du shopping / faire du lèche-vitrine (to shop, to go shopping)*
 5. **le courriel** — /lə ku.ʁjɛl/ — *l'e-mail / le message électronique (email)*
 6. **la fin de semaine** — /la fɛ̃ də s(ə).mɛn/ — *le week-end (weekend)*
 7. **le traversier** — /lə tʁa.vɛʁ.sje/ — *le ferry / bac maritime (ferry)*
-8. **le pourboire** — /lə puʁ.bwaʁ/ — *le tip / gratification obligatoire au service (tip)*
+8. **la tuque** — /la tsʏk/ — *le bonnet d'hiver (winter hat)*
 9. **le cégep** — /lə se.ʒɛp/ — *collège d'enseignement général et professionnel (post-secondary college in QC)*
 10. **stationner** — /sta.sjɔ.ne/ — *se garer (to park a vehicle)*
 
@@ -315,7 +317,7 @@ Access an authentic audio broadcast from **Radio-Canada Première** or **Radio-C
 
 #### Exercise 4: Spoken Production Benchmark
 Record a 60-second voice note explaining the difference between European and Canadian French to a fellow learner preparing for the TCF Canada. Incorporate:
-- An explanation of why Canadian audio comprehension is mandatory for NCLC 7.
+- An explanation of why decoding Canadian accents helps on the TCF Canada listening section and in daily life in Canada.
 - Two specific phonetic rules (affrication and high-vowel laxing).
 - One authentic idiom explained clearly with its figurative meaning.
 
@@ -347,4 +349,4 @@ This section provides verified links to high-quality external resources for deep
 * [OQLF — Vitrine linguistique du Québec](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — The official government repository for Canadian French terminology, pronunciation guides, and standardized Québec usage.
 * [Radio-Canada Première — Émissions en direct et en rattrapage](https://ici.radio-canada.ca/premiere) — Stream authentic public radio programming to immerse yourself in natural Canadian cadences, political debates, and cultural interviews.
 * [Radio-Canada Ohdio — Balados et baladodiffusion](https://ici.radio-canada.ca/ohdio) — Extensive library of curated podcasts spanning Canadian history, investigative journalism, and contemporary culture.
-* [France Éducation international — Évaluation du TCF Canada](https://www.france-education-international.fr/) — Official guidelines detailing the inclusion of regional Francophone accents and listening comprehension rubrics.
+* [France Éducation international — Évaluation du TCF Canada](https://www.france-education-international.fr/) — Official information on the TCF Canada format and candidate rules.

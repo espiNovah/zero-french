@@ -4,20 +4,20 @@ On the **TCF Canada Expression écrite (EE)**, **Tâche 2 (Task 2)** represents 
 
 While Task 1 (60–120 words) tests functional interaction, **Task 2 requires you to produce a continuous, balanced text of 120 to 150 words within approximately 18 to 20 minutes**.
 
-The prompt is typically framed as a contribution to an online civic forum, an opinion column in a community newspaper, or a letter to an organizational committee. Crucially, every official Task 2 prompt imposes a **dual communicative obligation**:
+The prompt is typically framed as a contribution to an online civic forum, an opinion column in a community newspaper, or a letter to an organizational committee. Many Task 2 prompts combine a **dual communicative obligation**:
 1. **The Recount Component (*Raconter une expérience vécue*)**: You must narrate a concrete personal experience, observation, or situation that illustrates the issue.
 2. **The Argumentative Component (*Exprimer un avis critique et argumenté*)**: You must step back from the personal anecdote, analyze the broader societal stakes, and propose constructive solutions or critical viewpoints.
 
 Candidates who produce 140 words of pure personal storytelling with no critical analysis fail to satisfy the prompt. Conversely, candidates who write 140 words of abstract philosophical commentary with no concrete personal recount lose essential task-achievement marks.
 
-To secure an upper-tier score (**NCLC 7–9**), you must master the **Bipartite Architecture**: a mathematically balanced 50/50 structure that transitions seamlessly from vivid personal testimony to authoritative B2 sociological analysis.
+To reach **NCLC 7 or higher** (10/20 or more in Expression écrite), you must master the **Bipartite Architecture**: a mathematically balanced 50/50 structure that transitions seamlessly from vivid personal testimony to authoritative B2 sociological analysis.
 
 ---
 
 ### Lesson overview
 
 By the end of this lesson, you will be able to:
-- Deconstruct official TCF Writing Task 2 prompts and execute the mandatory **50/50 narrative-argumentative balance**.
+- Deconstruct TCF-style Writing Task 2 prompts and execute the mandatory **50/50 narrative-argumentative balance**.
 - Navigate the strict **120 to 150 word boundary** and target the optimal 132–142 word sweet spot.
 - Implement the **Bipartite Structural Blueprint** (Paragraph 1: Anecdote & Context; Paragraph 2: Critical Analysis & Recommendations).
 - Elevate basic B1 narrative prose into high-register B2 analytical French using nominalization, concessive articulators, and modal verbs.
@@ -27,7 +27,7 @@ By the end of this lesson, you will be able to:
 
 ### Anatomy of Writing Task 2: Dual-Modality Prompts
 
-In the official France Éducation international (FEI) assessment framework, Task 2 evaluates your ability to shift linguistic registers within a single cohesive text:
+Task 2 evaluates your ability to shift linguistic registers within a single cohesive text:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -50,32 +50,34 @@ In the official France Éducation international (FEI) assessment framework, Task
 
 ---
 
-### The FEI Word Count Ceiling and Floor (120-150 Words)
+### The Word Count Ceiling and Floor (120-150 Words)
 
-The word-count constraints for Task 2 are uncompromising:
+Task 2 asks for **120 to 150 words**. Respect that range:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
-│                   TASK 2 WORD-COUNT PENALTY BRACKETS                      │
+│                     TASK 2 WORD-COUNT TARGETS                             │
 ├─────────────────────────┬─────────────────────────────────────────────────┤
-│ Word Count              │ Official FEI Evaluation Status                  │
+│ Word Count              │ What It Means for You                           │
 ├─────────────────────────┼─────────────────────────────────────────────────┤
-│ Under 120 words         │ **AUTOMATIC SCORE PENALTY**: Point deductions   │
-│ (e.g., 105–118 words)   │ for failure to respect minimum task constraints │
+│ Under 120 words         │ Below the required range: length affects task   │
+│                         │ completion, and the text is likely incomplete   │
 ├─────────────────────────┼─────────────────────────────────────────────────┤
-│ **130 to 142 words**    │ **OPTIMAL SWEET SPOT**: Perfect safety buffer,  │
-│                         │ complete criteria coverage, zero penalty risk   │
+│ **130 to 142 words**    │ **COMFORTABLE TARGET**: safety buffer on both   │
+│                         │ sides, room for both movements                  │
 ├─────────────────────────┼─────────────────────────────────────────────────┤
-│ Over 150 words          │ **WORDS PAST 150 CROSSED OUT**: Human raters   │
-│ (e.g., 155–170 words)   │ draw a line at word 150 and ignore the rest!    │
+│ Over 150 words          │ Above the required range: length still affects │
+│                         │ task completion, and it costs time for Task 3   │
 └─────────────────────────┴─────────────────────────────────────────────────┘
 ```
+
+**How to count:** following the FEI/DELF convention, a word is any string between two spaces (*j'ai* = 1 word, *c'est-à-dire* = 1 word). Confirm the rule in the current TCF Canada candidate guide.
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### The 150-word ceiling
 
-If your final recommendation or concluding thought falls after word 150, the examiner will simply not read it. If that unread segment contained your solution, you fail the second half of the prompt! Train yourself to hit **between 132 and 142 words** every time.
+FEI does not publish an exact penalty for going over 150 words, so don't rely on rumours about examiners "crossing out" extra words. What is certain: length and respect of instructions affect task completion, and every extra sentence eats time you need for Task 3. Make sure your recommendation is fully developed inside the range, and train yourself to hit **between 132 and 142 words** every time.
 
 </div>
 
@@ -113,22 +115,22 @@ To score at **NCLC 7 or higher**, you must elevate conversational narrative into
 | *Tout le monde était très énervé.* | *Cette situation a suscité une exaspération légitime au sein des usagers.* | Psychological nominalization (*exaspération*) |
 | *Il faut que le maire change les règles.* | *Il s'avère impératif que les élus municipaux repensent le cadre réglementaire.* | Impersonal necessity + subjunctive mood |
 | *C'est bien mais c'est trop cher.* | *Si cette initiative s'avère louable, son coût prohibitif freine son adoption.* | Concessive subordination (*si...*) |
-| *Je pense qu'on devrait améliorer ça.* | *On gagnerait indéniablement à instaurer une tarification incitative.* | Journalistic conditional + modal adverb |
+| *Je pense qu'on devrait améliorer ça.* | *On gagnerait indéniablement à instaurer une tarification incitative.* | Conditional of suggestion + modal adverb |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
-In Canadian forums and media columns (*chroniques citoyennes*), social debates frequently reference specific civic frameworks:
-- *la consultation citoyenne* **(QC)**: Public hearings organized by cities or borough councils (*les conseils d'arrondissement*).
-- *la collecte sélective* **(QC)**: Curbside recycling and organic waste sorting (*le recyclage et le compostage*).
-- *l'usager / les usagers* **(QC)**: The preferred formal term for passengers, transit riders, or public service users (*les usagers du transport collectif*).
+In Canadian forums and media columns (*chroniques citoyennes*), social debates frequently use the following civic terms. None of them is a québécisme: they are standard French on both sides of the Atlantic, so you can use them safely in any Task 2:
+- *la consultation citoyenne*: Public consultation organized by a city or borough council (*les conseils d'arrondissement*).
+- *la collecte sélective*: Separate collection of recyclables and organic waste (*le recyclage et le compostage*).
+- *l'usager / les usagers*: The formal term for public service users and transit riders (*les usagers du transport collectif*).
 
 </div>
 
 ---
 
-### Authentic Prompts and Calibrated Benchmarks
+### Practice Prompts and Calibrated Benchmarks
 
 #### Case Study 1: Citizen Forum on Urban Waste Reduction
 
@@ -139,18 +141,18 @@ In Canadian forums and media columns (*chroniques citoyennes*), social debates f
 
 ##### Calibrated Benchmark Submission (137 words — Upper B2 Standard)
 
-> *La semaine dernière, en faisant mes courses dans une épicerie de quartier, j'ai été stupéfait de constater que chaque légume biologique était emballé individuellement sous une double couche de plastique non recyclable. Cette contradiction écologique m'a profondément heurté.*  
+> *La semaine dernière, en faisant mes courses dans une épicerie de quartier, j'ai été stupéfait de constater que chaque légume biologique était emballé individuellement sous une double couche de plastique non recyclable. Lorsque j'ai interrogé le gérant, il m'a expliqué que ses fournisseurs imposaient ce conditionnement. Cette contradiction écologique m'a profondément heurté.*  
 > 
-> *Force est de constater que la prolifération de ces emballages jetables constitue une aberration environnementale majeure qui asphyxie nos centres de tri municipaux. S'il est indéniable que le plastique protège la fraîcheur des aliments, il s'avère désormais urgent de responsabiliser les distributeurs. Plutôt que d'imposer des sanctions punitives immédiates, les municipalités gagneraient à subventionner l'achat de contenants réutilisables et à encourager la vente en vrac à l'aide d'allègements fiscaux ciblés pour les commerces écoresponsables.*  
+> *Force est de constater que la prolifération de ces emballages jetables constitue une aberration environnementale majeure qui asphyxie nos centres de tri municipaux. S'il est indéniable que le plastique protège la fraîcheur des aliments, il s'avère désormais urgent de responsabiliser les distributeurs. Plutôt que d'imposer des sanctions punitives immédiates, les municipalités gagneraient à subventionner l'achat de contenants réutilisables et à encourager la vente en vrac à l'aide d'allègements fiscaux ciblés pour les commerces écoresponsables. Une telle démarche concilierait enfin protection de l'environnement et vitalité économique locale.*  
 > 
 > *Marc Beaulieu*
 
 ##### Word Count and Criteria Audit
-- **Word Count**: 137 words (safely between 120 and 150).
-- **Movement 1 (Recount)**: Paragraph 1 (51 words) vividly recounts grocery store experience.
-- **Movement 2 (Opinion & Solution)**: Paragraph 2 (84 words) analyzes systemic impact (*asphyxie nos centres de tri*) and proposes concrete solutions (*subventionner le vrac, allègements fiscaux*).
+- **Word Count**: 137 words, signature excluded (safely between 120 and 150).
+- **Movement 1 (Recount)**: Paragraph 1 (52 words) vividly recounts grocery store experience.
+- **Movement 2 (Opinion & Solution)**: Paragraph 2 (85 words) analyzes systemic impact (*asphyxie nos centres de tri*) and proposes concrete solutions (*subventionner le vrac, allègements fiscaux*).
 - **Linguistic Quality**: B2 logical markers (*Force est de constater que, S'il est indéniable que, Plutôt que de*), elevated lexicon (*aberration environnementale, contenants réutilisables*).
-- **FEI Score Prediction**: **20/20 on Task 2 criteria**.
+- **Self-assessment** (unofficial): meets every requirement of the prompt. FEI gives one overall Expression écrite score /20 and publishes no per-task scores.
 
 ---
 
@@ -161,20 +163,20 @@ In Canadian forums and media columns (*chroniques citoyennes*), social debates f
 > *Témoignez d'un problème récent vécu lors de vos trajets, exprimez votre opinion sur la qualité du service et formulez deux suggestions.*  
 > *(120 à 150 mots).*
 
-##### Calibrated Benchmark Submission (138 words — Upper B2 Standard)
+##### Calibrated Benchmark Submission (139 words — Upper B2 Standard)
 
-> *Mardi dernier, mon autobus matinal a été annulé sans préavis, me contraignant à attendre quarante minutes sous une pluie battante avant d'arriver avec un retard préjudiciable à une réunion professionnelle capitale. Cette mésaventure n'a fait que confirmer l'exaspération grandissante des banlieusards.*  
+> *Mardi dernier, mon autobus matinal a été annulé sans préavis, me contraignant à attendre quarante minutes sous une pluie battante avant d'arriver avec un retard préjudiciable à une réunion professionnelle capitale. Aucune alerte n'avait été diffusée sur l'application. Cette mésaventure n'a fait que confirmer l'exaspération grandissante des banlieusards.*  
 > 
-> *Bien que les contraintes budgétaires de la société de transport soient réelles en période d'inflation, il est inadmissible d'augmenter les tarifs alors que la fiabilité des dessertes se dégrade continuellement. Une hausse tarifaire aveugle ne ferait que détourner les usagers vers l'automobile individuelle. Pour rétablir la confiance, il conviendrait en priorité de geler le prix des titres mensuels et de réinjecter les surplus gouvernementaux dans la modernisation des systèmes de localisation en temps réel des véhicules.*  
+> *Bien que les contraintes budgétaires de la société de transport soient réelles en période d'inflation, il est inadmissible d'augmenter les tarifs alors que la fiabilité des dessertes se dégrade continuellement. Une hausse tarifaire aveugle ne ferait que détourner les usagers vers l'automobile individuelle. Pour rétablir la confiance, il conviendrait en priorité de geler le prix des titres mensuels et de réinjecter les surplus gouvernementaux dans la modernisation des systèmes de localisation en temps réel des véhicules. Ces deux mesures, peu coûteuses, redonneraient aux usagers le sentiment d'être enfin respectés.*  
 > 
 > *Julien Roy*
 
 ##### Word Count and Criteria Audit
-- **Word Count**: 138 words.
-- **Movement 1 (Personal Testimony)**: Paragraph 1 (52 words) recounts transit breakdown and consequences.
-- **Movement 2 (Critical Opinion & Solutions)**: Paragraph 2 (84 words) critiques fare hikes and proposes freezing monthly passes + modernizing tracking tech.
+- **Word Count**: 139 words, signature excluded.
+- **Movement 1 (Personal Testimony)**: Paragraph 1 (49 words) recounts transit breakdown and consequences.
+- **Movement 2 (Critical Opinion & Solutions)**: Paragraph 2 (90 words) critiques fare hikes and proposes freezing monthly passes + modernizing tracking tech.
 - **Linguistic Quality**: Subjunctive after *bien que*, conditional *ne ferait que*, *il conviendrait de*.
-- **FEI Score Prediction**: **20/20 on Task 2 criteria**.
+- **Self-assessment** (unofficial): meets every requirement of the prompt (no per-task scores are published).
 
 ---
 
@@ -192,7 +194,7 @@ Examine the structural distribution of the following draft and diagnose its weak
 <summary>View Diagnostic and Remediation</summary>
 
 **Diagnostic**: Severely imbalanced!  
-While the total word count (128 words) technically respects the 120-word floor, Paragraph 1 represents **80% of the entire text**, leaving the opinion and solution underdeveloped. Examiners will penalize the candidate on *Étendue et maîtrise de l'argumentation*.  
+While the total word count (128 words) technically respects the 120-word floor, Paragraph 1 represents **80% of the entire text**, leaving the opinion and solution underdeveloped. That weakens task completion, because half of the prompt is barely addressed.  
 **Remediation**: Prune 35 words of sensory narrative from Paragraph 1 (shorten the car description) and expand Paragraph 2 with a concession (*Certes, les tempêtes sont imprévisibles, néanmoins...*) and two structured recommendations.
 
 </details>
@@ -209,7 +211,7 @@ Rewrite the three basic sentences below into elevated B2 academic/civic French:
 
 1. **B2 Formulation:** *« Lors de ma promenade, j'ai été frappé par l'accumulation déplorable d'immondices sur les pelouses, témoignant d'un incivisme grandissant. »*
 2. **B2 Formulation:** *« L'irrégularité chronique des passages d'autobus engendre une exaspération légitime chez les travailleurs pénalisés au quotidien. »*
-3. **B2 Formulation:** *« Il s'avérerait judicieux d'allouer des allocations d'émancipation ciblées afin d'endiguer la précarité qui frappe la jeunesse étudiante. »*
+3. **B2 Formulation:** *« Il serait judicieux d'octroyer des aides ciblées afin d'endiguer la précarité qui frappe la jeunesse étudiante. »*
 
 </details>
 
@@ -237,21 +239,21 @@ Read the prompt below and create your planning blueprint in 3 minutes:
 Using your blueprint from Exercise 1, set an 18-minute countdown timer and type your complete response on a keyboard without spellcheck.
 
 <details>
-<summary>Check Model Benchmark (136 words)</summary>
+<summary>Check Model Benchmark (139 words)</summary>
 
-*Le mois dernier, alors que je traversais un passage piétonnier sur l'avenue du Mont-Royal, un cycliste circulant à vive allure a frôlé une poussette avant de poursuivre sa course sans ralentir. Cet incident a suscité un émoi considérable parmi les passants.*  
+*Le mois dernier, alors que je traversais un passage piétonnier sur l'avenue du Mont-Royal, un cycliste circulant à vive allure a frôlé une poussette avant de poursuivre sa course sans ralentir. Heureusement, l'enfant n'a pas été blessé, mais sa mère tremblait encore de peur. Cet incident a suscité un émoi considérable parmi les passants.*  
 
-*Force est de reconnaître que le partage anarchique de l'espace public fait peser un danger permanent sur les piétons, qui demeurent les usagers les plus vulnérables de nos rues. Pour désamorcer ces tensions grandissantes, les autorités municipales ne peuvent se contenter de simples campagnes de sensibilisation. Il conviendrait plutôt de séparer physiquement les pistes cyclables des trottoirs piétonniers au moyen de murets végétalisés et de déployer une signalisation lumineuse prioritaire aux intersections achalandées.*  
+*Force est de reconnaître que le partage anarchique de l'espace public fait peser un danger permanent sur les piétons, qui demeurent les usagers les plus vulnérables de nos rues. Pour désamorcer ces tensions grandissantes, les autorités municipales ne peuvent se contenter de simples campagnes de sensibilisation. Il conviendrait plutôt de séparer physiquement les pistes cyclables des trottoirs piétonniers au moyen de murets végétalisés et de déployer une signalisation lumineuse prioritaire aux intersections achalandées. Ces aménagements protégeraient enfin les plus fragiles sans pénaliser les cyclistes.*  
 
 *Élodie Gagnon*  
 
-*(136 mots — 50/50 balance respectée, connecteurs B2 riches, deux propositions claires, zéro faute).*
+*(139 mots, signature non comprise : paragraphe 1 = 55 mots, paragraphe 2 = 84 mots — équilibre récit/argumentation respecté, connecteurs B2 riches, deux propositions claires).*
 
 </details>
 
 #### Exercise 3: Self-Audit Checklist
-Audit your draft against the official FEI Task 2 standard:
-- [ ] Word count falls strictly between **120 and 150 words** (verified token by token).
+Audit your draft against this unofficial self-assessment checklist:
+- [ ] Word count falls strictly between **120 and 150 words** (a word is any string between two spaces: *j'ai* = 1 word).
 - [ ] Paragraph 1 explicitly recounts a personal incident or observation.
 - [ ] Paragraph 2 transitions to general societal critique and offers at least two solutions.
 - [ ] Uses at least two B2 logical connectors (*Force est de constater que, S'il est indéniable que, Il conviendrait de*).
@@ -268,9 +270,9 @@ Confirm your mastery of TCF Canada Writing Task 2:
 1. What is the mandatory dual communicative structure required in Writing Task 2?  
    [Review anatomy of writing task 2: dual-modality prompts](#anatomy-of-writing-task-2-dual-modality-prompts)
 2. What are the strict minimum and maximum word counts for Task 2, and what is the optimal target sweet spot?  
-   [Review the FEI word count ceiling and floor](#the-fei-word-count-ceiling-and-floor-120-150-words)
-3. What happens if your submission exceeds 150 words on the official examination?  
-   [Review word count penalty brackets](#the-fei-word-count-ceiling-and-floor-120-150-words)
+   [Review the word count ceiling and floor](#the-word-count-ceiling-and-floor-120-150-words)
+3. Why should you avoid going over 150 words, and what is known (and not known) about the consequences?  
+   [Review word count targets](#the-word-count-ceiling-and-floor-120-150-words)
 4. How should words and time be divided between Paragraph 1 (Recount) and Paragraph 2 (Argumentation)?  
    [Review the bipartite architecture: structural blueprint](#the-bipartite-architecture-structural-blueprint)
 5. How can you elevate conversational B1 narrative statements into mature B2 civic discourse?  
@@ -282,7 +284,7 @@ Confirm your mastery of TCF Canada Writing Task 2:
 
 This section provides verified links to high-quality external resources for ongoing writing practice:
 
-* [France Éducation international — Épreuves écrites du TCF Canada](https://www.france-education-international.fr/) — Official guidelines detailing criteria and rubrics for Writing Task 2.
+* [France Éducation international — Épreuves écrites du TCF Canada](https://www.france-education-international.fr/) — Official information on the TCF Canada writing tasks and word ranges.
 * [La Presse — Débats et tribunes citoyennes](https://www.lapresse.ca/) — High-quality Canadian op-ed columns illustrating balanced personal reflection and policy proposals.
 * [OQLF — Vitrine linguistique : Connecteurs et syntaxe argumentative](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Comprehensive reference for logical connectors and elevated formal transitions.
 * [Radio-Canada Info — Société et débats publics](https://ici.radio-canada.ca/info) — In-depth reporting on civic controversies ideal for discovering authentic Task 2 themes.

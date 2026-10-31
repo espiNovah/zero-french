@@ -1,17 +1,17 @@
 ### Introduction
 
-On the **TCF Canada Expression orale (EO)** examination, candidates face an examiner for a **12-minute face-to-face or recorded interaction** evaluated on a 20-point scale:
-- **Tâche 1 (Task 1 — 2 minutes, no preparation)**: Warm-up guided interview (*présentation personnelle* — A1–A2 level).
+On the **TCF Canada Expression orale (EO)** examination, candidates face an examiner for a **12-minute face-to-face interaction** evaluated on a 20-point scale:
+- **Tâche 1 (Task 1 — 2 minutes, no preparation)**: Warm-up guided interview (*entretien dirigé* — A1–A2 level).
 - **Tâche 2 (Task 2 — 5 minutes 30 seconds total: 2 minutes preparation + 3 minutes 30 seconds interaction)**: Interactive roleplay where the candidate gathers information and negotiates terms based on a prompt document (B1–B2 level).
-- **Tâche 3 (Task 3 — 4 minutes 30 seconds, NO preparation)**: Sustained monologue defending a personal stance on a societal controversy (B2–C2 level).
+- **Tâche 3 (Task 3 — 4 minutes 30 seconds, no preparation)**: Expressing a point of view on a general question; the candidate presents an argument, and the examiner may intervene with questions to explore the stance further (B2–C2 level).
 
-While candidates easily pass Task 1 with memorized biographical formulas, **Tasks 2 and 3 represent the decisive gatekeeper for Canadian immigration (NCLC 7 requires a minimum score of 10 to 11/20 on the official scale, with safe targets at 12–14/20)**.
+While candidates easily navigate Task 1 with straightforward biographical answers, **Tasks 2 and 3 represent the decisive gatekeeper for Canadian immigration (NCLC 7 requires a minimum score of 10/20 in Expression orale)**.
 
-In Task 2, passive candidates who merely wait for the examiner to ask questions receive failing marks on communicative interaction (*interaction et régulation du discours*). At the B2 level, **you must drive the dialogue**, initiate inquiries, and negotiate past the examiner's deliberate objections.
+In Task 2, passive candidates who merely wait for the examiner to ask questions receive lower marks on communicative interaction (*interaction et régulation du discours*). At the B2 level, **you must drive the dialogue**, initiate inquiries, and negotiate past any constraints the examiner introduces.
 
-In Task 3, candidates face the most feared format in second-language testing: the examiner reads a prompt, and with **zero preparation time**, you must start speaking immediately and maintain a structured, fluent, high-register argumentative monologue for **four and a half continuous minutes**.
+In Task 3 (*expression d'un point de vue*), candidates face an open question on a public issue with **no preparation time**. You present your viewpoint and argumentation clearly, and the examiner may intervene to test nuances or explore counter-arguments across the **4 minutes 30 seconds**.
 
-This lesson delivers the battle-tested tactical frameworks required to lead the examiner in Task 2 and sustain an unshakeable 4.5-minute monologue in Task 3.
+This lesson delivers the practical frameworks required to lead the inquiry in Task 2 and sustain a structured argument in Task 3.
 
 ---
 
@@ -80,7 +80,7 @@ In Canadian TCF testing centers (e.g., Montreal, Quebec City, Gatineau), examine
 - *la fin de semaine* **(QC)**: The standard term in Canada for weekend (*le week-end* in France).
 - *le stationnement* **(QC)**: Parking or parking lot (*le parking* in France).
 - *le courriel* **(QC)**: Email or electronic message (*le mail* in France).
-- *magasiner* **(QC)**: Shopping / browsing goods (*faire les courses / faire du shopping* in France).
+- *magasiner* **(QC)**: Shopping / browsing goods (*faire du shopping / du lèche-vitrine* in France; *faire les courses* refers specifically to groceries/errands).
 - *Tutoiement vs Vouvoiement*: While everyday Québec workplace culture shifts to *tutoiement* much earlier than in France, in **TCF Speaking Task 2** you must **strictly maintain formal vouvoiement** with the examiner (who roleplays as a store manager, landlord, or coordinator), unless the prompt card explicitly tells you to address a friend or peer.
 
 </div>
@@ -212,7 +212,7 @@ qu'à nous de choisir où nous voulons porter notre attention. »
 - Exact timing: 4 minutes 28 seconds.
 - Dialectical structure: Problématique → Thesis → Antithesis → Synthesis → Conclusion.
 - Zero hesitations; sophisticated B2/C1 articulators (*force est de constater, d'aucuns considèrent, il s'avère impératif que, pourvu que*).
-- **Score: 20/20 on Task 3 criteria**.
+- **Score**: High marks on coherence, vocabulary richness, and sustained discourse.
 
 ---
 
@@ -261,8 +261,8 @@ Set a countdown timer for **4 minutes 30 seconds**. With zero preparation, start
 > **Sujet Tâche 3 :**  
 > *« Pensez-vous que la gratuité totale des transports en commun soit la meilleure solution pour inciter les automobilistes à renoncer à leur voiture ? »*
 
-#### Exercise 3: Self-Scoring Grid (FEI Oral Criteria)
-Rate your Task 3 recording on the four FEI criteria:
+#### Exercise 3: Self-Scoring Grid (Unofficial Practice Rubric)
+Rate your Task 3 recording on the four key communication criteria:
 - **Respect de la consigne et fluidité**: Spoke continuously for at least 4 minutes without long silences.
 - **Organisation du discours**: Clear progression (Intro → Arguments for → Arguments against → Synthesis).
 - **Étendue du lexique**: Used diverse vocabulary (avoided repeating *c'est bon / c'est pas bon*).

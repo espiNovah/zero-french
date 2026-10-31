@@ -2,9 +2,9 @@
 
 On the **TCF Canada Compréhension écrite (CE)**, many candidates who possess solid grammar and broad vocabulary still find themselves stranded at scores of 420–440 (Mid B2 / NCLC 6)—just below the crucial **NCLC 7 threshold (453 points)**.
 
-When analyzing their score sheets, a striking pattern emerges: they rarely fail because they completely misunderstood the reading passages. Rather, **they fail because they walk directly into the psychological traps engineered into the multiple-choice answer options**.
+When they review their practice tests, a striking pattern often emerges: they rarely fail because they completely misunderstood the reading passages. Rather, **they fail because they walk directly into the psychological traps engineered into the multiple-choice answer options**.
 
-In items 26 through 39, France Éducation international (FEI) test designers do not create distractors by writing absurd or grammatically broken sentences. Instead, they deploy sophisticated **psychometric distractor mechanics**:
+In the harder items, well-built distractors are rarely absurd or grammatically broken sentences. Instead, they typically rely on four **distractor mechanics**:
 1. **The Absolute Wording Trap**: Using uncompromising qualifiers (*toujours, jamais, exclusivement, totalement*) that turn a nuanced textual finding into an unsupportable absolute.
 2. **The Deceptive Cognate Trap**: Exploiting English-French false friends (*actuellement*, *ignorer*, *assister*, *opportunité*) that lead bilingual candidates to choose an option based on an English false sense.
 3. **The Lexical Echo Trap**: Copying striking, memorable vocabulary directly from the passage into an answer option whose grammatical subject or causal direction has been inverted.
@@ -42,7 +42,7 @@ Understanding how exam writers construct incorrect choices transforms your test-
 ├───────────────────────┼───────────────────────────────────────────────────┤
 │ 2. Deceptive Cognate  │ Exploits false friends between French and English │
 │    (Faux amis)        │ (actuellement = currently; ignorer = not know;    │
-│                       │ assister à = attend; opportunité = appropriateness│
+│                       │ assister à = attend; opportunité = advisability)  │
 ├───────────────────────┼───────────────────────────────────────────────────┤
 │ 3. Lexical Echo       │ Lifts rare, memorable keywords verbatim from the  │
 │    (Mot-à-mot)        │ text, but flips the logical polarity or causal link.│
@@ -68,13 +68,13 @@ When an exam option uses **categorical, non-negotiable qualifiers**, alarm bells
 > → **Diagnosis**: *Garantissent* and *l'ensemble des élèves* turn a conditional, partial observation (*peut parfois, certains élèves*) into a categorical falsehood. Eliminate immediately.
 
 #### 2. The Deceptive Cognate Trap
-Because many TCF candidates preparing for Canadian immigration are fluent in English, test writers deliberately select words whose English cognate carries a completely different meaning:
+Because many TCF candidates preparing for Canadian immigration are fluent in English, distractors can exploit words whose English cognate carries a different meaning:
 
 > **Text Statement :**  
 > *« Le conseil d'administration a contesté l'opportunité de procéder à une fusion en pleine récession. »*  
 > 
 > **Candidate Mistranslation**: "The board contested the *opportunity* (chance) to merge."  
-> **True French Meaning**: *L'opportunité* means **advisability, appropriateness, or suitability** (from *opportun* = timely/wise). The board was questioning whether it was *wise or appropriate* to merge now!
+> **True French Meaning**: In careful usage, *l'opportunité* means **advisability, appropriateness, or suitability** (from *opportun* = timely/wise). The sense "chance" is also listed in dictionaries, but it is an English-influenced extension that style guides criticize. Here the context (*contester… en pleine récession*) shows the board was questioning whether it was *wise or appropriate* to merge now.
 
 #### 3. The Lexical Echo Trap
 Candidates under time pressure scan the options looking for words they recognize from the text. Test designers exploit this by taking the most memorable or difficult word in the paragraph and building a false answer around it.
@@ -87,7 +87,7 @@ Candidates under time pressure scan the options looking for words they recognize
 > → **Diagnosis**: The distractor re-uses the exact words *prolifération*, *résidences secondaires*, and *travailleurs locaux*, but reverses the relationship by claiming the workers encourage the proliferation!
 
 #### 4. The Plausible Extrapolation Trap
-This is the subtlest trap on items 32–39. The distractor states something that is scientifically, economically, or culturally accurate in the real world, but the author did not mention it.
+This is the subtlest trap on the harder items. The distractor states something that is scientifically, economically, or culturally accurate in the real world, but the author did not mention it.
 
 > **Text Statement :**  
 > *« La hausse des taux d'intérêt a ralenti les transactions immobilières dans les grands centres urbains québécois. »*  
@@ -117,7 +117,7 @@ To detect traps at a glance, internalize the contrast between categorical absolu
 
 In Canadian editorial reading passages, watch for institutional expressions that look like English cognates but function differently:
 - *un accommodement* **(QC)**: Does not mean lodging/housing (which is *un logement*); it refers to **legal accommodation or workplace adjustment** (*l'accommodement raisonnable*).
-- *une opportunité* **(QC)**: Often used in colloquial Canadian French under English influence to mean "occasion d'affaires", but in formal TCF editorial prose, it retains the classical standard meaning of **pertinence / opportuneness**.
+- *une opportunité*: Widely used on both sides of the Atlantic under English influence to mean "occasion" (chance), a use that style guides criticize; in careful editorial prose, it usually keeps the classical meaning of **pertinence / opportuneness**. This is not a Québec-specific usage.
 - *adresser un problème* **(QC)**: Frequently heard in Montreal boardrooms, but formal editorial texts will use *aborder, traiter,* or *s'attaquer à un problème*.
 
 </div>
@@ -130,22 +130,22 @@ Master the true semantic boundaries of these ten high-frequency traps encountere
 
 | French Term | IPA Transcription | English False Friend | True French Meaning | Illustrative Context |
 | :--- | :--- | :--- | :--- | :--- |
-| **actuellement** | /ak.tsɥɛl.mɑ̃/ | actually (in fact) | **currently / right now** | *Le projet de loi est actuellement examiné par la commission.* |
-| **ignorer** | /i.ɲɔ.ʁe/ | to ignore (deliberately) | **to not know / be unaware of** | *L'auteur semble ignorer les conclusions du dernier recensement.* |
+| **actuellement** | /ak.tɥɛl.mɑ̃/ | actually (in fact) | **currently / right now** | *Le projet de loi est actuellement examiné par la commission.* |
+| **ignorer** | /i.ɲɔ.ʁe/ | to ignore (deliberately) | **to not know / be unaware of** (the sense "to disregard" is in dictionaries but criticized as an anglicism) | *L'auteur semble ignorer les conclusions du dernier recensement.* |
 | **assister à** | /a.sis.te a/ | to assist / help | **to attend / witness an event** | *Les délégués ont assisté à une conférence plénière.* |
 | **sensible** | /sɑ̃.sibl/ | sensible (reasonable) | **sensitive / perceptible / delicate** | *La question linguistique demeure un enjeu sensible au pays.* |
 | **défendre** | /de.fɑ̃dʁ/ | to defend (only) | **to defend OR to forbid / prohibit** | *Le règlement municipal défend de stationner la nuit en hiver.* |
 | **décevoir** | /de.sə.vwaʁ/ | to deceive (lie/swindle) | **to disappoint / let down** | *Les résultats financiers ont déçu les investisseurs.* |
 | **prétendre** | /pʁe.tɑ̃dʁ/ | to pretend (make believe)| **to claim / assert firmly** | *Le promoteur prétend que le projet respecte l'environnement.* |
-| **invalider** | /ɛ̃.va.li.de/ | to make disabled | **to void / nullify / disprove** | *Cette étude vient invalider les postulats des économistes.* |
-| **l'opportunité** | /l‿ɔ.pɔʁ.tsy.ni.te/ | opportunity (chance) | **appropriateness / timeliness** | *L'éditorialiste conteste l'opportunité de cette dépense.* |
+| **éventuellement** | /e.vɑ̃.tɥɛl.mɑ̃/ | eventually (in the end) | **possibly / if need be** | *Le ministère pourrait éventuellement revoir sa décision.* |
+| **l'opportunité** | /l‿ɔ.pɔʁ.ty.ni.te/ | opportunity (chance) | **appropriateness / timeliness** (the "chance" sense also exists but is criticized) | *L'éditorialiste conteste l'opportunité de cette dépense.* |
 | **formidable** | /fɔʁ.mi.dabl/ | formidable (scary/daunting)| **terrific / impressive / vast** | *Ce chercheur a accompli un travail tout à fait formidable.* |
 
 ---
 
 ### The Elimination Decision Algorithm
 
-Apply this rapid elimination filter whenever you face four options on items 26–39:
+Apply this rapid elimination filter whenever you face four options on a harder item:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -172,7 +172,7 @@ Apply this rapid elimination filter whenever you face four options on items 26�
 
 #### Exam tip: The "Slightly Softer Paraphrase Rule"
 
-When down to two remaining options on items 30–39 and running low on time, **choose the option that uses softer, more cautious vocabulary**. Correct answers on CEFR B2 and C1 tests favor verbs like *contribuer à, nuancer, remettre en question, s'avérer délicat*, while distractors favor *prouver formellement, éliminer totalement, exiger sans délai*.
+When down to two remaining options on a harder item and running low on time, **choose the option that uses softer, more cautious vocabulary**. Correct answers tend to favor verbs like *contribuer à, nuancer, remettre en question, s'avérer délicat*, while distractors favor *prouver formellement, éliminer totalement, exiger sans délai*.
 
 </div>
 
@@ -180,9 +180,9 @@ When down to two remaining options on items 30–39 and running low on time, **c
 
 ### Authentic Exam Walkthrough: Dissecting Three High-Difficulty Items
 
-Let us examine an authentic editorial excerpt to witness all four trap mechanisms in action.
+Let us examine a fictional practice excerpt, written in the style of a Québec newspaper column, to witness all four trap mechanisms in action.
 
-#### Source Text: *La Presse — Chronique Énergie & Territoire*
+#### Practice Text (fictional): *Chronique Énergie & Territoire*
 
 > *La volonté de faire du Québec une plaque tournante de la filière des batteries pour véhicules électriques suscite un enthousiasme débordant chez les décideurs politiques. Les subventions publiques colossales accordées aux multinationales sont justifiées au nom de la création d'emplois hautement qualifiés et de la réduction des émissions de gaz à effet de serre.*  
 > 
@@ -226,7 +226,7 @@ Let us examine an authentic editorial excerpt to witness all four trap mechanism
 - **C)** L'impossibilité d'importer des minéraux critiques en provenance des pays voisins.
 - **D)** Le coût prohibitif de l'eau potable pour les ménages vivant à proximité des usines.
 
-*Correct Answer: **B**.* Paraphrases *« exige des quantités astronomiques d'eau et d'électricité, dans un contexte où Hydro-Québec prévient que ses surplus énergétiques historiques sont désormais résorbés »*. Option A is contradicted (*subventions justifiées au nom d'emplois qualifiés*); Options C and D introduce unstated external claims.
+*Correct Answer: **B**.* Paraphrases *« exige des quantités astronomiques d'eau et d'électricité, dans un contexte où Hydro-Québec prévient que ses surplus énergétiques historiques sont désormais résorbés »*. Option A is unstated (the text mentions *emplois hautement qualifiés* as a justification, never a shortage of workers); Options C and D also introduce unstated external claims.
 
 ##### Question 3 : Que sous-entend l'expression *« l'illusion verte »* dans la dernière phrase ?
 - **A)** Que les voitures électriques seront toujours peintes en couleur verte pour attirer les clients.
@@ -268,8 +268,8 @@ For each sentence, determine whether the underlined word is used in its correct 
 <details>
 <summary>View False Friend Analysis</summary>
 
-1. **Colloquial / Anglophone usage**: In classical French, *ignorer* means *ne pas savoir*. Using it to mean "deliberately pay no attention to" is an anglicism (though widespread in informal speech). In strict TCF reading texts, *ignorer* will mean *ne pas avoir connaissance de*.
-2. **Correct French usage**: *Opportunité* here means *la pertinence / le caractère opportun* (whether it is wise to do so), NOT a "business opportunity".
+1. **Debated usage**: In classical French, *ignorer* means *ne pas savoir*. The sense "deliberately pay no attention to" is recorded in dictionaries and is widespread, but it is criticized as an English-influenced usage. Here, the context (the phone ringing) shows that second sense. In formal reading texts, check the context: *ignorer* most often means *ne pas avoir connaissance de*.
+2. **Correct French usage**: *Opportunité* here means *la pertinence / le caractère opportun* (whether it is wise to do so), not a "chance" (a sense that exists in current usage but is criticized).
 3. **Correct French usage**: *Actuellement* means *en ce moment / de nos jours* (currently), NOT "in reality" (which would be *en réalité / en fait*).
 
 </details>
@@ -374,5 +374,5 @@ This section provides verified links to high-quality external resources for ongo
 * [La Presse — Chroniques économiques et politiques](https://www.lapresse.ca/) — Excellent material for practicing rapid elimination of hyperbole and recognizing nuanced editorial qualifiers.
 * [Radio-Canada Info — Société et régions](https://ici.radio-canada.ca/info) — Comprehensive Canadian journalistic coverage featuring formal public policy debates.
 * [OQLF — Vitrine linguistique : Les faux amis de l'anglais](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Authoritative index of French-English deceptive cognates, false friends, and calques.
-* [France Éducation international — Évaluation de la compréhension écrite](https://www.france-education-international.fr/) — Official guidelines outlining the psychometric criteria used to design multiple-choice distractors.
+* [France Éducation international — Évaluation de la compréhension écrite](https://www.france-education-international.fr/) — Official information on the TCF Canada reading section.
 

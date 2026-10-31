@@ -1,14 +1,14 @@
 ### Introduction
 
-On the **TCF Canada Compréhension écrite (CE)**, candidates aiming for **CEFR Level B2 and C1 (NCLC 7–9, scores 453–699)** inevitably encounter questions that cannot be answered by factual skimming alone. In items 30 through 39, exam designers systematically test your ability to read **between the lines**—to discern what the author actually means beneath the surface of formal politeness, understated irony, and rhetorical distancing.
+On the **TCF Canada Compréhension écrite (CE)**, candidates aiming for **NCLC 7 or higher (453+ in reading)** inevitably encounter questions that cannot be answered by factual skimming alone. The harder items often test your ability to read **between the lines**—to discern what the author actually means beneath the surface of formal politeness, understated irony, and rhetorical distancing.
 
 Francophone intellectual culture places supreme value on wit (*l'esprit*), nuance, and subtle skepticism. Prominent editorialists and essayists in *Le Devoir*, *La Presse*, and *Le Monde* rarely announce their biases with crude dogmatism; instead, they embed their critique within:
 1. **Value-laden adjectives and adverbs** (*lexique évaluatif*) that subtly color an apparently objective factual report.
 2. **Scare quotes and distancing markers** (*guillemets de mise à distance*) that disown an opponent's terminology without launching a direct refutation.
-3. **The journalistic conditional and epistemic verbs** (*devoir, sembler, prétendre*) that signal doubt, irony, or unverified claims.
-4. **Antiphrasis and litotes** (*ironie et litote*) where an author writes praise to convey severe condemnation (*« Admirable perspicacité de nos décideurs ! »*).
+3. **The journalistic conditional**, which marks information as unconfirmed, and **epistemic verbs** (*devoir, sembler, prétendre*) that signal doubt or distance.
+4. **Antiphrasis and litotes** (*antiphrase et litote*). In antiphrasis, an author writes praise to convey condemnation (*« Admirable perspicacité de nos décideurs ! »*). Litotes is understatement: saying less to mean more (*« Va, je ne te hais point »* = I love you; *« Ce n'est pas mauvais »* = it's good).
 
-When exam questions ask *« Quelle tonalité se dégage de cette tribune ? »*, *« Que sous-entend l'auteur lorsqu'il affirme que... ? »*, or *« Quelle est la véritable attitude du journaliste face à cette annonce ? »*, choosing the literal answer will invariably cause you to fall for the exam designer's primary distractor trap.
+When exam questions ask *« Quelle tonalité se dégage de cette tribune ? »*, *« Que sous-entend l'auteur lorsqu'il affirme que... ? »*, or *« Quelle est la véritable attitude du journaliste face à cette annonce ? »*, choosing the literal answer will often lead you straight into a distractor.
 
 This lesson equips you with the analytical tools to decode subtext, detect authorial stance, and dissect implicit rhetorical bias under strict exam timing.
 
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 - Detect **irony, antiphrasis, and litotes** within formal French editorial discourse.
 - Master the precise vocabulary used on TCF exam keys to classify emotional tone and rhetorical register (*caustique, désabusé, circonspect, laudateur, polémique*).
 - Distinguish between an author's direct opinion, attributed stakeholder statements, and underlying unstated assumptions (*présupposés*).
-- Solve high-difficulty TCF Canada implicit stance questions within the 90-second per-item target.
+- Solve high-difficulty TCF Canada implicit stance questions at a steady pace (60 minutes for 39 items averages about 90 seconds per item).
 
 ---
 
@@ -44,9 +44,10 @@ In advanced French, **modalization** (*la modalisation*) refers to the linguisti
 │    (Epistemic)    │ à croire, il semblerait que*    │ maintains academic  │
 │                   │                                 │ objectivity.        │
 ├───────────────────┼─────────────────────────────────┼─────────────────────┤
-│ 3. Distanced      │ *le conditionnel journalistique,│ Skeptical; author   │
-│    Skepticism     │ selon les dires de, soi-disant* │ disavows accuracy of│
-│                   │                                 │ the claim.          │
+│ 3. Distanced      │ *le conditionnel journalistique,│ Unconfirmed; author │
+│    Reporting      │ selon les dires de, soi-disant* │ does not vouch for  │
+│                   │                                 │ it (soi-disant adds │
+│                   │                                 │ open doubt).        │
 ├───────────────────┼─────────────────────────────────┼─────────────────────┤
 │ 4. Implicit Irony │ *magnifique résultat, quelle    │ Complete opposition;│
 │    (Antiphrasis)  │ prouesse, comme par enchantement│ author mocks the    │
@@ -54,14 +55,14 @@ In advanced French, **modalization** (*la modalisation*) refers to the linguisti
 └───────────────────┴─────────────────────────────────┴─────────────────────┘
 ```
 
-#### The Journalistic Conditional as a Weapon of Doubt
-When an author reports a statement using the conditional mood (*le conditionnel d'information*), they are signaling that the statement is unverified or suspected of falsehood:
+#### The Journalistic Conditional: Marking Unconfirmed Information
+When a journalist reports information using the conditional mood (*le conditionnel d'information* or *conditionnel journalistique*), they are signaling that the information is **not yet confirmed** and that they are not vouching for it. It does **not** by itself mean the journalist suspects a falsehood: skepticism comes from other markers (*soi-disant, prétendre, scare quotes*).
 - *« Le ministère aurait débloqué dix millions de dollars pour rénover les écoles. »*  
-  → **Implicit Meaning**: The minister claims this has happened, but the journalist has not seen independent proof and urges the reader to remain skeptical.
+  → **Meaning**: According to sources, the ministry has released this money, but the information has not been officially confirmed.
 
 > **Le promoteur immobilier promettrait une livraison dans les délais...**  
 > /lə pʁɔ.mɔ.tœʁ i.mɔ.bi.lje pʁɔ.mɛ.tʁɛ yn li.vʁɛ.zɔ̃ dɑ̃ le de.lɛ/  
-> *The developer is supposedly promising delivery on schedule... (implied doubt).*
+> *The developer is reportedly promising delivery on schedule... (unconfirmed report).*
 
 ---
 
@@ -102,10 +103,10 @@ OF QUOTATION MARKS        │
 
 #### Québec vs France
 
-In Québec media and political discourse, irony often adopts understated cultural turns of phrase:
-- *« Un beau gâchis »* or *« Un beau bordel »* **(QC)**: Pure antiphrasis meaning complete, utter administrative chaos.
+In Québec media and political discourse, irony often adopts understated turns of phrase, some shared with France and some specifically Québécois:
+- *« Un beau gâchis »* (used everywhere, not a québécisme): antiphrasis, since *beau* here means "utter": a complete mess.
 - *« Faire dur »* **(QC)**: Looking deplorable or behaving in an embarrassing manner (*« Les négociations font dur »* = The negotiations are pathetic).
-- *« Une tempête dans un verre d'eau »* **(QC)**: An artificial controversy manufactured by politicians to distract the public.
+- *« Une tempête dans un verre d'eau »* (pan-French): a great deal of fuss over something trivial.
 
 </div>
 
@@ -117,13 +118,13 @@ When answering TCF questions about an author's tone (*la tonalité* or *le regis
 
 | Exam Term | IPA Transcription | Definition in English | Identifying Linguistic Clues in the Text |
 | :--- | :--- | :--- | :--- |
-| **Caustique / Mordant** | /kos.tsɪk/ / /mɔʁ.dɑ̃/ | Scathingly sarcastic / biting | Dark humor, cutting comparisons, antiphrasis, mocking metaphors |
+| **Caustique / Mordant** | /kos.tik/ / /mɔʁ.dɑ̃/ | Scathingly sarcastic / biting | Dark humor, cutting comparisons, antiphrasis, mocking metaphors |
 | **Désabusé / Résigné** | /de.za.by.ze/ / /ʁe.zi.ɲe/ | Disillusioned / weary resignation | Heavy sighs, reminders of past failures, feeling that effort is futile (*quoi qu'on fasse, hélas*) |
-| **Circonspect / Sceptique** | /siʁ.kɔ̃.spɛkt/ / /sɛp.tsɪk/ | Cautious / questioning without anger | Conditional verbs, interrogative sentences, calls for independent verification |
+| **Circonspect / Sceptique** | /siʁ.kɔ̃.spɛkt/ / /sɛp.tik/ | Cautious / questioning without anger | Hedged verbs (*sembler*, conditional), interrogative sentences, calls for independent verification |
 | **Polémique / Virulent** | /pɔ.le.mik/ / /vi.ʁy.lɑ̃/ | Combative / attacking aggressively | Accusatory verbs (*trahir, saccager, asservir*), exclamation marks, sharp dichotomies |
 | **Laudateur / Élogieux** | /lo.da.tœʁ/ / /e.lɔ.ʒjø/ | Highly praising / commendatory | Superlatives, celebration of bravery or vision (*prouesse, admirable, exemplaire*) |
-| **Alarmiste / Inquiet** | /a.laʁ.mɪst/ / /ɛ̃.kjɛ/ | Warning of imminent catastrophe | Urgency adverbs (*imminemment, irréversible*), grim statistics, apocalyptic imagery |
-| **Objectif / Neutre** | /ɔb.ʒɛk.tsɪf/ / /nøtʁ/ | Factual / detached reporting | Complete absence of emotional adjectives; verifiable data, neutral attribution verbs |
+| **Alarmiste / Inquiet** | /a.laʁ.mist/ / /ɛ̃.kjɛ/ | Warning of imminent catastrophe | Urgency adverbs (*imminemment, irréversible*), grim statistics, apocalyptic imagery |
+| **Objectif / Neutre** | /ɔb.ʒɛk.tif/ / /nøtʁ/ | Factual / detached reporting | Complete absence of emotional adjectives; verifiable data, neutral attribution verbs |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -138,9 +139,9 @@ If a journalist writes: *« Le chef syndical a fustigé une "trahison intolérab
 
 ### Authentic Text Dissection: Bias and Irony Analysis
 
-Let us examine an authentic editorial excerpt demonstrating multi-layered irony and implicit bias.
+Let us examine a fictional practice editorial demonstrating multi-layered irony and implicit bias.
 
-#### Source Text: *Chronique d'humeur — Débats de société*
+#### Practice Text (fictional): *Chronique d'humeur*
 
 > **Titre : Bienvenue dans le paradis des serveurs vocaux**  
 > *Par Antoine Gauthier*
@@ -229,7 +230,7 @@ Read the three statements below and classify each one according to its dominant 
 <summary>View Tone Classifications</summary>
 
 - **Statement A: Tonalité désabusée (résignée / amère).** Marked by words like *« s'envolent »*, *« ne viendra jamais »*, sense of futility.
-- **Statement B: Tonalité alarmiste (inquiète).** Marked by urgent conditionals (*« Si... ne sont pas surélevées »*), irreversible destruction (*« engloutira irréversiblement »*).
+- **Statement B: Tonalité alarmiste (inquiète).** Marked by an urgent warning in a *si*-clause (*« Si... ne sont pas surélevées »*), irreversible destruction (*« engloutira irréversiblement »*).
 - **Statement C: Tonalité laudatrice (élogieuse).** Marked by words of admiration (*« courage indomptable »*, *« force le respect »*, *« voie royale »*).
 
 </details>
@@ -318,7 +319,7 @@ Write a short paragraph (60–80 words) in French expressing a nuanced, skeptica
 
 Confirm your mastery of bias, irony, and implicit stance before moving to the advanced reading drills:
 
-1. How does the journalistic conditional signal authorial distance or skepticism in an article?  
+1. What does the journalistic conditional signal about the information reported in an article?  
    [Review rhetorical stance and modalization in Francophone prose](#rhetorical-stance-and-modalization-in-francophone-prose)
 2. What are the four distinct communicative functions served by quotation marks (`« ... »`) in French texts?  
    [Review the four functions of scare quotes in lexical markers of bias and irony](#the-lexical-markers-of-bias-and-irony)
@@ -338,4 +339,4 @@ This section provides verified links to high-quality external resources for honi
 * [La Presse — Chroniques et tribunes libres](https://www.lapresse.ca/) — Renowned Canadian columnists demonstrating sophisticated editorial nuance, irony, and cultural commentary.
 * [Radio-Canada Info — Enquêtes et grands reportages](https://ici.radio-canada.ca/info) — In-depth Francophone investigative journalism illustrating precise modalization and evidentiary standards.
 * [OQLF — Vitrine linguistique : Guide des procédés stylistiques](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Authoritative guide to figures of speech, rhetorical distancing, and tone registers in North American French.
-* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official portal detailing assessment standards for inferential reading and implicit meaning.
+* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official information on the TCF Canada reading section.

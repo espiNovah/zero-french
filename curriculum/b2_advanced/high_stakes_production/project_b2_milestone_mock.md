@@ -14,10 +14,10 @@ Now, you must validate these competencies under **full-dress, four-skill officia
 The **B2 Milestone Mock Examination** is a rigorous, timed simulation covering all four test components of the **TCF Canada**:
 1. **Compréhension orale (Listening)**: 39 items, 35 minutes, audio played once (NCLC 7 threshold: **458 / 699 pts**).
 2. **Compréhension écrite (Reading)**: 39 items, 60 minutes (NCLC 7 threshold: **453 / 699 pts**).
-3. **Expression écrite (Writing)**: 3 tasks, 60 minutes computer-typed (NCLC 7 threshold: **10–12 / 20 pts**).
-4. **Expression orale (Speaking)**: 3 tasks, 12 minutes recorded interaction (NCLC 7 threshold: **10–12 / 20 pts**).
+3. **Expression écrite (Writing)**: 3 tasks, 60 minutes computer-typed (NCLC 7 threshold: **10–11 / 20 pts**).
+4. **Expression orale (Speaking)**: 3 tasks, 12 minutes recorded interaction (NCLC 7 threshold: **10–11 / 20 pts**).
 
-Achieving NCLC 7 across all four skills unlocks **50 additional CRS points for French language proficiency**, plus up to **25 points for bilingualism with English**, often making the difference between an invitation to apply for permanent residence and indefinite delay.
+Achieving NCLC 7 across all four skills unlocks the **CRS French bonus points (up to 50 points if combined with English CLB 5+, or 25 points if English is CLB 4 or lower)**, and qualifies candidates for French category-based draws.
 
 ---
 
@@ -41,10 +41,10 @@ To produce valid, uninflated diagnostic data, you must enforce authentic test ce
 
 | Test Component | Format & Constraint | Official Duration | Target NCLC 7 Benchmark |
 | :--- | :--- | :---: | :--- |
-| **Part 1: Compréhension orale** | 39 MCQs, single exposure (*écoute unique*) | **35 minutes** | **≥ 29 / 39 raw** (≥ 458 / 699 pts) |
-| **Part 2: Compréhension écrite** | 39 MCQs, 3-tier pacing architecture | **60 minutes** | **≥ 29 / 39 raw** (≥ 453 / 699 pts) |
-| **Part 3: Expression écrite** | 3 typed tasks (Task 1: 60–120w; Task 2: 120–150w; Task 3: 120–180w) | **60 minutes** | **≥ 12 / 20 pts** (Solid B2 criteria) |
-| **Part 4: Expression orale** | 3 recorded tasks (Task 1: 2m; Task 2: 3.5m; Task 3: 4.5m) | **12 minutes** | **≥ 12 / 20 pts** (Solid B2 criteria) |
+| **Part 1: Compréhension orale** | 39 MCQs, single exposure (*écoute unique*) | **35 minutes** | **458–502 pts** (NCLC 7 threshold: 458 pts) |
+| **Part 2: Compréhension écrite** | 39 MCQs, progressive difficulty | **60 minutes** | **453–498 pts** (NCLC 7 threshold: 453 pts) |
+| **Part 3: Expression écrite** | 3 typed tasks (Task 1: 60–120w; Task 2: 120–150w; Task 3: 120–180w) | **60 minutes** | **10–11 / 20 pts** (NCLC 7 threshold) |
+| **Part 4: Expression orale** | 3 recorded tasks (Task 1: 2m; Task 2: 3.5m; Task 3: 4.5m) | **12 minutes** | **10–11 / 20 pts** (NCLC 7 threshold) |
 
 ---
 
@@ -112,7 +112,7 @@ Set a single 60-minute countdown timer. Type all three tasks into a single plain
 
 Launch your audio recording application and execute all three speaking tasks in succession:
 
-##### Tâche 1 : Entretien guidé (2 minutes — sans préparation)
+##### Tâche 1 : Entretien dirigé (2 minutes — sans préparation)
 - Introduce yourself, describe your professional background, explain why you are immigrating to Canada, and discuss one cultural activity you practice regularly.
 - Speak fluently with natural pacing, proper liaison, and accurate past/present tenses.
 
@@ -124,7 +124,7 @@ Launch your audio recording application and execute all three speaking tasks in 
 ##### Tâche 3 : Expression d'un point de vue (4 minutes 30 — SANS préparation)
 > **Sujet :**  
 > *« Selon certains observateurs, les réseaux sociaux ont détruit notre capacité à débattre calmement des questions démocratiques majeures. Partagez-vous ce constat ? »*  
-> *Défendez votre point de vue de manière structurée (Introduction avec problématique → Thèse → Antithèse → Synthèse → Conclusion) sans interruption pendant 4 minutes 30 secondes.*
+> *Présentez votre point de vue de manière structurée (Introduction avec problématique → Thèse → Antithèse → Synthèse → Conclusion) pendant environ 4 minutes 30 secondes ; l'examinateur peut intervenir avec des relances.*
 
 ---
 
@@ -147,7 +147,7 @@ To validate your completion of Path 03, save the following four verification art
 
 #### Scoring Rubric and NCLC Conversion Matrix
 
-##### 1. Official FEI 4-Criteria Writing & Speaking Evaluation Grid (0–20 Scale)
+##### 1. Unofficial Self-Assessment Rubric for Writing & Speaking (0–20 Practice Scale)
 
 | Criterion | Points | Evaluation Focus |
 | :--- | :---: | :--- |
@@ -156,14 +156,17 @@ To validate your completion of Path 03, save the following four verification art
 | **3. Étendue et maîtrise du lexique** | 0 – 5 pts | Rich socio-economic and civic vocabulary; nominalization; zero verbatim copying from Task 3 texts. |
 | **4. Correction morphosyntaxique** | 0 – 5 pts | Agreement of past participles; subjunctive triggers; accurate conditional and complex relative clauses. |
 
-##### 2. Comprehensive 4-Skill NCLC Conversion Table
+##### 2. Official IRCC TCF Canada → NCLC Equivalence Table
 
-| Competency | NCLC 4 (A2) | NCLC 5 (B1) | NCLC 6 (Mid B2) | **NCLC 7 (Upper B2 — TARGET)** | NCLC 8–9 (C1) | NCLC 10+ (C2) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Compréhension orale** | 200–299 pts | 300–399 pts | 400–457 pts | **458 – 502 pts** (≥ 29/39) | 503–568 pts | 569–699 pts |
-| **Compréhension écrite** | 200–299 pts | 300–399 pts | 400–452 pts | **453 – 502 pts** (≥ 29/39) | 503–568 pts | 569–699 pts |
-| **Expression écrite** | 4 – 5 pts | 6 – 9 pts | 10 – 11 pts | **12 – 13 pts** (Solid B2) | 14 – 16 pts | 17 – 20 pts |
-| **Expression orale** | 4 – 5 pts | 6 – 9 pts | 10 – 11 pts | **12 – 13 pts** (Solid B2) | 14 – 16 pts | 17 – 20 pts |
+| NCLC | Compréhension orale | Compréhension écrite | Expression écrite (/20) | Expression orale (/20) |
+| :---: | :---: | :---: | :---: | :---: |
+| **10+** | 549–699 | 549–699 | 16–20 | 16–20 |
+| **9** | 523–548 | 524–548 | 14–15 | 14–15 |
+| **8** | 503–522 | 499–523 | 12–13 | 12–13 |
+| **7 (Target)** | **458–502** | **453–498** | **10–11** | **10–11** |
+| **6** | 398–457 | 406–452 | 7–9 | 7–9 |
+| **5** | 369–397 | 375–405 | 6 | 6 |
+| **4** | 331–368 | 342–374 | 4–5 | 4–5 |
 
 ---
 
@@ -172,7 +175,7 @@ To validate your completion of Path 03, save the following four verification art
 To evaluate your written and spoken performance objectively, paste the following prompt along with your typed text and oral transcript into an AI language rater:
 
 ```markdown
-Vous êtes un examinateur en chef accrédité par France Éducation international (FEI) pour le TCF Canada.
+Vous êtes un évaluateur expérimenté pour les épreuves du TCF Canada.
 
 Veuillez évaluer de manière rigoureuse et non complaisante ma simulation complète de l'Expression écrite et de l'Expression orale pour le jalon B2.
 
@@ -189,11 +192,11 @@ Voici mes productions :
 [Coller la transcription de votre Tâche 3 (4 min 30)]
 
 Votre évaluation doit respecter scrupuleusement les consignes suivantes :
-1. Vérifier le respect strict des planchers et plafonds de mots pour chaque tâche écrite (T1: 60-120; T2: 120-150; T3: 120-180). Appliquer les pénalités officielles en cas de dépassement ou de sous-dimensionnement.
-2. Vérifier qu'aucune séquence de 3 mots ou plus n'a été recopiée mot à mot des textes de la Tâche 3.
-3. Attribuer une note détaillée sur 20 pour l'Expression écrite (4 critères FEI sur 5) et pour l'Expression orale.
-4. Convertir ces notes en niveaux NCLC officiels (NCLC 4 à 10+) et confirmer si j'atteins le niveau NCLC 7 requis pour l'immigration canadienne.
-5. Dresser la liste précise de mes trois erreurs grammaticales ou lexicales prioritaires à corriger avant les répétitions générales du Path 04.
+1. Vérifier le respect des fourchettes de mots pour chaque tâche écrite (T1: 60-120; T2: 120-150; T3: 120-180) et évaluer la réalisation de la consigne.
+2. Vérifier l'autonomie lexicale en Tâche 3 (éviter toute reprise mot à mot des textes sources).
+3. Proposer une évaluation indicative sur 20 pour l'Expression écrite et pour l'Expression orale.
+4. Comparer ces notes au tableau officiel IRCC (NCLC 7 = 10-11/20) et confirmer si j'atteins le seuil visé pour l'immigration canadienne.
+5. Dresser la liste précise de mes trois erreurs grammaticales ou lexicales prioritaires à corriger.
 ```
 
 ---

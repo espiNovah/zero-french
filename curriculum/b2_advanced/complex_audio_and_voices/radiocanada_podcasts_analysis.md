@@ -1,10 +1,10 @@
 ### Introduction
 
-For candidates aiming for **CEFR Level B2 and C1 (NCLC 7–9)** on the **TCF Canada**, the ultimate test of auditory competence is the ability to follow extended, unscripted discussions on public policy, economics, history, and science produced by major Francophone broadcasters.
+For candidates aiming for **NCLC 7 or higher** on the **TCF Canada**, the ultimate test of auditory competence is the ability to follow extended, unscripted discussions on public policy, economics, history, and science produced by major Francophone broadcasters.
 
 In Canada, the benchmark institution for intellectual broadcasting is **ICI Radio-Canada Première** (the French-language radio network of the Canadian Broadcasting Corporation). Flagship programs such as *Midi info*, *Aujourd'hui l'histoire*, *Pénélope*, and *Les faits d'abord* feature discussions between leading journalists, university scholars, and policymakers speaking at a natural, sophisticated native cadence.
 
-On the **TCF Canada Listening Comprehension (*Compréhension orale*)** test, items 30 through 39 directly replicate this broadcast format. Unlike early A1–A2 announcements that deliver a single isolated fact (such as a train delay or store closing hour), B2 audio segments require:
+On the **TCF Canada Listening Comprehension (*Compréhension orale*)** test, items get progressively harder, and the later ones can feature exchanges in a similar journalistic style. Unlike early A1–A2 announcements that deliver a single isolated fact (such as a train delay or store closing hour), B2 audio segments require:
 1. **Sustained macro-listening**: Retaining core arguments across a multi-minute dialogue or debate without losing the narrative thread.
 2. **Decoding institutional and political terminology**: Navigating Canadian governmental vocabulary (*les ordres de gouvernement*, *les sociétés d'État*, *la péréquation*, *les audiences publiques*).
 3. **Inference of implicit stance**: Identifying skepticism, ideological alignment, irony, and consensus between host and guest.
@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 - Decode high-frequency **Canadian institutional and civic terms** (*sociétés d'État, paliers de gouvernement, péréquation*).
 - Track **thematic pivot markers** (*tournons-nous vers, n'y a-t-il pas là une contradiction*) across long-format audio.
 - Identify subtle **phonological shifts in broadcast French** (affrication, vowel opening) without losing comprehension.
-- Infer implicit authorial skepticism and dialectical stance in upper-tier TCF listening items (questions 30–39).
+- Infer implicit authorial skepticism and dialectical stance in the harder TCF listening items.
 
 ---
 
@@ -55,19 +55,19 @@ To follow Canadian broadcast analysis fluidly, you must master the specialized i
 | Canadian French Term | IPA Transcription | Meaning | Contextual Example |
 | :--- | :--- | :--- | :--- |
 | **un palier de gouvernement** | /œ̃ pa.lje də gu.vɛʁ.nə.mɑ̃/ | level of government (federal/provincial/municipal) | *Les trois paliers de gouvernement doivent coordonner leurs investissements dans le logement.* |
-| **une société d'État** | /yn sɔ.sje.te d‿e.ta/ | Crown corporation / state-owned enterprise | *Hydro-Québec et la Société des transports de Montréal sont des sociétés d'État majeures.* |
+| **une société d'État** | /yn sɔ.sje.te d‿e.ta/ | Crown corporation / state-owned enterprise | *Hydro-Québec et Loto-Québec sont des sociétés d'État majeures.* |
 | **un projet de loi** | /œ̃ pʁɔ.ʒɛ də lwa/ | legislative bill | *Le ministre a déposé un projet de loi visant à encadrer l'intelligence artificielle.* |
 | **la consultation publique** | /la kɔ̃.syl.ta.sjɔ̃ py.blik/ | public hearings / community consultation | *Des consultations publiques se tiendront dans les arrondissements pour entendre les citoyens.* |
-| **le diffuseur public** | /lə dzi.fy.zœʁ py.blik/ | public broadcaster | *Radio-Canada remplit une mission éducative essentielle en tant que diffuseur public national.* |
+| **le diffuseur public** | /lə di.fy.zœʁ py.blik/ | public broadcaster | *Radio-Canada remplit une mission éducative essentielle en tant que diffuseur public national.* |
 | **la péréquation** | /la pe.ʁe.kwa.sjɔ̃/ | equalization payments | *Le système fédéral de péréquation redistribue les richesses pour garantir des services publics équitables.* |
 | **le député / la députée** | /lə de.py.te / la de.py.te/ | member of parliament / member of the National Assembly | *Les députés débattent en commission parlementaire sur les crédits budgétaires.* |
-| **le tissu économique** | /lə tsi.sy e.kɔ.nɔ.mik/ | economic fabric / business community | *La fermeture de cette usine fragilise l'ensemble du tissu économique régional.* |
+| **le tissu économique** | /lə ti.sy e.kɔ.nɔ.mik/ | economic fabric / business community | *La fermeture de cette usine fragilise l'ensemble du tissu économique régional.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
-In France, public debate terminology often refers to *les collectivités territoriales* or *l'État central*. In Canada, public broadcasters systematically refer to *les paliers de gouvernement* **(QC)** or *les ordres de gouvernement* **(QC)** to distinguish federal, provincial, and municipal jurisdictions. Recognizing these terms is crucial for correctly identifying which level of authority is being discussed in TCF listening prompts.
+In France, public debate terminology often refers to *les collectivités territoriales* or *l'État central*. In Canada, public broadcasters commonly refer to *les paliers de gouvernement* **(QC)** or *les ordres de gouvernement* **(QC)** to distinguish federal, provincial, and municipal jurisdictions. Recognizing these terms is crucial for correctly identifying which level of authority is being discussed in TCF listening prompts.
 
 </div>
 
@@ -84,7 +84,7 @@ When listening to a 4-minute interview, trying to memorize every word causes cog
 
 #### 2. Host Skepticism and Socratic Pushback
 Journalists on *Midi info* rarely agree passively with their guests. They test hypotheses using calibrated challenge markers:
-* **« Vous dites cela, mais n'est-il pas vrai que... »** (/vu dzit s(ə).la, mɛ n‿ɛ.t‿il pa vʁɛ kə/): Directly confronts the guest with conflicting evidence.
+* **« Vous dites cela, mais n'est-il pas vrai que... »** (/vu dit s(ə).la, mɛ n‿ɛ.t‿il pa vʁɛ kə/): Directly confronts the guest with conflicting evidence.
 * **« N'y a-t-il pas là une certaine contradiction ? »** (/n‿j‿a.t‿il pa la yn sɛʁ.tɛn kɔ̃.tʁa.dik.sjɔ̃/): Asks the guest to resolve an apparent paradox.
 * **« D'aucuns pourraient objecter que... »** (/d‿o.kœ̃ pu.ʁɛ t‿ɔb.ʒɛk.te kə/): Quotes external critics to force the guest to defend their stance.
 
@@ -95,29 +95,31 @@ Journalists on *Midi info* rarely agree passively with their guests. They test h
 Even professional radio broadcasters on Radio-Canada exhibit authentic Canadian phonological features that differentiate them from European French journalists:
 
 ```
-                            ┌─── Affrication of /t/ and /d/ before [i] and [y]
-                            │    - "député" -> [dze.py.tse], "directeur" -> [dzi.ʁɛk.tœʁ]
+                            ┌─── Affrication of /t/ and /d/ before [i, y, j, ɥ] ONLY
+                            │    - "dictature" -> [dzik.ta.tsyːʁ], "directeur" -> [dzi.ʁɛk.tœʁ]
                             │
-BROADCAST PHONETIC SHIFTS ──┼─── Opening of /ɛ/ to [a] or [æ] in Final Stressed Syllables
-                            │    - "fait" -> [fɛ] or [faɛ̯], "affaires" -> [a.faɛ̯ʁ]
+BROADCAST PHONETIC SHIFTS ──┼─── Diphthongization of long /ɛː/ in Final Stressed Syllables
+                            │    - "fête" -> [faɛ̯t], "affaires" -> [a.faɛ̯ʁ]
                             │
                             └─── Posterior A /ɑ/ vs Anterior A /a/ Distinction
                                  - "pâte" [pɑt] vs "patte" [pat], "tâche" [tɑʃ] vs "tache" [taʃ]
 ```
 
 #### Recognizing Affrication in Formal Political Vocabulary
-* **le député** → pronounced **[lə dze.py.tse]** (affrication on both *dé-* and *-té*).
-* **la politique** → pronounced **[la pɔ.li.tsik]** (affrication on *-ti-*).
-* **l'actualité** → pronounced **[l‿ak.tsɥa.li.tse]** (affrication on *-tua-* and *-té*).
-* **un budget déficitaire** → pronounced **[œ̃ by.dʒɛ dze.fi.si.tɛʁ]** (affrication on *dé-*).
+* **la constitution** → pronounced **[la kɔ̃s.tsi.tsy.sjɔ̃]** (affrication on *-ti-* and *-tu-*).
+* **la politique** → pronounced **[la pɔ.li.tsɪk]** (affrication on *-ti-*).
+* **l'actualité** → pronounced **[l‿ak.tsɥa.li.te]** (affrication on *-tu-* before /ɥ/; *-té* stays [te]).
+* **un produit** → pronounced **[œ̃ pʁɔ.dzɥi]** (affrication of /d/ before /ɥ/).
 
-When listening at high speed, candidates who expect pure European stops [t] and [d] often mishear *[tsik]* as an unfamiliar word. Mentally stripping the affrication allows instant recognition of the base root.
+Words like *député*, *déficitaire* or *équipe* are **not** affricated: their /t/ and /d/ are followed by /e/, not by /i, y, j, ɥ/.
+
+When listening at high speed, candidates who expect pure European stops [t] and [d] often mishear *[tsɪk]* as an unfamiliar word. Mentally stripping the affrication allows instant recognition of the base root.
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip
 
-On long-format listening items (questions 30 to 39), the audio plays **only once** and spans several minutes. Do not attempt to transcribe the dialogue or memorize numerical figures. Focus on tracking the **thematic pivots** and the **underlying stance** of the interviewees. Correct answer choices on the TCF Canada paraphrase concepts rather than recycling exact spoken statistics.
+On longer listening items, the audio plays **only once**. Do not attempt to transcribe the dialogue or memorize numerical figures. Focus on tracking the **thematic pivots** and the **underlying stance** of the interviewees. Correct answer choices often paraphrase concepts rather than recycling exact spoken figures.
 
 </div>
 
@@ -125,7 +127,7 @@ On long-format listening items (questions 30 to 39), the audio plays **only once
 
 ### Authentic Exam Script Analysis: Extended Public Affairs Excerpt
 
-Examine this simulated TCF Canada Level B2 long-format listening script (Items 34–35):
+Examine this fictional B2-level practice script, written in the style of a longer TCF Canada listening item:
 
 > **Animateur (Midi info) :**  
 > *« À Midi info, nous nous penchons aujourd'hui sur l'avenir de nos forêts boréales face à l'intensification des feux de végétation. Avec nous, le professeur Daniel Gagnon, titulaire de la chaire de recherche en écologie forestière à l'Université du Québec. Professeur Gagnon, le gouvernement fédéral a annoncé un investissement de cinq cents millions de dollars pour acquérir de nouveaux avions bombardiers d'eau. Est-ce là la réponse appropriée ? »*  
@@ -233,11 +235,11 @@ Perform an in-depth journalistic analysis of a simulated Radio-Canada panel disc
 2. **Draft a 100–120 word executive summary** in standard French synthesizing the debate for a municipal housing task force.
 3. **Mandatory B2 features**:
    * Use at least **two reporting verbs** (*faire valoir, objecter, soutenir, répliquer*).
-   * Incorporate at least **one concessive connector** (*certes... toutefois, néanmoins, alors que*).
+   * Incorporate at least **one concessive connector** (*certes... toutefois, néanmoins, bien que, quoique*).
    * Maintain an objective, analytical third-person register.
 
 <details>
-<summary>View Benchmark Executive Briefing (112 words)</summary>
+<summary>View Benchmark Executive Briefing (100 words)</summary>
 
 **Note d'information : Le débat sur la densification urbaine le long du réseau structurant**
 
@@ -245,9 +247,9 @@ La densification immobilière des quartiers centraux suscite une vive confrontat
 
 D'un côté, les urbanistes soutiennent que l'édification de bâtiments en hauteur le long des axes de transport en commun est indispensable pour freiner l'étalement urbain et préserver les zones agricoles périphériques. De l'autre côté, les comités citoyens objectent que ces projets dégradent l'ensoleillement des quartiers historiques sans répondre à la crise du logement abordable. 
 
-**Alors que** les spécialistes privilégient la rentabilité environnementale du réseau de transport, les résidents réclament un encadrement strict de la spéculation immobilière afin de garantir un aménagement à échelle humaine.
+**Bien que** les spécialistes privilégient la rentabilité environnementale du réseau de transport, les résidents réclament un encadrement strict de la spéculation immobilière afin de garantir un aménagement à échelle humaine.
 
-*(112 mots — Synthèse objective, vocabulaire urbanistique rigoureux, connecteurs B2 parfaitement articulés).*
+*(100 mots, titre non compris — Synthèse objective, vocabulaire urbanistique rigoureux, connecteurs B2 bien articulés).*
 </details>
 
 </div>
@@ -264,7 +266,7 @@ Confirm your mastery of Radio-Canada podcast analysis before proceeding:
    [Review key Canadian civic and institutional lexicon](#key-canadian-civic-and-institutional-lexicon)
 3. How does the host's phrasing *« D'aucuns pourraient objecter que... »* function rhetorically in an interview?  
    [Review macro-listening strategies and thematic pivots](#macro-listening-strategies-tracking-thematic-pivots)
-4. What phonetic phenomenon transforms the pronunciation of *« le député »* to *[lə dze.py.tse]* in Canadian broadcast French?  
+4. What phonetic phenomenon transforms the pronunciation of *« la politique »* to *[la pɔ.li.tsɪk]* in Canadian broadcast French?  
    [Review auditory decoding of spoken Canadian vowel shifts](#auditory-decoding-of-spoken-canadian-vowel-shifts-in-podcasts)
 5. In long-format listening comprehension questions, why is it critical to identify the speaker's implicit stance rather than just memorizing figures?  
    [Review authentic exam script analysis](#authentic-exam-script-analysis-extended-public-affairs-excerpt)
@@ -277,5 +279,5 @@ This section contains helpful links to related content. It isn't required, so co
 
 * [Radio-Canada — Émissions et balados d'actualité](https://ici.radio-canada.ca/info) — Stream daily episodes of *Midi info* and *Les faits d'abord* with professional native journalists.
 * [Radio-Canada — Aujourd'hui l'histoire](https://ici.radio-canada.ca/premiere/emissions/aujourd-hui-l-histoire) — Excellent cultural podcast for practicing long-format academic listening comprehension.
-* [France Éducation international — TCF compréhension orale B2](https://www.france-education-international.fr/) — Official portal detailing long-format audio specifications and assessment criteria.
+* [France Éducation international — TCF compréhension orale B2](https://www.france-education-international.fr/) — Official information on the TCF Canada format, including the listening section.
 * [La Presse — Chroniques politiques et économiques](https://www.lapresse.ca/) — High-quality written counterpart for expanding Canadian public policy vocabulary.

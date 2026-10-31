@@ -2,12 +2,12 @@
 
 In introductory and intermediate language study, listening exercises typically feature professional voice actors speaking at a steady, deliberate pace in soundproof recording studios with crystal-clear enunciation.
 
-At CEFR Level B2 (Canadian NCLC 7+), this sanitized acoustic environment disappears entirely. On the **TCF Canada** and **TEF Canada** examinations—specifically in **Listening Comprehension (*Compréhension orale*)** questions 26 through 39—candidates must decode **rapid, authentic spontaneous speech (*le français oral spontané*)**.
+At CEFR Level B2 (Canadian NCLC 7+), this sanitized acoustic environment disappears entirely. On the **TCF Canada** and **TEF Canada** examinations—especially in the later, harder **Listening Comprehension (*Compréhension orale*)** items—candidates must decode **rapid, authentic spontaneous speech (*le français oral spontané*)**.
 
 In these upper-level recordings, you will encounter:
 1. **Pervasive phonological reductions**: Vowel dropping, elision of unstable *e* (/ə/), consonant cluster simplification, and assimilation (e.g., *« je ne sais pas »* pronounced *[ʃɛ.pa]*).
 2. **Ambient acoustic interference**: Environmental noise such as café background chatter, street traffic, subway platform echoes, and distorted telephone audio.
-3. **Rapid, overlapping turn-taking (*les chevauchements de parole*)**: Spontaneous interviews and panel debates where multiple speakers interrupt, hesitate, reformulate sentences mid-thought, and speak at rates exceeding 200 words per minute.
+3. **Rapid, overlapping turn-taking (*les chevauchements de parole*)**: Spontaneous interviews and panel debates where multiple speakers interrupt, hesitate, reformulate sentences mid-thought, and speak very quickly.
 
 Mastering B2 listening requires transitioning from word-by-word decoding to **rhythmic contour tracking and semantic chunking**. This lesson breaks down the exact phonetic mechanics of spoken French reductions, decodes rapid conversational turn-taking, and provides actionable tactics to extract meaning under single-play exam conditions.
 
@@ -51,7 +51,7 @@ When the neutral vowel **/ə/** (spelled *e*) drops in common pronoun clusters, 
 #### 2. Pronoun Contractions and Consonant Drops
 * **il / ils** drop the liquid /l/ before a consonant:  
   * *Il part à huit heures* → **[i.paʁ a ɥi.t‿œʁ]** (*« Y part à huit heures »*).  
-  * *Qu'est-ce qu'ils disent ?* → **[kɛs.k‿i dziz]** (*« Qu'est-ce qu'y disent ? »*).
+  * *Qu'est-ce qu'ils disent ?* → **[kɛs.k‿i diz]** (*« Qu'est-ce qu'y disent ? »*).
 * **elle / elles** contract to /a/ or /al/ in informal contexts:  
   * *Elle a dit qu'elle venait* → **[a dzi k‿al və.nɛ]** (*« A dit qu'a venait »*).
 * **il y a** compresses into a single monosyllabic glide:  
@@ -67,7 +67,7 @@ In informal and rapid speech, word-final consonant clusters ending in **/l/** or
 
 #### Québec vs France
 
-In spoken European French, the negative *ne* is dropped almost universally (*« je sais pas »*). In Québec French, this reduction goes further with lexical contractions like *pantoute* **(QC)** (*pas du tout*) and discourse conjunctions like *faque* **(QC)** (*ça fait que / donc*). Furthermore, Québec speakers frequently elide subject pronouns before vowels (*« a dit que »* for *« elle a dit que »*). Both variants appear on TCF Canada audio prompts.
+In spoken European French, the negative *ne* is dropped almost universally (*« je sais pas »*). In Québec French, this reduction goes further with lexical contractions like *pantoute* **(QC)** (*pas du tout*) and discourse conjunctions like *faque* **(QC)** (*ça fait que / donc*). Furthermore, Québec speakers frequently elide subject pronouns before vowels (*« a dit que »* for *« elle a dit que »*). You may hear both varieties in TCF Canada audio.
 
 </div>
 
@@ -80,14 +80,14 @@ In unscripted discussions on **Radio-Canada**, **RFI**, or France Inter, speaker
 | Conversational Marker | IPA Transcription | Communicative Function | Contextual Meaning |
 | :--- | :--- | :--- | :--- |
 | **en fait** | /ɑ̃ fɛt/ | Rectification / Contradiction | *Actually / In reality (corrects previous statement)* |
-| **cela dit / ceci dit** | /s(ə).la dzi/ | Pivot / Nuanced concession | *Having said that / Mind you (pivots to contrast)* |
+| **cela dit / ceci dit** | /s(ə).la di/ | Pivot / Nuanced concession | *Having said that / Mind you (pivots to contrast)* |
 | **n'empêche que** | /n‿ɑ̃.pɛʃ kə/ | Resolute objection | *Still / Nonetheless (maintains point despite objection)* |
 | **tout de même** | /tu d‿mɛm/ | Mild protest or surprise | *All the same / Even so* |
-| **disons que** | /dzi.zɔ̃ kə/ | Hesitant approximation | *Let's say that / Put it this way* |
+| **disons que** | /di.zɔ̃ kə/ | Hesitant approximation | *Let's say that / Put it this way* |
 | **figurez-vous que** | /fi.gy.ʁe vu kə/ | Introducing surprising fact | *Would you believe that / Imagine that* |
 
 #### Analyzing Rapid Turn-Taking Dynamics
-In TCF questions 28 through 35, you must determine whether Speaker B agrees, partially concedes, or outright refutes Speaker A. Listen for the **conversational pivot words**:
+In multi-speaker listening items, you must determine whether Speaker B agrees, partially concedes, or outright refutes Speaker A. Listen for the **conversational pivot words**:
 
 * **Scenario A (Deceptive Agreement followed by Refutation)**:  
   * Speaker A: *« Le projet de tramway est indispensable pour désengorger la ville. »*  
@@ -109,20 +109,20 @@ Instead, train yourself in the **Rhythmic Anchor Technique (*l'ancrage rythmique
 
 ```
 [Unstressed Syllables (rapid, compressed)] ───► TONIC ACCENT (Lengthened, higher pitch on last syllable)
-"On va tsou d'suite au bu..."              ───► "...REAU !" [by.RO]
+"On va tout d'suite au bu..."              ───► "...REAU !" [by.ʁo]
 ```
 
 #### The Rhythmic Rules of Spoken French
 1. **French Words Have No Lexical Stress**: Unlike English or Spanish, individual French words do not have fixed stressed syllables.
 2. **Stress Falls on the Final Syllable of the Group (*Le groupe rythmique*)**: Stress in French is phrase-based. The pitch rises and the vowel lengthens exclusively on the **final syllable of a meaningful syntactic unit**.
 3. **Focus on the Accented Peaks**: When background noise obscures the middle of a sentence, ignore the muddy phonetic blur. Lock your attention onto the **final stressed syllable of each rhythmic group**—that is where the semantic information (the noun or verb) resides:
-   * *« On est allés dans un p'tit... [noise] ...**RES-TO** ... près du ... [noise] ...**MAR-CHÉ** ! »*
+   * *« On est allés dans un p'tit... [noise] ...res-**TO** ... près du ... [noise] ...mar-**CHÉ** ! »* (one stressed syllable per group: the last one)
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip
 
-In TCF Listening, audio recordings are played **only once**. On questions 26–39, speakers do not pause for clarity. If ambient street noise or a fast contraction obscures a word, never freeze trying to decipher it. Immediately track forward to the next rhythmic tonic accent. Getting stuck on a missing syllable causes candidates to miss the subsequent sentence where the actual answer is stated.
+In TCF Listening, audio recordings are played **only once**. In the harder items, speakers do not pause for clarity. If ambient street noise or a fast contraction obscures a word, never freeze trying to decipher it. Immediately track forward to the next rhythmic tonic accent. Getting stuck on a missing syllable causes candidates to miss the subsequent sentence where the actual answer is stated.
 
 </div>
 
@@ -130,7 +130,7 @@ In TCF Listening, audio recordings are played **only once**. On questions 26–3
 
 ### Authentic Exam Script Analysis: Multi-Speaker Roundtable
 
-Examine this simulated TCF Canada Level B2 listening transcript (Item 31):
+Examine this fictional B2-level practice transcript, written in the style of a TCF Canada listening item:
 
 > **Animateur :** *« Alors, autour de cette table, le projet de piétonnisation du boulevard Saint-Laurent. Hélène, vous êtes commerçante, qu'est-ce que vous en pensez ? »*  
 > **Hélène :** *« Écoutez, ch'sais pas trop quoi vous dire. Au début, on était tous enthousiastes, disons qu'on s'attendait à voir débarquer une foule de promeneurs. Mais dans les faits, y a personne la semaine. Les clients des banlieues peuvent plus s'stationner, fait qu'ils vont magasiner dans les centres d'achats en périphérie. Nos ventes ont chuté de vingt pour cent. »*  
@@ -161,8 +161,8 @@ Test your ability to decode rapid phonetic reductions and conversational markers
 Restore each phonetically reduced oral phrase into standard written French:
 
 1. *[ʃɛ.pa s‿i va və.niʁ]*
-2. *[ja plys d‿plas dɑ̃ lə sta.sjɔn.mɑ̃]*
-3. *[ʃɥi t‿a.le ma.ga.zi.ne a.vɛk ma blɔ̃d]*
+2. *[ja ply d‿plas dɑ̃ lə sta.sjɔn.mɑ̃]*
+3. *[ʃɥi a.le ma.ga.zi.ne a.vɛk ma blɔ̃d]*
 4. *[fo pa k‿i kʁwa k‿a va a.sɛp.te]*
 
 <details>
@@ -217,8 +217,8 @@ Perform an in-depth auditory deconstruction of an unscripted, fast-paced radio d
 **Part 1: Phonetic Reductions Identified**:
 1. *Y a pas* = standard *Il n'y a pas* (dropped *il* and dropped negative particle *ne*).
 2. *r'passer* / *r'venir* / *r'garde* = standard *repasser, revenir, regarde* (deletion of unstable /ə/).
-3. *l'trafic* / *l'monde* = standard *le trafic, le monde* (vowel elision before consonant).
-4. *J'vous trouve* / *J'dis pas* = standard *Je vous trouve, Je ne dis pas* (assimilation /ʒv/ and dropped *ne*).
+3. *l'trafic* / *l'monde* = standard *le trafic, le monde* (deletion of unstable /ə/ in *le*).
+4. *J'vous trouve* / *J'dis pas* = standard *Je vous trouve, Je ne dis pas* (deletion of unstable /ə/ in *je*, and dropped *ne*).
 
 ---
 
@@ -227,7 +227,7 @@ Isabelle uses the conversational marker **« Cela dit »** (*having said that / 
 
 ---
 
-**Part 3: Standard Formal Summary (61 words)**:
+**Part 3: Standard Formal Summary (59 words)**:
 Selon Isabelle, bien qu'un retour intégral en présentiel soit inopportun, l'imposition de trois journées obligatoires au bureau s'avère indispensable. Elle souligne que le travail à distance fragilise l'intégration et l'apprentissage informel des jeunes recrues isolées à leur domicile. Dès lors, cette formule hybride encadrée permet de préserver la cohésion d'équipe et la transmission professionnelle sans sacrifier la flexibilité moderne.
 </details>
 
@@ -258,5 +258,5 @@ This section contains helpful links to related content. It isn't required, so co
 
 * [Podcast Français Facile — Le français parlé et familier](https://www.podcastfrancaisfacile.com/francais-familier/francais-familier.html) — Audio recordings and transcripts illustrating spoken vowel drops and informal contractions.
 * [Radio-Canada — Balados et entrevues d'actualité](https://ici.radio-canada.ca/info) — Authentic Canadian interviews featuring unscripted speech, debates, and diverse accents.
-* [France Éducation international — TCF compréhension orale](https://www.france-education-international.fr/) — Official exam guidelines and audio sample specifications for B2 listening comprehension.
+* [France Éducation international — TCF compréhension orale](https://www.france-education-international.fr/) — Official information on the TCF Canada format, including the listening section.
 * [La Presse — Débats et société](https://www.lapresse.ca/) — Written companion for tracking contemporary political and sociological debate themes.
