@@ -2,33 +2,33 @@
 
 In this project, you will synthesize the advanced diplomatic, hypothetical, and conflict-resolution competencies developed across the *Politeness & Hypotheses* section into an indispensable immigration artifact: **a formal B1 professional dispute and negotiation letter under strict TCF Canada Writing Task 2 conditions**.
 
-On the **TCF Canada examination**, **Writing Task 2 (*Expression écrite — Tâche 2*)** is a high-stakes 20-minute exercise that evaluates your capacity to compose a structured message of **120 to 150 words** addressed to an employer, landlord, school director, or municipal authority. Unlike the brief descriptive notes of Level A1 and A2, Task 2 requires:
+On the **TCF Canada examination**, **Writing Task 2 (*Expression écrite — Tâche 2*)** (one of three tasks in the 60-minute writing test; about 20 minutes is a sensible share) evaluates your capacity to compose a structured message of **120 to 150 words** addressed to an employer, landlord, school director, or municipal authority. Unlike the brief descriptive notes of Level A1 and A2, Task 2 requires:
 1. **Adopting the correct formal epistolary register**: Flawless *vouvoiement*, administrative greetings, and standardized French closing formulas (*formules de politesse*).
 2. **Articulating balanced dissatisfaction**: Explaining a grievance objectively without emotional outbursts or aggressive phrasing.
 3. **Deploying intermediate grammatical structures**: Seamlessly incorporating the **conditionnel présent** (*nous pourrions, j'aimerais, serait-il possible*) and **si-clauses** (*si nous réaménagions... cela permettrait de...*).
-4. **Respecting the strict word boundary**: Staying within the mandatory 120–150 word window, where falling below 120 words or exceeding 150 words incurs severe automated scoring penalties.
+4. **Respecting the word range**: Staying within the 120–150 word window. Length is part of task completion, so a text that is clearly too short or too long weakens your performance.
 
-Completing this project deposits a foundational performance benchmark into your portfolio—tangible proof that you can defend professional interests with diplomacy, syntactic versatility, and persuasive maturity at an official **CEFR Level B1 (NCLC 6–7)** standard.
+Completing this project deposits a foundational performance benchmark into your portfolio—tangible proof that you can defend professional interests with diplomacy, syntactic versatility, and persuasive maturity at a **CEFR Level B1** standard.
 
 ### Before you start
 
-Before opening your drafting workspace, configure your testing workstation to replicate official exam conditions:
+Before opening your drafting workspace, configure your workstation to resemble exam conditions:
 
 - **Disable Autocorrect & Grammar Aids**: Open a plain text editor with spellcheck, predictive text, and language plugins completely deactivated.
 - **Physical Keyboard Layout**: Ensure you can fluidly type standard French accents (*é, è, ê, à, ç, œ*) on your physical keyboard.
-- **Timing Equipment**: Set a countdown timer to **20 minutes**. In the official computer-based TCF Canada test, you have a combined 60 minutes for all three writing tasks; allocating 20 minutes to Task 2 is the exact recommended pacing.
+- **Timing Equipment**: Set a countdown timer to **20 minutes**. In the official computer-based TCF Canada test, you have a combined 60 minutes for all three writing tasks; allocating about 20 minutes to Task 2 is a sensible self-imposed budget (not an official rule).
 - **Review Prior Units**: Review conditional morphology in [The Present Conditional: Politeness, Advice, and Wishes](#/lessons/b1-independent/conditionnel-present), hypothetical pairing rules in [Hypothetical Sentences: Si Clauses Structures 1 and 2](#/lessons/b1-independent/si-clauses-structures-1-2), and consensus formulas in [Workplace Negotiations, Disputes, and Diplomatic Compromises](#/lessons/b1-independent/workplace-negotiation-disputes).
 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
 
-1. **Step 1: Analyze the Official TCF Canada Task 2 Prompt**  
-   Carefully examine the official examination prompt below:
+1. **Step 1: Analyze the TCF Canada-Style Task 2 Prompt**  
+   Carefully examine the practice prompt below:
 
    > **Épreuve d'expression écrite — Tâche 2 (Niveau B1)**  
    > **Temps conseillé** : 20 minutes  
-   > **Nombre de mots exigé** : **120 à 150 mots** (Pénalité si < 120 ou > 150 mots)  
+   > **Nombre de mots exigé** : **120 à 150 mots** (respectez la fourchette : la longueur fait partie de la réalisation de la tâche)  
    > 
    > **Sujet** :  
    > *Vous travaillez depuis plusieurs mois dans une entreprise au Canada ou en France. Votre superviseur vient de vous annoncer une modification unilatérale de votre horaire de travail : vous devez désormais travailler tous les samedis et vos journées de télétravail sont supprimées.*  
@@ -45,9 +45,9 @@ Before opening your drafting workspace, configure your testing workstation to re
    - **Paragraph 4: Politeness Closing & Sign-off (approx. 15–20 words)**  
      Express appreciation for their consideration (*« Je vous remercie par avance pour votre écoute »*) and conclude with a formal sign-off formula (*« Veuillez agréer, Madame, Monsieur, mes salutations distinguées »*).
 
-3. **Step 3: Official FEI Word Count Audit**  
-   Count your words according to official France Éducation international (FEI) rules:
-   - Elided words count as separate words: *j'aimerais* = 2 words (*j'* + *aimerais*); *l'entreprise* = 2 words (*l'* + *entreprise*); *d'horaires* = 2 words (*d'* + *horaires*).
+3. **Step 3: Word Count Audit**  
+   Count your words with the FEI/DELF convention: a word is **any string between two spaces**:
+   - Elided forms count as one word: *j'aimerais* = 1 word; *l'entreprise* = 1 word; *d'horaires* = 1 word.
    - Hyphenated compound words count as one word: *travail-famille* = 1 word; *peut-être* = 1 word; *rendez-vous* = 1 word.
    - Numbers written in digits count as one word: *15* = 1 word; *8 h 30* = 3 words.
    - **Verification**: Your total must sit strictly between **120 and 150 words** inclusive.
@@ -56,16 +56,16 @@ Before opening your drafting workspace, configure your testing workstation to re
 
 Save and archive the following three tangible deliverables in your project folder:
 - **Raw Unassisted Draft**: Save your initial 20-minute text draft as `tcf_b1_writing_task2_raw.txt`.
-- **FEI Word Count Calculation Sheet**: Document your elided and hyphenated word audit in `tcf_b1_word_count_audit.txt`.
+- **Word Count Calculation Sheet**: Document your word count audit in `tcf_b1_word_count_audit.txt`.
 - **Corrected & Polished Benchmark**: Save your final reviewed version as `tcf_b1_writing_task2_final.txt`.
 
-#### Scoring Rubric
+#### Scoring Rubric (Unofficial Self-Assessment Rubric)
 
-Evaluate your submission using the official France Éducation international 4-criteria analytical grid adapted for CEFR B1 (Total: 20 points):
+Evaluate your submission using this home-made 4-criteria rubric for CEFR B1 (Total: 20 points). It is not an FEI grid; the real TCF gives one overall writing score out of 20:
 
 | Evaluation Criterion | 0–1 points (Below A2) | 2–3 points (Emerging B1) | 4–5 points (Mastered B1/B2 Benchmark) |
 | :--- | :--- | :--- | :--- |
-| **1. Respect de la consigne et volume (Task & Word Count)** | Fewer than 100 words or over 160 words; fails to propose compromises or express clear disagreement. | 100–119 words (penalty applied); addresses reasons and compromise but with limited elaboration. | Exactly 120–150 words; fully addresses disagreement, personal impact, and 2 concrete compromises. |
+| **1. Respect de la consigne et volume (Task & Word Count)** | Fewer than 100 words or over 160 words; fails to propose compromises or express clear disagreement. | 100–119 words (below the range); addresses reasons and compromise but with limited elaboration. | Exactly 120–150 words; fully addresses disagreement, personal impact, and 2 concrete compromises. |
 | **2. Cohérence textuelle et connecteurs (Cohesion)** | Disjointed phrases; absence of logical transitions; lacks formal salutation or sign-off. | Basic chronological sequence; simple connectors (*et, mais, parce que*); formal opening present. | Flawless paragraph structure with intermediate connectors (*D'une part, En effet, Néanmoins, C'est pourquoi, Par conséquent*). |
 | **3. Lexique professionnel et politesse (Lexicon)** | Informal vocabulary; blunt accusations (*c'est nul, vous devez*); frequent repetitive terms. | Adequate workplace vocabulary; formal *vouvoiement* maintained with minor lexical repetition. | Rich, nuanced workplace lexicon (*conciliation travail-famille, réaménagement, date butoir, compromis acceptable, terrain d'entente*). |
 | **4. Morphosyntaxe et modes verbaux (Grammar & Moods)** | Present tense only; inability to form conditional or *si* clauses; severe conjugation errors. | Conditional attempted with occasional stem errors; basic *si* clause with minor tense clash. | Flawless synthesis of *conditionnel présent* and *si* structures (*si + imparfait → conditionnel*); zero accusatory slips. |
@@ -73,14 +73,14 @@ Evaluate your submission using the official France Éducation international 4-cr
 **Score Benchmark**:
 - **0–9 points**: Below B1 (Needs reinforcement of conditional morphology and epistolary layout).
 - **10–14 points**: Threshold B1 (Functional pass; needs refinement in word count precision and connectors).
-- **15–20 points**: High B1 / Solid B2 (Competitive NCLC 7 benchmark — ideal for Express Entry and Quebec immigration programs).
+- **15–20 points**: High B1 / Solid B2 (ready for full three-task, 60-minute writing simulations).
 
 #### AI Self-Assessment Prompt
 
 Copy and paste your text draft into an AI evaluator using this calibrated prompt:
 
 ```text
-You are a senior France Éducation international (FEI) examiner evaluating a candidate's submission for the TCF Canada examination (Writing Task 2 — Level B1 Benchmark).
+You are an experienced TCF Canada examiner-trainer evaluating a candidate's submission for the TCF Canada examination (Writing Task 2 — Level B1 Benchmark).
 
 Prompt Context: 120–150 word formal email to a supervisor expressing polite disagreement with a mandatory schedule change (loss of telework and required Saturday shifts), explaining personal and productivity impacts, and proposing two compromise solutions.
 
@@ -89,8 +89,8 @@ Candidate's Raw Unassisted Submission:
 [PASTE YOUR WRITTEN TEXT HERE]
 """
 
-Evaluate this submission strictly according to FEI Level B1 standards:
-1. Official FEI Word Count Audit: Count words using official FEI rules (elided forms count separately: j'ai = 2 words, l'horaire = 2 words; hyphenated words count as 1 word). Verify if it sits strictly between 120 and 150 words.
+Evaluate this submission strictly against CEFR B1 descriptors, using this unofficial rubric:
+1. Word Count Audit: Count words with the FEI convention (a word is any string between two spaces: j'ai = 1 word, l'horaire = 1 word; hyphenated words count as 1 word). Verify if it sits strictly between 120 and 150 words.
 2. Criterion 1: Respect de la consigne et adéquation de la situation (0–5 pts)
 3. Criterion 2: Cohérence textuelle, mise en page et connecteurs logiques (0–5 pts)
 4. Criterion 3: Étendue et maîtrise du lexique professionnel diplomatique (0–5 pts)
@@ -115,15 +115,15 @@ Be objective and strict.
 
 A successful project submission validates:
 
-1. **Mathematical Word Count Compliance**: Strictly between 120 and 150 words according to official FEI elision rules.
+1. **Mathematical Word Count Compliance**: Strictly between 120 and 150 words (a word is any string between two spaces; *j'ai* = 1 word).
 2. **Diplomatic Tone Mastery**: Expressing professional disagreement firmly while sustaining polite *vouvoiement* and avoiding accusatory statements.
 3. **Syntactic Versatility**: Incorporating at least one accurate *conditionnel présent* verb and at least one *si-clause* without tense mismatches.
 
 ### Annotated benchmark writing models
 
-To help you calibrate your writing against official evaluation standards, examine the two benchmark models below. Both address the identical prompt, illustrating the progression from standard B1 execution to advanced B1/B2 proficiency.
+To help you calibrate your writing against B1 expectations, examine the two benchmark models below. Both address the identical prompt, illustrating the progression from standard B1 execution to advanced B1/B2 proficiency.
 
-#### Benchmark Model 1: Solid B1 Standard (131 words)
+#### Benchmark Model 1: Solid B1 Standard (129 words)
 
 > **Madame la directrice,**  
 > 
@@ -139,14 +139,14 @@ To help you calibrate your writing against official evaluation standards, examin
 > **Alex Tremblay**
 
 **Analytical Commentary**:
-- **Official Word Count**: 131 words (within the 120–150 word target range).
+- **Word Count**: 129 words, signature excluded (within the 120–150 word target range).
 - **Paragraph Cohesion**: Clean 4-paragraph layout with formal connectors (*D'une part, D'autre part, Afin de, De plus*).
 - **Syntactic Features**:
   - Polite conditional: *je souhaiterais vous proposer, nous pourrions instaurer*.
   - Hypothesis structure 2: *Si vous m'accordiez... je m'engagerais à...* (*si + imparfait → conditionnel*).
 - **Lexical Quality**: *conciliation travail-famille, roulement d'équipe, objectifs de productivité*.
 
-#### Benchmark Model 2: Advanced B1 / Threshold B2 (144 words)
+#### Benchmark Model 2: Advanced B1 / Threshold B2 (141 words)
 
 > **Monsieur le superviseur,**  
 > 
@@ -154,7 +154,7 @@ To help you calibrate your writing against official evaluation standards, examin
 > 
 > **Bien que je comprenne les impératifs opérationnels de notre département, ce changement soudain engendre d'importantes contraintes d'organisation personnelle. L'absence de télétravail et les horaires imposés le samedi risquent d'entraîner une surcharge de travail et de dégrader le climat au sein de notre équipe.**  
 > 
-> **Dans l'optique d'un terrain d'entente mutuellement avantageux, je suggérerais d'aménager un horaire flexible : si nous concentrions les heures supplémentaires en semaine, nous préserverions le repos des collaborateurs tout en respectant nos échéances strictes. Alternativement, l'instauration d'un mode hybride de deux jours permettrait de maintenir un niveau de productivité optimal.**  
+> **Dans l'optique d'un terrain d'entente mutuellement avantageux, je suggérerais d'aménager un horaire flexible : si nous concentrions les heures supplémentaires en semaine, nous préserverions le repos des collaborateurs tout en respectant nos échéances strictes. Sinon, l'instauration d'un mode hybride de deux jours permettrait de maintenir un niveau de productivité optimal.**  
 > 
 > **Je vous remercie par avance pour l'attention bienveillante que vous porterez à ma requête.**  
 > 
@@ -162,7 +162,7 @@ To help you calibrate your writing against official evaluation standards, examin
 > **Camille Roy**
 
 **Analytical Commentary**:
-- **Official Word Count**: 144 words.
+- **Word Count**: 141 words, signature excluded.
 - **Rhetorical Sophistication**: Opens with concession (*Bien que je comprenne...*), uses refined diplomatic expressions (*faire part de mes réserves, contraintes d'organisation, terrain d'entente mutuellement avantageux*).
 - **Syntactic Variety**: Deploys conditional verbs (*suggérerais, préserverions, permettrait*) and a classic *si-clause* (*Si nous concentrions... nous préserverions...*).
 
@@ -170,7 +170,7 @@ To help you calibrate your writing against official evaluation standards, examin
 
 Before archiving your deliverable in your study portfolio, review each item on this checklist:
 
-- [ ] **Official word count calculated**: Counted all elided words separately (*l'annonce* = 2, *d'organisation* = 2, *m'inquiète* = 2, *s'occuper* = 2). Total is between 120 and 150 words.
+- [ ] **Word count calculated**: Counted each string between two spaces as one word (*l'annonce* = 1, *d'organisation* = 1, *m'inquiète* = 1, *s'occuper* = 1). Total is between 120 and 150 words.
 - [ ] **Accents and spelling verified**: All accents (*é, è, ê, à, ç*) rendered accurately.
 - [ ] **Vouvoiement maintained**: No accidental informal slips (*tu/ton/te*) in any sentence.
 - [ ] **Conditional verbs verified**: Checked that stems match future roots (*pourr-, ser-, aur-, suggérer-, souhaiter-*).

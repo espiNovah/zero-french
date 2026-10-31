@@ -1,48 +1,40 @@
 ### Introduction
 
-In the **TCF Canada** (*Test de connaissance du français pour le Canada*), the two receptive skill sections—**Compréhension orale** (Listening Comprehension) and **Compréhension écrite** (Reading Comprehension)—determine 50% of your linguistic score for Canadian immigration (Express Entry and Quebec Arrima programs).
+In the **TCF Canada** (*Test de connaissance du français pour le Canada*), the two receptive skill sections—**Compréhension orale** (Listening Comprehension) and **Compréhension écrite** (Reading Comprehension)—are two of the four French skills assessed for Canadian immigration (Express Entry and Quebec Arrima programs); each is scored on its own 0–699 scale.
 
-To achieve the benchmark of **NCLC 7 (Level B2)** or secure a solid **NCLC 5–6 (Level B1)**, candidates must perform with near-perfect accuracy on the first 25 questions of both sections. Items 1 through 25 cover CEFR levels A1, A2, and core B1:
-* In **Compréhension orale** (39 items total, 35 minutes), every recording is **played only once** (*une seule écoute*). You have between 10 and 20 seconds to read the question, listen to the audio, and select your answer before the computer automatically advances.
-* In **Compréhension écrite** (39 items total, 60 minutes), the test is self-paced. Mismanaging your time on early questions leaves insufficient time to analyze dense B2 journalistic editorials (items 26–39).
+To reach the benchmark of **NCLC 7** (CO 458–502, CE 453–498 on the 0–699 scale), you cannot afford to lose points carelessly on the easier questions. In both sections, items get progressively harder; there is no official map of which item number tests which level:
+* In **Compréhension orale** (39 items total, 35 minutes), every recording is **played only once** (*une seule écoute*). Read the question, listen, answer, and move on.
+* In **Compréhension écrite** (39 items total, 60 minutes), you manage your own time. Mismanaging your time on the early questions leaves insufficient time to analyze the longer, denser texts near the end.
 
-This lesson provides an operational tactical blueprint for mastering items 1 to 25. You will learn the **pre-listening scan protocol**, the **binary elimination method** (*l'élimination binaire*), pacing benchmarks, and techniques to bypass common distractor traps (*les pièges à distracteurs*).
+This lesson provides an operational tactical blueprint for the easier and middle-difficulty items (A1 to B1). You will learn the **pre-listening scan protocol**, the **binary elimination method** (*l'élimination binaire*), pacing benchmarks, and techniques to bypass common distractor traps (*les pièges à distracteurs*).
 
 ---
 
 ### Anatomy of the TCF Canada Receptive Sections
 
-Both sections follow an adaptive difficulty curve calibrated against the six CEFR levels (A1 to C2):
+Both sections follow the same principle: **early items are easier, later items are harder**, running from roughly A1 up to C2. FEI publishes no item-number→level map, and items are weighted by difficulty, so there is no fixed raw-score conversion either. The table below is an illustrative overview of the kinds of material typical of each CEFR level, not an official breakdown:
 
-```
-                        ┌─── Items 1–6 (Niveau A1): Simple signs, short voicemails, survival needs
-                        │
-                        ├─── Items 7–18 (Niveau A2): Public transit, administrative notices, daily transactions
-TCF ITEMS 1 TO 25 ──────┤
-                        └─── Items 19–25 (Niveau B1): Radio dispatches, opinion polls, workplace debates
-```
-
-| Sub-Section | Level Range | Audio / Text Format | Cognitive Task | Target Accuracy |
-| :--- | :--- | :--- | :--- | :--- |
-| **Items 1–6** | A1 | Visual prompts, 1-sentence audio, short signs | Identify basic objects, prices, locations | **100% (6/6)** |
-| **Items 7–12** | A2 (lower) | Station announcements, voicemail messages | Identify speaker's intention and urgent instructions | **95%+ (5–6/6)** |
-| **Items 13–18** | A2 (upper) | Classified ads, workplace emails, short reports | Extract specific factual details and schedules | **90%+ (5–6/6)** |
-| **Items 19–25** | B1 | Radio interviews, press articles, public debates | Discern main idea, speaker opinions, and implied tone | **85%+ (6/7)** |
+| Difficulty band | Level Range | Typical Audio / Text Format | Cognitive Task |
+| :--- | :--- | :--- | :--- |
+| **Easiest items** | A1 | Visual prompts, 1-sentence audio, short signs | Identify basic objects, prices, locations |
+| **Easy items** | A2 (lower) | Station announcements, voicemail messages | Identify speaker's intention and urgent instructions |
+| **Lower-middle items** | A2 (upper) | Classified ads, workplace emails, short reports | Extract specific factual details and schedules |
+| **Middle items** | B1 | Radio interviews, press articles, public debates | Discern main idea, speaker opinions, and implied tone |
 
 > [!IMPORTANT]
-> **Scoring Weight Warning!**
-> Missing easy questions in Items 1 to 18 severely drags down your algorithmic score. Treat every early question with total focus; do not rush carelessly to reach the harder questions.
+> **Pacing Warning!**
+> Treat every early question with full focus; do not rush carelessly to reach the harder questions. Easy points lost through inattention are points you never needed to lose.
 
 ---
 
 ### Listening Strategy: The Single-Play Audio Protocol
 
-In the computer-based TCF Canada (*TCF sur ordinateur*), the timer is relentless. Once the audio finishes, you have a countdown of 10 to 12 seconds before the interface locks your response and loads the next question.
+In the computer-based TCF Canada (*TCF sur ordinateur*), the audio plays once and the section timer keeps running. The exact on-screen timings and navigation rules are not published here: check the FEI candidate guide and your *convocation*. Your routine is simple: read the question, listen, answer, move on.
 
 To survive and conquer single-play conditions, implement the **3-Step Listening Protocol**:
 
-#### Step 1: Pre-Listening Reconnaissance (The 10-Second Window)
-Before the audio begins, you have roughly 10 seconds of silence. **Never stare blankly at the screen.**
+#### Step 1: Pre-Listening Reconnaissance (Before the Audio Starts)
+Use whatever moment you have before the audio begins. **Never stare blankly at the screen.**
 * **Read the Question Stem First**: Determine whether the question asks for a factual detail (*Qui ? Où ? Quand ?*), an overarching purpose (*Quel est le but de ce message ?*), or a speaker's feeling/opinion (*Que pense la femme de ce projet ?*).
 * **Scan the 4 Options for Contrast Keys**: Do not read every word of all four choices. Underline or fixate on the differentiating keywords (e.g., *Option A: refuser un emploi; Option B: demander une augmentation; Option C: changer d'horaire; Option D: annuler un contrat*).
 
@@ -56,36 +48,37 @@ While the audio is playing:
 
 #### Step 3: Immediate Decision and Mental Reset
 * **Select Immediately**: As soon as the recording ends, make your selection.
-* **Never Dwell on Missed Items**: If you are unsure between two options, guess intelligently using elimination, lock your choice, and immediately take a deep breath to focus on the next question. Dwelling on item 14 will cost you item 15!
+* **Never Dwell on Missed Items**: If you are unsure between two options, guess intelligently using elimination, lock your choice, and immediately take a deep breath to focus on the next question. Dwelling on one item will cost you the next one!
 
 ---
 
 ### Reading Tactics: Pacing, Skimming, and Scanning
 
-In **Compréhension écrite**, you control the clock: **60 minutes for 39 questions**. The most frequent failure mode of intermediate candidates is spending 4 minutes on an A2 text (items 10–15) and subsequently running out of time on the critical B1/B2 texts.
+In **Compréhension écrite**, you control the clock: **60 minutes for 39 questions**. The most frequent failure mode of intermediate candidates is spending 4 minutes on an easy A2-level text early in the section and subsequently running out of time on the critical B1/B2 texts.
 
-#### The Recommended 60-Minute Pacing Grid
+#### A Suggested 60-Minute Pacing Plan (Self-Made Study Guide)
+
+The average is about 1.5 minutes per question (60 ÷ 39). Spend less on the short early texts so you can spend more on the long later ones:
 
 ```
-Minutes 00–15 ───► Items 1–12 (A1 to Lower A2) ───► ~1 minute per question (Fast scanning)
-Minutes 15–32 ───► Items 13–22 (Upper A2 to B1) ──► ~1.5 minutes per question
-Minutes 32–48 ───► Items 23–31 (Solid B1 to B2) ──► ~1.8 minutes per question
-Minutes 48–60 ───► Items 32–39 (Upper B2 to C1) ──► ~1.5 minutes per question (Deep analysis)
+Early items (short, easier texts) ──────► ~1 minute per question (Fast scanning)
+Middle items (B1-level texts) ──────────► ~1.5 minutes per question
+Later items (long, dense B2–C1 texts) ──► ~2 minutes per question (Deep analysis)
 ```
 
 #### Dual Reading Techniques: Skimming vs Scanning
-* **Scanning (*Le repérage ciblé*)**: Used for items 1–15 (short signs, bus timetables, emails). Read the question first, then run your eyes across the text looking strictly for numerals, dates, proper nouns, or explicit keywords.
-* **Skimming (*L'écrémage global*)**: Used for items 16–25 (press dispatches, opinion columns). Read the title, the lead paragraph (*le chapeau*), and the opening sentence of each paragraph to extract the general thesis before inspecting the multiple-choice options.
+* **Scanning (*Le repérage ciblé*)**: Used for the short early texts (signs, bus timetables, emails). Read the question first, then run your eyes across the text looking strictly for numerals, dates, proper nouns, or explicit keywords.
+* **Skimming (*L'écrémage global*)**: Used for longer texts (press dispatches, opinion columns). Read the title, the lead paragraph (*le chapeau*), and the opening sentence of each paragraph to extract the general thesis before inspecting the multiple-choice options.
 
 ---
 
-### Distractor Traps: Elimination Techniques for Items 19 to 25
+### Distractor Traps: Elimination Techniques for B1-Level Items
 
-Test developers at France Éducation International engineer multiple-choice options with deliberate psychological traps. Mastering the **Binary Elimination Method** allows you to eliminate two wrong options within five seconds:
+Multiple-choice options are written with plausible distractors. Mastering the **Binary Elimination Method** allows you to eliminate two wrong options quickly:
 
 | Trap Category | Description | How to Detect and Disarm |
 | :--- | :--- | :--- |
-| **1. The Exact Word Match Trap (*Le piège du mot à mot*)** | An incorrect option repeats the exact word heard in the audio, but distorts the context or negation. | Be suspicious when an option copies a word verbatim. Correct answers at B1 almost always use **synonyms or paraphrases**. |
+| **1. The Exact Word Match Trap (*Le piège du mot à mot*)** | An incorrect option repeats the exact word heard in the audio, but distorts the context or negation. | Be suspicious when an option copies a word verbatim. Correct answers at B1 often use **synonyms or paraphrases**. |
 | **2. The Absolute Extrapolation Trap** | Options containing absolute qualifiers (*toujours, jamais, totalement, tous, uniquement, indispensable*). | Nuanced French discourse avoids absolutes. If the text says *« Beaucoup de citoyens hésitent »*, eliminate options stating *« Tous les citoyens refusent »*. |
 | **3. The Chronological Inversion Trap** | The option states something that was true in the past, but the prompt asks about current or future plans. | Pay strict attention to verb tenses: *« Auparavant nous faisions cela »* (past habit) vs *« Désormais nous privilégions... »* (current policy). |
 | **4. The Opposite Polarity Trap** | The option expresses the exact reverse of the speaker's viewpoint using subtle negative markers (*ne... guère, sans succès, loin de là*). | Check negative locutions: *« Ce n'est guère encourageant »* means *it is hardly encouraging / negative*. |
@@ -96,7 +89,7 @@ Test developers at France Éducation International engineer multiple-choice opti
 
 Study these two simulated items to observe the elimination method in action.
 
-#### Demonstration 1: Listening Comprehension (Item 21 — Level B1)
+#### Demonstration 1: Listening Comprehension (B1-Level Practice Item)
 *Audio Script*:
 > **Journaliste :** *« Aujourd'hui dans notre chronique environnement, nous nous intéressons à la collecte des matières organiques dans les immeubles à logements de Montréal. Avec nous, Marc Tremblay, porte-parole d'une association citoyenne. Marc, où en est le déploiement ? »*  
 > **Marc Tremblay :** *« Eh bien, dans les quartiers centraux, les bacs bruns sont bien implantés. En revanche, dans les grands ensembles de plus de huit logements, le taux de participation reste décevant. Beaucoup de locataires affirment manquer d'espace dans leur cuisine, ou craignent les mauvaises odeurs en été. C'est pourquoi nous réclamons des séances d'information obligatoires et des bacs mieux aérés. »*
@@ -116,8 +109,8 @@ Study these two simulated items to observe the elimination method in action.
 
 ---
 
-#### Demonstration 2: Reading Comprehension (Item 23 — Level B1)
-*Text on Screen*:
+#### Demonstration 2: Reading Comprehension (B1-Level Practice Item)
+*Text on Screen* (fictional practice text):
 > **Le Devoir — Société**  
 > *Une récente enquête sociologique révèle que près de 65 % des jeunes professionnels québécois privilégient désormais un mode de travail hybride plutôt que le télétravail à temps plein. Contrairement aux idées reçues, les travailleurs de la génération montante ne cherchent pas à déserter le bureau. Ils revendiquent au contraire des espaces de collaboration conviviaux pour échanger avec leurs pairs, tout en conservant deux jours à domicile pour accomplir leurs tâches individuelles concentrées.*
 
@@ -144,11 +137,11 @@ Test your tactical reflexes on these representative B1 test scenarios.
 Examine the audio excerpt and identify the fatal flaw in each incorrect option:
 
 *Audio excerpt*:  
-*« Bonjour, c'est Sophie. Je t'appelle pour notre dîner de demain. J'avais prévu qu'on se rejoigne au restaurant italien comme convenu, mais ma voiture est en panne. Est-ce que ça t'ennuierait si on mangeait plutôt chez moi ? Je préparerai une salade. Rappelle-moi dès que tu peux. »*
+*« Bonjour, c'est Sophie. Je t'appelle pour notre dîner de demain midi. J'avais prévu qu'on se rejoigne au restaurant italien comme convenu, mais ma voiture est en panne. Est-ce que ça t'ennuierait si on mangeait plutôt chez moi ? Je préparerai une salade. Rappelle-moi dès que tu peux. »*
 
 *Question*: **Pourquoi Sophie appelle-t-elle ?**
 1. Pour annuler définitivement leur repas de demain.
-2. Pour proposer un changement de lieu pour leur déjeuner.
+2. Pour proposer un changement de lieu pour leur repas de demain midi.
 3. Pour lui demander de réparer sa voiture en panne.
 4. Pour réserver une table dans un restaurant italien.
 
@@ -158,14 +151,14 @@ Examine the audio excerpt and identify the fatal flaw in each incorrect option:
 * Option 1 is an **extrapolation trap**: She does not cancel the meal; she relocates it (*« si on mangeait plutôt chez moi »*).
 * Option 3 is a **word association trap**: The word *« voiture en panne »* is mentioned, but she never asks her friend to fix it.
 * Option 4 is a **chronological trap**: She had previously planned to eat at the restaurant (*« J'avais prévu... »*), but that plan is now obsolete.
-* **Option 2 is CORRECT**: She proposes changing the location to her home for their *dîner* (which means lunch in Canadian French or an evening meal).
+* **Option 2 is CORRECT**: She proposes changing the location to her home for their *dîner de demain midi* (in Canadian French *dîner* is lunch; *midi* makes the time unambiguous for any listener).
 </details>
 
 #### Drill 2: Quick Scanning Drill
 Read the brief administrative advisory and answer the question in under 30 seconds:
 
 > **Avis à la population — Arrondissement de Rosemont**  
-> *Veuillez noter qu'en raison de travaux de réfection du réseau d'aqueduc, la circulation automobile sera totalement interrompue sur la rue Beaubien entre les avenues Saint-Michel et Pie-IX du lundi 12 mai au vendredi 16 mai inclusivement. Les trottoirs demeureront toutefois accessibles aux piétons. Une navette spéciale de transport collectif sera mise en service de 6 h à 22 h pour contourner la zone.*
+> *Veuillez noter qu'en raison de travaux de réfection du réseau d'aqueduc, la circulation automobile sera totalement interrompue sur la rue Beaubien entre les boulevards Saint-Michel et Pie-IX du lundi 12 mai au vendredi 16 mai inclusivement. Les trottoirs demeureront toutefois accessibles aux piétons. Une navette spéciale de transport collectif sera mise en service de 6 h à 22 h pour contourner la zone.*
 
 *Question*: **Qui peut continuer à emprunter la rue Beaubien durant les travaux ?**
 1. Les automobilistes résidant sur cette rue.
@@ -187,10 +180,10 @@ Text confirmation: *« Les trottoirs demeureront toutefois accessibles aux piét
 <div class="lesson-content__panel" markdown="1">
 
 #### Assignment Overview
-Perform a simulated timed reading and listening analysis sprint representing items 20 to 25 of the TCF Canada exam.
+Perform a simulated timed reading analysis sprint on B1-level items like those you will meet in the middle of the TCF Canada reading section.
 
-#### Sprint Passage (Reading Item 24 Simulation)
-Read the text below and answer the two questions within **2 minutes and 30 seconds**:
+#### Sprint Passage (B1-Level Reading Simulation)
+Read the text below (fictional practice text) and answer the two questions within **2 minutes and 30 seconds**:
 
 > **L'actualité économique — La semaine des quatre jours en débat**  
 > *Face aux défis de recrutement et d'épuisement professionnel qui touchent les jeunes diplômés, plusieurs dizaines de PME québécoises ont instauré à titre expérimental la semaine de travail de 32 heures réparties sur quatre jours, sans diminution de salaire.*  
@@ -232,13 +225,13 @@ Confirm your mastery of TCF receptive test tactics before undertaking milestone 
 
 1. What is the fundamental operational difference between Compréhension orale and Compréhension écrite regarding pacing?  
    [Review anatomy of the receptive sections](#anatomy-of-the-tcf-canada-receptive-sections)
-2. In the single-play listening protocol, what should you do during the 10-second silence preceding each audio track?  
+2. In the single-play listening protocol, what should you do in the moment before each audio track begins?  
    [Review the single-play listening protocol](#listening-strategy-the-single-play-audio-protocol)
 3. Why are options that use exact word-for-word quotes from the recording frequently incorrect at Level B1?  
-   [Review distractor traps and elimination techniques](#distractor-traps-elimination-techniques-for-items-19-to-25)
+   [Review distractor traps and elimination techniques](#distractor-traps-elimination-techniques-for-b1-level-items)
 4. What is the danger of qualifiers such as *toujours*, *jamais*, and *uniquement* in multiple-choice options?  
-   [Review distractor traps and elimination techniques](#distractor-traps-elimination-techniques-for-items-19-to-25)
-5. How much time should you allocate to items 1 through 12 in the reading test to bank time for longer B1/B2 texts?  
+   [Review distractor traps and elimination techniques](#distractor-traps-elimination-techniques-for-b1-level-items)
+5. How much time should you allocate to the short early items in the reading test to bank time for longer B1/B2 texts?  
    [Review reading tactics and pacing](#reading-tactics-pacing-skimming-and-scanning)
 
 ---

@@ -7,9 +7,9 @@ At CEFR Level B1, mastering the syntax and rhetorical dynamics of **opposition a
 - Express surprising, counter-intuitive outcomes where an obstacle fails to stop a result (*« Bien qu'il neige abondamment, les transports en commun fonctionnent normalement »*).
 - Contrast complementary perspectives with elegance (*« En revanche », « Néanmoins », « Toutefois »*).
 
-On the **TCF Canada examination**, concession markers are the primary gatekeepers for achieving **NCLC 7–9 (Level B2/C1)**:
-- In **Speaking (*Expression orale*) Task 3 (unscripted opinion monologue, 4.5 minutes)**, examiners evaluate whether you can weigh the pros and cons (*le pour et le contre*) of a social dilemma before presenting your personal synthesis.
-- In **Writing (*Expression écrite*) Task 3 (editorial synthesis & original thesis, 120–180 words)**, candidate texts that lack concession articulators are capped at Level A2/B1. Deploying *certes... mais*, *bien que (+ subjonctif)*, and *en revanche* is essential for scoring top marks under *Cohérence et cohésion*.
+On the **TCF Canada examination**, concession markers are a key resource for reaching **Level B2**:
+- In **Speaking (*Expression orale*) Task 3 (expressing a point of view, 4.5 minutes, no preparation; the examiner may intervene)**, examiners evaluate whether you can weigh the pros and cons (*le pour et le contre*) of a social dilemma before presenting your personal synthesis.
+- In **Writing (*Expression écrite*) Task 3 (editorial synthesis & original thesis, 120–180 words)**, candidate texts that lack concession articulators struggle to show B2-level argumentation. Deploying *certes... mais*, *bien que (+ subjonctif)*, and *en revanche* helps your text read as coherent and nuanced.
 
 ### Lesson overview
 
@@ -124,13 +124,13 @@ When transitioning between full sentences or linking independent clauses, profes
 | **Néanmoins** | Concession | Elevated / Formal | *Nonetheless / Still* (Highlights persistence despite obstacle) | *Les difficultés sont réelles ; **néanmoins**, nous atteindrons notre objectif.* |
 | **Pourtant** | Concession | Standard | *Yet / And yet* (Expresses surprise or contradiction) | *Il s'est couché tôt, **pourtant** il est totalement épuisé ce matin.* |
 | **En revanche** | Pure Opposition | Elevated / Formal | *On the other hand / In contrast* (Contrasts two balanced facts) | *Le loyer est cher ; **en revanche**, les charges de chauffage sont incluses.* |
-| **Par contre** | Pure Opposition | Spoken / Familiar | *On the other hand* (Acceptable in speech, avoid in formal essays) | *Le film était long. **Par contre**, les acteurs jouaient très bien.* |
+| **Par contre** | Pure Opposition | Spoken / Familiar | *On the other hand* (Very common in speech; the OQLF considers it fully correct in writing too) | *Le film était long. **Par contre**, les acteurs jouaient très bien.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 **En revanche vs Par contre: The Academic Distinction**  
-The Académie française and Quebec's Office québécois de la langue française (OQLF) formally recommend **en revanche** in written and professional contexts.  
-While *par contre* is ubiquitous in casual spoken French, using **en revanche** or **toutefois** in TCF Canada Writing Task 3 signals high lexical refinement.
+The OQLF considers *par contre* fully correct, in speech and in writing; some purists (and an old recommendation of the Académie française) still prefer **en revanche** in formal prose.  
+Both are acceptable in TCF Canada Writing Task 3; alternating *par contre*, **en revanche**, and **toutefois** simply shows lexical range.
 
 </div>
 
@@ -231,9 +231,9 @@ Phase 3: Reconciled Synthesis (Your Original Thesis)
    <details>
    <summary>Afficher un modèle de rédaction / Show model answer</summary>
 
-   > *La promotion du covoiturage suscite des avis partagés dans nos grandes villes. **Certes**, cette pratique permet de désengorger les axes routiers et de partager les frais de déplacement, **toutefois** elle impose des contraintes rigides d'horaires et d'itinéraires qui freinent certains usagers. **Bien que cette formule soit** particulièrement bénéfique pour les trajets entre le domicile et le travail, elle demeure difficile à organiser pour les urgences imprévues. **En revanche**, si les municipalités réservaient des voies prioritaires aux véhicules partagés, l'attrait de cette solution augmenterait considérablement. En définitive, il convient de valoriser ce mode de transport collectif.*
+   > *La promotion du covoiturage suscite des avis partagés dans nos grandes villes. **Certes**, cette pratique permet de désengorger les axes routiers et de partager les frais de déplacement, **toutefois** elle impose des contraintes rigides d'horaires et d'itinéraires qui freinent certains usagers. **Bien que cette formule soit** particulièrement bénéfique pour les trajets entre le domicile et le travail, elle demeure difficile à organiser pour les urgences imprévues. **En revanche**, si les municipalités réservaient des voies prioritaires aux véhicules partagés, l'attrait de cette solution augmenterait considérablement. En définitive, il convient de valoriser ce mode de déplacement partagé, à condition de l'accompagner de mesures incitatives concrètes et d'une meilleure information des citoyens.*
 
-   **Word count audit**: 104 words.  
+   **Word count audit**: 109 words (a word is any string between two spaces; *l'attrait* = 1 word).  
    **Features**: Deploys *Certes... toutefois*, *Bien que cette formule soit*, and *En revanche* with flawless syntactic cohesion.
 
    </details>

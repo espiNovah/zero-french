@@ -7,8 +7,8 @@ However, journalistic French presents distinct stylistic hurdles for intermediat
 2. **The Inverted Pyramid Structure (*La pyramide inversée*)**: Articles condense the essential facts—Who, What, Where, When, Why (*les 5 W*)—into the first two sentences, relegating background context and secondary quotes to later paragraphs.
 3. **Editorial Modality (*La modalisation journalistique*)**: Discerning the writer's stance requires detecting nuanced reporting verbs (*affirmer, prétendre, déplorer, faire valoir*) and conditional rumor markers (*« Le premier ministre annoncerait... »*).
 
-On the **TCF Canada examination**, journalistic reading forms the core of **Reading Comprehension (*Compréhension écrite*) Items 13 to 24 (CEFR Level B1)**:
-- Candidates are given 300 to 500-word articles from magazines, newspapers, and institutional reports and must extract main ideas, identify the author's implicit perspective, and eliminate deceptive distractor choices within strict time limits (**approximately 90 seconds per question**).
+On the **TCF Canada examination**, press-style texts are common in **Reading Comprehension (*Compréhension écrite*)**, where items get progressively harder (there is no official map of which item number tests which level):
+- Candidates read articles, notices, and institutional texts and must extract main ideas, identify the author's implicit perspective, and eliminate deceptive distractor choices under time pressure (60 minutes for 39 questions, so **about 90 seconds per question on average**).
 - In **Writing Task 3 (*Expression écrite — Tâche 3*)**, the exam presents candidates with two contrasting journalistic excerpts that must be summarized and synthesized objectively before presenting an original viewpoint.
 
 ### Lesson overview
@@ -19,7 +19,7 @@ This section contains a general overview of topics that you will learn in this l
 - Decoding compressed headlines through **journalistic nominalization** and past participle reduction.
 - The inverted pyramid technique and the 5 W framework (*Qui, Quoi, Où, Quand, Pourquoi / Comment*).
 - Differentiating between neutral factual reporting, commentary, and editorial bias (*les verbes de déclaration et modalisateurs*).
-- Strategic time management and distractor elimination for TCF Canada Reading items 13 to 24.
+- Strategic time management and distractor elimination for B1-level TCF Canada Reading items.
 - Real-world article analysis from Canadian and international Francophone media.
 
 ### Anatomy and layout of francophone journalistic articles
@@ -43,7 +43,7 @@ Navigating a French newspaper—whether in print or online—requires understand
 
 **The 10-Second Skimming Protocol**  
 When approaching a TCF Canada B1 reading text, never begin by reading the body paragraphs word-for-word!  
-Read the **Titre** and the **Chapô** first. In 90% of journalistic articles, the title gives you the topic and the *chapô* delivers the author's primary conclusion.
+Read the **Titre** and the **Chapô** first. In most news articles, the title gives you the topic and the *chapô* delivers the author's primary conclusion.
 
 </div>
 
@@ -61,8 +61,8 @@ $$\text{Phrase verbale ordinaire} \quad \xrightarrow{\text{Nominalisation}} \qua
 | *Les tarifs de transport vont baisser.* | **Baisse des tarifs de transport** | /bɛs de ta.ʁif də tʁɑ̃s.pɔʁ/ | *Drop in public transit fares* |
 | *La loi sur le logement a été adoptée.* | **Adoption de la loi sur le logement** | /a.dɔp.sjɔ̃ də la lwa syʁ lə lɔʒ.mɑ̃/ | *Adoption of housing bill* |
 | *L'école a été fermée après la tempête.* | **Fermeture de l'école après la tempête** | /fɛʁ.mə.tyʁ də l‿e.kɔl a.pʁɛ la tɑ̃.pɛt/ | *School closure after storm* |
-| *Le gouvernement a refusé la proposition.* | **Refus gouvernemental de la proposition** | /ʁə.fy ɡu.vɛʁ.nə.mɑ̃.tal də la pʁɔ.po.zi.sjɔ̃/ | *Governmental refusal of proposal* |
-| *Le premier ministre a disparu de la scène.* | **Disparition du premier ministre** | /dis.pa.ʁi.sjɔ̃ dy pʁə.mje mi.nistʁ/ | *Disappearance of prime minister* |
+| *Le gouvernement a refusé la proposition.* | **Refus du gouvernement** | /ʁə.fy dy ɡu.vɛʁ.nə.mɑ̃/ | *Government says no (to the proposal)* |
+| *Le premier ministre se retire de la vie politique.* | **Retrait du premier ministre** | /ʁə.tʁɛ dy pʁə.mje mi.nistʁ/ | *Prime minister steps down* |
 
 #### 2. Essential noun suffixes for decoding headlines
 
@@ -86,8 +86,8 @@ Professional journalism follows the structural standard of **la pyramide invers�
 
 ```text
 +-------------------------------------------------------+
-|  THE LEAD (LE CHAPÔ) : Core Facts (Les 5 W)          |  <-- 80% of TCF Exam questions
-|  - Qui ? (Who is involved?)                           |      are answered right here!
+|  THE LEAD (LE CHAPÔ) : Core Facts (Les 5 W)          |  <-- Main-idea questions are
+|  - Qui ? (Who is involved?)                           |      often answered right here!
 |  - Quoi ? (What happened?)                            |
 |  - Où ? (Where did it occur?)                         |
 |  - Quand ? (When did it take place?)                  |
@@ -104,13 +104,13 @@ Professional journalism follows the structural standard of **la pyramide invers�
 
 #### Example analysis of a Canadian press dispatch
 
-Consider this authentic dispatch layout from *Radio-Canada Info*:
+Consider this fictional practice dispatch, laid out like a *Radio-Canada Info* article:
 
 > **TITRE** : *Transports : Ottawa investit 750 millions dans le réseau ferroviaire de passagers*  
 > **CHAPÔ** : *Le gouvernement fédéral a annoncé mardi une enveloppe de 750 millions de dollars afin de moderniser le corridor ferroviaire reliant Québec, Montréal et Toronto. Ce financement vise à renouveler les rames et à réduire les temps de parcours d'ici 2028.*  
 > **CORPS** : *Lors d'une conférence de presse tenue à la gare centrale de Montréal, le ministre des Transports a précisé que ces nouveaux trains seront plus écologiques et plus fiables en hiver...*
 
-If a TCF Canada question asks: *« Quel est l'objectif principal de ce financement ? »*, the answer is already stated verbatim in the *chapô*: *renouveler les rames et réduire les temps de parcours d'ici 2028*. There is zero need to read the subsequent paragraphs.
+If a TCF Canada question asks: *« Quel est l'objectif principal de ce financement ? »*, the answer is already stated verbatim in the *chapô*: *renouveler les rames et réduire les temps de parcours d'ici 2028*. For this question, there is no need to read the subsequent paragraphs.
 
 ### Identifying journalistic stance bias and editorial tone
 
@@ -144,11 +144,11 @@ In breaking news dispatches, journalists frequently use the conditional mood to 
 - *« Le sommet **pourrait se tenir** à Genève le mois prochain. »*  
   (*The summit could reportedly take place in Geneva next month.*)
 
-When you see the conditional in a press dispatch, recognize that the event is a **reported rumor or working hypothesis**, not an established fact.
+When you see the conditional in a press dispatch, recognize that the information is **reported but not yet confirmed**, not an established fact.
 
-### TCF Canada Reading section items 13 to 24 strategy
+### TCF Canada Reading strategy for B1 press texts
 
-Questions 13 to 24 test your intermediate reading stamina. Apply this battle-tested 4-step sequence:
+B1-level press items test your intermediate reading stamina. Apply this battle-tested 4-step sequence:
 
 ```text
 Step 1: Read the Question Stem FIRST (10 seconds)
@@ -159,7 +159,7 @@ Step 2: Read Title, Subtitle, and Chapô (15 seconds)
 
 Step 3: Scan for Keyword Synonyms (30 seconds)
 - Go directly to the body paragraph that deals with the question's theme.
-- Beware of surface matching! Correct answers almost always paraphrase ideas using synonyms rather than repeating the exact words from the text.
+- Beware of surface matching! Correct answers often paraphrase ideas using synonyms rather than repeating the exact words from the text.
 
 Step 4: Systematic Elimination of Distractors (25 seconds)
 - Eliminate absolute claims (tous, toujours, jamais).
@@ -217,7 +217,7 @@ Step 4: Systematic Elimination of Distractors (25 seconds)
 3. **Step 3: Simulated TCF Canada Reading Item (Level B1)**  
    Read the press excerpt below and answer the multiple-choice question:
 
-   > *LE DEVOIR — Société & Environnement*  
+   > *LE DEVOIR — Société & Environnement* (fictional practice text)  
    > *Protection des berges : Québec débloque des fonds d'urgence*  
    > *Face à l'érosion côtière accélérée par les tempêtes automnales, le ministre de l'Environnement a annoncé le déblocage d'une aide financière de 45 millions de dollars destinée aux municipalités du Bas-Saint-Laurent et de la Gaspésie. Ce programme permettra d'ériger des digues rocheuses et de stabiliser les terrains riverains fragilisés.*  
    > *Si les élus locaux saluent cette intervention rapide, plusieurs experts maritimes déplorent une solution temporaire qui ne s'attaque pas aux causes profondes des changements climatiques. Selon eux, il conviendrait plutôt d'envisager une relocalisation progressive des infrastructures riveraines les plus exposées.*  
@@ -261,7 +261,7 @@ The following questions are an opportunity to reflect on key topics in this less
 - [What is the inverted pyramid technique and why should you read the chapo before the body copy?](#the-five-ws-and-inverted-pyramid-reading-technique)
 - [What subtle attitude does a journalist communicate when using the reporting verb pretendre que?](#identifying-journalistic-stance-bias-and-editorial-tone)
 - [What is the journalistic conditional and what does it indicate about the certainty of reported facts?](#identifying-journalistic-stance-bias-and-editorial-tone)
-- [What is the target pacing per question for items 13 to 24 in the TCF Canada reading module?](#tcf-canada-reading-section-items-13-to-24-strategy)
+- [What is a sensible target pacing per question for B1 press texts in the TCF Canada reading module?](#tcf-canada-reading-strategy-for-b1-press-texts)
 
 ### Additional resources
 

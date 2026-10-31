@@ -4,8 +4,8 @@ Moving into CEFR Level B1 marks the shift from everyday transactional communicat
 
 Whether you are participating in a Canadian workplace strategy session, engaging in a community forum on urban transit, or analyzing social issues in the Francophone press, your credibility depends on using **nuanced opinion markers** (*les marqueurs d'opinion et de nuance*). Rather than repeating *« Je pense que »* in every sentence, an independent French speaker fluidly weaves varied subjective perspectives (*« À mon sens », « Selon moi », « Pour ma part »*), impersonal affirmations (*« Il me paraît évident que », « Force est de constater que »*), and diplomatic degrees of conviction (*« Je suis convaincu que », « Il est probable que »*).
 
-On the **TCF Canada examination**, mastering opinion markers is the single most decisive factor for scoring at **Level B1 and B2 (NCLC 6–8+)**:
-- In **Speaking (*Expression orale*) Task 3 (unscripted opinion monologue, 4.5 minutes)**, the examiner evaluates your ability to take a stand on a societal question (e.g., *« Faut-il limiter la place de l'automobile dans les grandes villes ? »*), structure an argument with varied viewpoints, and anticipate opposing perspectives.
+On the **TCF Canada examination**, mastering opinion markers is a key factor for scoring at **Level B1 and B2**:
+- In **Speaking (*Expression orale*) Task 3 (expressing a point of view, 4.5 minutes, no preparation; the examiner may intervene)**, the examiner evaluates your ability to take a stand on a societal question (e.g., *« Faut-il limiter la place de l'automobile dans les grandes villes ? »*), structure an argument with varied viewpoints, and anticipate opposing perspectives.
 - In **Writing (*Expression écrite*) Task 3 (argumentative essay / synthesis, 120–180 words)**, candidates must articulate an objective synthesis of two differing points of view before presenting their personal, reasoned thesis using nuanced modulators.
 
 ### Lesson overview
@@ -67,7 +67,7 @@ In affirmative statements expressing certainty or belief, these verbs take the *
 - *Je pense qu'il **a** raison.* (Indicatif)
 - *Il est certain que ce projet **réussira**.* (Indicatif)
 
-However, when these verbs are placed in the **negative** or **interrogative**, they express doubt and trigger the **subjonctif**:
+However, when these verbs are placed in the **negative**, they express doubt and trigger the **subjonctif**; in **questions with inversion**, the subjunctive is usual in formal style but the indicative is also accepted (*Pensez-vous que ce projet réussira ?*):
 - *Je ne pense pas qu'il **ait** raison.* (Subjonctif)
 - *Pensez-vous que ce projet **réussisse** ?* (Subjonctif)
 
@@ -114,7 +114,7 @@ Il ne fait aucun doute           Vraisemblablement               J'ai des réser
 
 ### Expressing agreement disagreement and partial consensus
 
-Debates on the TCF Canada exam are rarely black-and-white. The highest scores are awarded to candidates who acknowledge the validity of opposing arguments before refuting them (the art of concession).
+Debates on the TCF Canada exam are rarely black-and-white. Strong candidates acknowledge the validity of opposing arguments before refuting them (the art of concession).
 
 #### 1. Total agreement (L'adhésion totale)
 
@@ -168,7 +168,7 @@ Concluding with Synthesis:
 
 ### TCF Canada Speaking Task 3 and Writing Task 3 strategy
 
-In **Expression orale Tâche 3**, you must speak without notes for **4 minutes and 30 seconds** on an abstract or societal dilemma. Follow this 3-tier delivery structure:
+In **Expression orale Tâche 3**, you must speak without preparation for **4 minutes and 30 seconds** on an abstract or societal question (the examiner may intervene to ask you to develop a point). Follow this 3-tier delivery structure:
 
 ```text
 1. Introduction & Contextualization (approx. 45 seconds)
@@ -239,7 +239,7 @@ In **Expression orale Tâche 3**, you must speak without notes for **4 minutes a
    - *J'ai des réserves quant à la viabilité financière de cette proposition.* -> ________________
    - *Il est fort probable que le taux d'inflation diminuera l'an prochain.* -> ________________
    - *Je suis persuadé que nous avons pris la bonne décision.* -> ________________
-   - *Rien n'est moins sûr quant à l'efficacité de cette politique.* -> ________________
+   - *L'efficacité de cette politique ? Rien n'est moins sûr.* -> ________________
 
    <details>
    <summary>Afficher les réponses / Show answer key</summary>

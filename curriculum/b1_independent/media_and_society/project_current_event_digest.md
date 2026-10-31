@@ -4,7 +4,7 @@ In this capstone project for the *Media & Society* section, you will synthesize 
 
 Standardized examinations—particularly the **TCF Canada** and **TEF Canada**—test your capacity to digest complex informational media and relay it accurately:
 1. In **TCF Writing Task 3 (*Expression écrite — Tâche 3*)**, you must read two contrasting source documents on a societal question and compose an objective, structured comparison and synthesis within strict word limits.
-2. In **TCF Speaking Task 3 (*Expression orale — Tâche 3*)**, you must present an issue based on external facts, synthesize multiple viewpoints, and articulate an organized position without scripted reading.
+2. In **TCF Speaking Task 3 (*Expression orale — Tâche 3*)**, you must express and justify your point of view on a societal question for 4 min 30, without preparation; the examiner may intervene to ask you to clarify or develop an idea.
 3. In professional Canadian workplaces, briefing colleagues or managers on regulatory updates, news developments, or press releases requires concise written digests and confident, articulated oral presentations.
 
 This project challenges you to produce two complementary artifacts under authentic examination conditions:
@@ -56,11 +56,11 @@ Examine the two journalistic excerpts below before drafting your digest:
    - **Paragraph 3: Objective Conclusion / Open Question (approx. 25–35 words)**  
      Summarize the core challenge facing policymakers without taking a personal partisan stance.
 
-2. **Step 2: FEI Word Count Audit**  
-   Count your words according to official France Éducation International (FEI) standards:
-   - Elided words (*d'un, l'expansion, qu'elle, s'opposent*) count as **two words** each.
+2. **Step 2: Word Count Audit**  
+   Count your words with the FEI/DELF convention: a word is **any string between two spaces**:
+   - Elided forms (*d'un, l'expansion, qu'elle, s'opposent*) count as **one word** each.
    - Hyphenated words (*porte-paroles, tram-train, après-midi*) count as **one word**.
-   - Numbers in figures (*20 %*) count as **one word**.
+   - A number written in figures (*20*) counts as **one word**.
    - Verify that your text is strictly between **120 and 140 words**.
 
 3. **Step 3: Oral News Dispatch Recording (3 minutes unscripted)**  
@@ -74,12 +74,12 @@ Examine the two journalistic excerpts below before drafting your digest:
 #### Evidence
 
 Save and archive the following artifacts in your learning repository:
-- **Written Synthesis Draft**: `project_media_digest_written.txt` (including your official FEI word count calculation).
+- **Written Synthesis Draft**: `project_media_digest_written.txt` (including your word count calculation).
 - **Audio Recording Link & Metadata**: Save your Vocaroo URL, exact duration (e.g., 2 min 54 s), and brief self-critique in `project_media_digest_audio.txt`.
 
-#### Scoring Rubric
+#### Scoring Rubric (Unofficial Self-Assessment Rubric)
 
-Evaluate your dual performance across the 4 core FEI criteria (Total: 20 points):
+Evaluate your dual performance across these 4 home-made criteria (Total: 20 points). This is not an FEI grid:
 
 | Evaluation Criterion | 0–1 points (Below A2) | 2–3 points (Emerging B1) | 4–5 points (Mastered B1/B2 Benchmark) |
 | :--- | :--- | :--- | :--- |
@@ -91,14 +91,14 @@ Evaluate your dual performance across the 4 core FEI criteria (Total: 20 points)
 **Score Benchmark**:
 - **0–9 points**: Below B1 (Grammar, timing, and word count require substantial reinforcement).
 - **10–14 points**: Threshold B1 (Functional pass; strengthen syntactic fluidity and radio cadence).
-- **15–20 points**: High B1 / B2 Benchmark (Competitive NCLC 7+ standard for Canadian immigration).
+- **15–20 points**: High B1 / B2 Benchmark (ready for more demanding B2 synthesis practice).
 
 #### AI Self-Assessment Prompt
 
 Submit your written synthesis and an accurate speech-to-text transcript of your oral recording to an AI mentor using this calibrated prompt:
 
 ```text
-You are an expert France Éducation international (FEI) examiner evaluating a candidate's capstone project for CEFR B1 (TCF Canada Writing Task 3 and Speaking Task 3 synthesis).
+You are an experienced TCF Canada examiner-trainer evaluating a candidate's capstone project for CEFR B1 (TCF Canada Writing Task 3 and Speaking Task 3 synthesis).
 
 Source Context: Two conflicting press excerpts regarding the implementation of urban tolls in Montreal (Le Devoir: environmental & transit benefits vs. La Presse: regressive financial burden on suburban commuters).
 
@@ -112,8 +112,8 @@ Part 2: Oral Dispatch Transcript (Target Duration: ~3 minutes):
 [PASTE THE ACCURATE TRANSCRIPT OF YOUR AUDIO DISPATCH HERE]
 """
 
-Evaluate both components according to official FEI CEFR B1 standards:
-1. Written Word Count Verification: Count according to FEI rules (elided words count separately: l'auto = 2, d'urgence = 2; hyphenated words count as 1). Verify whether it falls within 120–140 words.
+Evaluate both components against CEFR B1 descriptors:
+1. Written Word Count Verification: Count with the FEI convention (a word is any string between two spaces: l'auto = 1, d'urgence = 1; hyphenated words count as 1). Verify whether it falls within 120–140 words.
 2. Grammar and Syntax Evaluation: Audit use of relative pronouns (qui, que, où, dont) and present reported speech verbs (affirmer, souligner, prétendre, rappeler).
 3. Journalistic Tone and Objectivity: Verify that both source viewpoints are represented without personal bias.
 4. Oral Flow and Structure: Assess broadcast opener, sign-off, dialectical contrast markers, and pacing.
@@ -132,7 +132,7 @@ Evaluate both components according to official FEI CEFR B1 standards:
 ### Submitting your work
 
 Before finalizing your capstone portfolio entry, verify that you have fulfilled all core requirements:
-1. **Mathematical Word Count Precision**: Your written synthesis is strictly between 120 and 140 words under official FEI counting rules.
+1. **Mathematical Word Count Precision**: Your written synthesis is strictly between 120 and 140 words (a word is any string between two spaces; *j'ai* = 1 word).
 2. **Grammatical Subordination**: Both relative clauses (*qui, que, où, dont*) and indirect attribution verbs are actively present and correctly formed.
 3. **Audio Duration Compliance**: Your unscripted audio dispatch lasts between 2:45 and 3:15, with clear vocal articulation and professional broadcast phrasing.
 
@@ -142,18 +142,18 @@ Before finalizing your capstone portfolio entry, verify that you have fulfilled 
 
 Study these benchmark submissions to calibrate your written and oral performance against B1 expectations.
 
-#### Benchmark Model 1: Written Press Synthesis (129 words)
+#### Benchmark Model 1: Written Press Synthesis (131 words, title excluded)
 
 > **Titre : Le débat sur le péage urbain divise la métropole**  
 > 
-> **L'instauration éventuelle d'un péage urbain à Montréal suscite une vive controverse entre écologistes et usagers de la route.**  
+> **L'instauration éventuelle d'un péage urbain à Montréal suscite une vive controverse entre écologistes et usagers de la route. Au cœur du débat se trouve une question délicate, celle du partage des coûts entre les usagers.**  
 > 
 > **D'un côté, les partisans de la mobilité durable affirment que cette tarification réduira la congestion automobile tout en finançant les réseaux collectifs dont la ville a impérativement besoin. De l'autre côté, les syndicats et les associations d'automobilistes soulignent que cette mesure frappera injustement les travailleurs des banlieues où les alternatives de transport restent rares. L'opposition municipale prétend d'ailleurs qu'il s'agit d'une taxe régressive pour les ménages modestes.**  
 > 
-> **Alors que les partisans vantent les bénéfices environnementaux du projet, ses détracteurs réclament des incitations positives plutôt que de nouvelles sanctions financières.**
+> **Alors que les partisans vantent les bénéfices environnementaux du projet, ses détracteurs réclament des incitations positives plutôt que de nouvelles sanctions financières, notamment pour les familles à faible revenu.**
 
 **Analytical Commentary**:
-- **Official Word Count**: 129 words (complies strictly with the 120–140 word ceiling).
+- **Word Count**: 131 words, title excluded (within the 120–140 word range; a word is any string between two spaces).
 - **Subordination Features**:
   - Relative pronoun **dont**: *les réseaux collectifs dont la ville a impérativement besoin* (verbal structure *avoir besoin de*).
   - Relative pronoun **où**: *les banlieues où les alternatives de transport restent rares* (spatial complement).
@@ -178,8 +178,8 @@ Study these benchmark submissions to calibrate your written and oral performance
 > *« Les consultations publiques s'ouvriront la semaine prochaine pour entendre les citoyens et les commerçants du centre-ville. Le conseil municipal devra trancher avant la fin de la session d'automne. C'était votre bulletin d'information locale. Restez à l'écoute, nous retrouvons tout de suite la revue de la presse régionale. »*
 
 **Analytical Commentary**:
-- **Pacing**: Steady delivery of ~380 words over 2 minutes and 55 seconds (approx. 130 words/minute—the benchmark radio broadcast tempo).
-- **Phonetic Fluidity**: Natural liaisons (*nos‿ondes, les‿experts, grands‿embouteillages*), clear intonation on topical contrasts.
+- **Pacing**: Steady delivery of ~265 words over 2 minutes and 55 seconds (about 90 words per minute: a calm, deliberate pace that leaves room for clear articulation).
+- **Phonetic Fluidity**: Natural liaisons (*nos‿ondes, les‿experts, les‿associations*), clear intonation on topical contrasts.
 - **Reporting Stance**: Clear balance between *les experts affirment que* vs *les représentants rappellent que*.
 
 ---
@@ -188,7 +188,7 @@ Study these benchmark submissions to calibrate your written and oral performance
 
 Before finalizing your capstone project submission, verify each item:
 
-- [ ] **Word count audited**: Synthesis is between 120 and 140 words, counting elided words separately.
+- [ ] **Word count audited**: Synthesis is between 120 and 140 words, counting each string between two spaces as one word (*j'ai* = 1).
 - [ ] **Grammatical subordination verified**: Includes relative clauses (*qui*, *que*, *où*, *dont*) and indirect speech attribution.
 - [ ] **Journalistic neutrality preserved**: Neither viewpoint is endorsed as personal truth.
 - [ ] **Audio duration confirmed**: Oral dispatch duration sits strictly between 2:45 and 3:15.

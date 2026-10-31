@@ -4,9 +4,9 @@ In the French language, the **subjonctif présent** (present subjunctive) repres
 
 Unlike the indicative mood (*l'indicatif*), which describes objective realities, concrete facts, and certainty (*« Je sais qu'il est là »*), the subjunctive is the **mood of subjectivity, emotion, necessity, will, and doubt**. It expresses how the speaker feels about an action, whether an outcome is required, desired, or questioned (*« Il faut qu'il soit là »*).
 
-On the **TCF Canada examination**, the present subjunctive is one of the most powerful score multipliers for achieving **Level B1 and B2 (NCLC 6–8+)**:
-- In **Speaking (*Expression orale*) Task 2 & Task 3**, examiners listen intently for subjunctive triggers. Using *« Il faut que nous fassions... »*, *« Bien que ce soit difficile... »*, or *« J'aimerais que le gouvernement prenne des mesures »* immediately elevates your grammatical rating under *Correction morphosyntaxique*.
-- In **Writing (*Expression écrite*) Task 2 & Task 3**, presenting formal proposals and social critiques without the subjunctive limits your score to Level A2. Mastering its regular and irregular stems allows you to articulate policy recommendations and personal appeals with authentic French elegance.
+On the **TCF Canada examination**, the present subjunctive is one of the most powerful score multipliers for achieving **Level B1 and B2**:
+- In **Speaking (*Expression orale*) Task 2 & Task 3**, examiners listen intently for subjunctive triggers. Using *« Il faut que nous fassions... »*, *« Bien que ce soit difficile... »*, or *« J'aimerais que le gouvernement prenne des mesures »* shows the grammatical range expected at B1/B2.
+- In **Writing (*Expression écrite*) Task 2 & Task 3**, presenting formal proposals and social critiques without the subjunctive narrows your grammatical range and holds your text back. Mastering its regular and irregular stems allows you to articulate policy recommendations and personal appeals with authentic French elegance.
 
 ### Lesson overview
 
@@ -34,12 +34,12 @@ $$\mathbf{\text{Ils / Elles (présent de l'indicatif)}} \quad \xrightarrow{\text
 
 | Subject Pronoun | Subjunctive Ending | Parler (*parl-*) | Finir (*finiss-*) | Attendre (*attend-*) |
 | :--- | :--- | :--- | :--- | :--- |
-| **que je / qu'j'** | **-e** | **que je parle** (/kə ʒə paʁl/) | **que je finisse** (/kə ʒə fi.nis/) | **que j'attende** (/kə ʒ‿a.tɑ̃d/) |
+| **que je / que j'** | **-e** | **que je parle** (/kə ʒə paʁl/) | **que je finisse** (/kə ʒə fi.nis/) | **que j'attende** (/kə ʒ‿a.tɑ̃d/) |
 | **que tu** | **-es** | **que tu parles** (/kə ty paʁl/) | **que tu finisses** (/kə ty fi.nis/) | **que tu attendes** (/kə ty a.tɑ̃d/) |
 | **qu'il / elle / on** | **-e** | **qu'il parle** (/k‿il paʁl/) | **qu'elle finisse** (/k‿ɛl fi.nis/) | **qu'on attende** (/k‿ɔ̃ n‿a.tɑ̃d/) |
 | **que nous** | **-ions** | **que nous parlions** (/kə nu paʁ.ljɔ̃/) | **que nous finissions** (/kə nu fi.ni.sjɔ̃/) | **que nous attendions** (/kə nu z‿a.tɑ̃.djɔ̃/) |
 | **que vous** | **-iez** | **que vous parliez** (/kə vu paʁ.lje/) | **que vous finissiez** (/kə vu fi.ni.sje/) | **que vous attendiez** (/kə vu z‿a.tɑ̃.dje/) |
-| **qu'ils / elles** | **-ent** | **qu'ils parlent** (/k‿il paʁl/) | **qu'elles finissent** (/k‿ɛl fi.nis/) | **qu'ils attendent** (/k‿i.l‿a.tɑ̃d/) |
+| **qu'ils / elles** | **-ent** | **qu'ils parlent** (/k‿il paʁl/) | **qu'elles finissent** (/k‿ɛl fi.nis/) | **qu'ils attendent** (/kil.z‿a.tɑ̃d/) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -81,7 +81,7 @@ Eight essential verbs in French have completely irregular subjunctive stems that
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 **High-Frequency Exam Forms**  
-Notice that **que je fasse** (from *faire*), **que je sois** (from *être*), **que j'aie** (from *avoir*), and **qu'il puisse** (from *pouvoir*) appear in over 70% of all TCF Canada subjunctive contexts! Commit these four stems to memory immediately.
+Notice that **que je fasse** (from *faire*), **que je sois** (from *être*), **que j'aie** (from *avoir*), and **qu'il puisse** (from *pouvoir*) are among the most frequent subjunctive forms you will need. Commit these four stems to memory immediately.
 
 </div>
 
@@ -125,7 +125,7 @@ $$\mathbf{\text{Sujet 1}} + \mathbf{\text{Verbe de volonté}} + \mathbf{\text{qu
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 **The Two-Subject Rule: Subjunctive vs Infinitive**  
-The subjunctive is ONLY used when there are **two different grammatical subjects** in the sentence:
+With verbs of **will, desire, or emotion** (*vouloir, souhaiter, préférer, être content, avoir peur…*), the subjunctive is used only when the main clause and the *que* clause have **two different grammatical subjects**. (This rule does not apply to conjunctions such as *bien que*: *Bien que je sois fatigué, je travaille* is perfectly correct.)
 - **Same subject**: Use the infinitive (*l'infinitif*)!  
   *Je veux partir.* (I want to leave — single subject *je*).  
   *NOT: Je veux que je parte* (Incorrect!).

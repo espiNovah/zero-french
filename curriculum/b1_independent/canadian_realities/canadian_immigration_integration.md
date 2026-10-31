@@ -2,10 +2,10 @@
 
 Immigration is a cornerstone of Canadian society and demographic development. For candidates preparing for the **TCF Canada** (*Test de connaissance du français pour le Canada*) and the **TEF Canada**, understanding Canadian immigration policies, regional integration, and sociolinguistic realities is not merely academic background—it is central to the exam itself.
 
-Throughout the TCF Canada examination, themes of immigration and social integration recur consistently:
-* In **Reading Comprehension (*Compréhension écrite*)**, you will analyze administrative notices from Immigration, Refugees and Citizenship Canada (**IRCC**) or Quebec's Ministère de l'Immigration, de la Francisation et de l'Intégration (**MIFI**), community settlement brochures, and sociological press analyses.
-* In **Listening Comprehension (*Compréhension orale*)**, you will decode radio reports on skilled worker programs, regional settlement incentives, and newcomer testimonials.
-* In **Speaking Task 3 (*Expression orale — Tâche 3*)** and **Writing Task 3 (*Expression écrite — Tâche 3*)**, you will frequently debate topics such as foreign credential recognition, workplace integration, language requirements, and the balance between metropolitan hubs and regional communities.
+Themes of immigration and social integration are common in TCF Canada practice material, and you are likely to meet them:
+* In **Reading Comprehension (*Compréhension écrite*)**, you may analyze administrative notices from Immigration, Refugees and Citizenship Canada (**IRCC**) or Quebec's Ministère de l'Immigration, de la Francisation et de l'Intégration (**MIFI**), community settlement brochures, and sociological press analyses.
+* In **Listening Comprehension (*Compréhension orale*)**, you may decode radio reports on skilled worker programs, regional settlement incentives, and newcomer testimonials.
+* In **Speaking Task 3 (*Expression orale — Tâche 3*)** and **Writing Task 3 (*Expression écrite — Tâche 3*)**, you may be asked to discuss topics such as foreign credential recognition, workplace integration, language requirements, and the balance between metropolitan hubs and regional communities.
 
 At CEFR B1, you must be capable of discussing these societal realities using authentic administrative and sociological vocabulary, distinguishing between Canadian federal policies and Quebec's distinct framework, and articulating nuanced opinions on integration challenges.
 
@@ -28,7 +28,7 @@ IMMIGRATION CANADIENNE ─────┤    - Programme des candidats des provi
 ```
 
 #### 1. The Federal Framework (IRCC)
-Outside of Quebec, immigration is managed by Immigration, Réfugiés et Citoyenneté Canada (**IRCC**).
+Immigration, Réfugiés et Citoyenneté Canada (**IRCC**) manages admission, permanent residence and citizenship everywhere in Canada, Québec included; the difference is that Québec selects its own economic immigrants (see the CSQ below).
 * **Entrée express** (/ɑ̃.tʁe ɛks.pʁɛs/, *Express Entry*): The federal point-based system (*Système de classement global* / CRS) managing skilled economic immigration through the Federal Skilled Worker Program (*Programme des travailleurs qualifiés*).
 * **Francophone Mobility and Minority Communities**: Canada actively incentivizes Francophone immigration outside Quebec to sustain linguistic duality in provinces such as Ontario, New Brunswick (*le Nouveau-Brunswick*, Canada's only officially bilingual province), and Manitoba.
 * **Programme des candidats des provinces (PCP)**: Provincial Nominee Programs allowing provinces to nominate candidates whose skills match regional labor shortages.
@@ -58,9 +58,9 @@ Mastering standard French terminology for Canadian administrative processes is e
 | **le bassin de candidats** | /lə ba.sɛ̃ də kɑ̃.di.da/ | candidate pool | *Les candidats ayant un score élevé reçoivent une invitation à présenter une demande.* |
 
 #### High-Yield Example Sentences
-* **Pour maximiser ses chances dans le bassin Entrée express, le candidat doit justifier d'un niveau NCLC 7 en français.**
-  /puʁ mak.si.mi.ze se ʃɑ̃s dɑ̃ lə ba.sɛ̃ ɑ̃.tʁe ɛks.pʁɛs, lə kɑ̃.di.da dwa ʒys.ti.fje d‿œ̃ ni.vo ɛn se ɛl se sɛt ɑ̃ fʁɑ̃.sɛ/
-  *To maximize their chances in the Express Entry pool, the candidate must demonstrate an NCLC 7 level in French.*
+* **Pour obtenir les points supplémentaires accordés au français dans Entrée express, le candidat doit justifier d'au moins un niveau NCLC 7 dans les quatre compétences.**
+  /puʁ ɔp.tə.niʁ le pwɛ̃ sy.ple.mɑ̃.tɛʁ a.kɔʁ.de o fʁɑ̃.sɛ dɑ̃ ɑ̃.tʁe ɛks.pʁɛs, lə kɑ̃.di.da dwa ʒys.ti.fje do mwɛ̃ œ̃ ni.vo ɛn se ɛl se sɛt dɑ̃ le katʁ kɔ̃.pe.tɑ̃s/
+  *To obtain the additional points awarded for French in Express Entry, the candidate must demonstrate at least NCLC 7 in all four skills.* (NCLC 7 is the threshold for this bonus, not the maximum: language points keep rising up to CLB 10.)
 * **Le gouvernement québécois verse une allocation financière aux immigrants inscrits aux cours de francisation à temps plein.**
   /lə gu.vɛʁ.nə.mɑ̃ ke.be.kwa vɛʁs yn a.lɔ.ka.sjɔ̃ fi.nɑ̃.sjɛʁ o.z‿i.mi.gʁɑ̃ ɛ̃s.kʁi o kuʁ də fʁɑ̃.si.za.sjɔ̃ a tɑ̃ plɛ̃/
   *The Quebec government pays a financial allowance to immigrants enrolled in full-time French language courses.*
@@ -95,7 +95,7 @@ One of the most intellectually stimulating topics encountered in B1 debate promp
 | **Philosophical Base** | Federal Multiculturalism Policy (1971) & Canadian Charter of Rights and Freedoms. | Quebec Model of Intercultural Integration. |
 | **Core Concept** | All cultures and communities co-exist within a bilingual institutional framework without an official majority culture (*mosaïque culturelle*). | Integration around a common public culture (*culture publique commune*) anchored by the French language as the official public language. |
 | **Linguistic Pillar** | English and French bilingualism across federal institutions. | Primacy of French as the common language of civic, economic, and cultural life (*Loi 101 / Loi 96*). |
-| **Social Metaphor** | The cultural mosaic (*la mosaïque culturelle*). | The tree with deep roots upon which diverse branches are grafted (*le tronc commun*). |
+| **Social Metaphor** | The cultural mosaic (*la mosaïque culturelle*). | No equally established image; the model is usually summed up as integration around French as the common public language (*le français, langue commune*). |
 
 #### Expressing Integration Philosophies at B1
 * **Au niveau fédéral, le multiculturalisme valorise la préservation des identités d'origine au sein de la mosaïque canadienne.**
@@ -119,7 +119,7 @@ Regulated professions (doctors, engineers, nurses, accountants, lawyers) are gov
 
 #### 2. The "Canadian Experience" Dilemma (*L'expérience canadienne*)
 A classic chicken-and-egg paradox: employers demand prior local Canadian work experience before hiring, but immigrants cannot acquire local experience without being hired.
-* Current trend: Provincial legislation (e.g., in Ontario and Quebec) is gradually banning the requirement for Canadian work experience in job postings to foster equitable access.
+* Current trend: some provinces, Ontario for example, have legislated to limit Canadian-experience requirements in hiring; check each province's current rules before citing a specific law.
 
 ---
 
@@ -203,14 +203,14 @@ Draft an argumentative B1 position statement analyzing regionalization policies 
 #### Writing Prompt
 > **TCF Canada — Expression écrite (Simulation Sujet Société)**  
 > **Temps conseillé** : 25 minutes  
-> **Volume attendu** : **120 à 150 mots** (Norme officielle FEI)  
+> **Volume attendu** : **120 à 150 mots** (fourchette de la tâche 2 du TCF Canada)  
 > 
 > **Sujet** :  
 > *Afin de résoudre la pénurie de main-d'œuvre et la crise du logement dans les métropoles, plusieurs analystes suggèrent d'obliger les nouveaux immigrants à vivre au moins trois ans en région éloignée avant d'avoir le droit de s'installer dans une grande ville.*  
 > *Rédigez un court texte argumentatif pour donner votre opinion sur cette proposition. Présentez un avantage possible, soulignez une limite ou un risque majeur, et proposez une solution plus équitable.*
 
 #### Task Specifications
-1. **Respect the word count**: Strictly between **120 and 150 words** using official FEI counting rules (elided words count separately).
+1. **Respect the word count**: Strictly between **120 and 150 words**. Count with the FEI convention: a word is any string between two spaces (*j'ai* = 1 word).
 2. **Integrate mandatory B1 features**:
    * Use at least **two relative pronouns** (*dont*, *où*, *qui*, or *que*).
    * Use at least **one concession connector** (*certes... mais*, *bien que*, *toutefois*, *néanmoins*).
@@ -225,11 +225,11 @@ L'idée d'imposer aux nouveaux arrivants de s'installer en région soulève un d
 
 **Certes**, cette mesure permettrait de combler la pénurie aiguë de main-d'œuvre dans des secteurs vitaux et d'offrir des logements plus abordables que dans les grandes métropoles **où le coût de la vie explose**. 
 
-**Toutefois**, une telle obligation restreindrait la liberté fondamentale de circulation et risquerait de précariser des familles confrontées à un manque criant de transports collectifs. De plus, les municipalités rurales ne disposent pas toujours des services d'accueil et de francisation **dont les immigrants ont impérativement besoin**. 
+**Toutefois**, une telle obligation restreindrait la liberté fondamentale de circulation et risquerait de précariser des familles confrontées à un manque criant de transports collectifs. De plus, les municipalités rurales ne disposent pas toujours des services d'accueil et de francisation **dont les immigrants ont impérativement besoin**. Sans réseau ni accompagnement, beaucoup finiraient par quitter la région dès la fin de leur obligation. 
 
 Au lieu d'imposer des sanctions autoritaires, les gouvernements devraient privilégier des incitatifs fiscaux et des bourses à l'installation afin d'attirer durablement les talents en région.
 
-*(132 mots — Parfaite concision, argumentation nuancée avec concession, 2 pronoms relatifs intégrés avec exactitude).*
+*(132 mots, titre non compris — un mot = toute suite de caractères entre deux espaces ; concision, argumentation nuancée avec concession, 2 pronoms relatifs intégrés avec exactitude).*
 </details>
 
 </div>

@@ -2,9 +2,9 @@
 
 At CEFR Level A2, candidates connect ideas using basic coordinators: *et* (/e/, and), *mais* (/mɛ/, but), and *parce que* (/paʁs kə/, because). While functional for survival transactions, these elementary linkers produce flat, repetitive discourse when evaluating complex societal questions.
 
-At CEFR Level B1, the official evaluation grids of **France Éducation international (FEI)** for the **TCF Canada** and **TEF Canada** explicitly audit **textual cohesion and logical progression** (*la cohérence et la cohésion textuelle*). In both the **Writing (*Expression écrite*)** and **Speaking (*Expression orale*)** sections, examiners score your capacity to guide the reader or listener through an articulated argument using **discourse connectors and logical articulators** (*les connecteurs logiques et articulateurs de discours*).
+At CEFR Level B1, **textual cohesion and logical progression** (*la cohérence et la cohésion textuelle*) are core descriptors of the Common European Framework, and they matter on the **TCF Canada**. In both the **Writing (*Expression écrite*)** and **Speaking (*Expression orale*)** sections, examiners look at your capacity to guide the reader or listener through an articulated argument using **discourse connectors and logical articulators** (*les connecteurs logiques et articulateurs de discours*).
 
-Whether you are composing a formal diplomatic email in Writing Task 2, synthesizing conflicting newspaper columns in Writing Task 3, or sustaining a 4.5-minute dialectical debate in Speaking Task 3, discourse connectors serve as structural signposts. They establish chronology, introduce counterarguments, signal concessions, and derive logical conclusions.
+Whether you are composing a formal diplomatic email in Writing Task 2, synthesizing conflicting newspaper columns in Writing Task 3, or expressing and defending a point of view for 4.5 minutes in Speaking Task 3, discourse connectors serve as structural signposts. They establish chronology, introduce counterarguments, signal concessions, and derive logical conclusions.
 
 This lesson provides an exhaustive, categorized taxonomy of B1 logical articulators, highlights high-frequency exam traps (*en effet* versus *en fait*, *grâce à* versus *à cause de*), and trains you to deploy connectors organically without falling into the trap of "connector overload."
 
@@ -77,15 +77,15 @@ Connecting an effect to its cause requires precision regarding syntactic categor
 #### 1. Connectors Followed by a Noun Phrase (*+ Nom*)
 * **en raison de** (/ɑ̃ ʁɛ.zɔ̃ də/) — *due to / on account of* (objective, neutral):  
   * *La séance est ajournée **en raison de** la tempête de neige.*
-* **grâce à** (/gʁɑ.s‿a/) — *thanks to* (STRICTLY POSITIVE CAUSE):  
+* **grâce à** (/gʁɑ.s‿a/) — *thanks to* (POSITIVE CAUSE):  
   * *L'étudiant a réussi son examen **grâce à** un entraînement quotidien intensif.*
-* **à cause de** (/a koz də/) — *because of / owing to* (STRICTLY NEGATIVE OR ADVERSE CAUSE):  
+* **à cause de** (/a koz də/) — *because of / owing to* (NEUTRAL OR NEGATIVE CAUSE; for a positive cause, *grâce à* is the natural choice):  
   * *L'autobus est en retard **à cause d'**un bris mécanique sur le réseau.*
 
 > [!CAUTION]
 > **Severe Trap: Grâce à vs À cause de!**
-> Never say: *« Le projet a échoué grâce à la crise »* ❌ (Crisis is negative, so you must use *à cause de la crise*).  
-> Never say: *« J'ai réussi mon immigration à cause de mon professeur »* ❌ (Success is positive, so you must use *grâce à mon professeur*).
+> Never say: *« Le projet a échoué grâce à la crise »* ❌ (Crisis is negative, so you must use *à cause de la crise*; *grâce à* with a negative cause only works as deliberate irony).  
+> Avoid: *« J'ai réussi mon immigration à cause de mon professeur »* ⚠️ (Not ungrammatical, since *à cause de* can be neutral, but for a positive cause *grâce à mon professeur* is the natural choice).
 
 #### 2. Connectors Followed by an Indicative Clause (*+ Proposition à l'indicatif*)
 * **puisque** (/pɥisk/) — *since / as* (introduces a cause already known or accepted by the listener):  
@@ -155,7 +155,7 @@ Whenever you use **bien que** or **quoique**, the verb in the subordinate clause
 #### 3. Contrast: En revanche vs Par contre
 * **en revanche** (/ɑ̃ ʁə.vɑ̃ʃ/) — *on the other hand / in contrast* (standard, polished French):  
   * *L'apprentissage en ligne offre une grande flexibilité ; **en revanche**, il peut favoriser l'isolement.*
-* *par contre* (/paʁ kɔ̃tʁ/) — Used commonly in spoken French, but French purists and examiners consider **en revanche** superior in formal writing.
+* **par contre** (/paʁ kɔ̃tʁ/) — Very common in spoken French and, according to the OQLF, fully correct in writing too. Some purists still prefer *en revanche*, so alternating the two simply helps you vary your style.
 
 ---
 
@@ -163,7 +163,7 @@ Whenever you use **bien que** or **quoique**, the verb in the subordinate clause
 
 #### 1. En effet versus En fait
 This is the most notorious false cognate in French discourse:
-* **en effet** (/ɑ̃.n‿e.fɛ/) = *indeed / in fact / because*. It **confirms and explains** a preceding assertion:  
+* **en effet** (/ɑ̃.n‿e.fɛ/) = *indeed / because*. It **confirms and explains** a preceding assertion:  
   * *« La demande est très forte. En effet, plus de mille candidats ont postulé. »*  
     (It confirms the strong demand with proof).
 * **en fait** (/ɑ̃ fɛt/) = *actually / as a matter of fact*. It **corrects, rectifies, or contradicts** an initial assumption:  
@@ -180,7 +180,7 @@ Used to clarify or restate a dense concept in simpler terms:
 
 ### TCF Canada Application: Strategic Connector Deployment
 
-In TCF Canada evaluation rubrics, points are awarded for **subtlety and appropriateness**, not for sheer quantity. A paragraph bloated with seven connectors in three sentences sounds mechanical and unnatural (*le piège du placage de connecteurs*).
+Examiners value connectors used with **subtlety and appropriateness**, not in sheer quantity. A paragraph bloated with seven connectors in three sentences sounds mechanical and unnatural (*le piège du placage de connecteurs*).
 
 #### Strategic Placement Model: The 4-Pillar Paragraph
 For an optimal 40–50 word argumentative paragraph in Writing Task 2 or Task 3:
@@ -244,14 +244,14 @@ Draft an argumentative B1 essay synthesizing conflicting perspectives on remote 
 #### Writing Prompt
 > **TCF Canada — Expression écrite Tâche 3 (Sujet Société)**  
 > **Temps conseillé** : 25 minutes  
-> **Volume attendu** : **120 à 150 mots** (Norme officielle FEI)  
+> **Volume attendu** : **120 à 180 mots** (fourchette de la tâche 3)  
 > 
 > **Sujet** :  
 > *Le télétravail doit-il être rendu obligatoire pour toutes les entreprises lorsque les fonctions le permettent ?*  
 > *Rédigez un court texte argumentatif équilibré. Présentez les arguments des partisans du télétravail obligatoire, exposez les réserves des employeurs, et proposez une solution de compromis.*
 
 #### Task Specifications
-1. **Word count constraint**: Strictly between **120 and 150 words** under official FEI counting rules.
+1. **Word count constraint**: Strictly between **120 and 180 words**. Count with the FEI convention: a word is any string between two spaces (*j'ai* = 1 word).
 2. **Mandatory connector checklist**:
    * At least **one sequencing connector** (*en premier lieu, d'une part...*).
    * At least **one addition connector** (*de plus, en outre, par ailleurs*).
@@ -268,11 +268,11 @@ La question du télétravail obligatoire suscite des débats passionnés au sein
 
 **D'un côté**, les salariés plébiscitent cette organisation. **En effet**, la suppression des trajets quotidiens réduit la fatigue et permet d'améliorer la conciliation entre vie professionnelle et vie personnelle. **De plus**, cette formule contribue à désengorger les réseaux routiers urbains. 
 
-**D'un autre côté**, les chefs d'entreprise expriment de vives inquiétudes. **Toutefois**, leurs réserves portent moins sur la productivité que sur la dégradation de la cohésion d'équipe et l'isolement des nouveaux employés. **En raison de** ces difficultés managériales, une obligation stricte et universelle semble inopportune. 
+**D'un autre côté**, les chefs d'entreprise expriment de vives inquiétudes. Leurs réserves portent moins sur la productivité que sur la dégradation de la cohésion d'équipe et l'isolement des nouveaux employés. **Bien que** ces difficultés managériales ne soient pas insurmontables, une obligation stricte et universelle semble inopportune. 
 
-**Par conséquent**, la meilleure approche consiste à privilégier une formule hybride négociée, garantissant deux à trois jours de travail à distance par semaine.
+**Par conséquent**, la meilleure approche consiste à privilégier une formule hybride négociée, garantissant deux à trois jours de travail à distance par semaine. Une telle solution préserverait à la fois le bien-être des salariés et la vitalité des équipes.
 
-*(132 mots — Parfaite architecture logique, 6 connecteurs catégorisés intégrés avec exactitude, équilibre dialectique rigoureux).*
+*(138 mots, titre non compris — architecture logique claire, 6 connecteurs (séquence, cause, addition, concession, conséquence) intégrés avec exactitude, équilibre dialectique rigoureux).*
 </details>
 
 </div>
@@ -289,7 +289,7 @@ Verify your command of discourse connectors before moving to exam tactics:
    [Review reformulation and common pitfalls](#reformulation-confirmation-and-common-pitfalls)
 3. Which grammatical mood is mandatory immediately following the concession conjunction *bien que*?  
    [Review subordinating conjunctions with bien que](#concession-opposition-and-counterarguments)
-4. Why is *en revanche* generally preferred over *par contre* in formal written examinations?  
+4. Is *par contre* acceptable in formal writing, and which alternative can you use to vary your style?  
    [Review contrast markers](#concession-opposition-and-counterarguments)
 5. Name two connectors that introduce logical consequence and deduce a conclusion.  
    [Review consequence and logical deduction](#consequence-and-logical-deduction)
@@ -303,4 +303,4 @@ This section contains helpful links to related content. It isn't required, so co
 * [Podcast Français Facile — Les connecteurs logiques en français](https://www.podcastfrancaisfacile.com/grammaire/connecteurs-logiques.html) — Reference table with audio examples and interactive classification exercises.
 * [OQLF — Vitrine linguistique : Les charnières et connecteurs](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Official syntactic guide on logical progression, cause-and-effect linkers, and formal punctuation.
 * [La Presse — Chroniques et débats d'idées](https://www.lapresse.ca/) — High-quality contemporary opinion columns demonstrating authentic connector pacing in journalistic debate.
-* [France Éducation international — Grille d'évaluation du TCF](https://www.france-education-international.fr/test-de-connaissance-du-francais) — Official rubric detailing textual cohesion criteria for B1 and B2 evaluations.
+* [France Éducation international — Grille d'évaluation du TCF](https://www.france-education-international.fr/test-de-connaissance-du-francais) — Official TCF information page (exam format, scoring scale and candidate rules).

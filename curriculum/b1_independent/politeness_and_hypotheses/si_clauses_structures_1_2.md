@@ -4,8 +4,8 @@ A hallmark of mature human cognition is the ability to project beyond immediate 
 
 At CEFR Level B1, mastering hypothetical structures is not merely an academic exercise; it is the cornerstone of reasoned decision-making, professional negotiation, and persuasive argument. Whether you are analyzing economic alternatives during a business meeting (*« Si nous réduisons nos coûts, nous pourrons embaucher »*) or contemplating life milestones in Canada (*« Si j'obtenais ma résidence permanente, je m'installerais à Québec »*), hypothetical clauses allow you to articulate complex logic with elegance and precision.
 
-On the **TCF Canada examination**, *si-clauses* are among the highest-yield grammatical structures for scoring at **Level B1 and B2 (NCLC 6–8)**:
-- In **Speaking (*Expression orale*) Task 3 (unscripted opinion debate, 4.5 minutes)**, formulating balanced arguments requires exploring cause-and-effect projections: *« Si les gouvernements amélioraient le réseau ferroviaire, les citoyens utiliseraient moins leur véhicule personnel »*.
+On the **TCF Canada examination**, *si-clauses* are among the highest-yield grammatical structures for scoring at **Level B1 and B2**:
+- In **Speaking (*Expression orale*) Task 3 (expressing a point of view, 4.5 minutes, no preparation)**, formulating balanced arguments requires exploring cause-and-effect projections: *« Si les gouvernements amélioraient le réseau ferroviaire, les citoyens utiliseraient moins leur véhicule personnel »*.
 - In **Writing (*Expression écrite*) Task 2 & Task 3**, examiners evaluate your capacity to present hypothetical proposals and counter-arguments using varied syntactic subordinate clauses.
 - In **Listening and Reading Comprehension**, understanding whether an event is a genuine factual certainty or merely a conditional hypothesis prevents critical comprehension errors.
 
@@ -77,7 +77,7 @@ $$\mathbf{\text{Si}} + \mathbf{\text{Imparfait}} \longrightarrow \mathbf{\text{C
 | **Si j'avais plus de temps libre,** | **j'apprendrais une autre langue.** | /si ʒ‿a.vɛ ply də tɑ̃ libʁ ʒ‿a.pʁɑ̃.dʁɛ yn otʁ lɑ̃ɡ/ | *If I had more free time, I would learn another language.* |
 | **Si nous habitions à Montréal,** | **nous prendrions le métro.** | /si nu z‿a.bi.tjɔ̃ a mɔ̃.ʁe.al nu pʁɑ̃.dʁi.jɔ̃ lə me.tʁo/ | *If we lived in Montreal, we would take the metro.* |
 | **Si tu faisais plus de sport,** | **tu te sentirais beaucoup mieux.** | /si ty fə.zɛ ply də spɔʁ ty tə sɑ̃.ti.ʁɛ bo.ku mjø/ | *If you did more sports, you would feel much better.* |
-| **Si le loyer était moins cher,** | **ils loueraient cet appartement.** | /si lə lwa.jɛ e.tɛ mwɛ̃ ʃɛʁ il lwe.ʁɛ sɛt a.paʁ.tə.mɑ̃/ | *If the rent were cheaper, they would rent this apartment.* |
+| **Si le loyer était moins cher,** | **ils loueraient cet appartement.** | /si lə lwa.je e.tɛ mwɛ̃ ʃɛʁ il lwe.ʁɛ sɛt a.paʁ.tə.mɑ̃/ | *If the rent were cheaper, they would rent this apartment.* |
 
 #### 2. Interpreting the reality of Structure 2
 
@@ -194,7 +194,7 @@ Hypothetical constructions serve as an essential score lever on the TCF Canada e
    <details>
    <summary>Afficher des exemples types / Show sample completions</summary>
 
-   - *« ... je soumettrai immédiatement ma demande de résidence permanente auprès d'Immigration Canada. »*
+   - *« ... je soumettrai immédiatement ma demande de résidence permanente auprès d'IRCC (Immigration, Réfugiés et Citoyenneté Canada). »*
    - *« ... je choisirais sans doute la ville de Québec pour sa richesse patrimoniale et son dynamisme culturel. »*
    - *« ... auraient beaucoup moins de difficultés à trouver un logement décent à un coût raisonnable. »*
 

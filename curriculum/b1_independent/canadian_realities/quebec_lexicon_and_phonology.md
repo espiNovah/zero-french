@@ -1,8 +1,8 @@
 ### Introduction
 
-For candidates preparing for the **TCF Canada** (*Test de connaissance du français pour le Canada*), familiarity with Canadian French—particularly **le français québécois**—is both a strategic advantage and an official requirement.
+For candidates preparing for the **TCF Canada** (*Test de connaissance du français pour le Canada*), familiarity with Canadian French—particularly **le français québécois**—is a real strategic advantage.
 
-While the TCF Canada is a standardized international examination created by France Éducation International (FEI) using standard French grammar, the **Listening Comprehension (*Compréhension orale*)** section regularly features recordings from native Canadian speakers. You will hear radio excerpts from **Radio-Canada**, recorded public transit announcements from Montreal's STM (*Société de transport de Montréal*), workplace dialogues recorded in Quebec, and everyday conversations with authentic Canadian pronunciation and vocabulary.
+While the TCF Canada is a standardized international examination created by France Éducation International (FEI) using standard French grammar, in the **Listening Comprehension (*Compréhension orale*)** section you may hear varied francophone accents. Practising with radio excerpts from **Radio-Canada**, public transit announcements from Montreal's STM (*Société de transport de Montréal*), workplace dialogues recorded in Quebec, and everyday conversations with authentic Canadian pronunciation and vocabulary prepares you for that variety.
 
 Furthermore, once you immigrate to Quebec or a Francophone minority community elsewhere in Canada (such as Ontario or New Brunswick), understanding the local lexicon and phonetic shifts is essential for daily integration.
 
@@ -14,7 +14,7 @@ This lesson explores the core lexical differences between Canadian French and Eu
 
 Canadian French has evolved distinct lexical terms shaped by centuries of North American history, linguistic creativity, and official language planning by the **OQLF** (*Office québécois de la langue française*).
 
-Unlike European French, which frequently adopts English loanwords directly (*le parking, le week-end, le shopping, un e-mail*), Canadian French systematically creates and prioritizes authentic French equivalents.
+Unlike European French, which frequently adopts English loanwords directly (*le parking, le week-end, le shopping, un e-mail*), Québec's official terminology (promoted by the OQLF) generally recommends French equivalents, many of which are now standard in everyday Canadian usage.
 
 #### 1. Daily Life and Consumer Transactions
 
@@ -25,10 +25,10 @@ Unlike European French, which frequently adopts English loanwords directly (*le 
 | **le stationnement** | /lə sta.sjɔn.mɑ̃/ | le parking | parking / parking lot | *Le stationnement souterrain est réservé aux employés.* |
 | **magasiner** | /ma.ga.zi.ne/ | faire les magasins / du shopping | to shop | *Elle est allée magasiner des vêtements d'hiver au centre commercial.* |
 | **un char** (fam.) | /œ̃ ʃaʁ/ | une voiture / une bagnole | a car | *Il a acheté un char d'occasion pour se déplacer en région.* |
-| **le breuvage** | /lə bʁœ.vaʒ/ | la boisson | beverage / drink | *Quel breuvage désirez-vous avec votre repas ?* |
-| **une liqueur** | /yn li.kœʁ/ | un soda / une boisson gazeuse | soft drink / soda | *Les enfants commandent une liqueur à l'orange.* |
-| **la facture** | /la fak.tyʁ/ | l'addition (restaurant) | restaurant bill / check | *Pouvons-nous avoir la facture s'il vous plaît ?* |
-| **le pourboire** | /lə puʁ.bwaʁ/ | le pourboire (obligatoire/standard 15%) | tip / gratuity | *Au Canada, le pourboire de 15 % n'est pas inclus dans la facture.* |
+| **le breuvage** (fam., QC; the OQLF advises *boisson*) | /lə bʁœ.vaʒ/ | la boisson | beverage / drink | *Quel breuvage désirez-vous avec votre repas ?* (standard: *Quelle boisson désirez-vous… ?*) |
+| **une liqueur** (fam., QC; the OQLF advises *boisson gazeuse*) | /yn li.kœʁ/ | un soda / une boisson gazeuse | soft drink / soda | *Les enfants commandent une liqueur à l'orange.* (standard: *une boisson gazeuse à l'orange*) |
+| **la facture** | /la fak.tyʁ/ | l'addition (restaurant; *l'addition* is also normal in Québec) | restaurant bill / check | *Pouvons-nous avoir la facture s'il vous plaît ?* |
+| **le pourboire** (same word everywhere) | /lə puʁ.bwaʁ/ | le pourboire (in France, *service compris*: the tip is optional) | tip / gratuity | *Au Canada, le pourboire n'est pas inclus dans la facture.* |
 
 #### 2. Meals of the Day: The Historical French System
 In Quebec and parts of Belgium and Switzerland, the naming of meals preserves the historical 17th-century French system, differing from modern Parisian usage:
@@ -41,7 +41,7 @@ In Quebec and parts of Belgium and Switzerland, the naming of meals preserves th
 
 > [!TIP]
 > **Exam Trap in TCF Listening!**
-> If a dialogue mentions *« On se retrouve pour le dîner à midi »*, a candidate expecting European French might think of dinner at night. In Canadian French, **le dîner** is strictly lunch at noon!
+> If a dialogue mentions *« On se retrouve pour le dîner à midi »*, a candidate expecting European French might think of dinner at night. In Canadian French, **le dîner** is lunch at noon!
 
 #### 3. Relationships and Social Life
 * **un chum** (/œ̃ tʃɔm/) — *boyfriend* or *male friend* (colloquial):  
@@ -50,7 +50,7 @@ In Quebec and parts of Belgium and Switzerland, the naming of meals preserves th
   * *Sa blonde travaille comme infirmière à l'hôpital général.*
 * **un dépanneur** (/œ̃ de.pa.nœʁ/) — *corner convenience store* (equivalent to European *supérette / épicerie de quartier*):  
   * *Je vais au dépanneur acheter du lait et du pain.*
-* **c'est le fun** (/s‿ɛ lə fœn/) — *it's fun / enjoyable* (informal):  
+* **c'est le fun** (/s‿ɛ lə fɔn/) — *it's fun / enjoyable* (informal):  
   * *Cette activité d'intégration était vraiment le fun !*
 
 ---
@@ -124,7 +124,7 @@ In conversational Canadian French, several phonological contractions occur routi
   * *Y va venir demain* instead of *Il va venir demain.*
 * **elle** contracts to *a* or *al*:  
   * *A dit qu'a part à midi* instead of *Elle dit qu'elle part à midi.*
-* **tu** drops elision informally:  
+* **tu** elides to **t'** before a vowel informally:  
   * *T'es où ?* (/t‿ɛ u/) — *Where are you?*
 * **je suis** contracts to **chuis** or **chu**:  
   * *Chu fatigué ce soir* (/ʃy fa.tsi.ge sə swaʁ/) — *I'm tired tonight.*
@@ -145,29 +145,29 @@ In informal Quebec French, the particle **-tu** is placed after a conjugated ver
 
 No overview of Quebec French is complete without addressing **les sacres**.
 
-Unlike European French profanities, which derive primarily from sexual or bodily functions, Quebec profanities originate exclusively from Catholic ecclesiastical terminology:
+Unlike European French profanities, which derive primarily from sexual or bodily functions, Quebec profanities characteristically come from Catholic ecclesiastical terminology:
 * *câlice* (chalice)
 * *tabarnak* (tabernacle)
 * *sacrament* (sacrament)
 * *crisse* (Christ)
 * *ostie* (host / Eucharistic bread)
 
-During the Quiet Revolution (*la Révolution tranquille*) of the 1960s, these religious words evolved into potent emotional expletives expressing shock, anger, or extreme emphasis:
+Attested as swear words since the 19th century, these religious words became potent emotional expletives expressing shock, anger, or extreme emphasis:
 * *C'est plate en tabarnak* (extremely vulgar: *it's terribly boring*).
 
 #### Why You Must Know Them
 * **Sociological awareness**: You will hear them in movies, songs, hockey arenas, and casual conversations in Quebec.
-* **Strict boundary**: They are completely forbidden in professional environments, academic contexts, and standardized exams like the TCF. Using a *sacre* in a formal immigration interview or TCF exam will severely degrade your score.
+* **Strict boundary**: They are completely forbidden in professional environments, academic contexts, and standardized exams like the TCF. A *sacre* in a formal immigration interview or a TCF task would be a serious register error that works against you.
 
 ---
 
 ### TCF Canada Strategy: Decoding Canadian French Audio
 
-In the **Listening Comprehension** section of the TCF Canada, items 15 through 30 regularly feature Canadian accents. Here are three high-yield tactics to decode them with confidence:
+In the **Listening Comprehension** section of the TCF Canada, you may hear varied francophone accents, including Canadian ones. Here are three high-yield tactics to decode them with confidence:
 
 ```
                             ┌─── Anticipate Affrication: Mentally map [ts] -> t, [dz] -> d
-                            │    ("tsout de suite" = tout de suite; "dzimanche" = dimanche)
+                            │    ("tsu" = tu; "dzimanche" = dimanche)
                             │
 TCF CANADIAN AUDIO TACTICS ─┼─── Re-anchor Familiar Lexicon: Mentally translate Canadian terms
                             │    ("dîner" = 12h lunch; "fin de semaine" = weekend; "courriel" = email)
@@ -178,10 +178,12 @@ TCF CANADIAN AUDIO TACTICS ─┼─── Re-anchor Familiar Lexicon: Mentally 
 
 #### Tactic 1: Real-Time Affrication Decoding
 When you hear [ts] or [dz], immediately strip the affricate release in your mind:
-* Audio: *« On va tsou d'suite au bzyro... »*
-* Meaning: **On va tout de suite au bureau...**
-* Audio: *« L'équipe a dzécidé de partir... »*
-* Meaning: **L'équipe a décidé de partir...**
+* Audio: *« Tsu vas partsir au bureau dzimanche ? »*
+* Meaning: **Tu vas partir au bureau dimanche ?**
+* Audio: *« L'équipe a dzit qu'elle voulait partsir... »*
+* Meaning: **L'équipe a dit qu'elle voulait partir...**
+
+*Note: there is no affrication in* tout */tu/*, bureau */by.ʁo/* *or* décidé */de.si.de/*: *affrication only happens when /t/ or /d/ comes directly before /i y j ɥ/.*
 
 #### Tactic 2: Re-anchoring Canadian Lexical Triggers
 Keep this mental conversion chart active:
@@ -225,7 +227,7 @@ Replace the Canadian French term in italics with its standard European French eq
 #### Drill 2: Phonological Decoding
 Transcribe the phonetic transcription into standard written French:
 
-1. /[ʒə dwa paʁ.tsiʁ tsut də sɥit]/
+1. /[ʒə dwa paʁ.tsiʁ tut də sɥit]/
 2. /[il dziz k‿il va və.niʁ la fɛ̃ də smɛn]/
 3. /[nu.z‿a.vɔ̃ ma.ga.zi.ne dɑ̃ lə sɑ̃tʁ yʁ.bɛ̃]/
 4. /[s‿ɛ t‿œ̃ pə.tsi sta.sjɔn.mɑ̃ gʁa.tsɥi]/
@@ -233,7 +235,7 @@ Transcribe the phonetic transcription into standard written French:
 <details>
 <summary>View Drill 2 Solutions and Explanations</summary>
 
-1. **Je dois partir tout de suite.** (Affrication of /t/ in *partir* -> [paʁ.tsiʁ] and *tout* -> [tsut]).
+1. **Je dois partir tout de suite.** (Affrication of /t/ in *partir* -> [paʁ.tsiʁ]; *tout* keeps a plain [t] because /u/ is a back vowel).
 2. **Ils disent qu'il va venir la fin de semaine.** (Affrication of /d/ in *disent* -> [dziz]).
 3. **Nous avons magasiné dans le centre urbain.**
 4. **C'est un petit stationnement gratuit.** (Affrication of /t/ in *petit* -> [pə.tsi] and *gratuit* -> [gʁa.tsɥi]).
@@ -270,7 +272,7 @@ Read the simulated radio announcement below, which contains authentic Canadian F
 
 ---
 
-**Part 2: Benchmark Commuter Email (88 words)**:
+**Part 2: Benchmark Commuter Email (86 words from the salutation to the closing formula; a word is any string between two spaces, so *j'ai* = 1 word)**:
 
 **Objet : Demande d'information suite à la fermeture du stationnement Crémazie**
 
@@ -278,7 +280,7 @@ Madame, Monsieur,
 
 Je me permets de vous contacter suite à votre annonce concernant la fermeture temporaire du stationnement de la station Crémazie ce week-end. 
 
-Étant abonné mensuel et résidant en périphérie, je souhaiterais savoir si un stationnement incitatif alternatif est mis à la disposition des usagers durant les travaux. De plus, prévoyez-vous une compensation tarifaire pour les usagers impactés par cette interruption ?
+Étant abonné mensuel et résidant en périphérie, je souhaiterais savoir si un stationnement incitatif alternatif est mis à la disposition des usagers durant les travaux. De plus, prévoyez-vous une compensation tarifaire pour les usagers impactés par cette interruption ? Enfin, pourriez-vous m'indiquer la date prévue de réouverture ?
 
 Je vous remercie par avance pour vos précisions et vous adresse mes salutations distinguées.
 

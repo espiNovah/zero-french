@@ -4,8 +4,8 @@ At CEFR Level A2, listening comprehension was largely supported by visual contex
 
 Radio broadcasts feature no facial expressions, lip movements, or visual slides to guide your comprehension. Professional radio journalists speak at a rapid, rhythmic cadence averaging **140 to 160 words per minute**. They compress complex geopolitical, economic, and societal developments into 30-second soundbites, using specialized media vocabulary, rapid breath groups, and sudden shifts between studio anchors and field correspondents speaking over authentic background noise.
 
-On the **TCF Canada examination**, radio bulletins and press podcasts form the backbone of **Listening Comprehension (*Compréhension orale*) Items 13 to 24 (CEFR Level B1)**:
-- In official test conditions, **each audio recording is played exactly ONCE**. You have no replay button, no pause control, and only **12 to 15 seconds** after the track finishes to select your answer before the computer automatically advances.
+On the **TCF Canada examination**, radio-style extracts are a natural fit for **Listening Comprehension (*Compréhension orale*)**, where items get progressively harder (there is no official map of which item number tests which level):
+- In official test conditions, **each audio recording is played exactly ONCE**. You have no replay button: read the question, listen, answer, and move on. Exact on-screen timings are not published here; check the FEI candidate guide and your *convocation*.
 - Success requires training your auditory processing to filter out non-essential filler words, latch onto anchor keywords (*les mots-clés*), identify the overarching communicative intent, and retain numbers, dates, and names in working memory.
 
 ### Lesson overview
@@ -16,7 +16,7 @@ This section contains a general overview of topics that you will learn in this l
 - Acoustic characteristics of broadcast French: intonation curves, breath groups (*groupes de souffle*), syllable pacing, and liaison rules.
 - Strategic listening training with **RFI (*Le Journal en français facile*)** and **Radio-Canada (*Midi info / Les faits d'abord*)**.
 - Note-taking mechanics: developing visual shorthand to track numbers, causes, and speaker viewpoints under single-play conditions.
-- TCF Canada Listening items 13 to 24: recognizing distractor traps, acoustic homophones, and chronological inversions.
+- B1-level TCF Canada Listening items: recognizing distractor traps, acoustic homophones, and chronological inversions.
 - Timed audio transcription and multiple-choice sprint exercises.
 
 ### The architecture of a radio news bulletin
@@ -75,11 +75,11 @@ Training yourself to listen for the rising intonation curves prevents your brain
 
 Unlike English, which is a **stress-timed** language with loud stressed syllables and quiet swallowed syllables, French is **syllable-timed** (*isochrone*). Every syllable receives roughly equal duration and acoustic weight:
 
-$$\text{Le} - \text{gou} - \text{ver} - \text{ne} - \text{ment} \quad (1 - 2 - 3 - 4 - \text{temps égaux})$$
+$$\text{Le} - \text{gou} - \text{ver} - \text{ne} - \text{ment} \quad (1 - 2 - 3 - 4 - 5 \text{ : temps égaux})$$
 
 In professional radio news, announcers maintain formal, elevated speech standards:
-- **Mandatory liaisons are systematically pronounced**:  
-  *« Les‿autorités‿ont annoncé... »* (/le.z‿o.tɔ.ʁi.te.z‿ɔ̃ a.nɔ̃.se/)
+- **Mandatory liaisons are always pronounced, and many optional ones are added**:  
+  *« Les‿autorités‿ont annoncé... »* (/le.z‿o.tɔ.ʁi.te.z‿ɔ̃ a.nɔ̃.se/): *les‿autorités* is mandatory; *autorités‿ont* is optional, typical of careful broadcast speech.
 - **Vowels remain pure**: No diphthongization in standard broadcast French.
 - **Elision of "e caduc" in rapid quotes**: While the studio anchor speaks formally, interviewed citizens or politicians frequently drop unstable *e* sounds (*« J'crois qu'y a pas d'problème »* instead of *« Je crois qu'il n'y a pas de problème »*).
 
@@ -96,14 +96,14 @@ Produced daily by Radio France Internationale, **Le Journal en français facile*
 
 #### 2. Radio-Canada: Midi info & Les faits d'abord
 
-For candidates preparing for the **TCF Canada**, training your ear exclusively on Parisian accents is a fatal tactical error. On the TCF Canada exam, approximately **30 to 40% of the listening tracks feature Canadian French accents, vocabulary, and phrasing**:
+For candidates preparing for the **TCF Canada**, training your ear exclusively on Parisian accents is a tactical error: you may hear varied francophone accents. Radio-Canada familiarizes you with **Canadian French accents, vocabulary, and phrasing**:
 - **Canadian Vowel Shifts**: Broadened /a/, distinct nasal vowel colors (*en* vs *in* vs *on*), and authentic diphthongization.
 - **Canadian Institutional Terms**: *Le Conseil du trésor*, *les provinces et territoires*, *l'assurance-emploi*, *les municipalités*, *les garderies / CPE*, *la Société de transport de Montréal (STM)*.
 - **Recommended Broadcasts**: [Radio-Canada Audio](https://ici.radio-canada.ca/) provides short 3 to 5-minute news summaries (*Le bulletin de nouvelles*) updated every hour.
 
 ### Decoding news summaries and headline soundbites under single-play conditions
 
-In TCF Canada Listening items 13 to 24, you will hear a 30 to 45-second radio extract and must immediately answer a question regarding the core development, the participants, or the future consequence.
+In B1-level TCF Canada Listening items, you hear a short recorded extract once and must answer a question regarding the core development, the participants, or the future consequence.
 
 #### The 3-Column Visual Shorthand Method
 
@@ -115,23 +115,23 @@ Because you only hear the audio track **once**, taking frantic word-for-word not
 | *STM / Ligne orange* | *Panne signalisation / Navettes bus* | *Retard 30 min / Reprise 14 h* |
 | *Min. Santé / Médecins* | *Négociations salaires / Grève évitée* | *Entente 3 ans / 5 000 dr* |
 
-By noting only abbreviations, acronyms, and numbers, your cognitive bandwidth remains 90% focused on active listening rather than handwriting.
+By noting only abbreviations, acronyms, and numbers, your attention stays focused on active listening rather than handwriting.
 
-### TCF Canada listening comprehension items 13 to 24 strategy
+### TCF Canada listening comprehension strategy for B1 items
 
-#### 1. Pacing and countdown management
+#### 1. Pacing routine
 
 ```text
-Time Budget per Question:
-- Before the Audio Starts (10 seconds):
+Routine per Question (exact on-screen timings are not published; check the FEI candidate guide):
+- Before the Audio Starts:
   Read the question stem and the 4 options IMMEDIATELY.
   Highlight the key distractor differences: Are they asking about who is affected, when it happened, or how much it costs?
-- During the Audio (30–45 seconds):
+- During the Audio:
   Focus exclusively on listening. Jot down only 3 or 4 visual shorthand anchors.
   Do not look away from your scratchpad.
-- After the Audio Stops (12–15 seconds):
-  Select your answer within 8 seconds.
-  Use the remaining 5 seconds to mentally reset and read the NEXT question stem.
+- After the Audio Stops:
+  Select your answer without hesitating.
+  Move on, mentally reset, and read the NEXT question stem.
 ```
 
 #### 2. The four classic listening distractor traps
@@ -139,7 +139,7 @@ Time Budget per Question:
 1. **The Acoustic Echo Trap (Le piège du mot entendu)**: An option contains the exact loud word mentioned in the audio (e.g., *« aéroport »*), but the speaker actually said: *« La route menant à l'aéroport est bloquée »*. The correct answer tests the consequence (*« Les automobilistes doivent emprunter une déviation »*).
 2. **The Numerical Transposition Trap**: The audio mentions two different numbers (e.g., *« 50 millions d'aide pour 12 municipalités »*). The options will swap them: *« 12 millions d'aide pour 50 municipalités »*.
 3. **The Chronological Inversion Trap**: The audio says: *« Après avoir consulté les syndicats, le directeur a validé le plan »*. A trap option claims: *« Le directeur a validé le plan avant de consulter les syndicats »*.
-4. **The False Negation**: The speaker uses subtle negation or concession (*« Nous ne sommes pas sans savoir... »*, *« Loin d'être réglé... »*). A distractor interprets this as a positive resolution.
+4. **The False Negation**: The speaker uses subtle negation or concession (*« Ce n'est guère réglé... »*, *« Loin d'être réglé... »*). A distractor interprets this as a positive resolution.
 
 ### Assignment
 
@@ -165,9 +165,9 @@ Time Budget per Question:
    </details>
 
 2. **Step 2: Single-Play Listening Simulation (Transcript Sprint)**  
-   Read the simulated audio transcript below **exactly once without looking back**. Then cover the text with your hand and answer the multiple-choice question within 15 seconds:
+   Read the simulated audio transcript below **exactly once without looking back**. Then cover the text with your hand and answer the multiple-choice questions immediately:
 
-   > **Transcription audio (Jouée une seule fois) :**  
+   > **Transcription audio (Jouée une seule fois ; texte d'entraînement fictif) :**  
    > *« ... Ici Radio-Canada, le point sur la circulation dans la grande région métropolitaine. Un important carambolage impliquant quatre véhicules lourds paralyse actuellement l'autoroute 40 en direction est, à la hauteur de Repentigny. Les services d'urgence sont sur place et deux voies sur trois sont fermées à la circulation. Les automobilistes se dirigeant vers Trois-Rivières sont fortement invités à emprunter l'autoroute 640 ou la route 138 pour éviter un ralentissement estimé à plus de quarante-cinq minutes. Les autorités prévoient un retour à la normale d'ici la fin de l'après-midi... »*  
    > 
    > **Question 1 : Que conseille le bulletin d'information aux usagers de la route ?**  
@@ -221,8 +221,8 @@ The following questions are an opportunity to reflect on key topics in this less
 - [What is a groupe de souffle and how does rising versus falling intonation signal sentence structure?](#acoustic-features-of-broadcast-french-cadences-elisions-and-breath-groups)
 - [Why is training your ear on Canadian Francophone news essential for TCF Canada preparation?](#training-with-rfi-journal-en-francais-facile-and-radio-canada)
 - [How does the 3-column visual shorthand method help track facts under single-play conditions?](#decoding-news-summaries-and-headline-soundbites-under-single-play-conditions)
-- [What are the four classic distractor traps deployed in TCF Canada Listening items 13 to 24?](#tcf-canada-listening-comprehension-items-13-to-24-strategy)
-- [How much time do you have to answer each question before the TCF computer automatically advances?](#tcf-canada-listening-comprehension-items-13-to-24-strategy)
+- [What are the four classic distractor traps deployed in B1-level TCF Canada Listening items?](#tcf-canada-listening-comprehension-strategy-for-b1-items)
+- [What routine should you follow before, during, and after each single-play recording?](#tcf-canada-listening-comprehension-strategy-for-b1-items)
 
 ### Additional resources
 
@@ -231,4 +231,4 @@ This section contains helpful links to related content. It isn't required, so co
 - [Podcast Français Facile — Dialogues et compréhension orale](https://www.podcastfrancaisfacile.com/category/dialogue): Realistic audio dialogues across everyday, professional, and media topics with synchronized transcripts.
 - [Radio-Canada — Nouvelles et radio en direct](https://ici.radio-canada.ca/): Live broadcast streaming, news summaries, and podcasts from across Canada.
 - [Podcast Français Facile — Textes et enregistrements audio](https://www.podcastfrancaisfacile.com/apprendre-le-francais/liste-des-textes-fle): Audio articles and listening comprehension exercises calibrated for intermediate candidates.
-- [France Éducation international — TCF Canada épreuve de compréhension orale](https://www.france-education-international.fr/test-de-connaissance-du-francais): Official format specifications, timing rules, and sample audio tracks for the TCF listening test.
+- [France Éducation international — TCF Canada épreuve de compréhension orale](https://www.france-education-international.fr/test-de-connaissance-du-francais): Official information on the TCF format and candidate rules.

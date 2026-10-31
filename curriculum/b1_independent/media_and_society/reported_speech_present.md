@@ -55,15 +55,15 @@ When a question can be answered simply with *oui* or *non* (whether formulated w
 * Indirect: **Le journaliste demande si le gouvernement va intervenir.**
   /lə ʒuʁ.na.list də.mɑ̃d si lə gu.vɛʁ.nə.mɑ̃ va ɛ̃.tɛʁ.və.niʁ/
   *The journalist asks if the government is going to intervene.*
-* Direct: *L'animatrice interroge : « Est-ce qu'ils soutiennent cette mesure ? »*
-* Indirect: **L'animatrice interroge s'ils soutiennent cette mesure.**
-  /l‿a.ni.ma.tʁis ɛ̃.tɛ.ʁɔʒ s‿il su.tjɛn sɛt mə.zyʁ/
+* Direct: *L'animatrice demande : « Est-ce qu'ils soutiennent cette mesure ? »*
+* Indirect: **L'animatrice demande s'ils soutiennent cette mesure.**
+  /l‿a.ni.ma.tʁis də.mɑ̃d s‿il su.tjɛn sɛt mə.zyʁ/
   *The host asks if they support this measure.*
 
 > [!WARNING]
 > **Elision Trap with "Si"**
 > The conjunction **si** elides ONLY before the masculine subject pronouns **il** and **ils** (*s'il*, *s'ils*).
-> It **never** elides before feminine pronouns (*elle, elles*) or impersonal pronouns (*on*):
+> It **never** elides before feminine pronouns (*elle, elles*) or the indefinite pronoun (*on*):
 > * **Correct**: *Il demande si elle est disponible.* ✅
 > * **Incorrect**: *Il demande s'elle est disponible.* ❌
 > * **Correct**: *Il demande si on commence.* ✅
@@ -270,7 +270,7 @@ Transform an unedited transcript of a mayoral press conference into a profession
 2. **Requirements**:
    * Do NOT use quotation marks or dialogue punctuation.
    * Use at least **three different reporting verbs** (e.g., *annoncer, préciser, rassurer, ordonner, rappeler*).
-   * Include at least one indirect yes/no question (*demande / explique si...*).
+   * Include at least one indirect yes/no question (*demande si...*, *lorsqu'on lui demande si...*).
    * Include at least one formulation with **ce qui** or **ce que**.
    * Report the command using **de + infinitif**.
 
@@ -281,11 +281,11 @@ Transform an unedited transcript of a mayoral press conference into a profession
 
 Lors de son point de presse matinal, le maire de Montréal **annonce qu'**une décision majeure vient d'être adoptée par son administration. Il **précise que** les transports en commun deviendront entièrement gratuits pour tous les aînés de plus de 65 ans dès le mois de janvier prochain. 
 
-Interrogé sur le coût fiscal du projet, l'élu **explique si** la facture pèsera sur les contribuables et rassure la population en indiquant que les surplus budgétaires de l'année passée financeront l'initiative. Il ajoute que **ce qui garantit** la pérennité de ce programme est la rigueur de la gestion financière municipale. 
+**Lorsqu'on lui demande si** la facture pèsera sur les contribuables, l'élu répond que non et rassure la population en indiquant que les surplus budgétaires de l'année passée financeront l'initiative. Il ajoute que **ce qui garantit** la pérennité de ce programme est la rigueur de la gestion financière municipale. 
 
 Enfin, le maire **ordonne aux services de la STM de préparer** la transition technique sans délai.
 
-*(118 mots — Style journalistique exemplaire, fluidité du discours indirect, 100% conforme aux attentes B1).*
+*(110 mots, titre non compris — style journalistique, discours indirect fluide, conforme aux attentes B1).*
 </details>
 
 </div>

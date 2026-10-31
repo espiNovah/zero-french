@@ -1,19 +1,19 @@
 ### Introduction
 
-In the **TCF Canada Speaking Examination (*Expression orale*)**, **Task 2 (Tâche 2)** represents one of the most dynamic, unpredictable, and decisive sections of the entire test. In this unscripted **3-minute-and-30-second interactive roleplay**, you are presented with an authentic real-world scenario (booking an excursion, renting equipment, inquiring about training programs, organizing an event, or resolving a customer service dispute) and must interact directly with the certified examiner.
+In the **TCF Canada Speaking Examination (*Expression orale*)**, **Task 2 (Tâche 2)** represents one of the most dynamic, unpredictable, and decisive sections of the entire test. In this **interactive roleplay (2 minutes of preparation, then 3 minutes 30 seconds of interaction)**, you are presented with an authentic real-world scenario (booking an excursion, renting equipment, inquiring about training programs, organizing an event, or resolving a customer service dispute) and must interact directly with the certified examiner.
 
-At CEFR Level A2, the candidate's objective in Task 2 was relatively straightforward: approach a service desk, maintain polite formal address (*le vouvoiement*), and ask 8 to 10 basic factual questions regarding prices, hours, and required documents. However, to achieve **Level B1 and B2 (Canadian Language Benchmark / NCLC 6–8+)**, the evaluation criteria transform dramatically:
+At CEFR Level A2, the candidate's objective in Task 2 was relatively straightforward: approach a service desk, maintain polite formal address (*le vouvoiement*), and ask a series of basic factual questions regarding prices, hours, and required documents. However, at **Level B1 and B2**, expectations rise considerably:
 1. **Taking and Holding the Initiative**: You must lead the conversation rather than passively waiting for the examiner to prompt you.
-2. **Handling Obstacles and Examiner Resistance**: In B1/B2 simulations, the examiner is specifically trained **not to say yes immediately**. They will present constraints: high prices, sold-out dates, strict company policies, or inconvenient schedules. You must react spontaneously, challenge objections constructively, formulate counter-proposals, and negotiate acceptable alternatives.
+2. **Handling Obstacles and Examiner Resistance**: In many B1/B2 practice scenarios, the examiner's role may **not say yes immediately** and may raise constraints: high prices, sold-out dates, strict company policies, or inconvenient schedules. You must react spontaneously, challenge objections constructively, formulate counter-proposals, and negotiate acceptable alternatives.
 3. **Active Listening and Syntactic Versatility**: You must pick up on clues dropped by the examiner, react with natural discourse markers (*« En effet », « Je vois », « C'est compréhensible, néanmoins... »*), and weave the polite conditional and *si-clauses* into your negotiations.
 
-In this lesson, you will master the strategic playbook for leading high-scoring B1/B2 roleplays, learn the art of diplomatic counter-proposals, and practice authentic roleplay scripts that systematically impress certified examiners.
+In this lesson, you will master the strategic playbook for leading high-scoring B1/B2 roleplays, learn the art of diplomatic counter-proposals, and practice roleplay scripts that show what a strong B1/B2 interaction sounds like.
 
 ### Lesson overview
 
 This section contains a general overview of topics that you will learn in this lesson.
 
-- The official France Éducation international (FEI) evaluation rubric for Speaking Task 2 at Level B1/B2.
+- An unofficial self-assessment rubric for Speaking Task 2 at Level B1/B2.
 - The 4-phase timeline of a 3.5-minute roleplay: Hook, Inquiry, Negotiation/Resistance, and Consensus.
 - Tactical scripts for leading the exchange and steering the conversational agenda.
 - Overcoming examiner objections: techniques for countering *« C'est impossible »* without sounding aggressive.
@@ -23,16 +23,16 @@ This section contains a general overview of topics that you will learn in this l
 
 ### Anatomy and evaluation rubric of TCF Speaking Task 2 at Level B1
 
-Certified examiners do not grade you on whether you "win" the roleplay; they grade your linguistic performance against the four FEI standardized criteria:
+Certified examiners do not grade you on whether you "win" the roleplay; they assess your linguistic performance (Speaking receives one overall score out of 20). The **unofficial self-assessment rubric** below summarizes what to aim for; its criterion labels are ours, not FEI's:
 
 | Evaluation Criterion | Level A2 Expectation (Basic) | Level B1/B2 Expectation (Target Benchmark) |
 | :--- | :--- | :--- |
-| **1. Prise d'initiative et conduite de l'échange** | Candidate asks isolated questions and waits passively for answers. | Candidate confidently steers the conversation, introduces context, follows up on examiner answers, and leads to a conclusion. |
-| **2. Variété des structures interrogatives** | Relies heavily on repetitive *« Est-ce que... »* or *« Quel est le prix... »*. | Fluidly mixes subject-verb inversion (*« Pourriez-vous... »*), indirect questions (*« J'aimerais savoir si... »*), and complex adverbs (*« Dans quelle mesure... »*). |
-| **3. Réactivité et négociation** | Accepts examiner refusal immediately (*« D'accord, au revoir »*) or falls silent. | Rebounds immediately when facing obstacles; proposes realistic compromises using *si* clauses and the conditional. |
-| **4. Correction grammaticale et registre** | Present tense dominant; occasional slips into informal *tu*; basic vocabulary. | Consistent formal *vouvoiement*; accurate conditional mood; rich lexical field tailored to the scenario. |
+| **1. Initiative and leading the exchange** | Candidate asks isolated questions and waits passively for answers. | Candidate confidently steers the conversation, introduces context, follows up on examiner answers, and leads to a conclusion. |
+| **2. Variety of question forms** | Relies heavily on repetitive *« Est-ce que... »* or *« Quel est le prix... »*. | Fluidly mixes subject-verb inversion (*« Pourriez-vous... »*), indirect questions (*« J'aimerais savoir si... »*), and complex adverbs (*« Dans quelle mesure... »*). |
+| **3. Reacting and negotiating** | Accepts examiner refusal immediately (*« D'accord, au revoir »*) or falls silent. | Rebounds immediately when facing obstacles; proposes realistic compromises using *si* clauses and the conditional. |
+| **4. Grammar and register** | Present tense dominant; occasional slips into informal *tu*; basic vocabulary. | Consistent formal *vouvoiement*; accurate conditional mood; rich lexical field tailored to the scenario. |
 
-#### The 4-phase chronological blueprint (Total: 3 minutes 30 seconds)
+#### The 4-phase chronological blueprint (Total: 3 minutes 30 seconds, after 2 minutes of preparation)
 
 ```text
 Phase 1: Opening & Scenario Framing (0:00–0:45)
@@ -106,7 +106,7 @@ Step 3: Concrete Counter-Proposal with the Conditional or Si-Clause
 
 ### Active listening reactions and discourse markers
 
-In spontaneous oral conversation, dead silence while the examiner speaks destroys fluency ratings. Integrate natural reactive interjections and conversational bridges:
+In spontaneous oral conversation, dead silence while the examiner speaks undermines the impression of fluency. Integrate natural reactive interjections and conversational bridges:
 
 - **Pour marquer l'accord et l'intérêt** :  
   *« Absolument »* (/ab.sɔ.ly.mɑ̃/), *« Tout à fait »* (/tu.t‿a fɛ/), *« C'est parfaitement clair »* (/s‿ɛ paʁ.fɛt.mɑ̃ klɛʁ/), *« C'est une excellente nouvelle »* (/s‿ɛ.t‿yn ɛk.sɛ.lɑ̃t nu.vɛl/).
@@ -131,7 +131,7 @@ In spontaneous oral conversation, dead silence while the examiner speaks destroy
 > **L'examinateur** : *Une pièce d'identité du nouveau membre et votre carte d'adhérent suffiront.*  
 > **Le candidat** : *Parfait, je vous remercie chaleureusement pour votre compréhension et votre souplesse. Bonne fin de journée !*
 
-**Why this scores NCLC 7 / B2**:
+**Why this is a strong B1/B2 performance**:
 - Never yields to the initial flat refusal.
 - Deploys hypothetical *si* clause (*Si je vous fournissais... pourriez-vous faire...*).
 - Proposes three viable secondary compromises (pool conversion, gentle rehab, family transfer).
@@ -199,7 +199,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [France Éducation international — Épreuve d'expression orale du TCF Canada](https://www.france-education-international.fr/test/tcf-canada): Official FEI guidelines, format specifications, and evaluation grids for interactive speaking roleplays.
+- [France Éducation international — Épreuve d'expression orale du TCF Canada](https://www.france-education-international.fr/test/tcf-canada): Official FEI page describing the TCF Canada format, including the speaking test.
 - [Podcast Français Facile — Dialogue au conditionnel présent](https://www.podcastfrancaisfacile.com/dialogue/preparation-de-la-fete-dialogue-fle-au-conditionnel-niveau-a2.html): Audio dialogue illustrating practical suggestions, conditional verbs, and interactive agreements.
 - [Radio-Canada — Émissions et débats de société](https://ici.radio-canada.ca/): Authentic Canadian spoken French dialogues, interviews, and public debate panels.
 - [Vitrine linguistique (OQLF) — Vocabulaire de la négociation et des affaires](https://vitrinelinguistique.oqlf.gouv.qc.ca/): Authoritative Canadian portal for corporate negotiation, arbitration, and agreement terms.

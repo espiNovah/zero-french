@@ -6,7 +6,7 @@ Navigating workplace disputes in French requires mastering delicate linguistic r
 
 On the **TCF Canada examination**, workplace conflict and schedule negotiation form the core of **Writing Task 2 (*Expression écrite — Tâche 2*)** and **Speaking Task 2 (*Expression orale — Tâche 2*)**:
 - In **Writing Task 2 (120–150 words)**, candidates are routinely tasked with writing a formal letter or email to a supervisor or landlord expressing dissatisfaction (e.g., an unmanageable shift schedule, noise disruptions, unfulfilled contractual duties) while maintaining strict formal politeness (*vouvoiement*) and proposing two or three concrete remedies.
-- In **Speaking Task 2 (3.5-minute interactive roleplay)**, advanced B1 scenarios involve negotiating with an employer who refuses a vacation request or changes a work agreement, requiring candidates to negotiate alternatives assertively yet respectfully.
+- In **Speaking Task 2 (2 minutes of preparation + 3.5-minute interactive roleplay)**, advanced B1 scenarios involve negotiating with an employer who refuses a vacation request or changes a work agreement, requiring candidates to negotiate alternatives assertively yet respectfully.
 
 ### Lesson overview
 
@@ -77,7 +77,7 @@ $$\text{Je proposerais que} + \text{Verbe} \quad \text{ou} \quad \text{Nous pour
 
 ### Negotiating working hours telework and deadlines
 
-In Canadian workplaces (governed by Quebec's *Commission des normes, de l'équité, de la santé et de la sécurité du travail - CNESST* or Canadian federal labor standards), negotiations around schedules, family balance, and telework are customary when framed through productivity and wellbeing.
+In Canadian workplaces (governed by provincial employment standards, administered in Québec by the *Commission des normes, de l'équité, de la santé et de la sécurité du travail - CNESST*, or by the Canada Labour Code in federally regulated sectors such as banking, telecommunications, and interprovincial transport), negotiations around schedules, family balance, and telework are customary when framed through productivity and wellbeing.
 
 #### 1. Key terms for flexible work and schedules
 
@@ -103,7 +103,7 @@ In Canadian workplaces (governed by Quebec's *Commission des normes, de l'équit
 
 In writing, tone management is critical. Below is an authentic, calibrated formal email illustrating how an employee resolves a scheduling conflict with management.
 
-#### Complete formal email blueprint (138 words)
+#### Complete formal email blueprint (142 words)
 
 > **Objet : Demande d'aménagement d'horaires — Alex Dupont**  
 > 
@@ -111,7 +111,7 @@ In writing, tone management is critical. Below is an authentic, calibrated forma
 > 
 > **Je me permets de vous contacter concernant mes horaires de travail pour le prochain trimestre. Actuellement, mes quarts de travail débutent à 7 h 30, ce qui engendre d'importantes difficultés d'organisation personnelle en raison de mes responsabilités familiales et des horaires de garde de mon enfant.**  
 > 
-> **Afin de remédier à cette situation tout en garantissant ma pleine productivité, j'aimerais vous proposer un réaménagement d'horaires. Serait-il possible de décaler ma prise de poste à 8 h 30 et de prolonger ma journée en fin d'après-midi ? Alternativement, je pourrais effectuer une journée en télétravail par semaine.**  
+> **Afin de remédier à cette situation tout en garantissant ma pleine productivité, j'aimerais vous proposer un réaménagement d'horaires. Serait-il possible de décaler ma prise de poste à 8 h 30 et de prolonger ma journée en fin d'après-midi ? Sinon, je pourrais effectuer une journée en télétravail par semaine.**  
 > 
 > **Cette solution me permettrait de maintenir un niveau de performance optimal sans perturber le bon fonctionnement de notre équipe.**  
 > 
@@ -121,7 +121,7 @@ In writing, tone management is critical. Below is an authentic, calibrated forma
 > **Alex Dupont**
 
 **Word Count Breakdown & Features**:
-- **Length**: 138 words (perfect for TCF Writing Task 2 requirements).
+- **Length**: 142 words, subject line and signature excluded (within the 120–150 range of TCF Writing Task 2; a word is any string between two spaces, so *j'aimerais* = 1 word).
 - **Tone**: Formal *vouvoiement*, respectful, objective description of the constraint.
 - **Hypothetical & Conditional Formulas**: *j'aimerais vous proposer, serait-il possible, je pourrais effectuer, me permettrait*.
 - **Professional Closings**: *Je vous remercie par avance... Veuillez agréer... mes salutations distinguées*.
@@ -131,12 +131,12 @@ In writing, tone management is critical. Below is an authentic, calibrated forma
 1. **Expression écrite Tâche 2 (120–150 words)**:
    - *Typical exam prompt*:  
      *« Vous travaillez dans une entreprise. Votre responsable a décidé d'annuler les journées de télétravail. Vous n'êtes pas d'accord avec cette décision. Vous lui écrivez un courriel pour lui exprimer votre désaccord de manière polie, expliquer les avantages du télétravail pour l'équipe, et proposer un compromis acceptable. »*
-   - *Key rubric demands*:
-     - **Critère 1 (Respect de la consigne)**: Must address all 3 parts (disagreement, arguments/benefits, compromise).
-     - **Critère 2 (Cohérence & connecteurs)**: Use logical connectors (*Cependant, En effet, De plus, Par conséquent*).
-     - **Critère 3 (Lexique)**: Deploy professional workplace vocabulary (*productivité, flexibilité, bien-être, conciliation travail-famille, aménagement*).
-     - **Critère 4 (Morphosyntaxe)**: Master the conditional (*pourrions, permettrait, serait*) and modal polite formulas.
-2. **Expression orale Tâche 2 (Interactive Roleplay — 3.5 minutes)**:
+   - *What to check (unofficial self-assessment checklist)*:
+     - **Check 1 (Task completion)**: Must address all 3 parts (disagreement, arguments/benefits, compromise).
+     - **Check 2 (Coherence & connectors)**: Use logical connectors (*Cependant, En effet, De plus, Par conséquent*).
+     - **Check 3 (Vocabulary)**: Deploy professional workplace vocabulary (*productivité, flexibilité, bien-être, conciliation travail-famille, aménagement*).
+     - **Check 4 (Grammar)**: Master the conditional (*pourrions, permettrait, serait*) and modal polite formulas.
+2. **Expression orale Tâche 2 (Interactive Roleplay — 2 minutes of preparation + 3.5 minutes)**:
    - When the examiner says *« Non, ce n'est pas possible, c'est le règlement de l'entreprise »*, do not give up or become hostile!
    - Demonstrate B1 persistence by asking alternative questions:  
      *« Je comprends vos contraintes, mais n'y aurait-il pas une exception possible pour les nouveaux employés ? »*  
@@ -223,7 +223,7 @@ In writing, tone management is critical. Below is an authentic, calibrated forma
    > **Je vous remercie pour votre attention et vous prie d'agréer mes salutations distinguées.**  
    > **Alex Martin**
 
-   **Word count audit**: 138 words.  
+   **Word count audit**: 142 words, signature excluded.  
    **Features**: Perfect B1 argumentative structure, formal register, nuanced conditional proposals.
 
    </details>

@@ -3,7 +3,7 @@
 At CEFR A2, your writing and speaking rely heavily on short, juxtaposed sentences connected by basic coordinators: *et* (/e/, and), *mais* (/mɛ/, but), and *parce que* (/paʁs kə/, because). For example, an A2 learner might produce:
 * *J'ai lu un article. Cet article parle du logement. Le logement coûte très cher.*
 
-At CEFR B1, such repetitive sentence structures cap your score in TCF Canada Writing and Speaking. Official French evaluation grids actively reward **syntactic complexity and cohesive subordination** (*la complexité syntaxique et la cohésion textuelle*). Relative pronouns allow you to fuse ideas into elegant, information-dense clauses without awkward nominal repetitions:
+At CEFR B1, such repetitive sentence structures hold back your TCF Canada Writing and Speaking. Examiners value **syntactic complexity and cohesive subordination** (*la complexité syntaxique et la cohésion textuelle*). Relative pronouns allow you to fuse ideas into elegant, information-dense clauses without awkward nominal repetitions:
 * **J'ai lu un article qui traite de la crise du logement, un sujet dont tout le monde parle.**
   /ʒe ly œ̃.n‿aʁ.tikl ki tʁɛt də la kʁiz dy lɔʒ.mɑ̃, œ̃ sy.ʒɛ dɔ̃ tu lə mɔ̃d paʁl/
   *I read an article that deals with the housing crisis, a topic of which everyone is speaking.*
@@ -146,7 +146,9 @@ Compare the synthesis:
 
 #### 2. Expressing Possession and Relationships (*Whose*)
 **Dont** translates the English possessive relative "whose". 
-In French, the syntax follows a strict word order: **[Antecedent] + dont + [Definite Article + Possessed Noun] + [Subject/Verb]**.
+In French, two word orders are possible, depending on the role of the possessed noun:
+* Possessed noun as **subject**: **[Antecedent] + dont + [Article + Possessed Noun] + [Verb]** (*l'écrivaine dont le dernier roman a remporté le prix*).
+* Possessed noun as **direct object**: **[Antecedent] + dont + [Subject + Verb] + [Article + Possessed Noun]** (*l'écrivaine dont j'ai lu le dernier roman*).
 * **Voici l'écrivaine dont le dernier roman a remporté le prix Goncourt.**
   /vwa.si l‿e.kʁi.vɛn dɔ̃ lə dɛʁ.nje ʁɔ.mɑ̃ a ʁɑ̃.pɔʁ.te lə pʁi gɔ̃.kuʁ/
   *Here is the female author whose latest novel won the Goncourt prize.*
@@ -189,7 +191,7 @@ In TCF Canada Speaking Task 3 and Writing Task 3, you can use *ce qui / ce que /
 
 ### 8. TCF Canada Strategy: Syntax Variety and Cohesion
 
-In the TCF Canada evaluation rubrics (*Grille d'évaluation France Éducation International*), the criterion **Compétence grammaticale et morphosyntaxique** distinguishes B1 from A2 by looking specifically for:
+When judging grammatical range, examiners look for features that set B1 apart from A2. This unofficial self-check list sums them up:
 1. **Subordination variety**: Moving beyond coordinate clauses (*et, mais*) to complex relative clauses.
 2. **Absence of pronoun confusion**: Zero errors between subject *qui* and direct object *que*.
 3. **Productive use of *dont***: Candidate demonstrates command of prepositions (*avoir besoin de*, *être responsable de*) without producing calques from English (*la chose que j'ai besoin ❌*).
@@ -197,9 +199,9 @@ In the TCF Canada evaluation rubrics (*Grille d'évaluation France Éducation In
 
 #### Before & After: Elevating Discourse from A2 to B1
 * **A2 Level (Repetitive, fragmented sentences)**:
-  * *Je lis souvent La Presse. C'est un journal gratuit. Il propose des articles intéressants. Les journalistes parlent de la société québécoise.* (Score: A2 max)
+  * *Je lis souvent La Presse. C'est un journal gratuit. Il propose des articles intéressants. Les journalistes parlent de la société québécoise.* (typical of A2)
 * **B1 Level (Integrated, coherent relative structures)**:
-  * **Je consulte quotidiennement La Presse, qui est un journal numérique gratuit dont les articles analysent avec rigueur les enjeux de la société québécoise.** (Score: B1 solid)
+  * **Je consulte quotidiennement La Presse, qui est un journal numérique gratuit dont les articles analysent avec rigueur les enjeux de la société québécoise.** (typical of B1)
   * /ʒə kɔ̃.sylt kɔ.ti.djɛn.mɑ̃ la pʁɛs, ki ɛ t‿œ̃ ʒuʁ.nal ny.me.ʁik gʁa.tɥi dɔ̃ le.z‿aʁ.tikl a.na.liz a.vɛk ʁi.gœʁ le.z‿ɑ̃.ʒø də la sɔ.sje.te ke.be.kwaz/
 
 ---
@@ -231,7 +233,7 @@ Complete each journalistic sentence with the accurate pronoun:
 #### Exercise 2: Sentence Synthesis Drill
 Combine the two standalone sentences into a single sophisticated B1 sentence using the appropriate relative pronoun (**qui**, **que**, **où**, or **dont**):
 1. **Phrase A**: *Le gouvernement a annoncé un nouveau plan de transport urbain.*  
-   **Phrase B**: *Les écologistes doutent de l'efficacité de ce plan.*
+   **Phrase B**: *Les écologistes mettent en doute l'efficacité de ce plan.*
 2. **Phrase A**: *Nous avons visité les studios de Radio-Canada.*  
    **Phrase B**: *Les journalistes y enregistrent le bulletin d'information quotidien.*
 3. **Phrase A**: *L'éditorialiste a rédigé une chronique percutante.*  
@@ -242,7 +244,7 @@ Combine the two standalone sentences into a single sophisticated B1 sentence usi
 <details>
 <summary>View Exercise 2 Solutions and Explanations</summary>
 
-1. **Le gouvernement a annoncé un nouveau plan de transport urbain dont les écologistes doutent de l'efficacité.** (Or: *...dont l'efficacité est mise en doute par les écologistes.* The verb is *douter de*).
+1. **Le gouvernement a annoncé un nouveau plan de transport urbain dont les écologistes mettent en doute l'efficacité.** (Or: *...dont l'efficacité est mise en doute par les écologistes.* *Dont* replaces the noun complement *[l'efficacité] de ce plan*. Avoid ❌ *dont les écologistes doutent de l'efficacité*: *douter* already has its own *de* complement, so the sentence would contain two competing *de* complements).
 2. **Nous avons visité les studios de Radio-Canada où les journalistes enregistrent le bulletin d'information quotidien.** (The adverbial pronoun *y* is replaced by *où*).
 3. **L'éditorialiste a rédigé une chronique percutante qui a suscité de vives réactions sur les réseaux sociaux.** (*Qui* replaces the grammatical subject *cette chronique*).
 4. **Le musée expose des photographies d'archives que le public a découvertes pour la première fois.** (*Que* acts as direct object; *découvertes* agrees with feminine plural antecedent *photographies*).
@@ -273,11 +275,11 @@ Synthesize news items into cohesive, subordinated French paragraphs suitable for
 
 La ville de Montréal met actuellement en œuvre un plan ambitieux **qui vise** à moderniser son réseau de transport collectif. Les nouvelles rames de métro **que la municipalité a commandées** entreront en service dès l'automne prochain. 
 
-Dans les arrondissements périphériques **où les correspondances sont rares**, les usagers réclament une meilleure desserte en autobus. Le directeur général, **dont les déclarations récentes ont rassuré les syndicats**, promet d'augmenter la fréquence des trajets en soirée. 
+Dans les arrondissements périphériques **où les correspondances sont rares**, les usagers réclament une meilleure desserte en autobus. Le directeur général, **dont les déclarations récentes ont rassuré les syndicats**, promet d'augmenter la fréquence des trajets en soirée. Les élus de l'opposition, **qui dénoncent des retards chroniques**, resteront toutefois vigilants. 
 
 **Ce dont la métropole a urgemment besoin**, c'est d'un financement durable et équitable. Cette réforme globale permettra ainsi de désengorger les artères routières tout en favorisant la mobilité verte.
 
-*(112 mots — Structure parfaitement articulée, 5 pronoms relatifs intégrés avec précision et accords exacts).*
+*(113 mots, titre non compris — structure bien articulée, 6 pronoms relatifs intégrés avec précision et accords exacts).*
 </details>
 
 </div>

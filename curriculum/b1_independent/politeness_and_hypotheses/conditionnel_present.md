@@ -8,7 +8,7 @@ The primary grammatical engine driving this intermediate communicative sophistic
 - Articulate personal aspirations, career ambitions, and unfulfilled wishes (*« J'aimerais vivre à Montréal », « Nous souhaiterions collaborer »*).
 - Report unconfirmed or provisional news with journalistic distance (*« Le ministre annoncerait une réforme demain »*).
 
-On the **TCF Canada examination**, the present conditional is an indispensable gatekeeper for **Level B1 and B2 (NCLC 6–7+)**:
+On the **TCF Canada examination**, the present conditional is an indispensable gatekeeper for **Level B1 and B2**:
 - In **Speaking (*Expression orale*) Task 2 (interactive roleplay)** and **Task 3 (opinion monologue)**, examiners actively listen for conditional structures. Using *pourriez-vous*, *j'aimerais*, or *à mon avis, il faudrait* demonstrates grammatical maturity and conversational finesse.
 - In **Writing (*Expression écrite*) Task 2 (formal correspondence or opinion message)**, composing a letter of proposal, complaint, or advice to an employer or public official requires sustained use of the conditional to maintain an appropriately diplomatic tone.
 
@@ -157,18 +157,18 @@ The conditional expresses idealized dreams and long-term goals:
 
 Integrating the present conditional into your active repertoire produces an immediate boost across your TCF Canada score profile:
 
-1. **Expression orale Tâche 2 (Roleplay — 3.5 minutes)**:
-   - Candidates who ask questions exclusively using *« Est-ce que vous avez... »* or *« Quel est le prix... »* remain capped at Level A2.
+1. **Expression orale Tâche 2 (Roleplay — 2 minutes of preparation + 3.5 minutes)**:
+   - Candidates who ask questions exclusively using *« Est-ce que vous avez... »* or *« Quel est le prix... »* display only a narrow, A2-like range of structures.
    - Candidates who introduce queries with:  
      *« **Pourriez-vous me préciser** les horaires des cours du soir ? »*  
      *« **Serait-il possible** de payer les frais d'inscription en plusieurs versements ? »*  
      *« **J'aimerais savoir** si des bourses sont offertes aux nouveaux arrivants. »*  
-     demonstrate the exact syntactic control required for **NCLC 7 (Level B2)**.
+     demonstrate the kind of syntactic control expected of a confident B1/B2 speaker.
 2. **Expression orale Tâche 3 (Opinion Monologue — 4.5 minutes)**:
    - When asked to analyze a societal dilemma (e.g., public transit vs private cars, telework vs office work), use the conditional to suggest balanced solutions:  
      *« Selon moi, les municipalités **devraient investir** massivement dans le réseau ferroviaire. Cela **permettrait** de réduire les émissions de gaz à effet de serre et **inciterait** les citoyens à laisser leur voiture au garage. »*
 3. **Expression écrite Tâche 2 (Formal Letter / Opinion — 120–150 words)**:
-   - Evaluators assess *Formules de politesse et modalisateurs*. Opening and concluding with conditional structures guarantees maximum points under textual register:  
+   - Politeness formulas and an appropriate register matter in formal letters. Opening and concluding with conditional structures helps you strike the right tone:  
      *« Je vous **serais reconnaissant(e)** de bien vouloir prendre en considération ma demande. »*
 
 ### Assignment
@@ -177,7 +177,7 @@ Integrating the present conditional into your active repertoire produces an imme
 
 1. **Step 1: Morphological Conjugation Practice**  
    Conjugate the verb in parentheses into the **conditionnel présent** according to the subject provided:
-   - (Avoir) Si nous avions le temps, nous ________________ plus souvent avec nos collègues.
+   - (Avoir) Si nous avions le temps, nous ________________ plus d'occasions d'échanger avec nos collègues.
    - (Être) Selon les prévisions économiques, cette décision ________________ très avantageuse pour l'entreprise.
    - (Pouvoir) Excusez-moi Monsieur, ________________-vous m'indiquer le chemin vers la gare centrale ?
    - (Vouloir) Madame Tremblay et son associé ________________ signer l'accord de partenariat dès demain.
@@ -249,12 +249,12 @@ Integrating the present conditional into your active repertoire produces an imme
    > **Madame la directrice,**  
    > **Dans le but d'optimiser le bien-être de notre équipe, j'aimerais proposer l'instauration d'un horaire de travail flexible.**  
    > **Cette initiative permettrait à chacun de mieux concilier obligations professionnelles et vie familiale. De plus, il faudrait autoriser deux journées de télétravail par semaine, ce qui réduirait considérablement le stress lié aux déplacements quotidiens.**  
-   > **Une telle mesure favoriserait sans doute la motivation générale et augmenterait notre productivité.**  
+   > **Une telle mesure favoriserait sans doute la motivation générale et augmenterait notre productivité. Elle pourrait d'ailleurs être testée pendant trois mois avant une éventuelle généralisation.**  
    > **Je reste à votre entière disposition pour échanger sur ce projet.**  
    > **Cordialement,**
 
-   **Word count**: 82 words.  
-   **Conditionnels used**: *j'aimerais, permettrait, faudrait, réduirait, favoriserait, augmenterait*.
+   **Word count**: 91 words (a word is any string between two spaces; *j'aimerais* = 1 word).  
+   **Conditionnels used**: *j'aimerais, permettrait, faudrait, réduirait, favoriserait, augmenterait, pourrait*.
 
    </details>
 

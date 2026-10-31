@@ -2,7 +2,7 @@
 
 Once learners discover the present subjunctive, a curious linguistic phenomenon often occurs: **hypercorrection** (*l'hypercorrection*). Because the subjunctive sounds elegant, sophisticated, and distinctly French, intermediate students frequently begin inserting it after every single *« que »*, mistakenly using it in clauses that strictly require the indicative mood.
 
-In reality, native Francophones deploy the subjunctive with surgical precision. Using the subjunctive where the indicative belongs (*« J'espère qu'il vienne »* or *« Je pense qu'il soit là »*) is just as jarring to a native ear as failing to use it where required (*« Il faut qu'il vient »*). To achieve **CEFR Level B1 and B2 autonomy (Canadian Language Benchmark / NCLC 7+)**, you must master the decisive boundary between these two moods:
+In reality, native Francophones deploy the subjunctive with surgical precision. Using the subjunctive where the indicative belongs (*« J'espère qu'il vienne »* or *« Je pense qu'il soit là »*) is just as jarring to a native ear as failing to use it where required (*« Il faut qu'il vient »*). To achieve **CEFR Level B1 and B2 autonomy**, you must master the decisive boundary between these two moods:
 - **L'indicatif (The Indicative Mood)**: The mood of **factual reality, objective observation, certainty, and high probability**. It affirms what is, was, or will be.
 - **Le subjonctif (The Subjunctive Mood)**: The mood of **subjective evaluation, possibility, necessity, emotion, and doubt**. It reflects an action filtered through the speaker's mind or will.
 
@@ -69,7 +69,7 @@ $$\mathbf{\text{Sujet}} + \mathbf{\text{ne}} + \mathbf{\text{Penser / Croire}} +
 
 #### 3. Formal interrogative statements with inversion: Subjunctive
 
-In formal questioning with subject-verb inversion, doubt is cast upon the premise, triggering the subjunctive:
+In formal questioning with subject-verb inversion, doubt is cast upon the premise, which often triggers the subjunctive (optional here):
 - *« Pensez-vous qu'il **soit** nécessaire de reporter la réunion ? »* (Subjonctif).
 - *« Croyez-vous que le gouvernement **prenne** les bonnes décisions ? »* (Subjonctif).
 
@@ -78,7 +78,7 @@ In formal questioning with subject-verb inversion, doubt is cast upon the premis
 **Spoken French nuance: Est-ce que**  
 In casual everyday spoken French using *est-ce que*, native speakers often maintain the indicative if they expect an affirmative answer:  
 *« Est-ce que vous pensez qu'il **va** venir ? »* (Common in spoken French).  
-However, on the **TCF Canada examination** and in formal writing, questions with opinion verbs strictly take the **subjonctif**!
+With inversion in formal speech and writing, the **subjonctif** is the more elegant choice, but the indicative is also correct: *« Croyez-vous que le gouvernement **prendra** les bonnes décisions ? »* is perfectly acceptable.
 
 </div>
 
@@ -122,7 +122,7 @@ These conjunctions express purpose (*but*), concession (*opposition*), condition
 | **Pour que / Afin que** | *In order that / So that* | Purpose / Goal | *Expliquez clairement la démarche pour que tout le monde **comprenne**.* |
 | **Avant que (+ ne)** | *Before* | Action not yet realized | *Terminons le rapport avant que le directeur n'**arrive**.* |
 | **À condition que** | *On the condition that* | Restriction / Proviso | *Je vous prête ma voiture à condition que vous **fassiez** le plein.* |
-| **Sans que** | *Without* | Negative circumstance | *Il est parti sans que personne ne s'en **aperçoive**.* |
+| **Sans que** | *Without* | Negative circumstance | *Il est parti sans que personne s'en **aperçoive**.* |
 | **Jusqu'à ce que** | *Until* | Temporal limit | *Patientez dans la salle d'attente jusqu'à ce que l'infirmière vous **appelle**.* |
 | **De peur que / De crainte que** | *For fear that / Lest* | Avoided danger | *Fermez les fenêtres de peur que la pluie ne **pénètre**.* |
 
@@ -160,9 +160,9 @@ However, *avant que* refers to an event that has **not yet occurred** (pure hypo
 
 #### 3. Trap 3: Certainty vs Doubt in the negative
 
-Remember that negating certainty produces doubt (Subjunctive), but **negating doubt produces certainty (Indicative)**!
-- *« Je ne doute pas qu'il **est** compétent. »* (*Ne pas douter* = to be certain -> Indicatif).
-- *« Il n'y a aucun doute qu'elle **réussira**. »* (No doubt = 100% certainty -> Indicatif).
+Remember that negating certainty produces doubt (Subjunctive). Negating doubt is subtler: after *ne pas douter que*, the standard norm remains the **subjunctive**, while the indicative is an accepted variant that stresses certainty:
+- *« Je ne doute pas qu'il **soit** compétent. »* (Norm: Subjonctif). *« Je ne doute pas qu'il **est** compétent. »* is also heard, to insist on certainty.
+- *« Il n'y a aucun doute qu'elle **réussira**. »* (Here the indicative is usual: the speaker presents the outcome as a certainty).
 
 ### Assignment
 
