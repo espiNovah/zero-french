@@ -1,10 +1,10 @@
 ### Introduction
 
-When English speakers look at written French, their most frequent complaint is: *"Why are half the letters written if they aren't pronounced?"* A word like *beaux* has five letters but only two sounds (/bo/); *ils parlent* has ten letters but only four sounds (/paʁl/). French spelling reflects centuries of historical etymology, preserving Latin roots on the page while the spoken language streamlined its acoustic rhythm.
+When English speakers look at written French, their most frequent complaint is: *"Why are half the letters written if they aren't pronounced?"* A word like *beaux* has five letters but only two sounds (/bo/); *parlent* has seven letters but only four sounds (/paʁl/). French spelling reflects centuries of historical etymology, preserving Latin roots on the page while the spoken language streamlined its acoustic rhythm.
 
 However, French pronunciation is not chaotic. It operates under two rigorous, predictable systems: the **silent final consonant rule** and the phenomenon of **la liaison**. Understanding when a consonant is silent—and when it suddenly awakens to link smoothly into the next word—is the defining milestone that separates halting, syllable-by-syllable foreign speech from fluid, native-sounding French.
 
-For the TCF Canada candidate, silent letters and liaisons carry massive communicative weight. In the *Compréhension orale* (Listening) exam, acoustic links dictate grammatical meaning: hearing `/il sɔ̃/` means "they are" (*ils sont*), while hearing `/il.z‿ɔ̃/` means "they have" (*ils ont*). In *Expression orale* (Speaking), making mandatory liaisons and avoiding forbidden ones is an explicit benchmark evaluated under the France Éducation international (FEI) pronunciation rubric.
+For the TCF Canada candidate, silent letters and liaisons carry massive communicative weight. In the *Compréhension orale* (Listening) exam, acoustic links dictate grammatical meaning: hearing `/il sɔ̃/` means "they are" (*ils sont*), while hearing `/il.z‿ɔ̃/` means "they have" (*ils ont*). In *Expression orale* (Speaking), making mandatory liaisons and avoiding forbidden ones helps the examiner understand you easily, and clear pronunciation is part of how your speaking is judged.
 
 In this lesson, you will master the **CaReFuL** rule for final consonants, understand silent **E** elisions, master the sound shifts of French liaisons (when *s* becomes /z/ and *d* becomes /t/), memorize mandatory versus forbidden liaison environments, and discover the unique consonant cadences of Canadian French.
 
@@ -28,7 +28,7 @@ As a general fundamental rule of standard French: **consonants at the very end o
 Observe these silent endings in everyday vocabulary:
 - **D** is silent: *chaud* (/ʃo/ — *hot*), *grand* (/ɡʁɑ̃/ — *tall/big*), *tard* (/taʁ/ — *late*)
 - **P** is silent: *beaucoup* (/bo.ku/ — *a lot*), *trop* (/tʁo/ — *too much*)
-- **S** is silent: *français* (/fʁɑ̃.sɛ/ — *French*), *les amis* (/le.z‿a.mi/ — *friends*), *trois* (/tʁwa/ — *three*)
+- **S** is silent: *français* (/fʁɑ̃.sɛ/ — *French*), *les chats* (/le ʃa/ — *the cats*), *trois* (/tʁwa/ — *three*)
 - **T** is silent: *petit* (/pə.ti/ — *small*), *le lit* (/lə li/ — *bed*), *le chat* (/lə ʃa/ — *cat*)
 - **X** is silent: *deux* (/dø/ — *two*), *la voix* (/la vwa/ — *voice*), *le prix* (/lə pʁi/ — *price*)
 - **Z** is silent: *le nez* (/lə ne/ — *nose*), *chez* (/ʃe/ — *at the home of*), *vous parlez* (/vu paʁ.le/ — *you speak*)
@@ -154,7 +154,7 @@ Making a liaison in these environments sounds jarring and uneducated to native s
    - *Le train‿arrive.* → ✗ NEVER link! Pronounce: `/lə tʁɛ̃ a.ʁiv/`. (Liaison only occurs after pronouns: *Il‿arrive*).
 
 3. **Before an "Aspirated H" (H aspiré)**:
-   - While silent *h* allows liaison (*les‿hommes* /le.z‿ɔm/), words beginning with historical Germanic *h* block liaison and elision:
+   - While silent *h* allows liaison (*les‿hommes* /le.z‿ɔm/), words beginning with an aspirated *h* (*h aspiré*) block liaison and elision:
      - *les héros* (/le e.ʁo/ — *the heroes*; never /le.z‿e.ʁo/!)
      - *en haut* (/ɑ̃ o/ — *upstairs/at the top*)
      - *le haricot* (/lə a.ʁi.ko/ — *the bean*)
@@ -175,7 +175,7 @@ Making a liaison in these environments sounds jarring and uneducated to native s
 When you arrive in Montreal, Gatineau, or Quebec City, you will immediately notice that spoken Canadian French has a energetic, rhythmic cadence. One of the primary phonetic features of Canadian French is **consonant affrication**.
 
 #### The Rule of Affrication:
-In Québec French and across French Canada, whenever the dental consonants **T** and **D** appear immediately before the high front vowels **/i/** or **/y/** (or their corresponding glides **/j/** and **/ɥi/**), they are pronounced with an added sibilant friction:
+In Québec French and across French Canada, whenever the dental consonants **T** and **D** appear immediately before the high front vowels **/i/** or **/y/** (or their corresponding glides **/j/** and **/ɥ/**), they are pronounced with an added sibilant friction:
 - **T + /i/ or /y/** becomes **/ts/**:
   - **tu** (/ty/) sounds like **/tsy/** **(QC)**
   - **petit** (/pə.ti/) sounds like **/pə.tsi/** **(QC)**
@@ -191,7 +191,7 @@ This is not "slang"; it is the natural, standard phonological accent of educated
 
 #### Québec vs France
 
-In European French, *tu dis* is pronounced with crisp dental consonants: `/ty di/`. In Canadian French **(QC)**, native speakers pronounce it with natural affrication: `/tsy dzi/`. When taking the TCF Canada listening examination, recognizing this affricated *t* and *d* will help you instantly recognize common words like *tu*, *du*, *matin*, and *midi*.
+In European French, *tu dis* is pronounced with crisp dental consonants: `/ty di/`. In Canadian French **(QC)**, native speakers pronounce it with natural affrication: `/tsy dzi/`. When taking the TCF Canada listening examination, recognizing this affricated *t* and *d* will help you instantly recognize common words like *tu*, *du*, *petit*, and *midi*.
 
 </div>
 
@@ -199,7 +199,7 @@ In European French, *tu dis* is pronounced with crisp dental consonants: `/ty di
 
 #### Exam tip
 
-In TCF Canada Speaking Task 1 and 2, examiners do not require you to imitate a Canadian or European accent—any standard Francophone accent is accepted. However, examiners **strictly penalize missing mandatory liaisons** (e.g. failing to say `/vu.z‿a.le/` or `/le.z‿ɑ̃.fɑ̃/`) and making **forbidden liaisons** (such as linking after *et*). Focus your efforts on mastering the rules of liaison rather than imitating regional accents.
+In TCF Canada Speaking Task 1 and 2, examiners do not require you to imitate a Canadian or European accent—any standard Francophone accent is accepted. However, **missing mandatory liaisons** (e.g. failing to say `/vu.z‿a.le/` or `/le.z‿ɑ̃.fɑ̃/`) and making **forbidden liaisons** (such as linking after *et*) make your speech harder to follow and weaken the impression your pronunciation makes. Focus your efforts on mastering the rules of liaison rather than imitating regional accents.
 
 </div>
 

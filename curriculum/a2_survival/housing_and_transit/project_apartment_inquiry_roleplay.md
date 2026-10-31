@@ -4,12 +4,12 @@ In this project, you will execute a complete, unscripted simulation of the singl
 
 In the official exam, the examiner hands you a short prompt containing a document (such as a classified rental ad, a sports club notice, or a job posting). You have exactly **2 minutes to prepare your questions**, followed by a **3.5-minute recorded interaction** with the examiner.
 
-Under official France Éducation international (FEI) guidelines:
-- **You must lead the conversation**: The examiner acts as the landlord or agent and will answer your questions, but will never guide you or prompt you if you run out of things to say.
-- **You must maintain formal vouvoiement**: Speaking with informal *tu* or using overly casual phrasing (*« C'est combien ? »*) caps your score at Level A1.
-- **You must ask at least 8 to 10 distinct, relevant questions**: Repeating the same question or falling silent before the 3.5-minute timer expires incurs heavy penalties under *Aisance et fluidité*.
+Practical advice for this task (study guidance, not official FEI rules):
+- **Lead the conversation**: The examiner plays the landlord or agent and answers your questions. Do not count on them to keep the exchange going for you.
+- **Use formal vouvoiement**: In a call to a landlord you do not know, *vous* is the appropriate register. Overly casual phrasing (*« C'est combien ? »*) makes your French sound less appropriate to the situation.
+- **Prepare plenty of distinct, relevant questions** (aiming for 8 to 10 is a useful practice target): repeating the same question or falling silent early weakens your performance.
 
-Completing this project will provide verifiable audio evidence in your portfolio that your oral questioning skills have stabilized at the **A2/B1 threshold (NCLC 5)**.
+Completing this project will provide verifiable audio evidence in your portfolio that your oral questioning skills have stabilized at the **A2/B1 threshold**.
 
 ### Before you start
 
@@ -24,7 +24,7 @@ Before starting your roleplay simulation, set up your physical and digital testi
 
 <div class="lesson-content__panel" markdown="1">
 
-1. **Step 1: Read the Official Exam Prompt Document**  
+1. **Step 1: Read the Exam Prompt Document**  
    Carefully examine the simulated TCF Speaking Task 2 prompt below:
 
    > **Épreuve d'expression orale — Tâche 2**  
@@ -67,7 +67,7 @@ Save and archive the following three tangible artifacts in your study portfolio:
 
 #### Scoring Rubric
 
-Evaluate your oral performance against the official France Éducation international (FEI) criteria for TCF Speaking Task 2 (adapted for A2/B1 evaluation, Total: 20 points):
+Evaluate your oral performance with this **unofficial self-assessment rubric** for TCF Speaking Task 2 practice (designed for this course, not an FEI grid; Total: 20 points):
 
 | Criterion | 0–1 points (Below A2) | 2–3 points (Emerging A2) | 4–5 points (Mastered A2/B1 Benchmark) |
 | :--- | :--- | :--- | :--- |
@@ -78,15 +78,17 @@ Evaluate your oral performance against the official France Éducation internatio
 
 **Score Conversion**:
 - **0–9 points**: Below A2 (Needs reinforcement of question formulas)
-- **10–14 points**: Solid A2 (NCLC 4–5 equivalent)
-- **15–20 points**: Strong A2 / Solid B1 (NCLC 6 equivalent — Excellent exam readiness)
+- **10–14 points**: Solid A2
+- **15–20 points**: Strong A2 / Solid B1
+
+(These self-assessment bands are not TCF scores and have no NCLC equivalent; only an official TCF result can give you an NCLC level.)
 
 #### AI Self-Assessment Prompt
 
 Transcribe your audio recording (using automated speech-to-text or manual transcription) and paste it into an AI assistant with the following calibrated prompt:
 
 ```text
-You are a certified France Éducation international (FEI) oral examiner evaluating a candidate's performance on Task 2 of the TCF Canada Speaking Test (Expression orale — Tâche 2: Exercice en interaction).
+You are an experienced TCF Canada speaking tutor evaluating a candidate's practice performance on Task 2 of the TCF Canada Speaking Test (Expression orale — Tâche 2: Exercice en interaction).
 
 Scenario: Candidate inquiries about an apartment rental with a landlord during a 3.5-minute interaction.
 

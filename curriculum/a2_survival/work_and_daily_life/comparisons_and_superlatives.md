@@ -4,9 +4,9 @@ In everyday life and professional decision-making, you are constantly called upo
 
 In French, evaluating differences and making choices requires mastering **comparatives and superlatives** (*les comparatifs et les superlatifs*).
 
-On the **TCF Canada examination**, comparison structures are a mandatory requirement across all four evaluation modules:
-- In **Writing (*Expression écrite*) Task 2 (120–150 words)**, candidates are routinely asked to compare two situations: comparing living in the city versus the country, working from home versus going to the office, or comparing a previous job with a current position. Using precise comparative formulas (*plus... que, moins... que, autant de... que*) is essential for achieving a B1/B2 score under *Cohérence et cohésion*.
-- In **Speaking (*Expression orale*) Task 3 (unscripted opinion monologue)**, the examiner will prompt you to analyze alternatives: *« Pensez-vous qu'il est préférable de louer ou d'acheter son logement ? »* (*Do you think it is preferable to rent or buy one's home?*).
+On the **TCF Canada examination**, comparison structures are useful across all four evaluation modules:
+- In **Writing (*Expression écrite*) Task 2 (120–150 words)**, candidates are routinely asked to compare two situations: comparing living in the city versus the country, working from home versus going to the office, or comparing a previous job with a current position. Using precise comparative formulas (*plus... que, moins... que, autant de... que*) helps you build a clear, well-organized text.
+- In **Speaking (*Expression orale*) Task 3 (expressing a point of view, with no preparation; the examiner may intervene)**, the topic may ask you to analyze alternatives: *« Pensez-vous qu'il est préférable de louer ou d'acheter son logement ? »* (*Do you think it is preferable to rent or buy one's home?*).
 - In **Reading (*Compréhension écrite*)**, consumer product reviews, economic reports comparing provincial tax rates, and classified real-estate summaries test your ability to determine which option is the most economical or convenient.
 
 In this lesson, you will master the distinct formulas for comparing adjectives, adverbs, nouns, and verbs, conquer the notorious **meilleur versus mieux** trap, learn to construct superlatives, and practice comparing career and lifestyle options in Canada.
@@ -102,7 +102,7 @@ In comparisons with verbs, the final **-s** of **plus** is **pronounced** as **/
 
 ### Irregular comparatives: the meilleur versus mieux trap
 
-The single most common comparative error made by foreign language learners on the TCF Canada is confusing **meilleur** and **mieux**.
+A very common comparative error made by learners of French is confusing **meilleur** and **mieux**.
 
 French does not permit saying *"plus bon"* or *"plus bien"*. Instead, you must use their dedicated irregular comparative forms:
 
@@ -165,7 +165,7 @@ In Québec colloquial French, you will encounter colorful expressions using comp
 - **Pas pire** **(QC)** (/pa piʁ/): Literally meaning "not worse", this is ubiquitous Canadian slang for *"pretty good"*, *"not bad"*, or *"decent"*:
   > *« Comment tu trouves ton nouvel appart ? — Pas pire pantoute ! »* **(QC)**  
   > (Meaning: *"How do you like your new apartment? — Pretty good, not bad at all!"*)
-- **Bien pire** (/bjɛ̃ piʁ/): Widely used to emphasize that a situation is far worse:
+- **Bien pire** (/bjɛ̃ piʁ/): Not a Québec expression but standard French everywhere, used to emphasize that a situation is far worse:
   > *« L'hiver à Winnipeg est bien pire qu'à Vancouver ! »*
 
 On the TCF Canada exam, use standard comparatives (*très satisfaisant, bien supérieur*) in your writing, but recognizing *pas pire* will help your ear on informal Canadian listening dialogues!
@@ -176,15 +176,15 @@ On the TCF Canada exam, use standard comparatives (*très satisfaisant, bien sup
 
 #### Exam tip: TCF Writing Task 2 Comparison Blueprint
 
-On **TCF Writing Task 2 (120–150 words)**, comparison prompts are among the most frequent (e.g. *« Vous écrivez à un ami pour comparer votre vie dans votre pays d'origine et votre nouvelle vie au Canada »*).
+On **TCF Writing Task 2 (120–150 words)**, comparison prompts are common (e.g. *« Vous écrivez à un ami pour comparer votre vie dans votre pays d'origine et votre nouvelle vie au Canada »*).
 
-To score at Level B2:
+To show a wide grammatical range:
 1. **Compare Qualities (Adjectives)**: *« Le rythme de vie ici est plus calme et l'air est plus pur qu'auparavant. »*
 2. **Compare Quantities (Nouns)**: *« Même si j'ai moins de temps libre, j'ai plus d'opportunités professionnelles. »*
 3. **Use Irregular Forms**: *« Le système de transport en commun est bien meilleur et les services publics fonctionnent mieux. »*
-4. **Conclude with a Superlative**: *« C'est la meilleure décision que j'ai prise pour l'avenir de ma famille. »*
+4. **Conclude with a Superlative**: *« C'est la meilleure décision que j'aie prise pour l'avenir de ma famille. »* (After a superlative, the relative clause preferably takes the subjunctive: *que j'aie prise*.)
 
-Demonstrating this complete grammatical spectrum in a single 130-word text fulfills the highest tier of the FEI lexical and morphosyntactic criteria!
+Demonstrating this complete grammatical spectrum in a single 130-word text shows the examiner real range in both vocabulary and grammar!
 
 </div>
 

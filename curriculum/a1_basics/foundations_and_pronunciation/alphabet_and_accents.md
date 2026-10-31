@@ -2,7 +2,7 @@
 
 Every language journey begins with the alphabet, but in French, mastering the letters is far more than an academic exercise—it is a critical daily survival skill. As an immigrant in Canada, you will be asked to spell your personal information on an almost daily basis. From registering for provincial health insurance (RAMQ in Québec or OHIP in Ontario) to opening a bank account, setting up your mobile phone plan, and confirming your reservation at a clinic, administrative agents will routinely ask: *"Pouvez-vous épeler votre nom, s'il vous plaît ?"* (*Can you spell your name, please?*).
 
-For the TCF Canada candidate, alphabet mastery has immediate score implications. In the first eight items of the *Compréhension orale* (Listening) section, examiners regularly test candidates with brief recorded telephone messages, voicemail bookings, and reception dialogues where names, email addresses, street names, or alphanumeric reference codes are spelled out letter-by-letter. If you confuse **E** with **I**, or **G** with **J**, you will select the wrong multiple-choice answer.
+For the TCF Canada candidate, alphabet mastery has immediate score implications. The *Compréhension orale* (Listening) section starts with easier items, and everyday recordings such as telephone messages, voicemail bookings, and reception dialogues can include names, email addresses, street names, or reference codes spelled out letter by letter. If you confuse **E** with **I**, or **G** with **J**, you will select the wrong multiple-choice answer.
 
 In this lesson, you will master the exact pronunciation of all 26 letters of the French alphabet, explore the deceptive English-French letter traps, learn how the five French accents (*l'accent aigu*, *l'accent grave*, *l'accent circonflexe*, *le tréma*, and *la cédille*) transform sounds and meanings, and practice spelling real Canadian postal codes, names, and email addresses according to authentic Francophone conventions.
 
@@ -55,7 +55,7 @@ Observe the full phonetic inventory of the 26 French letters:
 
 ### The three classic letter traps for English speakers
 
-English speakers instinctively stumble over three specific clusters when hearing or reciting letters in French. Memorizing these three contrasts will eliminate 90% of spelling errors on the TCF Canada exam.
+English speakers instinctively stumble over three specific clusters when hearing or reciting letters in French. Memorizing these three contrasts will eliminate most of the letter-name errors English speakers make.
 
 #### Trap 1: The G versus J Inversion
 In English, the letter **G** sounds like "jee" and **J** sounds like "jay." In French, this relationship is **completely reversed**:
@@ -69,7 +69,7 @@ When a French speaker spells the name *Gilles* (G-I-L-L-E-S), an English speaker
 #### Trap 2: The E, I, and U Vowel Confusion
 English vowel names mislead foreign learners:
 - In English, the letter **E** is pronounced "ee." In French, "ee" is the letter **I** (/i/)!
-- In French, the letter **E** is pronounced with rounded lips: **/ə/** (similar to the vowel sound in English "her" or "the").
+- In French, the letter **E** is pronounced as a neutral, relaxed vowel: **/ə/** (similar to the vowel sound in English "her" or "the").
 - The French letter **U** has no equivalent in English: **/y/**. To produce it, place your tongue as if pronouncing /i/ ("ee"), but round your lips tightly as if pronouncing /u/ ("oo").
 
 | Spoken Sound | French Letter to Write | Common English Mistake |
@@ -125,7 +125,7 @@ French uses five diacritical marks (accents). Accents in French are **not decora
   - *forêt* (formerly *forest*)
   - *hôtel* (formerly *hostel*)
   - *château* (formerly *chastel*)
-- **Phonetic Impact**: On *ê* and *ô*, it creates an open, slightly prolonged vowel sound (*la fête* /la fɛt/, *l'hôtel* /lo.tɛl/).
+- **Phonetic Impact**: On *ê*, it creates an open vowel /ɛ/ (*la fête* /la fɛt/). On *ô*, it creates a closed vowel /o/ (*l'hôtel* /lo.tɛl/, *hôtel* /o.tɛl/). On *î* and *û*, it does not change the sound.
 
 #### 4. Le tréma (The Diaeresis: ë, ï, ü)
 - **Appearance**: Two horizontal dots placed over the second of two adjacent vowels: **ë, ï, ü**.
@@ -137,7 +137,7 @@ French uses five diacritical marks (accents). Accents in French are **not decora
 #### 5. La cédille (The Cedilla: ç)
 - **Appearance**: A small tail attached underneath the letter **C**: **ç**.
 - **Rule**: In French, the letter *c* sounds like /k/ ("hard c") before the vowels *a, o, u* (*café*, *collègue*, *cuisine*). To force a soft /s/ sound before *a, o, u*, French adds a cédille:
-  - **français** (/fʁɑ̃.sɛ/) — without the cédille, it would sound like *"franka"*!
+  - **français** (/fʁɑ̃.sɛ/) — without the cédille, it would sound like *"frankè"* (/fʁɑ̃.kɛ/)!
   - **le garçon** (/lə ɡaʁ.sɔ̃/) — boy / waiter
   - **ça va** (/sa va/) — it's going well
 - The cédille is **never** used before *e* or *i*, because *c* is already naturally soft before those vowels (*merci*, *ceci*).
@@ -186,7 +186,7 @@ In Canada, postal codes consist of six alphanumeric characters in the format **A
 
 #### Québec vs France
 
-In France, the standard keyboard layout is **AZERTY**, where the top row starts with A-Z-E-R-T-Y and numbers require pressing the Shift key. In Québec and across Canadian federal offices, the standard keyboard is **QWERTY Canadian Multilingual** (often called *le clavier canadien-français*). It retains the standard QWERTY layout for fast English typing, but provides direct, dedicated keys for **é**, **è**, **à**, and **ç**. Learning this Canadian keyboard layout will dramatically boost your typing speed for TCF Writing Task 1, 2, and 3.
+In France, the standard keyboard layout is **AZERTY**, where the top row starts with A-Z-E-R-T-Y and numbers require pressing the Shift key. In Canada, you will meet two different QWERTY-based layouts: **Canadian French** (CA-FR, *le clavier canadien-français*) and **Canadian Multilingual Standard** (CMS). Both keep the QWERTY letter positions familiar to English typists while giving fast access to French accented letters such as **é**, **è**, **à**, and **ç**, but the keys are not in the same places. The layout used at your test centre is not published, so ask the centre in advance. Practising on one of these layouts will boost your typing speed for TCF Writing Tasks 1, 2, and 3.
 
 </div>
 
@@ -194,7 +194,7 @@ In France, the standard keyboard layout is **AZERTY**, where the top row starts 
 
 #### Exam tip
 
-In TCF Canada Listening items 1 to 6, audio prompts frequently feature a receptionist writing down a caller's name or reservation code: *"Votre nom s'écrit bien D-U-P-O-N-T ?"* Listen for final consonant traps (*T* vs *D* vs *S*) and vowel traps (*E* vs *I*). Train your ear so that hearing `/ʒi/` instantly triggers **J** and hearing `/ʒe/` instantly triggers **G**.
+In the early, easier TCF Canada Listening items, audio prompts may feature a receptionist writing down a caller's name or reservation code: *"Votre nom s'écrit bien D-U-P-O-N-T ?"* Listen for final consonant traps (*T* vs *D* vs *S*) and vowel traps (*E* vs *I*). Train your ear so that hearing `/ʒi/` instantly triggers **J** and hearing `/ʒe/` instantly triggers **G**.
 
 </div>
 
@@ -218,7 +218,7 @@ In TCF Canada Listening items 1 to 6, audio prompts frequently feature a recepti
 
    1. **Gilles** (Notice that */ʒe/* is the letter **G** in French, followed by *I* (/i/), *L*, *L*, *E* (/ə/), *S*).
    2. **H3A 2G5** (*H-3-A 2-G-5* — remember that */ʒe/* is the letter **G**).
-   3. The cédille (**ç**) softens the letter *c* to an /s/ sound before the hard vowel *a*. Without the cédille, it would be pronounced with a hard /k/ sound (*"franka"*).
+   3. The cédille (**ç**) softens the letter *c* to an /s/ sound before the hard vowel *a*. Without the cédille, it would be pronounced with a hard /k/ sound (*"frankè"*, /fʁɑ̃.kɛ/).
    4. **à** (*Je vais à Montréal* — with a grave accent, indicating the preposition "to/at", rather than the verb form *a* "has").
    5. The *tréma* indicates that the two adjacent vowels (*a* and *i*) must be pronounced separately in two distinct syllables (*na-ïf*), rather than combined into a single vowel sound.
    6. **Arobase** (/a.ʁɔ.baz/ is the universal French term for the @ symbol).

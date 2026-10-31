@@ -54,7 +54,7 @@ Take extreme care with oral pronunciation and auditory comprehension on the TCF:
 - **Ils ont parlé** (/il.z‿ɔ̃ paʁ.le/) uses a voiced **/z/** liaison: the sound is **/il.z‿ɔ̃/**. This means *They have spoken*.
 - **Ils sont partis** (/il sɔ̃ paʁ.ti/) uses an unvoiced **/s/**: the sound is **/il sɔ̃/**. This means *They have left*.
 
-Conflating the nasal auxiliary **/ɔ̃/** (*ont*) with **/sɔ̃/** (*sont*) is one of the most common A2 listening exam traps!
+Conflating the nasal auxiliary **/ɔ̃/** (*ont*) with **/sɔ̃/** (*sont*) is a classic listening trap!
 
 </div>
 
@@ -147,7 +147,7 @@ Many of the most common verbs in daily French are irregular in the past particip
 
 #### Québec vs France
 
-In both France and Québec, the verb **magasiner** **(QC)** is regular: its participle is **magasiné** (/ma.ɡa.zi.ne/). In Québec conversations, you will hear:
+The Québec verb **magasiner** **(QC)** is a regular -er verb: its participle is **magasiné** (/ma.ɡa.zi.ne/). In Québec conversations, you will hear:
 > **J'ai magasiné tout l'après-midi au centre-ville.** — /ʒ‿e ma.ɡa.zi.ne tu l‿a.pʁɛ.mi.di o sɑ̃.tʁə.vil/  
 > *I shopped all afternoon downtown.*
 
@@ -156,7 +156,7 @@ In European French, a speaker would say: *« J'ai fait du shopping »* or *« J'
 Additionally, in spoken informal French on both sides of the Atlantic, speakers frequently use the auxiliary *avoir* with *été* to express going somewhere:
 > **J'ai été à la banque ce matin.** (Colloquial) = **Je suis allé à la banque ce matin.** (Standard formal)
 
-On the TCF Writing exam, always adhere to the standard formal rule: verbs of motion take **être**, not *avoir été*!
+On the TCF Writing exam, always adhere to the standard rule: *aller* takes **être** (*je suis allé*), not *avoir été*. Careful, though: only the verbs on the *être* list do this. Many other verbs of motion, such as *marcher*, *courir*, *voyager* or *nager*, take **avoir** (*j'ai marché*, *nous avons voyagé*).
 
 </div>
 
@@ -228,7 +228,7 @@ If the scenario involves past events (e.g. asking a former tenant about their ex
 - *« Pendant combien d'années avez-vous habité dans cet appartement ? »* (/pɑ̃.dɑ̃ kɔ̃.bjɛ̃ d‿a.ne a.ve vu a.bi.te dɑ̃ sɛ.t‿a.paʁ.tə.mɑ̃/ — *For how many years did you live in this apartment?*)
 - *« Avez-vous rencontré des problèmes avec le propriétaire ? »* (/a.ve vu ʁɑ̃.kɔ̃.tʁe de pʁɔ.blɛm a.vɛk lə pʁɔ.pʁi.je.tɛʁ/ — *Did you encounter problems with the landlord?*)
 
-Examiners award top marks under the *Correction morphosyntaxique* criterion when candidates fluidly invert compound tenses!
+Correctly inverting compound tenses shows the examiner solid grammatical control!
 
 </div>
 

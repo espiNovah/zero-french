@@ -2,13 +2,13 @@
 
 In this project, you will produce your very first formal writing performance: a 60–120 word email describing your daily routine and living area that directly mirrors **Task 1 of the TCF Canada Writing test (*Expression écrite — Tâche 1: Rédaction d'un court message*)**.
 
-In the official computer-based exam (**TCF-SO**), candidates must complete three written tasks in 60 minutes. Task 1 is always a friendly or practical message (such as writing to a friend, colleague, or landlord) asking for or providing information about daily life, events, or routine arrangements. France Éducation international (FEI) examiners strictly penalize responses that fail to reach the **60-word minimum boundary**, while evaluating your ability to sequence present actions, use basic connectors, and apply correct verb endings.
+In the computer-based exam (**TCF-SO**), candidates must complete three written tasks in 60 minutes. Task 1 is typically a friendly or practical message (such as writing to a friend, colleague, or landlord) asking for or providing information about daily life, events, or routine arrangements. Staying within the **60–120 word range** matters: length and copying from the prompt affect how well you complete the task. The examiner also looks at your ability to sequence present actions, use basic connectors, and apply correct verb endings.
 
 Completing this project will provide the second major tangible benchmark in your language portfolio—proof that you can compose coherent written French under strict exam timing and word-count constraints without relying on translation tools or automated spellcheck.
 
 ### Before you start
 
-Before starting your writing session, set up your physical and digital environment to simulate official TCF-SO examination conditions:
+Before starting your writing session, set up your physical and digital environment to simulate computer-based (TCF-SO) exam conditions:
 
 - **Disable Autocorrect & Grammar Tools**: Open a plain text editor (such as TextEdit, Notepad, or a simple online editor) and disable spellcheck, auto-capitalization, and browser translation plugins. In the actual TCF exam, the computer interface provides an unassisted text box with no spellchecker.
 - **Physical Keyboard Configuration**: Ensure you know how to type French accents (*é, è, ê, à, ç*) on your keyboard layout (e.g. Canadian Multilingual Standard or US International).
@@ -19,7 +19,7 @@ Before starting your writing session, set up your physical and digital environme
 
 <div class="lesson-content__panel" markdown="1">
 
-1. **Step 1: Read the Official Exam Prompt**  
+1. **Step 1: Read the Practice Exam Prompt**  
    Carefully read the simulated TCF Canada Writing Task 1 prompt below:
 
    > **Épreuve d'expression écrite — Tâche 1**  
@@ -37,10 +37,10 @@ Before starting your writing session, set up your physical and digital environme
 
 3. **Step 3: Exact Word Count Audit & Proofreading**  
    Once your timer rings or you complete your draft, highlight your text and count every word.
-   - **French Word Counting Rule**: On the TCF Canada, every cluster of letters separated by a space or hyphen/apostrophe counts as a word. For example:
-     - *J'habite* = 2 words (*J'* + *habite*)
-     - *c'est-à-dire* = 4 words
-     - *s'il vous plaît* = 4 words (*s'* + *il* + *vous* + *plaît*)
+   - **French Word Counting Rule**: Following the FEI/DELF convention, a word is any string between two spaces (confirm in the current TCF Canada candidate guide). For example:
+     - *J'habite* = 1 word
+     - *c'est-à-dire* = 1 word
+     - *s'il vous plaît* = 3 words (*s'il* + *vous* + *plaît*)
    - Verify that your text contains **at least 60 words and no more than 120 words**. If you wrote 55 words, you must add a sentence before archiving; if you wrote 130 words, you must trim details to stay within the ceiling.
 
 #### Evidence
@@ -53,28 +53,30 @@ Save and archive the following three items in your study directory:
 
 #### Scoring Rubric
 
-Evaluate your written submission against the official France Éducation international (FEI) criteria for TCF Writing Task 1 (adapted for A1/A2 benchmark scoring, total: 20 points):
+Evaluate your written submission with this unofficial self-assessment rubric for an A1/A2 benchmark (total: 20 points). It is not an FEI grid; the real TCF Canada gives one overall writing score /20 for all three tasks.
 
 | Criterion | 0–1 points (Below A1) | 2–3 points (Emerging A1) | 4–5 points (Mastered A1 Benchmark) |
 | :--- | :--- | :--- | :--- |
-| **1. Respect de la consigne (Task Completion)** | Fewer than 45 words; fails to describe routine or neighborhood; no invitation. | 45–59 words (penalized for word count) OR omits one major requirement (routine, places, or invite). | 60–120 words; covers routine, neighborhood landmarks, and invitation with appropriate greeting and closing. |
+| **1. Respect de la consigne (Task Completion)** | Fewer than 45 words; fails to describe routine or neighborhood; no invitation. | 45–59 words (below the task's range) OR omits one major requirement (routine, places, or invite). | 60–120 words; covers routine, neighborhood landmarks, and invitation with appropriate greeting and closing. |
 | **2. Cohérence et organisation (Cohesion)** | Disjointed list of words; no connectors; lack of paragraph structure. | Simple statements linked only by *et*; basic chronological sequence attempted. | Clear sequence (*le matin, puis, le soir*); uses basic connectors (*et, mais, aussi, parce que*). |
 | **3. Lexique (Vocabulary)** | Severe vocabulary deficit; frequent English words; incorrect basic nouns. | Sufficient everyday words for routine, but limited variety; spelling errors obscure meaning. | Varied, accurate vocabulary for daily routine, municipal landmarks (*parc, station, dépanneur*), and mealtimes. |
 | **4. Morphosyntaxe (Grammar & Accents)** | Pervasive conjugation errors prevent comprehension; subject-verb agreement absent. | Basic regular *-er* verbs partially accurate; struggles with irregulars (*aller, faire*); missing accents. | Accurate present tense conjugations (*-e, -es, -ons, -ez, -ent*); correct spatial contractions (*du, de la*); accurate basic accents. |
 
 **Score Conversion**:
 - **0–7 points**: Below A1 (Severe word count or grammar failure)
-- **8–14 points**: Solid A1 (NCLC 1–2 equivalent)
-- **15–20 points**: Strong A1 / Transition to A2 (NCLC 3 equivalent)
+- **8–14 points**: Solid A1
+- **15–20 points**: Strong A1 / Transition to A2
+
+These bands describe this home-made rubric only; they do not convert to a TCF score or an NCLC level.
 
 #### AI Self-Assessment Prompt
 
-Copy and paste your unassisted text into an AI assistant using the following calibrated FEI prompt:
+Copy and paste your unassisted text into an AI assistant using the following prompt:
 
 ```text
-You are a certified France Éducation international (FEI) examiner evaluating Task 1 of the TCF Canada Writing Test (Expression écrite — Tâche 1: Rédaction d'un court message).
+You are an experienced TCF Canada writing coach evaluating a learner's practice text modelled on Task 1 of the TCF Canada Writing Test (Expression écrite — Tâche 1: Rédaction d'un court message).
 
-Candidate Target: A1 Benchmark (Foundation for NCLC 7 pathway)
+Candidate Target: A1 Benchmark
 Task: 60–120 word friendly message describing a new daily routine, neighborhood landmarks, and extending an invitation.
 Timing Constraint: 15 minutes without autocorrect.
 
@@ -83,8 +85,8 @@ Here is the exact unedited text submitted by the candidate:
 [PASTE YOUR WRITTEN TEXT HERE]
 """
 
-Perform a rigorous evaluation following these steps:
-1. Exact Word Count: Count the words using official FEI rules (elided words like "j'habite" count as 2 words). State whether the candidate respects the 60–120 word boundary.
+Perform a rigorous evaluation following these steps (an unofficial self-assessment rubric, not an FEI grid):
+1. Exact Word Count: Count the words using the FEI/DELF convention (a word is any string between two spaces, so "j'habite" counts as 1 word). State whether the candidate respects the 60–120 word boundary.
 2. Criterion 1: Respect de la consigne et volume (0 to 5 points)
 3. Criterion 2: Cohérence et cohésion textuelle (0 to 5 points)
 4. Criterion 3: Étendue et correction du lexique (0 to 5 points)

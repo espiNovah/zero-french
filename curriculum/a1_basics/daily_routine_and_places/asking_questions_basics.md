@@ -2,7 +2,7 @@
 
 In any language, making statements allows you to share information, but asking questions gives you control of the conversation. In daily life as an immigrant in Canada, asking questions is how you rent an apartment, find your platform at the train station, ask about bus transfers, inquire about banking fees, and clarify instructions at your job.
 
-On the TCF Canada exam, asking questions is not simply one useful skill among many—it is the **sole focus of an entire exam section: Speaking Task 2 (*Expression orale — Exercice en interaction*)**. In this task, you are given an everyday document (such as a job posting, an apartment rental ad, or a fitness center brochure) and you have **2 minutes of preparation** to organize your thoughts, followed by **3 minutes and 30 seconds of live, interactive roleplay** where you must ask the examiner 10 to 15 pertinent questions. Candidates who only know how to answer questions inevitably freeze and fail Task 2.
+On the TCF Canada exam, asking questions is not simply one useful skill among many—it is the **central skill of an entire exam task: Speaking Task 2 (*Expression orale — Exercice en interaction*)**. In this task, you are given an everyday document (such as a job posting, an apartment rental ad, or a fitness center brochure) and you have **2 minutes of preparation** to organize your thoughts, followed by **3 minutes and 30 seconds of live, interactive roleplay** where you must ask the examiner relevant questions to get the information you need. Candidates who only know how to answer questions tend to freeze in Task 2.
 
 In this lesson, you will master the mechanics of French interrogation. You will learn the three distinct registers for forming questions (rising intonation, the universal formula *est-ce que*, and formal subject-verb inversion), master the complete set of French question words (*qui, que, où, quand, comment, pourquoi, combien*), understand the interrogative adjective *quel*, and learn how to formulate polite, high-scoring questions tailored specifically to TCF Canada scenarios.
 
@@ -117,8 +117,9 @@ Here are the essential interrogatives every candidate must master:
 | **Que / Qu'est-ce que** | /kə/, /kɛs.kə/ | What | **Qu'est-ce que vous cherchez ?** — *What are you looking for?* |
 | **Quoi** | /kwa/ | What (after preposition or at end) | **Vous parlez de quoi ?** — *What are you talking about?* |
 
-> **Phonetic Note on Quand**: When *quand* is followed by a vowel in liaison, the silent *d* is pronounced as a clean **/t/** sound:
-> - **Quand arrive-t-il ?** is pronounced `/kɑ̃.t‿a.ʁiv.til/`.
+> **Phonetic Note on Quand**: When *quand* links to a following vowel, the silent *d* is pronounced as a clean **/t/** sound. This liaison is made in *quand est-ce que*, but not before an inverted verb:
+> - **Quand est-ce que tu arrives ?** is pronounced `/kɑ̃.t‿ɛs.kə ty a.ʁiv/`.
+> - **Quand arrive-t-il ?** is pronounced `/kɑ̃ a.ʁiv.til/` (no liaison).
 
 ### Asking about quantities and reasons: Combien and Pourquoi
 
@@ -156,7 +157,7 @@ Because *quel* is an adjective, it must **agree in gender and number** with the 
 | **quels** | Masculine Plural | /kɛl/ | **Quels documents sont nécessaires ?**| Which documents are required? |
 | **quelles** | Feminine Plural | /kɛl/ | **Quelles sont vos disponibilités ?** | What is your availability? |
 
-Notice that all four spellings (*quel, quelle, quels, quelles*) have the **exact same pronunciation**: **/kɛl/**! While pronunciation is identical in speaking, spelling agreement is strictly evaluated in TCF Writing Task 1 and 2.
+Notice that all four spellings (*quel, quelle, quels, quelles*) have the **exact same pronunciation**: **/kɛl/**! While pronunciation is identical in speaking, spelling agreement counts in TCF Writing Tasks 1, 2 and 3.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -167,7 +168,7 @@ In spoken Canadian French (particularly in everyday informal speech in Québec),
 - *C'est-tu ouvert ?* **(QC)** = *Est-ce que c'est ouvert ?* (*Is it open?*)
 - *Il fait-tu froid dehors ?* **(QC)** = *Est-ce qu'il fait froid dehors ?* (*Is it cold outside?*)
 
-This *-tu* particle is not the pronoun *tu*; it is a historical spoken marker that signals a yes/no question. On the TCF Canada exam, you will hear this in authentic Canadian audio recordings (Listening items), but in your own Speaking and Writing tests, you should stick to standard **est-ce que** or **inversion**.
+This *-tu* particle is not the pronoun *tu*; it is a historical spoken marker that signals a yes/no question. On the TCF Canada exam, you may hear it in Canadian audio recordings (Listening), but in your own Speaking and Writing tests, you should stick to standard **est-ce que** or **inversion**.
 
 </div>
 
@@ -175,7 +176,7 @@ This *-tu* particle is not the pronoun *tu*; it is a historical spoken marker th
 
 In **Speaking Task 2 (*Exercice en interaction*)**, you must maintain an active roleplay for **3 minutes and 30 seconds**. The examiner plays a receptionist, landlord, store clerk, or tour organizer, and will answer your questions briefly to see if you can lead the interaction.
 
-To generate 10 to 15 questions effortlessly under pressure, train yourself to use the **"7-Angle Question Grid"**:
+To generate plenty of relevant questions under pressure, train yourself to use the **"7-Angle Question Grid"**:
 
 1. **Location / Address (Où)**:  
    *Où se trouve votre établissement ?* (Where is your establishment located?)  
@@ -265,10 +266,10 @@ In Speaking Task 2, do not ask the same question twice or ask questions that are
 
 4. **Productive Speaking Task (TCF Speaking Task 2 Simulation)**  
    Read the following simulated TCF Speaking Task 2 prompt:
-   > **Sujet**: *Vous voyez une annonce pour des cours de français dans un centre communautaire à Montréal. Vous téléphonez au secrétariat pour obtenir des renseignements sur les cours, les horaires et les tarifs. Posez une dizaine de questions à l'examinateur.*
+   > **Sujet**: *Vous voyez une annonce pour des cours de français dans un centre communautaire à Montréal. Vous téléphonez au secrétariat pour obtenir des renseignements sur les cours, les horaires et les tarifs. Posez des questions à l'examinateur pour obtenir ces informations.*
    
    - Set a timer for **2 minutes** to brainstorm notes and question angles using the 7-Angle Grid.
-   - Start an audio recorder (e.g. your smartphone or [Vocaroo](https://vocaroo.com/)) and set a timer for **3 minutes**.
+   - Start an audio recorder (e.g. your smartphone or [Vocaroo](https://vocaroo.com/)) and set a timer for **3 minutes 30 seconds**.
    - Speak out loud and formulate 8 to 10 distinct questions using both *est-ce que* and polite formal phrasing (*Bonjour monsieur, je vous appelle pour avoir des informations...*).
    - Listen to your recording. Verify that your voice rises on intonation questions and that you pronounced *combien* and *pourquoi* cleanly.
 

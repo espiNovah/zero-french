@@ -14,8 +14,8 @@ The TCF Canada has **four mandatory parts**. Total test time is approximately **
 | --- | --- | --- | --- | --- |
 | **Listening** (*Compréhension orale*) | 39 multiple-choice questions (4 choices, 1 correct). Audio played once. Progressive difficulty. | 39 questions | 35 min | 0–699 |
 | **Reading** (*Compréhension écrite*) | 39 multiple-choice questions (4 choices, 1 correct). Progressive difficulty from simple notices to complex articles. | 39 questions | 60 min | 0–699 |
-| **Writing** (*Expression écrite*) | 3 written tasks of increasing complexity. | 3 tasks | 60 min | 0–20 |
-| **Speaking** (*Expression orale*) | 3 tasks, face-to-face with an examiner. Recorded. | 3 tasks | 12 min | 0–20 |
+| **Writing** (*Expression écrite*) | 3 written tasks of increasing complexity. One overall score for the three tasks. | 3 tasks | 60 min | 0–20 |
+| **Speaking** (*Expression orale*) | 3 tasks, face-to-face with an examiner. Recorded. One overall score for the three tasks. | 3 tasks | 12 min | 0–20 |
 
 ### Writing tasks in detail
 
@@ -23,7 +23,7 @@ The TCF Canada has **four mandatory parts**. Total test time is approximately **
 | --- | --- | --- |
 | **Task 1** | A message to describe, narrate or explain something, addressed to a specified recipient. | 60–120 words |
 | **Task 2** | An article, letter or note giving an account of an experience or a story, with opinions or arguments. | 120–150 words |
-| **Task 3** | A text comparing two points of view on a social issue (from two provided documents), plus your own opinion. | 120–180 words |
+| **Task 3** | A text comparing two points of view on a social issue (from two provided documents), plus your own opinion. In the FEI sample, about 40–60 words present the two documents' views and about 80–120 words give your opinion. | 120–180 words |
 
 ### Speaking tasks in detail
 
@@ -31,7 +31,7 @@ The TCF Canada has **four mandatory parts**. Total test time is approximately **
 | --- | --- | --- |
 | **Task 1 — Guided interview** (*Entretien dirigé*) | Talk about yourself, your background, family and work. No preparation. | 2 min |
 | **Task 2 — Role-play** (*Exercice en interaction*) | Obtain information in a daily-life situation (e.g. booking a service). A prompt gives the roles. | 5 min 30 (incl. 2 min prep) |
-| **Task 3 — Expressing a point of view** (*Expression d'un point de vue*) | Respond spontaneously to a question chosen by the examiner: present and defend your opinion. | 4 min 30, no prep |
+| **Task 3 — Expressing a point of view** (*Expression d'un point de vue*) | Respond spontaneously to a question chosen by the examiner: present and defend your opinion. The examiner may intervene with follow-up questions; it is not an adversarial debate. | 4 min 30, no prep |
 
 ### Scoring and CEFR levels
 
@@ -60,7 +60,7 @@ IRCC converts your TCF Canada scores to **Niveaux de compétence linguistique ca
 | **5** | 369–397 | 375–405 | 6 | 6 |
 | **4** | 331–368 | 342–374 | 4–5 | 4–5 |
 
-**For Express Entry:** NCLC 7 in all four skills gives maximum CRS points for French as a first official language. That means you need at least:
+**For Express Entry:** NCLC 7 in all four French skills is the **threshold** for the French-language CRS bonus, for French-language category-based draws and for Federal Skilled Worker eligibility. The bonus is **50 points** if your English is CLB 5 or higher, or **25 points** if your English is CLB 4 or lower (the two amounts don't stack, so the maximum bonus is 50). NCLC 7 is not "maximum CRS points": language points keep rising up to NCLC/CLB 10. To reach NCLC 7 you need at least:
 
 - Listening: **458**
 - Reading: **453**
@@ -78,6 +78,6 @@ This curriculum aims for scores comfortably above these thresholds so that exam-
 ### Key strategy points
 
 - Questions in listening and reading go from easy to hard. Don't spend too long on difficult questions — answer and move on.
-- In writing, respect the word counts strictly. Going under the minimum or skipping a task can result in "below A1."
+- In writing, respect the word counts. Length and copying from the prompt affect how well you complete the task, and an incomplete or skipped task costs you points. A word is any string between two spaces (*j'ai* = 1 word, *c'est-à-dire* = 1 word), following the FEI/DELF convention; confirm it in the current TCF Canada candidate guide.
 - In speaking, use *vous* with the examiner, begin with *Bonjour* and end with *Au revoir*. Structure your answers: state your point, give reasons, conclude.
 - Practice under timed conditions regularly. The curriculum's projects are designed for this.

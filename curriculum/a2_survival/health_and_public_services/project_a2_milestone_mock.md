@@ -2,14 +2,14 @@
 
 Congratulations on reaching the final milestone of **Path 01: A2 Survival French**! Over the course of 18 lessons and three focused micro-projects, you have built the linguistic architecture required to function autonomously in a Francophone environment: narrating past events (*passé composé* vs *imparfait*), navigating real estate listings and transit systems, interacting with employers and coworkers, managing health issues, and communicating formally with public service administrations.
 
-This capstone project is your official **A2 Milestone Mock Examination**. It simulates all four operational modules of the **TCF Canada (Test de connaissance du français pour le Canada)** calibrated strictly to the **CEFR Level A2 (Canadian Language Benchmark / NCLC 4–5)** standard:
+This capstone project is your **A2 Milestone Mock Examination**. It simulates all four operational modules of the **TCF Canada (Test de connaissance du français pour le Canada)**, scaled down to the **CEFR Level A2** standard (it is a practice mock, not an official test):
 
 1. **Compréhension orale (Listening Comprehension)**: 6 simulated single-play audio transcript items testing your ability to extract essential factual data from public announcements, voicemail messages, and service dialogues.
 2. **Compréhension écrite (Reading Comprehension)**: 6 standardized reading comprehension items assessing your speed-scanning of classified ads, caution notices, store hours, and administrative directives.
 3. **Expression écrite (Written Production — Task 1)**: A timed **60 to 120-word formal message** addressing an administrative authority, supervisor, or landlord under strict examination conditions (time limit: 15 minutes).
-4. **Expression orale (Speaking Production — Task 2 Roleplay)**: A **3.5-minute unscripted transactional telephone or counter roleplay** where you lead an inquiry by asking 8 to 10 structured questions.
+4. **Expression orale (Speaking Production — Task 2 Roleplay)**: A **3.5-minute unscripted transactional telephone or counter roleplay** where you lead an inquiry by asking structured questions (aim for 8 to 10 as a practice target).
 
-Completing this project provides objective, verifiable proof that you have attained the **Level A2 Survival Benchmark**, clearing the runway for your progression into intermediate independent French (CEFR Level B1 / NCLC 6).
+Completing this project provides objective, verifiable proof that you have attained the **Level A2 Survival Benchmark**, clearing the runway for your progression into intermediate independent French (CEFR Level B1).
 
 ### Before you start
 
@@ -152,17 +152,17 @@ Before starting your milestone examination session, establish authentic testing 
 3. **Part 3: Expression Écrite (Writing Task 1 — Timed 15 Minutes)**  
    Set a countdown timer to **15 minutes**. Type your text directly into your text editor without using a dictionary:
 
-   > **Consigne officielle TCF Canada — Épreuve d'expression écrite (Tâche 1) :**  
+   > **Consigne d'entraînement — format de la tâche 1 d'expression écrite du TCF Canada :**  
    > **Nombre de mots exigé** : **60 à 120 mots**.  
    > 
    > **Sujet** :  
    > *Vous venez d'emménager dans votre nouveau logement au Canada ou en France. Vous écrivez un message formel à votre propriétaire ou au gestionnaire de l'immeuble. Vous vous présentez brièvement, vous confirmez que votre déménagement s'est bien déroulé, vous signalez un problème technique dans l'appartement (chauffage en panne, robinet qui fuit ou poignée cassée), et vous demandez poliment une intervention rapide.*
 
 4. **Part 4: Expression Orale (Speaking Task 2 Roleplay — Timed 3.5 Minutes)**  
-   Take **1 minute** to read the prompt below and plan your strategy, then start your audio recording software. Speak spontaneously for **3 minutes to 3 minutes 30 seconds**:
+   Take **2 minutes** to read the prompt below and prepare your questions (as in the real Task 2), then start your audio recording software. Speak spontaneously for **3 minutes to 3 minutes 30 seconds**:
 
-   > **Consigne officielle TCF Canada — Épreuve d'expression orale (Tâche 2) :**  
-   > **Durée** : **3 minutes 30 secondes** (sans temps de préparation formel pendant l'examen officiel).  
+   > **Consigne d'entraînement — format de la tâche 2 d'expression orale du TCF Canada :**  
+   > **Durée** : **2 minutes de préparation + 3 minutes 30 secondes d'échange** avec l'examinateur.  
    > 
    > **Sujet** :  
    > *Vous êtes nouvellement arrivé dans une ville francophone. Vous vous rendez au guichet municipal ou au centre communautaire de quartier pour vous renseigner sur les activités culturelles et sportives proposées aux adultes et aux familles. Vous vous présentez à l'examinateur (qui joue le rôle de l'agent d'accueil), vous expliquez votre situation et vous posez au moins 8 à 10 questions variées pour obtenir toutes les informations utiles (tarifs, horaires, inscriptions, équipements, réductions pour nouveaux arrivants).*
@@ -177,20 +177,20 @@ Save and archive the following four tangible artifacts into your study folder:
 
 #### Scoring Rubric
 
-Evaluate your overall milestone performance across the 4-module standardized matrix:
+Evaluate your overall milestone performance with this **unofficial self-assessment rubric** (designed for this course; it is not an FEI grid and does not convert to TCF scores):
 
 | Module | Tested Criteria | Passing Benchmark (A2 Level) | Maximum Points |
 | :--- | :--- | :--- | :--- |
 | **1. Compréhension orale** | Accuracy on A1–A2 audio items (factual details, schedules, announcements). | 4 / 6 correct answers (67%) | 6 points |
 | **2. Compréhension écrite** | Accuracy on A1–A2 reading items (notices, ads, public signage, deadlines). | 4 / 6 correct answers (67%) | 6 points |
-| **3. Expression écrite (Tâche 1)** | Word count (60–120 words), polite register (*vouvoiement*), past/present tense accuracy, clear technical complaint. | 7 / 10 points (Rubric FEI) | 10 points |
-| **4. Expression orale (Tâche 2)** | Sustained 3.5m roleplay, 8–10 distinct questions (inversion, *est-ce que*, question words), formal address, reactive spontaneity. | 7 / 10 points (Rubric FEI) | 10 points |
+| **3. Expression écrite (Tâche 1)** | Word count (60–120 words), polite register (*vouvoiement*), past/present tense accuracy, clear technical complaint. | 7 / 10 points (self-assessment) | 10 points |
+| **4. Expression orale (Tâche 2)** | Sustained 3.5m roleplay, 8–10 distinct questions (inversion, *est-ce que*, question words), formal address, reactive spontaneity. | 7 / 10 points (self-assessment) | 10 points |
 | **Total Global A2 Benchmark** | **Composite Evaluation** | **Pass: 22 / 32 points (69%)** | **32 points** |
 
 **Score Interpretation**:
 - **0–15 points**: Below A2 (Requires reinforcement in past tenses, basic questioning, and receptive vocabulary).
 - **16–21 points**: Emerging A2 (Working functional grasp; needs speed drill in reading and question versatility).
-- **22–27 points**: Solid A2 Mastered (Official NCLC Level 4–5 equivalent — solid immigration foundation).
+- **22–27 points**: Solid A2 Mastered (a solid foundation for further study; these points have no NCLC equivalent).
 - **28–32 points**: Advanced A2 / Ready for B1 (High distinction; excellent syntactic fluidity and zero hesitation).
 
 #### AI Self-Assessment Prompt
@@ -198,7 +198,7 @@ Evaluate your overall milestone performance across the 4-module standardized mat
 Copy and paste your written text into an AI model using this calibrated evaluator prompt:
 
 ```text
-You are a certified France Éducation international (FEI) examiner evaluating a candidate's submission for the TCF Canada examination (Level A2 Milestone Capstone).
+You are an experienced TCF Canada writing tutor evaluating a candidate's practice text (Level A2 Milestone Capstone).
 
 Evaluation Task: Writing Task 1 (60–120 words formal message to a landlord regarding a technical problem in a newly rented apartment).
 
@@ -207,8 +207,8 @@ Candidate's Submission:
 [PASTE YOUR WRITTEN TEXT HERE]
 """
 
-Evaluate this submission according to official FEI Level A2 criteria:
-1. Exact Word Count Check: Count words according to official FEI rules (elided forms count separately). Verify that word count is strictly between 60 and 120 words.
+Evaluate this submission with the following unofficial A2 self-assessment criteria:
+1. Exact Word Count Check: A word is any string between two spaces (e.g. "j'ai" = 1 word). Verify that word count is strictly between 60 and 120 words.
 2. Criterion 1: Respect de la consigne et adéquation de la situation (0–3 pts)
 3. Criterion 2: Cohérence textuelle, connecteurs et politesse (vouvoiement) (0–2.5 pts)
 4. Criterion 3: Maîtrise du vocabulaire du logement et des pannes (0–2.5 pts)
@@ -257,10 +257,10 @@ A successful milestone completion confirms:
 
 ### Annotated benchmark writing and speaking models
 
-#### Benchmark Model: Writing Task 1 (88 words — Solid A2 / NCLC 5)
+#### Benchmark Model: Writing Task 1 (87 words — Solid A2)
 
 > **Bonjour Monsieur Lavoie,**  
-> **Je vous écris suite à mon emménagement dans l'appartement 4B hier après-midi. Le déménagement s'est très bien déroulé et le logement est très agréable.**  
+> **Je vous écris à la suite de mon emménagement dans l'appartement 4B hier après-midi. Le déménagement s'est très bien déroulé et le logement est très agréable.**  
 > **Cependant, j'ai constaté hier soir que le radiateur de la chambre principale ne chauffe pas du tout et que le robinet de la cuisine fuit abondamment.**  
 > **Comme l'hiver approche, pourriez-vous envoyer un technicien pour réparer ces équipements dès cette semaine ?**  
 > **Je reste disponible à tout moment au 514-555-0144.**  
@@ -268,7 +268,7 @@ A successful milestone completion confirms:
 > **Alex Tremblay**
 
 **Analytical Review**:
-- **Word Count**: 88 words (well within the mandatory 60–120 range).
+- **Word Count**: 87 words, counting any string between two spaces as one word (*j'ai* = 1) and not counting the standalone « ? » (well within the required 60–120 range).
 - **Structure**: Formal opening (*Bonjour Monsieur Lavoie*), positive confirmation of moving in (*passé composé*), specific technical problems described (*radiateur ne chauffe pas, robinet fuit*), polite conditional request (*pourriez-vous envoyer...*), contact phone number, and formal closing.
 
 #### Benchmark Model: Speaking Task 2 Roleplay Blueprint (3.5 Minutes)

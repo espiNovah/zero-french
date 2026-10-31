@@ -2,7 +2,7 @@
 
 Navigating a new city is one of the most immediate challenges facing any newcomer in Canada. From locating the nearest pharmacy to finding the immigration service center, catching the right bus, or visiting your local medical clinic, you need the language of physical space. In French, asking for and understanding directions is not just a matter of listing building names; it requires mastering the precise logic of spatial prepositions, directional verbs, and the unique French concept of *chez*.
 
-On the TCF Canada exam, spatial navigation and city geography feature prominently in two key areas. In the *Compréhension orale* (Listening) section, early questions frequently feature brief dialogues where speakers ask for directions or describe where an event will take place, using spatial distractors (*en face de* versus *à côté de*, *à droite* versus *à gauche*) to test your attention to detail. In the *Compréhension écrite* (Reading) section, you will read city maps, municipal public transit notices, and local directory listings.
+On the TCF Canada exam, spatial navigation and city geography feature prominently in two key areas. In the *Compréhension orale* (Listening) section, early, easier items may feature brief dialogues where speakers ask for directions or describe where an event will take place, using spatial distractors (*en face de* versus *à côté de*, *à droite* versus *à gauche*) to test your attention to detail. In the *Compréhension écrite* (Reading) section, you may read municipal public transit notices and local directory listings.
 
 In this lesson, you will acquire high-frequency vocabulary for city landmarks and public services, master static location prepositions and their mandatory contractions with *de* (*près du*, *en face de la*), learn how to navigate someone to a destination using directional phrases, master the cultural preposition *chez*, and explore Canadian city layout conventions, from Montreal's *dépanneurs* to bilingual street signage.
 
@@ -45,7 +45,7 @@ Here are the essential municipal and commercial landmarks every candidate must m
 | **la pharmacie** | la pharmacie | /la faʁ.ma.si/ | pharmacy / drugstore | Fem. |
 | **l'hôpital** | l'hôpital | /lo.pi.tal/ | hospital | Masc. |
 | **la bibliothèque** | la bibliothèque | /la bi.bli.jɔ.tɛk/ | library | Fem. |
-| **la mairie / l'hôtel de ville** | l'hôtel de ville | /lo.tɛl də vil/ | city hall | Masc. |
+| **la mairie / l'hôtel de ville** | l'hôtel de ville | /lo.tɛl də vil/ | city hall | Fem. (*la mairie*) / Masc. (*l'hôtel de ville*) |
 | **le supermarché** | le supermarché | /lə sy.pɛʁ.maʁ.ʃe/ | supermarket | Masc. |
 | **l'école** | l'école | /le.kɔl/ | school | Fem. |
 | **le parc** | le parc | /lə paʁk/ | park | Masc. |
@@ -175,7 +175,7 @@ English speakers frequently confuse these two crucial directions:
 - **Tout droit** (/tu dʁwa/): The final *t* is silent! It means **straight ahead**.
 - **À droite** (/a dʁwat/): The feminine ending makes the final *t* distinctly **audible** (/dʁwat/)! It means **to the right**.
 
-If you say `/a.le tu dʁwat/`, a French listener will understand "go to the right" instead of "go straight"! Examiners specifically test this distinction in listening items.
+If you say `/a.le tu dʁwat/`, a French listener will understand "go to the right" instead of "go straight"! This distinction is a classic listening trap.
 
 </div>
 
@@ -210,7 +210,7 @@ In Canada, you will encounter these standard transit terms on signage and schedu
 
 In France, a parking lot or parking space is commonly referred to by the English loanword *un parking*. In Québec, the Office québécois de la langue française (OQLF) has firmly established the standard French term **un stationnement** **(QC)**:
 - *Le stationnement est gratuit pour les clients.* **(QC)** (The parking is free for customers.)
-On the TCF Canada exam, Canadian audio recordings will exclusively use *stationnement*.
+On the TCF Canada exam, Canadian speakers are likely to say *stationnement*, but be ready to recognize *parking* too.
 
 </div>
 
@@ -218,7 +218,7 @@ On the TCF Canada exam, Canadian audio recordings will exclusively use *stationn
 
 #### Exam tip
 
-In TCF Canada Listening items 1 to 12, questions often show four small street maps or photos of buildings with signs. The speaker might say: *"La pharmacie est située juste en face de la poste, à côté de la bibliothèque."* Notice that all three buildings are mentioned! The distractor options will place the pharmacy next to the post office or behind the library. Always draw a mental arrow matching the exact preposition used (*en face de* vs *à côté de*).
+In the early, easier TCF Canada Listening items, you may need to locate a place described in a short recording. The speaker might say: *"La pharmacie est située juste en face de la poste, à côté de la bibliothèque."* Notice that all three buildings are mentioned! Distractor options may place the pharmacy next to the post office or behind the library. Always draw a mental arrow matching the exact preposition used (*en face de* vs *à côté de*).
 
 </div>
 

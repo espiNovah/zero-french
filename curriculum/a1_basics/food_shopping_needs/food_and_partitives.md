@@ -4,7 +4,7 @@ In previous lessons, you learned how to introduce yourself, discuss your family,
 
 When English speakers talk about food, they say "I eat bread" or "I drink water" without inserting an article. In French, however, a noun can almost never stand alone without a determiner. You cannot simply say *"Je mange pain"*; French grammar requires you to specify whether you are eating an entire loaf, bread in general, or an unspecified portion of bread. This is where **partitive articles** (*les articles partitifs* : **du**, **de la**, **de l'**, **des**) come in.
 
-In the TCF Canada examination, food and grocery transactions appear constantly in **Listening (*Compréhension orale*)**—such as announcements in supermarkets, dialogues at the bakery counter, and voice messages leaving shopping lists—as well as in **Speaking Task 2 (*Expression orale — Exercice en interaction*)**, where you must ask an examiner detailed questions about prices, ingredients, and store hours. In this lesson, you will master the communicative logic of partitives, contrast them with definite and indefinite articles, navigate the famous "negative *de*" trap, build an essential culinary and grocery vocabulary, and discover key Canadian grocery conventions.
+In the TCF Canada examination, food and grocery transactions are common topics in **Listening (*Compréhension orale*)**—such as announcements in supermarkets, dialogues at the bakery counter, and voice messages leaving shopping lists—as well as in **Speaking Task 2 (*Expression orale — Exercice en interaction*)**, where you must ask an examiner detailed questions about prices, ingredients, and store hours. In this lesson, you will master the communicative logic of partitives, contrast them with definite and indefinite articles, navigate the famous "negative *de*" trap, build an essential culinary and grocery vocabulary, and discover key Canadian grocery conventions.
 
 ### Lesson overview
 
@@ -72,7 +72,7 @@ Whenever you use verbs expressing taste, affection, preference, or hatred—such
 > *I love coffee (general category), but in the evening I drink (some) tea (unmeasured portion).*
 
 > **Elle déteste le poisson, alors elle commande de la viande.**  
-> /ɛl de.tɛst lə pwa.sɔ̃ | a.lɔʁ.z‿ɛl kɔ.mɑ̃d də la vjɑ̃d/  
+> /ɛl de.tɛst lə pwa.sɔ̃ | a.lɔʁ ɛl kɔ.mɑ̃d də la vjɑ̃d/  
 > *She hates fish (general category), so she orders (some) meat (portion).*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -84,7 +84,7 @@ Never say *"J'aime du café"* or *"Je déteste de la salade"*. Even though in En
 - **Je préfère la bière.** (Correct)
 - **Nous adorons les fruits.** (Correct)
 
-Using a partitive article with *aimer*, *adorer*, *préférer*, or *détester* is an automatic grammar flag on the TCF assessment rubric.
+Using a partitive article with *aimer*, *adorer*, *préférer*, or *détester* is a basic grammar error that examiners notice immediately in TCF Writing and Speaking.
 
 </div>
 
@@ -215,11 +215,11 @@ To shop confidently and understand audio dialogues, you need to recognize how fo
 If you live in or prepare to immigrate to Canada, you will encounter distinctive Canadian French vocabulary for food and shopping:
 
 - **Faire l'épicerie** **(QC)** vs **Faire les courses** (France): In France, you go *faire les courses*. In Québec, everyone says *faire l'épicerie* to mean grocery shopping, while *magasiner* **(QC)** refers to general retail shopping.
-- **Le dépanneur** **(QC)**: In Québec, the neighbourhood corner convenience store (selling milk, bread, beer, snacks, and lottery tickets) is universally called *le dépanneur* (or familiarly, *le dep*). In France, people refer to *l'épicerie de quartier* or *l'arabe du coin*.
-- **Le panier et le cabaret** **(QC)**: While *le chariot* (or *caddie*) is standard in France for a shopping cart, in Québec people often ask for *un panier d'épicerie* or *un cabaret* **(QC)**.
-- **Canne de conserve** **(QC)**: In Québec, a canned good is frequently called *une canne de tomates* or *une canne de soupe* **(QC)**, adapted from English "can", whereas in France it is *une boîte de conserve*.
-- **Liqueur** **(QC)**: In Québec French, *de la liqueur* **(QC)** refers to non-alcoholic soft drinks/soda (Coke, Sprite), whereas in France *une liqueur* is strictly an alcoholic cordial and soda is *une boisson gazeuse* or *un soda*.
-- **Le breuvage** **(QC)**: In Canadian French, *un breuvage* **(QC)** is the standard word for any beverage or drink (formal and everyday), whereas in European French the word is *une boisson*.
+- **Le dépanneur** **(QC)**: In Québec, the neighbourhood corner convenience store (selling milk, bread, beer, snacks, and lottery tickets) is universally called *le dépanneur* (or familiarly, *le dep*). In France, people refer to *l'épicerie de quartier* or *la supérette*.
+- **Le panier d'épicerie** **(QC)**: While *le chariot* (or *caddie*) is standard in France for a shopping cart, in Québec people usually say *un panier d'épicerie* **(QC)** (familiarly, *un carrosse*). Don't confuse it with *un cabaret* **(QC)**, which in Québec means a serving tray.
+- **Canne de conserve** **(QC)**: In familiar Québec French, a canned good is often called *une canne de tomates* or *une canne de soupe* **(QC)**, adapted from English "can". The OQLF advises against this anglicism; the standard term, in Québec as in France, is *une boîte de conserve* (*une boîte de tomates*).
+- **Liqueur** **(QC)**: In familiar Québec French, *de la liqueur* **(QC)** refers to non-alcoholic soft drinks/soda (Coke, Sprite). The OQLF advises against this use; the standard term is *une boisson gazeuse* (or *un soda*). In standard French, *une liqueur* is an alcoholic cordial.
+- **Le breuvage** **(QC)**: In familiar Québec French, *un breuvage* **(QC)** is often used for any beverage or drink. The OQLF advises against this use (influenced by English "beverage"); the standard word, in Québec as in France, is *une boisson*.
 
 </div>
 
@@ -227,11 +227,11 @@ If you live in or prepare to immigrate to Canada, you will encounter distinctive
 
 #### Exam Tip: TCF Listening Traps in Food & Market Transactions
 
-On the TCF Canada Listening test, short everyday announcements and dialogues frequently take place at a market stall or supermarket checkout. Keep these three distractor traps in mind:
+On the TCF Canada Listening test, short everyday announcements and dialogues may take place at a market stall or supermarket checkout. Keep these three distractor traps in mind:
 
-1. **The Price Distractor**: A customer might ask, *"C'est combien la livre de cerises ?"* (How much is a pound of cherries?). The seller answers: *"Elles sont à 8 dollars le kilo, mais aujourd'hui je fais une promotion à 5 dollars."* The multiple-choice options will list both 8 dollars and 5 dollars. You must listen for the operative reduction connector (*mais aujourd'hui, promotion*).
+1. **The Price Distractor**: A customer might ask, *"C'est combien le kilo de cerises ?"* (How much is a kilo of cherries?). The seller answers: *"Elles sont à 8 dollars le kilo, mais aujourd'hui je fais une promotion à 5 dollars."* The multiple-choice options will list both 8 dollars and 5 dollars. You must listen for the operative reduction connector (*mais aujourd'hui, promotion*).
 2. **The Missing Ingredient Trap**: In telephone messages, a speaker often says: *"N'achète pas de tomates, il m'en reste deux dans le frigo. Prends plutôt du basilic et un kilo de riz."* If a question asks what to buy, *les tomates* will be a distractor answer!
-3. **Weight Units in Canada**: Canadian listening items regularly use both metric (*kilos*, *grammes*) and imperial units commonly heard in North American markets, such as *une livre* (one pound, approximately 454g) and *une douzaine d'œufs* (a dozen eggs).
+3. **Weight Units in Canada**: Canadian speakers may use both metric (*kilos*, *grammes*) and imperial units commonly heard in North American markets, such as *une livre* (one pound, approximately 454g) and *une douzaine d'œufs* (a dozen eggs).
 
 </div>
 

@@ -2,7 +2,7 @@
 
 Family is one of the most universal topics of human conversation. When establishing connections in a new country or speaking with colleagues, sharing basic details about your family, your marital status, and the people in your life creates immediate rapport.
 
-In the TCF Canada exam, family is a primary theme in **Task 1 of the Speaking test (*Entretien dirigé*)**. After you introduce your name and profession, the examiner will frequently ask: *"Parlez-moi de votre famille"* ("Tell me about your family") or *"Vous avez des enfants ?"* ("Do you have children?"). In immigration applications and interviews with Immigration, Refugees and Citizenship Canada (IRCC), marital status and family composition are official legal categories that you must declare accurately.
+In the TCF Canada exam, family is a primary theme in **Task 1 of the Speaking test (*Entretien dirigé*)**. After you introduce your name and profession, the examiner may ask: *"Parlez-moi de votre famille"* ("Tell me about your family") or *"Vous avez des enfants ?"* ("Do you have children?"). In immigration applications and interviews with Immigration, Refugees and Citizenship Canada (IRCC), marital status and family composition are official legal categories that you must declare accurately.
 
 In this lesson, you will learn the core vocabulary for immediate and extended family members, master the system of French **possessive adjectives** (*mon, ma, mes*), and learn how to describe your civil status using official Canadian immigration terminology.
 
@@ -43,7 +43,7 @@ Notice the pronunciation of **fils** (son): the *l* is silent, and the final *s*
 | **le mari** (/lə ma.ʁi/) | **la femme** (/la fam/) | **le couple** (/lə kupl/) | husband / wife / couple |
 | **l'époux** (/le.pu/) | **l'épouse** (/le.puz/) | **les époux** (/le.z‿e.pu/) | spouse (masc.) / spouse (fem.) |
 
-> **Parents vs Relatives**: In French, **les parents** means specifically your *father and mother*. The English concept of "relatives" (including cousins, aunts, and uncles) is expressed by **les proches** or **la famille élargie**.
+> **Parents vs Relatives**: In French, **mes parents** usually means your *father and mother*, but **un parent** can also mean any relative (*un parent éloigné* = a distant relative). For "relatives" as a group, you can say **la famille élargie**, or in Québec **la parenté** **(QC)**. **Les proches** means the people close to you (family and close friends).
 
 ### Extended family and generations
 

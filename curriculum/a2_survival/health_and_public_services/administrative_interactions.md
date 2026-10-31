@@ -4,8 +4,8 @@ Settling into a French-speaking country—whether immigrating to Quebec, moving 
 
 At CEFR Level A2, administrative interactions demand moving beyond informal conversational French into the register of **le vouvoiement** (formal address) and the **polite conditional** (*je voudrais, j'aimerais, pourriez-vous*). Navigating these encounters with composure also requires understanding key institutional paperwork, including proof of address, official identity cards, and multi-part application forms.
 
-On the **TCF Canada examination**, administrative scenarios represent the primary scenario archetype tested in **Speaking Task 2 (*Expression orale — Tâche 2*)**:
-- In this 3-minute-and-30-second unscripted roleplay, the candidate must initiate an interaction, establish a formal tone, and ask the examiner (who plays a government clerk, postal worker, or bank representative) **8 to 10 precise, varied questions** to obtain information about services, required documents, fees, and processing times.
+On the **TCF Canada examination**, administrative scenarios are a common type of situation in **Speaking Task 2 (*Expression orale — Tâche 2*)**:
+- In this 3-minute-and-30-second unscripted roleplay, the candidate must initiate an interaction, establish a formal tone, and ask the examiner (who plays a government clerk, postal worker, or bank representative) **precise, varied questions** (8 to 10 is a useful practice target, not an official rule) to obtain information about services, required documents, fees, and processing times.
 - In **Listening Comprehension (*Compréhension orale*)**, telephone interactive voice response (IVR) menus (*« Pour contacter le service des permis, tapez 1... »*) and public service counter announcements frequently test your ability to extract operating hours, required documents, and queue instructions.
 - In **Writing (*Expression écrite*) Task 1**, candidates are often required to draft a formal request or inquiry to an administrative institution or municipality.
 
@@ -36,7 +36,7 @@ In Francophone cultures, approaching a service desk without a formal greeting is
 3. **Closing and Gratitude**: Complete the transaction with professional gratitude:
    - *« Je vous remercie beaucoup pour votre aide. »* (*I thank you very much for your help.*)
    - *« Merci infiniment, bonne fin de journée ! »* (*Thank you so much, have a great rest of the day!*)
-   - When the clerk says *« Merci »*, respond with **« Je vous en prie »** /ʒə vu z‿ɑ̃ pʁi/ (*You are welcome* — formal) or in Quebec: **« Bienvenue ! »** /bjɛ̃.və.ny/.
+   - When the clerk says *« Merci »*, respond with **« Je vous en prie »** /ʒə vu.z‿ɑ̃ pʁi/ (*You are welcome* — formal) or **« De rien »**. In Québec you will also hear **« Bienvenue ! »** /bjɛ̃.və.ny/: this is familiar usage, a calque of English *you're welcome* that the OQLF advises against, so recognize it but use *je vous en prie* or *de rien* yourself.
 
 #### 2. Master summary of formal address formulas
 
@@ -46,7 +46,7 @@ In Francophone cultures, approaching a service desk without a formal greeting is
 | *Je veux ce formulaire.* | **Je voudrais ce formulaire, s'il vous plaît.** | /ʒə vu.dʁɛ sə fɔʁ.my.lɛʁ sil vu plɛ/ | *I would like this form, please.* |
 | *Donne-moi le prix.* | **Pourriez-vous m'indiquer le tarif ?** | /pu.ʁje vu m‿ɛ̃.di.ke lə ta.ʁif/ | *Could you tell me the price?* |
 | *Quoi ? Répète.* | **Pardon ? Pourriez-vous répéter plus lentement ?** | /paʁ.dɔ̃ pu.ʁje vu ʁe.pe.te ply lɑ̃t.mɑ̃/ | *Pardon? Could you repeat more slowly?* |
-| *De rien.* | **Je vous en prie. / Bienvenue (QC).** | /ʒə vu z‿ɑ̃ pʁi / bjɛ̃.və.ny/ | *You are very welcome.* |
+| *De rien.* (neutral, fine in most situations) | **Je vous en prie.** (*Bienvenue* is familiar Québec usage, a calque the OQLF advises against) | /ʒə vu.z‿ɑ̃ pʁi/ | *You are very welcome.* |
 | *Bye !* | **Au revoir, bonne journée.** | /o ʁə.vwaʁ, bɔn ʒuʁ.ne/ | *Goodbye, have a good day.* |
 
 ### Postal banking and municipal counter vocabulary
@@ -83,7 +83,7 @@ Administrative desks feature specialized lexical fields. Below are the essential
 | French Term | IPA Pronunciation | English Meaning | Practical Context Example |
 | :--- | :--- | :--- | :--- |
 | **la mairie / l'hôtel de ville** | /la mɛ.ʁi / l‿o.tɛl də vil/ | city hall / municipal office | *Les inscriptions scolaires se font à l'hôtel de ville.* |
-| **la SAAQ (QC)** | /la s‿a a kju/ | driver licensing authority | *Je dois faire transférer mon permis de conduire à la SAAQ.* |
+| **la SAAQ (QC)** | /la ɛs.a.a.ky/ | driver licensing authority | *Je dois faire transférer mon permis de conduire à la SAAQ.* |
 | **le NAS (QC) / numéro de sécu (FR)** | /lə nas / ny.me.ʁo də se.ky/ | Social Insurance Number (SIN) | *Vous devez obtenir votre numéro d'assurance sociale à Service Canada.* |
 | **le guichet d'accueil** | /lə ɡi.ʃɛ d‿a.kœj/ | reception counter / intake desk | *Prenez un numéro d'attente à la borne d'accueil.* |
 | **le délai de traitement** | /lə de.lɛ də tʁɛt.mɑ̃/ | processing time / turnaround | *Quel est le délai de traitement pour renouveler ce document ?* |
@@ -180,11 +180,11 @@ Phase 3: Formal Closing & Gratitude (3:00–3:30)
 - Sign off: « Bonne journée, au revoir ! »
 ```
 
-#### 2. Key scoring criteria for TCF Speaking Task 2
+#### 2. What to focus on in TCF Speaking Task 2 (study advice)
 
-- **Aptitude à poser des questions (Questioning versatility)**: Do not use the same question formula repeatedly. Mix *« Est-ce que... »*, inversion (*« Pourriez-vous... »*), and interrogative adverbs (*« Où, Quand, Combien, Comment »*).
-- **Maintien du vouvoiement**: Never slip into informal address (*tu/ton*). Always use *vous/votre*.
-- **Interaction spontanée**: Listen to the examiner's answers and react naturally (*« D'accord, je comprends »*, *« Très bien, c'est noté »*).
+- **Questioning versatility**: Do not use the same question formula repeatedly. Mix *« Est-ce que... »*, inversion (*« Pourriez-vous... »*), and interrogative adverbs (*« Où, Quand, Combien, Comment »*).
+- **Consistent vouvoiement**: Never slip into informal address (*tu/ton*). Always use *vous/votre*.
+- **Spontaneous interaction**: Listen to the examiner's answers and react naturally (*« D'accord, je comprends »*, *« Très bien, c'est noté »*).
 
 ### Assignment
 

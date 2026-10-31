@@ -7,7 +7,7 @@ In French, the future is expressed through two primary grammatical structures:
 2. **The Futur Simple (Simple Future)**: A single-word synthetic tense (*Je déménagerai*). This is the formal, projected, and official future tense used in written reports, employment contracts, long-term career planning, and weather forecasts.
 
 On the **TCF Canada examination**, future structures are tested across all four competencies:
-- In **Speaking (*Expression orale*) Task 1**, following your introduction and current work duties, examiners frequently ask: *« Quels sont vos projets d'avenir au Canada ? »* (*What are your future projects in Canada?*). Balancing *futur proche* for immediate steps with *futur simple* for long-term career goals immediately signals Upper A2 / B1 proficiency.
+- In **Speaking (*Expression orale*) Task 1**, following your introduction and current work duties, examiners frequently ask: *« Quels sont vos projets d'avenir au Canada ? »* (*What are your future projects in Canada?*). Balancing *futur proche* for immediate steps with *futur simple* for long-term career goals shows the examiner a good range of tenses.
 - In **Writing (*Expression écrite*) Task 1 and Task 2**, prompts regularly ask you to propose an upcoming event, confirm an arrival schedule, or write about future plans.
 - In **Listening (*Compréhension orale*)**, distinguishing between past actions (*j'ai fait*), present states (*je fais*), and future actions (*je ferai* / *je vais faire*) is a classic test design technique used to create multiple-choice distractors.
 
@@ -131,7 +131,7 @@ FUTUR SIMPLE (Infinitive Stem + Endings):
 - Distant future, career milestones, life goals (dans 5 ans, à l'avenir)
 - Formal written correspondence, official memos, contracts, laws
 - Weather broadcasts (Demain, les températures chuteront sous zéro)
-- Conditional hypotheses with "Si" (Si j'obtiens le TCF, j'immigrerai au Canada)
+- Conditional hypotheses with "Si" (Si j'obtiens de bons résultats au TCF, j'immigrerai au Canada)
 ```
 
 | Situation | Preferred Tense | French Example | Translation |
@@ -168,7 +168,7 @@ On the **TCF Canada examination**, always produce standard French (*je vais fair
 
 #### Exam tip: TCF Speaking Task 1 Career Projections
 
-In **TCF Speaking Task 1 (self-introduction and background)**, examiners almost universally conclude by asking: *« Où vous voyez-vous dans trois ou cinq ans au Canada ? »*.
+In **TCF Speaking Task 1 (self-introduction and background)**, examiners may well ask something like: *« Où vous voyez-vous dans trois ou cinq ans au Canada ? »*.
 
 To demonstrate B1/B2 versatility:
 1. Use the **futur proche** for immediate steps over the next few months:  

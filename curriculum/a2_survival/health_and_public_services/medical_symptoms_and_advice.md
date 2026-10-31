@@ -127,8 +127,8 @@ Seeking medical care in a French-speaking country requires familiarity with inst
 
 | Healthcare Concept | Metropolitan France | Quebec / Canadian French | IPA & Meaning |
 | :--- | :--- | :--- | :--- |
-| **Walk-in clinic** | **Le cabinet médical / SOS Médecins** | **La clinique sans rendez-vous** | /kli.nik sɑ̃ ʁɑ̃.de.vu/ (Facility providing immediate non-emergency consultation) |
-| **Health insurance card** | **La carte Vitale** | **La carte d'assurance maladie (la carte soleil)** | /kaʁt d‿a.sy.ʁɑ̃s ma.la.di/ (Provincial green card with yellow sun issued by RAMQ) |
+| **Walk-in clinic** | **Le centre de soins non programmés / La maison médicale de garde** | **La clinique sans rendez-vous** | /kli.nik sɑ̃ ʁɑ̃.de.vu/ (Facility providing immediate non-emergency consultation) |
+| **Health insurance card** | **La carte Vitale** | **La carte d'assurance maladie (la carte soleil)** | /kaʁt d‿a.sy.ʁɑ̃s ma.la.di/ (Provincial health insurance card issued by the RAMQ) |
 | **Community health center** | **Le centre de santé municipal** | **Le CLSC** (Centre local de services communautaires) | /se ɛl ɛs se/ (Public integrated frontline health & social clinic) |
 | **Family doctor** | **Le médecin traitant** | **Le médecin de famille** | /med.sɛ̃ də fa.mij/ (Primary registered physician) |
 | **Emergency room** | **Les urgences (f. pl.)** | **L'urgence (f. sing.)** | /yʁ.ʒɑ̃s/ (Hospital acute care ward) |
@@ -197,7 +197,7 @@ Doctors also frequently frame guidance using modal auxiliaries:
 
 Medical and health themes regularly appear on the TCF Canada exam across both receptive and productive sections:
 
-1. **Compréhension orale (Listening Tasks 1 & 2)**:
+1. **Compréhension orale (39 multiple-choice items, no separate tasks)**:
    - *Typical scenario*: A pharmacy public announcement, clinic voicemail greeting, or hospital triage recording.
    - *Key distractors*: Pay close attention to dosages and schedules. Exam questions often ask *« Quand le patient doit-il prendre ses médicaments ? »* with choices like *avant les repas*, *après les repas*, or *au coucher*. Notice frequency adverbs (*deux fois par jour, toutes les quatre heures*).
 2. **Expression orale (Speaking Task 2 — Roleplay)**:
@@ -254,7 +254,7 @@ Medical and health themes regularly appear on the TCF Canada exam across both re
    <details>
    <summary>Afficher les réponses / Show answer key</summary>
 
-   - **Prenez** (*prendre* -> regular formal imperative)
+   - **Prenez** (*prendre* is irregular, but its *vous* imperative is simply the present form *prenez* without the pronoun)
    - **Ne faites pas** (*faire* -> irregular imperative form *faites*)
    - **Reposez-vous** (reflexive verb in positive imperative: verb-hyphen-pronoun)
    - **Buvez** (*boire* -> imperative stem *buv-*)
@@ -304,7 +304,7 @@ Medical and health themes regularly appear on the TCF Canada exam across both re
    > **Merci de votre compréhension et bonne journée,**  
    > **Alex Dupont**
 
-   **Word count**: 78 words.  
+   **Word count**: 77 words, excluding the subject line (a word is any string between two spaces, so *j'ai* = 1 word).  
    **Assessment**: Meets all A2 criteria for task achievement, polite register, and grammatical accuracy.
 
    </details>

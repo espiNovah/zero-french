@@ -2,8 +2,8 @@
 
 Economic integration into the Francophone workforce is one of the primary motivations for candidates preparing for the **TCF Canada** to obtain permanent residency or a Francophone Mobility work permit. Talking about your professional life—what you do, what your daily duties entail, how your schedule is organized, and how you collaborate with colleagues—is a daily reality in Canada.
 
-On the **TCF Canada examination**, workplace communication is tested across every single evaluation component:
-- In **Speaking (*Expression orale*) Task 1**, following your basic introduction, the examiner will almost always ask: *« Parlez-moi de votre profession. Quelles sont vos responsabilités principales ? »* (*Tell me about your profession. What are your main responsibilities?*). Answering with a single sentence (*« Je suis ingénieur »*) caps your initial score at Level A1. You must be able to describe your daily tasks, projects, and work environment.
+On the **TCF Canada examination**, workplace communication can come up in every evaluation component:
+- In **Speaking (*Expression orale*) Task 1**, following your basic introduction, the examiner will often ask something like: *« Parlez-moi de votre profession. Quelles sont vos responsabilités principales ? »* (*Tell me about your profession. What are your main responsibilities?*). Answering with a single sentence (*« Je suis ingénieur »*) gives the examiner very little language to assess. You must be able to describe your daily tasks, projects, and work environment.
 - In **Writing (*Expression écrite*) Task 1 and Task 2**, prompts frequently simulate workplace situations: writing an email to a supervisor requesting a schedule modification, informing a colleague about a project milestone, or explaining your professional qualifications.
 - In **Reading (*Compréhension écrite*)**, job descriptions, employment advertisements (*offres d'emploi*), and internal company memos test your ability to match job titles with required skills, schedules (*temps plein, temps partiel*), and telework policies.
 
@@ -24,7 +24,7 @@ This section contains a general overview of topics that you will learn in this l
 
 In French, professional titles reflect grammatical gender. While European French historically lagged in feminizing certain high-level professions, **Canada and Québec pioneered official gender-inclusive job titles** through the *Office québécois de la langue française (OQLF)*.
 
-On the TCF Canada exam, using official Canadian feminine titles is strongly encouraged and expected:
+On the TCF Canada exam, using the correct feminine title when it applies to you is natural and expected in modern French:
 
 | Masculine Title | Feminine Title | IPA (Masc. / Fem.) | English Meaning |
 | :--- | :--- | :--- | :--- |
@@ -96,7 +96,7 @@ Modern Canadian workplaces operate with flexible work arrangements, hybrid model
 #### Québec vs France: Workplace Lexicon
 
 Canadian workplaces have distinct linguistic terms protected by the OQLF:
-- **Le courriel** **(QC)** (/ku.ʁjɛl/): In Canada, an email is always *un courriel*, never *"un mail"* or *"un email"* (which are common in France).
+- **Le courriel** **(QC)** (/ku.ʁjɛl/): In Canada, *un courriel* is the recommended term for an email (OQLF), and it is the safe choice in formal writing. You will still hear *un mail* or *un email* in informal speech, and these are common in France.
 - **Le gestionnaire** **(QC)** (/ʒɛs.tjɔ.nɛʁ/): Manager or supervisor (in France: *le manager* or *le chef de service*).
 - **Le 5 à 7** **(QC)** (/lə sɛ̃k a sɛt/): Informal after-work drinks with colleagues between 5:00 PM and 7:00 PM (Canadian happy hour).
 - **Le C.V. (curriculum vitae)**: In Canadian French, resumes are universally referred to as *le CV* (/se.ve/).

@@ -4,7 +4,7 @@ In French, regular verbs follow predictable formulas, but the engine of daily co
 
 These three verbs are not simply vocabulary items; they are structural building blocks that unlock fundamental grammatical timeframes and cultural idioms. With **aller**, you will describe where you are heading, inquire about health, and form the **futur proche** (immediate future: *I am going to leave*). With **faire**, you will describe the weather, narrate sports and household activities, and talk about your job. With **venir**, you will state your geographic origins and form the **passé récent** (immediate past: *I just arrived*).
 
-For the TCF Canada candidate, mastering this triad marks the transition from static, one-clause sentences to dynamic temporal narration. In **Speaking Task 1** (*Entretien dirigé*) and **Writing Task 1**, candidates who can move seamlessly between present actions, upcoming plans with *aller*, and recent events with *venir* immediately demonstrate the grammatical flexibility required for a comfortable A2 score and beyond.
+For the TCF Canada candidate, mastering this triad marks the transition from static, one-clause sentences to dynamic temporal narration. In **Speaking Task 1** (*Entretien dirigé*) and **Writing Task 1**, candidates who can move seamlessly between present actions, upcoming plans with *aller*, and recent events with *venir* immediately demonstrate the grammatical flexibility expected of a solid A2 speaker and beyond.
 
 ### Lesson overview
 
@@ -20,7 +20,7 @@ This section contains a general overview of topics that you will learn in this l
 
 ### The verb aller: Movement, health, and the futur proche
 
-The verb **aller** (to go) is unique in French linguistics. Although its infinitive ends in *-er*, it belongs to the irregular third group because its present-tense conjugated stems derive from three completely different historical Latin roots (*vais*, *allons*, *ira*).
+The verb **aller** (to go) is unique in French linguistics. Although its infinitive ends in *-er*, it belongs to the irregular third group because its stems across tenses derive from three completely different historical Latin roots (*vais*, *allons*, *ira*).
 
 Observe how native speakers conjugate and pronounce **aller**:
 
@@ -69,7 +69,7 @@ Observe how naturally this expresses upcoming events and intentions:
 
 #### Exam tip
 
-In TCF Canada Speaking Task 1, after you introduce yourself, examiners frequently ask: *"Quels sont vos projets d'avenir ?"* ("What are your plans for the future?") or *"Pourquoi voulez-vous immigrer au Canada ?"*. Use the *futur proche* to deliver crisp, fluent responses: **"Je vais travailler dans mon domaine et ma famille va s'installer au Québec."** This demonstrates temporal competence without stumbling over complex conjugations.
+In TCF Canada Speaking Task 1, after you introduce yourself, the examiner may ask: *"Quels sont vos projets d'avenir ?"* ("What are your plans for the future?") or *"Pourquoi voulez-vous immigrer au Canada ?"*. Use the *futur proche* to deliver crisp, fluent responses: **"Je vais travailler dans mon domaine et ma famille va s'installer au Québec."** This demonstrates temporal competence without stumbling over complex conjugations.
 
 </div>
 
@@ -171,7 +171,7 @@ Here is the present tense conjugation of **venir**:
 Notice the phonetic contrast between singular forms (*viens/vient*: nasal vowel **/jɛ̃/**) and the third-person plural (*viennent*: oral open vowel plus audible consonant **/jɛn/**).
 
 #### 1. Expressing Origin: Venir de
-To express where you or your family come from, combine **venir** with the preposition **de** (contracted with definite articles as *du* for masculine countries, *de la* for feminine countries, *d'* before vowels):
+To express where you or your family come from, combine **venir** with the preposition **de** (*du* for masculine countries, *de* with no article for feminine countries, *d'* before a vowel, *des* for plural countries):
 - **Je viens du Sénégal.** (masculine country: *de + le* = *du*)
 - **Elle vient de France.** (feminine country: *de*)
 - **Nous venons d'Algérie.** (vowel-initial country: *d'*)
@@ -200,14 +200,14 @@ Observe how easily this conveys recent events:
 
 Notice how combining regular *-er* verbs with *aller*, *faire*, and *venir* creates rich, cohesive communicative paragraphs suitable for TCF Canada Writing Task 1:
 
-> **Ce matin, je viens d'arriver au bureau. Aujourd'hui, il fait beau mais un peu frais. À midi, je vais manger avec mes collègues dans un petit restaurant près du parc. L'après-midi, nous faisons une réunion d'équipe. Ce soir, je vais faire l'épicerie et je vais préparer le souper avec ma conjointe.**  
-> *This morning, I just arrived at the office. Today, the weather is nice but a bit cool. At noon, I am going to eat with my colleagues in a small restaurant near the park. In the afternoon, we are doing a team meeting. Tonight, I am going to do the grocery shopping and prepare dinner with my partner.*
+> **Ce matin, je viens d'arriver au bureau. Aujourd'hui, il fait beau mais un peu frais. À midi, je vais manger avec mes collègues dans un petit restaurant près du parc. L'après-midi, nous faisons le point en réunion d'équipe. Ce soir, je vais faire l'épicerie et je vais préparer le souper avec ma conjointe.**  
+> *This morning, I just arrived at the office. Today, the weather is nice but a bit cool. At noon, I am going to eat with my colleagues in a small restaurant near the park. In the afternoon, we take stock in a team meeting. Tonight, I am going to do the grocery shopping and prepare dinner with my partner.*
 
 Observe the variety of structures:
 - Immediate past: *je viens d'arriver*
 - Weather idiom: *il fait beau mais un peu frais*
 - Near future: *je vais manger*, *je vais faire*, *je vais préparer*
-- Activity idiom: *nous faisons une réunion*, *faire l'épicerie*
+- Activity idiom: *nous faisons le point*, *faire l'épicerie*
 
 ### Assignment
 

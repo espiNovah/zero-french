@@ -6,7 +6,7 @@ While rising intonation is sufficient for casual conversation among friends, adv
 
 On the **TCF Canada examination**, formal questioning is the explicit subject of an entire speaking module:
 - In **Speaking (*Expression orale*) Task 2**, you are handed an authentic classified document or situation (e.g. an apartment rental, a leisure course, a volunteer position, or an equipment rental). You are granted **2 minutes of preparation time** and must conduct a **3.5-minute face-to-face roleplay interaction** with the examiner.
-- During these 3.5 minutes, **you must lead the conversation by asking 7 to 10 distinct, relevant, and well-structured questions**. France Éducation international (FEI) examiners evaluate your performance on your ability to use the polite formal register (**le vouvoiement**), vary your syntactic structures, ask for clarification, and employ indirect question formulas.
+- During these 3.5 minutes, **you lead the conversation by asking distinct, relevant, and well-structured questions** (aiming for roughly 7 to 10 is a useful practice target, not an official rule). Examiners listen for an appropriate register (here, **le vouvoiement**), varied syntactic structures, requests for clarification, and indirect question formulas.
 
 In this lesson, you will master advanced subject-verb inversion (including euphonic *-t-* and complex noun inversion), learn polite indirect question openers (*Pourriez-vous me dire si...*, *J'aimerais savoir si...*), master agreement with *quel*, and build the exact question generation framework needed to ace TCF Speaking Task 2.
 
@@ -40,8 +40,10 @@ To form a simple inverted question, swap the conjugated verb and the subject pro
 > **Quand pouvez-vous faire la visite ?** — /kɑ̃ pu.ve vu fɛʁ la vi.zit/  
 > *When can you do the viewing?*
 
-> **Où se trouve l'appartement ?** — /u sə tʁuv l‿a.paʁ.tə.mɑ̃/  
-> *Where is the apartment located?*
+> **Où se trouve-t-il ?** — /u sə tʁuv.til/  
+> *Where is it located?*
+
+(With a noun subject, *Où se trouve l'appartement ?* is also correct, but that is **stylistic inversion** (no hyphen, no pronoun), not pronoun inversion.)
 
 In compound tenses like the passé composé, you invert **the auxiliary verb and the pronoun only**; the past participle follows:
 > **Avez-vous reçu mon dossier de candidature ?** — /a.ve vu ʁə.sy mɔ̃ dɔ.sje də kɑ̃.di.da.tyʁ/  
@@ -59,9 +61,9 @@ When a third-person verb (*il*, *elle*, *on*) ends in a vowel (such as *-e* or *
 
 | Normal Statement | Vowel Clash Avoided | Correct Inverted Form with Euphonic -t- | IPA Pronunciation |
 | :--- | :--- | :--- | :--- |
-| **Il habite à Laval.** | *Habite-il ?* (Incorrect) | **Habite-t-il à Laval ?** | /a.bit.t‿il a la.val/ |
+| **Il habite à Laval.** | *Habite-il ?* (Incorrect) | **Habite-t-il à Laval ?** | /a.bi.til a la.val/ |
 | **Elle a un balcon.** | *A-elle ?* (Incorrect) | **A-t-elle un balcon ?** | /a.t‿ɛl œ̃ bal.kɔ̃/ |
-| **Le bus arrive.** | *Arrive-il ?* (Incorrect) | **Arrive-t-il bientôt ?** | /a.ʁiv.t‿il bjɛ̃.to/ |
+| **Le bus arrive.** | *Arrive-il ?* (Incorrect) | **Arrive-t-il bientôt ?** | /a.ʁiv.til bjɛ̃.to/ |
 | **On peut fumer.** | *Peut-on ?* (Already ends in -t) | **Peut-on fumer sur le balcon ?** | /pø.t‿ɔ̃ fy.me syʁ lə bal.kɔ̃/ |
 
 Notice that if the verb already ends in **-t** or **-d** (*peut-on*, *attend-il*), no extra *-t-* is added; the existing consonant provides the liaison sound!
@@ -91,7 +93,7 @@ The noun remains at the beginning of the clause, and a matching pronoun (*il, el
 > **Le propriétaire a-t-il fixé une date pour la signature ?** — /lə pʁɔ.pʁi.je.tɛʁ a.t‿il fik.se yn dat puʁ la si.ɲa.tyʁ/  
 > *Has the landlord set a date for the signing?*
 
-Using complex noun inversion in formal written letters or during TCF Speaking Task 2 immediately demonstrates Upper Intermediate (B2) grammatical competence to the examiner!
+Using complex noun inversion in formal written letters or during TCF Speaking Task 2 shows the examiner a confident command of formal syntax!
 
 ### Polite indirect question openers
 
@@ -132,9 +134,9 @@ When inquiring about time, cost, location, or reasons, attach the interrogative 
 
 #### Critical Syntax Rule: No Inversion in Indirect Questions!
 
-Never combine an indirect question opener with an inversion:
-- **Incorrect**: *« Pourriez-vous me dire où est l'appartement ? »* (Direct order inversion error)
-- **Correct**: *« Pourriez-vous me dire où l'appartement se trouve ? »* or *« ... où se trouve l'appartement ? »*
+Never combine an indirect question opener with a hyphenated pronoun inversion:
+- **Incorrect**: *« Pourriez-vous me dire où est-il ? »* (Pronoun inversion inside an indirect question)
+- **Correct**: *« Pourriez-vous me dire où il se trouve ? »* (With a noun subject, *« ... où se trouve l'appartement ? »* or *« ... où est l'appartement ? »* is also correct: this is stylistic inversion, not an error.)
 - **Incorrect**: *« J'aimerais savoir est-ce que le loyer est cher. »* (Never use *est-ce que* after *savoir*!)
 - **Correct**: *« J'aimerais savoir si le loyer est élevé. »*
 
@@ -151,7 +153,7 @@ When asking *"which"* or *"what"*, French uses the interrogative adjective **que
 | **Quels** | Masc. Plur. | /kɛl/ | **Quels sont les électroménagers inclus ?**| What appliances are included? |
 | **Quelles** | Fem. Plur. | /kɛl/ | **Quelles sont les conditions du bail ?** | What are the lease conditions? |
 
-Notice that phonetically, **quel, quelle, quels,** and **quelles** all sound 100% identical: **/kɛl/**. In written French, however, matching the spelling to the gender and number of the noun is strictly evaluated under the *Correction grammaticale* criterion!
+Notice that phonetically, **quel, quelle, quels,** and **quelles** all sound 100% identical: **/kɛl/**. In written French, however, matching the spelling to the gender and number of the noun is part of grammatical accuracy, which examiners do assess!
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -161,7 +163,7 @@ In Québec culture, informal address (*le tutoiement*) is adopted much earlier i
 
 However, in any **administrative, legal, or housing transaction**, and especially during the **TCF Canada examination**, **le vouvoiement is strictly mandatory**:
 - Always address the landlord, agent, or examiner with **vous**: *« Pourriez-vous me préciser... »*, *« Êtes-vous disponible... »*.
-- Never slip into *tu* during Speaking Task 2, even if the examiner maintains a warm and friendly demeanor. Treating the examiner with professional *vous* is a fundamental grading constraint.
+- Never slip into *tu* during Speaking Task 2, even if the examiner maintains a warm and friendly demeanor. Treating the examiner with professional *vous* is the safe, expected register for this kind of scenario.
 
 </div>
 
@@ -179,7 +181,7 @@ Instead, sketch this rapid **6-Point Question Generation Grid**:
 5. **Règles / Conditions**: *Les animaux sont-ils acceptés ? / Est-ce non-fumeur ?*
 6. **Rendez-vous / Suite**: *Quand serait-il possible de se rencontrer pour visiter ?*
 
-This grid guarantees that you will never run out of questions during the 3.5-minute interaction!
+This grid helps make sure you never run out of questions during the 3.5-minute interaction!
 
 </div>
 
@@ -256,4 +258,4 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - [Podcast Français Facile — L'interrogation en français](https://www.podcastfrancaisfacile.com/cours/interrogation.html): Grammar lessons, audio pronunciation drills, and quizzes for inverted and indirect questions.
-- [TV5Monde — Entraînement TCF Expression orale](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire): Official practice materials and simulated examiner interactions for TCF Speaking Tasks.
+- [TV5Monde — Entraînement TCF Expression orale](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire): Free practice materials for oral French at A2 level (not official TCF items).

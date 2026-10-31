@@ -2,9 +2,9 @@
 
 In this benchmark project, you will record your very first structured oral performance dedicated to phonetics: a 3-minute diagnostic recording testing your command of the sound system of French. This project directly targets your oral pronunciation baseline for **all three speaking tasks of the TCF Canada (*Expression orale*)** as well as your acoustic decoding accuracy for **TCF Listening (*Compréhension orale*)**.
 
-In the TCF Canada exam, examiners evaluate your pronunciation from your very first utterance in Speaking Task 1 and throughout your interactions in Tasks 2 and 3 under the official criterion *Correction phonétique*. Pronunciation errors that obscure meaning—such as confusing **/y/** (in *tu*) with **/u/** (in *tout*), pronouncing silent verb endings like *-ent*, or dropping mandatory liaisons—directly cap your score on the speaking rubric. Furthermore, candidates who cannot articulate these phonemes reliably consistently struggle to recognize them when listening to fast-paced native recordings in the 35-minute Listening test.
+In the TCF Canada exam, the examiner hears your pronunciation from your very first utterance in Speaking Task 1 and throughout Tasks 2 and 3, and it feeds into your single overall speaking score (/20). Pronunciation errors that obscure meaning—such as confusing **/y/** (in *tu*) with **/u/** (in *tout*), pronouncing silent verb endings like *-ent*, or dropping mandatory liaisons—make you harder to understand and hold your score back. Furthermore, candidates who cannot articulate these phonemes reliably consistently struggle to recognize them when listening to fast-paced native recordings in the 35-minute Listening test.
 
-Completing this project creates a permanent acoustic reference point in your portfolio. You will record minimal pairs, nasal vowel contrasts, silent consonant rules, mandatory liaisons, and high-frequency number sequences, and audit your delivery against France Éducation international (FEI) phonetic benchmarks.
+Completing this project creates a permanent acoustic reference point in your portfolio. You will record minimal pairs, nasal vowel contrasts, silent consonant rules, mandatory liaisons, and high-frequency number sequences, and audit your delivery against an unofficial self-assessment rubric.
 
 ### Before you start
 
@@ -18,7 +18,7 @@ Before beginning your recording session, ensure you have the following setup pre
   - [Pure Vowels, U vs OU, and Nasal Sounds](#/lessons/a1-basics/vowels-and-nasals)
   - [Silent Letters, Elision, and Liaisons](#/lessons/a1-basics/silent-letters-and-liaisons)
   - [Numbers, Time, and the Calendar](#/lessons/a1-basics/numbers-time-dates)
-- **Practice Reading**: Read the benchmark script once silently and once at half-speed out loud to loosen your articulatory muscles before recording your official take.
+- **Practice Reading**: Read the benchmark script once silently and once at half-speed out loud to loosen your articulatory muscles before recording your final take.
 
 ### Assignment
 
@@ -44,7 +44,7 @@ Before beginning your recording session, ensure you have the following setup pre
    > 10. *Le chef et le serveur ont fini le chocolat noir.* — /lə ʃɛf e lə sɛʁ.vœʁ ɔ̃ fi.ni lə ʃɔ.kɔ.la nwaʁ/ — (The chef and the waiter finished the dark chocolate.)  
    > 
    > **Partie 4 : Liaisons obligatoires et élisions**  
-   > 11. *Les‿enfants ont‿un grand‿ami en‿Afrique.* — /le.z‿ɑ̃.fɑ̃ ɔ̃.t‿œ̃ ɡʁɑ̃.t‿a.mi ɑ̃.n‿a.fʁik/ — (The children have a great friend in Africa.)  
+   > 11. *Les‿enfants ont‿un grand‿ami en‿Afrique.* — /le.z‿ɑ̃.fɑ̃ ɔ̃.t‿œ̃ ɡʁɑ̃.t‿a.mi ɑ̃.n‿a.fʁik/ — (The children have a great friend in Africa. Note: *ont‿un* is an optional liaison; the other three are mandatory.)  
    > 12. *Nous‿avons deux‿ordinateurs et trois‿armoires.* — /nu.z‿a.vɔ̃ dø.z‿ɔʁ.di.na.tœʁ e tʁwa.z‿aʁ.mwaʁ/ — (We have two computers and three wardrobes.)  
    > 13. *Quand‿il arrive, on‿écoute son‿histoire.* — /kɑ̃.t‿i.l‿a.ʁiv ɔ̃.n‿e.kut sɔ̃.n‿is.twaʁ/ — (When he arrives, we listen to his story.)  
    > 
@@ -75,7 +75,7 @@ Save and archive the following three tangible artifacts in your course tracking 
 
 #### Scoring Rubric
 
-Evaluate your recording using the France Éducation international (FEI) phonetic criteria adapted for the A1 phonetics benchmark (total: 20 points):
+Evaluate your recording using this unofficial self-assessment rubric for the A1 phonetics benchmark (total: 20 points). It is not an FEI grid; the real TCF Canada gives one overall speaking score /20.
 
 | Criterion | 0–1 points (Below A1) | 2–3 points (Emerging A1) | 4 points (Mastered A1 Benchmark) |
 | :--- | :--- | :--- | :--- |
@@ -95,7 +95,7 @@ Evaluate your recording using the France Éducation international (FEI) phonetic
 To evaluate your recording using an acoustic AI model or speech-to-text transcription engine (such as Whisper, Google Cloud Speech, or your smartphone's French dictation), run your audio through transcription and paste the transcript and the prompt below into an LLM:
 
 ```text
-You are a senior France Éducation international (FEI) oral examiner and French phonetician assessing a candidate's baseline phonetics for the TCF Canada exam.
+You are an experienced French phonetician and TCF Canada speaking coach assessing a learner's baseline phonetics.
 
 Candidate Level: A1 Phonetics Benchmark
 Expected Script:
@@ -125,7 +125,7 @@ Perform a strict diagnostic analysis:
 1. Vowel & Consonant Precision: Based on transcription errors (e.g. if the speech recognition transcribed "tout lu" as "tout loup" or "pain" as "pan"), identify likely phoneme confusions.
 2. Silent Letter & Liaison Audit: Check whether liaisons were transcribed as continuous phrases or disjointed words.
 3. Number & Code Accuracy: Verify whether the digits (79, 91), phone number, and postal code letters (J, X, V) were recognized accurately.
-4. Numerical Score: Provide a score out of 20 according to the 5 FEI criteria (4 points per criterion).
+4. Numerical Score: Provide a score out of 20 according to the 5 criteria of this unofficial self-assessment rubric (4 points per criterion).
 5. Prescriptive Drills: Prescribe two specific articulatory drills (e.g. pencil-in-mouth technique, finger-on-nose test) to correct the primary detected weakness.
 Be rigorous and uncompromising. Do not flatter the candidate.
 ```

@@ -2,9 +2,9 @@
 
 Look around the room where you are sitting. You probably see a computer, a desk, a window, a phone, and a cup. In English, these are all inanimate things, universally referred to as "it." In French, however, every single physical object and abstract concept belongs to one of two grammatical categories: masculine or feminine. A table (*la table*) is feminine, while a desk (*le bureau*) is masculine. A book (*le livre*) is masculine, while a chair (*la chaise*) is feminine.
 
-For adult English speakers, grammatical gender often feels arbitrary and intimidating. But mastering noun gender and articles is not an optional aesthetic choice; it is the structural backbone of French communication. In the TCF Canada exam, gender controls the choice of articles (*un*, *une*, *le*, *la*), possessive forms (*mon*, *ma*), and adjective agreements. In the first eight questions of the *Compréhension orale* (Listening) section, candidates frequently must identify pictures of common objects based on short spoken announcements. Using the wrong gender immediately signals hesitation and lowers your grammatical accuracy score across both Speaking and Writing.
+For adult English speakers, grammatical gender often feels arbitrary and intimidating. But mastering noun gender and articles is not an optional aesthetic choice; it is the structural backbone of French communication. In the TCF Canada exam, gender controls the choice of articles (*un*, *une*, *le*, *la*), possessive forms (*mon*, *ma*), and adjective agreements. In the early, easier items of the *Compréhension orale* (Listening) section, you may need to pick out common objects described in short spoken messages. In Speaking and Writing, using the wrong gender is a grammar error that weakens your performance.
 
-In this lesson, you will demystify French grammatical gender. You will master both definite articles (*the*) and indefinite articles (*a / an / some*), learn high-frequency vocabulary for workplace and domestic objects, discover reliable spelling patterns that predict gender with over 85% accuracy, and learn how to describe items using color adjectives with proper agreement.
+In this lesson, you will demystify French grammatical gender. You will master both definite articles (*the*) and indefinite articles (*a / an / some*), learn high-frequency vocabulary for workplace and domestic objects, discover reliable spelling patterns that predict gender reliably, and learn how to describe items using color adjectives with proper agreement.
 
 ### Lesson overview
 
@@ -66,7 +66,7 @@ Use definite articles when referring to a specific item known to both speaker an
 
 | Category | Masculine Singular | Feminine Singular | Before Vowel / Silent H | All Plural Nouns |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indefinite (a / some)** | **un** (/œ̃/) | **une** (/yn/) | **un** / **une** (with liaison) | **des** (/de/) |
+| **Indefinite (a / some)** | **un** (/œ̃/) | **une** (/yn/) | **un** (liaison /n/) / **une** (enchaînement) | **des** (/de/) |
 | **Definite (the)** | **le** (/lə/) | **la** (/la/) | **l'** (/l/) | **les** (/le/) |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -128,7 +128,7 @@ On the TCF Canada, all of these terms appear in listening prompts and reading te
 
 ### Predicting gender from noun endings
 
-While memorizing the article with each noun is essential, French noun endings (suffixes) provide powerful clues. Over 80% of French nouns follow regular suffix patterns:
+While memorizing the article with each noun is essential, French noun endings (suffixes) provide powerful clues. Many French nouns follow regular suffix patterns:
 
 #### Reliable Masculine Suffixes (over 90% masculine)
 - **-ment**: *le gouvernement* (government), *le document* (document), *l'appartement* (apartment)
@@ -144,7 +144,7 @@ While memorizing the article with each noun is essential, French noun endings (s
 - **-ette**: *la bicyclette* (bicycle), *la disquette* (diskette), *la serviette* (towel/briefcase)
 - **-ure**: *la voiture* (car), *la culture* (culture), *la nature* (nature)
 - **-ance / -ence**: *la présence* (presence), *la différence* (difference), *la chance* (luck) *(Exception: le silence)*
-- **-ode / -ade / -ude**: *la méthode* (method), *la salade* (salad), *l'attitude* (attitude)
+- **-ode / -ade / -ude**: *la méthode* (method), *la salade* (salad), *l'attitude* (attitude) *(Exceptions: le code, l'épisode, le stade)*
 
 When encountering a new vocabulary word in a TCF reading text, check the ending. If it ends in **-tion**, you can be 99% confident it is feminine and requires *la* or *une*.
 
@@ -192,7 +192,7 @@ Observe these descriptions in complete sentences:
 
 #### Exam tip
 
-In TCF Listening items 1 to 8, you will see four pictures depicting similar objects with slight differences (e.g., a black car vs a red car, an open window vs a closed door). The audio will play a single sentence such as: *"Veuillez laisser la porte blanche fermée."* Listening carefully for the gender marker (*la* vs *le*) and the color ending (*blanche* vs *blanc*) allows you to eliminate distractor pictures instantly.
+In the early, easier TCF Listening items, the answer choices may differ only by small details (e.g., a black car vs a red car, an open window vs a closed door). The audio will play a single sentence such as: *"Veuillez laisser la porte blanche fermée."* Listening carefully for the gender marker (*la* vs *le*) and the color ending (*blanche* vs *blanc*) allows you to eliminate distractors instantly.
 
 </div>
 

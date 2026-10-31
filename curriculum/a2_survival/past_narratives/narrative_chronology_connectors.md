@@ -7,7 +7,7 @@ However, stringing together past actions in real conversation and on language ex
 To achieve an **A2/B1 score on the TCF Canada**, you must master **narrative chronology markers and discourse connectors** (*les connecteurs logiques et chronologiques*). Connectors are the linguistic glue of the French language: they guide the listener or reader through the beginning, middle, turning points, interruptions, and conclusion of a story.
 
 On the **TCF Canada examination**, narrative chronology markers are tested across all four skills:
-- In **Writing (*Expression écrite*) Task 1 and Task 2**, the France Éducation international (FEI) rubric contains a dedicated criterion titled **Cohérence et cohésion / Organisation du discours**. Using varied chronological articulators (*d'abord, ensuite, soudain, finalement*) is mandatory to score above the A1/A2 threshold. Repeating *« et puis... et puis... »* or *« et après... »* is penalized.
+- In **Writing (*Expression écrite*) Task 1 and Task 2**, examiners assess how clearly your text is organized and linked (coherence and cohesion). Varied chronological articulators (*d'abord, ensuite, soudain, finalement*) make your narrative easy to follow, while repeating *« et puis... et puis... »* or *« et après... »* makes it feel disjointed.
 - In **Speaking (*Expression orale*) Task 1 and Task 2**, connectors give you the structural backbone to sustain a fluent 2-minute personal recount without awkward pauses or losing the thread of your narrative.
 - In **Listening (*Compréhension orale*)**, audio dialogues and announcements use chronological pivots (*tout à coup, au même moment, plus tard*) to set traps—testing whether you can identify which event happened first, second, or was unexpectedly interrupted.
 
@@ -120,8 +120,8 @@ When recounting an event for the TCF (such as describing a travel delay, a lost 
   > **Nous marchions dans le parc, quand soudain il a commencé à neiger.** — /nu maʁ.ʃjɔ̃ dɑ̃ lə paʁk, kɑ̃ su.dɛ̃ i.l‿a kɔ.mɑ̃.se a ne.ʒe/  
   > *We were walking in the park, when suddenly it started to snow.*
 - **Tout à coup** (/tu.t‿a ku/) — *All of a sudden*:
-  > **Tout à coup, l'électricité a coupé dans tout le quartier.** — /tu.t‿a ku, l‿e.lɛk.tʁi.si.te a ku.pe dɑ̃ tu lə kaʁ.tje/  
-  > *All of a sudden, the electricity cut out in the entire neighborhood.*
+  > **Tout à coup, le courant a été coupé dans tout le quartier.** — /tu.t‿a ku, lə ku.ʁɑ̃ a e.te ku.pe dɑ̃ tu lə kaʁ.tje/  
+  > *All of a sudden, the power was cut in the entire neighborhood.*
 
 ### Concluding the narrative: Enfin and Finalement
 
@@ -142,12 +142,12 @@ How you conclude a recount is just as important as how you begin it.
 #### Québec vs France
 
 In Québec everyday speech, connectors often carry distinct Canadian flavors:
-- **Tout d'un coup** (/tu d‿œ̃ ku/) is very common in spoken Canadian French where European French uses *tout à coup*.
+- **Tout d'un coup** (/tu d‿œ̃ ku/) is used alongside *tout à coup* everywhere in the francophone world (not a Québec-only form), and you will hear it often in Québec speech.
 - **Fait que...** **(QC)** (/fɛ kə/) is an ubiquitous colloquial Canadian discourse marker meaning "So...", "Consequently...", or "As a result...":
   > *« J'ai manqué le bus, fait que je suis arrivé en retard. »* **(QC)** (Colloquial spoken Québec French)  
   > Standard French equivalent: *« J'ai manqué le bus, alors je suis arrivé en retard. »* or *« ... donc je suis arrivé en retard. »*
 
-On the TCF Canada examination, listening dialogues set in Montreal or Quebec City will frequently feature *tout d'un coup* or *alors*, while writing submissions should stick strictly to standard connectors like **alors**, **donc**, and **par conséquent**.
+On the TCF Canada examination, listening dialogues set in Montreal or Quebec City may feature colloquial markers like *fait que*, while your writing should stick to standard connectors like **alors**, **donc**, and **par conséquent**.
 
 </div>
 
@@ -155,21 +155,21 @@ On the TCF Canada examination, listening dialogues set in Montreal or Quebec Cit
 
 #### Exam tip
 
-On **TCF Writing Task 1 (60–120 words)** and **Task 2 (120–150 words)**, examiners penalize repetitive sentence starters.
+On **TCF Writing Task 1 (60–120 words)** and **Task 2 (120–150 words)**, repetitive sentence starters weaken your text.
 
 A very common beginner trap is repeating:
 - *« Et puis nous sommes allés au restaurant... »*
 - *« Et puis j'ai mangé... »*
 - *« Et puis nous avons visité le musée... »*
 
-This repetition will cap your *Cohérence et cohésion* score at Level A1. Instead, deliberately use a balanced cycle of connectors:
+This repetition makes your text sound disjointed and weakens its coherence. Instead, deliberately use a balanced cycle of connectors:
 1. First action: **D'abord, ...**
 2. Second action: **Ensuite, ...**
 3. Third action: **Vers midi, nous avons... Puis, dans l'après-midi, ...**
 4. Fourth action: **Après cette visite, ...**
 5. Conclusion: **Finalement, en soirée, ...**
 
-This variety creates natural pacing and instantly signals B1-level narrative competence!
+This variety creates natural pacing and makes your narrative much easier to follow!
 
 </div>
 
@@ -185,7 +185,7 @@ This variety creates natural pacing and instantly signals B1-level narrative com
    1. (________), nous avons récupéré nos valises à l'aéroport international Pierre-Elliott-Trudeau.
    2. (________), nous avons pris un taxi en direction de notre appartement sur le Plateau-Mont-Royal.
    3. (________) le chauffeur conduisait sur l'autoroute, nous avons admiré la silhouette des gratte-ciel.
-   4. (________), un orage de neige spectaculaire a commencé à tomber sur la ville.
+   4. (________), une violente tempête de neige a éclaté sur la ville.
    5. (________), vers 20 heures, nous sommes arrivés sains et saufs à notre nouvelle adresse !
 
    <details>
@@ -194,7 +194,7 @@ This variety creates natural pacing and instantly signals B1-level narrative com
    1. **D'abord** (*D'abord, nous avons récupéré nos valises...* — Introduces the opening chronological event).
    2. **Ensuite** (*Ensuite, nous avons pris un taxi...* — Progresses to the next immediate step).
    3. **Pendant que** (*Pendant que le chauffeur conduisait...* — Expresses simultaneous duration with a clause).
-   4. **Tout à coup** (*Tout à coup, un orage de neige...* — Introduces the sudden weather disruption).
+   4. **Tout à coup** (*Tout à coup, une violente tempête de neige a éclaté...* — Introduces the sudden weather disruption).
    5. **Enfin** (or **Finalement**) (*Enfin, vers 20 heures, nous sommes arrivés...* — Expresses the final resolution and relief).
 
    </details>
@@ -239,7 +239,7 @@ The following questions are an opportunity to reflect on key topics in this less
 - [What is the difference in syntax between pendant and pendant que?](#simultaneous-actions-and-unexpected-disruptions)
 - [Which connectors signal an unexpected event or sudden disruption?](#simultaneous-actions-and-unexpected-disruptions)
 - [When should you choose finalement or enfin to conclude a story?](#concluding-the-narrative-enfin-and-finalement)
-- [Why is repeating et puis penalized on the TCF Canada exam?](#concluding-the-narrative-enfin-and-finalement)
+- [Why does repeating et puis weaken your writing on the TCF Canada exam?](#concluding-the-narrative-enfin-and-finalement)
 
 ### Additional resources
 

@@ -48,7 +48,7 @@ Notice the spelling and sound pattern of *s'appeler*: when conjugated with *je*,
 
 #### Exam tip
 
-In Speaking Task 1 of the TCF Canada, the examiner will frequently open with: **"Bonjour, pouvez-vous vous présenter ?"** ("Hello, can you introduce yourself?"). Respond immediately with a clear, fluent sentence: **"Bonjour, je m'appelle [Votre Prénom], je suis d'origine [pays] et j'habite actuellement à [ville]."** Starting strong establishes an immediate baseline of A2/B1 fluency.
+In Speaking Task 1 of the TCF Canada, the examiner will frequently open with: **"Bonjour, pouvez-vous vous présenter ?"** ("Hello, can you introduce yourself?"). Respond immediately with a clear, fluent sentence: **"Bonjour, je m'appelle [Votre Prénom], je viens du [pays] (ex. : *je viens du Brésil* / *je suis d'origine brésilienne*) et j'habite actuellement à [ville]."** A clear, confident start gets the conversation moving and makes a good first impression.
 
 </div>
 
@@ -154,7 +154,7 @@ Compare these paired examples:
 
 > **Je suis ingénieur.** — /ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/  
 > *I am an engineer. (Correct: no article)*  
-> ✗ *Je suis un ingénieur.* (Incorrect in standard French)
+> ✗ *Je suis un ingénieur.* (Unnatural in standard French when simply stating your profession)
 
 > **Elle est avocate.** — /ɛl ɛ.t‿a.vɔ.kat/  
 > *She is a lawyer. (Correct: feminine form, no article)*
@@ -194,7 +194,7 @@ Let us synthesize these three verbs (*s'appeler*, *être*, *avoir*) into a conti
 > /bɔ̃.ʒuʁ. ʒə ma.pɛl da.vid tʁɑ̃.blɛ. ʒe tʁɑ̃t.sɛ̃.k‿ɑ̃ e ʒə sɥi ka.na.djɛ̃. ʒə sɥi.z‿a.na.list fi.nɑ̃.sje a tɔ.ʁɔ̃.to. ʒə paʁl ɑ̃.ɡlɛ ku.ʁa.mɑ̃ e ʒe.ty.di lə fʁɑ̃.sɛ./  
 > *Hello. My name is David Tremblay. I am thirty-five years old and I am Canadian. I am a financial analyst in Toronto. I speak English fluently and I am studying French.*
 
-Notice how simple sentences connected by **et** (*and*) create a smooth, coherent flow that examiner rubrics reward for A1/A2 level.
+Notice how simple sentences connected by **et** (*and*) create a smooth, coherent flow, which is exactly what an A1/A2 speaker should aim for.
 
 ### Assignment
 
@@ -220,7 +220,7 @@ Notice how simple sentences connected by **et** (*and*) create a smooth, coheren
    5. **canadienne** (Doubles the *n* and adds *e*).
    6. **Errors**: 
       - *"Je suis 34 ans"* → should be **J'ai 34 ans** (age uses *avoir*).
-      - *"je suis un médecin"* → should be **je suis médecin** (omit the indefinite article).
+      - *"je suis un médecin"* → should be **je suis médecin** (omit the indefinite article; *je suis un médecin* sounds unnatural).
 
    </details>
 

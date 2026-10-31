@@ -4,7 +4,7 @@ In previous lessons, you mastered grocery shopping, ordering at cafés, and desc
 
 Whether chatting with a neighbour at the bus stop, planning outdoor weekend activities with friends, or understanding a radio broadcast warning of an impending snowstorm, weather talk is a daily social necessity. For newcomers to Canada, understanding weather alerts is not merely a conversational nicety—it is a critical safety skill during Canadian winters where temperatures routinely drop below -20 °C.
 
-On the **TCF Canada examination**, weather forecasts (*les bulletins météorologiques*) appear regularly in **Listening (*Compréhension orale*)**, where audio recordings test your ability to distinguish between regional conditions, morning versus evening temperatures, and coastal versus inland forecasts. In **Speaking Task 1 and 2**, you will frequently describe your favourite season, explain how you adapt to local climates, or ask questions about seasonal activity schedules. In this lesson, you will master the unique grammar of impersonal weather verbs, learn how to express temperatures (including Canadian sub-zero conditions), master seasonal prepositions, and acquire essential Canadian winter meteorology vocabulary.
+On the **TCF Canada examination**, weather forecasts (*les bulletins météorologiques*) are a possible topic in **Listening (*Compréhension orale*)**, where audio recordings can test your ability to distinguish between regional conditions, morning versus evening temperatures, and coastal versus inland forecasts. In **Speaking Task 1 and 2**, you may be asked to describe your favourite season, explain how you adapt to local climates, or ask questions about seasonal activity schedules. In this lesson, you will master the unique grammar of impersonal weather verbs, learn how to express temperatures (including Canadian sub-zero conditions), master seasonal prepositions, and acquire essential Canadian winter meteorology vocabulary.
 
 ### Lesson overview
 
@@ -63,7 +63,7 @@ Never say *"La météo est chaude"* or *"C'est froid aujourd'hui"*. The weather 
 
 ### Dedicated verbs of precipitation and atmospheric phenomena
 
-In addition to expressions with *faire*, French possesses dedicated impersonal verbs to describe precipitation. These verbs exist only in the third-person singular (**il**):
+In addition to expressions with *faire*, French possesses dedicated impersonal verbs to describe precipitation. They are used impersonally with **il**. *Pleuvoir*, *neiger* and *grêler* exist only in this third-person form; *geler* is also an ordinary verb (*l'eau gèle*, *je gèle* = I'm freezing):
 
 #### 1. Verbs of Precipitation
 
@@ -138,7 +138,7 @@ Notice the irregularity in the table above:
 - **en hiver** (/ɑ̃.n‿i.vɛʁ/) — starts with a silent *h*, uses **en**
 - **au printemps** (/o pʁɛ̃.tɑ̃/) — starts with a consonant (*p*), uses **au** (*à + le = au*)!
 
-Never say *"en printemps"*. Saying *"en printemps"* is an immediate grammar flag on both TCF writing and speaking rubrics.
+Never say *"en printemps"*. Saying *"en printemps"* is a basic grammar error that stands out in both TCF writing and speaking.
 
 </div>
 
@@ -148,11 +148,11 @@ Never say *"en printemps"*. Saying *"en printemps"* is an immediate grammar flag
 
 Canadian French has evolved a rich, highly specialized lexicon to describe the realities of North American winter storms:
 
-- **Une bordée de neige** **(QC)**: In France, people say *une chute de neige*. In Québec, a heavy, sudden snowfall of 15 to 30 cm or more is called *une bordée de neige* **(QC)**.
-- **Une tempête de neige** **(QC)**: A snowstorm. If combined with high winds reducing visibility to near zero, it is called *un blizzard* or *une poudrerie* **(QC)** (blowing snow).
-- **Le verglas** (/lə vɛʁ.ɡla/): Freezing rain or black ice. When rain falls through freezing air and coats sidewalks and highways in transparent ice, it creates *du verglas*. A severe ice storm is *une tempête de verglas*.
+- **Une bordée de neige** **(QC)**: In France, people say *une chute de neige*. In Québec, a heavy snowfall is called *une bordée de neige* **(QC)**.
+- **Une tempête de neige**: A snowstorm (used everywhere). If combined with high winds reducing visibility to near zero, it is called *un blizzard* or *une poudrerie* **(QC)** (blowing snow).
+- **Le verglas** (/lə vɛʁ.ɡla/): Black ice, the thin transparent ice that coats sidewalks and highways. The rain that causes it is *la pluie verglaçante* (freezing rain). A severe ice storm is *une tempête de verglas*.
 - **La gadoue** vs **La slush** **(QC)**: When snow on city streets melts into dirty, watery grey slush, Europeans call it *la gadoue*, while in Québec everyone uses the colourful colloquial term *la slush* **(QC)** (/la slœʃ/).
-- **Pelleter la neige** **(QC)**: The quintessential Canadian winter exercise: shoveling snow off your driveway or car is *pelleter* **(QC)** (using *une pelle à neige*).
+- **Pelleter la neige**: The quintessential Canadian winter exercise: shoveling snow off your driveway or car is *pelleter* (a standard French verb, using *une pelle à neige*).
 - **Un banc de neige** **(QC)**: A large snowbank piled up along the side of the road by snowplows (*les déneigeuses*).
 
 </div>
@@ -161,7 +161,7 @@ Canadian French has evolved a rich, highly specialized lexicon to describe the r
 
 #### Exam Tip: Deciphering Weather Bulletins in TCF Listening
 
-On the TCF Canada Listening examination, official weather forecasts are frequent stimulus recordings. France Éducation international (FEI) examiners construct multiple-choice questions around specific distractor patterns:
+On the TCF Canada Listening examination, weather forecasts are a possible topic for recordings. Multiple-choice questions on them often rely on these distractor patterns:
 
 1. **Temporal Distractors (Today vs Tomorrow vs Weekend)**:  
    The announcer may say: *"Aujourd'hui sur Montréal, le soleil domine avec un mercure agréable de 24 degrés. Toutefois, une perturbation pluvieuse arrivera dès demain matin avec des averses soutenues et une baisse sensible à 14 degrés."*  
@@ -220,7 +220,7 @@ On the TCF Canada Listening examination, official weather forecasts are frequent
    - *en automne* (/ɑ̃.n‿o.tɔn/) — in autumn
    - *en hiver* (/ɑ̃.n‿i.vɛʁ/) — in winter
    - *une bordée de neige* **(QC)** (/yn bɔʁ.de də nɛʒ/) — heavy snowfall (Canada)
-   - *le verglas* (/lə vɛʁ.ɡla/) — black ice / freezing rain
+   - *le verglas* (/lə vɛʁ.ɡla/) — black ice (freezing rain = *la pluie verglaçante*)
 
 3. **Step 3: Receptive Listening Task**  
    Listen to the short weather bulletin on [TV5Monde — La météo en France et au Canada](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  

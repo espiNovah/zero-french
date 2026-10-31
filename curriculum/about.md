@@ -14,7 +14,7 @@ Adult English speakers starting from zero, studying about 10 hours a week. If yo
 
 The main use cases:
 
-- **Express Entry applicants:** need NCLC 7+ in French to maximise CRS points for permanent residency.
+- **Express Entry applicants:** NCLC 7+ in all four French skills unlocks the French-language CRS bonus (up to 50 points) and French-language category-based draws for permanent residency.
 - **PNP candidates:** many Provincial Nominee Programs award extra points or require a minimum French level.
 - **Citizenship applicants:** need to demonstrate adequate French (or English) proficiency for Canadian citizenship.
 - **Complete beginners:** the A1 path starts from absolute zero — no prior French knowledge required.

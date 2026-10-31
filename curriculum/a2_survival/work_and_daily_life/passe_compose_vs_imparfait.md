@@ -8,8 +8,8 @@ Up to this point, you have studied each tense in isolation:
 
 In real-world conversation and professional storytelling, however, these two tenses **never operate alone**. They work in constant harmony, weaving together like threads in a tapestry: the *imparfait* creates the stage, the lighting, and the background atmosphere, while the *passé composé* sends the actors across the stage to trigger events, interruptions, and plot developments.
 
-On the **TCF Canada examination**, mastering this dual-tense interplay is the **universal discriminator between CEFR Level A2 and Level B1/B2**:
-- In **Writing (*Expression écrite*) Task 2 (120–150 words)**, candidates who rely exclusively on the passé composé produce robotic, dry lists of actions. Candidates who rely exclusively on the imparfait produce static descriptions where nothing ever happens. Blending both tenses seamlessly is the exact criterion examiners evaluate under *Correction morphosyntaxique*.
+On the **TCF Canada examination**, mastering this dual-tense interplay is **one of the clearest signs of progress from CEFR Level A2 toward Level B1/B2**:
+- In **Writing (*Expression écrite*) Task 2 (120–150 words)**, candidates who rely exclusively on the passé composé produce robotic, dry lists of actions. Candidates who rely exclusively on the imparfait produce static descriptions where nothing ever happens. Blending both tenses seamlessly makes your narrative vivid, and examiners do assess grammatical accuracy.
 - In **Listening (*Compréhension orale*)**, audio dialogues constantly rely on this contrast to convey plot twists: *« Je roulais tranquillement sur l'autoroute (imparfait) quand un camion a freiné brusquement (passé composé) »*.
 - In **Speaking (*Expression orale*) Task 1 and Task 3**, when recounting an anecdote, an immigration memory, or a past obstacle, balancing background details with specific decisions marks you as an authentic, fluid speaker.
 
@@ -79,9 +79,9 @@ The most common narrative construction in French combines both tenses in a singl
 > *We were walking on Sainte-Catherine Street when it began to snow.*  
 > (*Marchions* = ongoing action; *a commencé* = specific start of precipitation).
 
-> **Pendant que je lisais mes courriels, la connexion Internet a coupé.** — /pɑ̃.dɑ̃ kə ʒə li.zɛ me ku.ʁjɛl, la kɔ.nɛk.sjɔ̃ ɛ̃.tɛʁ.nɛt a ku.pe/  
-> *While I was reading my emails, the Internet connection dropped.*  
-> (*Lisais* = background activity; *a coupé* = sudden disruption).
+> **Pendant que je lisais mes courriels, la connexion Internet a été coupée.** — /pɑ̃.dɑ̃ kə ʒə li.zɛ me ku.ʁjɛl, la kɔ.nɛk.sjɔ̃ ɛ̃.tɛʁ.nɛt a e.te ku.pe/  
+> *While I was reading my emails, the Internet connection was cut off.*  
+> (*Lisais* = background activity; *a été coupée* = sudden disruption).
 
 ### Temporal trigger words: navigating the tense indicators
 
@@ -143,27 +143,27 @@ Certain common French verbs express fundamentally different concepts depending o
 
 #### Québec vs France: Spoken Narration
 
-In informal Québec speech, you will frequently hear speakers punctuate past anecdotes using the present tense (*le présent de narration*) to create dramatic immediacy:
+In informal speech everywhere (and very often in Québec), you will hear speakers punctuate past anecdotes using the present tense (*le présent de narration*) to create dramatic immediacy:
 > *« Là, j'étais dans mon char (imparfait), pis tout d'un coup un chevreuil traverse la route (présent) ! »* **(QC)**
 
-While highly authentic in informal Canadian conversation, **on the TCF Canada exam**, France Éducation international examiners expect candidates to demonstrate mastery of standard past concordances:
+While the narrative present is perfectly authentic, **on the TCF Canada exam** the safest way to show your control of past tenses is the standard imparfait / passé composé combination:
 - *« Je conduisais ma voiture (imparfait) quand soudain un cerf a traversé la route (passé composé). »*
 
-Adhering strictly to the imparfait / passé composé balance in your writing ensures top marks under *Correction grammaticale*.
+Keeping a clear imparfait / passé composé balance in your writing shows the examiner that you control both tenses.
 
 </div>
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: The TCF Writing Task 2 Scoring Blueprint
+#### Exam tip: The TCF Writing Task 2 Narrative Blueprint
 
-On **TCF Writing Task 2 (120–150 words)**, you are required to write a personal recount or article (e.g. *« Racontez un événement marquant de votre vie professionnelle ou personnelle »*).
+On **TCF Writing Task 2 (120–150 words)**, you may be asked to write a personal recount or article (e.g. *« Racontez un événement marquant de votre vie professionnelle ou personnelle »*).
 
-To achieve a **Level B1 or B2 score**, structure your narrative using the **60/40 Rule**:
-1. **40% Imparfait (The Backdrop)**: In your opening paragraph, describe the time, season, location, and your emotional or professional state at the time (*« C'était en 2022. J'habitais encore dans mon pays natal et je travaillais dans une petite entreprise. J'étais très motivé... »*).
-2. **60% Passé Composé (The Catalyst & Plot)**: Introduce the turning point with a strong connector (*« Un jour, j'ai reçu... J'ai décidé de... Nous avons préparé... Finalement, je suis arrivé à Montréal... »*).
+To build a strong narrative, structure it in two layers, a practical rule of thumb (not an official requirement):
+1. **Imparfait first (The Backdrop)**: In your opening paragraph, describe the time, season, location, and your emotional or professional state at the time (*« C'était en 2022. J'habitais encore dans mon pays natal et je travaillais dans une petite entreprise. J'étais très motivé... »*).
+2. **Then mostly Passé Composé (The Catalyst & Plot)**: Introduce the turning point with a strong connector (*« Un jour, j'ai reçu... J'ai décidé de... Nous avons préparé... Finalement, je suis arrivé à Montréal... »*).
 
-This dual-layer structure guarantees variety, satisfies the FEI narrative coherence rubric, and eliminates monotonous syntax!
+This dual-layer structure creates variety, makes your story easy to follow, and eliminates monotonous syntax!
 
 </div>
 
@@ -219,7 +219,7 @@ This dual-layer structure guarantees variety, satisfies the FEI narrative cohere
    - Recount the actions you took to resolve the situation in the **passé composé** (*J'ai alors décidé de... J'ai pris...*).
    - Conclude with a sentence expressing how the event resolved.
    
-   Count your words according to official FEI rules and verify that your text balances both tenses cleanly!
+   Count your words (a word is any string between two spaces, so *j'ai* = 1 word) and verify that your text balances both tenses cleanly!
 
 </div>
 
@@ -232,7 +232,7 @@ The following questions are an opportunity to reflect on key topics in this less
 - [Which temporal trigger words signal the passé composé versus the imparfait?](#temporal-trigger-words-navigating-the-tense-indicators)
 - [How does the meaning of savoir shift between je savais and j'ai su?](#verbs-that-shift-meaning-between-tenses)
 - [How does the meaning of connaître, vouloir, and pouvoir change in the passé composé?](#verbs-that-shift-meaning-between-tenses)
-- [What is the 60/40 structural rule for achieving B1/B2 in TCF Writing Task 2?](#verbs-that-shift-meaning-between-tenses)
+- [What two-layer structure (backdrop, then plot) strengthens a narrative in TCF Writing Task 2?](#verbs-that-shift-meaning-between-tenses)
 
 ### Additional resources
 

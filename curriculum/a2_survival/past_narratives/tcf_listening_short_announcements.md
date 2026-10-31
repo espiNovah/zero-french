@@ -2,27 +2,27 @@
 
 In everyday life in a Francophone country or Canadian province, you are constantly immersed in public audio messages: automated subway station announcements, airport gate calls, supermarket promotions, museum closing reminders, and telephone voicemail messages left by doctors, landlords, or immigration officers.
 
-On the **TCF Canada examination**, these short public and private messages form the entire foundation of **Listening Comprehension (*Compréhension orale*) Questions 1 to 15** (evaluating CEFR levels A1 and A2).
+On the **TCF Canada examination**, short public and private messages like these are typical of the early, easier items of **Listening Comprehension (*Compréhension orale*)**: the 39 items get progressively harder as the section goes on.
 
-TCF Listening comes with strict, non-negotiable exam constraints:
+TCF Listening comes with firm exam constraints:
 - **Audio recordings are played only once (*une seule écoute*)**. You will never hear a prompt twice.
-- You have approximately **10 to 12 seconds to read the question and the four multiple-choice options** before the audio begins.
-- You have roughly **12 to 15 seconds after the audio stops** to select your answer on the computer screen before the test automatically advances to the next question.
-- The background acoustic environment is deliberately authentic: train station echo, airport chimes, crowd murmurs, and telephone distortion are engineered into the audio files by France Éducation international (FEI).
+- The section has **39 multiple-choice items in 35 minutes**. The rhythm is simple: read the question, listen, answer, move on.
+- FEI does not publish exact preview or answer windows in seconds, or details of the interface; check your *convocation* and the FEI candidate guide rather than relying on numbers from prep sites.
+- Recordings aim to sound like real life, so you may hear realistic settings (a station, an airport, a phone line) and varied francophone accents.
 
-In this lesson, you will master the anatomy of short French announcements, learn the three primary question categories tested on the TCF, build an ear for Canadian public transit and airport lexicon, and acquire the **10-Second Pre-Listening Prediction Technique** that prevents panic during the exam.
+In this lesson, you will master the anatomy of short French announcements, learn the three primary question categories tested on the TCF, build an ear for Canadian public transit and airport lexicon, and acquire the **Pre-Listening Prediction Technique** that prevents panic during the exam.
 
 ### Lesson overview
 
 This section contains a general overview of topics that you will learn in this lesson.
 
-- The official structure of TCF Listening Level A1/A2: single play, timing limits, and computerized interface mechanics.
+- What is known about TCF Listening: single play, 39 items in 35 minutes, and difficulty that rises from item to item.
 - The three core TCF question archetypes: Location (*Où ?*), Purpose (*Pourquoi / De quoi s'agit-il ?*), and Action Required (*Que doit faire la personne ?*).
 - Auditory cues and acoustic soundscapes: train chimes, airport paging tones, store bells, and telephone beeps.
 - Essential transportation announcement vocabulary (*quai, voie, retard, correspondance, débarquement*).
 - Administrative and commercial announcement formulas (*en raison de, veuillez, nous informons notre aimable clientèle*).
 - Canadian transit realities: Metro announcements in Montreal, bus advisories, and winter delays.
-- The 10-Second Pre-Listening Prediction Strategy: scanning answer stems to anticipate keywords before the audio starts.
+- The Pre-Listening Prediction Strategy: scanning answer stems to anticipate keywords before the audio starts.
 
 ### The three archetypes of TCF listening announcements
 
@@ -42,7 +42,7 @@ Let us examine each category in depth with authentic French models.
 
 ### Deciphering transit announcements: train, metro, and airport
 
-Public transit is the single most common setting for A2 listening items. Transit announcements follow strict formal formulas across France and Canada:
+Public transit is a very common setting for A2-level listening practice. Transit announcements follow strict formal formulas across France and Canada:
 
 #### 1. Attention Chimes and Public Address Formulas
 
@@ -122,8 +122,8 @@ In Québec, transit and public announcements feature Canadian civic terminology:
 - **La STM (Société de transport de Montréal)**: You will frequently hear announcements about *la station Berri-UQAM*, *la ligne verte*, or *la ligne orange*.
 - **Le débarcadère** (/de.baʁ.ka.dɛʁ/): In Québec airports and train stations, the passenger drop-off/pick-up area is called *le débarcadère* **(QC)** (in France: *la zone dépose-minute*).
 - **L'abribus** (/a.bʁi.bys/): Bus shelter.
-- **La boîte vocale** (/bwat vɔ.kal/): In Canada, an answering machine or voicemail is universally called *la boîte vocale* **(QC)**, whereas in France you will hear *le répondeur*.
-- **Le courriel** (/ku.ʁjɛl/): An email address is always announced as a *courriel* on Canadian voicemails.
+- **La boîte vocale** (/bwat vɔ.kal/): Voicemail. This is not a Québec-only term: it is used in both Canada and France (France also says *la messagerie vocale*), and *le répondeur* (answering machine) is understood everywhere.
+- **Le courriel** (/ku.ʁjɛl/): The standard Canadian term for email, which you will hear on Canadian voicemails.
 
 Understanding these Canadian terms prevents hesitation when listening to Montreal-based audio items on the TCF Canada!
 
@@ -131,9 +131,9 @@ Understanding these Canadian terms prevents hesitation when listening to Montrea
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: The 10-Second Pre-Listening Strategy
+#### Exam tip: The Pre-Listening Strategy
 
-Because the audio is played **only once**, your success on TCF Listening depends on how you use the **10-second preview window** before the recording begins:
+Because the audio is played **only once**, your success on TCF Listening depends on how you use the **moment before the recording plays** to read the question:
 
 1. **Step 1: Read the Question Stem**: Glance at the question immediately. Is it asking for a **location** (*Où*), a **reason** (*Pourquoi*), or an **instruction** (*Que doit faire...*)?
 2. **Step 2: Scan the Four Options for Keywords**: Look for distinctive nouns or verbs in options A, B, C, and D:
@@ -151,7 +151,7 @@ Because the audio is played **only once**, your success on TCF Listening depends
 <div class="lesson-content__panel" markdown="1">
 
 1. **Step 1: Core Practice & Simulated TCF MCQ Set**  
-   Read the following three simulated audio transcripts. For each announcement, choose the correct answer under authentic TCF exam conditions (allow yourself 15 seconds per question):
+   Read the following three simulated audio transcripts. For each announcement, choose the correct answer under exam-like conditions (set yourself a limit of about 15 seconds per question as a practice target):
 
    **Question 1**:  
    *« Mesdames et messieurs, en raison de conditions météorologiques défavorables et d'une tempête de verglas sur l'est du pays, le départ du vol Air Canada 452 à destination d'Halifax est retardé de deux heures. Nous invitons les passagers à rester à proximité de la porte 18. »*  
@@ -200,7 +200,7 @@ Because the audio is played **only once**, your success on TCF Listening depends
    - *régler* (/ʁe.ɡle/) — to pay / settle a bill
    - *le rendez-vous* (/lə ʁɑ̃.de vu/) — appointment
    - *le vol* (/lə vɔl/) — flight
-   - *la boîte vocale* **(QC)** (/la bwat vɔ.kal/) — voicemail / answering machine
+   - *la boîte vocale* (/la bwat vɔ.kal/) — voicemail
    - *le débarcadère* **(QC)** (/lə de.baʁ.ka.dɛʁ/) — passenger drop-off area
 
 3. **Step 3: Receptive Audio Training**  
@@ -227,13 +227,13 @@ The following questions are an opportunity to reflect on key topics in this less
 - [What is the difference between la voie and le quai in train station announcements?](#deciphering-transit-announcements-train-metro-and-airport)
 - [What grammatical role does the formal word veuillez play in public instructions?](#decoding-store-announcements-and-administrative-voicemails)
 - [What do the Canadian terms la boîte vocale and le débarcadère mean?](#decoding-store-announcements-and-administrative-voicemails)
-- [How should you utilize the 10-second preview window before the audio recording starts?](#decoding-store-announcements-and-administrative-voicemails)
+- [How should you use the moment before the audio recording starts?](#decoding-store-announcements-and-administrative-voicemails)
 - [Why is single-word matching a dangerous trap on the TCF Listening test?](#decoding-store-announcements-and-administrative-voicemails)
 
 ### Additional resources
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- [TV5Monde — Entraînement au TCF](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire): Free official mock listening items with authentic audio player simulations and timers.
+- [TV5Monde — Exercices A2](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire): Free A2 listening exercises with audio (general practice, not official TCF items).
 - [Podcast Français Facile — Annonces en gare et aéroport](https://www.podcastfrancaisfacile.com/podcast/a-la-gare.html): Audio recordings of authentic station announcements with transcripts and vocabulary drills.
 - [Radio-Canada — Nouvelles et météo](https://ici.radio-canada.ca/): Short daily Canadian broadcast bulletins ideal for ear training to Canadian voices, cadences, and transit updates.

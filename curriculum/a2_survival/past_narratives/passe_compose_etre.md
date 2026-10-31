@@ -1,12 +1,12 @@
 ### Introduction
 
-In the previous lesson, you conquered the mechanics of the **passé composé with avoir**, which accounts for roughly 90% of all French verbs. You learned how to form regular and irregular past participles, place negation and adverbs correctly, and formulate questions.
+In the previous lesson, you conquered the mechanics of the **passé composé with avoir**, which covers the vast majority of French verbs. You learned how to form regular and irregular past participles, place negation and adverbs correctly, and formulate questions.
 
-Now, we tackle the remaining 10%—the verbs that use **être** (/ɛtʁ/, to be) as their auxiliary. While relatively small in number, verbs that conjugate with *être* represent some of the highest-frequency, most indispensable communicative actions in the French language: arriving, leaving, going, coming, staying, moving, and the entire spectrum of reflexive daily routine actions (*waking up, getting dressed, preparing oneself*).
+Now, we tackle the remaining minority—the verbs that use **être** (/ɛtʁ/, to be) as their auxiliary. While relatively small in number, verbs that conjugate with *être* represent some of the highest-frequency, most indispensable communicative actions in the French language: arriving, leaving, going, coming, staying, moving, and the entire spectrum of reflexive daily routine actions (*waking up, getting dressed, preparing oneself*).
 
 On the **TCF Canada examination**, mastering the passé composé with *être* is a non-negotiable benchmark:
 - In **Writing (*Expression écrite*) Task 1 and Task 2**, recounting an immigration journey, travel itinerary, weekend getaway, or daily routine requires verbs like *aller*, *partir*, *arriver*, *s'installer*, and *se lever*.
-- Under the France Éducation international (FEI) grading rubric, **past participle agreement with the grammatical subject** is one of the primary discriminators between an uncertified A1 speaker and a certified A2/B1 candidate. Failing to add the feminine *-e* or plural *-s* to participles conjugated with *être* is the single most common grammatical penalty on written papers.
+- In writing, **past participle agreement with the grammatical subject** is a visible marker of grammatical control. Forgetting the feminine *-e* or plural *-s* on participles conjugated with *être* is one of the most frequent written errors at this level, and examiners do assess grammatical accuracy.
 - In **Listening (*Compréhension orale*)**, recognizing the auxiliary forms of *être* (*je suis allé*, *il est parti*, *ils sont arrivés*) allows you to immediately identify completed physical movements, arrivals, and departures in transportation announcements and personal narratives.
 
 In this lesson, you will master the two categories of verbs that conjugate with *être*, memorize the classic **DR & MRS VANDERTRAMP** movement verbs, navigate reflexive verbs in the past, internalize the golden rule of subject agreement, and understand the subtle difference when dual-auxiliary verbs switch to *avoir*.
@@ -28,7 +28,7 @@ This section contains a general overview of topics that you will learn in this l
 In English, compound tenses always use the verb "to have" (*I have arrived*, *I have washed myself*). In Old and Modern French, however, the auxiliary **être** is reserved for two distinct semantic kingdoms:
 
 1. **Intransitive Verbs of Movement and Change of State**: Verbs that describe a person moving their entire body from one location to another, or undergoing an elemental transition of existence (birth, death, transformation). These verbs do not take a direct object; the subject is the entity moving or transforming.
-2. **All Reflexive and Reciprocal Verbs (*les verbes pronominaux*)**: Any verb accompanied by a reflexive pronoun (*me, te, se, nous, vous*) where the subject performs the action upon itself (*se réveiller*, *se laver*) or mutually with others (*se téléphoner*, *se rencontrer*).
+2. **All Reflexive and Reciprocal Verbs (*les verbes pronominaux*)**: Any verb accompanied by a reflexive pronoun (*me, te, se, nous, vous*) where the subject performs the action upon itself (*se réveiller*, *se laver*) or mutually with others (*se téléphoner*, *se rencontrer*). (They all take *être*, but their participle agreement follows a different rule: see the exception below.)
 
 Let us review the present tense of the auxiliary **être**, which serves as the grammatical backbone for these verbs:
 
@@ -100,7 +100,7 @@ The reflexive pronoun sits immediately in front of the conjugated auxiliary verb
 [Subject] + [Reflexive Pronoun] + [Auxiliary Être] + [Past Participle]
 ```
 
-Let us observe the complete paradigm of **se lever** (/sə lə.ve/, to get up / wake up):
+Let us observe the complete paradigm of **se lever** (/sə lə.ve/, to get up; *to wake up* is **se réveiller**):
 
 | Person | French Sentence | IPA Pronunciation | English Meaning |
 | :--- | :--- | :--- | :--- |
@@ -135,7 +135,7 @@ When negating a reflexive verb in the compound past, the **ne** (or **n'**) prec
 
 ### The golden rule of agreement: matching the subject
 
-When a verb is conjugated with the auxiliary **être**, the past participle behaves like an adjective: **it must agree in gender (masculine/feminine) and number (singular/plural) with the grammatical subject**.
+When a verb is conjugated with the auxiliary **être**, the past participle behaves like an adjective: **it must agree in gender (masculine/feminine) and number (singular/plural) with the grammatical subject**. (This rule covers the movement verbs. Pronominal verbs usually look as if they follow it too, but they actually follow a different rule, explained in the exception below.)
 
 ```markdown
 1. Masculine Singular: base form (no addition)
@@ -158,11 +158,14 @@ Let us examine how this agreement rule manifests across different subjects:
 
 In spoken French, the masculine form (*allé*), the feminine form (*allée*), the masculine plural (*allés*), and the feminine plural (*allées*) **sound 100% identical**: /a.le/.
 
-However, on the **computer-delivered TCF Writing exam (TCF-SO)**, you type without autocorrect. Human examiners scrutinize your written text against the *Correction morphosyntaxique* criterion. Omitting the agreement on verbs taking *être* immediately signals to the examiner that your grammar has not stabilized at the A2/B1 level.
+However, on the **computer-based TCF Canada Writing test**, you type your text yourself; do not count on any spell-checker to fix agreements. Examiners assess grammatical accuracy, and a missing agreement on verbs taking *être* is an easy error for them to spot.
 
 #### Exception: Reflexive Verbs with a Direct Object
 
-There is one critical syntactic exception for reflexive verbs: **if the reflexive verb is followed directly by a specific direct object noun, the past participle does NOT agree with the subject**.
+For pronominal verbs, the participle does not really agree with the subject: **it agrees with the direct object when that direct object comes before the verb**. In most cases the reflexive pronoun *se* is that direct object and refers to the subject, so the agreement looks like subject agreement (*Elle s'est levée*, *Elles se sont rencontrées*: she raised herself, they met each other). There are two cases with **no agreement**:
+
+1. **A direct object noun follows the verb**, so *se* is only an indirect object.
+2. **The verb itself takes an indirect object** (*téléphoner à, parler à, dire à, demander à, sourire à*), so *se* is indirect: **Elles se sont téléphoné.** **Ils se sont parlé.** (no *-es*, no *-s*).
 
 Compare these two sentences carefully:
 - **Elle s'est lavée.** (*She washed herself.* → Who did she wash? Herself (*s'* is the direct object). The participle agrees with *elle* → **-ée**).
@@ -181,7 +184,7 @@ Candidates who write in the first person (*je*) must maintain internal gender co
 - If you establish a female authorial voice in your introduction (*« En tant que nouvelle résidente... »*), every subsequent past participle with *être* must carry the feminine agreement: *« Je suis arrivée au Québec en plein hiver. Je me suis installée dans un petit appartement... »*.
 - If you write about yourself and your family using *nous* or *on*, remember that *nous* takes plural agreement (*« Nous sommes partis tôt »*). If you use informal *on* to mean "we", the participle takes a plural agreement: *« On est arrivés à l'aéroport »*.
 
-Inconsistent participle agreement across a 150-word text instantly drops your morphosyntactic score below the B2 threshold!
+Inconsistent participle agreement across a 150-word text is a visible accuracy error that examiners will notice!
 
 </div>
 
@@ -216,7 +219,7 @@ Monter · Descendre · Sortir · Rentrer · Retourner · Passer
 | **sortir** | *Nous sommes sortis hier.* (We went out yesterday.) | *Nous avons sorti nos passeports.* (We took out our passports.) |
 | **rentrer** | *Tu es rentré tard.* (You came home late.) | *Tu as rentré la voiture au garage.* (You pulled the car into the garage.) |
 | **retourner** | *Elle est retournée à Paris.* (She returned to Paris.) | *Elle a retourné la crêpe.* (She flipped the crepe.) |
-| **passer** | *Je suis passé par Toronto.* (I passed through Toronto.) | *J'ai passé un examen.* (I took / passed time or a test.) |
+| **passer** | *Je suis passé par Toronto.* (I passed through Toronto.) | *J'ai passé un examen.* (I took / sat a test; to pass it is *réussir un examen*.) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 

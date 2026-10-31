@@ -167,7 +167,7 @@ The spelling **ui** combines the tight French /y/ sound with /i/, creating a rap
 
 #### 3. The /j/ Glide (Spelled "-ille", "y", or "i + vowel")
 Sounds like the English "y" in "yes":
-- **la famille** (/la fa.mij/) — family (notice the *ll* is silent; it sounds like *fa-mee-y*)
+- **la famille** (/la fa.mij/) — family (the *ill* is pronounced /ij/; it sounds like *fa-mee-y*)
 - **travailler** (/tʁa.va.je/) — to work
 - **le billet** (/lə bi.jɛ/) — ticket
 
@@ -177,24 +177,24 @@ Canadian French (especially spoken in Québec, New Brunswick, and Ontario) prese
 
 #### 1. Preservation of the Fourth Nasal Vowel: /œ̃/
 In historical French, there were four distinct nasal vowels: /ɑ̃/, /ɔ̃/, /ɛ̃/, and **/œ̃/** (spelled **un**, **um**).
-- In modern France, the sound **/œ̃/** has virtually merged into **/ɛ̃/**: native Parisians pronounce *un brin* (a sprig) and *un brun* (a brown one) identically as `/œ̃ bʁɛ̃/`.
+- In modern France, the sound **/œ̃/** has virtually merged into **/ɛ̃/**: native Parisians pronounce *un brin* (a sprig) and *un brun* (a brown one) identically as `/ɛ̃ bʁɛ̃/`.
 - In Québec and French Canada, native speakers strictly preserve the difference:
   - **brin** (/bʁɛ̃/) — pronounced with lips smiling
   - **brun** (/bʁœ̃/) — pronounced with lips rounded forward
 
-On the TCF Canada, both pronunciations are universally recognized, but Canadian listening audio will clearly feature the rounded **/œ̃/** in words like *un*, *lundi*, and *brun*.
+Both pronunciations are standard. On the TCF Canada you may hear varied francophone accents, so be ready to recognize the rounded **/œ̃/** in words like *un*, *lundi*, and *brun* as well as the merged /ɛ̃/.
 
 #### 2. Vowel Diphthongization in Accented Syllables
-In casual Québec French, long vowels with circumflex accents (*fête*, *père*, *même*) often diphthongize (e.g. *fête* sounds like /faɛ̯t/), and short high vowels in closed syllables (*midi*, *musique*, *vite*) are pronounced with lax vowels ([ɪ], [ʏ], [ʊ]). Recognizing these cadences will prevent disorientation when taking the listening test in Canada.
+In casual Québec French, long vowels such as *ê* or *è* before a final consonant (*fête*, *père*, *même*) often diphthongize (e.g. *fête* sounds like /faɛ̯t/), and the high vowels /i y u/ in closed syllables (syllables ending in a consonant: *vite*, *musique*, *route*) are pronounced with lax vowels ([ɪ], [ʏ], [ʊ]). Recognizing these cadences will prevent disorientation when taking the listening test in Canada.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
-When taking the TCF Canada, you will hear a balance of international and Canadian accents:
+On the TCF Canada, you may hear varied francophone accents:
 - In European French: *un café* is pronounced `/ɛ̃ ka.fe/`.
 - In Québec French **(QC)**: *un café* is pronounced `/œ̃ ka.fe/`, with tight lip rounding on *un*.
-Train your ear to recognize both variations, as listening prompts in Canada feature authentic local voices.
+Train your ear to recognize both variations.
 
 </div>
 
@@ -202,12 +202,12 @@ Train your ear to recognize both variations, as listening prompts in Canada feat
 
 #### Exam tip
 
-In TCF Canada Listening items 1 to 15, minimal vowel pairs are the single most frequent distractor mechanism:
+In TCF Canada Listening, especially in the early, easier items, minimal vowel pairs are a common source of wrong answers:
 - *Tu as des enfants ?* (/ty/) vs *Vous avez des enfants ?* (/vu/)
 - *Je prends le vin.* (/vɛ̃/) vs *Je prends le vent.* (/vɑ̃/)
 - *C'est un bon plan.* (/bɔ̃/) vs *C'est un banc blanc.* (/bɑ̃ blɑ̃/)
 
-When preparing during the 10-second silent preview before audio begins, look at the answer choices and silently identify the key vowel difference.
+The audio plays only once. Before it starts, read the question and answer choices and silently identify the key vowel difference, then answer and move on.
 
 </div>
 
@@ -236,7 +236,7 @@ When preparing during the 10-second silent preview before audio begins, look at 
    3. **blanc** (/blɑ̃/ contains the open back nasal sound; *pain* is /pɛ̃/, *bon* is /bɔ̃/, *bien* is /bjɛ̃/).
    4. **/wa/** (*dois* is pronounced /dwa/, containing the *oi* glide sound).
    5. **Au-dessus** (/o.də.sy/) means "above / on top"; **au-dessous** (/o.də.su/) means "below / underneath".
-   6. **Two syllables** (/fa.mij/). The double "l" is completely silent; it forms a /j/ glide sound ("fa-mee-y").
+   6. **Two syllables** (/fa.mij/). The *ill* is pronounced /ij/, ending in a /j/ glide ("fa-mee-y").
 
    </details>
 

@@ -29,7 +29,7 @@ When you enter a French or French-Canadian café, you are stepping into a centur
 | **un café** / **un expresso** | /œ̃ ka.fe/ / /œ̃.n‿ɛks.pʁɛ.so/ | single espresso shot | If you just ask for *"un café"*, you will receive a small, strong black espresso. |
 | **un café au lait** | /œ̃ ka.fe o lɛ/ | brewed coffee with hot milk | Often served in a wide bowl or large cup for breakfast. |
 | **un café crème** (or *un crème*) | /œ̃ ka.fe kʁɛm/ | espresso with steamed milk foam | Standard large milky coffee ordered in European cafés. |
-| **un café allongé** | /œ̃ ka.fe a.lɔ̃.ʒe/ | Americano / diluted espresso | Espresso diluted with hot water. Standard coffee style across Québec. |
+| **un café allongé** | /œ̃ ka.fe a.lɔ̃.ʒe/ | Americano / diluted espresso | Espresso diluted with hot water. Common in Québec and in France. |
 | **un café filtre** | /œ̃ ka.fe filtʁ/ | drip / filtered coffee | Standard North American style brewed coffee. |
 | **un thé** (noir / vert) | /œ̃ te nwaʁ/ / /œ̃ te vɛʁ/ | tea (black / green) | Served with a small pot of hot water and lemon or milk on the side. |
 | **une tisane** / **une infusion** | /yn ti.zan/ / /yn.n‿ɛ̃.fy.zjɔ̃/ | herbal tea (chamomile, mint) | Caffeine-free, commonly consumed in the late afternoon or evening. |
@@ -133,7 +133,7 @@ When the cashier or server gives you the total, they will use one of three struc
 In spoken French, the word for currency (*euros* in Europe, *dollars* in Canada) is often stated, but the word for cents (*centimes* in France, *cents* /sɛnt/ in Canada) is frequently omitted:
 
 - **4,50 €** is pronounced:  
-  *Quatre euros cinquante* (/katʁ.z‿ø.ʁo sɛ̃.kɑ̃t/)  
+  *Quatre euros cinquante* (/ka.tʁø.ʁo sɛ̃.kɑ̃t/)  
   *(Four euros fifty)*
 - **12,75 $** is pronounced:  
   *Douze dollars soixante-quinze* (/duz dɔ.laʁ swa.sɑ̃t.kɛ̃z/)  
@@ -160,10 +160,10 @@ Once your order is complete, you must settle the bill. The terminology differs s
 
 #### 1. Asking for the Bill
 
-- **In France & Europe**:  
+- **Everywhere (France, Québec, Canada)**:  
   > **L'addition, s'il vous plaît !** — /l‿a.di.sjɔ̃ sil vu plɛ/  
   > *The check / bill, please!*
-- **In Canada & Québec**:  
+- **Also heard in Québec**:  
   > **La facture, s'il vous plaît !** — /la fak.tyʁ sil vu plɛ/  
   > *The bill, please!*
 
@@ -186,13 +186,13 @@ If paying cash and waiting for your change:
 
 One of the largest cultural shocks between France and Canada involves tipping:
 
-- **In France**: By law, every restaurant, café, and bar bill includes a 15% service charge built directly into the menu prices (**Service compris**). Leaving a tip is entirely optional and modest: leaving 1 to 2 euros in small change (*un pourboire*) on the table is considered polite for good service, but leaving 0 euros is not an insult.
-- **In Québec and Canada**: Service is **not included**. Waitstaff are paid a lower tipped minimum wage, and customers are culturally and economically expected to add a tip (**le pourboire** **(QC)**) of **15% to 20%** before sales tax. When paying by card machine, the payment terminal will explicitly prompt you to select 15%, 18%, or 20%. Failing to tip in Canada is considered a serious breach of social conduct.
+- **In France**: By law, menu prices must include service (**service compris**); no separate service percentage is added to the bill. Leaving a tip is entirely optional and modest: leaving 1 to 2 euros in small change (*un pourboire*) on the table is considered polite for good service, but leaving 0 euros is not an insult.
+- **In Québec and Canada**: Service is **not included**. In Québec, tipped employees have a lower minimum wage (Ontario and British Columbia have abolished theirs), and customers across Canada are culturally expected to add a tip (**le pourboire**) of **15% to 20%** before sales tax. When paying by card machine, the payment terminal will explicitly prompt you to select 15%, 18%, or 20%. Failing to tip in Canada is considered a serious breach of social conduct.
 
 Other Canadian terms to remember:
 - **Une chocolatine** **(QC)**: While in Paris you ask for *un pain au chocolat*, in Montreal, Quebec City, and South-West France you must order *une chocolatine* **(QC)**.
-- **Un breuvage** **(QC)**: On Canadian menus, the beverage section is headed *Breuvages* **(QC)** instead of European *Boissons*.
-- **La facture** **(QC)**: Never ask for *l'addition* in a Quebec diner; ask for *la facture*.
+- **Un breuvage** **(QC)**: Some Québec menus head the beverage section *Breuvages* **(QC)**. This is a familiar Québec usage (influenced by English "beverage") that the OQLF advises against; the standard term, in Québec as in France, is **une boisson** (*Boissons*).
+- **La facture** **(QC)**: *L'addition* is perfectly normal in Québec, but you will also hear *la facture* for a restaurant bill.
 
 </div>
 
@@ -202,7 +202,7 @@ Other Canadian terms to remember:
 
 In **Speaking Task 2 (*Exercice en interaction*)**, the examiner gives you a prompt card (e.g., *"Vous êtes dans un nouveau café à Québec. Vous posez des questions sur le menu, les formules petit-déjeuner et les prix"*). You have **2 minutes of preparation** and **3 minutes 30 seconds of roleplay**.
 
-To maximize your score on the FEI rubric:
+To make the most of this task:
 1. **Take the initiative**: You must lead the conversation. Greet the examiner formally: *"Bonjour monsieur / madame, excusez-moi de vous déranger..."*
 2. **Do not just say "I want X"**: Ask questions! Use interrogatives:
    - *"Qu'est-ce que vous proposez comme formule pour le petit-déjeuner ?"*
@@ -243,7 +243,7 @@ To maximize your score on the FEI rubric:
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 16 core café, beverage, and transaction terms with IPA to your personal Anki flashcard deck:
    - *un café au lait* (/œ̃ ka.fe o lɛ/) — coffee with milk
-   - *un café allongé* **(QC)** (/œ̃ ka.fe a.lɔ̃.ʒe/) — Americano / diluted espresso
+   - *un café allongé* (/œ̃ ka.fe a.lɔ̃.ʒe/) — Americano / diluted espresso
    - *un pain au chocolat* (/œ̃ pɛ̃ o ʃɔ.kɔ.la/) — chocolate pastry
    - *une chocolatine* **(QC)** (/yn ʃɔ.kɔ.la.tin/) — chocolate pastry (Canadian/SW French)
    - *une formule* (/yn fɔʁ.myl/) — set combo menu
@@ -252,9 +252,9 @@ To maximize your score on the FEI rubric:
    - *pour moi, ce sera* (/puʁ mwa | sə sə.ʁa/) — for me, it will be
    - *c'est combien ?* (/s‿ɛ kɔ̃.bjɛ̃/) — how much is it?
    - *ça coûte combien ?* (/sa kut kɔ̃.bjɛ̃/) — how much does that cost?
-   - *l'addition* (/l‿a.di.sjɔ̃/) — the restaurant bill (France)
-   - *la facture* **(QC)** (/la fak.tyʁ/) — the bill (Canada)
-   - *le pourboire* **(QC)** (/lə puʁ.bwaʁ/) — the tip
+   - *l'addition* (/l‿a.di.sjɔ̃/) — the restaurant bill (everywhere)
+   - *la facture* **(QC)** (/la fak.tyʁ/) — the bill (also heard in Québec)
+   - *le pourboire* (/lə puʁ.bwaʁ/) — the tip
    - *par carte* (/paʁ kaʁt/) — by card
    - *en espèces* (/ɑ̃.n‿ɛs.pɛs/) — in cash (France)
    - *en argent comptant* **(QC)** (/ɑ̃.n‿aʁ.ʒɑ̃ kɔ̃.tɑ̃/) — in cash (Canada)

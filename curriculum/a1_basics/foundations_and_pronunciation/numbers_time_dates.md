@@ -2,7 +2,7 @@
 
 Numbers, times, and dates form the operational infrastructure of everyday life. Whether you are catching an express bus in Montréal, scheduling a medical consultation, signing a lease for an apartment, paying your utility bill, or negotiating your work hours, you must understand numerical figures instantly. Hesitating over numbers creates immediate real-world bottlenecks.
 
-On the TCF Canada exam, numbers are among the most heavily tested items in the entire *Compréhension orale* (Listening) section. In the first ten questions, examiners deliberately construct scenarios featuring departure times, platform announcements, ticket prices, telephone numbers, and appointment dates. Multiple-choice options will present acoustic distractors specifically designed to catch unprepared candidates—such as pairing **14** (*quatorze*) with **40** (*quarante*), or **5** (*cinq*) with **15** (*quinze*). If you have to pause to calculate in your head, the audio will have moved on.
+On the TCF Canada exam, numbers come up often in the *Compréhension orale* (Listening) section, especially in the early, easier items, which can feature departure times, platform announcements, ticket prices, telephone numbers, and appointment dates. Multiple-choice options will present acoustic distractors specifically designed to catch unprepared candidates—such as pairing **14** (*quatorze*) with **40** (*quarante*), or **5** (*cinq*) with **15** (*quinze*). If you have to pause to calculate in your head, the audio will have moved on.
 
 In this lesson, you will master the French number system from 0 to 100 and into the hundreds and thousands, decipher the unique vigesimal (base-20) counting system used from 70 to 99 (*soixante-dix*, *quatre-vingts*), learn to tell time fluently using both the conversational 12-hour clock and official 24-hour schedules, master the days of the week and months of the year, and explore authentic Canadian conventions for writing and reciting dates and times.
 
@@ -29,7 +29,7 @@ French numbers from 0 to 69 follow logical decimal patterns, but their pronuncia
 | Number | French Word | IPA Pronunciation | Phonetic Notes & Sound Traps |
 | :--- | :--- | :--- | :--- |
 | **0** | **zéro** | /ze.ʁo/ | Clean closed /e/ and /o/ |
-| **1** | **un** | /œ̃/ (or /ɛ̃/) | Nasal vowel; contracts before vowels: *un ami* |
+| **1** | **un** | /œ̃/ (or /ɛ̃/) | Nasal vowel; links (liaison /n/) before vowels: *un ami* |
 | **2** | **deux** | /dø/ | Closed /ø/ sound; silent *x* (links as /z/) |
 | **3** | **trois** | /tʁwa/ | Glide /wa/; silent *s* (links as /z/) |
 | **4** | **quatre** | /katʁ/ | Drop final /ʁ/ in fast speech: *quatre personnes* |
@@ -145,8 +145,8 @@ Observe how speakers inquire about time:
 To answer, always begin with **Il est...**:
 - **Il est une heure.** (/i.l‿ɛ.t‿yn œʁ/ — *It is one o'clock.* Note: *heure* is feminine, so we say *une*).
 - **Il est deux heures.** (/i.l‿ɛ dø.z‿œʁ/ — *It is two o'clock.* Note: plural *heures* with /z/ liaison).
-- **Il est midi.** (/i.l‿ɛ mi.di/ — *It is noon / 12:00 pm.* Never say "douze heures").
-- **Il est minuit.** (/i.l‿ɛ mi.nɥi/ — *It is midnight / 12:00 am.* Never say "zéro heure").
+- **Il est midi.** (/i.l‿ɛ mi.di/ — *It is noon / 12:00 pm.* In the 12-hour conversational style, say *midi* rather than "douze heures"; *douze heures* is standard in the 24-hour system).
+- **Il est minuit.** (/i.l‿ɛ mi.nɥi/ — *It is midnight / 12:00 am.* In the 12-hour conversational style, say *minuit* rather than "zéro heure"; *zéro heure* is standard in the 24-hour system).
 
 #### 1. The Conversational 12-Hour System
 In daily casual conversation, French speakers use common fractional markers:
@@ -194,7 +194,7 @@ In English, days of the week, months, and languages are always capitalized (*Mon
 - ✗ *Mon anniversaire est en Juillet.*
 - ✓ **Mon anniversaire est en juillet.**
 
-Capitalizing days or months in TCF Canada Writing tasks is penalized as an orthographic error.
+Capitalizing days or months is a spelling error, and spelling accuracy is part of how your TCF Canada writing is judged.
 
 </div>
 
@@ -254,7 +254,7 @@ On Canadian immigration forms, tax documents, and employment contracts, dates ar
 
 #### Exam tip
 
-In TCF Canada Listening items 1 to 10, numerical announcements in train stations and airports are prime sources of distractor questions:
+In the early, easier TCF Canada Listening items, numerical announcements in train stations and airports are a common source of distractors:
 - *"Le train en provenance de Québec arrivera voie 14 à 16h40."*
 The four answer choices will display:
 A) Voie 40 à 14h16  

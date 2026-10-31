@@ -2,7 +2,7 @@
 
 In this project, you will record your very first formal speaking performance: a 2-minute self-introduction that directly mirrors **Task 1 of the TCF Canada Speaking examination (*Expression orale — Entretien dirigé*)**.
 
-In the actual TCF Canada test, Speaking Task 1 lasts **exactly 2 minutes** without any preparation time. The examiner welcomes you, introduces themselves, and asks you to speak about yourself: your identity, your background, where you live, your occupation or studies, and your interests. While this is the most accessible task on the exam, examiners immediately evaluate your pronunciation, your grammatical baseline, and your ability to maintain a natural flow of speech.
+In the actual TCF Canada test, Speaking Task 1 (*Entretien dirigé*) lasts **2 minutes** with **no preparation time**. The examiner welcomes you and asks you questions about yourself: your identity, your background, where you live, your occupation or studies, and your interests. While this is the most accessible task on the exam, the examiner immediately hears your pronunciation, your grammatical baseline, and your ability to maintain a natural flow of speech.
 
 Completing this project provides your initial baseline artifact in your language portfolio—proof that you can articulate coherent spoken French under timed exam constraints.
 
@@ -55,7 +55,7 @@ Save and archive the following three items in your study directory:
 
 #### Scoring Rubric
 
-Evaluate your recording against the official France Éducation international (FEI) criteria for TCF Speaking Task 1 (adapted for A1 baseline scoring, total: 20 points):
+Evaluate your recording with this unofficial self-assessment rubric for an A1 baseline (total: 20 points). It is not an FEI grid; the real TCF Canada gives one overall speaking score /20 for all three tasks.
 
 | Criterion | 0–1 points (Below A1) | 2–3 points (Emerging A1) | 4–5 points (Mastered A1 Benchmark) |
 | :--- | :--- | :--- | :--- |
@@ -66,15 +66,17 @@ Evaluate your recording against the official France Éducation international (FE
 
 **Score Conversion**:
 - **0–7 points**: Below A1
-- **8–14 points**: Solid A1 (NCLC 1–2 equivalent)
-- **15–20 points**: Strong A1 / Transition to A2 (NCLC 3 equivalent)
+- **8–14 points**: Solid A1
+- **15–20 points**: Strong A1 / Transition to A2
+
+These bands describe this home-made rubric only; they do not convert to a TCF score or an NCLC level.
 
 #### AI Self-Assessment Prompt
 
 If you do not have a private tutor, use an audio-transcription tool (such as Whisper or your phone's voice-to-text) to transcribe your recording, then paste the transcript into an AI assistant with the following calibrated prompt:
 
 ```text
-You are a certified France Éducation international (FEI) examiner evaluating a candidate's performance on Task 1 of the TCF Canada Speaking Test (Entretien dirigé).
+You are an experienced TCF Canada speaking coach evaluating a learner's practice performance modelled on Task 1 of the TCF Canada Speaking Test (Entretien dirigé).
 
 Candidate Level: A1 Beginner
 Task: 2-minute spontaneous self-introduction
@@ -84,7 +86,7 @@ Here is the exact transcript of the candidate's recording:
 [PASTE YOUR TRANSCRIPTION HERE]
 """
 
-Evaluate this performance strictly against the 4 official FEI criteria:
+Evaluate this performance strictly against these 4 criteria (an unofficial self-assessment rubric, not an FEI grid):
 1. Respect de la consigne et temps de parole (Duration and task completion)
 2. Cohérence et organisation du discours (Structure and connectors)
 3. Richesse et précision lexicale (Vocabulary range for A1)

@@ -4,7 +4,7 @@ In the previous lessons, you navigated grocery stores and mastered ordering at c
 
 Whether shopping for clothing at a department store in Paris or outfitting yourself for your first Canadian winter in Montreal, Ottawa, or Calgary, you must be able to describe garments, ask for specific colors and sizes, and understand store clerks. Furthermore, describing clothing is a cornerstone of **French descriptive grammar**. In French, unlike English where adjectives are static (a *blue* shirt, *blue* shoes), French adjectives behave like chameleons: they must change their spelling and pronunciation to match the **gender** (masculine or feminine) and **number** (singular or plural) of the noun they describe.
 
-In the TCF Canada exam, adjective agreement is a primary scoring criterion under *Correction grammaticale*. On the **Speaking test (*Expression orale — Tâche 1 et 2*)**, describing people's appearance, clothing items, or shopping for products requires effortless agreement. In **TCF Listening (*Compréhension orale*)**, dialogues set in clothing stores frequently test your ability to catch subtle color, size, and price distractors. In this lesson, you will master essential wardrobe vocabulary, conquer the rules of adjective agreement, navigate invariable color traps, and learn essential Canadian winter clothing terminology.
+In the TCF Canada exam, adjective agreement is part of the grammatical accuracy the examiner judges in Writing and Speaking. On the **Speaking test (*Expression orale — Tâche 1 et 2*)**, describing people's appearance, clothing items, or shopping for products requires effortless agreement. In **TCF Listening (*Compréhension orale*)**, dialogues set in clothing stores can test your ability to catch subtle color, size, and price distractors. In this lesson, you will master essential wardrobe vocabulary, conquer the rules of adjective agreement, navigate invariable color traps, and learn essential Canadian winter clothing terminology.
 
 ### Lesson overview
 
@@ -66,7 +66,7 @@ If you are preparing to live in Canada, standard European French winter terms wi
 - **Des mitaines** **(QC)** vs **Des moufles** (France): In Québec, mittens (gloves without individual fingers) are called *des mitaines* **(QC)**. Note: in France, *une mitaine* refers to fingerless gloves, whereas in Canada *des mitaines* are thick, warm winter mittens. Regular five-finger gloves are *des gants* (/de ɡɑ̃/) in both countries.
 - **Un chandail** **(QC)** vs **Un pull** (France): While Europeans say *un pull*, Canadians typically say *un chandail* **(QC)** for any knit sweater, jersey, or sweatshirt.
 - **Des espadrilles** **(QC)** vs **Des baskets** (France): In France, sneakers or athletic trainers are *des baskets*. In Québec, athletic sneakers are called *des espadrilles* **(QC)** (or familiarly, *des souliers de course*).
-- **Un manteau d'hiver** **(QC)**: A heavy-duty down winter parka is commonly called *un manteau d'hiver* or *un habit de neige* (snowsuit for children).
+- **Un manteau d'hiver** and **un habit de neige** **(QC)**: A heavy-duty down winter parka is commonly called *un manteau d'hiver* (used in France too); a children's snowsuit is *un habit de neige* **(QC)**.
 
 </div>
 
@@ -152,9 +152,9 @@ Colors are the most common adjectives used in shopping. Most colors follow stand
 
 #### Critical Grammar Trap: Invariable Colors (Marron and Orange)
 
-Some colors in French originate from physical objects (fruits, nuts, or stones). When a color word is derived from a noun, it is **invariable**: it **never** takes an feminine *-e* and **never** takes a plural *-s*!
+Some colors in French originate from physical objects (fruits, nuts, or stones). When a color word is derived from a noun, it is usually **invariable**: it does not take a feminine *-e* or a plural *-s*! (Exceptions that do agree: *rose, mauve, fauve, écarlate* — *des robes roses*.)
 
-The two most common invariable colors on the TCF exam are:
+The two most common invariable colors are:
 1. **marron** (/ma.ʁɔ̃/, chestnut / brown):
    - *un pantalon marron*
    - *une veste marron* (never *"marrone"*)
@@ -164,7 +164,7 @@ The two most common invariable colors on the TCF exam are:
    - *une tuque orange*
    - *des t-shirts orange* (never *"oranges"*)
 
-Writing *"des chaussures marronnes"* or *"des robes oranges"* is a severe grammatical error on TCF Writing Task 1.
+Writing *"des chaussures marronnes"* or *"des robes oranges"* is a grammatical error that will count against you in TCF Writing.
 
 </div>
 
@@ -217,7 +217,7 @@ When shopping for clothes or taking a TCF speaking test, you will need these pra
 
 #### Exam Tip: Distractor Traps with Colors and Sizes in TCF Listening
 
-On the TCF Listening exam, retail dialogues between customers and store associates contain predictable distractor patterns:
+On the TCF Listening exam, retail dialogues between customers and store associates can contain predictable distractor patterns:
 
 1. **The Out-of-Stock Pivot**:  
    - Customer: *"Bonjour, je cherche cette robe bleue en taille 38."* (I'm looking for this blue dress in size 38.)  

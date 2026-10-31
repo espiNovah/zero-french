@@ -2,7 +2,7 @@
 
 Until now, you have been working primarily with two irregular verbs—*être* (to be) and *avoir* (to have)—which had to be memorized individually. While essential, those two verbs only allow you to state who you are and what you possess. To speak about what you actually *do* throughout the day—working, speaking, listening, studying, cooking, and relaxing—you need action verbs.
 
-Fortunately, over 80% of all French verbs belong to a single, predictable family: **regular -er verbs** (traditionally called the *premier groupe*). Once you master the simple formula for conjugating this family, you instantly unlock the ability to generate hundreds of natural French sentences without memorizing separate conjugation tables for each new verb.
+Fortunately, the vast majority of French verbs belong to a single, predictable family: **regular -er verbs** (traditionally called the *premier groupe*). Once you master the simple formula for conjugating this family, you instantly unlock the ability to generate hundreds of natural French sentences without memorizing separate conjugation tables for each new verb.
 
 In the TCF Canada examination, regular *-er* verbs form the backbone of both **Speaking Task 1** (describing your typical day, hobbies, and work habits) and **Writing Task 1** (writing a 60–120 word friendly message narrating routine events). In this lesson, you will learn the step-by-step conjugation formula, master the critical "silent endings" pronunciation rule that confuses English speakers, acquire high-frequency daily routine vocabulary, and learn how to sequence your day with frequency adverbs and Canadian mealtime conventions.
 
@@ -83,7 +83,7 @@ Do not confuse the noun ending *-ment* (which is nasal, like *le gouvernement* /
 - *Ils regardent* = `/il ʁə.ɡaʁd/`
 - *Elles écoutent* = `/ɛl.z‿e.kut/`
 
-Pronouncing the *-ent* on a verb is an immediate beginner error that examiners penalize on the speaking rubric.
+Pronouncing the *-ent* on a verb is an immediate beginner error that makes your speech harder to understand.
 
 </div>
 
@@ -159,7 +159,7 @@ Observe how meal names differ between European French and Canadian French:
 
 #### Québec vs France
 
-Be careful when a Canadian asks: *"On mange ensemble pour le dîner ?"* In Québec, they are inviting you to **lunch** at midday! In France, that same question would mean an invitation to **dinner** in the evening. On the TCF Canada exam, Canadian prompts frequently mention *le souper* (dinner) and *le dîner* (lunch).
+Be careful when a Canadian asks: *"On mange ensemble pour le dîner ?"* In Québec, they are inviting you to **lunch** at midday! In France, that same question would mean an invitation to **dinner** in the evening. On the TCF Canada exam, you may hear either system, so check the context (time of day) before deciding which meal is meant.
 
 </div>
 
@@ -167,15 +167,15 @@ Be careful when a Canadian asks: *"On mange ensemble pour le dîner ?"* In Québ
 
 Let us assemble these elements into a cohesive A1 daily routine narrative:
 
-> **Tous les jours, je commence ma journée vers sept heures. Je prépare le déjeuner et j'écoute les nouvelles à la radio. À huit heures et demie, j'utilise le métro pour aller au bureau. Je travaille comme analyste et je termine ma journée à dix-sept heures. Le soir, je cuisine avec ma conjointe et nous regardons une série. Je me couche vers vingt-deux heures.**
+> **Tous les jours, je commence ma journée vers sept heures. Je prépare le déjeuner et j'écoute les nouvelles à la radio. À huit heures et demie, je prends le métro pour aller au bureau. Je travaille comme analyste et je termine ma journée à dix-sept heures. Le soir, je cuisine avec ma conjointe et nous regardons une série. Je me couche vers vingt-deux heures.**
 
-Notice the progression: temporal marker (*Tous les jours*) → actions with regular *-er* verbs (*commence*, *prépare*, *écoute*, *termine*, *cuisine*, *regardons*) → clear chronological sequencing. This is the exact structure rewarded in TCF Writing Task 1.
+Notice the progression: temporal marker (*Tous les jours*) → actions with regular *-er* verbs (*commence*, *prépare*, *écoute*, *termine*, *cuisine*, *regardons*) → clear chronological sequencing. This is a clear, effective structure for TCF Writing Task 1.
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip
 
-In TCF Canada Writing Task 1, you have 60 minutes to complete three tasks, and you should spend about **12 to 15 minutes** on Task 1 (60–120 words). A prompt might ask: *"Écrivez un message à un ami pour lui décrire votre nouvelle routine au Canada."* Sticking to regular present tense verbs, inserting 2–3 frequency adverbs (*souvent*, *tous les jours*), and respecting the 60-word minimum guarantees maximum points for grammar and task completion at this level.
+In TCF Canada Writing Task 1, you have 60 minutes to complete three tasks, and you should spend about **12 to 15 minutes** on Task 1 (60–120 words). A prompt might ask: *"Écrivez un message à un ami pour lui décrire votre nouvelle routine au Canada."* Sticking to regular present tense verbs, inserting 2–3 frequency adverbs (*souvent*, *tous les jours*), and staying within the 60–120 word range gives you a solid, complete answer at this level.
 
 </div>
 

@@ -3,9 +3,9 @@
 Finding and securing a place to live is one of the very first real-world milestones every newcomer to Canada or France experiences. Whether browsing classified ads online, deciphering rental listings, negotiating lease terms with a landlord, or inspecting amenities, housing is an indispensable daily survival skill.
 
 On the **TCF Canada examination**, housing listings and real estate transactions are prominent across all four evaluation modules:
-- In **Reading (*Compréhension écrite*) Questions 1 to 12**, short classified ads (*petites annonces immobilières*) appear constantly. The exam evaluates your ability to quickly scan abbreviations, check rental costs, determine whether utilities are included, and verify conditions such as pet policies or elevator access.
+- In **Reading (*Compréhension écrite*)**, short everyday documents such as classified ads (*petites annonces immobilières*) are typical of the early, easier items (items get progressively harder as the test goes on). The exam evaluates your ability to quickly scan abbreviations, check rental costs, determine whether utilities are included, and verify conditions such as pet policies or elevator access.
 - In **Listening (*Compréhension orale*)**, audio dialogues simulate tenant-landlord phone inquiries, inquiries about apartment viewings, or roommate interviews.
-- In **Speaking (*Expression orale*) Task 2**, you are routinely handed a prompt asking you to roleplay inquiring about an apartment for rent (*« Vous téléphonez au propriétaire d'un appartement à louer pour poser des questions sur le loyer, les charges, les pièces et les conditions »*). You must ask 7 to 10 fluent, spontaneous questions to the examiner.
+- In **Speaking (*Expression orale*) Task 2**, you are routinely handed a prompt asking you to roleplay inquiring about an apartment for rent (*« Vous téléphonez au propriétaire d'un appartement à louer pour poser des questions sur le loyer, les charges, les pièces et les conditions »*). You lead the exchange by asking the examiner fluent, spontaneous questions (aiming for 7 to 10 is a useful practice target, not an official rule).
 
 In this lesson, you will master the vocabulary of rooms, amenities, and furnishings, decode confusing real estate abbreviations, understand the unique **Québec 1½ to 5½ apartment numbering system**, learn critical Canadian tenancy laws, and practice scanning authentic rental ads under timed exam conditions.
 
@@ -60,7 +60,7 @@ In France and Europe, apartments are classified by the letter **T** (for *Type*)
 
 In Québec and Francophone Canada, rental listings universally use the **half-room system** (**la demie**). The half (½) represents the **bathroom**:
 
-- **Un 1½** (/œ̃.n‿œ̃ e dmi/): A studio apartment (one main room + one bathroom).
+- **Un 1½** (/œ̃ œ̃.n‿e dmi/): A studio apartment (one main room + one bathroom).
 - **Un 2½** (/œ̃ dø.z‿e dmi/): One living/sleeping area, a separate kitchen, plus one bathroom.
 - **Un 3½** (/œ̃ tʁwa.z‿e dmi/): **One bedroom**, one living room, one separate kitchen, plus one bathroom. (Equivalent to a French *T2* or North American "one-bedroom").
 - **Un 4½** (/œ̃ katʁ.e dmi/): **Two bedrooms**, one living room, one kitchen, plus one bathroom. (Equivalent to a French *T3* or North American "two-bedroom").
@@ -126,9 +126,9 @@ Navigating the rental market requires specific contractual and financial termino
 
 In France, landlords routinely require a **dépôt de garantie** (security deposit equal to 1 or 2 months' rent) before handing over keys.
 
-In **Québec**, under the strict regulations of the *Tribunal administratif du logement (TAL)*, **landlords are legally forbidden from demanding a security deposit or damage deposit**! A landlord may only ask for the first month's rent in advance upon signing the lease.
+In **Québec**, under the *Civil Code of Québec* (art. 1904), **landlords are legally forbidden from demanding a security deposit or damage deposit**! (The *Tribunal administratif du logement*, TAL, is the tribunal that settles landlord–tenant disputes.) A landlord may only ask for the first month's rent in advance upon signing the lease.
 
-Furthermore, in Québec culture, July 1st is officially known as **le jour du déménagement** (Moving Day). The vast majority of residential leases in Québec begin on July 1st and end on June 30th of the following year. On July 1st across Montreal and Quebec City, hundreds of thousands of residents change apartments simultaneously.
+Furthermore, in Québec culture, July 1st is popularly called **le jour du déménagement** (Moving Day). A large share of residential leases in Québec begin on July 1st and end on June 30th of the following year. On July 1st across Montreal and Quebec City, hundreds of thousands of residents change apartments simultaneously.
 
 When you encounter Canadian reading or listening texts mentioning *« chercher un logement pour le premier juillet »*, this is the cultural reality being referenced!
 
@@ -138,7 +138,7 @@ When you encounter Canadian reading or listening texts mentioning *« chercher u
 
 #### Exam tip: TCF Reading Classified Ad Traps
 
-On **Compréhension écrite Questions 1 to 8**, classified ads are designed to test your precision scanning:
+On the early **Compréhension écrite** items, classified ads test your precision scanning:
 
 1. **Beware of Negations and Exclusions**: Ads often specify conditions at the very end using abbreviations or terse formulas:
    - *« Animaux refusés »* or *« Chiens interdits »* = No pets allowed.
@@ -192,7 +192,7 @@ Train your eyes to scan directly for digits, abbreviations, and exclusionary sym
    - *le meublé* (/lə mø.ble/) — furnished apartment
    - *les charges comprises (cc)* (/le ʃaʁʒ kɔ̃.pʁiz/) — utilities included
    - *chauffé et éclairé* **(QC)** (/ʃo.fe e e.klɛ.ʁe/) — heated and powered (electricity included)
-   - *les électroménagers* **(QC)** (/le.z‿e.lɛk.tʁɔ.me.na.ʒe/) — household appliances (fridge/stove)
+   - *les électroménagers* (/le.z‿e.lɛk.tʁɔ.me.na.ʒe/) — household appliances (fridge/stove)
    - *le stationnement* **(QC)** (/lə sta.sjɔn.mɑ̃/) — parking space
    - *la colocation* (/la kɔ.lɔ.ka.sjɔ̃/) — apartment sharing
    - *le jour du déménagement* **(QC)** (/lə ʒuʁ dy de.me.naʒ.mɑ̃/) — moving day (July 1st)
@@ -233,4 +233,4 @@ This section contains helpful links to related content. It isn't required, so co
 
 - [Podcast Français Facile — Louer un appartement](https://www.podcastfrancaisfacile.com/podcast/dialogue-location.html): Audio dialogues of prospective tenants asking landlords questions about apartment viewings and leases.
 - [Podcast Français Facile — À l'agence immobilière](https://www.podcastfrancaisfacile.com/dialogue/a-lagence-immobiliere-2.html): Listening dialogues, transcripts, and exercises describing apartment features, rooms, and lease conditions.
-- [Tribunal administratif du logement du Québec](https://www.tal.gouv.qc.ca/): Official Québec administrative portal outlining legal rights, standard leases, and tenant regulations in Canada.
+- [Tribunal administratif du logement du Québec](https://www.tal.gouv.qc.ca/): Official Québec administrative portal outlining legal rights, standard leases, and tenant regulations in Québec.

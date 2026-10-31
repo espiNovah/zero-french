@@ -1,8 +1,8 @@
 ### Introduction
 
-The Reading Comprehension (*Compréhension écrite*) section of the **TCF Canada** tests your ability to rapidly process everyday written French without a dictionary. In official test conditions, you must answer **39 multiple-choice questions in 60 minutes**. Because the questions are presented in strict ascending order of difficulty from **Level A1 up to Level C2**, the first 12 questions assess your functional mastery of short, real-world documents: public signage, caution posters, workplace memos, store hours, classified ads, and municipal service announcements.
+The Reading Comprehension (*Compréhension écrite*) section of the **TCF Canada** tests your ability to rapidly process everyday written French without a dictionary. In official test conditions, you must answer **39 multiple-choice questions in 60 minutes**. The questions get progressively harder, from **Level A1 up to Level C2**, so the early items typically assess your functional mastery of short, real-world documents: public signage, caution posters, workplace memos, store hours, classified ads, and municipal service announcements.
 
-Achieving a high score on the TCF Canada reading module is largely a race against the clock. Spending more than 60 to 75 seconds on an A1 or A2 question deprives you of the cognitive reserves and time required to decode long B2 and C1 analytical editorials later in the test. To maximize your score, you must master two essential reading competencies:
+Achieving a high score on the TCF Canada reading module is largely a race against the clock. Lingering too long on an easy A1 or A2 question deprives you of the cognitive reserves and time required to decode long B2 and C1 analytical editorials later in the test. To maximize your score, you must master two essential reading competencies:
 1. **Écrémage (*Skimming*)**: Rapidly identifying the document type, the author, the target audience, and the overarching communicative purpose within 5 to 10 seconds.
 2. **Repérage (*Scanning*)**: Targeting specific factual data (dates, addresses, monetary costs, eligibility rules, prohibitions) directly triggered by the question stem, without reading word-for-word.
 
@@ -12,7 +12,7 @@ In this lesson, you will analyze the visual layout and lexicon of authentic Fran
 
 This section contains a general overview of topics that you will learn in this lesson.
 
-- Structure and timing benchmarks for TCF Canada Reading questions 1 to 12 (Levels A1–A2).
+- Structure and pacing for the early, easier TCF Canada Reading items (Levels A1–A2).
 - Public safety pictograms, caution notices, and municipal bylaws (*interdictions, avertissements, obligations*).
 - Classified ads and transactional announcements: decoding rental notices, items for sale, and workplace memos.
 - Visual anchors and typography: identifying dates, pricing, business hours, and contact details instantly.
@@ -22,21 +22,19 @@ This section contains a general overview of topics that you will learn in this l
 
 ### Anatomy of the TCF Canada reading comprehension module
 
-The TCF Canada reading test follows a standardized structure administered on a computer terminal (*TCF sur ordinateur*). Understanding this layout eliminates test-day anxiety and guarantees efficient pacing:
+The TCF Canada reading test has **39 multiple-choice items in 60 minutes**, scored on a 0–699 scale. The one structural principle you can rely on is that **early items are easier and later items are harder**. FEI does not publish an item-number-to-level map, and items are weighted by difficulty, so treat the picture below as a general guide, not an official breakdown:
 
-| Test Segment | Question Range | CEFR Level | Document Typology | Target Pacing per Question |
-| :--- | :--- | :--- | :--- | :--- |
-| **Section 1** | Questions 1–6 | **Level A1** | Street signs, shop signs, price tags, post-it notes, brief text messages. | **45 seconds** |
-| **Section 2** | Questions 7–12 | **Level A2** | Event invitations, administrative posters, store operating hours, classified ads. | **60 seconds** |
-| **Section 3** | Questions 13–24 | **Level B1** | Personal letters, company policies, travel itineraries, local newspaper reports. | **90 seconds** |
-| **Section 4** | Questions 25–34 | **Level B2** | Editorial commentary, critical reviews, economic syntheses, societal debates. | **105 seconds** |
-| **Section 5** | Questions 35–39 | **Level C1/C2** | Academic essays, philosophical treatises, complex literary excerpts. | **120 seconds** |
+| Part of the Test | Typical Difficulty | Typical Documents (illustrative) |
+| :--- | :--- | :--- |
+| **Early items** | **A1–A2** | Street signs, shop signs, price tags, brief messages, event invitations, store hours, classified ads. |
+| **Middle items** | **B1–B2** | Personal letters, company policies, local newspaper reports, opinion pieces. |
+| **Final items** | **C1–C2** | Long argumentative, academic, or literary texts. |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
-**The 15-minute time bank strategy**  
-Notice the timing distribution: If you allocate an average of only 50 to 60 seconds to each of the first 12 questions (Level A1/A2), you will finish the entire first third of the exam in approximately **11 to 12 minutes**.  
-This creates a **banking reserve of 15 extra minutes** that you can reinvest into the demanding multi-paragraph argumentative texts in the B2 and C1 sections.
+**The time bank strategy**  
+60 minutes for 39 items gives you an average of roughly 90 seconds per item. Because the early documents are short, you can usually answer them faster than that.  
+Every minute you save on the easy items is a minute you can reinvest in the demanding multi-paragraph texts at the end of the test.
 
 </div>
 
@@ -80,7 +78,7 @@ Public prohibitions in France and Canada rarely use full conversational sentence
 
 ### Reading classified ads housing and employment snippets
 
-Questions 7 to 12 frequently present authentic classified advertisements (*petites annonces*). These short snippets condense vital specifications using standardized abbreviations, symbols, and transactional formulas.
+The early reading items often include short classified advertisements (*petites annonces*). These short snippets condense vital specifications using standardized abbreviations, symbols, and transactional formulas.
 
 #### 1. Decoding real estate rental ads
 
@@ -125,7 +123,7 @@ Key scanning targets:
 
 ### Skimming and scanning techniques for rapid information retrieval
 
-To achieve near-perfect accuracy on TCF reading items 1–12 in under 60 seconds per question, execute the following **four-step tactical sequence**:
+To answer the early, short-document reading items accurately and quickly, execute the following **four-step tactical sequence** (the timings are suggested practice targets):
 
 ```text
 Step 1: Read the Question Stem FIRST (5 seconds)
@@ -151,7 +149,7 @@ Step 4: Verify Context & Eliminate Distractors (15–20 seconds)
 
 ### Deceptive cognates and question distractor traps
 
-Test creators at France Éducation international design multiple-choice distractors to trap candidates who skim carelessly or rely on word-for-word surface matching:
+Multiple-choice distractors are often built to catch candidates who skim carelessly or rely on word-for-word surface matching:
 
 #### 1. The word-match trap (Le piège du mot identique)
 
@@ -281,7 +279,7 @@ If an option claims *« Le magasin est ouvert tous les jours »*, but the text s
    - *chauffage compris* (/ʃo.faʒ kɔ̃.pʁi/) — heating included
    - *animaux non admis* (/a.ni.mo nɔ̃ n‿ad.mi/) — pets not permitted
    - *un rabais* (/œ̃ ʁa.bɛ/) — discount / price reduction
-   - *à récupérer sur place* (/a ʁe.kyp.e.ʁe syʁ plas/) — pick up on-site
+   - *à récupérer sur place* (/a ʁe.ky.pe.ʁe syʁ plas/) — pick up on-site
    - *les aînés* (/le z‿e.ne/) — seniors / older adults
    - *sur présentation de* (/syʁ pʁe.zɑ̃.ta.sjɔ̃ də/) — upon showing / presentation of
    - *dans la limite des places disponibles* (/dɑ̃ la li.mit de plas dis.pɔ.nibl/) — subject to availability
@@ -301,7 +299,7 @@ If an option claims *« Le magasin est ouvert tous les jours »*, but the text s
 
 The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
 
-- [What is the target pacing per question for items 1 to 12 in the TCF Canada reading module?](#anatomy-of-the-tcf-canada-reading-comprehension-module)
+- [How should you pace yourself on the early, easier items of the TCF Canada reading module?](#anatomy-of-the-tcf-canada-reading-comprehension-module)
 - [How do French public signs express prohibitions without using complete subject-verb sentences?](#decoding-public-signs-pictograms-and-municipal-notices)
 - [What do phrases like sans interruption and jours feries mean on storefront notices?](#decoding-public-signs-pictograms-and-municipal-notices)
 - [What does the Quebec real estate designation 3 1/2 indicate about apartment layout?](#reading-classified-ads-housing-and-employment-snippets)

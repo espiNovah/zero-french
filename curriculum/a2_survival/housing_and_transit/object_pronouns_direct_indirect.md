@@ -5,7 +5,7 @@ In everyday French conversation, repeating full noun phrases over and over makes
 To speak fluently, concisely, and naturally, you must replace repeated nouns with **object pronouns** (*les pronoms compléments*). Instead of repeating *l'appartement* three times, a French speaker says: *« Je **l'**ai aimé »* (*I liked **it***) and *« Je **lui** ai téléphoné »* (*I phoned **him***).
 
 On the **TCF Canada examination**, object pronouns are an explicit marker of **A2/B1 proficiency**:
-- In **Writing (*Expression écrite*) Tasks 1, 2, and 3**, the France Éducation international (FEI) grading rubric evaluates *Étendue et maîtrise du lexique* and *Cohérence et cohésion*. Replacing nouns with direct and indirect pronouns demonstrates text cohesion and prevents monotonous repetition.
+- In **Writing (*Expression écrite*) Tasks 1, 2, and 3**, examiners assess, among other things, your range of vocabulary and the cohesion of your text. Replacing nouns with direct and indirect pronouns demonstrates text cohesion and prevents monotonous repetition.
 - In **Speaking (*Expression orale*) Task 2 (the formal inquiry roleplay)**, when asking a landlord or employer questions, using pronouns is essential: *« Est-ce que vous pouvez **me** montrer le logement ? »* (*Can you show **me** the accommodation?*) or *« Je **vous** remercie »* (*I thank **you***).
 - In **Listening (*Compréhension orale*)**, recognizing who is receiving the action (*« Elle **lui** a envoyé les clés »* vs *« Elle **les** a envoyées »*) is critical for answering who did what in administrative and workplace dialogues.
 
@@ -167,7 +167,7 @@ On the TCF Canada exam, stick to standard placement without duplicate tonic pron
 - Written exam: *« Je lui ai envoyé tous les documents demandés. »*
 - Oral exam: *« Quand j'ai rencontré le gérant, je lui ai posé plusieurs questions sur le bail. »*
 
-Examiners award high marks under *Correction morphosyntaxique* when candidates correctly place object pronouns before infinitives and auxiliaries!
+Grammatical accuracy counts, so make sure you correctly place object pronouns before infinitives and auxiliaries!
 
 </div>
 
@@ -175,7 +175,7 @@ Examiners award high marks under *Correction morphosyntaxique* when candidates c
 
 #### Exam tip: Speaking Task 2 Roleplay Strategy
 
-On **TCF Speaking Task 2 (formal inquiry roleplay, 3.5 minutes)**, you must ask the examiner 7 to 10 spontaneous questions about a scenario (e.g. renting an apartment, booking a hotel, or inquiring about a gym).
+On **TCF Speaking Task 2 (formal inquiry roleplay, 3.5 minutes)**, you ask the examiner spontaneous questions about a scenario (aim for roughly 7 to 10 as a practice target) (e.g. renting an apartment, booking a hotel, or inquiring about a gym).
 
 Candidates who repeat the full noun in every single question sound like elementary learners:
 - *Weak*: *« Où est l'appartement ? Est-ce que l'appartement a un balcon ? Quand est-ce que je peux visiter l'appartement ? »*

@@ -8,7 +8,7 @@ On the **TCF Canada examination**, understanding and producing the imparfait is 
 - In **Listening (*Compréhension orale*)**, audio dialogues routinely set a scene using the imparfait (*« Il faisait froid ce matin-là... »*, *« Quand j'habitais à Sherbrooke... »*) before introducing a sudden event in the passé composé.
 - In **Reading (*Compréhension écrite*)**, descriptive passages, autobiographical profiles, and travel testimonies rely on the imparfait to describe living conditions, weather, emotional states, and longstanding habits.
 - In **Writing (*Expression écrite*) Task 2**, recounting an experience or comparing life before and after relocating to Canada requires contrasting past habits (*« Autrefois, je vivais dans une grande ville tropicale... »*) with present realities.
-- In **Speaking (*Expression orale*) Task 1 and Task 3**, examiners will ask you about your background: *« Comment était votre vie dans votre pays d'origine ? »* (*What was your life like in your country of origin?*).
+- In **Speaking (*Expression orale*) Task 1**, examiners may ask you about your background: *« Comment était votre vie dans votre pays d'origine ? »* (*What was your life like in your country of origin?*).
 
 In this lesson, you will master the remarkably regular formula for conjugating the imparfait, conquer the single irregular stem in the entire language, and learn the three foundational communicative uses of this tense: physical/emotional descriptions, weather conditions, and repetitive past habits.
 
@@ -176,12 +176,14 @@ On the TCF Canada, using expressions like *« à l'époque »*, *« autrefois »
 
 #### Exam tip: TCF Listening Trap (Passé Composé vs Imparfait)
 
-TCF exam designers deliberately exploit the phonetic similarity between the **first-person passé composé** and the **imparfait** of regular *-er* verbs:
+Listening questions can hinge on the phonetic similarity between the **first-person passé composé** and the **imparfait** of regular *-er* verbs:
 
-- Passé composé: **J'ai parlé** (/ʒ‿e paʁ.le/) → Notice the closed **/e/** sound at the end. Indicates a single completed event (*I spoke*).
-- Imparfait: **Je parlais** (/ʒə paʁ.lɛ/) → Notice the two syllables with an open **/ɛ/** at the end. Indicates an ongoing state or habit (*I used to speak / was speaking*).
+- Passé composé: **J'ai parlé** (/ʒ‿e paʁ.le/) → Notice the **/e/** of *j'ai* at the start. Indicates a single completed event (*I spoke*).
+- Imparfait: **Je parlais** (/ʒə paʁ.lɛ/) → Notice the neutral **/ə/** of *je* at the start. Indicates an ongoing state or habit (*I used to speak / was speaking*).
 
-During the 10-second preview window for Listening items, check whether the question asks about a **general condition in the past** (*Quelle était la situation ?*) or a **specific decision** (*Qu'a fait la personne ?*). Training your ear to distinguish /e/ from /ɛ/ is essential for securing Upper A2 listening points!
+The final vowels (/e/ vs /ɛ/) are unreliable: many speakers, especially in France, pronounce them almost alike. The dependable cue is the beginning: *j'ai* /ʒe/ versus *je* /ʒə/.
+
+Before each Listening item plays, read the question and check whether the question asks about a **general condition in the past** (*Quelle était la situation ?*) or a **specific decision** (*Qu'a fait la personne ?*). Training your ear to distinguish *j'ai* /ʒe/ from *je* /ʒə/ will help you on these items!
 
 </div>
 

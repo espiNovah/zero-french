@@ -2,7 +2,7 @@
 
 Greeting someone properly is the universal starting point for any French interaction. In the Francophone world, social encounters do not begin by jumping straight into business or asking a transaction question; they begin with an explicit ritual of acknowledgement. Entering a bakery in Montréal or walking into an office in Paris without saying hello is perceived not just as abrupt, but as actively disrespectful.
 
-For the TCF Canada candidate, greetings carry immediate high-stakes implications. In the *Expression orale* (Speaking) examination, the moment you walk into the room, your interaction with the examiner has begun. Examiners assess sociolinguistic competence from your first word. Choosing the wrong register—addressing an examiner as *tu* instead of *vous*, forgetting a greeting formula, or omitting basic politeness markers—incurs immediate penalties under the official France Éducation international (FEI) assessment criteria.
+For the TCF Canada candidate, greetings carry immediate high-stakes implications. In the *Expression orale* (Speaking) examination, the moment you walk into the room, your interaction with the examiner has begun. The examiner hears how you handle register from your first word. Choosing the wrong register—addressing an examiner as *tu* instead of *vous*, forgetting a greeting formula, or omitting basic politeness markers—creates a poor impression and can weigh on your overall speaking score.
 
 In this lesson, you will master the foundational vocabulary and social mechanics of French greetings, farewells, and polite exchanges. You will learn to navigate the critical distinction between *tu* (informal) and *vous* (formal), understand Canadian versus European French variations, and practice real spoken cadences to build immediate conversational confidence.
 
@@ -37,7 +37,7 @@ The standard universal daytime greeting is **bonjour**. It is a compound word fo
 
 Notice that **salut** means both "hi" and informal "bye". It is an informal greeting used among friends, colleagues of equal status who already know each other well, young people, and family members. Never use *salut* when addressing an immigration official, a store clerk you do not know, a doctor, or an elder.
 
-When answering the telephone, French speakers do not say *bonjour*. Instead, they use a specific telephone marker:
+When answering the telephone, French speakers typically start with the telephone marker *allô*, very often followed by *bonjour*:
 
 > **Allô ? Oui, bonjour.** — /a.lo ? wi, bɔ̃.ʒuʁ/  
 > *Hello? Yes, hello.*
@@ -47,7 +47,7 @@ When answering the telephone, French speakers do not say *bonjour*. Instead, the
 | **Bonjour** | /bɔ̃.ʒuʁ/ | Hello / Good day | Universal (formal and polite neutral); used until evening |
 | **Bonsoir** | /bɔ̃.swaʁ/ | Good evening | Universal (formal and polite neutral); used from ~5:30 pm onwards |
 | **Salut** | /sa.ly/ | Hi / Hey | Strictly informal; close friends, peers, and children |
-| **Allô** | /a.lo/ | Hello | Exclusively on the telephone; never used in face-to-face encounters |
+| **Allô** | /a.lo/ | Hello | Mainly on the telephone (*Allô, bonjour* is normal); in Québec, also an informal in-person greeting |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -89,7 +89,7 @@ The golden rule for adult immigrants is simple: **when in doubt, always use vous
 
 #### Exam tip
 
-In the TCF Canada exam, you must address the examiner with **vous** at all times. In Speaking Task 2 (the interactive roleplay), you will play a scenario such as booking a hotel, inquiring about an apartment, or asking for information at a tourist office. Using *tu* during this roleplay is an instant sociolinguistic error that directly lowers your score.
+In the TCF Canada exam, you must address the examiner with **vous** at all times. In Speaking Task 2 (the interactive roleplay), you will play a scenario such as booking a hotel, inquiring about an apartment, or asking for information at a tourist office. Unless the prompt card makes the other person a friend, using *tu* during this roleplay is a register error that weakens your performance.
 
 </div>
 
@@ -194,7 +194,7 @@ Here are the essential courtesy formulas every candidate must master:
 
 #### Québec vs France
 
-In France, the universal reply to *merci* is **de rien** or **je vous en prie**. In Québec, you will almost exclusively hear **bienvenue** **(QC)** used to mean "you're welcome" (modeled on English "welcome"). In France, *bienvenue* means only "welcome to a place" (*Bienvenue à Paris*). On the TCF Canada, both are recognized, but using *de rien* or *je vous en prie* ensures universal acceptance across all Francophone examiners.
+In France, the universal reply to *merci* is **de rien** or **je vous en prie**. In Québec, you will often hear **bienvenue** **(QC)** used to mean "you're welcome" (modeled on English "welcome"). This is a familiar Québec usage that the OQLF advises against (it is a calque of English); the standard replies, in Québec as in France, are **de rien**, **je vous en prie** or **il n'y a pas de quoi**. In standard French, *bienvenue* means "welcome to a place" (*Bienvenue à Paris*). In the exam, use *de rien* or *je vous en prie*.
 
 </div>
 
@@ -228,7 +228,7 @@ Notice the difference between **jour** (a point in time: *bonjour*) and **journ�
 
 #### Exam tip
 
-When concluding your TCF Canada Speaking examination (after Task 3), do not simply stand up in silence. Look the examiner in the eye, smile, and say: **"Merci beaucoup, bonne journée, au revoir."** Leaving with clear, confident polite formulas leaves a positive final impression on your sociolinguistic evaluation.
+When concluding your TCF Canada Speaking examination (after Task 3), do not simply stand up in silence. Look the examiner in the eye, smile, and say: **"Merci beaucoup, bonne journée, au revoir."** Leaving with clear, confident polite formulas leaves a positive final impression on the examiner.
 
 </div>
 
@@ -273,7 +273,7 @@ To consolidate your mastery of registers, review this quick matrix of situationa
    3. **Je vous en prie** (The polite, formal response to *merci* with a stranger).
    4. **À demain, bonne soirée** ("See you tomorrow, have a good evening").
    5. **Salut, ça va ?** (Natural informal greeting between peers).
-   6. **You're welcome** (In Québec French, *bienvenue* commonly means "you're welcome").
+   6. **You're welcome** (In familiar Québec French, *bienvenue* is often heard for "you're welcome", a calque the OQLF advises against; the standard reply is *de rien* or *je vous en prie*).
 
    </details>
 

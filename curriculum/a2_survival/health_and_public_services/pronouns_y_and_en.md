@@ -6,10 +6,10 @@ These two small words accomplish significant linguistic heavy lifting:
 - **Y** replaces places and locations, as well as inanimate objects introduced by the preposition **à**.
 - **EN** replaces quantities, partitive nouns, and concepts introduced by the preposition **de**.
 
-On the **TCF Canada examination**, mastering **Y** and **EN** is one of the most reliable markers separating A1/A2 beginners from candidates achieving **Level B1 and B2 (NCLC 6–7)**:
+On the **TCF Canada examination**, mastering **Y** and **EN** is one of the most reliable markers separating A1/A2 beginners from candidates achieving **Level B1 and B2**:
 - In **Listening Comprehension (*Compréhension orale*)**, dialogues frequently feature rapid responses such as *« J'y vais tout de suite »* or *« Il n'en reste plus »*. If you do not recognize what *y* or *en* refers to, you will lose the thread of the dialogue.
 - In **Speaking (*Expression orale*) Task 2 & Task 3**, answering the examiner's questions using *y* and *en* (*« Oui, j'y habite depuis six mois »*, *« J'en prends tous les jours »*) demonstrates fluid syntactic control and prevents awkward repetitions of the prompt.
-- In **Writing (*Expression écrite*) Task 2 & Task 3**, replacing repeated ideas with *y* and *en* creates sophisticated, cohesive sentences that earn maximum points under the *Cohérence et cohésion* evaluation criterion.
+- In **Writing (*Expression écrite*) Task 2 & Task 3**, replacing repeated ideas with *y* and *en* creates sophisticated, cohesive sentences, and examiners do assess how well your text holds together.
 
 ### Lesson overview
 
@@ -113,7 +113,7 @@ When a verb is followed by the preposition **de** and an inanimate noun, replace
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 **Critical distinction: people vs things with preposition de**  
-Just like **Y**, the pronoun **EN** cannot replace a human being governed by *de*:
+**EN** can refer to people when it expresses a quantity or an indefinite group (*Avez-vous des enfants ? → Oui, j'en ai deux.*). But when *de* introduces a **specific** person, use *de* + a tonic pronoun instead:
 - For a thing: *Tu as peur **de l'opération** ?* -> **Oui, j'en ai peur.** (Correct)
 - For a person: *Tu as peur **du chirurgien** ?* -> **Non, j'ai peur de lui.** (Use *de* + tonic pronoun: *de lui, d'elle, d'eux*).
 
@@ -224,7 +224,7 @@ Mastery of **Y** and **EN** delivers an immediate score multiplier on the TCF Ca
    - In Task 2 (Interactive roleplay at a service counter):  
      *« Avez-vous des brochures sur les cours de français ? »* -> *« Oui, est-ce que je peux **en avoir une** ? »*
 3. **Expression écrite (Writing Task 2 & Task 3)**:
-   - Evaluators penalize repetitive noun phrases under *Étendue du lexique* and *Cohérence*. Using *y* and *en* to seamlessly anchor your arguments to the prompt guarantees a high linguistic maturity rating.
+   - Repetitive noun phrases make a text heavy, and examiners assess both vocabulary range and cohesion. Using *y* and *en* to anchor your arguments to the prompt makes your writing smoother and more mature.
 
 ### Assignment
 
