@@ -75,7 +75,7 @@ def json_ld(manifest):
 
 def render_index(manifest):
     path_items = []
-    for i, p in enumerate(manifest["paths"]):
+    for i, p in enumerate(manifest["paths"], start=1):
         total, projects = lesson_count(p)
         tag = ' <span class="tag optional">Elective</span>' if p.get("optional") else ""
         path_items.append(f"""        <li><a class="path-card" href="#/paths/{p['id']}" data-path="{p['id']}">
@@ -160,7 +160,7 @@ def render_index(manifest):
         </ul>
       </section>
 
-      <section class="home-block" aria-labelledby="faq-title">
+      <section class="home-block home-faq" aria-labelledby="faq-title">
         <h2 class="section-title" id="faq-title">Frequently asked questions</h2>
         <div class="faq">
 {faq}

@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Curriculum Validation](https://img.shields.io/badge/Curriculum%20Validation-Passing-brightgreen.svg)](scripts/validate.py)
-[![Status: Path 00 Complete](https://img.shields.io/badge/Path%2000%20(A1)-100%25%20Complete-success.svg)](PROGRESS.md)
+[![Status: Path 01 Complete](https://img.shields.io/badge/Path%2001%20(A1)-100%25%20Complete-success.svg)](PROGRESS.md)
 [![Live Site](https://img.shields.io/badge/Live%20Site-GitHub%20Pages-red.svg)](https://espinovah.github.io/zero-french/)
 
 ---
@@ -36,18 +36,18 @@ Most commercial courses are either locked behind steep paywalls, emphasize casua
 
 | Path | Level & Focus | Hours | Status |
 | :--- | :--- | :--- | :--- |
-| **Path 00: A1 Basics** | Foundations, phonetics, greetings, routine, places, food, café, shopping & weather | ~100h | **100% Complete** (20 lessons, 4 projects) |
-| **Path 01: A2 Survival French** | Past narratives (*passé composé* vs *imparfait*), travel, services, health & work | ~100h | Up next |
-| **Path 02: B1 Independent French** | Opinions, debate, future, conditional, professional French, and media analysis | ~200h | Planned |
-| **Path 03: B2 Advanced French** | Subjunctive, complex synthesis, argumentative writing & formal debate | ~200h | Planned |
-| **Path 04: TCF Canada Exam Prep** | Timed mocks, TCF-SO computer simulation, distractor traps, and score logging | ~60h | Planned |
-| **Path 05: B2+ Safety Margin** | High-velocity idiom immersion, Canadian media, and score buffer | ~60h | Planned |
+| **Path 01: A1 Basics** | Foundations, phonetics, greetings, routine, places, food, café, shopping & weather | ~100h | **100% Complete** (20 lessons, 4 projects) |
+| **Path 02: A2 Survival French** | Past narratives (*passé composé* vs *imparfait*), travel, services, health & work | ~100h | Up next |
+| **Path 03: B1 Independent French** | Opinions, debate, future, conditional, professional French, and media analysis | ~200h | Planned |
+| **Path 04: B2 Advanced French** | Subjunctive, complex synthesis, argumentative writing & formal debate | ~200h | Planned |
+| **Path 05: TCF Canada Exam Prep** | Timed mocks, TCF-SO computer simulation, distractor traps, and score logging | ~60h | Planned |
+| **Path 06: B2+ Safety Margin** | High-velocity idiom immersion, Canadian media, and score buffer | ~60h | Planned |
 
 ---
 
-## 📚 Path 00: A1 Basics — Inventory (Completed)
+## 📚 Path 01: A1 Basics — Inventory (Completed)
 
-Path 00 provides a complete 100-hour foundation across four themed sections:
+Path 01 provides a complete 100-hour foundation across four themed sections:
 
 ### Section 1: Foundations & Pronunciation
 - [x] **The Alphabet, Accents, and Spelling** — 26 letters, G/J and E/I traps, the 5 accents, postal codes & emails.

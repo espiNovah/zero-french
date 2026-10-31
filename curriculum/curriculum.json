@@ -508,6 +508,375 @@
               "title": "Nominalization and Register Elevation: Administrative and Academic Style",
               "description": "Elevate conversational verbal structures into formal nominal phrases, master suffixation paradigms, and achieve high informational density.",
               "file": "b2_advanced/argumentation_mastery/nominalization_and_formality.md"
+            },
+            {
+              "id": "advanced-logical-articulators",
+              "title": "Advanced Logical Articulators: Proportionality, Hypothesis, and Concession",
+              "description": "Master sophisticated B2 connectors (d'autant plus que, nonobstant, quand bien même, pourvu que, quitte à), and govern subjunctive and conditional moods.",
+              "file": "b2_advanced/argumentation_mastery/advanced_logical_articulators.md"
+            },
+            {
+              "id": "nuance-and-modalization",
+              "title": "Nuance and Modalization: Calibrating Certainty, Probability, and Rhetorical Distance",
+              "description": "Master epistemic verbs (devoir, sembler), the journalistic conditional, modal adverbs, and impersonal frames to defend nuanced B2 arguments.",
+              "file": "b2_advanced/argumentation_mastery/nuance_and_modalization.md"
+            },
+            {
+              "id": "project-writing-task3-foundations",
+              "title": "Project: Writing Task 3 Foundations",
+              "description": "Synthesize two conflicting journalistic sources and defend a nuanced B2 dialectical position in a timed 120–180 word essay under official TCF Canada conditions.",
+              "file": "b2_advanced/argumentation_mastery/project_writing_task3_foundations.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "complex-audio-and-voices",
+          "title": "Complex Audio & Voices",
+          "description": "Decode rapid spontaneous French, overcome acoustic interference and overlapping turn-taking, and master North American Francophone accents.",
+          "lessons": [
+            {
+              "id": "decoding-rapid-spontaneous-speech",
+              "title": "Decoding Rapid Spontaneous Speech: Phonetic Reductions, Ambient Noise, and Turn-Taking",
+              "description": "Master conversational reductions (ch'sais pas, y a, pronoun drops), track rhythmic tonic accents through ambient noise, and navigate rapid debate turn-taking.",
+              "file": "b2_advanced/complex_audio_and_voices/decoding_rapid_spontaneous_speech.md"
+            },
+            {
+              "id": "radiocanada-podcasts-analysis",
+              "title": "Radio-Canada Podcasts Analysis: Macro-Listening and Institutional Registers",
+              "description": "Deconstruct long-format public affairs podcasts from Radio-Canada, decode Canadian civic vocabulary, and extract implicit editorial stances under single-play exam conditions.",
+              "file": "b2_advanced/complex_audio_and_voices/radiocanada_podcasts_analysis.md"
+            },
+            {
+              "id": "canadian-accents-and-idioms",
+              "title": "Canadian Accents and Idioms: Diphthongization, Contractions, and Authentic Colloquialisms",
+              "description": "Master the phonetics of spoken Canadian French (affrication, laxing, diphthongs), decipher colloquial discourse markers, and decode high-frequency idioms.",
+              "file": "b2_advanced/complex_audio_and_voices/canadian_accents_and_idioms.md"
+            },
+            {
+              "id": "tcf-listening-advanced-drills",
+              "title": "TCF Listening Advanced Drills: Dissecting Items 26–39 and Distractor Traps",
+              "description": "Master the 10-second prediction protocol, identify the 4 universal distractor mechanisms (lexical recycling, polarity inversion, over-generalization, chronological shift), and tackle upper-tier audio under single-play conditions.",
+              "file": "b2_advanced/complex_audio_and_voices/tcf_listening_advanced_drills.md"
+            },
+            {
+              "id": "project-tcf-listening-sprint",
+              "title": "Project: TCF Listening Sprint",
+              "description": "Complete a full timed 14-item listening sprint targeting items 26–39, diagnose error patterns with the distractor taxonomy, and calibrate raw scores to NCLC 7 thresholds.",
+              "file": "b2_advanced/complex_audio_and_voices/project_tcf_listening_sprint.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "editorial-reading",
+          "title": "Editorial Reading & Text Analysis",
+          "description": "Deconstruct complex journalistic and academic prose, decode subtle rhetorical stance, and master rapid reading tactics for items 26–39.",
+          "lessons": [
+            {
+              "id": "analyzing-academic-journalistic-texts",
+              "title": "Analyzing Academic and Journalistic Texts: Macro-Reading, Text Architecture, and Informational Density",
+              "description": "Deconstruct the 5-part architecture of French essays and white papers, unpack dense nominalization chains, and master the 3-pass macro-reading strategy.",
+              "file": "b2_advanced/editorial_reading/analyzing_academic_journalistic_texts.md"
+            },
+            {
+              "id": "detecting-bias-irony-implied-meaning",
+              "title": "Detecting Bias, Irony, and Implied Meaning: Rhetorical Stance and Subtext",
+              "description": "Decode authorial stance through scare quotes, the journalistic conditional, value-laden lexicon, antiphrasis, and litotes under TCF exam conditions.",
+              "file": "b2_advanced/editorial_reading/detecting_bias_irony_implied_meaning.md"
+            },
+            {
+              "id": "tcf-reading-advanced-drills",
+              "title": "TCF Reading Advanced Drills: Pacing Tactics and the 3-Tier Blueprint",
+              "description": "Master the 3-tier pacing strategy, bank 20+ minutes for items 28–39, navigate the 4 upper-tier question categories, and apply the 5-step surgical reading protocol.",
+              "file": "b2_advanced/editorial_reading/tcf_reading_advanced_drills.md"
+            },
+            {
+              "id": "fast-elimination-keyword-traps",
+              "title": "Fast Elimination and Keyword Traps: Neutralizing Distractors and False Friends",
+              "description": "Dismantle absolute wording traps, false friends, lexical echoes, and plausible extrapolations using the fast elimination algorithm and the slightly softer paraphrase rule.",
+              "file": "b2_advanced/editorial_reading/fast_elimination_keyword_traps.md"
+            },
+            {
+              "id": "project-tcf-reading-marathon",
+              "title": "Project: TCF Reading Marathon",
+              "description": "Complete a full timed 15-item reading sprint (items 25–39), diagnose error patterns with the distractor taxonomy, and calibrate raw scores to NCLC 7 thresholds.",
+              "file": "b2_advanced/editorial_reading/project_tcf_reading_marathon.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "high-stakes-production",
+          "title": "High-Stakes Production",
+          "description": "Master timed computer-based essay writing and high-pressure speaking tasks under official TCF Canada conditions.",
+          "lessons": [
+            {
+              "id": "writing-task1-perfection",
+              "title": "Writing Task 1 Perfection: Precise Register, 12-Minute Budget, and Zero Word-Count Penalty",
+              "description": "Master the 60–120 word boundary, maintain rigorous register consistency, and satisfy all prompt requirements in under 12 minutes.",
+              "file": "b2_advanced/high_stakes_production/writing_task1_perfection.md"
+            },
+            {
+              "id": "writing-task2-perfection",
+              "title": "Writing Task 2 Perfection: Balancing Personal Recount and Critical Civic Opinion",
+              "description": "Master the 120–150 word boundary, execute the 50/50 bipartite architecture, and elevate narrative recounts into mature B2 civic argumentation in under 18 minutes.",
+              "file": "b2_advanced/high_stakes_production/writing_task2_perfection.md"
+            },
+            {
+              "id": "writing-task3-perfection",
+              "title": "Writing Task 3 Perfection: Radical Paraphrase, Document Synthesis, and Dialectical Stance",
+              "description": "Synthesize two opposing source texts without verbatim copying, target the 145–165 word sweet spot, and defend a nuanced dialectical thesis under strict 28-minute exam timing.",
+              "file": "b2_advanced/high_stakes_production/writing_task3_perfection.md"
+            },
+            {
+              "id": "speaking-task2-3-b2-tactics",
+              "title": "Speaking Task 2 & 3 B2 Tactics: Roleplay Leadership and the 4.5-Minute Monologue",
+              "description": "Lead the examiner in Task 2 through structured inquiries and objection negotiation, and sustain an articulate 4.5-minute unscripted monologue in Task 3.",
+              "file": "b2_advanced/high_stakes_production/speaking_task2_3_b2_tactics.md"
+            },
+            {
+              "id": "project-b2-milestone-mock",
+              "title": "Project: B2 Milestone Mock Exam",
+              "description": "Complete a full 4-skill timed milestone mock exam (CO 35m, CE 60m, EE 60m, EO 12m) to evaluate and certify the NCLC 7 benchmark.",
+              "file": "b2_advanced/high_stakes_production/project_b2_milestone_mock.md",
+              "project": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tcf-prep",
+      "title": "TCF Canada Exam Prep",
+      "hours": 60,
+      "optional": false,
+      "description": "Master test psychology, rapid predictive listening, high-speed typing without spellcheck, unscripted speaking under pressure, and full-dress rehearsal mocks.",
+      "sections": [
+        {
+          "id": "exam-mechanics",
+          "title": "Exam Mechanics & Distractor Dissection",
+          "description": "Deconstruct the psychometric architecture of the TCF Canada, master predictive listening scanning, and defeat deceptive distractor traps.",
+          "lessons": [
+            {
+              "id": "listening-prediction-and-choice-scanning",
+              "title": "Listening Prediction and Choice Scanning: Weaponizing the 10-Second Preview Window",
+              "description": "Master the 10-second eye sweep protocol, map semantic fault lines, prime lexical fields, and overcome the choice freezing trap.",
+              "file": "tcf_prep/exam_mechanics/listening_prediction_and_choice_scanning.md"
+            },
+            {
+              "id": "distractor-dissection-negatives-friends",
+              "title": "Distractor Dissection: Catching False Friends, Reversed Polarity, and Chronological Misdirection",
+              "description": "Neutralize restrictive negations (ne... que, guère), false friends (éventuellement, ignorer), and chronological misdirection using the fast elimination protocol.",
+              "file": "tcf_prep/exam_mechanics/distractor_dissection_negatives_friends.md"
+            },
+            {
+              "id": "reading-pacing-blueprint",
+              "title": "Reading Pacing Blueprint: Strict 15 / 15 / 30 Time Allocation",
+              "description": "Master the 15/15/30 time budget, monitor four clock checkpoints on the computer screen, and execute emergency triage under time pressure.",
+              "file": "tcf_prep/exam_mechanics/reading_pacing_blueprint.md"
+            },
+            {
+              "id": "the-five-second-drop-rule",
+              "title": "The Five-Second Drop Rule: Emotional Resilience and Halting Domino Collapses",
+              "description": "Master the four-step five-second drop protocol, eliminate the sunk cost fallacy, and deploy somatic grounding to recover from testing blackouts.",
+              "file": "tcf_prep/exam_mechanics/the_five_second_drop_rule.md"
+            },
+            {
+              "id": "project-timed-mcq-sprint",
+              "title": "Project: Back-to-Back Timed MCQ Sprint",
+              "description": "Execute a full 95-minute continuous sitting combining the 35-minute Listening test and 60-minute Reading test under strict TCF-SO computer rules.",
+              "file": "tcf_prep/exam_mechanics/project_timed_mcq_sprint.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "writing-speed",
+          "title": "Writing Speed & Precision Under Pressure",
+          "description": "Master typing French accents without autocorrect, calibrate exact word-count boundaries, and drill timed execution across all three writing tasks.",
+          "lessons": [
+            {
+              "id": "typing-french-under-exam-conditions",
+              "title": "Typing French Under Exam Conditions: Keyboard Muscle Memory and Zero-Autocorrect Mastery",
+              "description": "Configure physical keyboards, master dead-key combinations on US-International and Canadian Multilingual, eliminate accent-related grammatical slips, and benchmark typing speed.",
+              "file": "tcf_prep/writing_speed/typing_french_under_exam_conditions.md"
+            },
+            {
+              "id": "writing-task1-speed-drill",
+              "title": "Writing Task 1 Speed Drill: 80 Words in 12 Minutes with 3 Minutes of Proofreading",
+              "description": "Master rapid message drafting under strict 15-minute exam limits: modular opening formulas, precise informational delivery, and systematic proofreading.",
+              "file": "tcf_prep/writing_speed/writing_task1_speed_drill.md"
+            },
+            {
+              "id": "writing-task2-speed-drill",
+              "title": "Writing Task 2 Speed Drill: 135 Words in 16 Minutes with 4 Minutes of Proofreading",
+              "description": "Execute the 50/50 narrative recount and civic opinion letter in 20 minutes flat, calibrating word counts and deploying transitional articulators under time pressure.",
+              "file": "tcf_prep/writing_speed/writing_task2_speed_drill.md"
+            },
+            {
+              "id": "writing-task3-speed-drill",
+              "title": "Writing Task 3 Speed Drill: 150 Words Synthesis and Stance in 20 Minutes with 5 Minutes Proofreading",
+              "description": "Master the 25-minute synthesis and opinion challenge: rapid document comparison, zero-copying paraphrasing strategies, and structured dialectical argumentation.",
+              "file": "tcf_prep/writing_speed/writing_task3_speed_drill.md"
+            },
+            {
+              "id": "project-full-timed-writing-simulation",
+              "title": "Project: Full 60-Minute Timed Writing Simulation",
+              "description": "Complete the entire 3-task TCF Canada Expression écrite sitting in 60 minutes sharp without autocorrect or word-counter plugins, evaluated against official FEI criteria.",
+              "file": "tcf_prep/writing_speed/project_full_timed_writing_simulation.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "speaking-pressure",
+          "title": "Speaking Under Pressure & Spontaneous Interaction",
+          "description": "Master unscripted self-introductions, rapid 2-minute scrap paper preparation, 4.5-minute monologue architecture, and psychological recovery from oral freezes.",
+          "lessons": [
+            {
+              "id": "task1-modular-intro-framework",
+              "title": "Task 1 Modular Intro Framework: The 2-Minute Unscripted Self-Presentation",
+              "description": "Master the four-module self-intro architecture, eliminate monosyllabic stalls, deploy high-register B2 biographical syntax, and handle spontaneous examiner interruptions.",
+              "file": "tcf_prep/speaking_pressure/task1_modular_intro_framework.md"
+            },
+            {
+              "id": "task2-two-minute-prep-template",
+              "title": "Task 2 Two-Minute Prep Template: Shorthand Grids and Interactive Roleplay Leadership",
+              "description": "Overcome full-sentence paralysis with the 6-W + 4-T shorthand grid, vary question syntax across four grammatical registers, and negotiate examiner roadblocks during the 3.5-minute roleplay.",
+              "file": "tcf_prep/speaking_pressure/task2_two_minute_prep_template.md"
+            },
+            {
+              "id": "task3-sustaining-the-monologue",
+              "title": "Task 3 Sustaining the Monologue: The Rule of Three and 4.5-Minute Endurance",
+              "description": "Master the 5-phase monologue roadmap, apply the Rule of Three to decompose societal dilemmas, anchor claims in Canadian reality, and sustain unscripted speech for 4.5 minutes.",
+              "file": "tcf_prep/speaking_pressure/task3_sustaining_the_monologue.md"
+            },
+            {
+              "id": "overcoming-hesitations-and-recovery",
+              "title": "Overcoming Hesitations & Recovery: High-Register Fillers and Surgical Self-Repair",
+              "description": "Replace vocalized pauses with authoritative rhetorical fillers, climb the 3-rung circumlocution ladder during lexical blackouts, and execute surgical grammatical self-repairs.",
+              "file": "tcf_prep/speaking_pressure/overcoming_hesitations_and_recovery.md"
+            },
+            {
+              "id": "project-full-speaking-simulation",
+              "title": "Project: Full 12-Minute Timed Speaking Simulation",
+              "description": "Execute the entire three-task TCF Canada Expression orale test in 12 continuous minutes with recorded evidence, evaluated against official FEI criteria.",
+              "file": "tcf_prep/speaking_pressure/project_full_speaking_simulation.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "full-rehearsals",
+          "title": "Full Rehearsals & Test-Day Logistics",
+          "description": "Execute full-dress 3-hour examination rehearsals under official test-center conditions, diagnose performance vulnerabilities, and manage test-day logistics.",
+          "lessons": [
+            {
+              "id": "rehearsal-exam-1-protocol",
+              "title": "Rehearsal Exam 1 Protocol: The Full-Dress 3-Hour Simulation Setup",
+              "description": "Configure the 4-stage mock sitting environment, manage cognitive stamina during the 10-minute intermission, and execute a post-mock diagnostic error autopsy.",
+              "file": "tcf_prep/full_rehearsals/rehearsal_exam_1_protocol.md"
+            },
+            {
+              "id": "diagnostic-recovery-blueprint",
+              "title": "Diagnostic Recovery Blueprint: Error Triage and the 7-Day Remedial Sprint",
+              "description": "Triage Mock Sitting #1 across the 4 failure modes, deploy micro-drills to reclaim lost points, and execute a structured 7-day remedial sprint.",
+              "file": "tcf_prep/full_rehearsals/diagnostic_recovery_blueprint.md"
+            },
+            {
+              "id": "rehearsal-exam-2-protocol",
+              "title": "Rehearsal Exam 2 Protocol: Testing Under Adversity and Safety Margin Calculation",
+              "description": "Execute Mock Sitting #2 under deliberate ambient interference, compute comparative performance deltas, and calculate your NCLC Safety Margin Index.",
+              "file": "tcf_prep/full_rehearsals/rehearsal_exam_2_protocol.md"
+            },
+            {
+              "id": "test-day-logistics-and-psychology",
+              "title": "Test-Day Logistics & Performance Psychology: Arrival, Calibrations, and Somatic Regulation",
+              "description": "Master the T-24 documentation audit, terminal calibration checks, biological glycemic management, and somatic nervous-system regulation.",
+              "file": "tcf_prep/full_rehearsals/test_day_logistics_and_psychology.md"
+            },
+            {
+              "id": "project-final-readiness-audit",
+              "title": "Project: Final Readiness Audit & NCLC Score Verification",
+              "description": "Execute a comprehensive evidence portfolio audit across all 4 skills, calculate your Safety Margin Index, and apply the 7-criteria Go/No-Go decision gate.",
+              "file": "tcf_prep/full_rehearsals/project_final_readiness_audit.md",
+              "project": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-safety",
+      "title": "B2+ Safety Margin (C1 Foundations)",
+      "hours": 60,
+      "optional": false,
+      "requires": [
+        "tcf-prep"
+      ],
+      "description": "Push comfortably into C1 territory (NCLC 8–9) to make NCLC 7 immune to bad test-day conditions: literary past tense recognition, counterfactual conditionnel passé, advanced concordance, and unscripted debate defense.",
+      "sections": [
+        {
+          "id": "advanced-grammar",
+          "title": "Advanced Syntax & Literary Grammar Recognition",
+          "description": "Master passive recognition of literary past tenses, counterfactual conditional hypotheses, past subjunctive concordances, and implicit cultural idioms.",
+          "lessons": [
+            {
+              "id": "passe-simple-recognition",
+              "title": "Passé Simple Recognition: Decoding Literary and Journalistic Past Tenses in High-Difficulty Texts",
+              "description": "Recognize the 4 vowel-ending paradigms of the passé simple in Reading items 28–39, decouple tricky homophones, and trace chronological narratives.",
+              "file": "b2_safety/advanced_grammar/passe_simple_recognition.md"
+            },
+            {
+              "id": "conditionnel-passe-regrets",
+              "title": "Conditionnel Passé & Unfulfilled Hypotheses: Regrets, Reproaches, and Precautionary Tone",
+              "description": "Conjugate the conditionnel passé, master the third hypothetical conditional (Si + plus-que-parfait), formulate diplomatic policy critiques, and decode journalistic speculation.",
+              "file": "b2_safety/advanced_grammar/conditionnel_passe_regrets.md"
+            },
+            {
+              "id": "subjonctif-passe-concordance",
+              "title": "Subjonctif Passé & Concordance des Temps: Expressing Anteriority in Evaluation",
+              "description": "Form the subjonctif passé, master tense agreement rules after evaluative matrices, and elevate writing conclusions.",
+              "file": "b2_safety/advanced_grammar/subjonctif_passe_concordance.md"
+            },
+            {
+              "id": "cultural-metaphors-and-idioms",
+              "title": "Cultural Metaphors and Idioms in Canadian Political and Civic Discourse",
+              "description": "Decode implicit idioms and figurative expressions in Canadian public debate, editorials, and high-difficulty reading texts.",
+              "file": "b2_safety/advanced_grammar/cultural_metaphors_and_idioms.md"
+            },
+            {
+              "id": "project-c1-argumentative-essay",
+              "title": "Project: C1 200-Word Deep-Dive Argumentative Essay",
+              "description": "Compose an unassisted 200-word argumentative essay on technological governance integrating past subjunctive, counterfactuals, and civic idioms.",
+              "file": "b2_safety/advanced_grammar/project_c1_argumentative_essay.md",
+              "project": true
+            }
+          ]
+        },
+        {
+          "id": "spontaneous-debate",
+          "title": "Spontaneous Debate & Rhetorical Fluency",
+          "description": "Defend complex and counter-intuitive prompts with zero preparation, master high-register spoken connectors, and refine French rhythmic cadence.",
+          "lessons": [
+            {
+              "id": "counter-intuitive-prompt-defense",
+              "title": "Counter-Intuitive Prompt Defense: Unscripted Stance Articulation Under Adversarial Pressure",
+              "description": "Dissect provocative speaking prompts, apply the 3-step reframing protocol, deploy diplomatic concession formulas, and sustain a 4.5-minute monologue.",
+              "file": "b2_safety/spontaneous_debate/counter_intuitive_prompt_defense.md"
+            },
+            {
+              "id": "sophisticated-rhetorical-connectors",
+              "title": "Sophisticated Rhetorical Connectors: Elevating Discursive Cohesion to C1 Mastery",
+              "description": "Master advanced discursive tools (non seulement... mais bien plus, qui plus est, d'autant que, loin s'en faut, quand bien même) and their mood constraints.",
+              "file": "b2_safety/spontaneous_debate/sophisticated_rhetorical_connectors.md"
+            },
+            {
+              "id": "pronunciation-intonation-cadence",
+              "title": "Pronunciation, Intonation, and Cadence: Eliminating English Stress Patterns and Mastering French Rhythmic Groups",
+              "description": "Transition from stress-timed English prosody to French syllable-timed rhythm, master rhythmic groups, tonic prolongation, and emphatic accentuation.",
+              "file": "b2_safety/spontaneous_debate/pronunciation_intonation_cadence.md"
             }
           ]
         }
