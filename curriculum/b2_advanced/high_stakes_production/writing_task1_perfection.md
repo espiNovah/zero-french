@@ -370,9 +370,9 @@ Evaluate your Exercise 2 draft against this unofficial self-assessment checklist
 Confirm your tactical mastery of TCF Canada Writing Task 1:
 
 1. What are the strict word count boundaries for TCF Canada Writing Task 1, and what is the optimal "sweet spot"?  
-   [Review the word count rules and target range](#the-word-count-rules-and-target-range-60120-words)
+   [Review the word count rules and target range](#the-word-count-rules-and-target-range-60-120-words)
 2. How are words counted under standard FEI/DELF space-delimited conventions?  
-   [Review word-counting rules in word count rules](#the-word-count-rules-and-target-range-60120-words)
+   [Review word-counting rules in word count rules](#the-word-count-rules-and-target-range-60-120-words)
 3. Why does omitting even one bullet point from the prompt severely degrade your score?  
    [Review the golden rule of task 1 in anatomy of writing task 1](#anatomy-of-writing-task-1-prompts-and-functional-realities)
 4. What is "register contamination", and why is it penalized by examiners?  

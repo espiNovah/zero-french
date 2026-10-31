@@ -286,7 +286,7 @@ Confirm your mastery of TCF Canada Writing Task 3:
 3. What are the three paraphrasing techniques used to avoid verbatim copying?  
    [Review the paraphrasing engines in the zero-copying imperative](#the-zero-copying-imperative-paraphrasing-and-suffixal-transposition)
 4. What is the strict word-count boundary for Task 3, and why is targeting 140–160 words the safest strategy?  
-   [Review word count guidelines](#word-count-guidelines-120180-words)
+   [Review word count guidelines](#word-count-guidelines-120-180-words)
 5. How should you allocate your 28 minutes during Writing Task 3?  
    [Review the 28-minute pacing and drafting blueprint](#the-28-minute-pacing-and-drafting-blueprint)
 
