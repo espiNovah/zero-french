@@ -877,6 +877,20 @@
               "title": "Pronunciation, Intonation, and Cadence: Eliminating English Stress Patterns and Mastering French Rhythmic Groups",
               "description": "Transition from stress-timed English prosody to French syllable-timed rhythm, master rhythmic groups, tonic prolongation, and emphatic accentuation.",
               "file": "b2_safety/spontaneous_debate/pronunciation_intonation_cadence.md"
+            },
+            {
+              "id": "project-c1-spoken-defense-challenge",
+              "title": "Project: C1 5-Minute Unscripted Spoken Defense Challenge",
+              "description": "Deliver an unscripted 2-minute monologue on civil liberties and biometric surveillance, followed by a 3-minute defense responding to hostile examiner cross-examination.",
+              "file": "b2_safety/spontaneous_debate/project_c1_spoken_defense_challenge.md",
+              "project": true
+            },
+            {
+              "id": "project-safety-margin-final-mock",
+              "title": "Project: Full-Dress Safety Margin Final Mock Examination (NCLC 8–9 Calibration)",
+              "description": "Execute a complete 4-skill mock simulation (CO 35m, CE 60m, EE 60m, EO 12m) calibrated to C1/NCLC 8–9 thresholds to ensure an unshakeable B2 immigration safety buffer.",
+              "file": "b2_safety/spontaneous_debate/project_safety_margin_final_mock.md",
+              "project": true
             }
           ]
         }
