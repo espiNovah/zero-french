@@ -1,11 +1,11 @@
 ### Introduction
 
-In the evaluation rubrics of **France Éducation international (FEI)** for both the TCF Canada and TEF Canada, the category *« Cohérence textuelle et articulation discursive »* accounts for 25% of your total score in writing and speaking.
+In both the TCF Canada and TEF Canada, the **coherence of your discourse and the way you link ideas** are among the qualities examiners assess in writing and speaking. (The TCF reports a single overall score /20 for each of these skills and publishes no per-criterion weighting.)
 
 Many advanced candidates make a critical mistake: they focus obsessively on memorizing obscure vocabulary words, yet continue to stitch their arguments together using juvenile, overused connectors:
 *« D'abord... ensuite... parce que... mais... donc... aussi... d'un autre côté... »*
 
-When examiners hear or read these basic links, your score ceiling is capped at B2. Why? Because language at the C1 level (NCLC 8 to 9) does not merely chain thoughts together in a flat, chronological sequence. It creates an **intellectual architecture**:
+When examiners hear or read only these basic links, it becomes much harder to show C1-level range—the kind of performance that secures an NCLC 8+ margin. Why? Because C1-level language does not merely chain thoughts together in a flat, chronological sequence. It creates an **intellectual architecture**:
 - It escalates arguments with rhetorical weight (*« non seulement... mais bien plus »*, *« qui plus est »*).
 - It introduces asymmetrical causal dynamics (*« d'autant plus que »*).
 - It rejects simplistic premises with authoritative elegance (*« loin s'en faut »*).
@@ -71,7 +71,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
   *This tax reform not only penalizes small businesses; what is more, it discourages local innovation by heavily taxing research.*
 
 #### 2. Qui plus est
-- **Pronunciation (IPA)**: [ki plys ɛ] *(Note: the final "s" in "plus" is fully pronounced [plys] in this fixed idiom).*
+- **Pronunciation (IPA)**: [ki ply.z‿ɛ] or [ki plys ɛ] *(Note: both are heard. The liaison form [plyzɛ] is the traditional pronunciation; [plysɛ], with a pronounced "s", is also very common).*
 - **Exact Rhetorical Function**: Introduces an unforeseen, compounding argument that decisively seals the demonstration. Synonymous with *« bien plus encore »* or *« circonstance aggravante »*.
 - **Syntactic Rule**: Placed between commas at the beginning of an independent clause or following a semicolon.
 - **Model Example**:  
@@ -108,7 +108,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 - **Syntactic Rule**: An invariable parenthetical idiom used after a declarative clause or negation.
 - **Model Example**:  
   **« Les récents accords climatiques n'ont pas permis de juguler la hausse des températures mondiales, loin s'en faut. »**  
-  [le ʁesɑ̃t‿akɔʁ klimatik nɔ̃ pa pɛʁmi də ʒyɡyle la os de tɑ̃peʁatyʁ mɔ̃djal lwɛ̃ sɑ̃ fo]  
+  [le ʁesɑ̃.z‿akɔʁ klimatik nɔ̃ pa pɛʁmi də ʒyɡyle la os de tɑ̃peʁatyʁ mɔ̃djal lwɛ̃ sɑ̃ fo]  
   *Recent climate agreements have not succeeded in curbing the rise in global temperatures—far from it.*
 
 #### 2. Bien loin de (+ infinitif)
@@ -190,7 +190,7 @@ This reference matrix summarizes the grammatical governance, punctuation require
 
 #### Exam tip: Mood Governance Traps with Advanced Connectors
 
-Advanced rhetorical connectors come with non-negotiable verbal mood rules. Mixing these up is an immediate red flag for TCF evaluators:
+Advanced rhetorical connectors come with non-negotiable verbal mood rules. Mixing these up is a clear grammatical error that examiners will notice:
 - **D'autant plus que**: Governs the **INDICATIF** (factual causal reinforcement: *d'autant plus qu'il a réussi* — NEVER subjunctive!).
 - **Quand bien même**: Governs the **CONDITIONNEL** (hypothetical extreme concession: *quand bien même ils offriraient* — NEVER indicative or subjunctive!).
 - **Pour peu que**: Governs the **SUBJONCTIF** (minimal condition: *pour peu que les autorités interviennent*).
@@ -206,7 +206,7 @@ Advanced rhetorical connectors come with non-negotiable verbal mood rules. Mixin
 Each of the sentences below contains an error in mood governance or syntactic structure caused by a connector. Identify and correct the error.
 
 1. *« Quand bien même le gouvernement finance ce projet à 100 %, les riverains refuseront la construction de cet incinérateur. »*
-2. *« Ce programme d'aide sociale ne résout pas la pauvreté, d'autant que le coût de la vie augmente tellement que les allocations soient insuffisantes. »*
+2. *« Ce programme d'aide sociale ne résout pas la pauvreté, d'autant que le coût de la vie augmente sans cesse et que les allocations soient insuffisantes. »*
 3. *« Pour peu que nous consacrons quelques minutes par jour à la lecture, notre maîtrise lexicale s'améliorera considérablement. »*
 4. *« Les investisseurs ont validé le projet, loin s'en faut de considérer les risques sismiques. »*
 
@@ -215,8 +215,8 @@ Each of the sentences below contains an error in mood governance or syntactic st
 
 1. **Error**: *Quand bien même* must govern the **conditionnel**, not the indicative (*finance*).  
    **Correction**: *« Quand bien même le gouvernement **financerait** ce projet à 100 %, les riverains refuseront [ou refuseraient] la construction de cet incinérateur. »*
-2. **Error**: *D'autant que* expresses an objective reality and governs the **indicatif**, not the subjunctive (*soient*).  
-   **Correction**: *« ...d'autant que le coût de la vie augmente tellement que les allocations **sont** insuffisantes. »*
+2. **Error**: *D'autant que* expresses an objective reality and governs the **indicatif**, not the subjunctive (*soient*). The second *que* simply repeats *d'autant que*, so it governs the indicative too.  
+   **Correction**: *« ...d'autant que le coût de la vie augmente sans cesse et que les allocations **sont** insuffisantes. »*
 3. **Error**: *Pour peu que* governs the **subjonctif** (*consacrions* with an "i"), not the indicative (*consacrons*).  
    **Correction**: *« Pour peu que nous **consacrions** quelques minutes par jour à la lecture... »*
 4. **Error**: *Loin s'en faut* is an invariable parenthetical clause, not a preposition governing *de + infinitif*. The correct prepositional form is *bien loin de*.  
@@ -248,10 +248,10 @@ Transform the simplistic B1/B2 paragraph below into an elevated C1 paragraph usi
 
 #### Québec vs France
 
-In high-register Canadian editorial and parliamentary French, certain discursive articulators enjoy privileged status:
-- In European French, writers frequently use *or*, *en revanche*, or *par ailleurs*.
-- In Canadian public administration and journalism (e.g. *Le Devoir*, Radio-Canada, and publications of the *Conseil supérieur de la langue française*), commentators frequently deploy **au demeurant** **(QC)** (moreover / for that matter), **à cet égard** **(QC)** (in this regard), **dans cette perspective** **(QC)**, and **force est de constater** **(QC)**.
-- In everyday colloquial speech, Québec speakers often use *dans le fond* (basically) or *faque* (so), but in formal written and oral debate, deploying structured articulators like **d'autant plus que** or **il n'en demeure pas moins que** **(QC)** instantly demonstrates elite academic register.
+High-register discursive articulators are largely shared across the francophone world:
+- Writers in France and in Canada alike use *or*, *en revanche*, and *par ailleurs*.
+- In Canadian public administration and journalism (e.g. *Le Devoir*, Radio-Canada, and publications of the *Conseil supérieur de la langue française*), you will also meet **au demeurant** (moreover / for that matter), **à cet égard** (in this regard), **dans cette perspective**, and **force est de constater**. These are pan-French, not Québec-specific.
+- In everyday colloquial speech, Québec speakers often use *dans le fond* (basically) or *faque* (so), but in formal written and oral debate, deploying structured articulators like **d'autant plus que** or **il n'en demeure pas moins que** clearly demonstrates a formal academic register.
 
 </div>
 
@@ -280,13 +280,13 @@ Rewrite this entire stance in formal C1 editorial prose (**140 to 160 words**) a
 <details>
 <summary>View a benchmark C1 model response</summary>
 
-**Benchmark Model (148 words)**:
-> **À rebours des critiques populistes assimilant les subventions artistiques à une dilapidation fiscale, il convient de rappeler la mission émancipatrice de la création contemporaine. Certes, les détracteurs soulignent le coût d'entretien des infrastructures muséales, d'autant plus que les services hospitaliers réclament des arbitrages budgétaires prioritaires. Qui plus est, l'hermétisme de certaines installations abstraites heurte parfois la sensibilité du grand public.**  
-> **Quand bien même ces réticences financières sembleraient audibles en période d'austérité, il n'en reste pas moins que sacrifier le mécénat institutionnel appauvrirait durablement le rayonnement culturel de nos cités. Plutôt qu'un désengagement de l'État, il importe de démocratiser la médiation culturelle : expliquer les démarches artistiques dans l'espace public désamorcera les préjugés sans asservir la création à des critères purement utilitaristes.**
+**Benchmark Model (146 words)**:
+> **À rebours des critiques populistes assimilant les subventions artistiques à une dilapidation fiscale, il convient de rappeler la mission émancipatrice de la création contemporaine. Certes, les détracteurs soulignent le coût d'entretien des infrastructures muséales, d'autant plus que les services hospitaliers réclament des arbitrages budgétaires prioritaires. Qui plus est, l'hermétisme de certaines installations abstraites heurte parfois la sensibilité du grand public. Ces objections, loin d'être illégitimes, méritent d'être examinées avec sérieux.**  
+> **Quand bien même ces réticences financières sembleraient audibles en période d'austérité, il n'en reste pas moins que sacrifier le mécénat institutionnel appauvrirait durablement le rayonnement culturel de nos cités. Plutôt qu'un désengagement de l'État, il importe de démocratiser la médiation culturelle : expliquer les démarches artistiques dans l'espace public désamorcera les préjugés sans asservir la création à des critères purement utilitaristes. C'est à ce prix que l'art public redeviendra un bien véritablement partagé par l'ensemble des citoyens.**
 
 **Audit**:
 - Connectors integrated: *À rebours de*, *d'autant plus que*, *Qui plus est*, *Quand bien même (+ conditionnel sembleraient)*, *il n'en reste pas moins que*.
-- Word count: Exactly 148 words.
+- Word count: 146 words (space-delimited count).
 
 </details>
 
@@ -298,7 +298,7 @@ Rewrite this entire stance in formal C1 editorial prose (**140 to 160 words**) a
 
 Test your command of C1 rhetorical connectors and their grammatical constraints:
 
-- [Why do basic chronological and additive connectors (comme, mais, donc, aussi) limit a candidate's score to B2?](#the-architecture-of-c1-discursive-cohesion)
+- [Why do basic chronological and additive connectors (comme, mais, donc, aussi) make it harder to demonstrate C1-level discourse?](#the-architecture-of-c1-discursive-cohesion)
 - [How does the correlative structure "non seulement... mais bien plus" create rhetorical escalation in an argument?](#escalation-and-additive-articulators)
 - [What is the exact grammatical mood governed by the connector "d'autant plus que", and why is the subjunctive incorrect?](#escalation-and-additive-articulators)
 - [What strict verbal mood must ALWAYS follow the hypothetical concessive connector "quand bien même"?](#conditional-and-hypothetical-linkages)

@@ -2,13 +2,13 @@
 
 Welcome to **Path 05: B2+ Safety Margin (C1 Foundations)**.
 
-The core mission of Path 05 is not merely to help you squeak past the B2 threshold on a lucky sitting. Its mission is to **fortify your skills comfortably into C1 territory (NCLC 8 to 9)** so that reaching the required NCLC 7 benchmark for Canadian immigration is completely immune to test-day anxiety, difficult test variants, or fatigue.
+The core mission of Path 05 is not merely to help you squeak past the B2 threshold on a lucky sitting. Its mission is to **fortify your skills comfortably above the threshold, into NCLC 8+ territory**, so that reaching the required NCLC 7 benchmark for Canadian immigration is completely immune to test-day anxiety, difficult test variants, or fatigue.
 
 In everyday spoken French and standard email correspondence, the *passé simple* is virtually extinct; native Francophones use the *passé composé* for all past actions. In language classrooms, teachers often tell students: *"Don't worry about the passé simple; you will never need it."*
 
 For the **TCF Canada Compréhension écrite**, this advice is a dangerous trap. 
 
-In the final twelve items of the reading test (Items 28 to 39)—which feature complex historical analyses, biographical profiles of Francophone innovators, and journalistic retrospectives from *Le Devoir*, *Le Monde*, or *L'Actualité*—the **passé simple is frequently the primary narrative tense**. 
+In the later, harder items of the reading test—where you may meet complex historical analyses, biographical profiles of Francophone innovators, and journalistic retrospectives in the style of *Le Devoir*, *Le Monde*, or *L'Actualité*—the **passé simple can appear as the main narrative tense**. 
 
 Candidates who cannot instantly recognize third-person forms of the *passé simple* fall into severe comprehension traps:
 - They confuse **« il vit »** (*passé simple* of *voir* — *he saw*) with **« il vit »** (present tense of *vivre* — *he lives*).
@@ -22,7 +22,7 @@ You do **not** need to produce the *passé simple* in speaking or writing. You n
 ### Lesson overview
 
 By the end of this lesson, you will be able to:
-- Understand the literary and journalistic role of the *passé simple* in high-level TCF reading texts (Items 28–39).
+- Understand the literary and journalistic role of the *passé simple* in high-level TCF reading texts.
 - Recognize the four primary vowel-ending paradigms of the *passé simple* (**-a**, **-i**, **-u**, and **-in**) in 3rd-person singular and plural.
 - Decouple dangerous visual and acoustic homophones (such as *vit* from *vivre* vs. *voir*, and *fut* from *être* vs. *futur*).
 - Identify high-frequency irregular roots (*eut, fut, fit, prit, sut, put, dut, voulut, tint, vint*).
@@ -41,7 +41,7 @@ In French grammar, the past tense system operates on a dual track:
    - Uses the **passé simple** for punctual, bounded past events, and the **imparfait** for ongoing states.
    - Used in formal historical syntheses, biographical accounts, and literary journalistic retrospectives.
 
-When an author uses the *passé simple*, they create an objective temporal distance. Consider this authentic sentence typical of TCF Tier 3 reading documents:
+When an author uses the *passé simple*, they create an objective temporal distance. Consider this sentence, typical of advanced reading documents:
 
 > **« Dès son accession au pouvoir en 1960, le nouveau premier ministre engagea une vaste modernisation de l'État québécois ; il nationalisa l'électricité et créa des ministères clés, ce qui transforma irréversiblement la société civile. »**  
 > — /dɛ sɔ̃n‿ak.sɛ.sjɔ̃ o pu.vwaʁ ɑ̃ mil nœf sɑ̃ swa.sɑ̃t lə nu.vo pʁə.mje mi.nistʁ ɑ̃.ɡa.ʒa yn vast mɔ.dɛʁ.ni.za.sjɔ̃ də l‿e.ta ke.be.kwa/  
@@ -121,7 +121,7 @@ Many irregular verbs whose past participle ends in **-u** (*vouloir $\rightarrow
 
 #### 4. The "IN" Family (Venir, Tenir, and compounds)
 
-Verbs built on *venir* (*devenir, parvenir, revenir*) and *tenir* (*obtenir, maintenir, retenir*) take the nasal diphthong **-int** / **-inrent**:
+Verbs built on *venir* (*devenir, parvenir, revenir*) and *tenir* (*obtenir, maintenir, retenir*) take the nasal vowel **-int** / **-inrent** (/ɛ̃/):
 
 - **venir**: **Il vint** — /il vɛ̃/ (*he came*) | **Ils vinrent** — /il vɛ̃ʁ/ (*they came*)
 - **devenir**: **Elle devint** — /ɛl də.vɛ̃/ (*she became*) | **Elles devinrent** — /ɛl də.vɛ̃ʁ/ (*they became*)
@@ -132,7 +132,7 @@ Verbs built on *venir* (*devenir, parvenir, revenir*) and *tenir* (*obtenir, mai
 
 ### High-frequency irregulars and homophone traps: Fut, vit, sut, put, fit
 
-Certain *passé simple* forms look or sound identical to other tenses and words. Psychometricians who design TCF reading items intentionally craft distractors that test whether candidates can disentangle these homophones.
+Certain *passé simple* forms look or sound identical to other tenses and words. Reading distractors can exploit these look-alikes, so you must be able to disentangle them instantly.
 
 #### 1. The Trap of ÊTRE and AVOIR
 
@@ -161,7 +161,7 @@ The auxiliary verbs have unique stems in the *passé simple*:
 | **Il vit** | **Voir** (*He saw*) | **Il vit** (from *vivre* — *he lives*) | **Quand il vit la fumée, il comprit le danger.** — /kɑ̃.t‿il vi la fy.me il kɔ̃.pʁi lə dɑ̃.ʒe/ (*When he saw the smoke, he understood the danger.*) |
 | **Il fit** | **Faire** (*He made/did*) | **Fait** (Present tense or noun) | **Cette découverte fit sensation dans le monde médical.** — /sɛt de.ku.vɛʁt fi sɑ̃.sa.sjɔ̃/ (*This discovery made a sensation...*) |
 | **Il put** | **Pouvoir** (*He could / was able*) | **Pue** (from *puer* — *to stink*) | **Après des années d'efforts, il put enfin publier ses travaux.** — /a.pʁɛ de.z‿a.ne d‿e.fɔʁ il py ɑ̃.fɛ̃ py.bli.je/ |
-| **Il sut** | **Savoir** (*He knew / learned*) | **Sur** (Preposition *on*) | **Dès qu'il sut la vérité, il démissionna.** — /dɛ k‿il sy la ve.ʁi.te il de.mi.sjɔ.na/ (*As soon as he learned the truth, he resigned.*) |
+| **Il sut** | **Savoir** (*He knew / learned*) | **Su / sût** (past participle *il a su*; imperfect subjunctive *qu'il sût* — same sound /sy/) | **Dès qu'il sut la vérité, il démissionna.** — /dɛ k‿il sy la ve.ʁi.te il de.mi.sjɔ.na/ (*As soon as he learned the truth, he resigned.*) |
 | **Il naquit** | **Naître** (*He was born*) | Confusion with *noyer* or *naviguer* | **L'écrivaine naquit à Montréal au début du siècle.** — /l‿e.kʁi.vɛn na.ki a mɔ̃.ʁe.al/ (*The writer was born in Montreal...*) |
 | **Il mourut** | **Mourir** (*He died*) | Confusion with *mûr* or *mordre* | **Il mourut sans laisser d'héritier.** — /il mu.ʁy sɑ̃ lɛ.se d‿e.ʁi.tje/ (*He died without leaving an heir.*) |
 
@@ -169,9 +169,9 @@ The auxiliary verbs have unique stems in the *passé simple*:
 
 #### Québec vs France
 
-In both France and Québec, the *passé simple* is strictly a written literary tense, virtually never used in casual spoken conversation in either society. However, its journalistic presence remains strong in Canadian retrospective analysis:
-- **Canadian Historical Prose**: Quebec and Canadian newspapers (such as *Le Devoir*, *La Presse*, or Radio-Canada) routinely deploy the *passé simple* when recounting foundational historical events, such as **la Révolution tranquille** **(QC)**, **le rapatriement de la Constitution** **(QC)**, or early colonial settlement: *« Samuel de Champlain fonda Québec en 1608 »*.
-- **Spoken Storytelling Contrasts**: In spontaneous oral storytelling, where European French speakers might use the *passé composé*, traditional Québec storytellers sometimes preserve historical present or rhythmic oral markers: *« L'histoire commence qu'y arrive... »*. On the TCF Canada, expect to encounter the *passé simple* in Tier 3 reading editorials dealing with Canadian historical milestones.
+In both France and Québec, the *passé simple* is strictly a written literary tense, virtually never used in casual spoken conversation in either society. However, it still appears in written retrospective analysis:
+- **Canadian Historical Prose**: Quebec and Canadian newspapers (such as *Le Devoir*, *La Presse*, or Radio-Canada) may use the *passé simple* when recounting foundational historical events, such as **la Révolution tranquille**, **le rapatriement de la Constitution**, or early colonial settlement: *« Samuel de Champlain fonda Québec en 1608 »*.
+- **On the TCF Canada**: you may encounter the *passé simple* in demanding reading texts dealing with historical milestones, so passive recognition is worth the investment.
 
 </div>
 

@@ -2,7 +2,7 @@
 
 In the **Expression écrite** and **Expression orale** sections of the TCF Canada, candidates often remain trapped within a safe, functional B1 linguistic comfort zone: they state what *is* (*présent*), what *was* (*passé composé / imparfait*), and what *will be* (*futur simple*).
 
-While this basic temporal framework is sufficient to communicate facts, it lacks the intellectual depth and modal nuance required to secure **an unshakeable C1 rating (NCLC 8 to 9)**. To achieve the top score tiers, you must be capable of exploring **the world of the unfulfilled**: what *could have happened* but did not, what *should have been done* to avoid a crisis, and how past outcomes *might have differed* under alternative conditions.
+While this basic temporal framework is sufficient to communicate facts, it lacks the intellectual depth and modal nuance required to build **a safety margin above the NCLC 7 threshold (aiming for NCLC 8+)**. To reach the upper score bands, you must be capable of exploring **the world of the unfulfilled**: what *could have happened* but did not, what *should have been done* to avoid a crisis, and how past outcomes *might have differed* under alternative conditions.
 
 This communicative dimension belongs to the **conditionnel passé** (the past conditional). 
 
@@ -25,7 +25,7 @@ By the end of this lesson, you will be able to:
 - Master the **Third Conditional Formula (Hypothèse non réalisée dans le passé)**: *Si + plus-que-parfait $\rightarrow$ conditionnel passé*.
 - Express **intense personal and civic regrets** (*J'aurais aimé*, *Nous aurions préféré*) and **diplomatic retrospective reproaches** (*Vous auriez pu*, *Il aurait fallu*).
 - Decode the **journalistic conditional of attribution** (*conditionnel de précaution*) used by Radio-Canada and French media to report unverified allegations.
-- Integrate counterfactual hypotheses into TCF Writing Task 2 reflections and Speaking Task 3 monologues to secure C1 syntactic points.
+- Integrate counterfactual hypotheses into TCF Writing Task 2 reflections and Speaking Task 3 monologues to demonstrate C1-level syntactic range.
 
 ---
 
@@ -45,7 +45,7 @@ $$\text{Conditionnel Passé} = \text{Auxiliary (AVOIR or ÊTRE in Conditionnel P
 | - Il/Elle aurait  /i.l‿o.ʁɛ/     | - Il/Elle serait  /il sə.ʁɛ/   |
 | - Nous aurions    /nu.z‿o.ʁjɔ̃/   | - Nous serions    /nu sə.ʁjɔ̃/  |
 | - Vous auriez     /vu.z‿o.ʁje/   | - Vous seriez     /vu sə.ʁje/  |
-| - Ils/Elles auraient /i.l‿o.ʁɛ/  | - Ils/Elles seraient /il sə.ʁɛ/|
+| - Ils/Elles auraient /il.z‿o.ʁɛ/| - Ils/Elles seraient /il sə.ʁɛ/|
 +-------------------------------------------------------------------+
 ```
 
@@ -56,11 +56,11 @@ $$\text{Conditionnel Passé} = \text{Auxiliary (AVOIR or ÊTRE in Conditionnel P
    - The past participle does **not** agree with the subject:
      **« Elle aurait compris »** — /ɛ.l‿o.ʁɛ kɔ̃.pʁi/ (*She would have understood*).
    - The participle agrees in gender and number **only if a direct object precedes the verb**:
-     **« Les mesures qu'ils auraient adoptées »** — /le mə.zyʁ k‿i.l‿o.ʁɛ.t‿a.dɔp.te/ (*The measures that they would have adopted* — feminine plural *adoptées*).
+     **« Les mesures qu'ils auraient adoptées »** — /le mə.zyʁ kil.z‿o.ʁɛ.t‿a.dɔp.te/ (*The measures that they would have adopted* — feminine plural *adoptées*).
 
 2. **Verbs taking ÊTRE**:
    - Movement verbs (the 14 verbs of the *Maison d'Être*: *aller, venir, arriver, partir, monter, descendre, naître, mourir...*) and all **pronominal/reflexive verbs**.
-   - The past participle **always agrees** with the subject:
+   - With movement verbs, the past participle **always agrees** with the subject. With pronominal verbs, it agrees with a **preceding direct object** — usually the reflexive *se* itself, hence agreement with the subject. When *se* is an **indirect** object (*se téléphoner, se parler, se plaire*), there is **no agreement**: *elles se seraient téléphoné*.
      **« Elle serait venue »** — /ɛl sə.ʁɛ və.ny/ (*She would have come* — feminine *e*).
      **« Ils se seraient plaints »** — /il sə sə.ʁɛ plɛ̃/ (*They would have complained* — masculine plural *s*).
 
@@ -103,7 +103,7 @@ In French rhetorical argumentation, hypotheses are codified across three distinc
 #### The Golden Rule: Never Put Conditional Immediately After "Si"
 
 The most heavily penalized error in French conditional syntax is placing the conditional tense in the *si*-clause:
-- **Catastrophic Error**: *« Si j'aurais su, je serais venu... »* (Instant deduction to B1).
+- **Catastrophic Error**: *« Si j'aurais su, je serais venu... »* (a classic error that examiners notice immediately).
 - **Correct B2/C1 Standard**: **« Si j'avais su, je serais venu... »** — /si ʒ‿a.vɛ sy ʒə sə.ʁɛ və.ny/ (*If I had known, I would have come...*)
 
 **The Mnemonic**: Remember the classic French grammatical proverb: **« Les "si" n'aiment pas les "-rais" ! »** (*The word "si" hates the "-rais" ending!*). The clause introduced by *si* must strictly take the **plus-que-parfait** (*avais su, étions partis, avait compris*).
@@ -174,8 +174,8 @@ In TCF Listening (Radio-Canada broadcasts) and Reading editorials, journalists u
 
 Be alert to how hypothetical clauses are used in informal spoken French versus formal TCF writing:
 - **The Colloquial Double Conditional Trap**: In informal spoken French—both in popular European French and everyday Québec French—you will frequently hear speakers use the conditional after *si*: *« Si j'aurais su... »* or *« Si j'aurais eu l'temps... »*. In formal French and on the TCF Canada exam, this is considered an egregious error. The traditional mnemonic rule is absolute: **les « si » n'aiment pas les « -rait »**. You must strictly write and say: **« Si j'avais su, j'aurais agi »**.
-- **Journalistic Usage in Canadian Media**: On Radio-Canada, the *conditionnel passé* is known as the **conditionnel journalistique** or *de distanciation*. When reporting political announcements from the National Assembly of Québec or federal parliament in Ottawa, broadcasters routinely state: **« Le ministre aurait déposé un projet de loi »** **(QC)** to signal unconfirmed claims.
-- **Expressing Regret**: While speakers in France often say *je regrette de ne pas avoir pu*, in Québec you will also hear **avoir des remords** or **s'en vouloir de** **(QC)** (*je m'en veux de ne pas être venu*).
+- **Journalistic Usage in Canadian Media**: On Radio-Canada, the *conditionnel passé* is known as the **conditionnel journalistique** or *de distanciation*. When reporting political announcements from the National Assembly of Québec or federal parliament in Ottawa, broadcasters routinely state: **« Le ministre aurait déposé un projet de loi »** to signal unconfirmed claims. This usage is standard across the francophone press (France, Belgium, Québec), not a Québec specificity.
+- **Expressing Regret**: Alongside *je regrette de ne pas avoir pu*, speakers on both sides of the Atlantic also use **avoir des remords** or **s'en vouloir de** (*je m'en veux de ne pas être venu*) — these are pan-French, not Québec-specific.
 
 </div>
 
@@ -272,15 +272,15 @@ Open your text editor. In exactly **90 to 110 words**, write a retrospective cri
 <details>
 <summary>View a benchmark B2/C1 model response</summary>
 
-**Benchmark Model (97 words)**:
+**Benchmark Model (94 words)**:
 > **La paralysie récente de notre réseau de transport collectif lors de la dernière tempête hivernale démontre les limites de la gestion municipale. Si la société de transport avait procédé à la maintenance préventive de ses rames avant l'arrivée du grand froid, des milliers d'usagers n'auraient pas été abandonnés sur les quais pendant des heures.**  
-> **Les gestionnaires auraient dû mobiliser des équipes d'urgence supplémentaires et mettre en place des autobus de substitution dès les premières alertes météorologiques. Il aurait fallu faire preuve d'anticipation plutôt que de subir passivement les événements.**
+> **Les gestionnaires auraient dû mobiliser des équipes d'urgence supplémentaires et mettre en place des autobus de substitution dès les premières alertes météorologiques. Il aurait fallu faire preuve d'anticipation plutôt que de subir passivement les événements. Les usagers, eux, méritaient mieux.**
 
 **Grammatical Audit**:
 - Hypothèse : *Si la société avait procédé... des milliers d'usagers n'auraient pas été abandonnés* (Third conditional).
 - Reproche : *Les gestionnaires auraient dû mobiliser...*
 - Regret civique : *Il aurait fallu faire preuve d'anticipation...*
-- Word count : Exactly 97 words.
+- Word count : 94 words (space-delimited count).
 
 </details>
 
@@ -305,7 +305,7 @@ Test your mastery of conditionnel passé mechanics:
 The following free platforms offer advanced exercises on French conditional mood and retrospective discourse:
 
 * [Radio-Canada Info — Analyses économiques et politiques](https://ici.radio-canada.ca/info) — Excellent journalistic source for observing the conditionnel de précaution and retrospective policy critiques.
-* [France Éducation international — Épreuves et corrigés d'expression écrite](https://www.france-education-international.fr/) — Official portal illustrating how high-level hypothetical syntax elevates candidate scoring.
+* [France Éducation international — Épreuves et corrigés d'expression écrite](https://www.france-education-international.fr/) — Official TCF Canada administrator; consult its sample tasks and candidate guide for the current exam format.
 * [Vitrine linguistique (OQLF) — Emploi du conditionnel passé](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Standardized Quebec resource detailing grammatical concordances, auxiliary selection, and stylistic nuances.
 * [Lawless French — Conditional Past Tense](https://www.lawlessfrench.com/) — Clear pedagogical reference explaining third conditionals, regrets, and compound auxiliary agreements.
 

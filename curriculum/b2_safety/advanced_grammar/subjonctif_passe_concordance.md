@@ -1,6 +1,6 @@
 ### Introduction
 
-In the standard progression of French language acquisition, mastering the *subjonctif présent* (*il faut que vous fassiez*, *bien qu'il sache*, *pour que nous puissions*) is the traditional benchmark of a solid B2 speaker. However, when examining candidates for upper-tier Canadian Language Benchmarks (NCLC 8 and 9), France Éducation international (FEI) evaluators look for a much rarer syntactic milestone: **the command of the subjonctif passé and temporal concordance**.
+In the standard progression of French language acquisition, mastering the *subjonctif présent* (*il faut que vous fassiez*, *bien qu'il sache*, *pour que nous puissions*) is the traditional benchmark of a solid B2 speaker. However, if you are aiming for a margin above the NCLC 7 threshold (NCLC 8+), you need to show a wider grammatical range, and one of its rarer markers is **the command of the subjonctif passé and temporal concordance**.
 
 In advanced written discourse—especially in the opening concessions and concluding verdicts of **TCF Writing Task 3**—you frequently need to evaluate an action that has **already taken place in the past**, while still framing it within a subjective matrix of doubt, regret, concession, or necessity:
 - Writing: *« Bien que le gouvernement investisse... »* (B2 present subjunctive) expresses an ongoing, general attempt.
@@ -39,7 +39,7 @@ $$\text{Subjonctif Passé} = \text{Auxiliary (AVOIR or ÊTRE in Subjonctif Prés
 | - qu'il/elle ait     /k‿i.l‿ɛ/   | - qu'il/elle soit   /k‿il swa/ |
 | - que nous ayons     /kə nu.z‿ɛ.jɔ̃/| - que nous soyons /kə nu swa.jɔ̃/|
 | - que vous ayez      /kə vu.z‿ɛ.je/| - que vous soyez  /kə vu swa.je/|
-| - qu'ils/elles aient /k‿i.l‿ɛ/   | - qu'ils/elles soient /k‿il swa/ |
+| - qu'ils/elles aient /kil.z‿ɛ/   | - qu'ils/elles soient /k‿il swa/ |
 +-------------------------------------------------------------------+
 ```
 
@@ -51,7 +51,7 @@ The vast majority of French verbs form their compound tenses with *avoir*.
   — /i.l‿ɛ syʁ.pʁə.nɑ̃ k‿ɛl n‿ɛ pa kɔ̃.pʁi la kɔ̃.siɲ/  
   *(It is surprising that she did not understand the instructions.)*
 - **prendre**: **« Je doute qu'ils aient pris la bonne décision. »**  
-  — /ʒə dut k‿i.l‿ɛ pʁi la bɔn de.si.zjɔ̃/  
+  — /ʒə dut kil.z‿ɛ pʁi la bɔn de.si.zjɔ̃/  
   *(I doubt that they took the right decision.)*
 - **finir**: **« Bien que nous ayons fini les travaux à temps... »**  
   — /bjɛ̃ kə nu.z‿ɛ.jɔ̃ fi.ni le tʁa.vo a tɑ̃/  
@@ -70,7 +70,7 @@ Just like in the *passé composé*, when the *subjonctif passé* is formed with 
 
 #### 2. Verbs Taking ÊTRE
 
-Movement verbs (the 14 verbs of movement/change of state) and all **pronominal/reflexive verbs** use *être*. The past participle **always agrees** with the subject:
+Movement verbs (the 14 verbs of movement/change of state) and all **pronominal/reflexive verbs** use *être*. With movement verbs, the past participle **always agrees** with the subject. With pronominal verbs, it agrees with a **preceding direct object** (usually *se* itself): no agreement when *se* is an indirect object (*qu'elles se soient téléphoné*) or when the direct object follows the verb (*qu'ils se soient rendu compte*, where *compte* is the direct object):
 
 - **arriver**: **« Il est peu probable qu'elle soit arrivée avant midi. »**  
   — /i.l‿ɛ pø pʁɔ.babl k‿ɛl swa.t‿a.ʁi.ve a.vɑ̃ mi.di/  
@@ -106,16 +106,16 @@ In French syntax, when a main clause requires the subjunctive, the choice betwee
 +-------------------------------------------------------------------+
 ```
 
-#### Temporal Conjunctions Demanding Anterior Completion
+#### Temporal Conjunctions and Anterior Completion
 
-Certain conjunctions inherently require that an action be completely terminated before another can begin:
+*Avant que* and *jusqu'à ce que* always take the subjunctive, but they do **not** demand the *subjonctif passé*. The *subjonctif présent* is the everyday choice (*avant qu'il parte*, *jusqu'à ce qu'il revienne*); switch to the *subjonctif passé* only when you want to stress that an action will be **fully completed** before the deadline:
 
-1. **Avant que (+ subjonctif passé)**:
+1. **Avant que (+ subjonctif passé, optional)**:
    - When emphasizing that an action must be completely concluded prior to a deadline:
    - **« Il faut régler ce litige avant que la situation n'ait dégénéré. »**  
      — /il fo ʁe.ɡle sə li.tiʒ a.vɑ̃ kə la si.tɥa.sjɔ̃ n‿ɛ de.ʒe.ne.ʁe/  
      *(This dispute must be settled before the situation has degenerated.)*
-2. **Jusqu'à ce que (+ subjonctif passé)**:
+2. **Jusqu'à ce que (+ subjonctif passé, optional)**:
    - When marking an absolute boundary of completion:
    - **« Nous maintiendrons ces restrictions jusqu'à ce que les autorités sanitaires aient validé le protocole. »**  
      — /nu mɛ̃.tjɛ̃.dʁɔ̃ se ʁɛs.tʁik.sjɔ̃ ʒys.k‿a sə kə le.z‿o.tɔ.ʁi.te sa.ni.tɛʁ ɛ va.li.de lə pʁɔ.tɔ.kɔl/  
@@ -161,7 +161,7 @@ Conclude your written response by evaluating past policies with an impersonal co
 
 #### 3. Epistemic Nuance in Speaking Task 3
 
-In the live oral monologue, injecting a *subjonctif passé* demonstrates spontaneous grammatical agility that immediately prompts the examiner to award top marks on *Correction morphosyntaxique*:
+In the live oral monologue, injecting a *subjonctif passé* demonstrates spontaneous grammatical range and accuracy, which examiners do take into account:
 
 > **« Certes, pour ma part, je ne prétends pas que la piétonnisation des centres urbains ait résolu l'ensemble des maux sociétaux ; néanmoins, elle a permis de revitaliser le commerce de proximité et d'apaiser l'espace public. »**  
 > — /sɛʁt puʁ ma paʁ ʒə nə pʁe.tɑ̃ pa kə la pje.tɔ.ni.za.sjɔ̃ de sɑ̃tʁ yʁ.bɛ̃ ɛ ʁe.zɔ.ly l‿ɑ̃.sɑ̃bl de mo sɔ.sje.to/
@@ -172,7 +172,7 @@ In the live oral monologue, injecting a *subjonctif passé* demonstrates spontan
 
 In everyday informal spoken French—both in France and across Québec—speakers frequently replace the subjunctive with the indicative after conjunctions (*« bien qu'il est venu »* instead of *« bien qu'il soit venu »*).
 - In Québec everyday speech, you will often hear infinitive constructions with *avant de* (*avant d'avoir fini*) rather than the subjunctive.
-- On the TCF Canada exam, substituting the indicative for the subjunctive after *bien que*, *quoique*, or *avant que* is heavily penalized. In Canadian administrative, legal, and academic texts (e.g. from the government of Québec or federal departments), the *subjonctif passé* is strictly maintained: **« en attendant que le dossier ait été traité »** **(QC)**, **« bien que les fonds aient été débloqués »** **(QC)**. Using the correct *subjonctif passé* signals immediate C1 proficiency.
+- On the TCF Canada exam, substituting the indicative for the subjunctive after *bien que*, *quoique*, or *avant que* counts as a grammatical error. In Canadian administrative, legal, and academic texts (e.g. from the government of Québec or federal departments), the *subjonctif passé* is strictly maintained: **« en attendant que le dossier ait été traité »**, **« bien que les fonds aient été débloqués »** (standard French, not Québec-specific). Using the correct *subjonctif passé* signals advanced grammatical control.
 
 </div>
 
@@ -208,7 +208,7 @@ Convert the following 10 sentences into the *subjonctif passé* by integrating t
 6. **Il est heureux que tu te sois rendu compte de ton erreur.**
 7. **Quoique la population ait rejeté ce projet d'aménagement...**
 8. **...bien que les scientifiques aient tiré la sonnette d'alarme.**
-9. **Personne ne s'attendait à ce que le projet de loi ait été voté à l'unanimité.**
+9. **Personne ne s'attendait à ce que le projet de loi soit voté à l'unanimité.** *(exception: the vote comes after the expectation, so concordance calls for the subjonctif présent, not the passé)*
 10. **C'est un miracle qu'elles soient arrivées à l'heure malgré la tempête.** *(feminine plural e + s)*
 
 </details>
@@ -217,7 +217,7 @@ Convert the following 10 sentences into the *subjonctif passé* by integrating t
 
 #### Step 2: Essential Retrospective Subjunctive Formulas
 
-Commit these 12 high-scoring C1 structures to memory:
+Commit these 12 high-register C1 structures to memory:
 
 | Subjunctive Trigger | IPA Transcription | English Translation | Syntactic Role |
 | :--- | :--- | :--- | :--- |
@@ -225,14 +225,14 @@ Commit these 12 high-scoring C1 structures to memory:
 | **Quoiqu'on ait pu observer que...** | /kwa.k‿ɔ̃n‿ɛ py ɔb.sɛʁ.ve kə/ | *Although one might have observed that..* | Analytical nuance |
 | **Il est déplorable que (+ subj. passé)** | /i.l‿ɛ de.plɔ.ʁabl kə/ | *It is deplorable that...* | Value judgment on past policy |
 | **Sans que personne ne s'en soit aperçu**| /sɑ̃ kə pɛʁ.sɔn nə s‿ɑ̃ swa.t‿a.pɛʁ.sy/| *Without anyone having noticed* | High-register adverbial clause |
-| **Avant qu'il n'ait été trop tard** | /a.vɑ̃ k‿i.l‿n‿ɛ.t‿e.te tʁo taʁ/ | *Before it was too late* | Temporal anterior boundary |
+| **Avant qu'il ne soit trop tard** | /a.vɑ̃ k‿il nə swa tʁo taʁ/ | *Before it is (was) too late* | Temporal boundary (subj. présent + *ne* explétif) |
 | **Je doute que cette mesure ait suffi** | /ʒə dut kə sɛt mə.zyʁ ɛ sy.fi/ | *I doubt that this measure was enough* | Epistemic skepticism |
 | **Il est heureux que les mœurs aient changé**| /i.l‿ɛ.t‿œ.ʁø kə le mœʁ.z‿ɛ ʃɑ̃.ʒe/ | *It is fortunate that morals changed* | Sociological conclusion |
 | **Pour peu que les règles aient été suivies**| /puʁ pø kə le ʁɛɡl.z‿ɛ.t‿e.te sɥi.vi/ | *Provided that rules were followed* | Restrictive condition |
 | **Jusqu'à ce que la preuve ait été apportée**| /ʒys.k‿a sə kə la pʁœv ɛ.t‿e.te a.pɔʁ.te/| *Until proof had been provided* | Terminal limit |
 | **Non pas que les efforts aient été vains** | /nɔ̃ pa kə le.z‿e.fɔʁ.z‿ɛ.t‿e.te vɛ̃/ | *Not that efforts were in vain* | Dialectical qualification |
-| **Il est remarquable qu'ils aient su...** | /i.l‿ɛ ʁə.maʁ.kabl k‿i.l‿ɛ sy/ | *It is remarkable that they knew how to*| Positive appreciation |
-| **À supposer que le consensus ait existé** | /a sy.po.ze kə lə kɔ̃.sɑ̃.sys ɛ.t‿ɛɡ.zis.te/| *Assuming that consensus existed* | Counterfactual premise |
+| **Il est remarquable qu'ils aient su...** | /i.l‿ɛ ʁə.maʁ.kabl kil.z‿ɛ sy/ | *It is remarkable that they knew how to*| Positive appreciation |
+| **À supposer que le consensus ait existé** | /a sy.po.ze kə lə kɔ̃.sɑ̃.sys ɛ.t‿ɛɡ.zis.te/| *Assuming that consensus existed* | Hypothetical premise |
 
 ---
 
@@ -275,9 +275,9 @@ Write a 110- to 130-word concluding paragraph for a TCF Writing Task 3 essay on 
 <details>
 <summary>View a benchmark model response</summary>
 
-**Benchmark Model (121 words)**:
-> **En dernière analyse, bien que la généralisation du télétravail ait indéniablement révolutionné l'organisation professionnelle et offert une flexibilité précieuse aux salariés, le recul historique invite à une prudence mesurée. Il est regrettable que de nombreuses entreprises n'aient pas su anticiper les dérives psychosociales liées à l'isolement et à l'effacement de la frontière entre vie privée et vie professionnelle.**  
-> **Afin de préserver durablement la santé mentale des équipes sans renoncer aux gains d'efficacité numérique, il apparaît indispensable d'instaurer un modèle hybride rigoureusement encadré par des chartes collectives du droit à la déconnexion. C'est à cette condition expresse que cette transition s'avérera véritablement émancipatrice pour l'ensemble du corps social.**
+**Benchmark Model (114 words)**:
+> **En dernière analyse, bien que la généralisation du télétravail ait indéniablement révolutionné l'organisation professionnelle et offert une flexibilité précieuse aux salariés comme aux employeurs, le recul historique invite à une prudence mesurée. Il est regrettable que de nombreuses entreprises n'aient pas su anticiper les dérives psychosociales liées à l'isolement et à l'effacement de la frontière entre vie privée et vie professionnelle.**  
+> **Afin de préserver durablement la santé mentale des équipes sans renoncer aux gains d'efficacité numérique, il apparaît indispensable d'instaurer un modèle hybride rigoureusement encadré par des chartes collectives du droit à la déconnexion. C'est à cette condition expresse, et à elle seule, que cette transition s'avérera véritablement émancipatrice pour l'ensemble du corps social.**
 
 </details>
 
@@ -292,7 +292,7 @@ Test your mastery of subjonctif passé and temporal concordance:
 - [How is the subjonctif passé formed, and what are the subjunctive forms of the auxiliaries avoir and être?](#morphology-and-mechanics-of-the-subjonctif-passe)
 - [When must a past participle agree with a preceding direct object in the subjonctif passé?](#morphology-and-mechanics-of-the-subjonctif-passe)
 - [What is the difference in temporal meaning between using the subjonctif présent versus the subjonctif passé after "bien que"?](#temporal-concordance-expressing-anteriority-and-prior-completion)
-- [Which temporal conjunctions inherently demand the subjonctif passé to denote completed anteriority?](#temporal-concordance-expressing-anteriority-and-prior-completion)
+- [When do avant que and jusqu'à ce que take the subjonctif passé rather than the subjonctif présent?](#temporal-concordance-expressing-anteriority-and-prior-completion)
 - [What is the "ne explétif" and in which formal subjunctive constructions does it appear?](#temporal-concordance-expressing-anteriority-and-prior-completion)
 
 ---
@@ -302,7 +302,7 @@ Test your mastery of subjonctif passé and temporal concordance:
 Consult these free reference platforms to deepen your command of complex subjunctive concordance:
 
 * [Le Devoir — Chroniques et tribunes libres](https://www.ledevoir.com/opinion/chroniques) — Leading Canadian daily showcasing exemplary models of subjunctive concordance in political editorials.
-* [France Éducation international — Recommandations pour l'évaluation C1](https://www.france-education-international.fr/) — Official guidelines detailing the syntactic criteria that separate B2 from C1 candidates.
+* [France Éducation international — TCF Canada et DELF-DALF](https://www.france-education-international.fr/) — Official exam administrator; consult its published level descriptors and sample tasks.
 * [Vitrine linguistique (OQLF) — Concordance des temps au subjonctif](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Comprehensive reference explaining anteriority, modality, and the expletive *ne*.
 * [Lawless French — The Past Subjunctive](https://www.lawlessfrench.com/) — Clear pedagogical reference table outlining regular and irregular past subjunctive paradigms.
 

@@ -1,17 +1,17 @@
 ### Introduction
 
-In the **Expression orale** section of the TCF Canada (Task 3) and TEF Canada (Section B), candidates face the ultimate test of spoken fluency: an unscripted, adversarial debate with an official examiner.
+In the **Expression orale** section of the TCF Canada, Task 3 (*expression d'un point de vue*) asks you to present and defend a point of view for **4 minutes 30 seconds**, with **no preparation time**. The examiner **may intervene**—to ask you to clarify a point, give an example, or respond to an objection—but the task is a point-of-view task, **not an adversarial debate**.
 
-At the B1 and standard B2 levels (NCLC 5 to 7), the interaction is largely polite and predictable. The examiner asks clarifying questions, nods along, and allows the candidate to deliver pre-packaged opinions on familiar topics like telecommuting or public transportation.
+In the real exam, these interventions are typically courteous and predictable: a clarifying question, a request for an example, a mild objection.
 
-However, in the upper strata of evaluation—where **C1 (NCLC 8 to 9)** is awarded—the dynamics shift radically. Examiners are trained to adopt a **hostile, skeptical, or dismissive persona**:
-- They deliberately interrupt your flow.
+This capstone deliberately goes further. To build an **NCLC 8+ safety margin** above the NCLC 7 threshold, you will train against a **simulated hostile, skeptical examiner persona**—an explicitly labelled **practice drill that goes beyond the real exam**—so that genuine interventions on test day feel easy:
+- The simulated examiner deliberately interrupts your flow.
 - They challenge your core premises with sharp counter-arguments (*« Mais enfin, votre idée est irréaliste ! Qui va financer cela ? »*).
 - They confront you with provocative edge cases and moral paradoxes.
 
-The purpose of this pressure is not to intimidate you, but to test your **resilience under cognitive friction**. A candidate who panics, gets defensive, or lapses into colloquial informal French is immediately downgraded to B1 or low B2. Conversely, a candidate who absorbs the friction with serene diplomatic composure, deploys high-register concession formulas (*« Je concède volontiers que... néanmoins... »*), and sustains a rhythmic, syllable-timed cadence secures an **unshakeable C1 rating**.
+The purpose of this pressure is not to intimidate you, but to build your **resilience under cognitive friction**. A candidate who panics, gets defensive, or lapses into colloquial informal French loses fluency and register, which drags the overall score down. Conversely, a candidate who absorbs the friction with serene diplomatic composure, deploys high-register concession formulas (*« Je concède volontiers que... néanmoins... »*), and sustains a rhythmic, syllable-timed cadence demonstrates the composure and range expected at C1.
 
-In this capstone project, you will execute a complete **5-minute unscripted spoken defense challenge** responding directly to three aggressive counter-arguments from a simulated examiner on a high-stakes societal issue: **the deployment of real-time facial recognition and biometric surveillance in public urban spaces**.
+In this capstone project, you will execute a complete **5-minute unscripted spoken defense challenge** responding directly to three aggressive counter-arguments from a simulated examiner (the real Task 3 lasts 4 minutes 30 and is far less confrontational) on a high-stakes societal issue: **the deployment of real-time facial recognition and biometric surveillance in public urban spaces**.
 
 ---
 
@@ -19,10 +19,10 @@ In this capstone project, you will execute a complete **5-minute unscripted spok
 
 By completing this capstone project, you will:
 - Deliver an unscripted 2-minute opening monologue on a complex civil liberties prompt with **zero preparation time**.
-- Rebut three hostile examiner interruptions using the **Concession-Pivot-Counterattack Triad** without showing irritation or hesitating longer than 2 seconds.
+- Rebut three simulated hostile objections using the **Concession-Pivot-Counterattack Triad** without showing irritation or hesitating longer than 2 seconds.
 - Maintain **syllable-timed French prosody (isochronie syllabique)**, flawless rhythmic group segmentation, and authoritative intonation contours throughout the debate.
 - Integrate advanced logical articulators (*d'autant plus que, non seulement... mais bien plus, qui plus est, loin s'en faut, quand bien même*) under live conversational pressure.
-- Audit your recorded audio against the official **France Éducation international (FEI)** C1 oral assessment grid.
+- Audit your recorded audio against an **unofficial self-assessment rubric** (not an FEI document).
 
 ```
 +-----------------------------------------------------------------------------------+
@@ -60,19 +60,19 @@ To capture authentic evidence of your spoken fluency, prepare your environment s
 2. **Timer Setup**: You will need a timer visible on your screen set to **5 minutes total**:
    - *Phase 1 (Monologue d'ouverture)*: Exactly 2 minutes (uninterrupted).
    - *Phase 2 (Contradiction et joute oratoire)*: Exactly 3 minutes (responding to 3 simulated counter-arguments).
-3. **Zero-Note Policy**: In Speaking Task 3 of the TCF Canada, you are given **zero scrap paper and zero preparation time**. You must speak immediately after reading the prompt. Do not write down bullet points or outlines.
+3. **Zero-Note Policy**: Speaking Task 3 of the TCF Canada gives you **no preparation time**: you must speak immediately after reading the prompt. Do not write down bullet points or outlines.
 4. **Physical Presence**: Sit upright, maintain steady breathing at rhythmic group boundaries, and avoid looking down.
 
 ---
 
 ### The unscripted debate prompt: Civic surveillance and individual liberties
 
-#### The Official Prompt Card
+#### The Practice Prompt Card
 Read the prompt below once. The moment you finish reading the final word, start your audio recording:
 
 ```
 +-----------------------------------------------------------------------------------+
-|                          SUJET D'EXPRESSION ORALE — TÂCHE 3                       |
+|            SUJET D'EXPRESSION ORALE — FORMAT D'ENTRAÎNEMENT (TÂCHE 3+)            |
 +-----------------------------------------------------------------------------------+
 |                                                                                   |
 |  Sujet :                                                                          |
@@ -93,6 +93,8 @@ Read the prompt below once. The moment you finish reading the final word, start 
 ---
 
 ### The examiner's hostile cross-examination scripts
+
+*Practice drill: these objections are deliberately harsher than real TCF interventions.*
 
 During Phase 2 (minutes 2:00 to 5:00), pause your timer momentarily to read each examiner objection aloud, restart the timer, and respond **immediately without silence**:
 
@@ -124,13 +126,13 @@ Launch your audio recording and deliver your spoken performance in one continuou
 
 Examine the full verbatim transcript of a calibrated C1 performance delivered under these exact test conditions:
 
-##### Phase 1: Opening Monologue (2 minutes — 258 words)
+##### Phase 1: Opening Monologue (2 minutes — 199 words)
 > *« La volonté d'implanter la vidéosurveillance algorithmique dans nos espaces publics soulève une interrogation politique fondamentale : celle du prix démocratique que nous sommes prêts à payer pour un sentiment de sécurité immédiat.  
 > Certes, les partisans de cette technologie mettent en avant des impératifs légitimes : la prévention d'attentats terroristes et l'optimisation des flux de transport dans des métropoles de plus en plus denses.  
 > Néanmoins, franchir le pas d'une surveillance biométrique continue relève d'une fuite en avant hautement périlleuse. D'une part, les études indépendantes démontrent que ces algorithmes présentent des taux de faux positifs alarmants, pénalisant de manière disproportionnée les minorités visibles. D'autre part, et c'est là l'enjeu crucial, transformer l'espace public en un panoptique numérique altère irrémédiablement la nature même de la citoyenneté. Lorsque chaque passant se sait épié, analysé et classifié en continu, c'est la liberté de manifester, de se réunir et tout simplement d'exister dans l'anonymat urbain qui se trouve anéantie.  
 > Dès lors, plutôt que de succomber à une illusion techno-sécuritaire qui s'apparente à de la poudre aux yeux, il convient de faire la part des choses : réserver l'analyse vidéo à des réquisitions judiciaires ciblées et a posteriori, tout en renforçant la présence humaine des services de médiation sociale. »*
 
-##### Phase 2: Hostile Interrogation Rebuttals (3 minutes — 375 words)
+##### Phase 2: Hostile Interrogation Rebuttals (practice drill — 349 words)
 
 **Rebuttal to Objection 1 (Response time: 55 seconds)**:
 > *« Votre remarque met le doigt sur une difficulté bien réelle : le surmenage incontestable de nos forces de l'ordre. Je conçois tout à fait que l'automatisation paraisse séduisante pour soulager les effectifs.  
@@ -144,7 +146,7 @@ Examine the full verbatim transcript of a calibrated C1 performance delivered un
 
 **Rebuttal to Objection 3 (Response time: 55 seconds)**:
 > *« Je comprends votre souci d'orthodoxie budgétaire, d'autant que les deniers publics doivent être gérés avec la plus grande rigueur.  
-> Pour autant, opposer rigueur financière et libertés fondamentales constitue un faux calcul économique. L'acquisition, la maintenance et les mises à niveau continuelles de ces infrastructures logicielles représentent des gouffres financiers colossaux pour les municipalités, captées par des monopoles technologiques privés.  
+> Pour autant, opposer rigueur financière et libertés fondamentales constitue un faux calcul économique. L'acquisition, la maintenance et les mises à niveau continuelles de ces infrastructures logicielles représentent des gouffres financiers colossaux pour les municipalités, au profit de monopoles technologiques privés.  
 > Quand bien même ces systèmes permettraient d'économiser quelques postes d'agents, le coût sociétal d'une érosion démocratique et les indemnisations consécutives aux erreurs algorithmiques excéderont largement ces économies illusoires.  
 > La sécurité durable ne s'achète pas par des algorithmes opaques ; elle se bâtit par des investissements éducatifs et sociaux pérennes. »*
 
@@ -154,8 +156,8 @@ Examine the full verbatim transcript of a calibrated C1 performance delivered un
 
 | Evaluative Criterion | Evidence from Spoken Model | Examiner Commentary |
 | :--- | :--- | :--- |
-| **Duration & Balance** | Phase 1: 2m 00s (258w) / Phase 2: 2m 55s (375w) | Perfectly proportioned; zero dead time or rambling. |
-| **Cadence & Prosody** | Syllable-timed delivery; elongation on final syllables: *[fo-bi-k‿œʁ-BƐ̃ ↗]* | Fluid rhythmic groupings; continuative rising intonation maintained before conclusions. |
+| **Duration & Balance** | Phase 1: 2m 00s (199w) / Phase 2: 2m 40s (349w) | Perfectly proportioned; zero dead time or rambling. |
+| **Cadence & Prosody** | Syllable-timed delivery; elongation on final syllables: *[le-paʁ-ti-zɑ̃-də-sɛt-tɛk-nɔ-lɔ-ʒI ↗]* (*les partisans de cette technologie*) | Fluid rhythmic groupings; continuative rising intonation maintained before conclusions. |
 | **Concession Formulas** | *« Je conçois tout à fait que... »*, *« Votre remarque met le doigt sur... »* | Elegant diplomatic acknowledgment avoiding defensive antagonism. |
 | **C1 Discursive Connectors**| *d'autant que*, *qui plus est*, *quand bien même (+ conditionnel)*, *loin de* | Flawless mood governance under rapid conversational conditions. |
 | **Idioms & Metaphors** | *« de la poudre aux yeux »*, *« faire la part des choses »*, *« un suspect en sursis »* | Native-like civic phraseology integrated seamlessly into public debate. |
@@ -169,13 +171,13 @@ Examine the full verbatim transcript of a calibrated C1 performance delivered un
 
 ---
 
-### France Éducation international C1 speaking assessment rubric
+### Unofficial C1 speaking self-assessment rubric
 
-Audit your 5-minute audio recording using the official criteria established by France Éducation international for C1 oral certification:
+Audit your 5-minute audio recording using this **unofficial self-assessment rubric**. It is not an FEI grid: the real TCF Canada gives a single overall Expression orale score /20 and publishes no per-criterion point split. The bands below use the IRCC Expression orale equivalences (/20) only as a rough self-estimate:
 
 ```
 +--------------------------------------------------------------------------------------------------+
-|                      OFFICIAL FEI EVALUATION GRID — C1 ORAL DEBATE                               |
+|            UNOFFICIAL SELF-ASSESSMENT RUBRIC — C1 ORAL DEFENSE (PRACTICE)                        |
 +--------------------------------------------------------------------------------------------------+
 |  Criteria                       | Max Pts | Performance Descriptors (C1 Standard)                |
 +---------------------------------+---------+------------------------------------------------------+
@@ -191,13 +193,15 @@ Audit your 5-minute audio recording using the official criteria established by F
 |     et structures discursives   |         | modes adaptés (conditionnel, subjonctif).             |
 |                                 |         | Maîtrise des relatives enchâssées et nominalisations.|
 +---------------------------------+---------+------------------------------------------------------+
-|  4. Aisance phonologique,       |   5.0   | Rythme syllabique régulier sans saccades anglaises.  |
+|  4. Prononciation,              |   5.0   | Rythme syllabique régulier sans saccades anglaises.  |
 |     prosodie et débit           |         | Respect des groupes rythmiques et de l'accentuation. |
 |                                 |         | Liaisons obligatoires réalisées sans coup de glotte. |
 +---------------------------------+---------+------------------------------------------------------+
-|  TOTAL SCORE                    |  20.0   | 16.0–20.0 = C1 (NCLC 8–9 Confirmed)                  |
-|                                 |         | 12.0–15.5 = B2 (NCLC 7 Target Achieved)              |
-|                                 |         | < 12.0 = Retake Timed Defense                        |
+|  TOTAL SCORE                    |  20.0   | 16.0–20.0 ≈ NCLC 10+                                 |
+|                                 |         | 14.0–15.5 ≈ NCLC 9                                   |
+|                                 |         | 12.0–13.5 ≈ NCLC 8 (safety margin reached)           |
+|                                 |         | 10.0–11.5 ≈ NCLC 7 (threshold only)                  |
+|                                 |         | < 10.0 = Below NCLC 7: Retake Timed Defense          |
 +---------------------------------+---------+------------------------------------------------------+
 ```
 
@@ -210,7 +214,7 @@ Complete this diagnostic checklist after listening to your recorded audio file:
 - [ ] **Chronometer Discipline**: Did my opening monologue last between 1:50 and 2:10 without trailing off or rushing?
 - [ ] **Zero Silence Gap**: Did I begin responding to each examiner objection within 2 seconds of the question ending?
 - [ ] **The Diplomatic Concession**: Did I validate each objection before pivoting (*« Je comprends votre point de vue... néanmoins »*), rather than blurting out *« Non »*?
-- [ ] **Pure Syllabic Vowels**: Did I articulate vowels in words like *sécurité* [se-ky-ʁi-te] and *gouvernement* [ɡu-vɛʁ-nə-mɑ̃] with crisp, equal duration instead of reducing them to schwas?
+- [ ] **Pure Syllabic Vowels**: Did I articulate vowels in words like *sécurité* [se-ky-ʁi-te] and *économique* [e-kɔ-nɔ-mik] with crisp, equal duration instead of reducing them to an English-style schwa?
 - [ ] **Pitch Modulation**: Did my voice pitch rise audibly at the end of continuing clauses (↗) and drop decisively at the end of conclusive arguments (↘)?
 - [ ] **C1 Articulator Inclusion**: Did I employ at least two target connectors (*d'autant que*, *qui plus est*, *quand bien même*, *loin de*)?
 - [ ] **Lexical Elevation**: Did I avoid conversational crutches like *« comme j'ai dit »*, *« vous voyez »*, *« trucs »*, and *« machins »*?

@@ -1,6 +1,6 @@
 ### Introduction
 
-In the **Expression orale** section of the TCF Canada and TEF Canada, many candidates who possess broad vocabulary and accurate grammar find themselves mysteriously locked at a B1 or low-B2 score. When they review their examiner feedback, the culprit is almost always listed under the criteria: *« Aisance phonologique, intonation et rythme »*.
+In the **Expression orale** section of the TCF Canada and TEF Canada, many candidates who possess broad vocabulary and accurate grammar find themselves stuck at a B1 or low-B2 level. Often the culprit is not vocabulary or grammar but **pronunciation, rhythm, and intonation**, which determine how easily the examiner can follow them. (The TCF gives a single overall Expression orale score /20, with no per-criterion feedback, so you have to diagnose this yourself.)
 
 Examiners do not penalize you for having a foreign accent; they do not expect you to sound like a native Parisian or a lifelong Montrealer. However, they are severely impeded by **prosodic interference**—specifically, the unconscious transposition of English speech rhythm and word-level stress onto the French language.
 
@@ -13,7 +13,7 @@ In French, speech is **syllable-timed** (*isochronie syllabique*):
 
 When an English speaker speaks French with English stress patterns—punching the first syllable of words (*“IN-ter-di-re”*, *“GOU-ver-ne-ment”*) and swallowing intermediate vowels—the acoustic architecture collapses. For a French native listener, this sounds like driving over a continuous series of jarring speed bumps.
 
-To achieve **C1 (NCLC 8 to 9)**, you must master the musicality of French: the effortless flow of rhythmic groups, continuative rising intonation, definitive falling cadences, and emphatic oratorical accents. This lesson provides the phonetic blueprint to unlock authentic French prosody.
+To reach **NCLC 8+**, you must master the musicality of French: the effortless flow of rhythmic groups, continuative rising intonation, definitive falling cadences, and emphatic oratorical accents. This lesson provides the phonetic blueprint to unlock authentic French prosody.
 
 ---
 
@@ -54,7 +54,7 @@ Understanding the physical mechanics of French rhythm requires comparing its rhy
 ```
 
 #### The Three Catastrophic Traps of English Interference
-1. **The Schwa Reduction Trap**: English speakers tend to reduce unstressed French vowels to /ə/. For example, saying *« capacité »* as [kə-ˈpæ-sə-ti] instead of three pure, crisp vowels: [ka-pa-si-te].
+1. **The Schwa Reduction Trap**: English speakers tend to reduce unstressed French vowels to /ə/. For example, saying *« capacité »* as [kə-ˈpæ-sə-ti] instead of four pure, crisp vowels: [ka-pa-si-te].
 2. **The Initial Word-Stress Trap**: English speakers instinctively punch the first syllable of nouns: **« DÉ-veloppement »**, **« GOU-vernement »**, **« EN-vironnement »**. In French, stress on the first syllable of an unemphatic word is phonetically unnatural.
 3. **The Glottal Stop Trap**: In English, words beginning with vowels are often preceded by a hard glottal catch in the vocal cords (e.g., *“an ? apple”*). In French, glottal stops destroy the vocalic flow; consonants must glide smoothly across word boundaries (*l'enchaînement*).
 
@@ -86,11 +86,11 @@ A rhythmic group is a grammatically coherent cluster of words that expresses a s
 |     permettront de réduire durablement notre empreinte carbone. »                 |
 |                                                                                   |
 |  Rhythmic Group Segmentation ( / = minor pause):                                   |
-|  [Lez-ɛ̃-vɛs-tis-mɑ̃-ma-SIF] / (7 syllables)                                       |
-|  [dɑ̃-lez-e-nɛʁ-ʒi-ʁə-nu-və-LABL] / (7 syllables)                                  |
-|  [pɛʁ-mɛ-tʁɔ̃-də-ʁe-dɥiʁ] / (5 syllables)                                          |
-|  [dy-ʁa-blə-mɑ̃] / (3 syllables)                                                  |
-|  [nɔ-tʁɑ̃-pʁɛ̃t-kaʁ-BƆN.] // (4 syllables, final terminal stop)                    |
+|  [le-zɛ̃-vɛs-tis-mɑ̃-ma-SIF] / (7 syllables)                                      |
+|  [dɑ̃-le-ze-nɛʁ-ʒi-ʁə-nu-və-LABL] / (9 syllables)                                 |
+|  [pɛʁ-mɛ-tʁɔ̃-də-ʁe-dɥiʁ] / (6 syllables)                                         |
+|  [dy-ʁa-blə-mɑ̃] / (4 syllables)                                                  |
+|  [nɔ-tʁɑ̃-pʁɛ̃t-kaʁ-BƆN.] // (5 syllables, final terminal stop)                   |
 |                                                                                   |
 +-----------------------------------------------------------------------------------+
 ```
@@ -146,8 +146,8 @@ On the final rhythmic group of the sentence, the pitch falls decisively below th
 |   pour assainir les finances publiques. ↘"                                        |
 |                                                                                   |
 |  [Syllable 1 to 9: Flat, crisp, even syllables] -> [LAIRE: Long, rising pitch ↗]  |
-|  [Syllable 10 to 16: Even syllables]            -> [SABL: Long, rising pitch ↗]   |
-|  [Syllable 17 to 24: Even syllables]            -> [BLIK: Long, falling pitch ↘]  |
+|  [Syllable 11 to 16: Even syllables]            -> [SABL: Long, rising pitch ↗]   |
+|  [Syllable 18 to 25: Even syllables]            -> [BLIK: Long, falling pitch ↘]  |
 |                                                                                   |
 +-----------------------------------------------------------------------------------+
 ```
@@ -177,7 +177,7 @@ In C1 debate, failing to make mandatory liaisons makes your speech sound uneduca
 | Context | Written French | Phonetic Realization (IPA) | Status |
 | :--- | :--- | :--- | :--- |
 | **Article / Determiner + Noun** | *Les experts* | [le.z‿ɛks.pɛʁ] | **Mandatory** |
-| **Pronoun + Verb** | *Ils ont affirmé* | [il.z‿ɔ̃.t‿afiʁ.me] | **Mandatory** |
+| **Pronoun + Verb** | *Ils ont affirmé* | [il.z‿ɔ̃.(t‿)a.fiʁ.me] | **Mandatory** for *ils‿ont*; *ont‿affirmé* is **optional** (more formal) |
 | **Monosyllabic Preposition + Noun** | *Dans un instant* | [dɑ̃.z‿œ̃.n‿ɛ̃s.tɑ̃] | **Mandatory** |
 | **After the Conjunction "Et"** | *Un père et un fils* | [œ̃ pɛʁ e œ̃ fis] *(Zero liaison!)* | **FORBIDDEN (Never link "et")** |
 | **Singular Noun + Following Adjective**| *Un projet ambitieux* | [œ̃ pʁɔ.ʒɛ ɑ̃.bi.sjø] *(No [t])* | **Forbidden in standard speech** |
@@ -204,8 +204,8 @@ If you do this in French, you distort the entire metric rhythm. In French, orato
 |  - "C'est un [S::]can-dale absolu !" (Explosive initial [s])                      |
 |                                                                                   |
 |  Rule 2: IF THE WORD BEGINS WITH A VOWEL, STRESS THE SECOND SYLLABLE'S CONSONANT |
-|  - "C'est in-[A::]cceptable !" (Explosive [k] on the second syllable)             |
-|  - "C'est [T::]o-ta-le-ment in-utile !" (Explosive [t] on totalement)             |
+|  - "C'est i-[N::]ac-cep-table !" (Lengthened [n]: /i.nak.sɛp.tabl/)               |
+|  - "C'est é-[N::]orme !" (Lengthened [n], onset of the 2nd syllable /e.nɔʁm/)     |
 |                                                                                   |
 |  Crucial: THE FINAL SYLLABLE OF THE RHYTHMIC GROUP STILL RECEIVES THE TONIC ACCENT|
 |  The accent of insistence adds emotional coloration, but the final syllable       |
@@ -218,7 +218,7 @@ If you do this in French, you distort the entire metric rhythm. In French, orato
 #### Authentic Debate Demonstrations
 - Emphatic Indignation:  
   **« Cette décision est purement et simplement inacceptable ! »**  
-  [sɛt de-si-zjɔ̃ ɛ pyʁ-mɑ̃ e sɑ̃-plə-mɑ̃ **in-ak-sɛp-TABL** !]  
+  [sɛt de-si-zjɔ̃ ɛ pyʁ-mɑ̃ e sɑ̃-plə-mɑ̃ **i-nak-sɛp-TABL** !]  
   *(Initial [p] of purement and [s] of simplement are crisp and incisive; final [tabl] is elongated).*
 - Intellectual Insistence:  
   **« Il est absolument capital de préserver ce consensus social. »**  
@@ -241,15 +241,15 @@ Segment each complex sentence below into balanced rhythmic groups using slashes 
 1. **Rhythmic Segmentation**:  
    *[L'augmentation rapide / du coût de la VIE / contraint de nombreuses faMILLES / à réduire leurs dépenses alimenTAIRES.]*  
    - Group 1: *L'aug-men-ta-tion ra-PIDE* (6 syllables) ↗  
-   - Group 2: *du coût de la VIE* (4 syllables) ↗  
-   - Group 3: *con-traint de nom-breuses fa-MILLES* (6 syllables) ↗  
-   - Group 4: *à ré-duire leurs dé-penses a-li-men-TAIRES* (8 syllables) ↘
+   - Group 2: *du coût de la VIE* (5 syllables) ↗  
+   - Group 3: *con-traint de nom-breuses fa-MILLES* (7 syllables) ↗  
+   - Group 4: *à ré-duire leurs dé-penses a-li-men-TAIRES* (10 syllables) ↘
 2. **Rhythmic Segmentation**:  
    *[Bien que les investissements publics / soient indispenSABLES / la gestion rigoureuse des deniers de l'É-TAT / demeure une obligation moRALE.]*  
-   - Group 1: *Bien que les in-ves-tis-se-ments pu-BLICS* (8 syllables) ↗  
-   - Group 2: *soient in-dis-pen-SABLES* (4 syllables) ↗  
-   - Group 3: *la ges-tion ri-gou-reuse des de-niers de l'É-TAT* (10 syllables, or split at *ri-gou-REUSE*) ↗  
-   - Group 4: *de-meure une o-bli-ga-tion mo-RALE* (7 syllables) ↘
+   - Group 1: *Bien que les in-ves-tis-se-ments pu-BLICS* (10 syllables; 9 if the e caduc of *investissements* drops) ↗  
+   - Group 2: *soient in-dis-pen-SABLES* (5 syllables) ↗  
+   - Group 3: *la ges-tion ri-gou-reuse des de-niers de l'É-TAT* (12 syllables, so better split at *ri-gou-REUSE*: 6 + 6) ↗  
+   - Group 4: *de-meure une o-bli-ga-tion mo-RALE* (9 syllables) ↘
 3. **Rhythmic Segmentation**:  
    *[À mon SENS / refuser d'intégrer les technologies numéRIQUES / dans les écoles priMAIRES / reviendrait à isoler nos enFANTS / des réalités contempoRAINES.]*  
    - All groups end with elongated duration on the capitalized syllable.
@@ -276,9 +276,9 @@ Read the following words aloud. Avoid the temptation to stress the syllables cap
 
 Prosodic contours and phonetic dynamics exhibit key regional differences between standard European and Canadian French:
 - **Phonemic Vowel Length**: Québec French maintains phonemic length distinctions that have largely vanished from Parisian French (e.g. differentiating between short and long vowels in **fête** [faɛ̯t] vs. **faite** [fɛt] **(QC)**, or **maître** [maɛ̯tʁ] vs. **mettre** [mɛtʁ] **(QC)**).
-- **Affrication**: In Canadian speech, /t/ and /d/ are systematically affricated to [ts] and [dz] before high front vowels (/i/, /y/): *tu* sounds like [tsy], *dimanche* sounds like [dzimɑ̃ʃ].
+- **Affrication**: In Canadian speech, /t/ and /d/ are systematically affricated to [ts] and [dz] **only** before the high front vowels /i/, /y/ and the glides /j/, /ɥ/ (never before *é*, *ou*, etc.): *tu* sounds like [tsy], *dimanche* sounds like [dzimɑ̃ʃ].
 - **Melodic Excursions**: Spoken Canadian French often features wide melodic range and distinct rising-falling cadence in conversational exchange.
-On the TCF Canada, both hexagonal French and standard Canadian French prosody are awarded full marks, provided syllable isochrony and clear phonetic articulation are maintained.
+On the TCF Canada, neither a European nor a Canadian accent is a problem in itself; what matters is clear, intelligible articulation and natural French rhythm.
 
 </div>
 
@@ -308,7 +308,7 @@ Record a **3-minute unscripted spoken response** adhering to these prosodic rule
 1. **Rhythmic Breathing**: Inhale only at the boundaries of rhythmic groups (never in the middle of a phrase).
 2. **Rising & Falling Pitch**: Conclude incomplete arguments with clear continuative rising intonation (↗) and final sentences with decisive falling cadence (↘).
 3. **Accent d'insistance**: Deploy at least two deliberate accents of insistence on key rhetorical words (e.g., *« C'est [F::]ondamental ! »*, *« Une mesure [T::]otalement inadaptée »*).
-4. **Zero Schwa Swallowing**: Ensure words like *développement*, *société*, and *gouvernement* are articulated with distinct, pure vowels without English reduction.
+4. **No English Vowel Reduction**: Keep the full vowels (*é*, *o*, *ou*) of words like *développement*, *société*, and *gouvernement* pure, without reducing them to an English-style [ə]. Dropping the *e caduc* (*dév'loppement* [dev.lɔp.mɑ̃], *gouv'rnement* [ɡu.vɛʁn.mɑ̃]) is native and perfectly acceptable.
 
 <details>
 <summary>View prosodic self-evaluation checklist</summary>
@@ -341,7 +341,7 @@ Test your mastery of French phonology, intonation, and rhythmic cadence:
 
 The following free phonetic platforms and audio archives offer specialized exercises in French prosody, rhythm, and intonation:
 
-* [Phonétique — Université de Montréal](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1086) — Comprehensive academic modules on rhythmic groups, liaisons, and intonation curves.
+* [Phonétique — Université du Québec à Trois-Rivières (UQTR)](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=1086) — Comprehensive academic modules on rhythmic groups, liaisons, and intonation curves.
 * [Radio-Canada Première — Balados et débats](https://ici.radio-canada.ca/premiere/balados) — Excellent models of natural Canadian French broadcast intonation and oratorical cadence.
 * [TV5Monde — Paroles d'experts : La prosodie et le rythme du français](https://langue-francaise.tv5monde.com/) — Multi-level video lessons analyzing French melodic contours and stress patterns.
 * [Vitrine linguistique (OQLF) — La phonétique et la prononciation standard](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Reference guides detailing phonetic transcription, mandatory liaisons, and hiatus avoidance in formal French.

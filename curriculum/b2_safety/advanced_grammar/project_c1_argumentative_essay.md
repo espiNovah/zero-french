@@ -2,7 +2,7 @@
 
 Welcome to the capstone project for the **Advanced Syntax & Literary Grammar Recognition** section of Path 05.
 
-In standard B2 testing (NCLC 7), writing examiners look for communicative competence, coherent paragraph organization, and the accurate use of standard complex connectors (*bien que*, *bien entendu*, *en revanche*). However, to secure a **solid C1 score (NCLC 8 to 9)**—and guarantee that your B2 immigration threshold is safely beyond doubt—your writing must exhibit **intellectual density, stylistic maturity, and multifaceted grammatical mastery**.
+At the NCLC 7 threshold (10–11/20 in Expression écrite), writing examiners look for communicative competence, coherent paragraph organization, and the accurate use of standard complex connectors (*bien que*, *bien entendu*, *en revanche*). However, to build a **safety margin of NCLC 8+ (12/20 or more in Expression écrite)**—so that your NCLC 7 immigration threshold is safely beyond doubt—your writing must exhibit **intellectual density, stylistic maturity, and multifaceted grammatical mastery**.
 
 In this capstone project, you will draft a **200-word deep-dive argumentative essay** on a contentious public policy question at the intersection of technological advancement and democratic ethics: **the integration of generative artificial intelligence in government administration and public services**.
 
@@ -22,7 +22,7 @@ By completing this capstone project, you will:
 - Plan, structure, and execute a continuous 190–210 word argumentative essay within a strict **35-minute countdown**.
 - Synthesize three advanced grammatical structures (*conditionnel passé*, *subjonctif passé*, and *concordance temporelle*) into a unified rhetorical stance.
 - Integrate consecrated civic metaphors smoothly to signal native-level idiomatic control.
-- Apply the official **France Éducation international (FEI)** C1 evaluation grid to critically audit your lexical sophistication, syntactic flexibility, and argumentation logic.
+- Apply an **unofficial self-assessment rubric** (not an FEI document) to critically audit your lexical sophistication, syntactic flexibility, and argumentation logic.
 - Compare your work against a calibrated 200-word C1 benchmark essay and complete a forensic grammatical self-audit.
 
 ```
@@ -60,13 +60,13 @@ To ensure that your practice mirrors official test circumstances, configure your
    - *Phase 1: Conceptual Architecture & Thematic Outline (5 minutes)*
    - *Phase 2: Continuous Precision Drafting (22 minutes)*
    - *Phase 3: Three-Pass Surgical Proofreading (8 minutes)*
-4. **Target Length**: Strictly **190 to 210 words**. (In high-stakes exams, severe penalties apply if you fall short of word thresholds or produce runaway rambling texts).
+4. **Target Length**: Strictly **190 to 210 words**. (Length affects how well you complete the task: too short leaves arguments undeveloped, too long invites errors. For reference, the real TCF Canada Writing Task 3 asks for 120–180 words; this 200-word project is a deliberate overload drill.)
 
 ---
 
 ### The C1 argumentative challenge: Technology and public governance
 
-#### The Official Prompt
+#### The Practice Prompt
 Read the contextual scenario and prompt carefully:
 
 ```
@@ -112,7 +112,7 @@ To convey maximum intellectual rigor within a compact 200-word limit, employ a t
 
 #### Tier 3: Dialectical Synthesis and Concrete Institutional Safeguards (approx. 65–70 words)
 - Resolve the tension: refuse both Luddite techno-phobia and naive techno-optimism by invoking *« faire la part des choses »*.
-- Propose a balanced regulatory path: a targeted temporary moratorium on automated decision-making (*décisions discrétionnaires*), accompanied by mandatory human oversight (*boucle décisionnelle humaine*).
+- Propose a balanced regulatory path: a targeted temporary moratorium on automated decision-making (*décisions automatisées*), accompanied by mandatory human oversight (*boucle décisionnelle humaine*).
 - Close with a high-register vision of public service integrity.
 
 ---
@@ -139,7 +139,7 @@ Write your essay continuously. Maintain a formal, authoritative, and academic re
 Divide your remaining 8 minutes into three distinct audits:
 - **Pass 1 (Concordances & Auxiliaries)**: Check every compound verb. Did you use *ait* or *soit* correctly for the subjonctif passé? Did you form the conditionnel passé with the correct conditional stem (*aurions / serions*)?
 - **Pass 2 (Agreements & Elisions)**: Verify past participle agreements (auxiliary *être*, preceding direct objects with *avoir*). Check that elisions are universal (*qu'il*, *d'autant*, *s'il*).
-- **Pass 3 (Word Count Verification)**: Count every token. Hyphenated words (*socio-économique*, *garde-fous*, *peut-être*) count as one word; articles with elision (*l'État*, *d'une*) count as two words (*l'* + *État* = 2 words) under official FEI counting rules. Verify that your total is between **190 and 210 words**.
+- **Pass 3 (Word Count Verification)**: Count every word using the FEI/DELF convention: a word is **any string between two spaces**, so hyphenated words (*socio-économique*, *garde-fous*, *peut-être*) and elided forms (*l'État*, *d'une*) each count as **one** word (confirm against the current TCF Canada candidate guide). Verify that your total is between **190 and 210 words**.
 
 ---
 
@@ -147,8 +147,8 @@ Divide your remaining 8 minutes into three distinct audits:
 
 Examine this calibrated benchmark model response, composed under identical constraints:
 
-> **L'automatisation des administrations par l'intelligence artificielle suscite de vifs débats quant à l'équité des services publics. Bien que les ministères aient déjà constaté des gains d'efficacité logistique indéniables, déployer ces algorithmes sans contrôle démocratique reviendrait à mettre la charrue avant les bœufs.**  
-> **En effet, déléguer l'évaluation de prestations sociales à des modèles opaques met en péril l'imputabilité républicaine. Si les décideurs avaient consulté les comités d'éthique avant d'accélérer ces réformes, nous n'aurions pas assisté à la multiplication de biais discriminatoires qui lèsent les usagers les plus vulnérables. Face à ces dérives, les juristes tirent la sonnette d'alarme à juste titre.**  
+> **L'automatisation des administrations par l'intelligence artificielle suscite de vifs débats quant à l'équité des services publics. Bien que les ministères aient déjà constaté des gains d'efficacité logistique indéniables, déployer ces algorithmes sans contrôle démocratique reviendrait à mettre la charrue avant les bœufs. Encore faut-il distinguer l'outil d'aide à la décision de la machine qui tranche à la place du fonctionnaire.**  
+> **En effet, déléguer l'évaluation de prestations sociales à des modèles opaques met en péril l'imputabilité républicaine. Si les décideurs avaient consulté les comités d'éthique avant d'accélérer ces réformes, nous n'aurions pas assisté à la multiplication de biais discriminatoires qui lèsent les usagers les plus vulnérables. Face à ces dérives, les juristes tirent la sonnette d'alarme à juste titre. Comment un citoyen pourrait-il contester un refus dont nul, pas même l'agent responsable, n'est en mesure d'expliquer la logique ?**  
 > **Toutefois, il convient de faire la part des choses : refuser catégoriquement le progrès technique priverait l'État d'outils précieux pour délester les agents de tâches subalternes. Plutôt qu'un moratoire indéfini, les autorités auraient dû privilégier un encadrement rigoureux. L'instauration d'un contrôle humain obligatoire lors de chaque décision défavorable constitue la seule garantie d'une modernisation respectueuse des droits fondamentaux.**
 
 ---
@@ -157,7 +157,7 @@ Examine this calibrated benchmark model response, composed under identical const
 
 | Pedagogical Target | Textual Evidence from Benchmark Model | Analytical Commentary |
 | :--- | :--- | :--- |
-| **Word Count** | Exactly **200 words** (FEI tokenization criteria) | Perfectly centered within the 190–210 sweet spot. |
+| **Word Count** | **194 words** (space-delimited count) | Within the 190–210 target range. |
 | **Subjonctif Passé** | *« Bien que les ministères **aient déjà constaté**... »* | Demonstrates mastery of past anteriority in concessive subordination. |
 | **Conditionnel Passé (Hypothèse)** | *« Si les décideurs **avaient consulté**... nous **n'aurions pas assisté**... »* | Flawless 3rd conditional (*Si + plus-que-parfait $\rightarrow$ conditionnel passé*). |
 | **Conditionnel Passé (Reproche)** | *« les autorités **auraient dû privilégier**... »* | Retrospective normative policy critique (*devoir au conditionnel passé + infinitif*). |
@@ -182,13 +182,13 @@ To validate completion of this C1 argumentative capstone project, save your port
 
 ---
 
-### France Éducation international C1 assessment rubric
+### Unofficial C1 self-assessment rubric
 
-Evaluate your drafted submission using the four official criteria defined by France Éducation international (FEI) for C1 written productions:
+Evaluate your drafted submission using this **unofficial self-assessment rubric**. It is not an FEI grid: the real TCF Canada gives a single overall Expression écrite score /20 and publishes no per-criterion point split. The bands below use the IRCC Expression écrite equivalences (/20) only as a rough self-estimate:
 
 ```
 +--------------------------------------------------------------------------------------------------+
-|                    OFFICIAL FEI EVALUATION GRID — C1 ARGUMENTATIVE ESSAY                         |
+|            UNOFFICIAL SELF-ASSESSMENT RUBRIC — C1 ARGUMENTATIVE ESSAY (PRACTICE)                 |
 +--------------------------------------------------------------------------------------------------+
 |  Criteria                       | Max Pts | Performance Descriptors (C1 Standard)                |
 +---------------------------------+---------+------------------------------------------------------+
@@ -208,9 +208,11 @@ Evaluate your drafted submission using the four official criteria defined by Fra
 |     lexique                     |         | Maîtrise des collocations civiques et métaphores     |
 |                                 |         | consacrées sans mélange de registres populaires.     |
 +---------------------------------+---------+------------------------------------------------------+
-|  TOTAL SCORE                    |  20.0   | 16.0–20.0 = C1 (NCLC 8–9 Confirmed)                  |
-|                                 |         | 12.0–15.5 = B2 (NCLC 7 Target Achieved)              |
-|                                 |         | < 12.0 = Retake Timed Simulation                     |
+|  TOTAL SCORE                    |  20.0   | 16.0–20.0 ≈ NCLC 10+                                 |
+|                                 |         | 14.0–15.5 ≈ NCLC 9                                   |
+|                                 |         | 12.0–13.5 ≈ NCLC 8 (safety margin reached)           |
+|                                 |         | 10.0–11.5 ≈ NCLC 7 (threshold only)                  |
+|                                 |         | < 10.0 = Below NCLC 7: Retake Timed Simulation       |
 +---------------------------------+---------+------------------------------------------------------+
 ```
 
@@ -236,5 +238,5 @@ The following high-level institutional resources provide models of authentic edi
 
 * [Le Devoir — Idées et Débats](https://www.ledevoir.com/opinion/idees) — Leading Canadian daily op-ed columns addressing technological governance, ethical regulations, and public policy debates.
 * [Radio-Canada — Analyses de politiques publiques](https://ici.radio-canada.ca/nouvelle/) — In-depth Canadian journalistic analyses evaluating government administration, civic services, and modernization programs.
-* [France Éducation international — Exemples d'épreuves écrites C1](https://www.france-education-international.fr/) — Official portal providing certified C1 candidate scripts and examiner commentary.
+* [France Éducation international — Exemples d'épreuves écrites C1](https://www.france-education-international.fr/) — Official TCF Canada and DELF-DALF administrator; check its site for any published sample tasks and candidate guides.
 * [Vitrine linguistique (OQLF) — La rédaction administrative et argumentative](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Standards of precision, nominalization, and formal vocabulary for public-sector French composition.

@@ -2,14 +2,14 @@
 
 In intermediate French courses (A2 to B1), learners are taught literal, declarative language. Every phrase means exactly the sum of its component words: *« Le gouvernement a augmenté les impôts »*, *« La crise climatique s'aggrave »*, *« Il faut améliorer les transports »*.
 
-However, when you encounter the upper strata of the **TCF Canada (Compréhension écrite items 28 to 39 and Compréhension orale items 25 to 35)**, literal language gives way to **implicit cultural metaphors, political idioms, and civic phraseology**.
+However, when you encounter the upper strata of the **TCF Canada (the later, harder items of Compréhension écrite and Compréhension orale)**, literal language gives way to **implicit cultural metaphors, political idioms, and civic phraseology**.
 
 Consider how a Quebec political analyst or an editorialist in *Le Devoir* or *La Presse* describes a contentious municipal budget debate:
 > *« Face à la grogne des contribuables, le ministre tente de **noyer le poisson**. Mais les élus de l'opposition refusent de **passer l'éponge** sur ce gaspillage de deniers publics. À quelques mois des élections, l'administration devra **attacher sa tuque** si elle veut éviter un vote de censure. »*
 
 A candidate reliant strictly on dictionary definitions will be bewildered: *Why is someone drowning a fish? Who is wiping a sponge? And what does a winter hat have to do with government finances?*
 
-To score **C1 (NCLC 8 to 9)** and lock in your B2 safety margin, you cannot pause to decipher metaphorical language. You must decode implicit idioms instantaneously. Moreover, when deployed with surgical precision in your own **Expression écrite (Task 3)** or **Expression orale (Task 3)**, high-register civic metaphors signal to examiners that you possess not merely grammatical accuracy, but **authentic sociolinguistic competence**.
+To reach **NCLC 8+** and lock in your safety margin above the NCLC 7 threshold, you cannot pause to decipher metaphorical language. You must decode implicit idioms instantaneously. Moreover, when deployed with surgical precision in your own **Expression écrite (Task 3)** or **Expression orale (Task 3)**, high-register civic metaphors signal to examiners that you possess not merely grammatical accuracy, but **authentic sociolinguistic competence**.
 
 This lesson breaks down the most prominent Canadian and metropolitan French cultural metaphors, explains their pragmatic registers, and equips you to spot them in reading passages and weave them naturally into your arguments.
 
@@ -43,8 +43,8 @@ In both literary prose and serious political journalism, metaphors are not ornam
 |                                                                                   |
 |  [Refined C1: Mastered Metaphorical Nuance]                                       |
 |  "En voulant légiférer à la hâte, les décideurs mettent la charrue avant les      |
-|   bœufs, tirant la sonnette d'alarme chez les économistes qui refusent de céder    |
-|   à ce qui s'apparente à de la poudre aux yeux."                                   |
+|   bœufs, suscitant l'inquiétude des économistes, qui tirent la sonnette           |
+|   d'alarme et refusent de céder à ce qui s'apparente à de la poudre aux yeux."    |
 |                                                                                   |
 +-----------------------------------------------------------------------------------+
 ```
@@ -52,13 +52,13 @@ In both literary prose and serious political journalism, metaphors are not ornam
 #### Why Metaphors Dominate C1 Evaluation
 1. **Concision and Rhetorical Economy**: A four-word idiom (*« faire la part des choses »*) encapsulates an entire philosophical posture (separating subjective emotional reactions from objective structural realities).
 2. **Implicit Stance Detection in Reading**: TCF reading questions often ask: *« Quelle est la position de l'auteur vis-à-vis du projet de loi ? »* If the author writes *« Cette consultation publique n'est que de la poudre aux yeux »*, the author is unambiguously condemning the process as disingenuous window dressing, even if words like *« inefficace »* or *« trompeur »* never appear.
-3. **Register Awareness**: Top examiners penalize candidates who drop ultra-slangy street expressions (*argot*) into formal essays. However, they award maximum points for **consecrated civic metaphors** (*métaphores figées institutionnelles*) that belong to parliamentary and journalistic registers.
+3. **Register Awareness**: Ultra-slangy street expressions (*argot*) clash with the register of a formal essay, and examiners do assess register appropriateness. By contrast, **consecrated civic metaphors** fit naturally, because they belong (*métaphores figées institutionnelles*) to parliamentary and journalistic registers.
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip: Metaphors in Reading Comprehension
 
-When tackling Tier 3 editorials in TCF Reading, questions assessing the author's tone (*le ton de l'auteur*) or implicit stance (*l'attitude implicite*) hinge directly on idiomatic metaphors. 
+When tackling demanding editorials in TCF Reading, questions assessing the author's tone (*le ton de l'auteur*) or implicit stance (*l'attitude implicite*) hinge directly on idiomatic metaphors. 
 - If an author characterizes an administrative policy as *« de la poudre aux yeux »* or accuses officials of *« noyer le poisson »*, the correct answer will involve critical options such as *« Elle déplore un manque de transparence »* or *« Il dénonce une manœuvre dilatoire »*.
 - Never take metaphorical phrases literally. Beware of literal echo distractors that mention actual "fish" (*poisson*) or "eyes" (*yeux*).
 
@@ -68,7 +68,7 @@ When tackling Tier 3 editorials in TCF Reading, questions assessing the author's
 
 ### Canadian French political and civic idioms
 
-Because the TCF Canada is specifically administered for Canadian immigration, reading and listening passages regularly incorporate authentic Canadian French phraseology, idioms from Quebec public life, and North American political metaphors.
+Because the TCF Canada is specifically administered for Canadian immigration, reading and listening passages may include Canadian French phraseology, idioms from Quebec public life, and North American political metaphors.
 
 Below are the essential Canadian idioms you must master for instant comprehension:
 
@@ -125,7 +125,7 @@ Below are the essential Canadian idioms you must master for instant comprehensio
 
 ### High-register rhetorical and civic metaphors
 
-Beyond regional idioms, the French administrative and journalistic traditions utilize a codified inventory of figurative expressions that appear systematically in TCF Level 5 and Level 6 texts.
+Beyond regional idioms, the French administrative and journalistic traditions utilize a codified inventory of figurative expressions that frequently appear in demanding (C1/C2-level) journalistic texts.
 
 | Idiomatic Expression | Pronunciation (IPA) | Exact Figurative Meaning | Formal Editorial Context |
 | :--- | :--- | :--- | :--- |
@@ -138,12 +138,12 @@ Beyond regional idioms, the French administrative and journalistic traditions ut
 | **Faire des pieds et des mains** | [fɛʁ de pje e de mɛ̃] | To make desperate, exhaustive efforts utilizing every possible connection | Bureaucratic appeals, securing emergency funding |
 | **Donner un coup d'épée dans l'eau** | [dɔne œ̃ ku depe dɑ̃ lo] | To perform an action that proves completely futile and produces zero tangible results | Counter-productive regulations, symbolic petitions |
 | **Jeter de l'huile sur le feu** | [ʒəte də lɥil syʁ lə fø] | To exacerbate tensions, inflame a delicate conflict, or provoke indignation | Provocative social media campaigns, partisan polemics |
-| **Tenir mordicus à** | [təniʁ mɔʁdiky(s) a] | To cling obstinately and inflexibly to a stance, policy, or dogma | Ideological intransigence during labor negotiations |
+| **Tenir mordicus à** *(familier)* | [təniʁ mɔʁdiky(s) a] | To cling obstinately and inflexibly to a stance, policy, or dogma | Familiar register: fine in speech or quoted commentary; in a formal essay prefer *tenir obstinément à* |
 
 #### Detailed Rhetorical Breakdown of Selected Expressions
 
 ##### A. « Faire la part des choses »: The Epitome of C1 Critical Thinking
-In the TCF Canada Writing Task 3 (*synthèse et point de vue*) and Speaking Task 3 (*débat d'opinion*), the candidate who takes an absolute, dogmatic position (*« C'est totalement bon »* or *« C'est entièrement mauvais »*) rarely exceeds B2. C1 examiners reward intellectual maturity and nuanced balance.
+In the TCF Canada Writing Task 3 (*synthèse et point de vue*) and Speaking Task 3 (*expression d'un point de vue*), the candidate who takes an absolute, dogmatic position (*« C'est totalement bon »* or *« C'est entièrement mauvais »*) struggles to show C1-level nuance. Intellectual maturity and nuanced balance are what set a C1 performance apart.
 
 The phrase *« faire la part des choses »* introduces precisely this dialectical synthesis:
 - **Model Usage**:  
@@ -177,7 +177,7 @@ Metaphors are high-potency stylistic devices. Used judiciously, they elevate you
 |                                                                                   |
 |  Rule 2: RESPECT SYNTACTIC PREPOSITIONS                                           |
 |  Remember that "tenir mordicus" is followed by "à" (tenir mordicus à un principe),|
-|  and "faire la part des choses" stands independently as a transitive phrase.      |
+|  and "faire la part des choses" is used absolutely or with "entre... et...".      |
 |                                                                                   |
 |  Rule 3: RESERVE METAPHORS FOR EMPHASIS AT KEY STRUCTURAL JUNCTIONS               |
 |  Deploy them at the end of an argumentative paragraph or in the conclusion        |
@@ -269,9 +269,9 @@ Transform each standard B1/B2 sentence into an elegant, idiomatic C1 formulation
 Idiomatic expressions often diverge between European and Canadian French while conveying identical civic concepts:
 - **Cutting corners**: In France, you will hear *rogner sur les coûts* or *bâcler le travail*; in Québec, the ubiquitous civic expression is **tourner les coins ronds** **(QC)**.
 - **Bracing for difficulty**: In France, one says *se serrer la ceinture* (financially) or *se préparer au pire*; in Québec, public figures say **attacher sa tuque (avec de la broche)** **(QC)**.
-- **Being the scapegoat**: In France, *servir de bouc émissaire*; in Québec, you will hear **avoir le dos large** **(QC)** (*le gouvernement a le dos large*).
-- **Causing a dispute or sowing discord**: In France, *jeter un pavé dans la mare*; in Québec, commentators often say **mettre le feu aux poudres** or **brasser la cage** **(QC)**.
-On the TCF Canada, both European and Canadian idioms appear regularly in Tier 3 reading texts and spontaneous Radio-Canada listening tracks.
+- **Being the scapegoat**: *servir de bouc émissaire* and **avoir le dos large** (*le gouvernement a le dos large*) are both pan-French — you will hear them in France and in Québec alike.
+- **Stirring things up**: pan-French speakers say *jeter un pavé dans la mare* (to cause a stir) or **mettre le feu aux poudres** (to spark an open conflict); in familiar Québec French, commentators also say **brasser la cage** **(QC)** — to shake things up, to jolt people out of their inertia (*quand on veut faire bouger les choses, il faut brasser la cage*).
+On the TCF Canada, you may encounter both European and Canadian idioms in demanding reading texts and listening tracks.
 
 </div>
 
@@ -304,9 +304,9 @@ Rewrite this entire passage in formal journalistic French (between **110 and 130
 <details>
 <summary>View a benchmark C1 model response</summary>
 
-**Benchmark Model (118 words)**:
-> **Dans son récent rapport sur la réfection du pont métropolitain, la commission d'audit souligne avec gravité que l'entrepreneur a délibérément tourné les coins ronds afin de maximiser sa marge bénéficiaire au mépris des normes élémentaires de sécurité. Bien que la direction tente aujourd'hui de faire porter l'entière responsabilité aux rigueurs de l'hiver québécois, les ingénieurs indépendants rappellent que le climat a le dos large : les fissures constatées résultent indiscutablement de malfaçons structurelles avérées.**  
-> **Il est grand temps que le ministère tire la sonnette d'alarme et ordonne des inspections rigoureuses avant qu'un incident dramatique ne survienne.**
+**Benchmark Model (114 words)**:
+> **Dans son récent rapport sur la réfection du pont métropolitain, la commission d'audit souligne avec gravité que l'entrepreneur a délibérément tourné les coins ronds afin de maximiser sa marge bénéficiaire au mépris des normes élémentaires de sécurité. Bien que la direction tente aujourd'hui de faire porter l'entière responsabilité aux rigueurs de l'hiver québécois, les ingénieurs indépendants rappellent que le climat a le dos large : les fissures constatées résultent indiscutablement de malfaçons structurelles avérées. Autrement dit, invoquer le gel exceptionnel relève davantage de l'esquive que de l'explication technique.**  
+> **Il est grand temps que le ministère tire la sonnette d'alarme et ordonne des inspections rigoureuses avant qu'un incident dramatique ne survienne et ne coûte des vies.**
 
 **Linguistic Breakdown**:
 - Idioms integrated: *tourner les coins ronds*, *le climat a le dos large*, *tire la sonnette d'alarme*.

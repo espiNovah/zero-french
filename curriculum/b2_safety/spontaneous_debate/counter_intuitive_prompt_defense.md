@@ -1,10 +1,10 @@
 ### Introduction
 
-In the **TCF Canada Expression orale (Task 3)** and **TEF Canada (Section B)**, candidates enter a simulated live debate with the examiner. You are presented with a provocative societal prompt on a card, given **zero preparation time**, and expected to sustain a coherent, structured, and nuanced argumentative monologue for 4.5 minutes before defending your stance against the examiner's sharp counter-arguments.
+In **TCF Canada Expression orale Task 3** (*expression d'un point de vue*), you are presented with a societal topic, given **zero preparation time**, and expected to express and defend a coherent, structured, and nuanced point of view for **4 minutes 30 seconds**. The examiner **may intervene** (to ask you to clarify, develop, or respond to an objection), but the task is a point-of-view task, not an adversarial debate.
 
 At the B1 and functional B2 levels, candidates pray for familiar, comfortable topics: *« Les bienfaits du télétravail »*, *« Les transports en commun gratuits »*, or *« L'importance du sport à l'école »*. On these friendly topics, a candidate can regurgitate rehearsed arguments.
 
-However, examiners frequently assign **counter-intuitive, highly restrictive, or intellectually disruptive prompts** specifically designed to test whether you can think critically under pressure:
+However, you may also draw **counter-intuitive, highly restrictive, or intellectually disruptive prompts** that force you to think critically under pressure. Training on deliberately extreme statements like these makes ordinary exam topics feel easy:
 - *« Il faudrait purement et simplement interdire le tourisme international de masse afin de préserver les écosystèmes. »*
 - *« L'intelligence artificielle devrait remplacer les juges humains dans les tribunaux correctionnels pour éliminer la subjectivité. »*
 - *« Le système d'évaluation par notes scolaires devrait être immédiatement aboli dès la maternelle jusqu'au baccalauréat. »*
@@ -12,7 +12,7 @@ However, examiners frequently assign **counter-intuitive, highly restrictive, or
 
 When faced with such prompts, an unprepared candidate panics, stumbles into emotional declarations (*« Mais non, c'est impossible ! Les gens vont pleurer ! »*), or runs out of things to say after 60 seconds.
 
-To achieve **C1 (NCLC 8 to 9)** and lock down your immigration safety margin, you must possess an automated cognitive and rhetorical framework for **defending, deconstructing, or reframing any counter-intuitive prompt on the spot**. This lesson codifies that exact protocol.
+To reach **NCLC 8+** and lock down your safety margin above the NCLC 7 threshold, you must possess an automated cognitive and rhetorical framework for **defending, deconstructing, or reframing any counter-intuitive prompt on the spot**. This lesson codifies that exact protocol.
 
 ---
 
@@ -29,13 +29,13 @@ By the end of this lesson, you will be able to:
 
 ### Anatomy of the counter-intuitive oral prompt
 
-Why do language test commissions deliberately utilize counter-intuitive or provocative prompts?
+Why train on counter-intuitive or provocative prompts?
 
-Examiners are not testing whether your personal political opinions align with theirs. They are testing **four specific C1 linguistic competencies**:
+Examiners are not assessing whether your personal political opinions align with theirs. A provocative prompt puts pressure on **four C1-level competencies**:
 1. **Cognitive Agility**: The ability to absorb an unexpected premise and immediately organize ideas into an intelligible argumentative architecture.
 2. **Register Elevation Under Stress**: Maintaining formal, diplomatic French (*le français soutenu*) instead of slipping into informal colloquialisms when caught off guard.
 3. **Discursive Modalization**: The capacity to calibrate degrees of truth, probability, and conditionality without speaking in blunt absolutes.
-4. **Resilience to Adversarial Interruption**: Answering provocative counter-questions from the examiner without losing syntactic composure or showing defensive irritation.
+4. **Composure When the Examiner Intervenes**: Answering a follow-up question or objection from the examiner without losing syntactic composure or showing defensive irritation.
 
 ```
 +-----------------------------------------------------------------------------------+
@@ -118,7 +118,7 @@ In this phase, explain why the absolute or extreme nature of the prompt triggers
 
 - **Formula A (The Risk of Exacerbating Inequalities)**:  
   **« Une telle mesure, si elle venait à être adoptée sans discernement, risquerait d'engendrer des effets pervers diamétralement opposés aux objectifs visés. »**  
-  [yn tɛl məzyʁ sil vənɛt a ɛtʁ adapte sɑ̃ disɛʁnəmɑ̃ ʁiskəʁɛ dɑ̃ʒɑ̃dʁe dez efɛ pɛʁvɛ djametʁaləmɑ̃ ɔpoze oz ɔbʒɛktif vize]  
+  [yn tɛl məzyʁ sil vənɛt a ɛtʁ adɔpte sɑ̃ disɛʁnəmɑ̃ ʁiskəʁɛ dɑ̃ʒɑ̃dʁe dez efɛ pɛʁvɛ djametʁaləmɑ̃ ɔpoze oz ɔbʒɛktif vize]  
   *Such a measure, were it to be adopted indiscriminately, would risk generating perverse effects diametrically opposed to its intended objectives.*
 
 - **Formula B (Retrospective Counterfactual)**:  
@@ -138,7 +138,7 @@ Conclude your monologue by reframing the dilemma into a sustainable public polic
 
 ### Rhetorical strategies for unscripted dialectical defense
 
-During the second half of Task 3, the examiner will interrupt you with direct counter-arguments intended to shake your composure:
+In the real Task 3, the examiner **may** intervene, for example to ask you to clarify a point or to raise an objection; it is not a hostile cross-examination. The sharper objections below are an **explicitly labelled practice drill that goes beyond the real exam**: if you can handle them calmly, genuine follow-up questions will feel easy.
 - *« Mais monsieur/madame, vous ne pensez pas que dans l'urgence actuelle, nous n'avons plus le temps d'attendre des incitations ? »*
 - *« Votre solution va coûter des milliards de dollars aux contribuables, qui va payer ? »*
 - *« Pourquoi refusez-vous d'admettre que les citoyens n'obéissent qu'à la contrainte ? »*
@@ -181,7 +181,7 @@ Examine this live transcript comparison of two candidates responding to the exac
 
 > **Sujet d'examen** : *« Pour lutter efficacement contre le décrochage scolaire et les inégalités, il conviendrait de supprimer totalement les devoirs à la maison dans l'enseignement primaire et secondaire. »*
 
-#### Performance A: B2 Functional Candidate (Score: NCLC 7)
+#### Performance A: B2 Functional Candidate (illustrative level: around NCLC 7)
 > *« Alors... je pense que c'est une proposition intéressante. Les devoirs à la maison, c'est vrai que c'est très fatigant pour les élèves qui ont déjà passé huit heures à l'école. En plus, les parents ne sont pas toujours disponibles pour les aider le soir, parce qu'ils rentrent tard du travail ou qu'ils ne connaissent pas bien les matières. Donc les élèves pauvres ont des mauvaises notes, et ça crée des inégalités. Mais d'un autre côté, si on supprime complètement les devoirs, les élèves vont regarder des écrans ou jouer aux jeux vidéo au lieu d'apprendre. Alors je pense qu'il faut réduire les devoirs, par exemple faire seulement une demi-heure par jour, mais pas les supprimer complètement. »*
 
 **Examiner Diagnosis (B2)**:
@@ -191,7 +191,7 @@ Examine this live transcript comparison of two candidates responding to the exac
 
 ---
 
-#### Performance B: C1 Mastery Candidate (Score: NCLC 9)
+#### Performance B: C1 Mastery Candidate (illustrative level: NCLC 8+)
 > *« Cette suggestion d'abolir l'ensemble des devoirs à domicile soulève un débat pédagogique fondamental : celui de la porosité entre le sanctuaire scolaire et la sphère familiale.  
 > Certes, les partisans de cette abolition mettent en avant un argument sociologique irréfutable : les devoirs constituent un puissant vecteur de reproduction des inégalités socio-culturelles. Lorsque la réussite d'un devoir repose sur l'accompagnement d'un milieu familial favorisé, l'école ne compense plus les disparités : elle les entérine.  
 > Néanmoins, franchir le pas d'une interdiction absolue relèverait d'un remède pire que le mal. D'une part, l'assimilation durable des apprentissages fondamentaux requiert une phase d'autonomisation cognitive en dehors de la salle de classe. D'autre part, couper tout lien pédagogique avec le foyer priverait les parents de tout droit de regard sur la scolarité de leurs enfants.  
@@ -228,7 +228,7 @@ For each prompt below, read the statement, set a 30-second timer, and produce al
 ---
 
 #### Drill 2: Refuting Examiner Interruptions with Diplomatic Concession
-Match each examiner objection to its most sophisticated C1 diplomatic rebuttal.
+*Practice drill (harder than the real exam, where interventions are usually milder).* Match each examiner objection to its most sophisticated C1 diplomatic rebuttal.
 
 | Examiner Objection | C1 Diplomatic Rebuttal Option |
 | :--- | :--- |
@@ -250,9 +250,9 @@ Match each examiner objection to its most sophisticated C1 diplomatic rebuttal.
 #### Québec vs France
 
 Debating public policy in a Canadian context involves recognizing distinct regional institutions and communicative norms:
-- **Higher Education and Demographics**: When debating student debt or access to universities, Québec discourse features **les cégeps** **(QC)** (general and vocational colleges unique to Québec) and controversies surrounding **les frais de scolarité** **(QC)** vs. French *grandes écoles / facultés*.
-- **Labor Disputes**: In Canadian labor debates, commentators often refer to **les moyens de pression** **(QC)** (job action, work-to-rule) or **les débrayages** **(QC)** rather than *le préavis de grève*.
-- **Debate Etiquette**: While French debate culture frequently prizes confrontational polemics and sharp rhetorical sparring, Canadian public debate (e.g. on Radio-Canada's *Midi info*) prioritizes consensus-building, active listening, and constructive nuance (**la recherche de compromis**). Adopting a diplomatic stance (*« Vous soulevez un point tout à fait légitime, néanmoins... »*) is especially favored by TCF Canada raters.
+- **Higher Education and Demographics**: When debating student debt or access to universities, Québec discourse features **les cégeps** **(QC)** (general and vocational colleges unique to Québec) and controversies surrounding **les frais de scolarité** (a pan-French term for tuition fees).
+- **Labor Disputes**: In Canadian labor debates, commentators often refer to **les moyens de pression** (job action, work-to-rule) or **les débrayages** (walkouts); both terms are pan-French, though very frequent in Québec labour news.
+- **Debate Etiquette**: Canadian public debate (e.g. on Radio-Canada's *Midi info*) often emphasizes consensus-building, active listening, and constructive nuance (**la recherche de compromis**). In the exam, a diplomatic stance (*« Vous soulevez un point tout à fait légitime, néanmoins... »*) is always a safe choice.
 
 </div>
 
@@ -286,7 +286,7 @@ Listen to your recording immediately with a stopwatch and transcript pad. Evalua
 <details>
 <summary>View a benchmark transcript for Option A (Commerce en ligne)</summary>
 
-**Benchmark Spontaneous Monologue Transcript (4 minutes 15 seconds)**:
+**Benchmark Spontaneous Monologue Transcript (core skeleton, 249 words)**: at a natural speaking pace this core lasts only about two minutes, so in your recording develop each argument with a concrete example to fill the full 4 minutes 30.
 > *« La proposition d'interdire les plateformes d'achat dématérialisées pour les biens non essentiels s'inscrit au cœur d'une préoccupation contemporaine majeure : la désertification commerciale de nos centres-villes et l'atomisation du tissu social.  
 > À première vue, l'intention de ce projet paraît profondément vertueuse. Il s'agit de protéger nos artisans et commerçants indépendants contre la concurrence déloyale de géants multinationaux qui pratiquent une optimisation fiscale agressive tout en générant une empreinte carbone désastreuse liée aux livraisons individuelles.  
 > Néanmoins, vouloir enrayer cette mutation par un décret prohibitionniste relèverait d'une méconnaissance flagrante des réalités économiques actuelles. D'une part, une interdiction catégorique pénaliserait lourdement les populations des régions éloignées ou à mobilité réduite, pour qui le commerce en ligne constitue le seul canal d'accès à une multitude de biens spécialisés. D'autre part, détruire ces plateformes priverait des milliers de petits producteurs locaux de leur principale vitrine d'exportation vers les marchés extérieurs.  
@@ -303,10 +303,10 @@ Listen to your recording immediately with a stopwatch and transcript pad. Evalua
 
 Test your command of unscripted debate strategy and counter-intuitive prompt handling:
 
-- [Why do TCF Canada examiners intentionally choose provocative and counter-intuitive prompts in Speaking Task 3?](#anatomy-of-the-counter-intuitive-oral-prompt)
+- [Why is it useful to train on provocative and counter-intuitive prompts for Speaking Task 3?](#anatomy-of-the-counter-intuitive-oral-prompt)
 - [What are the three sequential phases of the Reframing Protocol (Le Protocole de Recadrage)?](#the-three-step-reframing-protocol)
 - [How does a candidate execute an "Ancrage conceptuel" in the first 30 seconds without conversational filler?](#the-three-step-reframing-protocol)
-- [What is the Concession-Pivot-Counterattack Triad used to neutralize aggressive examiner interruptions?](#rhetorical-strategies-for-unscripted-dialectical-defense)
+- [What is the Concession-Pivot-Counterattack Triad used to answer examiner objections calmly?](#rhetorical-strategies-for-unscripted-dialectical-defense)
 - [What structural and lexical distinctions elevate a C1 spoken debate response above a functional B2 response?](#spontaneous-oral-models-b2-functional-vs-c1-mastery)
 
 ---
