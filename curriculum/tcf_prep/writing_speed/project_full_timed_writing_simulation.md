@@ -6,20 +6,20 @@ Across the previous four lessons of this module, you systematically deconstructe
 1. **Typing French Under Exam Conditions**: You mastered dead-key combinations on physical QWERTY and AZERTY layouts, eliminated dependence on the slow on-screen accent toolbar, and built a raw typing speed of 25–35 WPM.
 2. **Writing Task 1 Speed Drill**: You internalized the 15-minute operational budget, hitting the 80–95 word sweet spot with modular skeletons and a 3-minute surgical proofreading pass.
 3. **Writing Task 2 Speed Drill**: You mastered the 20-minute budget and the 50/50 bipartite architecture, balancing a past-tense narrative recount with mature civic reflection in 135 words.
-4. **Writing Task 3 Speed Drill**: You learned how to execute rapid conceptual paraphrasing, eliminate verbatim copying penalties, and construct a 155-word dual synthesis and thesis defense in 25 minutes flat.
+4. **Writing Task 3 Speed Drill**: You learned how to execute rapid conceptual paraphrasing, avoid verbatim copying, and construct a ~150-word dual synthesis (about 40–60 words) and opinion (about 80–120 words) and thesis defense in 25 minutes flat.
 
-Now, you must bring all three tasks together in a **full 60-minute, three-task timed simulation** under strict France Éducation international (FEI) rules.
+Now, you must bring all three tasks together in a **full 60-minute, three-task timed simulation** under realistic exam conditions.
 
-In the official TCF Canada, the **Expression écrite** section allows **exactly 60 continuous minutes** for all three tasks. The computer does not stop between tasks; you alone are responsible for allocating your time across the three text boxes. Candidates who lack a rehearsed time-allocation plan almost invariably run out of time during Task 3, leaving their essay unfinished and forfeiting the **NCLC 7 benchmark (10 to 12 points out of 20)** required for Canadian immigration.
+In the official TCF Canada, the **Expression écrite** section allows **60 minutes** for all three tasks, and you are responsible for allocating your time across them. Candidates who lack a rehearsed time-allocation plan often run out of time during Task 3, leaving their essay unfinished and putting the **NCLC 7 benchmark (10–11 out of 20 or higher)** at risk, the threshold for the French CRS bonus and French category-based draws.
 
 ---
 
 ### Before you start
 
-To obtain an uninflated, authentic diagnostic evaluation of your written performance, configure your workstation to simulate an official TCF computer testing center (*TCF-SO*):
+To obtain an uninflated, authentic diagnostic evaluation of your written performance, configure your workstation to simulate computer-based exam conditions:
 
 - **Timer Setup**: Set a digital countdown timer for exactly **60 minutes and 00 seconds**. Place it where you can see the remaining minutes without switching active computer windows.
-- **Hardware & Layout**: Use a desktop or laptop computer with a physical keyboard. Configure your operating system layout to **US-International**, **Canadian Multilingual Standard**, or **AZERTY**.
+- **Hardware & Layout**: Use a desktop or laptop computer with a physical keyboard. Configure your operating system layout to **US-International**, **Canadian French**, **Canadian Multilingual Standard**, or **AZERTY** (whichever your centre uses; ask them).
 - **Zero-Assistance Environment**: Open a blank document in a plain text editor with **all autocorrect, spelling checkers, grammar tools (Antidote, Grammarly), translation extensions, and predictive text strictly disabled**.
 - **No External Dictionaries**: You are not permitted to consult dictionaries, vocabulary lists, or conjugation tables during the 60 minutes.
 - **Sequential Execution**: Complete the tasks in official order: Task 1 (0:00–15:00), Task 2 (15:00–35:00), Task 3 (35:00–60:00).
@@ -83,12 +83,12 @@ Read the two short documents below regarding the rise of digital healthcare and 
 > **Document 2 (Nathalie P., présidente d'une association de patients)**:  
 > « Les consultations virtuelles ne remplaceront jamais un examen clinique approfondi. Cette pratique déshumanise la relation soignant-patient, aggrave la fracture numérique pour les aînés et risque de laisser passer des symptômes graves faute d'auscultation physique. C'est une médecine au rabais guidée par la rentabilité financière. »
 
-**Consigne officielle**:
+**Consigne**:
 > Rédigez un texte suivi de **120 à 180 mots** comprenant :
 > 1. La synthèse objective et neutre des points de vue exprimés dans les deux documents (sans recopier de phrases mot à mot).
 > 2. Votre prise de position personnelle argumentée sur le rôle que la télémédecine doit jouer dans le système de santé moderne.
 
-- **Constraints**: 120 to 180 words. Strictly **zero verbatim copied sequences** of 3 or more words.
+- **Constraints**: 120 to 180 words: about **40–60 words** of synthesis and **80–120 words** of personal opinion. Self-imposed standard: **no copied phrases** from the documents (rephrase every argument).
 - **Execution Target**: Stop typing the moment your master timer strikes **00:00**.
 
 ---
@@ -108,31 +108,34 @@ To document your completion of this milestone simulation and preserve verified p
    - Task 2 submission time: `[MM:SS remaining]`
    - Task 3 submission time: `[MM:SS remaining]`
 4. **Zero-Copying Verification for Task 3**:
-   - Highlight any phrases in your Task 3 that appear in Document 1 or Document 2. Confirm that no sequence of 3 or more words was copied directly.
+   - Highlight any phrases in your Task 3 that appear in Document 1 or Document 2, and rephrase any copied argument (a self-check habit, not an official FEI rule).
 
 ---
 
 #### Scoring Rubric
 
-Evaluate your three tasks against the official France Éducation international (FEI) analytic criteria (each task is rated across 4 criteria on a 5-point scale, converted to a composite score out of 20 points):
+This is an **unofficial self-assessment rubric**. The real exam gives **one overall writing score out of 20**; FEI publishes no per-task or per-criterion marks. Use the criteria below as a checklist, then estimate a single /20 score:
 
-| Evaluation Criterion | Task 1 (Out of 5) | Task 2 (Out of 5) | Task 3 (Out of 5) | NCLC 7 Benchmark Standard |
+| Evaluation Criterion | Task 1 — what to check | Task 2 — what to check | Task 3 — what to check | What a strong (B2-level) text shows |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Respect de la consigne & Réalisation de la tâche** | Respect of 60–120 word limits; covers satisfaction, problem, and concrete proposal. | Respect of 120–150 word limits; 50/50 balance between narrative recount and civic stance. | Respect of 120–180 word limits; objective dual synthesis + justified personal thesis; zero copied phrases. | Full compliance with word counts; all prompt components thoroughly developed without off-topic filler. |
+| **1. Respect de la consigne & Réalisation de la tâche** | Respect of 60–120 word limits; covers satisfaction, problem, and concrete proposal. | Respect of 120–150 word limits; 50/50 balance between narrative recount and civic stance. | Respect of 120–180 word limits; objective dual synthesis + justified personal thesis; no copied phrases. | Full compliance with word counts; all prompt components thoroughly developed without off-topic filler. |
 | **2. Cohérence et cohésion textuelle** | Logical email structure, opening/closing formulas, clear transitions (*cependant, afin de*). | Two visually separated paragraphs; elegant bridge articulator (*cette expérience démontre que*). | Clear rhetorical division between synthesis and personal opinion; dialectical articulators (*tandis que, bien que*). | Clear paragraphing, seamless logical connectors, absence of abrupt topic shifts. |
 | **3. Étendue et maîtrise du lexique** | Appropriate professional vocabulary for training and organizational administration. | Rich vocabulary for emotional reactions, material description, and civic environmental policy. | Accurate reporting verbs (*faire valoir, redouter*) and nuanced argumentative vocabulary (*démocratisation, déshumanisation*). | Varied, idiomatic B2/C1 vocabulary; precise collocations; minimal repetition. |
 | **4. Correction morphosyntaxique** | Accurate *vouvoiement*, conditional of politeness, verb conjugations, and prepositions. | Accurate contrast between *passé composé* and *imparfait*; subjunctive in recommendations; participle agreements. | Complex syntax (concession, hypothesis, relative clauses, passive); flawless accent placements on *à*, *où*, *é*. | High degree of grammatical control; errors are rare and do not impede comprehension. |
 
-#### Official Composite Score and NCLC Conversion Table
+#### Score-to-NCLC Conversion (IRCC equivalency table, Expression écrite)
 
-| Raw FEI Score (out of 20) | CEFR Level | Canadian Benchmark (NCLC) | Express Entry CRS Status |
-| :---: | :---: | :---: | :--- |
-| **17 – 20 pts** | C2 | NCLC 10+ | Exceptional master proficiency |
-| **14 – 16 pts** | C1 | NCLC 8–9 | Advanced comfort; high safety margin |
-| **10 – 13 pts** | **Solid B2** | **NCLC 7 (TARGET)** | **Unlocks full +50 CRS points bonus for French** |
-| **7 – 9 pts** | B1 | NCLC 5–6 | Intermediate; does not qualify for NCLC 7 bonus |
-| **4 – 6 pts** | A2 | NCLC 4 | Elementary survival; basic structural gaps |
-| **0 – 3 pts** | A1 | Below NCLC 4 | Insufficient production or disqualified under-length |
+| TCF Canada writing score (/20) | NCLC |
+| :---: | :---: |
+| **16 – 20** | NCLC 10+ |
+| **14 – 15** | NCLC 9 |
+| **12 – 13** | NCLC 8 |
+| **10 – 11** | **NCLC 7 (TARGET)** |
+| **7 – 9** | NCLC 6 |
+| **6** | NCLC 5 |
+| **4 – 5** | NCLC 4 |
+
+The CRS French bonus requires **NCLC 7 or higher in all four French skills**: it is **50 points** if your English is CLB 5 or higher, or **25 points** if your English is CLB 4 or lower (the two do not stack). NCLC 7 is a threshold, not the maximum: language points keep rising up to CLB 10.
 
 ---
 
@@ -141,7 +144,7 @@ Evaluate your three tasks against the official France Éducation international (
 To obtain an uninflated, rigorous evaluation of your complete 60-minute writing simulation, copy the prompt below and paste it into an AI language tutor along with your three unedited text submissions:
 
 ```markdown
-Vous êtes un examinateur officiel certifié par France Éducation international (FEI) pour l'épreuve d'Expression écrite du TCF Canada.
+Vous jouez le rôle d'un examinateur expérimenté de l'épreuve d'Expression écrite du TCF Canada (il s'agit d'une évaluation d'entraînement, non officielle).
 
 Veuillez évaluer avec la plus grande rigueur académique ma simulation complète de l'épreuve d'Expression écrite réalisée en 60 minutes réelles, sans correcteur orthographique ni assistance extérieure.
 
@@ -159,19 +162,19 @@ Voici mes trois productions :
 Votre rapport d'évaluation doit obligatoirement comprendre les éléments suivants :
 
 1. Contrôle strict de la longueur :
-   - Indiquer le décompte exact de mots pour chaque tâche selon les règles FEI (les élisions comme « j'ai » ou « d'accord » comptent pour 2 mots ; les mots composés avec trait d'union comme « peut-être » comptent pour 1 mot).
-   - Confirmer si chaque texte se situe à l'intérieur des limites officielles et appliquer les pénalités prévues en cas de dépassement ou de sous-dimensionnement.
+   - Indiquer le décompte exact de mots pour chaque tâche (un mot = toute suite de caractères comprise entre deux espaces : « j'ai » et « peut-être » comptent chacun pour 1 mot).
+   - Confirmer si chaque texte se situe à l'intérieur des limites officielles et signaler tout écart, qui pèserait sur la réalisation de la tâche.
 
 2. Audit anti-plagiat pour la Tâche 3 :
-   - Analyser ma Tâche 3 pour vérifier si des séquences de 3 mots ou plus ont été recopiées des documents déclencheurs (sur la télémédecine). Si des séquences copiées existent, les surligner et les déduire de mon total de mots évalués.
+   - Analyser ma Tâche 3 pour repérer les passages recopiés des documents déclencheurs (sur la télémédecine). S'il y en a, les surligner et proposer une reformulation.
 
 3. Évaluation critériée détaillée :
-   - Noter chaque tâche sur une échelle de 1 à 5 pour chacun des 4 critères officiels de la grille FEI (Réalisation de la consigne, Cohérence/cohésion, Lexique, Morphosyntaxe).
-   - Calculer la note globale sur 20 points pour l'ensemble de l'épreuve.
+   - Commenter chaque tâche selon 4 critères (réalisation de la consigne, cohérence/cohésion, lexique, morphosyntaxe), sans inventer de barème officiel par tâche.
+   - Proposer une seule note globale estimée sur 20 pour l'ensemble de l'épreuve.
 
 4. Équivalence NCLC et verdict immigration :
-   - Convertir la note sur 20 en niveau NCLC officiel (NCLC 4 à NCLC 10+).
-   - Confirmer explicitement si ma performance atteint le seuil d'admissibilité du NCLC 7 requis pour le bassin Entrée express d'IRCC.
+   - Convertir la note estimée en NCLC selon le tableau d'équivalence d'IRCC (4-5 = NCLC 4 ; 6 = NCLC 5 ; 7-9 = NCLC 6 ; 10-11 = NCLC 7 ; 12-13 = NCLC 8 ; 14-15 = NCLC 9 ; 16-20 = NCLC 10+).
+   - Indiquer explicitement si ma performance atteint le seuil NCLC 7 (10/20 ou plus), nécessaire pour les points supplémentaires liés au français dans Entrée express.
 
 5. Diagnostic d'erreurs prioritaires :
    - Identifier mes 3 fautes récurrentes les plus graves (accords de participes passés, subjonctif manquant, accents omis, connecteurs maladroits) et fournir la correction explicative pour chacune.
@@ -183,7 +186,7 @@ Votre rapport d'évaluation doit obligatoirement comprendre les éléments suiva
 
 To build an unshakeable psychological buffer for test-day stress:
 
-1. **The 50-Minute Emergency Compression Drill**: Complete a second sitting with a fresh set of three tasks using a timer set to **50 minutes** (Task 1: 10 min; Task 2: 15 min; Task 3: 25 min). Mastering the 50-minute threshold guarantees that the official 60-minute session feels leisurely and comfortable.
+1. **The 50-Minute Emergency Compression Drill**: Complete a second sitting with a fresh set of three tasks using a timer set to **50 minutes** (Task 1: 10 min; Task 2: 15 min; Task 3: 25 min). Mastering the 50-minute threshold makes the real 60-minute session feel far more comfortable.
 2. **Reverse Paraphrasing Exercise**: Take Document 1 and Document 2 from Task 3. Write three completely distinct versions of the synthesis paragraph, using different reporting verbs and grammatical nominalizations for each version.
 
 </div>
@@ -194,7 +197,7 @@ To build an unshakeable psychological buffer for test-day stress:
 
 Consult these free authoritative platforms to practice full written simulations and study high-scoring models:
 
-* [France Éducation international — Guide de l'Expression écrite TCF](https://www.france-education-international.fr/) — Official portal detailing candidate guidelines, rating grids, and sample test tasks.
+* [France Éducation international — Guide de l'Expression écrite TCF](https://www.france-education-international.fr/) — Official portal with the exam description, candidate information, and sample tasks.
 * [TV5Monde — Entraînement complet à l'épreuve écrite du TCF](https://apprendre.tv5monde.com/fr) — Interactive training modules featuring timed writing prompts and evaluated student samples.
 * [Vitrine linguistique (OQLF) — Banque de dépannage linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Comprehensive reference for resolving tricky French spelling, accentuation, and grammatical agreement queries.
 * [Radio-Canada Info — Société et débats d'actualité](https://ici.radio-canada.ca/) — Authentic journalistic articles offering relevant sociological arguments for TCF writing prompts.

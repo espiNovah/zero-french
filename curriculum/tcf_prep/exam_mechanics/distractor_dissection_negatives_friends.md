@@ -4,9 +4,9 @@ On the **TCF Canada**, multiple-choice questions in both **Compréhension orale 
 
 These test designers do not write distractors at random. They construct incorrect answer choices using precise linguistic deception mechanisms that target the known cognitive blind spots of adult language learners.
 
-For candidates preparing for Canadian immigration, the vast majority already possess working fluency in English. Exam designers exploit this bilingual profile by engineering three specific categories of traps that account for over 60% of all upper-tier errors:
+Many candidates preparing for Canadian immigration already have working fluency in English. If that's you, three categories of traps are especially likely to catch you on harder items:
 1. **Reversed Polarity and Negative Scope Traps**: Using restrictive, prefixal, or subtle negative markers (*ne... que*, *sans pour autant*, *loin de là*, *il s'en faut*) that invert the meaning of a sentence, leading candidates to select an option that claims the exact opposite of what was said.
-2. **Deceptive Cognates and False Friends (*Les faux amis*)**: Exploiting English-French lexical divergence (e.g., *éventuellement* does NOT mean "eventually"; *assister* does NOT mean "to assist"; *ignorer* does NOT mean "to deliberately ignore").
+2. **Deceptive Cognates and False Friends (*Les faux amis*)**: Exploiting English-French lexical divergence (e.g., *éventuellement* does NOT mean "eventually"; *assister* does NOT mean "to assist"; *ignorer* traditionally means "not to know", and its "deliberately ignore" sense, though now in dictionaries, is criticized in careful usage).
 3. **Chronological Misdirection (*La confusion temporelle*)**: Entangling past abandoned proposals, current transitional states, and unfulfilled future hypotheses so that candidates select an option describing an idea that was discarded at the beginning of the discussion.
 
 Dismantling these three distractor categories is essential to cross the **NCLC 7 threshold (458 in Listening, 453 in Reading)**. This lesson equips you with surgical diagnostic filters to detect and eliminate them instantly.
@@ -47,7 +47,7 @@ By the end of this lesson, you will be able to:
 
 ### 1. Reversed Polarity and Negative Scope Traps
 
-In everyday French, negation is marked overtly by *ne... pas*. However, on CEFR B2 and C1 exam items, overt *pas* is systematically replaced by sophisticated restrictive, concessive, and prefixal negations:
+In everyday French, negation is marked overtly by *ne... pas*. However, on CEFR B2 and C1 exam items, overt *pas* is often replaced by sophisticated restrictive, concessive, and prefixal negations:
 
 #### A. Restrictive Negation (*Ne... que* and *Ne... guère*)
 - **The *Ne... que* Trap**: *Ne... que* is not a negative negation; it is a **restrictive affirmation** meaning *seulement* (only).
@@ -81,7 +81,7 @@ Writers negate meaning inside single words through prefixes:
 
 #### Exam tip: The Auditory Dropped "Ne" Trap
 
-In conversational Canadian and European French (Listening Items 15–28), native speakers frequently drop the negative particle *ne* entirely:
+In conversational Canadian and European French (common in everyday-dialogue recordings), native speakers frequently drop the negative particle *ne* entirely:
 - *« J'ai vu personne à la gare »* = *Je n'ai vu personne* (Saw nobody).
 - *« Y a plus de places »* = *Il n'y a plus de places* (There are NO places left).
 When listening to rapid speech, train your ears to detect the post-verbal negative words (*personne, rien, plus, jamais*) rather than waiting for *ne*.
@@ -99,9 +99,9 @@ Candidates fluent in English must memorize this high-priority glossary of false 
 | **éventuellement** | eventually (in the end) | **potentially / possibly** | *« Nous pourrions éventuellement ouvrir une succursale »* means *perhaps/if possible*, NOT *finally in the end*. |
 | **assister à** | to assist (help) | **to attend / be present at** | *« Elle a assisté à la conférence »* means she *attended* it as a listener, not that she *helped* the speaker. |
 | **actuellement** | actually (in fact) | **currently / right now** | *« Le poste est actuellement vacant »* means *currently empty*, NOT *actually empty*. |
-| **ignorer** | to ignore (on purpose) | **to be unaware of / not know** | *« Il ignore les règlements »* means he *does not know* them, not that he defies them. |
+| **ignorer** | to ignore (on purpose) | **to be unaware of / not know** (traditional sense); "to deliberately disregard" is also in dictionaries but criticized as an anglicism | *« Il ignore les règlements »* most often means he *does not know* them; let the context decide between the two senses. |
 | **prétendre** | to pretend (make believe) | **to claim / assert firmly** | *« L'accusé prétend être innocent »* means he *claims* innocence, not that he is pretending. |
-| **l'opportunité** | opportunity (chance) | **appropriateness / timeliness** | *« Débattre de l'opportunité de la loi »* means debating whether the law is *wise/advisable*. |
+| **l'opportunité** | opportunity (chance) | **appropriateness / timeliness** (traditional sense); "chance" is also in dictionaries and very common, but criticized (*occasion* is preferred) | *« Débattre de l'opportunité de la loi »* means debating whether the law is *wise/advisable*. |
 | **sensible** | sensible (reasonable) | **sensitive / delicate** | *« Un dossier très sensible »* means a *delicate/contentious issue*, not a logical one. |
 | **un avertissement**| advertisement (pub) | **a warning / caution** | *« Recevoir un avertissement »* means receiving a *formal warning*, not an ad. |
 | **la défiance** | defiance (bold resistance)| **distrust / suspicion** | *« La défiance des usagers »* means citizen *mistrust*, not open rebellion. |
@@ -115,8 +115,8 @@ In Canadian French reading and listening prompts, candidates must navigate disti
 - *pantoute* **(QC)**: Emphatic negation meaning *pas du tout* (*« Il n'a pas compris pantoute »* = He didn't understand at all).
 - *avoir de la misère à* **(QC)**: Means *avoir de la difficulté à* (having a hard time doing something), NOT experiencing poverty or misery.
 - *de valeur* **(QC)**: Means *regrettable / dommage* (*« C'est bien de valeur »* = That's really unfortunate/too bad), NOT of great monetary value.
-- *une bâtisse* **(QC)**: A neutral, standard term in Canadian administrative real estate for a building (*un immeuble*), whereas in France it often carries a colloquial or pejorative connotation of a clumsy masonry structure.
-- *canceller* **(QC)**: Common oral anglicism for *annuler*. On the official exam, the distractor may test whether you recognize standard *annuler* as the paraphrase of an informal speaker saying *« ils ont cancellé le vol »*.
+- *une bâtisse* **(QC, familiar)**: Very common in everyday Québec speech for any building; the standard terms are *un bâtiment / un immeuble*. In France it usually suggests a large, rather plain or unattractive building.
+- *canceller* **(QC)**: Common oral anglicism for *annuler*. On the exam, a distractor may test whether you recognize standard *annuler* as the paraphrase of an informal speaker saying *« ils ont cancellé le vol »*.
 
 </div>
 
@@ -124,7 +124,7 @@ In Canadian French reading and listening prompts, candidates must navigate disti
 
 ### 3. Chronological Misdirection and Temporal Traps
 
-In upper-tier recordings and texts (items 26–39), debates involve complex temporal timelines:
+In harder recordings and texts (later in the test), debates involve complex temporal timelines:
 
 ```
 PAST / DISCARDED                   PRESENT / REALITY                  FUTURE / CONDITIONAL
@@ -149,9 +149,9 @@ la succursale... »                 maintenir les services... »        pourrait
 
 #### Case Study 1: Restrictive Negation in Listening
 
-> **Audio Script (Item 24) :**  
+> **Audio Script :**  
 > *« — Alors monsieur Tremblay, le programme de recyclage communautaire fonctionne bien dans votre quartier ?  
-> — Écoutez, le projet a été lancé avec tambour et trompette, mais sur le terrain, **ça ne touche guère que** les familles du centre-ville. Dans les quartiers périphériques, **à défaut de** bacs de collecte suffisants, les résidents continuent de jeter leurs matières organiques aux ordures régulières. »*
+> — Écoutez, le projet a été lancé en grande pompe, mais sur le terrain, **ça ne touche guère que** les familles du centre-ville. Dans les quartiers périphériques, **à défaut de** bacs de collecte suffisants, les résidents continuent de jeter leurs matières organiques aux ordures régulières. »*
 
 **Question : Que constate monsieur Tremblay au sujet du recyclage des matières organiques ?**
 - **A)** Il est adopté avec enthousiasme par l'ensemble des résidents de la municipalité.
@@ -184,7 +184,7 @@ la succursale... »                 maintenir les services... »        pourrait
 
 #### Case Study 2: Deceptive Cognate & Chronology in Reading
 
-> **Text Excerpt (Item 32) :**  
+> **Text Excerpt :**  
 > *« Les promoteurs immobiliers affirment que le nouveau quartier résidentiel permettra **éventuellement** de résorber la crise du logement. Pourtant, **loin d'ignorer** les contraintes écologiques, le conseil municipal a imposé un moratoire strict sur les permis de construire, **à moins que** les promoteurs ne s'engagent à préserver la zone humide riveraine. »*
 
 **Question : Quelle est la position du conseil municipal face au projet immobilier ?**
@@ -195,7 +195,7 @@ la succursale... »                 maintenir les services... »        pourrait
 
 *Correct Answer: **A**.*  
 - Paraphrases *« imposé un moratoire strict [...] à moins que les promoteurs ne s'engagent à préserver »*.
-- Distractor B falls for the false friend *ignorer* (text says *loin d'ignorer* = they are very well aware of them!).
+- Distractor B plays on *ignorer* (the text says *loin d'ignorer* = far from being unaware of them, the council takes them fully into account!).
 - Distractor C reverses polarity (*moratoire* vs *permis délivrés*).
 - Distractor D misinterprets *éventuellement* as a certainty and adds absolute adverbs (*définitivement*).
 
@@ -242,7 +242,7 @@ Rewrite each sentence into standard French without using *ne*:
 
 1. *Le comité a retenu seulement deux candidatures sur cinquante.*
 2. *Cette mesure règle très peu (ou presque pas) les déséquilibres régionaux.*
-3. *Le président n'a pas démissionné du tout ; au contraire, il a réaffirmé son autorité.*
+3. *Au lieu de démissionner, le président a réaffirmé son autorité.*
 
 </details>
 
@@ -257,7 +257,7 @@ Identify the true French meaning in each context:
 <details>
 <summary>View Solutions</summary>
 
-1. **(B) The appropriateness/wisdom**: *L'opportunité* here means *le caractère opportun* (suitability).
+1. **(B) The appropriateness/wisdom**: *L'opportunité* here means *le caractère opportun* (suitability). (The "chance" sense exists in everyday usage, but it doesn't fit this legal context.)
 2. **(B) A possibility**: *Éventuellement* expresses hypothesis (*potentially / possibly*), not chronological inevitability.
 
 </details>
@@ -338,7 +338,7 @@ Confirm your mastery of distractor dissection before proceeding to reading pacin
 
 This section provides verified links to high-quality external resources for ongoing distractor awareness:
 
-* [France Éducation international — Spécifications du TCF Canada](https://www.france-education-international.fr/) — Official portal detailing psychometric question design and distraction principles.
+* [France Éducation international — Spécifications du TCF Canada](https://www.france-education-international.fr/) — Official exam description and candidate information.
 * [OQLF — Vitrine linguistique : Les faux amis de l'anglais](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Complete government glossary of English-French false friends, false cognates, and deceptive idioms.
 * [Radio-Canada Info — Enquêtes et grands dossiers](https://ici.radio-canada.ca/info) — In-depth Francophone journalism with complex conditional, restrictive, and concessive syntax.
 * [La Presse — Débats et analyses de société](https://www.lapresse.ca/) — High-quality Canadian editorial prose ideal for practicing chronological and polarity deconstruction.

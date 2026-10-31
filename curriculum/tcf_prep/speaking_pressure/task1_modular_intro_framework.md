@@ -1,17 +1,17 @@
 ### Introduction
 
-In the **Expression orale** section of the TCF Canada, you step into a closed examination room (or face a computer recording console) for a continuous 12-minute oral interaction. While Task 2 (the 3.5-minute interactive roleplay) and Task 3 (the 4.5-minute abstract monologue) receive extensive preparation, **Task 1 is where the certified France Éducation international (FEI) examiner establishes their baseline perception of your CEFR competence**.
+In the **Expression orale** section of the TCF Canada, you sit face to face with an examiner for a 12-minute oral test in three tasks. While Task 2 (the 3.5-minute interactive roleplay) and Task 3 (the 4.5-minute abstract monologue) receive extensive preparation, **Task 1 is where the examiner forms a first impression of your level**.
 
-The official parameters of Task 1 appear straightforward: an unscripted conversation of **exactly two minutes without preparation**. The examiner invites you to introduce yourself:
+The official parameters of Task 1 (*entretien dirigé*) appear straightforward: a guided conversation of **two minutes, with no preparation**. The examiner may open by inviting you to introduce yourself, for example:
 > **« Bonjour, installez-vous. Pour commencer, pouvez-vous vous présenter, me parler de vous, de votre parcours et de vos centres d'intérêt ? »**  
-> — /bɔ̃.ʒuʁ ɛ̃s.ta.le vu. puʁ kɔ.mɑ̃.se pu.ve vu vu pʁe.zɑ̃.te mə paʁ.le də vu də vɔtʁ paʁ.kuʁ e də ve sɑ̃tʁ d‿ɛ̃.te.ʁɛ/  
+> — /bɔ̃.ʒuʁ ɛ̃s.ta.le vu. puʁ kɔ.mɑ̃.se pu.ve vu vu pʁe.zɑ̃.te mə paʁ.le də vu də vɔtʁ paʁ.kuʁ e də vo sɑ̃tʁ d‿ɛ̃.te.ʁɛ/  
 > *Hello, please sit down. To begin, could you introduce yourself, tell me about yourself, your background, and your interests?*
 
 Untrained candidates fall into one of two crippling traps:
 1. **The 35-Second Monosyllabic Stall**: They list their name, age, job, and city, and then stop dead in uncomfortable silence, forcing the examiner to drag information out of them with awkward prompts.
 2. **The Recited Robotic Monologue**: They memorize a rigid 120-word speech. The moment the examiner interrupts with a spontaneous follow-up question (*« Pourquoi avoir choisi ce métier ? »*), their mental script collapses, revealing that their fluent intro was merely rote recitation.
 
-To achieve an automatic B2/C1 rating on Task 1, you must deploy a **modular, Lego-brick framework**: four interchangeable 25-second thematic components (Identity & Specialization, Career Trajectory, Civic/Personal Passions, and the Canadian Horizon) that can be expanded, contracted, or paused fluidly to accommodate spontaneous examiner interruptions.
+To give a strong B2-level impression on Task 1, deploy a **modular, Lego-brick framework**: four interchangeable 25-second thematic components (Identity & Specialization, Career Trajectory, Civic/Personal Passions, and the Canadian Horizon) that can be expanded, contracted, or paused fluidly to accommodate spontaneous examiner interruptions.
 
 ---
 
@@ -32,24 +32,24 @@ Unlike writing tasks where you can pause and delete typos, speaking is delivered
 1. **The Conversational Partner**: They guide the interaction, signal time transitions, and prompt you if you freeze.
 2. **The Forensic Evaluator**: They are listening for phonetic clarity, morphological accuracy (gender agreement, verb tenses), syntactic range (subordinate clauses vs simple sentences), and interactive naturalness.
 
-#### Official FEI Timing and Psychometric Expectations
+#### A Suggested Two-Minute Plan (Study Heuristic)
 
-Task 1 is officially timed at **2 minutes total**:
+Task 1 is officially timed at **2 minutes total**. FEI does not publish a minute-by-minute script; the breakdown below is only a practice plan that shows how the time might unfold:
 
 | Time Window | Candidate Action & Interaction Dynamic |
 | :--- | :--- |
 | **0:00 – 0:15** | Warm greeting, seating, formal introductory greeting, setting the professional tone. |
 | **0:15 – 1:15** | Candidate delivers Modules 1, 2, and 3 fluidly (approx. 50–60 seconds of continuous speech). |
-| **1:15 – 1:55** | Examiner interjects with 1 or 2 targeted spontaneous follow-up questions to test unscripted agility. |
-| **1:55 – 2:00** | Candidate wraps up answer; examiner closes Task 1 and transitions to Task 2 roleplay prep. |
+| **1:15 – 1:55** | The examiner may ask one or two follow-up questions (or may ask questions earlier — be ready either way). |
+| **1:55 – 2:00** | Candidate wraps up answer; examiner closes Task 1 and moves on to Task 2. |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: Examiner Interruption Protocol
+#### Exam tip: Examiner Questions Are Normal
 
-Many candidates panic when the examiner interrupts them after 45 seconds. They assume they did something wrong or spoke too fast. 
+Many candidates panic when the examiner cuts in with a question after 45 seconds. They assume they did something wrong or spoke too fast. 
 
-In reality, **examiner interruptions are mandatory FEI protocol**. Examiners are explicitly instructed to interrupt candidate monologues to verify whether the speaker can handle spontaneous conversational turn-taking. If you speak without pausing for two minutes like a recording, the examiner cannot assess your interactive listening competence. Welcome the interruption as an opportunity to demonstrate B2 conversational flexibility.
+In reality, Task 1 is an *entretien dirigé* — a **guided interview**. Asking you questions is simply how the examiner conducts it, not a sign of a problem. If you recite a memorized speech for two minutes like a recording, you show little of your ability to interact. Welcome the question as an opportunity to demonstrate B2 conversational flexibility.
 
 </div>
 
@@ -59,12 +59,12 @@ Notice how the same biographical facts can be expressed at an elementary A2 leve
 
 - **Elementary A2 Profile**:
   > *« Je m'appelle Karim. J'ai 32 ans. Je suis ingénieur en informatique. J'habite à Tunis. Je suis marié et j'ai un enfant. J'aime le football et la lecture. Je veux immigrer au Canada pour travailler. »*
-  > *Score impact*: Monosyllabic, repetitive subject-verb-object structures, zero complex connectors, elementary vocabulary. Capped at A2/B1.
+  > *Score impact*: Monosyllabic, repetitive subject-verb-object structures, zero complex connectors, elementary vocabulary. Typical of an A2/B1 performance.
 
 - **Advanced B2 Modular Profile**:
   > **« Je m'appelle Karim, j'ai 32 ans et je suis originaire de Tunis, où j'exerce en tant qu'ingénieur logiciel depuis près d'une décennie. Passionné par les systèmes distribués, j'ai eu l'opportunité de piloter plusieurs projets d'envergure internationale dans le secteur financier. Parallèlement à mes engagements professionnels, je consacre une grande partie de mon temps libre à l'encadrement bénévole de jeunes développeurs. Aujourd'hui, mon ambition est de m'établir au Canada afin de mettre mon expertise au service de l'écosystème technologique québécois. »**  
   > — /ʒə m‿a.pɛl ka.ʁim ʒ‿e tʁɑ̃t.dø.z‿ɑ̃ e ʒə sɥi ɔ.ʁi.ʒi.nɛʁ də ty.nis u ʒ‿ɛɡ.zɛʁs ɑ̃ tɑ̃ k‿ɛ̃.ʒe.njœʁ lɔ.ʒi.sjɛl də.pɥi pʁɛ d‿yn de.se.ni/
-  > *Score impact*: Relative pronoun *où*, nominalization (*l'encadrement bénévole*), complex temporal marker (*depuis près d'une décennie*), professional purpose. Immediate solid B2/C1 baseline.
+  > *Score impact*: Relative pronoun *où*, nominalization (*l'encadrement bénévole*), complex temporal marker (*depuis près d'une décennie*), professional purpose. A strong B2-level first impression.
 
 ---
 
@@ -124,7 +124,7 @@ Avoid listing every job you ever had. Highlight a single career accomplishment o
 #### Module 3: Passions & Personal Balance (20–25 Seconds)
 Examiners want to see that you can speak about topics outside your resume. Choose a hobby that allows you to demonstrate active sensory and emotional vocabulary:
 - **Formulas**:
-  - **« En dehors de ma vie professionnelle, je suis un passionné de course à pied et d'activités en plein air. »** — /ɑ̃ də.ɔʁ də ma vi pʁɔ.fɛ.sjɔ.nɛl ʒə sɥi œ̃ pa.sjɔ.ne də kuʁs a pje e d‿ak.ti.vi.te ɑ̃ plɛ̃n‿ɛʁ/ (*Outside my professional life, I am passionate about running and outdoor activities.*)
+  - **« En dehors de ma vie professionnelle, je suis un passionné de course à pied et d'activités en plein air. »** — /ɑ̃ də.ɔʁ də ma vi pʁɔ.fɛ.sjɔ.nɛl ʒə sɥi œ̃ pa.sjɔ.ne də kuʁs a pje e d‿ak.ti.vi.te ɑ̃ plɛ.n‿ɛʁ/ (*Outside my professional life, I am passionate about running and outdoor activities.*)
   - **« Cette discipline sportive m'aide à canaliser mon énergie et à cultiver la persévérance. »** — /sɛt di.si.plin spɔʁ.tiv m‿ɛd a ka.na.li.ze mɔ̃n‿e.nɛʁ.ʒi e a kyl.ti.ve la pɛʁ.se.ve.ʁɑ̃s/ (*This athletic discipline helps me channel my energy and cultivate perseverance.*)
   - **« Je m'investis également dans une association locale visant à... »** — /ʒə m‿ɛ̃.vɛs.ti e.ɡal.mɑ̃ dɑ̃.z‿yn a.sɔ.sja.sjɔ̃ lɔ.kal vi.zɑ̃ a/ (*I am also invested in a local association aimed at...*)
 
@@ -142,8 +142,8 @@ Conclude by stating why you are taking the TCF Canada and how your profile fits 
 When describing your educational credentials and career trajectory during Task 1, note the crucial differences between European and Canadian terminology:
 - In France, *le baccalauréat* (or *le bac*) refers to the secondary school diploma completed at age 18. In Québec and across Canada, **le baccalauréat** **(QC)** (or *le bac*) refers to an undergraduate university bachelor's degree (3 to 4 years of higher education).
 - For graduate studies, European French uses *le master*, whereas Canadian institutions use **la maîtrise** **(QC)**.
-- While European French speakers refer to *le CV et la lettre de motivation*, Canadian institutions and employers frequently ask for **le curriculum vitae et la lettre de présentation** **(QC)** outlining your **cheminement professionnel** **(QC)**.
-Both registers are recognized by TCF raters, but using Canadian terminology when outlining your settlement plans in Canada demonstrates authentic socio-cultural awareness.
+- While European French speakers refer to *le CV et la lettre de motivation*, Canadian institutions and employers frequently ask for **le curriculum vitae** (pan-French) **et la lettre de présentation** **(QC)** outlining your **cheminement professionnel** **(QC)**.
+Both sets of terms are correct French, but using Canadian terminology when outlining your settlement plans in Canada demonstrates authentic socio-cultural awareness.
 
 </div>
 
@@ -151,7 +151,7 @@ Both registers are recognized by TCF raters, but using Canadian terminology when
 
 ### Handling unexpected examiner follow-ups and interjections
 
-When the examiner interrupts, they typically ask one of three categories of questions. Having immediate conversational starter formulas prevents freezing.
+When the examiner asks a follow-up, it often falls into one of three broad categories (a study grouping, not an official list). Having immediate conversational starter formulas prevents freezing.
 
 ```
 +-------------------------------------------------------------------+
@@ -220,13 +220,13 @@ Record your voice note covering:
 <details>
 <summary>View benchmark transcript and timing audit</summary>
 
-**Benchmark Spoken Model (142 words, ~68 seconds delivery)**:
+**Benchmark Spoken Model (125 words, ~60 seconds delivery)**:
 > **Bonjour. Je m'appelle Amina Belkacem, j'ai 29 ans et je réside à Alger, où j'exerce le métier de pharmacienne hospitalière depuis quatre ans. Passionnée par la santé publique, j'ai récemment coordonné la mise en place d'un protocole de sécurisation du circuit des médicaments au sein de notre établissement, un projet exigeant qui a mobilisé une équipe pluridisciplinaire.**  
 > **Sur le plan personnel, je pratique l'escalade et la randonnée en montagne depuis mon adolescence. Cette activité m'a appris à cultiver la patience, la gestion du risque et l'esprit d'entraide.**  
 > **Aujourd'hui, mon projet de vie s'oriente vers le Canada. Je souhaite vivement intégrer le réseau de santé québécois afin de contribuer à l'accès aux soins tout en offrant à ma famille un cadre de vie épanouissant et multiculturel.**
 
 **Timing and Metric Analysis**:
-- Word count: 142 words.
+- Word count: 125 words.
 - Natural delivery pace: ~125 words per minute (clean, articulate B2 rhythm).
 - Grammatical diversity: Relative clauses (*où j'exerce*, *qui a mobilisé*), nominalization (*mise en place*, *sécurisation*), prepositions with infinitives (*afin de contribuer*, *tout en offrant*).
 
@@ -303,7 +303,7 @@ Start an unedited 2-minute audio recording:
 Test your mastery of Speaking Task 1 operational tactics:
 
 - [What is the exact official duration of Speaking Task 1 on the TCF Canada exam?](#the-2-minute-unscripted-reality-of-speaking-task-1)
-- [Why is an examiner interruption during Task 1 considered a normal and desirable occurrence rather than a penalty?](#the-2-minute-unscripted-reality-of-speaking-task-1)
+- [Why is an examiner question during Task 1 a normal occurrence rather than a penalty?](#the-2-minute-unscripted-reality-of-speaking-task-1)
 - [What are the specific thematic components of the Four-Module Self-Introduction Framework?](#the-four-module-self-introduction-architecture)
 - [How can a candidate transform a basic hobby or interest into a sophisticated B2 linguistic demonstration?](#the-four-module-self-introduction-architecture)
 - [What tactical conversational formulas can be used to buy three seconds of thinking time when caught off guard by an unexpected question?](#handling-unexpected-examiner-follow-ups-and-interjections)
@@ -314,7 +314,7 @@ Test your mastery of Speaking Task 1 operational tactics:
 
 Consult these free authoritative platforms to refine your spoken self-presentation:
 
-* [France Éducation international — Épreuve d'expression orale du TCF](https://www.france-education-international.fr/) — Official scoring rubrics, examiner assessment criteria, and video demonstrations of the interview.
+* [France Éducation international — Épreuve d'expression orale du TCF](https://www.france-education-international.fr/) — Official description of the speaking test and candidate information (check the current TCF Canada pages).
 * [TV5Monde — Entraînement à l'expression orale TCF](https://apprendre.tv5monde.com/fr) — Interactive modules covering conversational self-presentation, question management, and phonetics.
 * [Radio-Canada — Témoignages de nouveaux arrivants au Canada](https://ici.radio-canada.ca/) — Authentic audio stories of Francophone immigrants explaining their settlement experiences and career transitions.
 * [Lawless French — Professional and Conversational French](https://www.lawlessfrench.com/) — Reference guides on formal French interview vocabulary, register conventions, and transitional discourse markers.

@@ -1,15 +1,15 @@
 ### Introduction
 
-On the **TCF Canada Compréhension orale (CO)**, candidates are tested not only on French phonology and syntax, but on **emotional regulation and real-time psychological resilience under computer-delivered pressure**.
+On the **TCF Canada Compréhension orale (CO)**, candidates are tested not only on French phonology and syntax, but on **emotional regulation and real-time psychological resilience under exam conditions**.
 
 The single most common psychological failure mode among intermediate and advanced candidates is the **Domino Collapse Phenomenon**:
-1. At Item 23, the candidate encounters an audio snippet with ambient street noise or an unfamiliar Canadian regional contraction. They miss the crucial verb.
-2. The recording ends, the chime sounds, but instead of clicking an educated guess and moving on, the candidate freezes, agonized by self-doubt.
-3. The computer interface automatically advances to Item 24. While the silent 10-second preview window for Item 24 is ticking away, the candidate's working memory is still trapped in Item 23, frantically trying to replay the missed acoustic fragments.
-4. The recording for Item 24 begins while the candidate is still reading its question stem. Blindsided, they miss Item 24 as well.
-5. Panic sets in. Heart rate spikes, cognitive bandwidth narrows, and a single missed 15-second audio causes a catastrophic chain reaction that wipes out five consecutive items—turning an easy **NCLC 7 (458 points)** into a failing NCLC 5 or 6.
+1. At a challenging item, the candidate encounters an audio snippet with ambient noise or an unfamiliar regional contraction. They miss a crucial element.
+2. The recording ends, but instead of clicking an educated guess and moving on, the candidate freezes, agonized by self-doubt.
+3. While the time to examine the next item is ticking away, the candidate's working memory is still trapped in the previous question, frantically trying to replay the missed acoustic fragments.
+4. The recording for the next item begins while the candidate is still reading its choices. Blindsided, they miss that item as well.
+5. Panic sets in. Heart rate spikes, cognitive bandwidth narrows, and a single missed audio passage causes a chain reaction across consecutive items—turning an achievable **NCLC 7 (458 points)** into a disappointing result.
 
-To prevent this emotional downward spiral, you must master the **Five-Second Drop Rule**: a non-negotiable mental protocol that treats the post-audio chime as an absolute psychological guillotine. The moment that chime sounds, you have exactly five seconds to execute a binary elimination, commit to an answer, and flush the previous question from your working memory forever.
+To prevent this emotional downward spiral, you must master the **Five-Second Drop Rule**: a mental habit of moving on immediately. The moment a recording finishes and you have selected your best guess, flush the previous question from your working memory and dedicate 100% of your attention to the next item.
 
 ---
 
@@ -18,9 +18,9 @@ To prevent this emotional downward spiral, you must master the **Five-Second Dro
 By the end of this lesson, you will be able to:
 - Understand the psycholinguistics of cognitive overload and the **Domino Collapse Phenomenon**.
 - Execute the **Four-Step Five-Second Drop Protocol** at the conclusion of every single listening recording.
-- Apply **Mathematical Reframing**: internalizing why sacrificing up to 10 questions is fully compatible with achieving a top-tier NCLC 7 or NCLC 8 score.
+- Apply **Psychological Reframing**: internalizing why you do not need a perfect score to achieve NCLC 7 or higher.
 - Deploy somatic grounding techniques (diaphragmatic reset, posture anchoring) at the computer workstation to halt exam-day adrenaline spikes.
-- Maintain unbroken focus during the 10-second preview windows across all 39 listening items.
+- Maintain unbroken focus and readiness across all 39 listening items.
 
 ---
 
@@ -32,95 +32,92 @@ Why does hesitating on a missed question cause such disproportionate destruction
 ┌───────────────────────────────────────────────────────────────────────────┐
 │              THE ANATOMY OF A PSYCHOLOGICAL DOMINO COLLAPSE               │
 ├───────────────────────────────────────────────────────────────────────────┤
-│ [Item 23 Audio Finishes] ──► Candidate is undecided between B and C.       │
+│ [Audio Finishes]          ──► Candidate is undecided; ruminates.          │
 │                                                                           │
-│ [Chime Sounds (0:00)]    ──► Candidate refuses to guess; ruminates.       │
+│ [Decision Hesitation]     ──► Candidate refuses to guess; loses time.     │
 │                                                                           │
-│ [Item 24 Preview Begins] ──► Working memory is 100% occupied by Item 23.  │
-│                              Candidate FAILS to preview Item 24!          │
+│ [Next Question Window]    ──► Working memory is 100% occupied by the past │
+│                               item. Candidate FAILS to scan next choices! │
 │                                                                           │
-│ [Item 24 Audio Starts]   ──► Blindsided candidate tries to read & listen  │
-│                              simultaneously ──► Complete cognitive crash! │
+│ [Next Audio Starts]       ──► Blindsided candidate tries to read & listen │
+│                               simultaneously ──► Cognitive overload!      │
 │                                                                           │
-│ [Item 25 & 26]           ──► Panic, racing pulse, cascading failure.     │
+│ [Subsequent Items]        ──► Panic, racing pulse, cascading errors.      │
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
 #### The Sunk Cost Fallacy in Standardized Testing
 In economics, the **sunk cost fallacy** refers to continuing to invest resources into an endeavor that has already failed. 
 
-In the computerized TCF:
-- Once an audio recording stops playing, **it will never play again**.
+In the TCF Listening test:
+- Once an audio recording stops playing, **it will not play again**.
 - No amount of staring at the screen can reconstruct acoustic information your ear did not register.
-- Lingering on Item 23 does not increase your chances of getting Item 23 right; it merely **guarantees that you will get Item 24 wrong as well**.
+- Lingering on a missed question does not increase your chances of getting it right; it merely **compromises your preparation for the next question**.
 
-The chime is your signal that Item 23 is dead. You must bury it instantly and focus 100% of your cognitive power on the living: Item 24.
+When the audio ends, that question is finished. Make your best selection and focus 100% of your cognitive power on the upcoming item.
 
 ---
 
 ### The Five-Second Drop Protocol: Step-by-Step Execution
 
-When the chime sounds at the end of an audio recording, you have exactly five seconds before the interface advances. Execute this strict, four-step drill:
+When an audio recording concludes, take no more than five seconds to choose your answer and move forward:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
 │                 THE FOUR-STEP FIVE-SECOND DROP PROTOCOL                   │
-├──────────────┬──────────────┬─────────────────────────────────────────────┤
-│ Second       │ Operational Action                                         │
-├──────────────┼──────────────┼─────────────────────────────────────────────┤
-│ **Second 1** │ **Instant Binary Elimination**: Look at the two options     │
-│              │ you know are least plausible. Mentally strike them out.     │
-├──────────────┼──────────────┼─────────────────────────────────────────────┤
-│ **Second 2** │ **The Softer Language Filter**: If torn between two choices,│
-│              │ pick the option using more moderate, hedged language.       │
-├──────────────┼──────────────┼─────────────────────────────────────────────┤
-│ **Second 3** │ **The Physical Click**: Click the radio button firmly.     │
-│              │ Commit completely. Do not look back.                       │
-├──────────────┼──────────────┼─────────────────────────────────────────────┤
-│ **Second 4** │ **The Diaphragmatic Exhale**: Release a sharp, deep breath. │
-│              │ Drop your shoulders. Purge the question from memory.        │
-├──────────────┼──────────────┼─────────────────────────────────────────────┤
-│ **Second 5** │ **Screen Reset**: Lock your eyes onto the next question stem│
-│              │ as the 10-second countdown begins. Clean slate!             │
-└──────────────┴──────────────┴─────────────────────────────────────────────┘
+├──────────────┬────────────────────────────────────────────────────────────┤
+│ Step         │ Operational Action                                         │
+├──────────────┼────────────────────────────────────────────────────────────┤
+│ **Step 1**   │ **Instant Elimination**: Discard the options you know are  │
+│              │ least plausible. Mentally strike them out.                 │
+├──────────────┼────────────────────────────────────────────────────────────┤
+│ **Step 2**   │ **The Softer Language Filter**: If torn between two        │
+│              │ choices, consider the option using more moderate language. │
+├──────────────┼────────────────────────────────────────────────────────────┤
+│ **Step 3**   │ **The Decisive Selection**: Click your chosen option       │
+│              │ firmly. Commit completely. Do not second-guess yourself.   │
+├──────────────┼────────────────────────────────────────────────────────────┤
+│ **Step 4**   │ **Diaphragmatic Reset & Forward Focus**: Release a steady  │
+│              │ breath, drop your shoulders, and face the next stem.       │
+└──────────────┴────────────────────────────────────────────────────────────┘
 ```
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: Never Leave a Blank Screen
+#### Exam tip: Never Leave an Item Blank
 
-On the computer exam, if you do not click an option before the timer runs out, the computer records an unanswered question. There is **zero negative marking on the TCF Canada** (an incorrect guess incurs no point deduction). An educated guess between two remaining options has a **50% probability of being correct**. Leaving it blank gives you a 0% probability. Always click an answer before the chime fades!
+There is **no negative marking on the TCF Canada** (an incorrect guess incurs no penalty). An educated guess between remaining options gives you a statistical chance of gaining points; leaving an item blank gives you a 0% chance. Always select an answer before moving on!
 
 </div>
 
 ---
 
-### Cognitive Reframing: The Mathematics of Strategic Sacrifice
+### Cognitive Reframing: You Do Not Need a Perfect Score
 
-The root cause of exam panic is the subconscious belief that you must answer every question correctly. Let us dismantle this myth using the official scoring tables of France Éducation international:
+The root cause of exam panic is the subconscious belief that you must answer every question correctly. TCF Canada Compréhension orale items are weighted by psychometric difficulty, and scores are reported on a scaled curve:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
-│               THE COGNITIVE COMFORT BUFFER: LISTENING (CO)                │
-├───────────────────────┬──────────────┬──────────────┬─────────────────────┤
-│ Target Level          │ Raw Score    │ Scaled Score │ Allowable Errors    │
-├───────────────────────┼──────────────┼─────────────────────────────────────┤
-│ **NCLC 7 (Upper B2)** │ **29 / 39**  │ **458 pts**  │ **10 WRONG ANSWERS**│
-│ (Express Entry Bonus) │              │              │ permitted!          │
-├───────────────────────┼──────────────┼─────────────────────────────────────┤
-│ **NCLC 8 (C1)**       │ **33 / 39**  │ **503 pts**  │ **6 WRONG ANSWERS** │
-│ (Comfortable Safety)  │              │              │ permitted!          │
-├───────────────────────┼──────────────┼─────────────────────────────────────┤
-│ **NCLC 9 (Upper C1)** │ **35 / 39**  │ **535 pts**  │ **4 WRONG ANSWERS** │
-└───────────────────────┴──────────────┴─────────────────────────────────────┘
+│                 IRCC NCLC BENCHMARKS FOR LISTENING (CO)                   │
+├───────────────────────┬───────────────────────────────────────────────────┤
+│ NCLC Level            │ Scaled Score Range (0–699 pts)                    │
+├───────────────────────┼───────────────────────────────────────────────────┤
+│ **NCLC 7 (Target)**   │ **458 – 502 pts** (Threshold for French bonus)    │
+├───────────────────────┼───────────────────────────────────────────────────┤
+│ **NCLC 8**            │ **503 – 522 pts**                                 │
+├───────────────────────┼───────────────────────────────────────────────────┤
+│ **NCLC 9**            │ **523 – 548 pts**                                 │
+├───────────────────────┼───────────────────────────────────────────────────┤
+│ **NCLC 10+**          │ **549 – 699 pts**                                 │
+└───────────────────────┴───────────────────────────────────────────────────┘
 ```
 
-#### The Power of Strategic Sacrifice
-Look closely at the NCLC 7 requirements:
-- To achieve the maximum immigration score, you only need **29 correct answers out of 39**.
-- You can afford to **completely miss 10 questions** and still comfortably walk out of the test center with a certified NCLC 7!
-- When you encounter an impossibly fast, muffled, or obscure recording at Item 31, do not view it as a failure. View it as **one of your 10 allocated free passes**. 
-- Say to yourself mentally: *« C'est l'un de mes dix jokers »* (This is one of my ten jokers). Click your best guess, drop it in two seconds, and protect the next question where you are guaranteed to score.
+#### The Power of Strategic Detachment
+Look closely at the NCLC 7 requirement:
+- The threshold for NCLC 7 in Listening is **458 points** (out of 699).
+- There is no published raw-to-scaled conversion because items are weighted by difficulty. You do not need a perfect score to clear the NCLC 7 threshold.
+- When you encounter an unusually fast, muffled, or complex recording, do not treat it as a catastrophe. Treat it as an expected difficulty spike on a progressive exam.
+- Select your best guess, let it go in five seconds, and protect your focus for the upcoming questions where you can secure solid points.
 
 ---
 
@@ -133,7 +130,7 @@ To instantly reboot your nervous system at the computer desk:
 | Somatic Technique | Physical Execution | Neurological Effect |
 | :--- | :--- | :--- |
 | **1. Bilateral Foot Anchoring** | Press both soles of your shoes flat into the testing room floor with firm, conscious pressure. | Re-activates sensory proprioception, pulling attention out of racing panic loops. |
-| **2. The Extended Exhale (4-7-8)** | Inhale quietly through the nose for 2 seconds, then exhale slowly through pursed lips for 5 seconds. | Stimulates the vagus nerve and activates the parasympathetic nervous system, lowering heart rate. |
+| **2. The Extended Exhale (4-7-8)** | Inhale quietly through the nose for 4 seconds, hold the breath for 7 seconds, then exhale slowly through pursed lips for 8 seconds. | Stimulates the vagus nerve and activates the parasympathetic nervous system, lowering heart rate. |
 | **3. Peripheral Vision Softening** | Widen your gaze to notice the borders of the computer monitor rather than glaring intently at a single word. | Breaks focal tunnel vision and reduces sympathetic adrenaline arousal. |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -164,12 +161,11 @@ Execute the protocol in 5 seconds:
 2. *Second 3*: Between B and C, B matches the complaint topic with moderate language (*pénalise lourdement les ménages*). Click B!
 3. *Second 4-5*: Exhale, drop, face the next question.
 
-#### Drill 2: Calculating Your Joker Budget
-Review your performance on your last practice test:
-- Questions 1–20: How many did you get correct? (Target: 18/20).
-- If you have 18 points banked at Item 20, you only need **11 correct answers out of the final 19 items** to reach NCLC 7!
-- How many jokers do you have remaining for Items 21–39? **8 jokers!**  
-*Internalizing this math completely removes the panic of encountering a difficult audio passage.*
+#### Drill 2: Managing Difficult Passages
+During practice tests, track which questions cause you to hesitate:
+- Notice how much time you spend second-guessing choices after the audio ends.
+- Practice committing to your best elimination within 5 seconds on the hardest items of your session.
+- Verify whether moving on quickly helped you stay calm and attentive for subsequent items.
 
 ---
 
@@ -228,10 +224,10 @@ Confirm your mental resilience tactics before beginning timed practice sprints:
    [Review introduction to the five-second drop rule](#introduction)
 2. What are the four specific actions that compose the Five-Second Drop Protocol?  
    [Review the five-second drop protocol: step-by-step execution](#the-five-second-drop-protocol-step-by-step-execution)
-3. How many questions can a candidate miss on the Listening test and still comfortably achieve NCLC 7?  
-   [Review cognitive reframing: the mathematics of strategic sacrifice](#cognitive-reframing-the-mathematics-of-strategic-sacrifice)
+3. What is the scaled score threshold for NCLC 7 in Listening, and why is aiming for perfection unnecessary?  
+   [Review cognitive reframing: you do not need a perfect score](#cognitive-reframing-you-do-not-need-a-perfect-score)
 4. Why is leaving an answer choice blank under computer-delivered TCF conditions an unforced strategic error?  
-   [Review exam tips on never leaving a blank screen](#the-five-second-drop-protocol-step-by-step-execution)
+   [Review exam tips on never leaving an item blank](#the-five-second-drop-protocol-step-by-step-execution)
 5. What physical grounding techniques can you deploy at your computer desk during an adrenaline blackout?  
    [Review somatic grounding techniques for exam blackouts](#somatic-grounding-techniques-for-exam-blackouts)
 

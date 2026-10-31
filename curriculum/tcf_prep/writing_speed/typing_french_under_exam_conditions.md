@@ -2,9 +2,9 @@
 
 In the computerized version of the TCF Canada (*TCF sur ordinateur* or *TCF-SO*), the **Expression écrite** section poses an unexpected and devastating obstacle for many candidates: **typing in French under strict time limits without spellcheck, autocorrect, or word completion**.
 
-In daily life, smartphones, email clients, and word processors automatically capitalize initial letters, insert acute and grave accents, insert apostrophes, and correct minor typos. When you sit in an accredited exam center in Toronto, Montreal, Paris, Dubai, or Dakar, however, the test delivery software provides only a stark text area and an on-screen accent toolbar. If you must use your mouse to click on an on-screen button every time you need an **é**, an **à**, a **ç**, or an **ê**, you will lose between **four and seven minutes** across the 60-minute writing test. That lost time is often the difference between completing the crucial Task 3 synthesis or being cut off mid-paragraph.
+In daily life, smartphones, email clients, and word processors automatically capitalize initial letters, insert acute and grave accents, insert apostrophes, and correct minor typos. When you sit in an accredited exam center in Toronto, Montreal, Paris, Dubai, or Dakar, however, expect none of that help: a plain text area, possibly with an on-screen accent palette (check your centre and the FEI candidate guide for what your interface offers). If you must use your mouse to click on an on-screen button every time you need an **é**, an **à**, a **ç**, or an **ê**, you will lose several minutes across the 60-minute writing test. That lost time is often the difference between completing the crucial Task 3 synthesis or being cut off mid-paragraph.
 
-Furthermore, France Éducation international (FEI) examiners enforce strict morphological penalties: omitting an accent on **« a »** versus **« à »**, or writing **« mange »** instead of **« mangé »**, changes the grammatical identity of the word and degrades your score on the *Correction morphosyntaxique* criterion.
+Furthermore, omitting an accent on **« a »** versus **« à »**, or writing **« mange »** instead of **« mangé »**, changes the grammatical identity of the word: the examiner reads it as a grammar error, not a typo, and such errors weigh on your overall writing score.
 
 This lesson equips you with the exact hardware setups, operating system keyboard layouts, dead-key muscle memory, and typing benchmarks required to type at least **25 to 35 words per minute in French** on standard physical keyboards without looking at your fingers or reaching for the mouse.
 
@@ -13,25 +13,25 @@ This lesson equips you with the exact hardware setups, operating system keyboard
 ### Lesson overview
 
 By the end of this lesson, you will be able to:
-- Configure your personal computer with the exact keyboard layouts used in international TCF test centers (QWERTY US-International, Canadian Multilingual Standard, and AZERTY).
+- Configure your personal computer with the keyboard layouts you are most likely to meet in TCF test centers (QWERTY US-International, Canadian French, Canadian Multilingual Standard, and AZERTY).
 - Execute French accents (*accent aigu*, *accent grave*, *accent circonflexe*, *tréma*, *cédille*) using fluent two-key combinations without mouse clicks.
 - Manage typographical conventions unique to written French, including non-breaking spaces before high punctuation, mandatory apostrophes, and hyphens.
-- Recognize and eliminate the ten most common accent-related grammatical confusions evaluated on the FEI rubric.
-- Benchmark and drill your raw typing speed to reach the minimum 30 words-per-minute threshold necessary to complete all three writing tasks comfortably within 60 minutes.
+- Recognize and eliminate the most common accent-related grammatical confusions.
+- Benchmark and drill your raw typing speed toward a study target of about 30 words per minute, enough to complete all three writing tasks comfortably within 60 minutes.
 
 ---
 
 ### The exam center keyboard reality: Hardware, layouts, and zero-autocorrect
 
-Before entering the examination room, you must know what physical setup awaits you. Test centers worldwide generally fall into three geographic hardware categories:
+Before entering the examination room, you must know what physical setup awaits you. FEI does not publish a list of centre keyboards, so **ask your own centre**; the patterns below are only what you can commonly expect:
 
 1. **North America (English Canada and the United States)**:
    - Physical keyboards are standard **QWERTY** (ANSI layout).
-   - In Canadian test centers, the operating system is typically configured to either **US-International** or **Canadian Multilingual Standard (CMS)**.
+   - Canadian centers may configure the operating system as **US-International**, **Canadian French (CA-FR)**, or **Canadian Multilingual Standard (CMS)**.
 2. **Québec and Francophone Canada**:
-   - Keyboards often feature bilingual Canadian physical keycaps, using the **Canadian Multilingual Standard** (often referred to as *clavier canadien-français*).
+   - Keyboards often feature bilingual Canadian physical keycaps, using either the **Canadian French** layout (*clavier canadien-français*, CA-FR) or the **Canadian Multilingual Standard** (CMS). These are two different layouts.
 3. **France, Belgium, and North/West Africa**:
-   - Physical keyboards are almost exclusively **AZERTY** (French standard layout).
+   - Physical keyboards are usually **AZERTY** (French standard layout).
 4. **Other International Centers (Latin America, Asia, Middle East, Europe non-Francophone)**:
    - Physical keyboards are standard **QWERTY**, with Windows or Linux operating systems set to **US-International** or providing an on-screen accent palette.
 
@@ -39,8 +39,7 @@ Before entering the examination room, you must know what physical setup awaits y
 
 #### Exam tip: The on-screen accent palette is a trap
 
-The official TCF computer software displays a small digital palette above the text box containing clickable buttons for:
-`é`, `è`, `ê`, `ë`, `à`, `â`, `ù`, `û`, `ô`, `î`, `ï`, `ç`, `œ`, `æ`.
+Computer-based exam interfaces often offer a small on-screen palette of clickable accented characters (for example `é`, `è`, `ê`, `à`, `ç`, `œ`). Check the FEI candidate guide or ask your centre what yours provides.
 
 While this palette is a helpful backup for rare characters like **« œ »**, relying on it for everyday vowels will cripple your pacing. Clicking on-screen buttons requires taking your hand off the keyboard, moving the cursor, clicking, and relocating the home typing row. Typing 350 words across the three tasks with ~70 accented characters means **70 mouse interruptions**. You must type all accents directly from the physical keyboard.
 
@@ -52,14 +51,14 @@ While this palette is a helpful backup for rare characters like **« œ »**, re
 
 The physical keyboard layout you will face varies depending on where you sit the exam:
 - **In France, Belgium, and North/West Africa**: Centers use physical **AZERTY** keyboards (`A` and `Q` swapped, `Z` and `W` swapped, numbers requiring Shift).
-- **In Québec and English Canada**: Centers use physical **QWERTY** keyboards. In Québec, keyboards are set to **Canadian Multilingual Standard (CMS)**, which provides dedicated single keys for common accented letters (e.g. `é` on the `/` key). In English Canada (Toronto, Vancouver, Ottawa), computers typically run **US-International** with dead keys (`' + e = é`, `` ` + a = à ``).
-Always inquire with your test center when registering to confirm their keyboard layout!
+- **In Québec and English Canada**: Centers generally use physical **QWERTY** keyboards. In Québec, the software layout is often **Canadian French (CA-FR)** or **Canadian Multilingual Standard (CMS)**; CMS provides dedicated single keys for common accented letters (e.g. `é` on the `/` key). In English Canada (Toronto, Vancouver, Ottawa), computers may run **US-International** with dead keys (`' + e = é`, `` ` + a = à ``).
+None of this is published centrally: always ask your test center when registering to confirm their keyboard layout!
 
 </div>
 
 #### The Zero-Autocorrect Standard
 
-The test interface runs in a locked-down browser environment (such as Safe Exam Browser or a proprietary FEI kiosk application). Under these conditions:
+Expect a locked-down exam interface with no writing aids. Plan for these conditions:
 - **No red squiggly lines**: Misspelled words are not underlined.
 - **No auto-capitalization**: Starting a new sentence after a period requires holding the `Shift` key.
 - **No auto-apostrophe**: Typing `jai` will remain `jai`; you must actively type **« j'ai »**.
@@ -105,9 +104,9 @@ Train this **apostrophe-spacebar-vowel** sequence until it becomes an automatic 
 
 #### 2. The Canadian Multilingual Standard Layout (CMS)
 
-If you test in Canada, the computers are frequently set to the **Canadian Multilingual Standard** (often indicated by a keyboard icon showing *CF* or *CMS* in the taskbar). CMS provides direct single-key access to the most common French characters on a physical QWERTY keyboard:
+If you test in Canada, the computers may be set to the **Canadian Multilingual Standard** (ask your centre; do not assume). CMS provides direct single-key access to the most common French characters on a physical QWERTY keyboard:
 
-- **é**: Dedicated key located on the key immediately to the right of `l` (where `;` is on standard US QWERTY).
+- **é**: Dedicated key located on the `/` key (bottom row, to the left of the right `Shift`).
 - **è**: Dedicated key located on the `'` key.
 - **à**: Dedicated key located on the `\` key.
 - **ç**: Dedicated key located on the `]` key.
@@ -129,7 +128,7 @@ If you test in France, Belgium, or certain African test centers, the keyboard ph
   - `0` produces **à**
   - `ù` has its own dedicated key next to the Enter key.
 
-If you are not accustomed to AZERTY, taking an exam on one without prior practice will reduce your typing speed by 70%. If your test center is in an AZERTY zone, you must practice on an AZERTY layout for at least two weeks before exam day.
+If you are not accustomed to AZERTY, taking an exam on one without prior practice will slow your typing dramatically. If your test center is in an AZERTY zone, you must practice on an AZERTY layout for at least two weeks before exam day.
 
 ---
 
@@ -147,13 +146,13 @@ Omitting an accent in French frequently turns a verb into a preposition, or an a
 | **où** | Relative pronoun/adverb (*where*) | **ou** | Conjunction (*or*) | **La ville où nous habitons ou travaillons.** — /la vil u nu.z‿a.bi.tɔ̃ u tʁa.va.jɔ̃/ — *The city where we live or work.* |
 | **la** / **le** | Definite article (*the*) | **là** | Adverb of place/time (*there*) | **Restez là pendant la réunion.** — /ʁɛs.te la pɑ̃.dɑ̃ la ʁe.y.njɔ̃/ — *Stay there during the meeting.* |
 | **dû** | Past participle of *devoir* | **du** | Contracted article (*de + le*) | **Il a dû payer le prix du billet.** — /i.l‿a dy pe.je lə pʁi dy bi.jɛ/ — *He had to pay the price of the ticket.* |
-| **sûr** | Adjective (*sure, certain*) | **sur** | Preposition (*on, upon*) | **Je suis sûr de la poser sur la table.** — /ʒə sɥi syʁ də la po.ze syʁ la tabl/ — *I am sure I put it on the table.* |
+| **sûr** | Adjective (*sure, certain*) | **sur** | Preposition (*on, upon*) | **Je suis sûr de l'avoir posée sur la table.** — /ʒə sɥi syʁ də la.vwaʁ po.ze syʁ la tabl/ — *I am sure I put it on the table.* |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip: Past participle vs Infinitive (-é vs -er)
 
-The most heavily penalized spelling mistake in French is substituting the infinitive **-er** for the past participle **-é** (or vice versa):
+The most common and costly spelling mistake in French is substituting the infinitive **-er** for the past participle **-é** (or vice versa):
 - Incorrect: *« J'ai participer à la conférence. »*
 - Correct: **« J'ai participé à la conférence. »** — /ʒe paʁ.ti.si.pe a la kɔ̃.fe.ʁɑ̃s/ — *I participated in the conference.*
 
@@ -214,7 +213,7 @@ While composing text at 11.5 words per minute sounds modest, remember that **com
 - You hesitate over subjunctive conjugations and relative pronouns.
 - You backspace to restructure sentences.
 
-Empirical studies of computer-based language examinations show that candidates need a **raw mechanical typing speed of at least 25 to 35 words per minute (WPM)** in French to achieve an effective composing speed of 12 WPM. If your raw mechanical speed is only 15 WPM, drafting 375 words will consume 45 to 50 minutes, leaving you with zero time for outlining or proofreading.
+As a rule of thumb (a study heuristic, not a published figure), aim for a **raw mechanical typing speed of about 25 to 35 words per minute (WPM)** in French so that your effective composing speed can reach about 12 WPM. If your raw mechanical speed is only 15 WPM, drafting 375 words will consume 45 to 50 minutes, leaving you with zero time for outlining or proofreading.
 
 #### Ergonomic Posture for High-Speed Typing
 
@@ -250,9 +249,9 @@ Disable autocorrect and spellcheck completely in your text editor. Type the foll
 **Target Completion Time**: Under 3 minutes (approx. 35 WPM). If this took longer than 4.5 minutes, your accent muscle memory is slowing down your written production.
 
 **Typographical Audit Checklist**:
-1. Sentence 1: Did you write **« J'ai »** (apostrophe) and **« déjà »** (two accents: aigu and grave)? Did you capitalize **« Montréal »** with its acute accent? Did you put the circumflex on **« août »**?
+1. Sentence 1: Did you write **« J'ai »** (apostrophe) and **« déjà »** (two accents: aigu and grave)? Did you capitalize **« Montréal »** with its acute accent? Did you type **« d'août »** with its apostrophe and the circumflex on the **û**, without accidental dead-key errors?
 2. Sentence 2: Did you distinguish between **« Où »** (grave accent on where) and **« a »** (no accent on the verb *avoir*)?
-3. Sentence 3: Did you type **« d'août »** and **« dehors »** without accidental dead-key spacing errors? Did you use the grave on **« très »** and **« préférons »**?
+3. Sentence 3: Did you use the grave accent on **« très »** and the two acute accents on **« préférons »**?
 4. Sentence 5: Did you include the hyphen in the formal inversion **« Pourriez-vous »**?
 5. Sentence 7: Did you put the circumflex on **« dû »** (past participle of *devoir*) to distinguish it from the article *du*?
 6. Sentence 8: Did you put the cédille on **« garçon »**?
@@ -269,7 +268,7 @@ Master these 12 technical and exam-specific terms, noting their phonetic pronunc
 | :--- | :--- | :--- | :--- |
 | **Le clavier** | /lə kla.vje/ | The keyboard | Standard -er noun |
 | **La touche** | /la tuʃ/ | The key (button) | Vowel /u/ |
-| **L'accent aigu** | /l‿ak.sɑ̃ ɛ.ɡy/ | The acute accent (´) | Mandatory elision + /y/ |
+| **L'accent aigu** | /l‿ak.sɑ̃.t‿e.ɡy/ | The acute accent (´) | Mandatory elision + /y/ |
 | **L'accent grave** | /l‿ak.sɑ̃ ɡʁav/ | The grave accent (`) | Open vowel /a/ |
 | **Le circonflexe** | /lə siʁ.kɔ̃.flɛks/ | The circumflex (^) | Nasal vowel /ɔ̃/ |
 | **Le tréma** | /lə tʁe.ma/ | The diaeresis (¨) | Closed /e/ |
@@ -282,27 +281,27 @@ Master these 12 technical and exam-specific terms, noting their phonetic pronunc
 
 ---
 
-#### Step 3: Receptive Reading Task: Official Computer Exam Interface Regulations
+#### Step 3: Receptive Reading Task: Fictional Practice Text on Computer Exam Rules
 
-Read the following informational extract regarding the computer software used for TCF examinations, then answer the three comprehension questions below:
+Read the following extract, then answer the three comprehension questions below. **This is a fictional practice text written for this lesson, not an FEI document.** For the real rules, read your *convocation* and the FEI candidate rules.
 
-> **Règlement officiel des épreuves sur ordinateur (TCF-SO) — Consignes relatives à la saisie de texte**
+> **Texte d'entraînement (fictif) — Consignes relatives à la saisie de texte lors d'une épreuve sur ordinateur**
 > 
-> Lors de l'épreuve d'Expression écrite, les candidats composent leurs trois textes directement sur le poste informatique assigné par le centre agréé. Il est formellement rappelé que les claviers physiques mis à disposition correspondent aux normes locales du pays de passation (généralement QWERTY au Canada, AZERTY en France). Aucun changement de configuration matérielle n'est autorisé en cours d'épreuve.
+> Lors de l'épreuve d'Expression écrite, les candidats composent leurs trois textes directement sur le poste informatique attribué par le centre. Le type de clavier mis à disposition dépend du centre de passation : il appartient donc à chaque candidat de se renseigner auprès de celui-ci avant le jour de l'examen. Il est demandé de ne pas modifier la configuration du poste en cours d'épreuve.
 > 
-> Le logiciel d'examen intègre un bandeau de caractères spéciaux cliquables permettant d'insérer les lettres accentuées propres à la langue française. Toutefois, l'utilisation exclusive de ce bandeau relève de la responsabilité du candidat et peut pénaliser le temps global de composition. Les correcteurs automatiques d'orthographe et de grammaire sont rigoureusement désactivés sur tous les postes. Tout recours à une extension de navigateur, un raccourci de traduction ou un logiciel tiers entraîne l'annulation immédiate de la session pour fraude.
+> Le logiciel peut proposer un bandeau de caractères spéciaux cliquables permettant d'insérer les lettres accentuées propres à la langue française. Toutefois, l'utilisation exclusive de ce bandeau relève de la responsabilité du candidat et peut ralentir la composition. Aucun correcteur d'orthographe ni de grammaire n'est mis à la disposition des candidats. Tout recours à une aide extérieure (extension de navigateur, outil de traduction, logiciel tiers) est interdit et expose le candidat aux sanctions prévues par le règlement de l'épreuve.
 
 **Comprehension Questions**:
-1. Que stipule le règlement concernant la configuration matérielle des claviers pendant l'épreuve ?
+1. Que recommande le texte au sujet du clavier et de la configuration du poste ?
 2. Quel avertissement implicite le texte donne-t-il concernant l'utilisation du bandeau de caractères accentués à l'écran ?
-3. Quelles sont les conséquences encourues par un candidat qui tenterait d'activer un outil d'assistance linguistique sur son poste ?
+3. À quoi s'expose un candidat qui tenterait d'utiliser un outil d'assistance linguistique sur son poste ?
 
 <details>
 <summary>Check your comprehension answers</summary>
 
-1. **Aucun changement de configuration matérielle n'est autorisé** en cours d'épreuve ; les candidats doivent composer sur le clavier physique correspondant à la norme locale du pays de passation.
-2. Bien que le bandeau existe, **son utilisation exclusive peut pénaliser le temps global de composition**, ce qui ralentit l'écriture et réduit le temps disponible pour terminer les tâches.
-3. Toute tentative d'utiliser une extension ou un logiciel tiers entraîne **l'annulation immédiate de la session pour fraude**.
+1. Le type de clavier **dépend du centre** : le candidat doit **se renseigner auprès de celui-ci avant l'examen**, et il ne doit **pas modifier la configuration du poste** pendant l'épreuve.
+2. Bien que le bandeau existe, **son utilisation exclusive peut ralentir la composition**, ce qui ralentit l'écriture et réduit le temps disponible pour terminer les tâches.
+3. Toute aide extérieure est interdite : le candidat s'expose **aux sanctions prévues par le règlement de l'épreuve** (le texte ne précise pas lesquelles ; consultez les règles officielles de FEI).
 
 </details>
 
@@ -310,14 +309,14 @@ Read the following informational extract regarding the computer software used fo
 
 #### Step 4: Productive Timed Typing Drill (The 80-Word No-Autocorrect Sprint)
 
-Set a countdown timer for **3 minutes and 00 seconds**. In a plain text editor with all spellcheckers disabled, type the following official Task 1 prompt response without looking at your hands or touching the mouse:
+Set a countdown timer for **3 minutes and 00 seconds**. In a plain text editor with all spellcheckers disabled, type the following model Task 1 response without looking at your hands or touching the mouse:
 
 > **Bonjour Monsieur le Directeur,**  
-> **Je vous écris afin de vous faire part de mon intérêt pour le poste d'agent d'accueil publié sur votre site. Titulaire d'un diplôme en communication et fort de trois années d'expérience dans le secteur touristique, je suis convaincu de pouvoir répondre aux exigences de votre établissement. Je me tiens à votre entière disposition pour tout entretien à votre convenance.**  
+> **Je vous écris afin de vous faire part de mon intérêt pour le poste d'agent d'accueil publié sur votre site. Titulaire d'un diplôme en communication et fort de trois années d'expérience dans le secteur touristique, je suis convaincu de pouvoir répondre aux exigences de votre établissement. Vous trouverez ci-joint mon curriculum vitae ainsi qu'une lettre de recommandation. Je me tiens à votre entière disposition pour tout entretien à votre convenance.**  
 > **Je vous prie d'agréer, Monsieur, mes salutations distinguées.**
 
-- Total words: **75 words**.
-- Minimum passing speed: Complete within 2 minutes 30 seconds with 100% accurate accents and zero spelling mistakes.
+- Total words: **82 words** (space-delimited count).
+- Personal target (study benchmark): complete within 2 minutes 45 seconds with 100% accurate accents and zero spelling mistakes.
 
 </div>
 
@@ -340,7 +339,7 @@ Test your understanding of the keyboard mechanics and typing rules taught in thi
 The following free platforms offer dedicated drills for building French keyboard muscle memory:
 
 * [TypingClub — French Keyboard Typing Course](https://www.typingclub.com/) — A completely free touch-typing tutor featuring exercises specifically customized for French accent layouts and dead keys.
-* [France Éducation international — Manuel du candidat TCF](https://www.france-education-international.fr/) — Official guidelines outlining computer station specifications and exam delivery rules.
+* [France Éducation international — Manuel du candidat TCF](https://www.france-education-international.fr/) — Official candidate information and exam rules; check here (and with your centre) for anything about the computer interface.
 * [Keybr — Custom Typing Practice](https://www.keybr.com/) — Generate custom French text drills to practice typing high-frequency accented digrams and grammatical elisions without autocorrect.
 * [OQLF — Vitrine linguistique : Guide de typographie française](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Authoritative rules for French capital letters with accents, non-breaking spaces, and official punctuation standards.
 

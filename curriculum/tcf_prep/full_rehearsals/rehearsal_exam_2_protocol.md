@@ -10,7 +10,7 @@ In sports science and high-stakes performance psychology, an athlete never tests
 - Your session may be scheduled at 8:00 AM after a restless night, or at 2:00 PM during a post-lunch circadian dip.
 - An examiner might look tired, brisk, or formal during your oral interview.
 
-The **Rehearsal Exam 2 Protocol** introduces **deliberate environmental adversity** into your testing routine, forcing your newly acquired B2 reflexes—the 10-second prediction sweep, the 15/15/30 reading pace, the 155-word writing synthesis, and the Rule of Three monologue—to execute automatically despite ambient distractions.
+The **Rehearsal Exam 2 Protocol** introduces **deliberate environmental adversity** into your testing routine, forcing your newly acquired B2 reflexes—the prediction sweep of the options, the 15/15/30 reading pace, the 155-word writing synthesis, and the Rule of Three monologue—to execute automatically despite ambient distractions.
 
 ---
 
@@ -18,16 +18,16 @@ The **Rehearsal Exam 2 Protocol** introduces **deliberate environmental adversit
 
 By the end of this lesson, you will be able to:
 - Configure your second full-dress simulation under **deliberate environmental adversity** to inoculate against real test-center friction.
-- Execute all four competencies—Listening (35 min), Reading (60 min), Writing (60 min), and Speaking (12 min)—using a fresh, unattempted official test battery.
+- Execute all four competencies—Listening (35 min), Reading (60 min), Writing (60 min), and Speaking (12 min)—using a fresh, unattempted practice test battery.
 - Validate that the corrective prescriptions from the 7-day sprint eliminated the specific failure modes identified in Sitting #1.
-- Conduct a **Comparative Delta Analysis** measuring net gains in raw scores, scaled points, and NCLC benchmark stability.
+- Conduct a **Comparative Delta Analysis** measuring net gains in scores and NCLC benchmark stability.
 - Calculate your **Safety Margin Index (SMI)** to determine whether your score is comfortably fortified against bad test-day conditions.
 
 ---
 
 ### The validation objective: Testing under deliberate environmental adversity
 
-A fragile B2 score is one that depends on perfect silence, a comfortable chair, and zero stress. If a minor technical hitch or noisy room drops your score from 465 to 445 points in Listening, you fall below NCLC 7 and forfeit 50 Express Entry points.
+A fragile B2 score is one that depends on perfect silence, a comfortable chair, and zero stress. If a minor technical hitch or noisy room drops your score from 465 to 445 points in Listening, you fall below NCLC 7 and forfeit the French-language Express Entry bonus.
 
 To make your NCLC 7 benchmark indestructible, configure Rehearsal Sitting #2 with the following **three stress inoculation conditions**:
 
@@ -57,7 +57,7 @@ In computer testing rooms, candidates begin and finish tasks at slightly differe
 #### Exam tip: The Unattempted Material Rule
 
 You cannot measure valid progress by retrying the exact questions from Rehearsal Exam 1. Recognizing correct answers from memory creates a dangerous illusion of competence.
-- You must use a **completely fresh, previously unattempted official test battery** for Rehearsal Sitting #2 (available on TV5Monde TCF simulator Series B or C, or an official France Éducation international sample book).
+- You must use a **completely fresh, previously unattempted practice test battery** for Rehearsal Sitting #2 (for example, a different test from a reputable TCF practice book or France Éducation international sample material you have not used yet).
 
 </div>
 
@@ -65,7 +65,7 @@ You cannot measure valid progress by retrying the exact questions from Rehearsal
 
 ### The complete 4-skill mock protocol and timing benchmarks
 
-Execute Rehearsal Sitting #2 in a continuous block following the official sequence:
+Execute Rehearsal Sitting #2 in a continuous block, in this sequence:
 
 ```
 [00:00 - 00:05] Hardware Verification & Ambient Interference Setup
@@ -82,21 +82,21 @@ Execute Rehearsal Sitting #2 in a continuous block following the official sequen
 During this second sitting, consciously monitor the execution of the four critical habits:
 
 1. **In Listening**:
-   - Did you execute the 10-second vertical sweep before every audio snippet?
-   - Did you apply the Five-Second Drop Rule when encountering difficult items? Verify that your score log shows **zero clusters of consecutive wrong answers**.
-2. **In Reading**:
+   - Did you execute a quick vertical sweep of the options before every audio snippet?
+   - Did you apply the drop-and-move-on rule (Five-Second Drop) when encountering difficult items? Verify that your score log shows **zero clusters of consecutive wrong answers**.
+2. **In Reading** (personal study checkpoints, not official rules):
    - Checkpoint 1 (at 45:00 on screen): Item 15 submitted.
    - Checkpoint 2 (at 30:00 on screen): Item 27 submitted.
    - Did you preserve a full 25 to 30 minutes for Items 28 to 39?
 3. **In Writing**:
    - Task 1: Finished in 12 min (80–95 words).
-   - Task 2: Finished in 16 min (130–145 words; balanced 50/50 structure).
+   - Task 2: Finished in 16 min (130–145 words; balanced two-part structure, a study heuristic).
    - Task 3: Finished in 20 min (150–165 words; zero copied phrases; nominalization applied).
    - Full 5-minute proofreading pass executed before timer expiry.
 4. **In Speaking**:
    - Task 1: Delivered 4 modules smoothly; answered follow-up with a bridge filler.
-   - Task 2: 10+ questions asked using shorthand notes; negotiated the examiner's obstacle.
-   - Task 3: Spoke for at least 4 minutes and 15 seconds using the Rule of Three lenses without stalling.
+   - Task 2: Varied, relevant questions asked using shorthand notes; built on the examiner's answers.
+   - Task 3: Spoke for at least 4 minutes and 15 seconds using the Rule of Three lenses without stalling, and handled any examiner questions smoothly.
 
 ---
 
@@ -108,39 +108,43 @@ Once all four sections are completed and scored, you must calculate the **Delta 
 
 Construct a comparative evaluation table in your score log:
 
-| Test Component | Mock Sitting #1 Raw | Mock Sitting #1 Scaled | Mock Sitting #2 Raw | Mock Sitting #2 Scaled | Net Delta ($\Delta$) | Validated NCLC Level |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Compréhension orale** | / 39 | pts | / 39 | pts | $+/-$ pts | NCLC |
-| **Compréhension écrite** | / 39 | pts | / 39 | pts | $+/-$ pts | NCLC |
-| **Expression écrite** | / 20 | pts | / 20 | pts | $+/-$ pts | NCLC |
-| **Expression orale** | / 20 | pts | / 20 | pts | $+/-$ pts | NCLC |
+| Test Component | Mock Sitting #1 Score | Mock Sitting #2 Score | Net Delta ($\Delta$) | Validated NCLC Level |
+| :--- | :---: | :---: | :---: | :---: |
+| **Compréhension orale** | / 699 | / 699 | $+/-$ pts | NCLC |
+| **Compréhension écrite** | / 699 | / 699 | $+/-$ pts | NCLC |
+| **Expression écrite** | / 20 | / 20 | $+/-$ pts | NCLC |
+| **Expression orale** | / 20 | / 20 | $+/-$ pts | NCLC |
+
+Use the IRCC equivalency table from Rehearsal Exam 1 to fill in the NCLC column.
 
 #### Calculating Your Safety Margin Index (SMI)
 
-In high-stakes immigration testing, reaching the exact borderline threshold is dangerous. If the NCLC 7 floor is 458 points in Listening, a score of 459 points leaves a safety margin of only **1 point** (a single lucky guess). If test-day anxiety costs you one question, your score drops to NCLC 6.
+In high-stakes immigration testing, reaching the exact borderline threshold is dangerous. If the NCLC 7 floor is 458 points in Listening, a score of 459 points leaves a safety margin of only **1 point**. If test-day anxiety costs you a single question, your score can drop to NCLC 6.
 
 Calculate your Safety Margin Index for each skill:
 
 $$\text{Safety Margin (Listening)} = \text{Scaled Score} - 458\text{ points}$$
 $$\text{Safety Margin (Reading)} = \text{Scaled Score} - 453\text{ points}$$
-$$\text{Safety Margin (Writing)} = \text{Scaled Score} - 10\text{ points (out of 20)}$$
-$$\text{Safety Margin (Speaking)} = \text{Scaled Score} - 10\text{ points (out of 20)}$$
+$$\text{Safety Margin (Writing)} = \text{Score out of 20} - 10\text{ points}$$
+$$\text{Safety Margin (Speaking)} = \text{Score out of 20} - 10\text{ points}$$
 
-| Safety Margin Status | Quantitative Buffer | Strategic Meaning |
-| :--- | :--- | :--- |
-| **Danger Zone (Borderline)** | $+0$ to $+15$ points ($+0$ to $+1$ raw item) | High risk. A single difficult audio track or ambiguous reading text will derail your NCLC 7. |
-| **Safe Zone (Comfortable B2)** | $\mathbf{+25\text{ to }+50\text{ points}}$ ($\mathbf{+2\text{ to }+4\text{ raw items}}$) | **Optimal Target**. Immune to normal test-day noise, mild sleep deprivation, or strict examiners. |
-| **Mastery Zone (Solid C1)** | $+55\text{ points or more}$ ($+5\text{ or more raw items}$) | Total security. Comfortably performing at NCLC 8 or 9; NCLC 7 is completely guaranteed. |
+The two scales are different: a margin of $+3$ in Writing (out of 20) is not comparable to $+3$ in Listening (out of 699). The table below gives separate buffers for each scale. These zones are study heuristics, not official categories.
+
+| Safety Margin Status | Listening / Reading (out of 699) | Writing / Speaking (out of 20) | Strategic Meaning |
+| :--- | :--- | :--- | :--- |
+| **Danger Zone (Borderline)** | $+0$ to $+15$ points | $0$ to $+1$ point | High risk. A single difficult audio track, ambiguous reading text or weak task can derail your NCLC 7. |
+| **Safe Zone** | $\mathbf{+25\text{ to }+50\text{ points}}$ | $\mathbf{+2\text{ to }+3\text{ points}}$ | **Optimal Target**. Well protected against normal test-day noise, mild sleep deprivation, or a formal examiner. |
+| **Mastery Zone** | $+51\text{ points or more}$ | $+4\text{ points or more}$ | Strong security. Performing at NCLC 8 or above; NCLC 7 is very likely to hold. |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
 When taking Rehearsal Sitting #2, anticipate regional variations in administrative instructions and test-day terminology between Canadian and French test centers:
-- Registration and check-in: in France, you will hear *l'émargement* or *la feuille de présence*; in Canadian centers, staff will direct you to **l'inscription** **(QC)** or **l'enregistrement** **(QC)**.
-- Identification documents: in France, *la pièce d'identité* or *la carte de séjour*; in Canada, examiners ask for your **pièce d'identité avec photo** **(QC)** or your **passeport valide** **(QC)**.
-- Scratch paper and pens: in France, *le brouillon* and *le stylo à bille*; in Canada, test proctors often distribute **les feuilles de papier brouillon** **(QC)** along with **un crayon à mine** **(QC)** (lead pencil) or *un stylo*.
-- Locker or personal belongings storage: in France, *la consigne* or *le casier*; in Québec, **le vestiaire** **(QC)** or **les casiers sous clé** **(QC)**.
+- Registration and check-in: most terms are shared across the francophonie (*l'inscription*, *l'accueil*, *la feuille de présence*). In France you will also hear *l'émargement* (signing the attendance sheet), which is less common in Québec.
+- Identification documents: everywhere, staff ask for *une pièce d'identité avec photo*; bring the original, valid photo ID you registered with.
+- Scratch paper and pencils: *le brouillon* or *une feuille de brouillon* is used everywhere; for a pencil, Québec says **un crayon à mine** **(QC)** where France says *un crayon à papier* (or *un crayon de papier*).
+- Locker or personal belongings storage: *le vestiaire*, *le casier* and *la consigne* are understood everywhere.
 Understanding these logistical terms prevents confusion during check-in and workstation transitions.
 
 </div>
@@ -193,7 +197,7 @@ Examine the Sitting #1 vs. Sitting #2 comparative score reports for three candid
 ```
 CANDIDAT 1 (Marc A.) :
 - CO : 455 pts (Mock 1) -> 488 pts (Mock 2) [Delta: +33 pts | Margin: +30 pts]
-- CE : 448 pts (Mock 1) -> 472 pts (Mock 2) [Delta: +24 pts | Margin: +19 pts]
+- CE : 448 pts (Mock 1) -> 478 pts (Mock 2) [Delta: +30 pts | Margin: +25 pts]
 - EE : 9/20 (Mock 1)   -> 13/20 (Mock 2)  [Delta: +4 pts  | Margin: +3 pts]
 - EO : 10/20 (Mock 1)  -> 12/20 (Mock 2)  [Delta: +2 pts  | Margin: +2 pts]
 
@@ -201,7 +205,7 @@ CANDIDAT 2 (Aisha K.) :
 - CO : 512 pts (Mock 1) -> 525 pts (Mock 2) [Delta: +13 pts | Margin: +67 pts]
 - CE : 495 pts (Mock 1) -> 504 pts (Mock 2) [Delta: +9 pts  | Margin: +51 pts]
 - EE : 14/20 (Mock 1)  -> 15/20 (Mock 2)  [Delta: +1 pt   | Margin: +5 pts]
-- EO : 9/20 (Mock 1)   -> 9.5/20 (Mock 2) [Delta: +0.5 pt | Margin: -0.5 pt (BELOW FLOOR)]
+- EO : 8/20 (Mock 1)   -> 9/20 (Mock 2)   [Delta: +1 pt   | Margin: -1 pt (BELOW FLOOR)]
 
 CANDIDAT 3 (Julien D.) :
 - CO : 460 pts (Mock 1) -> 462 pts (Mock 2) [Delta: +2 pts  | Margin: +4 pts]
@@ -220,9 +224,9 @@ CANDIDAT 3 (Julien D.) :
 
 **Diagnostic Verdicts**:
 1. **Candidate 1 is Fully Ready to Book**.
-   - They showed substantial deltas across all four competencies. All four skills have safety margins between $+19$ and $+30$ points above NCLC 7. Their remedial week effectively eliminated their initial weaknesses.
+   - They showed substantial deltas across all four competencies, and all four skills sit in the Safe Zone: $+30$ points in Listening and $+25$ points in Reading (out of 699), $+3$ points in Writing and $+2$ points in Speaking (out of 20). Their remedial week effectively eliminated their initial weaknesses.
 2. **Candidate 2 is in Severe Danger (Asymmetric Profile)**.
-   - Despite scoring in the C1 Mastery Zone for Listening, Reading, and Writing, their Speaking score remains at **9.5/20 (NCLC 6)**, below the mandatory 10/20 threshold. If they sit the exam today, they will forfeit the 50 Express Entry bonus points because of a 0.5-point deficit in Speaking. They must pause and drill Speaking Task 2 and Task 3 before booking.
+   - Despite scoring in the Mastery Zone for Listening, Reading, and Writing, their Speaking score remains at **9/20 (NCLC 6)**, below the 10/20 NCLC 7 threshold. If they sit the exam today, they will forfeit the French-language Express Entry bonus because of a 1-point deficit in Speaking. They must pause and drill Speaking Task 2 and Task 3 before booking.
 3. **Candidate 3 is in the Extreme Danger Zone (Borderline Fragility)**.
    - Candidate 3 is sitting exactly on the knife's edge (margins of $+4$, $+3$, $0$, and $0$). Any minor test-day inconvenience (a cold room, a fast Canadian audio track, a slightly strict examiner) will push them below NCLC 7 in at least one skill. They need further consolidation before testing.
 
@@ -234,7 +238,7 @@ CANDIDAT 3 (Julien D.) :
 
 Launch **Rehearsal Sitting #2**:
 1. Execute the full 4-stage battery under the deliberate adversity protocol.
-2. Record your exact times, raw scores, and scaled conversions in `evidence/mock-sitting-02-log.md`.
+2. Record your exact times and scores in `evidence/mock-sitting-02-log.md`.
 3. Compute your Delta Matrix ($\Delta$) comparing Sitting #1 and Sitting #2.
 4. Calculate your Safety Margin Index for all four competencies.
 
@@ -250,7 +254,7 @@ Test your mastery of Rehearsal Exam 2 validation principles:
 - [Why must a candidate use a completely fresh, unattempted test battery for Rehearsal Sitting #2?](#the-validation-objective-testing-under-deliberate-environmental-adversity)
 - [What are the specific time checkpoints that must be validated during the Reading section of Sitting #2?](#the-complete-4-skill-mock-protocol-and-timing-benchmarks)
 - [How is the Safety Margin Index (SMI) calculated for each of the four test competencies?](#delta-analysis-and-the-nclc-safety-margin-calculation)
-- [Why is a borderline passing score (+0 to +10 points above cutoff) considered high-risk for Express Entry applicants?](#delta-analysis-and-the-nclc-safety-margin-calculation)
+- [Why is a borderline passing score (+0 to +15 points above cutoff) considered high-risk for Express Entry applicants?](#delta-analysis-and-the-nclc-safety-margin-calculation)
 
 ---
 
@@ -258,8 +262,8 @@ Test your mastery of Rehearsal Exam 2 validation principles:
 
 Consult these free platforms to continue benchmarking and verifying your exam readiness:
 
-* [France Éducation international — Barèmes et seuils du TCF Canada](https://www.france-education-international.fr/) — Official scoring documentation detailing NCLC score boundaries and conversion algorithms.
-* [TV5Monde — Séries complètes d'entraînement au TCF](https://apprendre.tv5monde.com/fr) — Multiple full-length practice series to ensure fresh, unattempted simulation tests.
+* [France Éducation international — TCF Canada](https://www.france-education-international.fr/) — Official information on the test format, scoring scales, and candidate rules.
+* [TV5Monde — Apprendre le français](https://apprendre.tv5monde.com/fr) — Free listening and reading practice activities to supplement your rehearsals.
 * [Radio-Canada Première — Balados et débats](https://ici.radio-canada.ca/premiere/balados) — Daily authentic Canadian French podcasts to train auditory focus against regional accents.
 * [IRCC — Outil de calcul de points du Système de classement global (SCG)](https://www.canada.ca/) — Official CRS calculator to simulate the points impact of achieving NCLC 7 vs NCLC 8.
 

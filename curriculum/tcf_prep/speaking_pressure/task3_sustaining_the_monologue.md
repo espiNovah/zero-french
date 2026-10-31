@@ -1,18 +1,18 @@
 ### Introduction
 
-In the **Expression orale** section of the TCF Canada, **Task 3 is the ultimate summit of oral proficiency**. While Task 1 is an informal 2-minute introductory chat and Task 2 is an interactive roleplay guided by prompt cues, Task 3 requires you to deliver an uninterrupted, highly structured monologue of **four minutes and thirty seconds without any preparation time whatsoever**.
+In the **Expression orale** section of the TCF Canada, **Task 3 is the ultimate summit of oral proficiency**. While Task 1 is an informal 2-minute introductory chat and Task 2 is an interactive roleplay guided by prompt cues, Task 3 (*expression d'un point de vue*) requires you to defend a structured point of view for **four minutes and thirty seconds, with no preparation time**. It is not an adversarial debate, but the examiner may intervene — to ask you to clarify, develop or justify a point.
 
-The examiner reads aloud a thought-provoking, controversial question on a contemporary societal issue, such as:
+You are given a thought-provoking question on a contemporary societal issue, such as:
 > **« Pensez-vous que le télétravail doive devenir un droit inconditionnel pour tous les salariés ? »**  
 > — /pɑ̃.se vu kə lə te.le.tʁa.vaj dwav dəv.niʁ œ̃ dʁwa ɛ̃.kɔ̃.di.sjɔ.nɛl puʁ tu le sa.la.ʁje/  
 > *Do you think teleworking should become an unconditional right for all employees?*
 
-You are expected to begin speaking within three to five seconds. There is no pencil, no scrap paper, and no pause button. For candidates unprepared for this endurance trial, the experience is terrifying:
+There is no preparation time, so you need to start building your answer almost immediately. For candidates unprepared for this endurance trial, the experience is terrifying:
 - They formulate an initial opinion in 45 seconds, give a single personal example, and then run completely out of ideas at the 1:30 mark.
 - Staring at the examiner while three long minutes remain on the clock, they begin talking in circles, repeating identical vocabulary (*« C'est bon pour les gens, oui, c'est vraiment très bon... »*), or fall into painful silence.
-- France Éducation international (FEI) examiners must remain impassive; they will not rescue you with questions until you explicitly surrender.
+- The examiner may ask a question to relaunch you, but you cannot count on being rescued — the responsibility for filling the time is yours.
 
-To sustain a fluent 4.5-minute monologue that effortlessly commands a solid B2 or C1 score (NCLC 7 to 9), you must master the **"Rule of Three" Dialectical Architecture**. This mental template automatically partitions any controversy into three distinct analytical pillars (Economic/Functional, Human/Psychological, and Societal/Ethical), anchored by concrete real-world evidence and high-register articulators.
+To sustain a fluent 4.5-minute argument at a solid B2 level or above, master the **"Rule of Three" Dialectical Architecture**. This mental template automatically partitions any controversy into three distinct analytical pillars (Economic/Functional, Human/Psychological, and Societal/Ethical), anchored by concrete real-world evidence and high-register articulators.
 
 ---
 
@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to:
 - Apply the **"Rule of Three" Framework** to rapidly decompose any abstract prompt into three structured arguments within five seconds of hearing the question.
 - Anchor abstract ideological arguments in **concrete societal illustrations** drawn from Canadian civic life, international labor trends, and technological realities.
 - Deploy sophisticated dialectical transitions (*Certes... néanmoins*, *Force est de reconnaître que*, *Il convient toutefois de nuancer*) that demonstrate B2/C1 syntactic control.
-- Regulate speaking cadence to maintain a steady velocity of **110 to 125 words per minute**, preventing breathlessness or premature topic exhaustion.
+- Regulate speaking cadence to maintain a steady, unhurried pace (roughly **100 to 120 words per minute** — a personal study benchmark), preventing breathlessness or premature topic exhaustion.
 
 ---
 
@@ -48,15 +48,15 @@ Deliver your monologue according to this strict mental clock:
 [3:45 - 4:30] PHASE 5: LA SYNTHÈSE, LE VERDICT & L'OUVERTURE D'AVENIR (~70 mots)
 ```
 
-Total spoken output: **approx. 470 words**. At a natural conversational rate of 115 words per minute, this pacing fills the 4 minutes and 30 seconds smoothly without rushing or stalling.
+Total spoken output: **approx. 470 words**. That works out to about 105 words per minute — a calm, unhurried pace that fills the 4 minutes and 30 seconds without rushing, and leaves room for any question the examiner asks along the way. (This timeline is a practice plan, not an official requirement.)
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Exam tip: Handling the Examiner's Silent Poker Face
+#### Exam tip: Handling a Neutral Examiner and Mid-Task Questions
 
-During Task 3, official FEI examiners are instructed to maintain **neutral, non-verbal listening**. They will rarely nod, smile, or interject while you are speaking. 
+During Task 3, the examiner may listen with a fairly neutral expression, and **may also intervene** — for example to ask you to clarify a point, give an example or react to a counter-argument. 
 
-Untrained candidates interpret this silence as disapproval, panic, and cut their speech short. **Do not look for examiner validation**. Assume that silence means you have the floor and continue executing your five-phase mental plan with calm authority.
+Untrained candidates interpret a neutral face as disapproval, panic, and cut their speech short. **Do not look for examiner validation**. If the examiner is silent, you have the floor: keep executing your five-phase mental plan with calm authority. If they ask a question, answer it directly, then use it as a bridge back into your plan (*« Pour revenir à mon raisonnement… »*).
 
 </div>
 
@@ -88,7 +88,7 @@ The secret to generating four minutes of substance on the fly is the **Tri-Lens 
 
 #### Step-by-Step Execution of the 5 Phases
 
-Let us demonstrate how this works on an authentic TCF Canada Task 3 question:
+Let us demonstrate how this works on a typical Task 3-style question:
 > **« Le développement du tourisme de masse est-il une chance ou une menace pour les sociétés contemporaines ? »**
 
 #### Phase 1: The Hook, Reformulation & Plan (0:00 – 0:45)
@@ -120,7 +120,7 @@ Synthesize your findings, deliver your definitive balanced judgment, and propose
 
 ### Concrete societal illustrations: Grounding abstract claims in Canadian and global realities
 
-An examiner will not award a B2 or C1 score to a candidate who speaks purely in abstract generalities (*« Il faut faire attention parce que la nature est belle »*). You must anchor every analytical pillar with **at least one concrete societal example**.
+A candidate who speaks purely in abstract generalities will struggle to show B2/C1-level argumentation (*« Il faut faire attention parce que la nature est belle »*). You must anchor every analytical pillar with **at least one concrete societal example**.
 
 #### High-Yield Illustration Domains for TCF Monologues
 
@@ -148,10 +148,10 @@ Weave these transitional formulas into your delivery to make your progression so
 
 When debating public policy and societal dilemmas in Task 3, anchoring your discourse in Canadian institutional realities gives you an immediate competitive edge:
 - Work-life balance: widely referred to as **la conciliation travail-famille** **(QC)** in Canadian policy debates.
-- Minimum wage: referred to simply as **le salaire minimum** **(QC)** across Canadian provinces, rather than *le SMIC* used in France.
+- Minimum wage: **le salaire minimum** (also standard French) is the term used across Canadian provinces; *le SMIC* is a specifically French institution.
 - Subsidized early childhood education: known as **les CPE (centres de la petite enfance)** **(QC)** or *garderies subventionnées*, rather than *les crèches*.
 - Homelessness and social vulnerability: discussed in Canadian civic discourse as **l'itinérance** **(QC)** rather than *le sans-abrisme* or *les SDF*.
-Demonstrating familiarity with Canadian public debates signals to the rater that you are ready for active civic participation in Canada.
+Demonstrating familiarity with Canadian public debates makes your examples more concrete and relevant.
 
 </div>
 
@@ -217,10 +217,10 @@ Master these 12 indispensable rhetorical connectors for sustaining your spoken a
 Read or listen to the following transcription of a candidate who stalled at minute 1:30:
 
 > **Candidat**: « Bonjour. Pour moi, le télétravail est une très bonne chose. J'aime beaucoup travailler chez moi parce qu'on ne prend pas les transports. C'est plus calme et on dort plus le matin. C'est bien aussi pour la famille, on peut voir ses enfants. Mais parfois, on est un peu seul. Oui, c'est vrai, l'isolement c'est pas facile. Mais sinon, c'est très positif. Les entreprises devraient donner du télétravail à tout le monde. Voilà. C'est tout ce que je pense. »  
-> *(Silence embarrassé pendant 3 minutes restantes)*
+> *(Silence embarrassé pendant les trois minutes restantes)*
 
 **Diagnostic Questions**:
-1. Why did this candidate run out of ideas after 75 words?
+1. Why did this candidate run out of ideas after about 80 words?
 2. Which dimensions of the "Rule of Three" did this candidate completely ignore?
 3. What fatal spoken sign-off did the candidate use to abandon their monologue?
 
@@ -232,17 +232,17 @@ Read or listen to the following transcription of a candidate who stalled at minu
 2. **Missing Dimensions**:
    - Zero economic/operational analysis (productivity, office real estate costs, cybersecurity, labor contract legalities).
    - Zero macro-societal analysis (urban desertification, impact on transit authorities, public services like nurses or bus drivers who cannot work remotely).
-3. **The Fatal Surrender Formula**: Saying *« Voilà. C'est tout ce que je pense »* signals to the examiner that the candidate has terminated their performance, locking their score into an A2/B1 ceiling.
+3. **The Fatal Surrender Formula**: Saying *« Voilà. C'est tout ce que je pense »* signals to the examiner that the candidate has given up with three minutes left, leaving far too little evidence of B2-level argumentation.
 
 </details>
 
 ---
 
-#### Step 4: Productive Uninterrupted Simulation (4.5-Minute Audio Trial)
+#### Step 4: Productive Solo Simulation (4.5-Minute Audio Trial)
 
-Start an audio recorder and a countdown timer set for **4 minutes and 30 seconds**. Read the official prompt below and begin speaking within five seconds. Follow the 5-phase blueprint:
+Start an audio recorder and a countdown timer set for **4 minutes and 30 seconds**. Read the practice prompt below and begin speaking right away. Follow the 5-phase blueprint:
 
-**Official Prompt**:
+**Practice Prompt**:
 > **« Certains affirment que l'essor des réseaux sociaux a détruit les liens sociaux authentiques et favorisé la polarisation citoyenne. Partagez-vous ce constat ? »**
 
 - **Goal**: Speak continuously until your timer reaches 4:15–4:30.
@@ -270,6 +270,6 @@ The following free authoritative platforms offer daily models of dialectical rea
 
 * [Radio-Canada Première — Midi info](https://ici.radio-canada.ca/premiere/emissions/midi-info) — The gold standard for structured, timed political and civic debates in Canadian French.
 * [France Culture — L'Invité des matins](https://www.radiofrance.fr/franceculture) — Uninterrupted long-form intellectual interviews demonstrating high-register dialectical argumentation and nuance.
-* [France Éducation international — Spécifications de l'expression orale TCF](https://www.france-education-international.fr/) — Official rubric criteria and assessment matrices for candidate monologues.
+* [France Éducation international — Spécifications de l'expression orale TCF](https://www.france-education-international.fr/) — Official description of the speaking test and candidate information (check the current TCF Canada pages).
 * [Le Devoir — Idées et débats](https://www.ledevoir.com/opinion/idees) — Short essays providing immediate argumentative frameworks and contemporary societal illustrations.
 

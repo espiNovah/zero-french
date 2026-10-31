@@ -3,8 +3,8 @@
 In the **Expression écrite** section of the TCF Canada, you face a 60-minute countdown timer to produce three distinct written texts. While Task 3 is the most intellectually demanding (a synthesis and argumentative essay) and Task 2 requires a balanced personal narrative, **Task 1 is where candidates either establish total chronological momentum or suffer fatal time hemorrhage**.
 
 The official parameters of Task 1 appear deceptively simple: write a short message of **60 to 120 words** in response to a practical scenario (such as inviting friends to an outing, thanking a colleague, responding to an advertisement, or asking a landlord for details). Because the task seems easy, untrained candidates fall into one of two dangerous traps:
-1. **The Over-Writing Trap**: They spend 25 minutes writing 140 words, polishing literary vocabulary and detailing irrelevant anecdotes. Every extra minute spent on Task 1 is stolen directly from Task 3, which carries substantially more weight in determining a B2 or C1 score.
-2. **The Under-Length Penalty**: They rush through in five minutes, typing 52 words. Falling below the strict 60-word minimum triggers an automatic structural penalty on the *Respect de la consigne* criterion, capping their task score regardless of language quality.
+1. **The Over-Writing Trap**: They spend 25 minutes writing 140 words, polishing literary vocabulary and detailing irrelevant anecdotes. Every extra minute spent on Task 1 is stolen directly from Task 3, the longest and most demanding task of the section.
+2. **The Under-Length Penalty**: They rush through in five minutes, typing 52 words. Falling below the 60-word minimum means the task is not fully completed, and length and task completion affect the overall writing score, however good the language.
 
 The optimal strategy for Task 1 is **ruthless mechanical execution**: draft an **80- to 95-word message in 12 minutes**, followed by **3 minutes of surgical proofreading**. This lesson provides the exact modular templates, token-counting algorithms, and timed drills necessary to make Task 1 an automated 15-minute reflex.
 
@@ -14,7 +14,7 @@ The optimal strategy for Task 1 is **ruthless mechanical execution**: draft an *
 
 By the end of this lesson, you will be able to:
 - Execute the strict **15-minute time budget** (2 min planning, 10 min drafting, 3 min proofreading) for Task 1.
-- Calibrate your text length effortlessly to the **80- to 100-word target zone**, staying safely above the 60-word penalty floor and below the 120-word ceiling.
+- Calibrate your text length effortlessly to the **80- to 100-word target zone**, staying safely above the 60-word floor and below the 120-word ceiling.
 - Deploy plug-and-play modular skeletons for both informal (*tutoiement*) and semi-formal/formal (*vouvoiement*) prompts.
 - Address all communicative sub-prompts without adding superfluous filler that introduces grammatical vulnerabilities.
 - Execute a 3-minute proofreading pass targeting verb-subject agreement, gender agreement, and accent elisions.
@@ -39,23 +39,22 @@ France Éducation international sets an official range of **60 to 120 words**:
 
 | Word Count | Examiner Evaluation & Scoring Impact |
 | :--- | :--- |
-| **< 60 words** | **Severe Penalty**. Evaluated as a failure to fulfill the communicative contract (*respect de la consigne*). Score heavily discounted. |
-| **60 – 75 words** | **Borderline**. Acceptable, but risks falling under the floor if the examiner discounts invalid tokens (such as misspelled words or isolated numerals). |
-| **80 – 95 words** | **The Ideal Sweet Spot**. Fully answers all prompt requirements, demonstrates B1/B2 connectors and lexical variety, leaves zero room for under-length penalties, and finishes in 12 minutes. |
+| **< 60 words** | **Below the required length**. Risks being judged as not fulfilling the task (*respect de la consigne*), which lowers your overall writing score. |
+| **60 – 75 words** | **Borderline**. Acceptable, but leaves no margin if your own count is slightly off, and often too thin to cover every part of the prompt. |
+| **80 – 95 words** | **The Ideal Sweet Spot**. Fully answers all prompt requirements, demonstrates B1/B2 connectors and lexical variety, leaves a safe margin above the 60-word floor, and finishes in 12 minutes. |
 | **96 – 120 words** | **Safe but Inefficient**. Fulfills the task, but costs unnecessary drafting and proofreading time. |
-| **> 120 words** | **Penalty Warning**. Words beyond 120 may be disregarded by examiners. Any grammatical errors in the excess text are penalized, while positive vocabulary is ignored. |
+| **> 120 words** | **Outside the required range**. Not respecting the length is part of task completion, and every extra sentence is one more place to make errors while stealing time from Task 3. |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
-#### Official FEI Token Counting Rules
+#### How words are counted
 
-In TCF computer scoring, how are words counted?
-- A word is defined as **any string of characters bounded by spaces or punctuation**.
-- **Elisions count as two words**:
-  - **« j'ai »** = 2 words (*je* + *ai*).
-  - **« c'est »** = 2 words (*ce* + *est*).
-  - **« d'accord »** = 2 words (*de* + *accord*).
-  - **« l'appartement »** = 2 words (*le* + *appartement*).
+The FEI/DELF convention is that a word is **any string of characters between two spaces**. Confirm this against the current TCF Canada candidate guide before your exam.
+- **Elided forms count as one word**:
+  - **« j'ai »** = 1 word.
+  - **« c'est »** = 1 word.
+  - **« d'accord »** = 1 word.
+  - **« l'appartement »** = 1 word.
 - **Hyphenated words count as one single word**:
   - **« rendez-vous »** = 1 word.
   - **« peut-être »** = 1 word.
@@ -81,7 +80,7 @@ To hit 85 words with zero panic, execute this exact minute-by-minute sequence:
   - Check past participle agreements (*j'ai réservé* vs *nous sommes allés*).
   - Check noun-adjective agreements (*une belle journée*, *des activités intéressantes*).
   - Check apostrophes and accents (*à*, *où*, *déjà*).
-  - Click **Valider / Suivant** to lock in Task 1.
+  - Move on to Task 2. (How the interface handles moving between tasks is not something to guess: check the FEI candidate guide and your *convocation*.)
 
 ---
 
@@ -111,7 +110,7 @@ Let us analyze an authentic prompt and modeled response:
 **Prompt Scenario**:
 > Vous avez récemment emménagé dans un nouvel appartement. Écrivez un courriel à un ami pour lui décrire votre logement et l'inviter à venir le visiter ce week-end (60 à 120 mots).
 
-**Modeled Response (87 words)**:
+**Modeled Response (80 words)**:
 > **Salut Marc,**  
 > **J'espère que tout va bien pour toi !**  
 > **Je t'écris pour te faire part de mon installation dans mon nouvel appartement au centre-ville. C'est un logement très lumineux et spacieux, situé tout près du métro. Le quartier est vraiment agréable et dynamique.**  
@@ -120,7 +119,7 @@ Let us analyze an authentic prompt and modeled response:
 > **Amitiés,**  
 > **Alexandre**
 
-*Token breakdown*: Exactly **87 words**. Fully covers: 1. News of moving, 2. Description of apartment and neighborhood, 3. Specific invitation for Saturday, 4. Call to confirm. Register is 100% consistent *tutoiement*.
+*Token breakdown*: Exactly **80 words** (space-delimited count, so *J'espère* and *t'écris* are one word each). Fully covers: 1. News of moving, 2. Description of apartment and neighborhood, 3. Specific invitation for Saturday, 4. Call to confirm. Register is 100% consistent *tutoiement*.
 
 #### Archetype B: Semi-Formal Professional / Administrative Message
 
@@ -143,14 +142,14 @@ Let us analyze an authentic prompt and modeled response:
 **Prompt Scenario**:
 > Vous avez vu une annonce pour un atelier de cuisine régionale. Vous écrivez aux organisateurs pour demander des renseignements sur le contenu des cours, le matériel requis et les dates des prochaines séances (60 à 120 mots).
 
-**Modeled Response (89 words)**:
+**Modeled Response (83 words)**:
 > **Bonjour Madame, Monsieur,**  
 > **Je me permets de vous contacter concernant vos ateliers de cuisine régionale découverts sur votre page web. Passionné de gastronomie, je souhaiterais m'inscrire à l'une de vos prochaines sessions.**  
 > **Cependant, j'aimerais obtenir quelques renseignements complémentaires avant de valider mon inscription. Pourriez-vous me préciser les dates prévues pour le mois prochain, le matériel nécessaire à apporter, ainsi que le coût global du stage ?**  
 > **En vous remerciant par avance pour votre réponse, je vous prie d'agréer mes salutations distinguées.**  
 > **Thomas Mercier**
 
-*Token breakdown*: Exactly **89 words**. Clear, professional, covers all three prompt questions, deploys polite conditional forms (**« je souhaiterais »**, **« pourriez-vous »**), and respects formal protocol.
+*Token breakdown*: Exactly **83 words**. Clear, professional, covers all three prompt questions, deploys polite conditional forms (**« je souhaiterais »**, **« pourriez-vous »**), and respects formal protocol.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -158,7 +157,7 @@ Let us analyze an authentic prompt and modeled response:
 
 When writing Task 1 messages set in Canada or responding to Canadian prompts, observe standard regional vocabulary and layout conventions:
 - *la fin de semaine* **(QC)**: The universal term for weekend (*le week-end* in France).
-- *le courriel* **(QC)**: The standard institutional term for email (*le mail* or *l'e-mail* in France).
+- *le courriel*: The standard term for email in Québec (also the officially recommended term in France, where *le mail* / *l'e-mail* is more common in everyday use).
 - *le logement 3 ½ / 4 ½* **(QC)**: Standard Canadian apartment sizing notation (number of rooms + bathroom).
 - *Salutations*: In Canadian email correspondence, friendly and professional sign-offs include:
   - *Au plaisir,* **(QC)** (widely used in both informal and semi-formal contexts).
@@ -178,7 +177,7 @@ You must execute a **3-Pass Targeted Scan**, spending 60 seconds on each pass:
 ```
 [Pass 1: 60 sec] Concordance des Verbes & Participes Passés (-é vs -er, être vs avoir)
 [Pass 2: 60 sec] Accords en Genre et en Nombre (Noms, Adjectifs, Déterminants)
-[Pass 3: 60 sec] Homophones & Élisisions (à vs a, où vs ou, apostrophes)
+[Pass 3: 60 sec] Homophones & Élisions (à vs a, où vs ou, apostrophes)
 ```
 
 #### Pass 1: Verb Conjugation and Auxiliary Agreements
@@ -227,11 +226,11 @@ Open a plain text editor (TextEdit, Notepad, or a blank document) with **spellch
 > **À samedi,**  
 > **Camille**
 
-**Rubric Evaluation**:
-- *Respect de la consigne*: 5/5 (86 words; covers date, time, address, what to bring, and RSVP request).
-- *Cohérence et cohésion*: 5/5 (Logical paragraph flow, connectors: *afin de*, *si vous le souhaitez*).
-- *Lexique*: 5/5 (Natural, warm expressions: *célébrer dignement*, *dîner convivial*, *varier les plaisirs*).
-- *Grammaire*: 5/5 (Impeccable agreements, correct prepositions).
+**Unofficial self-assessment checklist** (the real exam gives one overall writing score out of 20, with no published per-task or per-criterion marks):
+- *Task completion*: ✓ 86 words; covers date, time, address, what to bring, and RSVP request.
+- *Coherence*: ✓ Logical paragraph flow, connectors: *afin de*, *si vous le souhaitez*.
+- *Vocabulary*: ✓ Natural, warm expressions: *célébrer dignement*, *dîner convivial*, *varier les plaisirs*.
+- *Grammar*: ✓ Correct agreements and prepositions.
 
 </details>
 
@@ -274,14 +273,14 @@ Read the following candidate submission responding to a request for information 
 <summary>Check your audit and view the rewritten model</summary>
 
 **Audit Findings**:
-1. **Under-length**: The draft contains only **29 words**. It fails the 60-word minimum and receives a massive penalty on *Respect de la consigne*.
-2. **Aggressive and impoverished register**: Using imperative commands (**« Donnez-moi »**) and blunt desires (**« Je veux »**) is rated at an A1/A2 level. In formal French correspondence, candidates must use polite conditional expressions (**« Je souhaiterais savoir »**, **« Auriez-vous l'amabilité de me transmettre »**).
+1. **Under-length**: The draft contains only **30 words**. It is far below the 60-word minimum, so the task is not fulfilled.
+2. **Aggressive and impoverished register**: Using imperative commands (**« Donnez-moi »**) and blunt desires (**« Je veux »**) reads as basic, A1/A2-style language. In formal French correspondence, candidates must use polite conditional expressions (**« Je souhaiterais savoir »**, **« Auriez-vous l'amabilité de me transmettre »**).
 
-**Rewritten B2 Benchmark Model (84 words)**:
+**Rewritten B2 Benchmark Model (81 words)**:
 > **Bonjour Madame, Monsieur,**  
 > **Résidant nouvellement dans le quartier, je souhaiterais m'inscrire dans votre centre de conditionnement physique afin de maintenir une pratique sportive régulière.**  
 > **Avant de finaliser mon adhésion, pourriez-vous m'indiquer quels sont les tarifs de vos abonnements mensuels ? De plus, j'aimerais savoir si l'accès à la piscine est autorisé le dimanche matin et si des cours collectifs sont inclus dans la formule de base.**  
-> **Je vous remercie pour les précisions que vous m'apporterez.**  
+> **Je vous remercie par avance pour les précisions que vous m'apporterez.**  
 > **Sincères salutations,**  
 > **Laurent Dufresne**
 
@@ -309,7 +308,7 @@ Test your mastery of Task 1 speed mechanics:
 
 - [What is the exact time allocation recommended for Task 1 within the 60-minute writing exam?](#the-15-minute-operational-budget-and-the-80-word-sweet-spot)
 - [Why is an 80- to 95-word draft considered the optimal strategic sweet spot for Task 1?](#the-15-minute-operational-budget-and-the-80-word-sweet-spot)
-- [How are elisions such as j'ai and d'accord counted under official FEI token rules?](#the-15-minute-operational-budget-and-the-80-word-sweet-spot)
+- [How are elided forms such as j'ai and d'accord counted under the space-delimited word-count convention?](#the-15-minute-operational-budget-and-the-80-word-sweet-spot)
 - [What are the structural elements that must be included in an informal friendly message versus a semi-formal professional note?](#modular-structural-skeletons-for-formal-and-informal-prompts)
 - [What specific error types are targeted during the three passes of the 3-minute surgical proofreading protocol?](#the-3-minute-surgical-proofreading-protocol)
 
@@ -319,7 +318,7 @@ Test your mastery of Task 1 speed mechanics:
 
 Consult these free resources to review authentic correspondence conventions:
 
-* [France Éducation international — Épreuve d'expression écrite du TCF](https://www.france-education-international.fr/) — Official scoring rubrics, sample tasks, and candidate instructions.
+* [France Éducation international — Épreuve d'expression écrite du TCF](https://www.france-education-international.fr/) — Official exam description, sample tasks, and candidate information.
 * [TV5Monde — Entraînement à l'expression écrite](https://apprendre.tv5monde.com/fr) — Interactive exercises on email registers, salutations, and formal correspondence conventions.
 * [Vitrine linguistique (OQLF) — La formule de salutation et de politesse](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Official guidelines on standard Canadian business correspondence and email etiquette.
 * [Lawless French — Letter and Email Closings](https://www.lawlessfrench.com/) — Reference guide for formal vs. informal French greetings, body connectors, and sign-offs.

@@ -4,46 +4,43 @@ On the **TCF Canada Compréhension écrite (CE)**, candidates face **39 question
 
 While this translates to a mathematical average of **92 seconds per item**, attempting to spend 92 seconds on every question is the fastest way to fail the exam. 
 
-The test structure is sharply non-linear:
-- **Items 1 to 14 (A1–A2)**: Composed of short pragmatic snippets (store hours, SMS alerts, train station notices, simple emails) averaging 25 to 50 words. These items can and should be solved in **20 to 45 seconds**.
-- **Items 15 to 25 (B1)**: Composed of medium-length workplace memos, travel guides, and local news briefs (80 to 150 words). These require **60 to 80 seconds**.
-- **Items 26 to 39 (B2–C1)**: Composed of dense, 300- to 450-word editorial essays, legislative white papers, and academic articles. These demand **120 to 150 seconds** of deep syntactic parsing and distractor elimination.
+The test is non-linear: **items get progressively harder**. Early items tend to be short, practical documents (notices, messages, simple emails) that you can solve quickly; later items tend to be longer, denser texts (articles, opinion pieces) that need careful reading and distractor elimination. FEI publishes no official map of which item numbers correspond to which level or text length, so treat any "tier" in this lesson as a study heuristic, not an exam fact.
 
-Candidates who lack a conscious pacing strategy linger on early questions, re-reading simple emails three times out of nervous perfectionism. They arrive at Item 26 with only 12 minutes remaining, panic as the clock flashes red, and guess blindly on the final 14 high-stakes questions—the exact tier that determines whether they achieve **NCLC 7 (score ≥ 453)** or drop to a failing NCLC 6.
+Candidates who lack a conscious pacing strategy linger on early questions, re-reading simple emails three times out of nervous perfectionism. They reach the last third of the test with too little time, panic, and guess blindly on the hardest questions. Since items are weighted by difficulty, those are expensive points to give away when you're aiming for **NCLC 7 (CE score 453–498)**.
 
-To guarantee success, you must master the **Strict 15 / 15 / 30 Pacing Blueprint**: banking minutes during the first two tiers to unlock 30 full minutes of calm, surgical focus for the upper-tier passages.
+This lesson proposes the **Strict 15 / 15 / 30 Pacing Blueprint**, a personal pacing heuristic: move briskly through the easier opening items to keep 30 full minutes of calm, surgical focus for the harder final passages.
 
 ---
 
 ### Lesson overview
 
 By the end of this lesson, you will be able to:
-- Implement the **Strict 15 / 15 / 30 Time Allocation Formula** across Tiers 1, 2, and 3.
-- Monitor your progress using the **Four Clock Milestones** on the computer-delivered exam interface (TCF-SO).
-- Execute the **Rapid Scanning Protocol** for A1–A2 items to bank at least 15 surplus minutes.
+- Implement the **Strict 15 / 15 / 30 Time Allocation Formula** (a personal pacing heuristic) across three study tiers.
+- Monitor your progress using **Four Clock Milestones** against the exam timer.
+- Execute the **Rapid Scanning Protocol** on the easier opening items to bank time for the harder ones.
 - Deploy the **Emergency Triage Protocol** if you find yourself falling behind the countdown clock.
-- Navigate the computer interface strategically, utilizing the question flag tool without getting trapped in endless re-checking.
+- Avoid getting trapped in endless re-checking, whatever review options the test interface offers.
 
 ---
 
 ### The Strict Time Allocation Blueprint: 15 / 15 / 30
 
-The 60 minutes of the examination must be divided into three unequal, mathematically calibrated phases:
+As a study heuristic, divide the 60 minutes into three unequal phases. The item ranges below are pacing checkpoints only; they do not correspond to official levels:
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────┐
-│                    THE 15 / 15 / 30 PACING BLUEPRINT                      │
+│           THE 15 / 15 / 30 PACING BLUEPRINT (STUDY HEURISTIC)             │
 ├─────────┬──────────────┬─────────────────────────────┬────────────────────┤
-│ Phase   │ Question Nos │ Target CEFR & Typology      │ Allocated Time     │
+│ Phase   │ Question Nos │ What you'll usually meet    │ Allocated Time     │
 ├─────────┼──────────────┼─────────────────────────────┼────────────────────┤
-│ Tier 1  │ Items 1–14   │ A1–A2: Pragmatic notices,   │ **15 minutes max** │
-│         │              │ signs, SMS, opening hours   │ (~40–50 sec/item)  │
+│ Tier 1  │ Items 1–14   │ Easier: short practical     │ **15 minutes max** │
+│         │              │ documents                   │ (~60 sec/item)     │
 ├─────────┼──────────────┼─────────────────────────────┼────────────────────┤
-│ Tier 2  │ Items 15–25  │ B1: Workplace guidelines,   │ **15 minutes max** │
-│         │              │ press briefs, memos         │ (~80 sec/item)     │
+│ Tier 2  │ Items 15–25  │ Middle: medium-length texts │ **15 minutes max** │
+│         │              │                             │ (~80 sec/item)     │
 ├─────────┼──────────────┼─────────────────────────────┼────────────────────┤
-│ Tier 3  │ Items 26–39  │ B2–C1: Editorials, academic │ **30 minutes full**│
-│         │              │ essays, public policy       │ (~130 sec/item)    │
+│ Tier 3  │ Items 26–39  │ Harder: longer, denser      │ **30 minutes full**│
+│         │              │ texts                       │ (~130 sec/item)    │
 └─────────┴──────────────┴─────────────────────────────┴────────────────────┘
 ```
 
@@ -51,14 +48,14 @@ The 60 minutes of the examination must be divided into three unequal, mathematic
 Notice what happens when you adhere strictly to Tier 1 and Tier 2 timing:
 1. By completing Items 1–14 in 15 minutes, you bank **7 minutes** compared to the naive 92-second average.
 2. By completing Items 15–25 in 15 minutes, you bank an additional **2 minutes**.
-3. At the 30-minute mark, you have answered **25 out of 39 questions (64% of the exam)** and secured your baseline B1 score.
+3. At the 30-minute mark, you have answered **25 out of 39 questions (64% of the exam)**.
 4. You now have **30 full minutes remaining for the final 14 questions**. That provides **128 seconds per question** on the hardest texts, allowing you to read the passage, verify quotes, and dismantle distractors with zero panic.
 
 ---
 
 ### The Pacing Dashboard and Checkpoint Milestones
 
-On the computer screen (TCF-SO), the clock in the top right corner counts down continuously: `60:00 → 00:00`.
+Assume a timer counts down continuously over the 60 minutes (check your *convocation* and the FEI candidate guide for how time is displayed at your centre).
 
 Memorize these **Four Checkpoint Milestones** to verify your pace in real time:
 
@@ -71,13 +68,13 @@ Memorize these **Four Checkpoint Milestones** to verify your pace in real time:
 │ **Item 15**       │ **≥ 45:00 remaining**     │ Tier 1 complete on time.  │
 ├───────────────────┼───────────────────────────┼───────────────────────────┤
 │ **Item 26**       │ **≥ 30:00 remaining**     │ Tier 2 complete; ready    │
-│                   │                           │ for deep B2/C1 analysis.  │
+│                   │                           │ for the hardest texts.    │
 ├───────────────────┼───────────────────────────┼───────────────────────────┤
-│ **Item 35**       │ **≥ 10:00 remaining**     │ Final 4 C1 items;         │
+│ **Item 35**       │ **≥ 10:00 remaining**     │ Final 4 items;            │
 │                   │                           │ 2.5 minutes per question. │
 ├───────────────────┼───────────────────────────┼───────────────────────────┤
 │ **Item 39**       │ **≥ 02:00 remaining**     │ Exam finished; 2-minute   │
-│                   │                           │ final review of flags.    │
+│                   │                           │ final review if allowed.  │
 └───────────────────┴───────────────────────────┴───────────────────────────┘
 ```
 
@@ -85,9 +82,9 @@ Memorize these **Four Checkpoint Milestones** to verify your pace in real time:
 
 #### Exam tip: The Interface Flagging Trap
 
-The computer interface allows you to "flag" (*marquer*) questions to review later.  
-**Use this feature with extreme restraint!**  
-Never leave a question unanswered when flagging it. Always select your best current guess immediately, then flag it. If you run out of time at the end, an unreviewed guess has a 25% chance of being correct; a blank screen has a 0% chance. Furthermore, never flag more than **3 or 4 questions total across the entire test**. Revisiting 10 flagged items destroys your focus during Tier 3.
+FEI does not publish whether the reading interface lets you flag questions or go back to earlier items, so check the candidate guide and don't build your strategy on it.  
+**Either way, never leave a question unanswered "for later".**  
+Always select your best current guess immediately. If you run out of time at the end, a guess among four options has a 25% chance of being correct; a blank has a 0% chance. And if going back turns out to be possible, keep it for **3 or 4 questions at most**: revisiting 10 items destroys your focus on the hardest texts.
 
 </div>
 
@@ -111,10 +108,10 @@ EMERGENCY TRIAGE PROTOCOL     ┼─── Step 2: First-and-Last Sentence Heuri
 ```
 
 #### Step 1: Text Length Prioritization
-In items 26–39, passages vary in length. Some are short 120-word press briefs, while others are 400-word academic columns. Click through the remaining items and solve the shorter passages first. Banking quick correct answers builds psychological momentum and prevents easy points from being lost at the end.
+Among the later items, passages vary in length. If the interface lets you move between items (check the candidate guide; don't assume it does), solve the shorter passages first. If it doesn't, apply Steps 2 and 3 to each item in order. Banking quick correct answers builds psychological momentum and prevents easy points from being lost at the end.
 
 #### Step 2: The First-and-Last Sentence Heuristic
-On 4-paragraph editorial columns, 80% of TCF questions target either the overarching thesis or the conclusion:
+On multi-paragraph opinion pieces, questions often target the overarching thesis or the conclusion:
 1. Read the **Title and First Sentence** of Paragraph 1 (identifies the news trigger and problem).
 2. Read the **Final Sentence** of the conclusion (identifies the author's final verdict).
 3. Read the Question Stem. If the question asks for the author's main stance, you can answer it immediately without reading Paragraphs 2 and 3!
@@ -128,7 +125,7 @@ Scan the four answer options. Immediately disqualify any choice containing *touj
 
 #### Tier 1 Execution (Target: 30 Seconds)
 
-> **Document (Item 7 — Signage / Practical Notice) :**  
+> **Document (Practical Notice) :**  
 > *« En raison de travaux de réfection de la chaussée, la bibliothèque municipale sera fermée au public du lundi 12 au mercredi 14 octobre inclusivement. Les boîtes de retour extérieures demeurent accessibles pour le dépôt des documents 24h/24. »*
 
 **Question : Que doivent savoir les usagers de la bibliothèque ?**  
@@ -146,8 +143,8 @@ Scan the four answer options. Immediately disqualify any choice containing *touj
 
 #### Tier 2 Execution (Target: 65 Seconds)
 
-> **Document (Item 20 — Workplace Directive) :**  
-> *« À compter du 1er novembre, la direction générale instaure de nouvelles directives relatives aux déplacements professionnels. Afin d'aligner nos pratiques sur nos engagements environnementaux, tout trajet ferroviaire d'une durée inférieure à quatre heures sera désormais obligatoire en remplacement de l'avion. Les dérogations pour motif d'urgence devront faire l'objet d'une validation préalable par le responsable de département. »*
+> **Document (Workplace Directive) :**  
+> *« À compter du 1er novembre, la direction générale instaure de nouvelles directives relatives aux déplacements professionnels. Afin d'aligner nos pratiques sur nos engagements environnementaux, le train sera désormais obligatoire, en remplacement de l'avion, pour tout trajet de moins de quatre heures. Les dérogations pour motif d'urgence devront faire l'objet d'une validation préalable par le responsable de département. »*
 
 **Question : Quelle nouvelle consigne les salariés doivent-ils respecter à partir de novembre ?**  
 - **A)** L'interdiction absolue de voyager en avion, quelle que soit la destination.  
@@ -157,7 +154,7 @@ Scan the four answer options. Immediately disqualify any choice containing *touj
 
 ##### The 65-Second Solving Rhythm:
 - **0:00–0:15**: Read stem first: *Quelle nouvelle consigne ?*
-- **0:15–0:40**: Scan text: *trajet ferroviaire d'une durée inférieure à quatre heures obligatoire en remplacement de l'avion*.
+- **0:15–0:40**: Scan text: *le train sera désormais obligatoire, en remplacement de l'avion, pour tout trajet de moins de quatre heures*.
 - **0:40–0:60**: Match with Option B. Eliminate A (absolute: *interdiction absolue*), C (unmentioned), D (extrapolated). Select B. **Time taken: 58 seconds. Banked: +34 seconds!**
 
 ---
@@ -166,11 +163,11 @@ Scan the four answer options. Immediately disqualify any choice containing *touj
 
 #### Québec vs France
 
-In Canadian reading passages on the TCF, Tier 1 and Tier 2 notices frequently incorporate standard Québec civic and transit terms:
+Canadian-themed practical notices may include Québec civic and transit terms:
 - *le traversier* **(QC)**: Ferry boat (*Prendre le traversier Québec-Lévis*).
 - *l'aqueduc* **(QC)**: Municipal water supply network (*Travaux sur le réseau d'aqueduc*).
 - *le déneigement* **(QC)**: Snow clearing operations and seasonal parking bans (*Avis d'opération de déneigement : interdiction de stationner*).
-- *le trottoir en travaux* **(QC)**: Sidewalk maintenance notice.
+- *trottoir en travaux* (pan-French, not a québécisme): Sidewalk maintenance notice.
 
 </div>
 
@@ -206,7 +203,7 @@ Analyze the following student test-day dashboard and diagnose the pacing issue:
 
 **Diagnostic**: DANGER! Falling significantly behind schedule.  
 According to the Milestone Dashboard, the candidate should have reached **Item 26 with at least 30:00 remaining**. Reaching only Item 22 with 28:15 left means the candidate spent nearly 32 minutes on the first 21 items (~90s/item).  
-**Remediation**: The candidate must immediately accelerate. For Items 23–25, read question stems first, spend no more than 50 seconds per item, and stop flagging questions.
+**Remediation**: The candidate must immediately accelerate. For Items 23–25, read question stems first, spend no more than 50 seconds per item, and stop second-guessing answers.
 
 </details>
 
@@ -221,13 +218,13 @@ Complete the pacing calculation table for your upcoming mock exam:
 
 | Exam Phase | Items | Target Minutes | Target Seconds/Item | Checkpoint Clock Reading |
 | :--- | :---: | :---: | :---: | :---: |
-| Tier 1 | 1 – 14 | **15 min** | **~45s** | **45:00** |
+| Tier 1 | 1 – 14 | **15 min** | **~60s** | **45:00** |
 | Tier 2 | 15 – 25 | **15 min** | **~80s** | **30:00** |
 | Tier 3 | 26 – 35 | **20 min** | **~120s** | **10:00** |
 | Final Sprint | 36 – 39 | **8 min** | **~120s** | **02:00** |
 | Buffer | All | **2 min** | Review | **00:00** |
 
-#### Exercise 2: Timed 10-Minute Tier 2 Sprint (Items 15–22)
+#### Exercise 2: Timed 10-Minute Sprint (Medium-Length Texts)
 Set a 10-minute timer. Read the two passages below and answer the questions under authentic pacing:
 
 > **Texte 1 : Note de service interne**  
@@ -267,7 +264,7 @@ Record a 60-second voice note in French explaining to a fellow student why unifo
 
 Confirm your mastery of reading pacing tactics before advancing to the Five-Second Drop Rule:
 
-1. What is the "Linear Pacing Fallacy", and how does it sabotage candidates on items 26–39?  
+1. Why does spending the same time on every item sabotage candidates on the later, harder items?  
    [Review introduction to reading pacing](#introduction)
 2. What is the Strict 15 / 15 / 30 Time Allocation Blueprint?  
    [Review the strict time allocation blueprint: 15 / 15 / 30](#the-strict-time-allocation-blueprint-15-15-30)
@@ -284,7 +281,7 @@ Confirm your mastery of reading pacing tactics before advancing to the Five-Seco
 
 This section provides verified links to high-quality external resources for ongoing timed reading practice:
 
-* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official guidelines detailing the 39-question reading structure and timing standards.
+* [France Éducation international — Spécifications du TCF Compréhension écrite](https://www.france-education-international.fr/) — Official exam description: 39 reading items in 60 minutes, and candidate information.
 * [La Presse — Débats et actualités](https://www.lapresse.ca/) — High-quality Canadian daily journalism with editorial columns ideal for practicing 2-minute macro-reading.
-* [Radio-Canada Info — Enquêtes et dossiers](https://ici.radio-canada.ca/info) — In-depth multi-source investigative articles matching TCF Tier 3 complexity.
+* [Radio-Canada Info — Enquêtes et dossiers](https://ici.radio-canada.ca/info) — In-depth multi-source investigative articles for practising dense, harder texts.
 * [OQLF — Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Official government portal for Canadian public policy terminology and administrative definitions.

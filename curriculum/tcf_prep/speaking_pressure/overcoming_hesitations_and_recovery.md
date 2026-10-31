@@ -2,8 +2,8 @@
 
 In the live **Expression orale** examination of the TCF Canada, perfection is a dangerous myth. Even educated native Francophones hesitate, lose their train of thought, search for elusive technical vocabulary, or misconjugate irregular verbs when speaking under high pressure.
 
-The difference between a candidate who scores B1 and one who earns an **Upper B2 or C1 (NCLC 7 to 9)** does not lie in the complete absence of errors. It lies in **how they recover from conversational friction**:
-- When an untrained candidate experiences a lexical blackout, they panic. They fill the silence with prolonged, grating vocalized pauses (*« euh... euh... »*), switch involuntarily to English (*« how you say... »*), or look apologetically at the examiner saying *« Pardon, je suis désolé, je suis trop stressé »*. These reactions shatter the illusion of linguistic autonomy and trigger severe deductions on *Aisance et fluidité*.
+The difference between a candidate who scores B1 and one who earns a **solid B2 or C1** does not lie in the complete absence of errors. It lies in **how they recover from conversational friction**:
+- When an untrained candidate experiences a lexical blackout, they panic. They fill the silence with prolonged, grating vocalized pauses (*« euh... euh... »*), switch involuntarily to English (*« how you say... »*), or look apologetically at the examiner saying *« Pardon, je suis désolé, je suis trop stressé »*. These reactions shatter the impression of linguistic autonomy and make the candidate sound much less fluent.
 - An advanced candidate treats memory lapses and grammatical slips as natural conversational events. Instead of freezing, they deploy **high-register rhetorical fillers** (*« En effet »*, *« Force est de constater »*, *« D'ailleurs »*) that buy three seconds of thinking time while preserving an authoritative tone. If a specific noun escapes them, they climb the **Circumlocution Ladder**, defining the concept through its function or category. If they make a grammatical error, they execute **surgical self-repair** (*« ou plutôt »*, *« plus exactement »*) and press onward.
 
 This lesson provides the tactical psychological protocols, conversational bridge phrases, and repair scripts required to make your spoken delivery immune to test-day cognitive blackouts.
@@ -35,7 +35,7 @@ Many candidates believe that silence in an oral exam is fatal, so they fill ever
 | Spoken Habit | Examiner Perception & Scoring Impact |
 | :--- | :--- |
 | **Prolonged « Euh... »** | Signals severe cognitive distress, lack of lexical automatisms, and A2-level processing speed. |
-| **English or Native Slips** (*« like... you know... »*) | Evaluated as an immediate breakdown in French linguistic immersion. Heavy penalty on *Compétence linguistique*. |
+| **English or Native Slips** (*« like... you know... »*) | Perceived as a breakdown in your French; it makes your range look narrower than it is. |
 | **Apologetic Surrender** (*« Désolé, j'ai oublié le mot »*) | Destroys professional persona; highlights deficiencies directly to the rater. |
 | **The 2-Second Strategic Pause** | **Completely Acceptable**. Accompanied by steady eye contact and thoughtful facial composure, a 2-second breath signals intellectual reflection rather than lexical collapse. |
 
@@ -43,9 +43,9 @@ Many candidates believe that silence in an oral exam is fatal, so they fill ever
 
 #### Exam tip: The 3-Second Rule
 
-An examiner will comfortably tolerate **two to three seconds of silence** if your body language indicates that you are pondering the philosophical weight of the question. However, at **four seconds of dead silence**, the examiner assumes you are blocked. 
+This is a personal practice heuristic, not an official rule. A short, composed pause reads as reflection; a long dead silence starts to look like a blockage. 
 
-Never permit a pause to exceed three seconds. If the word does not arrive by second 3, immediately deploy a rhetorical filler or initiate the circumlocution protocol.
+In practice, try not to let a pause run past about three seconds. If the word does not arrive by second 3, immediately deploy a rhetorical filler or initiate the circumlocution protocol.
 
 </div>
 
@@ -105,7 +105,7 @@ When you realize the argument you just started making makes no sense:
 
 ### Surgical self-repair and the circumlocution ladder
 
-Even C2-level speakers make speech slips (*lapsus linguae*). France Éducation international examiners do not penalize self-repairs if they are executed swiftly and accurately.
+Even C2-level speakers make speech slips (*lapsus linguae*). Self-correction is a normal feature of fluent speech: a quick, accurate repair costs far less than a breakdown or an apology.
 
 #### The Three Rules of Surgical Self-Repair
 
@@ -143,7 +143,7 @@ What happens when you forget the word for **un embouteillage** (*a traffic jam*)
 +-------------------------------------------------------------------+
 ```
 
-Let us examine real exam examples of the Circumlocution Ladder in action:
+Let us examine examples of the Circumlocution Ladder in action:
 
 1. **Forgotten word**: *Le covoiturage* (*carpooling*)
    - *Ladder deployment*: **« Ce système où plusieurs collègues partagent le même véhicule privé pour se rendre sur leur lieu de travail afin de réduire les coûts et l'empreinte carbone... »**  
@@ -163,7 +163,7 @@ Spontaneous discourse markers and conversational fillers vary significantly betw
 - In informal European French, speakers habitually lean on *du coup*, *en fait*, *genre*, or *bref*.
 - In Québec and Canadian French, casual spoken markers include **dans le fond** **(QC)** (basically / essentially), **tsé** **(QC)** (short for *tu sais* / you know), **faque** or **fait que** **(QC)** (so / that's why), and **pantoute** **(QC)** (*pas du tout* / not at all).
 - Having difficulty: while a speaker in France says *avoir du mal à*, in Québec you will often hear **avoir de la misère à** **(QC)**.
-*Exam Strategy*: While you will frequently hear these markers in TCF listening tracks featuring Canadian speakers, you should avoid informal colloquial fillers (*tsé*, *genre*, *du coup*) in your own Speaking interview. Replace them with formal, high-register connectors (**en réalité**, **au demeurant**, **ainsi**) to secure a solid B2 or C1 score.
+*Exam Strategy*: While you may hear such markers in listening material featuring Canadian speakers, you should avoid informal colloquial fillers (*tsé*, *genre*, *du coup*) in your own Speaking interview. Replace them with formal, high-register connectors (**en réalité**, **au demeurant**, **ainsi**) to keep your register consistently B2/C1.
 
 </div>
 
@@ -224,7 +224,7 @@ Commit these 12 strategic spoken markers to memory:
 Compare the two candidate transcripts when confronted with an identical lexical slip:
 
 **Candidate A**:
-> *« L'année dernière, nous avons fait un grande... euh... comment dit... un grand fête... non, un grand événement... euh, je suis désolé, je suis un peu stressé aujourd'hui... euh, voilà, une réunion pour la compagnie. »*
+> *« L'année dernière, nous avons fait un grande... euh... how do you say... un grand fête... non, un grand événement... euh, je suis désolé, je suis un peu stressé aujourd'hui... euh, voilà, une réunion pour la compagnie. »*
 
 **Candidate B**:
 > *« L'année dernière, nous avons organisé une grande célébration, ou plus exactement un séminaire d'entreprise réunissant l'ensemble des collaborateurs pour célébrer les résultats annuels. Force est de constater que ce type de rassemblement renforce durablement la cohésion d'équipe. »*
@@ -237,7 +237,7 @@ Compare the two candidate transcripts when confronted with an identical lexical 
 <details>
 <summary>Check your diagnostic analysis</summary>
 
-1. **Candidate A Breakdown**: They signaled panic, broke French immersion (*« comment dit... »*), apologized repeatedly (*« désolé, stressé »*), and ended with a shrug (*« voilà »*). Their fluency score dropped straight to A2.
+1. **Candidate A Breakdown**: They signaled panic, switched to English (*« how do you say... »*), apologized (*« désolé, stressé »*), and ended with a shrug (*« voilà »*). Despite some correct vocabulary, the overall impression is of A2-level fluency.
 2. **Candidate B Masterclass**: They slipped on the noun choice, but immediately repaired with **« ou plus exactement un séminaire d'entreprise »** without pausing, instantly converting a potential mistake into a demonstration of lexical precision.
 3. **The Bridge**: Candidate B linked directly to their next analytical thought using **« Force est de constater que... »**.
 
@@ -275,6 +275,6 @@ Consult these free authoritative platforms to observe natural French conversatio
 
 * [Radio-Canada Première — Les grands entretiens](https://ici.radio-canada.ca/premiere) — In-depth conversations showcasing how journalists and intellectuals manage memory hesitations and nuanced self-repair.
 * [TV5Monde — Stratégies de communication orale](https://apprendre.tv5monde.com/fr) — Interactive pedagogical videos demonstrating circumlocution, reformulation, and hesitation management.
-* [France Éducation international — Barème de l'expression orale TCF](https://www.france-education-international.fr/) — Official scoring criteria for fluency, repair, and interactive ease.
+* [France Éducation international — Barème de l'expression orale TCF](https://www.france-education-international.fr/) — Official description of the speaking test and candidate information (check the current TCF Canada pages).
 * [Lawless French — French Fillers and Hesitation Words](https://www.lawlessfrench.com/) — Comparative reference detailing which fillers sound natural and educated versus those to avoid.
 

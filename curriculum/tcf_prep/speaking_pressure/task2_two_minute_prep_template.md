@@ -1,8 +1,8 @@
 ### Introduction
 
-In the **Expression orale** section of the TCF Canada, **Task 2 (l'exercice en interaction)** is where candidates frequently experience their most acute time crisis. Unlike Task 1, which begins instantly without preparation, and Task 3, which is an uninterrupted monologue, Task 2 grants you **exactly two minutes of silent preparation with scrap paper**, followed by **three minutes and thirty seconds of live, interactive roleplay with the examiner**.
+In the **Expression orale** section of the TCF Canada, **Task 2 (l'exercice en interaction)** is where candidates frequently experience their most acute time crisis. Unlike Task 1 and Task 3, which have no preparation time, Task 2 grants you **two minutes of preparation, during which you can take notes**, followed by **three minutes and thirty seconds of live, interactive roleplay with the examiner**.
 
-The task prompt presents a realistic situational card: you are asking about renting a cottage, enrolling in a language school, joining a volunteer sports league, booking a tour, or hiring a home service. Your official mandate is to **take the initiative, conduct the interview, ask a minimum of 10 to 12 relevant questions, react dynamically to the examiner's answers, and negotiate any logistical obstacles**.
+The task prompt presents a realistic situational card: you are asking about renting a cottage, enrolling in a language school, joining a volunteer sports league, booking a tour, or hiring a home service. Your job is to **take the initiative, conduct the exchange, ask relevant questions to obtain the information you need, react naturally to the examiner's answers, and handle any obstacles that come up**. No minimum number of questions is published; asking a varied, well-connected set matters more than hitting a count.
 
 Untrained candidates suffer from **full-sentence paralysis during the two-minute prep window**:
 - They panic and attempt to write out entire, word-for-word French questions on their scrap paper: *« Est-ce que vous pourriez me dire à quelle heure commence le... »*.
@@ -19,14 +19,14 @@ By the end of this lesson, you will be able to:
 - Maximize the **strict two-minute preparation window** using visual scrap-paper shorthand instead of handwriting complete sentences.
 - Deploy the **10-Category Question Generation Matrix (6-W + 4-T)** to instantly brainstorm inquiries covering logistics, costs, terms, prerequisites, and contingencies.
 - Vary your syntactic question structures across four grammatical registers: formal subject-verb inversion, polite conditional indirect questions, *est-ce que*, and intonation.
-- Command the **3.5-minute roleplay interaction**, taking the conversational lead, offering natural interactive rebounds (*« Très bien », « C'est bon à savoir », « En effet »*), and resolving deliberate examiner roadblocks.
+- Command the **3.5-minute roleplay interaction**, taking the conversational lead, offering natural interactive rebounds (*« Très bien », « C'est bon à savoir », « En effet »*), and handling any obstacles the examiner raises.
 - Conclude the interaction gracefully with a professional booking commitment or polite reservation.
 
 ---
 
 ### The 2-minute prep pressure: Scrap paper shorthand vs full-sentence paralysis
 
-During the official exam, the examiner hands you a prompt card, a blank sheet of scrap paper, and a pencil, announcing:
+On test day you receive the task instructions and two minutes to prepare. The exact wording and materials depend on the centre, but the instruction may sound something like this:
 > **« Vous avez deux minutes pour préparer cette tâche. Vous pouvez prendre des notes. Vous devez me poser des questions pour obtenir des informations. À vous. »**  
 > — /vu.z‿a.ve dø mi.nyt puʁ pʁe.pa.ʁe sɛt tɑʃ. vu pu.ve pʁɑ̃dʁ de nɔt. vu də.ve mə po.ze de kɛs.tjɔ̃ puʁ ɔb.tə.niʁ de.z‿ɛ̃.fɔʁ.ma.sjɔ̃. a vu/
 
@@ -34,7 +34,7 @@ Two minutes is **120 seconds**. If you attempt to handwrite complete grammatical
 
 #### The Scrap Paper Protocol: Symbols and Keywords Only
 
-Your scrap paper is not graded by France Éducation international (FEI). Examiners are forbidden from reading your notes; only the spoken words that leave your mouth count toward your score.
+Your notes are not scored. Only what you actually say during the interaction counts.
 
 Divide your scrap paper into three visual quadrants in the first 10 seconds:
 
@@ -66,7 +66,7 @@ By recording only single-word triggers (*COÛT, ANNULATION, MATÉRIEL*), your ey
 
 #### Exam tip: Eye Contact and Interactive Dynamics
 
-Examiners are evaluating *Interaction et aisance*. If you keep your head down and read questions from your sheet, the examiner will penalize you for lack of natural communicative competence. Treat your scrap paper as an airport departure board: glance down for half a second to grab your next keyword (*« ANNULATION »*), look up directly at the examiner, and speak:
+Task 2 is an interaction task. If you keep your head down and read questions from your sheet, the exchange stops sounding like a real conversation, which weakens your performance. Treat your scrap paper as an airport departure board: glance down for half a second to grab your next keyword (*« ANNULATION »*), look up directly at the examiner, and speak:
 **« Et qu'en est-il de votre politique d'annulation en cas d'imprévu ? »**
 
 </div>
@@ -99,7 +99,7 @@ To ensure that your questions never dry up during the 3.5 minutes, memorize the 
 
 #### Transforming Shorthand Keywords into Advanced Syntactic Structures
 
-To achieve a B2 or C1 score, you must vary your question syntax. Repeating **« Est-ce que vous avez... ? Est-ce que c'est... ? Est-ce que je peux... ? »** ten times will cap your score at B1.
+To achieve a B2 or C1 score, you must vary your question syntax. Repeating **« Est-ce que vous avez... ? Est-ce que c'est... ? Est-ce que je peux... ? »** ten times makes your range look limited and holds your performance at a B1 impression.
 
 Deploy these four distinct grammatical mechanisms across the interview:
 
@@ -114,7 +114,7 @@ Deploy these four distinct grammatical mechanisms across the interview:
 
 ### Driving the 3.5-minute roleplay: Conversational rebounds and objection negotiation
 
-Task 2 is not a dry police interrogation. It is a simulated real-world negotiation. A candidate who simply fires off questions without acknowledging the answers will be penalized on *Interaction communicative*.
+Task 2 is not a dry police interrogation. It is a simulated real-world negotiation. A candidate who simply fires off questions without acknowledging the answers shows little real interaction.
 
 #### The 3-Step Roleplay Communication Cycle
 
@@ -152,12 +152,12 @@ Never let an examiner's answer drop into silence. Use these formulas to validate
 #### Québec vs France
 
 In Task 2 roleplays situated in a Canadian context (inquiring about services, clubs, courses, or rentals), you will encounter common Canadian everyday vocabulary:
-- Shopping or running errands: in France, *faire les courses* or *faire du shopping*; in Québec, **magasiner** **(QC)**.
-- Car parking: in France, *le parking*; in Québec, **le stationnement** **(QC)**.
+- Shopping (browsing stores, buying clothes, etc.): in France, *faire du shopping* or *faire les magasins*; in Québec, **magasiner** **(QC)**. (Grocery shopping is *faire l'épicerie* **(QC)** / *faire les courses*.)
+- Parking lot: in France, *le parking*; in Québec, **le stationnement** **(QC)** (in France, *stationnement* mostly means the act of parking).
 - The weekend: in France, *le week-end*; in Québec, **la fin de semaine** **(QC)**.
 - Customer service staff: in France, *le vendeur* or *le conseiller*; in Québec, **le commis** **(QC)** or **le préposé** **(QC)**.
-- Operating hours: in France, *les horaires d'ouverture*; in Québec, **les heures d'affaires** **(QC)** or **les heures de bureau** **(QC)**.
-On the TCF Canada, both European and Canadian registers are valid, but recognizing Canadian terms is vital when the examiner adopts a Canadian persona.
+- Operating hours: in France, *les horaires d'ouverture*; in Québec, **les heures d'affaires** **(QC)** (*les heures de bureau* is used everywhere).
+Both European and Canadian vocabulary are correct French, but recognizing Canadian terms helps when the scenario is set in Canada.
 
 </div>
 
@@ -166,7 +166,7 @@ On the TCF Canada, both European and Canadian registers are valid, but recognizi
 #### How to Signal the Conclusion of the Roleplay
 
 When the examiner signals that time is nearly up (around the 3:15 mark), do not let the conversation trail off awkwardly. Deliver a crisp, professional conclusion:
-**« Écoutez, je vous remercie infiniment pour toutes ces explications précises. Tout cela me semble tout à fait concluant. Serait-il possible de remplir dès maintenant une fiche de pré-inscription ou préférez-vous que je repasse demain avec l'ensemble des documents ? »**
+**« Écoutez, je vous remercie infiniment pour toutes ces explications précises. Tout cela me convient parfaitement. Serait-il possible de remplir dès maintenant une fiche de pré-inscription ou préférez-vous que je repasse demain avec l'ensemble des documents ? »**
 
 </div>
 
@@ -219,13 +219,13 @@ Commit these 12 interactive formulas to memory to lead the dialogue smoothly:
 | **Cela correspond tout à fait à mon profil.** | /sə.la kɔ.ʁɛs.pɔ̃ tu.t‿a fɛ a mɔ̃ pʁɔ.fil/ | *That matches my profile completely.* | Positive validation |
 | **Permettez-moi d'insister sur un point...** | /pɛʁ.mɛ.te mwa d‿ɛ̃.sis.te syʁ œ̃ pwɛ̃/ | *Allow me to emphasize one point...* | Deepening an inquiry |
 | **Qu'en est-il des modalités de paiement ?** | /k‿ɑ̃n‿ɛt‿il de mɔ.da.li.te də pe.mɑ̃/ | *What about payment arrangements?* | Introducing pricing |
-| **Y a-t-il des prérequis particuliers ?** | /i.l‿j‿a.t‿il de pʁe.ʁə.ki paʁ.ti.ky.lje/ | *Are there specific prerequisites?* | Asking about admission |
+| **Y a-t-il des prérequis particuliers ?** | /j‿a.t‿il de pʁe.ʁə.ki paʁ.ti.ky.lje/ | *Are there specific prerequisites?* | Asking about admission |
 | **Dans l'hypothèse où je devrais reporter...** | /dɑ̃ l‿i.pɔ.tɛz u ʒə də.vʁɛ ʁə.pɔʁ.te/ | *In the event that I had to postpone...* | Negotiating flexibility |
 | **Existerait-il une formule alternative ?** | /ɛɡ.zis.tə.ʁɛ.t‿il yn fɔʁ.myl al.tɛʁ.na.tiv/ | *Might there be an alternative plan?* | Overcoming an obstacle |
 | **C'est un élément des plus rassurants.** | /s‿ɛt‿œ̃n‿e.le.mɑ̃ de ply ʁa.sy.ʁɑ̃/ | *That is a most reassuring factor.* | Positive reaction |
 | **Pourriez-vous m'éclairer quant aux... ?** | /pu.ʁje vu m‿e.klɛ.ʁe kɑ̃.t‿o/ | *Could you clarify regarding...?* | High-register transition |
 | **Le matériel est-il fourni gracieusement ?** | /lə ma.te.ʁjɛl ɛ.t‿il fuʁ.ni ɡʁa.sjøz.mɑ̃/ | *Is gear provided free of charge?* | Checking hidden costs |
-| **Tout cela me paraît extrêmement concluant.** | /tu sə.la mə pa.ʁɛ ɛks.tʁɛm.mɑ̃ kɔ̃.kly.ɑ̃/ | *All this seems highly convincing.* | Beginning the wrap-up |
+| **Tout cela me convient parfaitement.** | /tu sə.la mə kɔ̃.vjɛ̃ paʁ.fɛt.mɑ̃/ | *All this suits me perfectly.* | Beginning the wrap-up |
 | **Conviendrait-il que je vous transmette... ?** | /kɔ̃.vjɛ̃.dʁɛ.t‿il kə ʒə vu tʁɑ̃s.mɛt/ | *Would it be suitable for me to send...?* | Finalizing booking |
 
 ---
@@ -267,7 +267,7 @@ Set your timer:
 - **Phase 1 (2:00)**: Prepare scrap-paper shorthand notes for this new scenario:
   > **Prompt Card**: Vous souhaitez faire du bénévolat pour une association d'aide aux nouveaux arrivants dans votre ville. Vous contactez le coordinateur de l'organisme pour vous renseigner sur les missions proposées, le temps d'engagement requis, les formations offertes aux bénévoles et les démarches d'adhésion.
 - **Phase 2 (3:30)**: Start an audio recorder and speak aloud. Imagine the examiner's answers and respond using the 3-step cycle (Question $\rightarrow$ Imagined Response $\rightarrow$ Conversational Rebound $\rightarrow$ Next Question).
-- Count how many distinct questions you delivered. (Target: minimum 10 questions).
+- Count how many distinct questions you delivered. (Personal study target: around 10 varied questions — this is a practice benchmark, not an exam rule.)
 
 </div>
 
@@ -281,7 +281,7 @@ Test your mastery of Speaking Task 2 mechanics:
 - [Why is writing complete sentences on scrap paper during the two-minute preparation considered a dangerous mistake?](#the-2-minute-prep-pressure-scrap-paper-shorthand-vs-full-sentence-paralysis)
 - [What are the ten inquiry categories composing the 6-W + 4-T Matrix?](#the-10-category-question-generation-matrix-6-w-4-t)
 - [What four distinct syntactic structures should a candidate alternate to avoid repetitive questions?](#the-10-category-question-generation-matrix-6-w-4-t)
-- [How should a candidate react when an examiner introduces a deliberate logistical obstacle or refusal during the roleplay?](#driving-the-3-5-minute-roleplay-conversational-rebounds-and-objection-negotiation)
+- [How should a candidate react when the examiner raises a logistical obstacle or refusal during the roleplay?](#driving-the-3-5-minute-roleplay-conversational-rebounds-and-objection-negotiation)
 
 ---
 
@@ -289,7 +289,7 @@ Test your mastery of Speaking Task 2 mechanics:
 
 Consult these free authoritative platforms to practice interactive question techniques:
 
-* [France Éducation international — Épreuve d'interaction orale TCF](https://www.france-education-international.fr/) — Official scoring criteria for Task 2, candidate instructions, and benchmark evaluation grids.
+* [France Éducation international — Épreuve d'interaction orale TCF](https://www.france-education-international.fr/) — Official description of the speaking test and candidate information (check the current TCF Canada pages).
 * [TV5Monde — Jeux de rôle et démarches administratives](https://apprendre.tv5monde.com/fr) — Spoken interactive modules simulating real-world inquiries, appointments, and service negotiations.
 * [Vitrine linguistique (OQLF) — Poser des questions et formules de politesse](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Standardized Canadian reference for polite conditional inquiries and professional telephone etiquette.
 * [Radio-Canada Première — La vie en société](https://ici.radio-canada.ca/premiere) — Authentic dialogues and interviews highlighting spontaneous Francophone turn-taking and conversational negotiation.

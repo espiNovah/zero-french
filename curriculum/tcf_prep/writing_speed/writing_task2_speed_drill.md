@@ -3,10 +3,10 @@
 In the **Expression écrite** examination of the TCF Canada, **Task 2 represents the critical stylistic pivot between basic daily communication and mature civic argumentation**. While Task 1 evaluates your ability to convey simple factual messages, Task 2 demands that you combine two fundamentally distinct rhetorical modes: **a detailed narrative recount of a personal past experience** and **a structured, persuasive opinion on a broader societal issue**.
 
 The official requirements specify a tight word count boundary of **120 to 150 words** written for a public or semi-public audience, such as a blog post, a community newsletter, an open letter to a municipal council, or an internet forum debate. Candidates face two major hurdles:
-1. **The Structural Asymmetry Trap**: Many writers spend 110 words recounting the narrative details of their vacation or public transit delay, leaving only 20 hasty words for their opinion. France Éducation international (FEI) examiners grade both components with equal weight; an underdeveloped opinion caps your task score at B1 regardless of narrative eloquence.
+1. **The Structural Asymmetry Trap**: Many writers spend 110 words recounting the narrative details of their vacation or public transit delay, leaving only 20 hasty words for their opinion. FEI publishes no per-part weighting, but the prompt asks for both an account and an opinion, so treat them as equally important (a study tip, not an official rule): an underdeveloped opinion leaves half the task unfulfilled, however eloquent the narrative.
 2. **The 20-Minute Time Trap**: Because Task 2 requires substantive thought, candidates often let their clock drift to 26 or 30 minutes, severely compromising the 25 minutes strictly required for the complex Task 3 synthesis.
 
-To master Task 2, you must treat it as a disciplined engineering exercise: an **exact 50/50 bipartite division** (approx. 65 words of narrative + 70 words of opinion = **135 words**) drafted in **16 minutes** and verified with **4 minutes of focused proofreading**. This lesson provides the tactical blueprints, bridge articulators, and speed drills required to execute this balance under exam conditions.
+To master Task 2, treat it as a disciplined engineering exercise. Our study heuristic is an **approximate 50/50 bipartite division** (approx. 65 words of narrative + 70 words of opinion = **135 words**) drafted in **16 minutes** and verified with **4 minutes of focused proofreading**. This lesson provides the tactical blueprints, bridge articulators, and speed drills required to execute this balance under exam conditions.
 
 ---
 
@@ -14,7 +14,7 @@ To master Task 2, you must treat it as a disciplined engineering exercise: an **
 
 By the end of this lesson, you will be able to:
 - Apportion the strict **20-minute operational budget** (3 min planning, 13 min drafting, 4 min proofreading) for Task 2.
-- Calibrate your word count precisely within the **130- to 145-word optimal target zone**, satisfying all FEI criteria without risking under-length penalties.
+- Calibrate your word count precisely within the **130- to 145-word optimal target zone**, comfortably inside the official 120–150-word range.
 - Implement the **50/50 bipartite architecture**, seamlessly linking past-tense narration (*passé composé* / *imparfait*) to present/future civic reflection.
 - Deploy high-scoring transitional bridge articulators (*Fort de ce constat*, *Cette expérience démontre que*, *Il conviendrait donc de*) that elevate your submission to B2/C1 register.
 - Execute a 4-minute proofreading sweep focusing on past participle agreement, relative pronouns, and subjunctive triggers.
@@ -31,7 +31,7 @@ On the 60-minute master exam timer, Task 2 occupies the middle twenty minutes:
 [35:00 - 60:00] Task 3: Dual-Document Synthesis (Target: 160 words / 25 min)
 ```
 
-At the **35:00 mark**, your computer screen clock must show that Task 2 has been submitted and locked. Entering the final 25 minutes with Task 2 still incomplete creates immediate panic and almost guarantees an unfinished Task 3.
+At the **35:00 mark**, aim to have finished Task 2 and moved on. Entering the final 25 minutes with Task 2 still incomplete creates immediate panic and almost guarantees an unfinished Task 3.
 
 #### The Word Count Economics of Task 2
 
@@ -39,17 +39,17 @@ FEI specifies a mandatory range of **120 to 150 words**:
 
 | Word Count Range | Scoring Evaluation | Strategic Implication |
 | :--- | :--- | :--- |
-| **< 120 words** | **Severe Structural Penalty**. The candidate fails the length requirement. The score for *Respect de la consigne* is automatically penalized. |
+| **< 120 words** | **Below the required length**. The length requirement is part of task completion, so an under-length text lowers your overall writing score. |
 | **120 – 128 words** | **Borderline**. Technically legal, but provides minimal room to demonstrate syntactic variety or advanced vocabulary. |
 | **130 – 142 words** | **The Ideal Sweet Spot**. Balanced 50/50 structure, includes 2–3 complex articulators, demonstrates both past tenses and subjunctive/conditional, and finishes comfortably within 16 minutes. |
-| **143 – 150 words** | **Upper Limit**. Safe, but leaves zero margin for typographical token miscalculations. |
-| **> 150 words** | **Word Ceiling Penalty**. The examiner stops counting at 150 words. Anything written beyond word 150 is ignored for positive credit, but any spelling/grammar errors within the excess are still penalized. |
+| **143 – 150 words** | **Upper Limit**. Safe, but leaves zero margin if your own count is slightly off. |
+| **> 150 words** | **Outside the required range**. Respecting the length is part of task completion. Study tip: assume anything past 150 words earns you nothing and only adds chances for errors. |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Avoid the "Wall of Text" Format
 
-Never submit Task 2 as a single monolithic block of text. A visually unbroken paragraph signals a lack of rhetorical organization to the examiner. Always format Task 2 into **two distinct, balanced paragraphs**:
+Never submit Task 2 as a single monolithic block of text. A visually unbroken paragraph makes your organization harder for the examiner to see. Always format Task 2 into **two distinct, balanced paragraphs**:
 - **Paragraph 1 (approx. 60–65 words)**: Context setting, recount of the specific personal experience, the trigger event.
 - **Paragraph 2 (approx. 70–75 words)**: Transition to societal reflection, argumentation, and concrete civic recommendation.
 
@@ -72,7 +72,7 @@ Never submit Task 2 as a single monolithic block of text. A visually unbroken pa
   - Check *passé composé* vs *imparfait* aspectual consistency.
   - Check *subjonctif* triggers (**« il est indispensable que la mairie prenne »**).
   - Check adjective and participle agreements.
-  - Submit Task 2 at exactly 35:00 elapsed.
+  - Move on to Task 3 at 35:00 elapsed.
 
 ---
 
@@ -114,21 +114,21 @@ Consider this representative TCF Canada Task 2 prompt:
 
 Let us examine the modeled response:
 
-> **L'hiver dernier, alors que je me rendais au travail par une matinée glaciale, le train de banlieue est tombé en panne en pleine voie. Nous sommes restés bloqués plus de deux heures dans le noir, sans la moindre information de la part des contrôleurs. Cette situation anxiogène a suscité une vive exaspération parmi les usagers.**  
+> **L'hiver dernier, alors que je me rendais au travail par une matinée glaciale, le train de banlieue est tombé en panne en pleine voie. Nous sommes restés bloqués plus de deux heures dans le noir, sans la moindre information de la part des contrôleurs. Plusieurs passagers ont même manqué des rendez-vous médicaux importants. Cette situation anxiogène a suscité une vive exaspération parmi les usagers.**  
 > 
-> **Cette mésaventure démontre que la vétusté des infrastructures pénalise gravement le quotidien des citoyens. Si l'on souhaite réellement inciter la population à délaisser la voiture individuelle au profit du transport collectif, il est primordial que les municipalités modernisent les réseaux ferroviaires et garantissent une communication transparente en temps réel. Des investissements massifs dans la maintenance préventive s'avèrent indispensables pour restaurer la confiance du public.**
+> **Cette mésaventure démontre que la vétusté des infrastructures pénalise gravement le quotidien des citoyens. Si l'on souhaite réellement inciter la population à délaisser la voiture individuelle au profit des transports en commun, il est primordial que les municipalités modernisent les réseaux ferroviaires et garantissent une communication transparente en temps réel. Des investissements massifs dans la maintenance préventive s'avèrent indispensables pour restaurer la confiance du public. Sans ces efforts, les usagers continueront de préférer leur voiture.**
 
 #### Detailed Structural and Lexical Analysis:
 
-- **Total Word Count**: Exactly **137 words** (ideal zone).
-- **Paragraph 1 (63 words)**:
+- **Total Word Count**: Exactly **139 words** (ideal zone; space-delimited count).
+- **Paragraph 1 (64 words)**:
   - Temporal anchor: **« L'hiver dernier »** — /l‿i.vɛʁ dɛʁ.nje/.
   - Background setting (*imparfait*): **« alors que je me rendais au travail »** — /a.lɔʁ kə ʒə mə ʁɑ̃.dɛ o tʁa.vaj/.
   - Punctual disruption (*passé composé*): **« le train est tombé en panne »**, **« Nous sommes restés bloqués »**.
   - Evocative reaction: **« a suscité une vive exaspération »**.
 - **Transitional Bridge**:
   - **« Cette mésaventure démontre que... »** connects the specific train incident directly to municipal public policy.
-- **Paragraph 2 (74 words)**:
+- **Paragraph 2 (75 words)**:
   - Broad societal critique: **« la vétusté des infrastructures pénalise gravement »**.
   - Hypothetical conditional structure: **« Si l'on souhaite réellement... il est primordial que... modernisent »** (triggers subjunctive: *modernisent*).
   - Constructive proposal: **« Des investissements massifs... s'avèrent indispensables »**.
@@ -138,10 +138,10 @@ Let us examine the modeled response:
 #### Québec vs France
 
 In Task 2 prompts addressing transportation, public spaces, and civic services in Canadian settings, use natural Canadian civic vocabulary:
-- *le transport collectif* **(QC)**: The standard formal Canadian equivalent of *les transports en commun*.
-- *l'autobus* **(QC)**: Used universally in Québec rather than *le bus*.
-- *l'heure de pointe* **(QC)**: Rush hour (*les heures de pointe* in France).
-- *le titre de transport* **(QC)**: Official term for transit passes and tickets, avoiding hexagonal trade names like *le passe Navigo*.
+- *le transport collectif*: Very common in Québec administrative usage (also used in France) alongside *les transports en commun*.
+- *l'autobus* **(QC)**: The usual word in Québec, where *le bus* is less common than in France.
+- *l'heure de pointe*: Rush hour (used on both sides of the Atlantic, singular or plural).
+- *le titre de transport*: The generic term for transit passes and tickets (used in France too), better than local brand names such as *OPUS* or *le passe Navigo*.
 - *l'achalandage* **(QC)**: Passenger volume or ridership (*un fort achalandage sur les lignes principales* vs France *la fréquentation*).
 
 </div>
@@ -166,7 +166,7 @@ To achieve a solid B2 or C1 rating, your transition between Paragraph 1 and Para
 
 #### Grammatical Upgrades for Paragraph 2
 
-Examiners look for specific B2/C1 syntactic structures in Paragraph 2. Injecting at least two of these guarantees high marks on *Correction morphosyntaxique*:
+Examiners look for specific B2/C1 syntactic structures in Paragraph 2. Using at least two of these accurately shows the range of grammar expected at B2:
 1. **Subjunctive with Impersonal Necessity**:
    - **« Il est indispensable que nous agissions... »** — /i.l‿ɛt‿ɛ̃.dis.pɑ̃.sabl kə nu.z‿a.ʒi.sjɔ̃/ (*It is essential that we act...*)
    - **« Il conviendrait que les autorités prennent des mesures... »** — /il kɔ̃.vjɛ̃.dʁɛ kə le.z‿o.tɔ.ʁi.te pʁɛn de mə.zyʁ/ (*It would be advisable that authorities take measures...*)
@@ -197,15 +197,15 @@ Open a plain text editor with all spellcheckers disabled. Set a timer for **16 m
 <details>
 <summary>View benchmark model and token breakdown</summary>
 
-**Benchmark Model (138 words)**:
-> **Samedi dernier, j'ai rejoint une vingtaine de bénévoles pour participer à la grande journée citoyenne de ramassage des déchets dans notre parc municipal. En l'espace de trois heures seulement, nous avons rempli une cinquantaine de sacs poubelles d'emballages plastiques et de mégots abandonnés. Malgré la bonne humeur générale, l'ampleur de cette pollution m'a profondément troublé.**  
+**Benchmark Model (140 words)**:
+> **Samedi dernier, j'ai rejoint une vingtaine de bénévoles pour participer à la grande journée citoyenne de ramassage des déchets dans notre parc municipal. En l'espace de trois heures seulement, nous avons rempli une cinquantaine de sacs poubelles d'emballages plastiques et de mégots abandonnés. Malgré la bonne humeur générale, l'ampleur de cette pollution m'a profondément troublé. Certains promeneurs nous ont d'ailleurs chaleureusement remerciés.**  
 > 
-> **Cette expérience m'a fait prendre conscience que les opérations ponctuelles de nettoyage ne suffisent pas à enrayer le problème. Si l'on veut préserver durablement notre cadre de vie, il est impératif que la municipalité installe davantage de poubelles de tri et inflige des amendes plus dissuasives aux contrevenants. De surcroît, des ateliers éducatifs dans les écoles s'avèrent essentiels pour que les générations futures adoptent des comportements écoresponsables dès le plus jeune âge.**
+> **Cette expérience m'a fait prendre conscience que les opérations ponctuelles de nettoyage ne suffisent pas à enrayer le problème. Si l'on veut préserver durablement notre cadre de vie, il est impératif que la municipalité installe davantage de poubelles de tri et inflige des amendes plus dissuasives aux contrevenants. De surcroît, des ateliers éducatifs dans les écoles s'avèrent essentiels pour que les générations futures adoptent des comportements écoresponsables dès le plus jeune âge. La propreté est l'affaire de tous.**
 
-**Token Count Breakdown**: Exactly **138 words**.
-- Paragraph 1: 65 words (Past recount: *j'ai rejoint*, *nous avons rempli*, *m'a troublé*).
+**Token Count Breakdown**: Exactly **140 words**.
+- Paragraph 1: 62 words (Past recount: *j'ai rejoint*, *nous avons rempli*, *m'a troublé*).
 - Bridge: *Cette expérience m'a fait prendre conscience que...*
-- Paragraph 2: 73 words (Civic opinion: *il est impératif que... installe*, *s'avèrent essentiels*).
+- Paragraph 2: 78 words (Civic opinion: *il est impératif que... installe*, *s'avèrent essentiels*).
 
 </details>
 
@@ -241,18 +241,18 @@ Read the following candidate submission responding to a prompt about experiencin
 **Audit Questions**:
 1. What is the total word count of the draft? Does it meet the 120-word floor?
 2. How many words are dedicated to the personal narrative versus the opinion/recommendation?
-3. What CEFR level would this draft receive on *Réalisation de la tâche* and why?
+3. How well does this draft fulfil the task, and why?
 
 <details>
 <summary>Check your audit analysis</summary>
 
 **Audit Analysis**:
-1. **Word Count**: The text contains **125 words**. Technically, it passes the 120-word minimum threshold.
+1. **Word Count**: The text contains **105 words** (space-delimited count). It **fails** the 120-word minimum.
 2. **Extreme Asymmetry**:
-   - The personal narrative occupies **113 words** (90% of the text).
-   - The opinion/recommendation occupies only **12 words** (*« Je pense que le télétravail a des avantages et des inconvénients »*).
-3. **Grading Assessment**:
-   - This submission will be capped at **B1** (or even high A2) for *Réalisation de la tâche*. The candidate merely stated a platitude (*des avantages et des inconvénients*) without giving a single concrete recommendation, civic perspective, or reasoned argument about labor regulations or hybrid working models.
+   - The personal narrative occupies **94 words** (about 90% of the text).
+   - The opinion/recommendation occupies only **11 words** (*« Je pense que le télétravail a des avantages et des inconvénients »*).
+3. **Task fulfilment**:
+   - Even if it reached 120 words, this submission would only half-fulfil the task, which weighs on the overall score. The candidate merely stated a platitude (*des avantages et des inconvénients*) without giving a single concrete recommendation, civic perspective, or reasoned argument about labor regulations or hybrid working models.
 
 </details>
 
@@ -274,10 +274,10 @@ Rewrite the remote work prompt properly. Set a timer for **16 minutes**. In a pl
 Test your mastery of Task 2 speed architecture:
 
 - [What is the exact operational time limit and target word count recommended for Task 2?](#the-20-minute-operational-budget-and-the-135-word-sweet-spot)
-- [Why is a single unbroken paragraph penalized on the coherence and cohesion criterion for Task 2?](#the-20-minute-operational-budget-and-the-135-word-sweet-spot)
+- [Why does a single unbroken paragraph weaken the perceived coherence of a Task 2 text?](#the-20-minute-operational-budget-and-the-135-word-sweet-spot)
 - [What are the specific communicative and grammatical goals of Paragraph 1 versus Paragraph 2 in the 50/50 bipartite architecture?](#the-50-50-bipartite-architecture-narrative-recount-and-civic-stance)
 - [How do transitional bridge articulators ensure a smooth shift from individual anecdote to broader societal critique?](#high-velocity-bridge-articulators-and-grammatical-upgrades)
-- [Which grammatical structures in Paragraph 2 demonstrate B2/C1 syntactic control to France Éducation international examiners?](#high-velocity-bridge-articulators-and-grammatical-upgrades)
+- [Which grammatical structures in Paragraph 2 demonstrate B2/C1 syntactic control?](#high-velocity-bridge-articulators-and-grammatical-upgrades)
 
 ---
 
@@ -287,6 +287,6 @@ The following verified Francophone platforms offer real-world inspiration for ci
 
 * [Radio-Canada — Espaces autochtones et débats de société](https://ici.radio-canada.ca/) — Excellent source for authentic Canadian opinion pieces and public letters.
 * [Le Devoir — Idées et tribunes libres](https://www.ledevoir.com/opinion/idees) — Short civic columns providing exemplary models of mature argumentation and transitional articulators.
-* [France Éducation international — Guide de notation de l'Expression écrite](https://www.france-education-international.fr/) — Official rubric criteria and scoring guidelines for TCF Task 2.
+* [France Éducation international — TCF Canada](https://www.france-education-international.fr/) — Official exam description and sample tasks for the TCF writing section.
 * [La Presse — Débats et lettres ouvertes](https://www.lapresse.ca/debats/) — Modern Canadian viewpoints on urbanism, transit, health, and labor conditions.
 
