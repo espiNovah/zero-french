@@ -21,16 +21,16 @@ The main use cases:
 
 ### The paths
 
-| Path | What you'll be able to do | Hours |
-| --- | --- | --- |
-| A1 Basics | Greet people, introduce yourself, order food, use basic grammar and everyday vocabulary | ~100 |
-| A2 Survival French | Handle daily tasks: shopping, asking directions, making appointments, describing your routine | ~100 |
-| B1 Independent French | Discuss familiar topics, narrate events, express opinions, read news articles and follow podcasts | ~200 |
-| B2 Advanced French | Argue a position, follow complex discussions, write structured texts, understand nuance | ~200 |
-| TCF Exam Prep | Master every TCF Canada task type with full timed mocks and score tracking | ~60 |
-| B2+ Safety Margin (elective) | Push all four skills above the NCLC 7 cut-off to build confidence and absorb exam-day nerves | ~60 |
+| Path | What you'll be able to do |
+| --- | --- |
+| A1 Basics | Greet people, introduce yourself, order food, use basic grammar and everyday vocabulary |
+| A2 Survival French | Handle daily tasks: shopping, asking directions, making appointments, describing your routine |
+| B1 Independent French | Discuss familiar topics, narrate events, express opinions, read news articles and follow podcasts |
+| B2 Advanced French | Argue a position, follow complex discussions, write structured texts, understand nuance |
+| TCF Exam Prep | Master every TCF Canada task type with full timed mocks and score tracking |
+| B2+ Safety Margin (elective) | Push all four skills above the NCLC 7 cut-off to build confidence and absorb exam-day nerves |
 
-The full curriculum covers roughly 720 hours. At 10 hours a week, that's about 18 months. Treat the hours as guides, not deadlines.
+The full curriculum is self-paced. Progress depends on your starting level, study routine, and personal goals.
 
 ### How to succeed
 
