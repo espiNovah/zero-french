@@ -300,7 +300,7 @@ Test your mastery of passé simple recognition:
 
 Consult these free reference platforms to explore literary French conjugation and journalistic prose:
 
-* [Le Monde — Les Grands Articles d'Histoire](https://www.lemonde.fr/) — High-register historical essays showcasing modern journalistic usage of the passé simple.
+* [Radio-Canada — Grands dossiers d'histoire et de société](https://ici.radio-canada.ca/info) — In-depth Canadian journalistic retrospectives highlighting formal narrative past tenses.
 * [Le Devoir — Histoire et Société](https://www.ledevoir.com/) — Quebec daily newspaper featuring retrospectives on Canadian and Quebec political history.
 * [CNRTL — Trésor de la Langue Française informatisé](https://www.cnrtl.fr/) — Authoritative linguistic resource for verifying rare and literary French verbal paradigms.
 * [Lawless French — The Passé Simple](https://www.lawlessfrench.com/) — Clear pedagogical reference table outlining regular and irregular literary past tense patterns.

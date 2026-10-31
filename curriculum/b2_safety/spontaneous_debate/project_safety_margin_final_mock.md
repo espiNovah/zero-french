@@ -224,3 +224,4 @@ The following official portals and reference sources provide official exam regis
 * [Immigration, Réfugiés et Citoyenneté Canada (IRCC) — Équivalences NCLC](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express/documents/exigences-linguistiques/tableau-competences-linguistiques.html) — Official concordance tables converting raw TCF scores into Canadian Language Benchmarks (NCLC).
 * [TV5Monde — Entraînement interactif au TCF](https://apprendre.tv5monde.com/fr/tcf) — Official simulated exam series providing scored feedback on listening and reading items.
 * [Radio-Canada Info — L'actualité canadienne et internationale](https://ici.radio-canada.ca/info) — Essential daily immersion material for maintaining C1 vocabulary, political idioms, and listening stamina.
+

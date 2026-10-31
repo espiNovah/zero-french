@@ -225,3 +225,4 @@ The following high-level spoken resources will help you observe masterclass adve
 * [France Culture — Du Grain à moudre (Archives de débats)](https://www.radiofrance.fr/franceculture/podcasts/du-grain-a-moudre) — Exemplary model of intellectual contradiction, philosophical framing, and courteous refutation.
 * [TV5Monde — L'art de convaincre : Techniques oratoires et débat](https://langue-francaise.tv5monde.com/) — Multi-media educational modules breaking down rhetorical devices, pausing, and vocal projection.
 * [Vitrine linguistique (OQLF) — Le vocabulaire de l'intelligence artificielle et des technologies civiques](https://vitrinelinguistique.oqlf.gouv.qc.ca/) — Standardized terminology for algorithmic governance, facial recognition, and data ethics.
+
