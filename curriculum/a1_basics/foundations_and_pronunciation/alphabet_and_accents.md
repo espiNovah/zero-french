@@ -32,10 +32,10 @@ Observe the full phonetic inventory of the 26 French letters:
 | **D** | dé | /de/ | **Day** | Dental sound: tongue touches upper front teeth. |
 | **E** | e | /ə/ | **Uh / Euh** | Neutral, relaxed vowel (like the "a" in *sofa* or "e" in *the*). |
 | **F** | effe | /ɛf/ | **Ef** | Same as English. |
-| **G** | gé | /ʒe/ | **Zhay** ⚠️ | Soft "zh" (like the *s* in *measure*) + pure "ay". Sounds like English "jay" (Trap with J!). |
+| **G** | gé | /ʒe/ | **Jay** ⚠️ | Sounds like English "jay", softened without the hard "d" (like *s* in *measure*). Inverted trap with J! |
 | **H** | hache | /aʃ/ | **Ash** | The letter name is *ash*; the letter is always 100% silent in spoken words. |
 | **I** | i | /i/ | **Ee** | Crisp "ee" as in *machine* or *ski*. (Do not confuse with English E!). |
-| **J** | ji | /ʒi/ | **Zhee** ⚠️ | Soft "zh" + pure "ee". Sounds like English "gee" (Trap with G!). |
+| **J** | ji | /ʒi/ | **Gee** ⚠️ | Sounds like English "gee", softened without the hard "d" (like *s* in *measure*). Inverted trap with G! |
 | **K** | ka | /ka/ | **Kah** | Same as English (used mainly in loanwords: *kilo*, *kayak*). |
 | **L** | elle | /ɛl/ | **El** | Short, crisp "el". |
 | **M** | emme | /ɛm/ | **Em** | Same as English. |
