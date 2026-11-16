@@ -26,32 +26,32 @@ Observe the full phonetic inventory of the 26 French letters:
 
 | Letter | French Name | IPA Pronunciation | English "Cheat-Code" | Sound Guide & Common Pitfalls |
 | :--- | :--- | :--- | :--- | :--- |
-| **A** | a | /a/ | **Ah** | Open sound as in *father*. |
-| **B** | bé | /be/ | **Bay** | Pure monophthong (snap the vowel shut; do not glide into English "-ee"). |
-| **C** | cé | /se/ | **Say** | Pure monophthong. |
-| **D** | dé | /de/ | **Day** | Dental sound: tongue touches upper front teeth. |
-| **E** | e | /ə/ | **Uh / Euh** | Neutral, relaxed vowel (like the "a" in *sofa* or "e" in *the*). |
+| **A** | a | /a/ | **Ah** | Open vowel sound as in *father*. |
+| **B** | bé | /be/ | **Bay** | Pure monophthong: snap the vowel shut; do not glide into an English "-ee" diphthong. |
+| **C** | cé | /se/ | **Say** | Pure monophthong (soft /s/ sound; do not glide). |
+| **D** | dé | /de/ | **Day** | Dental sound: tip of tongue touches the back of upper front teeth. |
+| **E** | e | /ə/ | **Uh / Euh** ⚠️ | Relaxed neutral vowel (like *a* in *sofa*). **Pitfall**: Do not confuse with English letter "E" (which sounds like French **I**!). |
 | **F** | effe | /ɛf/ | **Ef** | Same as English. |
-| **G** | gé | /ʒe/ | **Jay** ⚠️ | Sounds like English "jay", softened without the hard "d" (like *s* in *measure*). Inverted trap with J! |
-| **H** | hache | /aʃ/ | **Ash** | The letter name is *ash*; the letter is always 100% silent in spoken words. |
-| **I** | i | /i/ | **Ee** | Crisp "ee" as in *machine* or *ski*. (Do not confuse with English E!). |
-| **J** | ji | /ʒi/ | **Gee** ⚠️ | Sounds like English "gee", softened without the hard "d" (like *s* in *measure*). Inverted trap with G! |
+| **G** | gé | /ʒe/ | **Jay** ⚠️ | Sounds like English "jay", softened without the hard "d" (like *s* in *measure*). **Pitfall**: Inverted trap with **J**! |
+| **H** | hache | /aʃ/ | **Ash** ⚠️ | Letter name is *ash*. **Pitfall**: In spoken words, *h* is always 100% silent. |
+| **I** | i | /i/ | **Ee** ⚠️ | Crisp "ee" as in *machine* or *ski*. **Pitfall**: English speakers hear "ee" and write letter E instead of **I**! |
+| **J** | ji | /ʒi/ | **Gee** ⚠️ | Sounds like English "gee", softened without the hard "d" (like *s* in *measure*). **Pitfall**: Inverted trap with **G**! |
 | **K** | ka | /ka/ | **Kah** | Same as English (used mainly in loanwords: *kilo*, *kayak*). |
-| **L** | elle | /ɛl/ | **El** | Short, crisp "el". |
+| **L** | elle | /ɛl/ | **El** | Short, crisp "el" without curling tongue backward. |
 | **M** | emme | /ɛm/ | **Em** | Same as English. |
 | **N** | enne | /ɛn/ | **En** | Same as English. |
-| **O** | o | /o/ | **Oh** | Pure closed "oh" without an English diphthong glide. |
-| **P** | pé | /pe/ | **Pay** | Pure monophthong without a heavy English puff of aspiration. |
-| **Q** | ku | /ky/ | **Ku** ⚠️ | "K" + French /y/ vowel. **Never "Koo"** (which sounds like *cou* / neck). |
-| **R** | erre | /ɛʁ/ | **Air** *(throat friction)* | Produced at the back of the throat with uvular friction; do not curl your tongue. |
+| **O** | o | /o/ | **Oh** | Pure closed "oh" (keep lips steady; avoid the English "oh-oo" diphthong glide). |
+| **P** | pé | /pe/ | **Pay** | Pure monophthong without a heavy English puff of air (unaspirated). |
+| **Q** | ku | /ky/ | **Ku** ⚠️ | Familiar English approximation; pronounce "k" with lips rounded forward (avoid a flat English "koo", which sounds like the French word *cou* / neck). |
+| **R** | erre | /ɛʁ/ | **Air** ⚠️ | Familiar approximation; produced with uvular friction at the back of the throat. **Pitfall**: Do not curl your tongue into an English "r". |
 | **S** | esse | /ɛs/ | **Es** | Same as English. |
-| **T** | té | /te/ | **Tay** | Dental: tongue firmly behind top teeth. |
-| **U** | u | /y/ | **Ou** ⚠️ | Familiar English "oo" approximation; refine by shaping lips to whistle while keeping your tongue forward as if saying "ee" (distinct from French *OU*). |
-| **V** | vé | /ve/ | **Vay** | Pure monophthong. |
+| **T** | té | /te/ | **Tay** | Dental: tongue pressed against upper front teeth without an English puff of air. |
+| **U** | u | /y/ | **Ou** ⚠️ | Familiar English approximation; shape lips to whistle while keeping tongue forward as if saying "ee". **Pitfall**: Distinct from the French letter pair *OU* (/u/). |
+| **V** | vé | /ve/ | **Vay** | Pure monophthong (snap vowel shut). |
 | **W** | double vé | /du.blə.ve/ | **Doobl-vay** | Literally "double V" (unlike English "double U"). |
-| **X** | iks | /iks/ | **Eeks** ⚠️ | French letter name is *ixe* (/iks/), not English "eks". |
-| **Y** | i grec | /i.ɡʁɛk/ | **Ee-grek** | Literally "Greek I" (historical borrowing from Greek). |
-| **Z** | zède | /zɛd/ | **Zed** | Standard Canadian and British English pronunciation. |
+| **X** | iks | /iks/ | **Eeks** ⚠️ | French letter name is *ixe* (/iks/). **Pitfall**: Do not say English "eks". |
+| **Y** | i grec | /i.ɡʁɛk/ | **Ee-grek** | Literally "Greek I" (*i grec*). |
+| **Z** | zède | /zɛd/ | **Zed** ⚠️ | Standard Canadian and British English pronunciation. **Pitfall**: Say "zed", not American "zee". |
 
 ### The three classic letter traps for English speakers
 
@@ -228,16 +228,17 @@ In the early, easier TCF Canada Listening items, audio prompts may feature a rec
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential letters, accents, and spelling formulas with IPA to your Anki deck:
-   - *A* (/a/) — letter A
-   - *E* (/ə/) — letter E (neutral sound)
-   - *G* (/ʒe/) — letter G (sounds like "jay")
-   - *H* (/aʃ/) — letter H (always silent in words)
-   - *I* (/i/) — letter I (sounds like "ee")
-   - *J* (/ʒi/) — letter J (sounds like "gee")
-   - *U* (/y/) — letter U (rounded lips)
-   - *W* (/du.blə.ve/) — letter W (double V)
-   - *Y* (/i.ɡʁɛk/) — letter Y (Greek I)
+   Add these 15 essential letters, accents, and spelling formulas with IPA and English cheat-codes to your Anki deck:
+   - *A* (/a/) — letter A ("Ah")
+   - *E* (/ə/) — letter E ("Uh")
+   - *G* (/ʒe/) — letter G ("Jay" / soft "zh")
+   - *H* (/aʃ/) — letter H ("Ash", silent in words)
+   - *I* (/i/) — letter I ("Ee")
+   - *J* (/ʒi/) — letter J ("Gee" / soft "zh")
+   - *Q* (/ky/) — letter Q ("Ku" / rounded lips)
+   - *U* (/y/) — letter U ("Ou" / rounded lips)
+   - *W* (/du.blə.ve/) — letter W ("Doobl-vay")
+   - *Y* (/i.ɡʁɛk/) — letter Y ("Ee-grek")
    - *L'accent aigu (é)* (/laksɑ̃ e.ɡy/) — acute accent (closed /e/)
    - *L'accent grave (è, à)* (/laksɑ̃ ɡʁav/) — grave accent (open /ɛ/)
    - *La cédille (ç)* (/la se.dij/) — cedilla (softens C before a, o, u)
