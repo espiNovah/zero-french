@@ -42,7 +42,7 @@ Observe the full phonetic inventory of the 26 French letters:
 | **N** | enne | /ɛn/ | **En** | Same as English. |
 | **O** | o | /o/ | **Oh** | Pure closed "oh" without an English diphthong glide. |
 | **P** | pé | /pe/ | **Pay** | Pure monophthong without a heavy English puff of aspiration. |
-| **Q** | ku | /ky/ | **K-ew** ⚠️ | "K" + French /y/ vowel. **Never "Koo"** (which sounds like *cou* / neck). |
+| **Q** | ku | /ky/ | **Ku** ⚠️ | "K" + French /y/ vowel. **Never "Koo"** (which sounds like *cou* / neck). |
 | **R** | erre | /ɛʁ/ | **Air** *(throat friction)* | Produced at the back of the throat with uvular friction; do not curl your tongue. |
 | **S** | esse | /ɛs/ | **Es** | Same as English. |
 | **T** | té | /te/ | **Tay** | Dental: tongue firmly behind top teeth. |
