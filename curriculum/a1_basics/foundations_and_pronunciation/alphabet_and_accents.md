@@ -24,34 +24,34 @@ The French alphabet uses the exact same 26 Latin letters as the English alphabet
 
 Observe the full phonetic inventory of the 26 French letters:
 
-| Letter | French Name | IPA Pronunciation | Phonetic Approximation & Sound Guide |
-| :--- | :--- | :--- | :--- |
-| **A** | a | /a/ | Open "ah" sound as in "father" |
-| **B** | bé | /be/ | Closed "bay" sound without English gliding "y" |
-| **C** | cé | /se/ | Closed "say" sound |
-| **D** | dé | /de/ | Dental "day" sound with tongue against upper teeth |
-| **E** | e | /ə/ | Neutral unrounded vowel, like the "a" in "sofa" |
-| **F** | effe | /ɛf/ | Short open "ef" |
-| **G** | gé | /ʒe/ | Soft "zhay" sound (like the "s" in "measure") |
-| **H** | hache | /aʃ/ | "ash" (the letter *h* is never pronounced in words) |
-| **I** | i | /i/ | Crisp "ee" sound as in "machine" |
-| **J** | ji | /ʒi/ | Soft "zhee" sound (inverted trap with *G*!) |
-| **K** | ka | /ka/ | "kah" (mainly in borrowed words: *kilo*, *kayak*) |
-| **L** | elle | /ɛl/ | Short open "el" |
-| **M** | emme | /ɛm/ | Short open "em" |
-| **N** | enne | /ɛn/ | Short open "en" |
-| **O** | o | /o/ | Pure closed "oh" without diphthong glide |
-| **P** | pé | /pe/ | Closed "pay" sound without heavy puff of air |
-| **Q** | ku | /ky/ | Rounded "k" + French /y/ sound |
-| **R** | erre | /ɛʁ/ | Guttural French *r* produced at the back of the throat |
-| **S** | esse | /ɛs/ | Short open "es" |
-| **T** | té | /te/ | Dental "tay" with tongue firmly behind top teeth |
-| **U** | u | /y/ | Shape lips to whistle while pronouncing "ee" |
-| **V** | vé | /ve/ | Closed "vay" sound |
-| **W** | double vé | /du.blə.ve/ | Literally "double V" (unlike English "double U") |
-| **X** | iks | /iks/ | "eeks" |
-| **Y** | i grec | /i.ɡʁɛk/ | Literally "Greek I" |
-| **Z** | zède | /zɛd/ | "zed" (same as Canadian and British English) |
+| Letter | French Name | IPA Pronunciation | English "Cheat-Code" | Sound Guide & Common Pitfalls |
+| :--- | :--- | :--- | :--- | :--- |
+| **A** | a | /a/ | **Ah** | Open sound as in *father*. |
+| **B** | bé | /be/ | **Bay** | Pure monophthong (snap the vowel shut; do not glide into English "-ee"). |
+| **C** | cé | /se/ | **Say** | Pure monophthong. |
+| **D** | dé | /de/ | **Day** | Dental sound: tongue touches upper front teeth. |
+| **E** | e | /ə/ | **Uh / Euh** | Neutral, relaxed vowel (like the "a" in *sofa* or "e" in *the*). |
+| **F** | effe | /ɛf/ | **Ef** | Same as English. |
+| **G** | gé | /ʒe/ | **Zhay** ⚠️ | Soft "zh" (like the *s* in *measure*) + pure "ay". Sounds like English "jay" (Trap with J!). |
+| **H** | hache | /aʃ/ | **Ash** | The letter name is *ash*; the letter is always 100% silent in spoken words. |
+| **I** | i | /i/ | **Ee** | Crisp "ee" as in *machine* or *ski*. (Do not confuse with English E!). |
+| **J** | ji | /ʒi/ | **Zhee** ⚠️ | Soft "zh" + pure "ee". Sounds like English "gee" (Trap with G!). |
+| **K** | ka | /ka/ | **Kah** | Same as English (used mainly in loanwords: *kilo*, *kayak*). |
+| **L** | elle | /ɛl/ | **El** | Short, crisp "el". |
+| **M** | emme | /ɛm/ | **Em** | Same as English. |
+| **N** | enne | /ɛn/ | **En** | Same as English. |
+| **O** | o | /o/ | **Oh** | Pure closed "oh" without an English diphthong glide. |
+| **P** | pé | /pe/ | **Pay** | Pure monophthong without a heavy English puff of aspiration. |
+| **Q** | ku | /ky/ | **K-ew** ⚠️ | "K" + French /y/ vowel. **Never "Koo"** (which sounds like *cou* / neck). |
+| **R** | erre | /ɛʁ/ | **Air** *(throat friction)* | Produced at the back of the throat with uvular friction; do not curl your tongue. |
+| **S** | esse | /ɛs/ | **Es** | Same as English. |
+| **T** | té | /te/ | **Tay** | Dental: tongue firmly behind top teeth. |
+| **U** | u | /y/ | **Ew** *(rounded)* ⚠️ | **Never "Oo"**! Tongue says "ee" while lips whistle "oo". ("Oo" is the French sound *OU*). |
+| **V** | vé | /ve/ | **Vay** | Pure monophthong. |
+| **W** | double vé | /du.blə.ve/ | **Doobl-vay** | Literally "double V" (unlike English "double U"). |
+| **X** | iks | /iks/ | **Eeks** ⚠️ | French letter name is *ixe* (/iks/), not English "eks". |
+| **Y** | i grec | /i.ɡʁɛk/ | **Ee-grek** | Literally "Greek I" (historical borrowing from Greek). |
+| **Z** | zède | /zɛd/ | **Zed** | Standard Canadian and British English pronunciation. |
 
 ### The three classic letter traps for English speakers
 
@@ -66,17 +66,19 @@ When a French speaker spells the name *Gilles* (G-I-L-L-E-S), an English speaker
 - Hearing `/ʒe/` → write **G**
 - Hearing `/ʒi/` → write **J**
 
-#### Trap 2: The E, I, and U Vowel Confusion
+#### Trap 2: The E, I, and U Vowel Confusion (Plus Q)
 English vowel names mislead foreign learners:
 - In English, the letter **E** is pronounced "ee." In French, "ee" is the letter **I** (/i/)!
 - In French, the letter **E** is pronounced as a neutral, relaxed vowel: **/ə/** (similar to the vowel sound in English "her" or "the").
-- The French letter **U** has no equivalent in English: **/y/**. To produce it, place your tongue as if pronouncing /i/ ("ee"), but round your lips tightly as if pronouncing /u/ ("oo").
+- The French letter **U** has no equivalent in English: **/y/**. **Never pronounce U as "Oo"**: in French, "Oo" (/u/) is the sound of the spelling combination **OU** (as in *vous*, *tout*). To produce French **U**, place your tongue as if pronouncing /i/ ("ee"), but round your lips tightly as if whistling.
+- The letter **Q** (/ky/) ends with this exact same /y/ sound. Calling it "Koo" (/ku/) turns it into the French word *cou* (neck) or *coût* (cost).
 
 | Spoken Sound | French Letter to Write | Common English Mistake |
 | :--- | :--- | :--- |
 | **/ə/** | **E** | Mistaken for "U" or "A" |
 | **/i/** | **I** | Mistaken for "E" |
-| **/y/** | **U** | Mistaken for "O" or "OU" |
+| **/y/** | **U** | Mistaken for "O" or English "Oo" (*OU*) |
+| **/ky/** | **Q** | Mistaken for "Koo" (*cou*) |
 
 #### Trap 3: W and Y (Double vé and I grec)
 - **W**: French calls this letter **double vé** (/du.blə.ve/) because visually it resembles two connected *V*s.
