@@ -46,7 +46,7 @@ Observe the full phonetic inventory of the 26 French letters:
 | **R** | erre | /ɛʁ/ | **Air** *(throat friction)* | Produced at the back of the throat with uvular friction; do not curl your tongue. |
 | **S** | esse | /ɛs/ | **Es** | Same as English. |
 | **T** | té | /te/ | **Tay** | Dental: tongue firmly behind top teeth. |
-| **U** | u | /y/ | **Ew** *(rounded)* ⚠️ | **Never "Oo"**! Tongue says "ee" while lips whistle "oo". ("Oo" is the French sound *OU*). |
+| **U** | u | /y/ | **Ou** ⚠️ | Familiar English "oo" approximation; refine by shaping lips to whistle while keeping your tongue forward as if saying "ee" (distinct from French *OU*). |
 | **V** | vé | /ve/ | **Vay** | Pure monophthong. |
 | **W** | double vé | /du.blə.ve/ | **Doobl-vay** | Literally "double V" (unlike English "double U"). |
 | **X** | iks | /iks/ | **Eeks** ⚠️ | French letter name is *ixe* (/iks/), not English "eks". |
