@@ -24,25 +24,25 @@ In English, you say "My name is John" or "I am John." While French speakers can 
 
 Observe how speakers introduce themselves and ask for others' names:
 
-> **Je m'appelle Claire.** — /ʒə ma.pɛl klɛʁ/  
+> **Je m'appelle Claire.** — /ʒə ma.pɛl klɛʁ/ (zhuh mah-PEL KLEHR)  
 > *My name is Claire. (Literally: I call myself Claire.)*
 
-> **Comment vous appelez-vous ?** — /kɔ.mɑ̃ vu.z‿a.ple vu/  
+> **Comment vous appelez-vous ?** — /kɔ.mɑ̃ vu.z‿a.ple vu/ (koh-mahn voo-zah-play VOO)  
 > *What is your name? (Formal address, standard in TCF Speaking Task 1)*
 
-> **Comment tu t'appelles ?** — /kɔ.mɑ̃ ty ta.pɛl/  
+> **Comment tu t'appelles ?** — /kɔ.mɑ̃ ty ta.pɛl/ (koh-mahn tew tah-PEL)  
 > *What is your name? (Informal address between peers)*
 
 Notice the spelling and sound pattern of *s'appeler*: when conjugated with *je*, *tu*, *il/elle*, and *ils/elles*, the letter *l* doubles to **ll** to indicate an open /ɛ/ vowel sound (*appelle*). With *nous* and *vous*, it maintains a single *l* (*appelons*, *appelez*), pronounced with a neutral /ə/.
 
-| Pronoun | Conjugation of s'appeler | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | m'appelle | /ʒə ma.pɛl/ | I am called / My name is |
-| **Tu** | t'appelles | /ty ta.pɛl/ | You are called (informal) |
-| **Il / Elle** | s'appelle | /il sa.pɛl / ɛl sa.pɛl/ | He / She is called |
-| **Nous** | nous appelons | /nu nu.z‿a.plɔ̃/ | We are called |
-| **Vous** | vous appelez | /vu vu.z‿a.ple/ | You are called (formal / plural) |
-| **Ils / Elles** | s'appellent | /il sa.pɛl / ɛl sa.pɛl/ | They are called |
+| Pronoun | Conjugation of s'appeler | IPA | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | m'appelle | /ʒə ma.pɛl/ | **zhuh mah-PEL** | I am called / My name is |
+| **Tu** | t'appelles | /ty ta.pɛl/ | **tew tah-PEL** | You are called (informal) |
+| **Il / Elle** | s'appelle | /il sa.pɛl / ɛl sa.pɛl/ | **eel sah-PEL / ehl sah-PEL** | He / She is called |
+| **Nous** | nous appelons | /nu nu.z‿a.plɔ̃/ | **noo noo-zah-PLOHN** | We are called |
+| **Vous** | vous appelez | /vu vu.z‿a.ple/ | **voo voo-zah-PLAY** | You are called (formal / plural) |
+| **Ils / Elles** | s'appellent | /il sa.pɛl / ɛl sa.pɛl/ | **eel sah-PEL / ehl sah-PEL** | They are called |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -58,25 +58,25 @@ The verb **être** (to be) is the cornerstone of the French language. It is comp
 
 Observe these examples in context:
 
-> **Je suis canadien.** — /ʒə sɥi ka.na.djɛ̃/  
+> **Je suis canadien.** — /ʒə sɥi ka.na.djɛ̃/ (zhuh swee kah-nah-DYAN)  
 > *I am Canadian. (Masculine speaker)*
 
-> **Je suis canadienne.** — /ʒə sɥi ka.na.djɛn/  
+> **Je suis canadienne.** — /ʒə sɥi ka.na.djɛn/ (zhuh swee kah-nah-DYEN)  
 > *I am Canadian. (Feminine speaker)*
 
-> **Vous êtes prêt ?** — /vu.z‿ɛt pʁɛ/  
-> *Are you ready? (Notice the mandatory liaison: /vu.z‿ɛt/)*
+> **Vous êtes prêt ?** — /vu.z‿ɛt pʁɛ/ (voo-ZEHT PREH)  
+> *Are you ready? (Notice the mandatory liaison: /vu.z‿ɛt/ — voo-ZEHT)*
 
 Here is the complete present tense conjugation of **être**:
 
-| Subject Pronoun | Verb Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | **suis** | /ʒə sɥi/ | I am |
-| **Tu** | **es** | /ty ɛ/ | You are (informal) |
-| **Il / Elle / On** | **est** | /il ɛ / ɛl ɛ / ɔ̃n‿ɛ/ | He / She / One is |
-| **Nous** | **sommes** | /nu sɔm/ | We are |
-| **Vous** | **êtes** | /vu.z‿ɛt/ | You are (formal / plural) |
-| **Ils / Elles** | **sont** | /il sɔ̃ / ɛl sɔ̃/ | They are |
+| Subject Pronoun | Verb Form | IPA | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | **suis** | /ʒə sɥi/ | **zhuh SWEE** | I am |
+| **Tu** | **es** | /ty ɛ/ | **tew EH** | You are (informal) |
+| **Il / Elle / On** | **est** | /il ɛ / ɛl ɛ / ɔ̃n‿ɛ/ | **eel EH / ehl EH / ohn-NEH** | He / She / One is |
+| **Nous** | **sommes** | /nu sɔm/ | **noo SUHM** | We are |
+| **Vous** | **êtes** | /vu.z‿ɛt/ | **voo-ZEHT** | You are (formal / plural) |
+| **Ils / Elles** | **sont** | /il sɔ̃ / ɛl sɔ̃/ | **eel SOHN / ehl SOHN** | They are |
 
 #### Nationalities and Gender Agreement
 In French, all nationality adjectives agree in gender (masculine or feminine) and number (singular or plural) with the person being described. 
@@ -84,20 +84,20 @@ In French, all nationality adjectives agree in gender (masculine or feminine) an
 Observe the spelling and sound shifts between masculine and feminine forms:
 
 1. **Adjectives ending in a consonant add -e in the feminine**, making the final consonant audible:
-   - **français** (/fʁɑ̃.sɛ/) → **française** (/fʁɑ̃.sɛz/) — *French*
-   - **anglais** (/ɑ̃.ɡlɛ/) → **anglaise** (/ɑ̃.ɡlɛz/) — *English*
-   - **chinois** (/ʃi.nwa/) → **chinoise** (/ʃi.nwaz/) — *Chinese*
+   - **français** (/fʁɑ̃.sɛ/ — `frahn-SEH`) → **française** (/fʁɑ̃.sɛz/ — `frahn-SEHZ`) — *French*
+   - **anglais** (/ɑ̃.ɡlɛ/ — `ahn-GLEH`) → **anglaise** (/ɑ̃.ɡlɛz/ — `ahn-GLEHZ`) — *English*
+   - **chinois** (/ʃi.nwa/ — `shee-NWAH`) → **chinoise** (/ʃi.nwaz/ — `shee-NWAHZ`) — *Chinese*
 
 2. **Adjectives ending in -ien double the n and add -e (-ienne)**, creating a clear nasal-to-vowel shift:
-   - **canadien** (/ka.na.djɛ̃/) → **canadienne** (/ka.na.djɛn/) — *Canadian*
-   - **algérien** (/al.ʒe.ʁjɛ̃/) → **algérienne** (/al.ʒe.ʁjɛn/) — *Algerian*
-   - **indien** (/ɛ̃.djɛ̃/) → **indienne** (/ɛ̃.djɛn/) — *Indian*
-   - **colombien** (/kɔ.lɔ̃.bjɛ̃/) → **colombienne** (/kɔ.lɔ̃.bjɛn/) — *Colombian*
+   - **canadien** (/ka.na.djɛ̃/ — `kah-nah-DYAN`) → **canadienne** (/ka.na.djɛn/ — `kah-nah-DYEN`) — *Canadian*
+   - **algérien** (/al.ʒe.ʁjɛ̃/ — `ahl-zhay-RYAN`) → **algérienne** (/al.ʒe.ʁjɛn/ — `ahl-zhay-RYEN`) — *Algerian*
+   - **indien** (/ɛ̃.djɛ̃/ — `an-DYAN`) → **indienne** (/ɛ̃.djɛn/ — `an-DYEN`) — *Indian*
+   - **colombien** (/kɔ.lɔ̃.bjɛ̃/ — `koh-lohn-BYAN`) → **colombienne** (/kɔ.lɔ̃.bjɛn/ — `koh-lohn-BYEN`) — *Colombian*
 
 3. **Adjectives already ending in -e do not change in the feminine**:
-   - **russe** (/ʁys/) → **russe** (/ʁys/) — *Russian*
-   - **suisse** (/sɥis/) → **suisse** (/sɥis/) — *Swiss*
-   - **belge** (/bɛlʒ/) → **belge** (/bɛlʒ/) — *Belgian*
+   - **russe** (/ʁys/ — `ROOS`) → **russe** (/ʁys/ — `ROOS`) — *Russian*
+   - **suisse** (/sɥis/ — `SWEES`) → **suisse** (/sɥis/ — `SWEES`) — *Swiss*
+   - **belge** (/bɛlʒ/ — `BELZH`) → **belge** (/bɛlʒ/ — `BELZH`) — *Belgian*
 
 > **Grammar Note**: In French, adjectives of nationality do **not** take a capital letter (*Je suis canadien*), whereas the noun representing the person does take a capital letter (*C'est un Canadien*).
 
@@ -107,25 +107,25 @@ The verb **avoir** (to have) is the second essential irregular verb. In addition
 
 Observe the contrast between English and French conceptualization:
 
-> **J'ai trente-deux ans.** — /ʒe tʁɑ̃t.dø.z‿ɑ̃/  
+> **J'ai trente-deux ans.** — /ʒe tʁɑ̃t.dø.z‿ɑ̃/ (zhay trahnt-deuh-ZAHN)  
 > *I am thirty-two years old. (Literally: I have thirty-two years.)*
 
-> **Quel âge avez-vous ?** — /kɛl ɑʒ a.ve vu/  
+> **Quel âge avez-vous ?** — /kɛl ɑʒ a.ve vu/ (kel AHZH ah-vay VOO)  
 > *How old are you? (Formal)*
 
-> **Tu as quel âge ?** — /ty a kɛl ɑʒ/  
+> **Tu as quel âge ?** — /ty a kɛl ɑʒ/ (tew ah kel AHZH)  
 > *How old are you? (Informal)*
 
 Here is the present tense conjugation of **avoir**:
 
-| Subject Pronoun | Verb Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **J'** | **ai** | /ʒe/ | I have |
-| **Tu** | **as** | /ty a/ | You have (informal) |
-| **Il / Elle / On** | **a** | /il a / ɛl a / ɔ̃n‿a/ | He / She / One has |
-| **Nous** | **avons** | /nu.z‿a.vɔ̃/ | We have |
-| **Vous** | **avez** | /vu.z‿a.ve/ | You have (formal / plural) |
-| **Ils / Elles** | **ont** | /il.z‿ɔ̃ / ɛl.z‿ɔ̃/ | They have |
+| Subject Pronoun | Verb Form | IPA | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **J'** | **ai** | /ʒe/ | **zhay** | I have |
+| **Tu** | **as** | /ty a/ | **tew AH** | You have (informal) |
+| **Il / Elle / On** | **a** | /il a / ɛl a / ɔ̃n‿a/ | **eel AH / ehl AH / ohn-NAH** | He / She / One has |
+| **Nous** | **avons** | /nu.z‿a.vɔ̃/ | **noo-zah-VOHN** | We have |
+| **Vous** | **avez** | /vu.z‿a.ve/ | **voo-zah-VAY** | You have (formal / plural) |
+| **Ils / Elles** | **ont** | /il.z‿ɔ̃ / ɛl.z‿ɔ̃/ | **eel-ZOHN / ehl-ZOHN** | They have |
 
 > **Critical Rule on Elision**: When *je* is followed by a word starting with a vowel or silent *h*, it contracts to **j'** (*J'ai*, *J'habite*). Writing *"Je ai"* is a serious grammatical error in French.
 
@@ -137,10 +137,10 @@ Here is the present tense conjugation of **avoir**:
 
 Pay extreme attention to the 2nd person plural (*vous*) and 3rd person plural (*ils/elles*) forms of *être* versus *avoir*:
 
-- **Vous êtes** (/vu.z‿ɛt/) = *You are* — Pronounced with an open /ɛ/ sound.
-- **Vous avez** (/vu.z‿a.ve/) = *You have* — Pronounced with an /a/ and closed /e/ sound.
-- **Ils sont** (/il sɔ̃/) = *They are* — Pronounced with an **unvoiced /s/** sound (no liaison with the pronoun).
-- **Ils ont** (/il.z‿ɔ̃/) = *They have* — Pronounced with a **voiced /z/** liaison sound linking the *s* of *ils* to *ont*.
+- **Vous êtes** (/vu.z‿ɛt/ — `voo-ZEHT`) = *You are* — Pronounced with an open /ɛ/ sound.
+- **Vous avez** (/vu.z‿a.ve/ — `voo-zah-VAY`) = *You have* — Pronounced with an /a/ and closed /e/ sound.
+- **Ils sont** (/il sɔ̃/ — `eel SOHN`) = *They are* — Pronounced with an **unvoiced /s/** sound (no liaison with the pronoun).
+- **Ils ont** (/il.z‿ɔ̃/ — `eel-ZOHN`) = *They have* — Pronounced with a **voiced /z/** liaison sound linking the *s* of *ils* to *ont*.
 
 Saying `/il sɔ̃ faim/` means "They are hunger" (incorrect), while `/il.z‿ɔ̃ faim/` (*Ils ont faim*) correctly means "They are hungry." Examiners listen for this exact distinction.
 
@@ -152,14 +152,14 @@ When stating your profession in French using the verb *être*, you do **not** us
 
 Compare these paired examples:
 
-> **Je suis ingénieur.** — /ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/  
+> **Je suis ingénieur.** — /ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/ (zhuh swee-zan-zhay-NYEUR)  
 > *I am an engineer. (Correct: no article)*  
 > ✗ *Je suis un ingénieur.* (Unnatural in standard French when simply stating your profession)
 
-> **Elle est avocate.** — /ɛl ɛ.t‿a.vɔ.kat/  
+> **Elle est avocate.** — /ɛl ɛ.t‿a.vɔ.kat/ (ehl eh-tah-voh-KAHT)  
 > *She is a lawyer. (Correct: feminine form, no article)*
 
-> **C'est un ingénieur remarquable.** — /sɛ.t‿œ̃.n‿ɛ̃.ʒe.njœʁ ʁə.maʁ.kabl/  
+> **C'est un ingénieur remarquable.** — /sɛ.t‿œ̃.n‿ɛ̃.ʒe.njœʁ ʁə.maʁ.kabl/ (seh-tuhn-nan-zhay-NYEUR ruh-mahr-KAHBL)  
 > *He is a remarkable engineer. (Correct: when modified by an adjective, the article returns with "C'est")*
 
 #### Common Professions (Masculine & Feminine Forms)
@@ -168,15 +168,15 @@ Most professions adapt to the gender of the speaker:
 
 | Masculine Profession | Feminine Profession | English Translation |
 | :--- | :--- | :--- |
-| **enseignant** (/ɑ̃.sɛ.ɲɑ̃/) | **enseignante** (/ɑ̃.sɛ.ɲɑ̃t/) | Teacher / Instructor |
-| **informaticien** (/ɛ̃.fɔʁ.ma.ti.sjɛ̃/) | **informaticienne** (/ɛ̃.fɔʁ.ma.ti.sjɛn/) | IT specialist / Computer scientist |
-| **développeur** (/de.vlɔ.pœʁ/) | **développeuse** (/de.vlɔ.pøz/) | Software developer |
-| **infirmier** (/ɛ̃.fiʁ.mje/) | **infirmière** (/ɛ̃.fiʁ.mjɛʁ/) | Nurse |
-| **comptable** (/kɔ̃.tabl/) | **comptable** (/kɔ̃.tabl/) | Accountant |
-| **médecin** (/med.sɛ̃/) | **médecin** (/med.sɛ̃/) | Doctor / Physician |
-| **directeur** (/di.ʁɛk.tœʁ/) | **directrice** (/di.ʁɛk.tʁis/) | Director / Manager |
-| **avocat** (/a.vɔ.ka/) | **avocate** (/a.vɔ.kat/) | Lawyer / Attorney |
-| **étudiant** (/e.ty.djɑ̃/) | **étudiante** (/e.ty.djɑ̃t/) | Student |
+| **enseignant** (/ɑ̃.sɛ.ɲɑ̃/ — *ahn-seh-NYAHN*) | **enseignante** (/ɑ̃.sɛ.ɲɑ̃t/ — *ahn-seh-NYAHNT*) | Teacher / Instructor |
+| **informaticien** (/ɛ̃.fɔʁ.ma.ti.sjɛ̃/ — *an-for-mah-tee-SYAN*) | **informaticienne** (/ɛ̃.fɔʁ.ma.ti.sjɛn/ — *an-for-mah-tee-SYEN*) | IT specialist / Computer scientist |
+| **développeur** (/de.vlɔ.pœʁ/ — *day-vlohp-PEUR*) | **développeuse** (/de.vlɔ.pøz/ — *day-vlohp-PEUHZ*) | Software developer |
+| **infirmier** (/ɛ̃.fiʁ.mje/ — *an-feer-MYAY*) | **infirmière** (/ɛ̃.fiʁ.mjɛʁ/ — *an-feer-MYEHR*) | Nurse |
+| **comptable** (/kɔ̃.tabl/ — *kohn-TAHBL*) | **comptable** (/kɔ̃.tabl/ — *kohn-TAHBL*) | Accountant |
+| **médecin** (/med.sɛ̃/ — *mayd-SAN*) | **médecin** (/med.sɛ̃/ — *mayd-SAN*) | Doctor / Physician |
+| **directeur** (/di.ʁɛk.tœʁ/ — *dee-rek-TEUR*) | **directrice** (/di.ʁɛk.tʁis/ — *dee-rek-TREES*) | Director / Manager |
+| **avocat** (/a.vɔ.ka/ — *ah-voh-KAH*) | **avocate** (/a.vɔ.kat/ — *ah-voh-KAHT*) | Lawyer / Attorney |
+| **étudiant** (/e.ty.djɑ̃/ — *ay-tew-DYAHN*) | **étudiante** (/e.ty.djɑ̃t/ — *ay-tew-DYAHNT*) | Student |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -192,6 +192,7 @@ Let us synthesize these three verbs (*s'appeler*, *être*, *avoir*) into a conti
 
 > **Bonjour. Je m'appelle David Tremblay. J'ai trente-cinq ans et je suis canadien. Je suis analyste financier à Toronto. Je parle anglais couramment et j'étudie le français.**  
 > /bɔ̃.ʒuʁ. ʒə ma.pɛl da.vid tʁɑ̃.blɛ. ʒe tʁɑ̃t.sɛ̃.k‿ɑ̃ e ʒə sɥi ka.na.djɛ̃. ʒə sɥi.z‿a.na.list fi.nɑ̃.sje a tɔ.ʁɔ̃.to. ʒə paʁl ɑ̃.ɡlɛ ku.ʁa.mɑ̃ e ʒe.ty.di lə fʁɑ̃.sɛ./  
+> *(bohn-ZHOOR. zhuh mah-PEL dah-VEED trahn-BLAY. zhay trahnt-sank-AHN ay zhuh swee kah-nah-DYAN. zhuh swee-zah-nah-LEEST fee-nahn-SYAY ah toh-rohn-TOH. zhuh pahrl ahn-GLEH koo-rah-MAHN ay zhay-tew-DEE luh frahn-SEH.)*  
 > *Hello. My name is David Tremblay. I am thirty-five years old and I am Canadian. I am a financial analyst in Toronto. I speak English fluently and I am studying French.*
 
 Notice how simple sentences connected by **et** (*and*) create a smooth, coherent flow, which is exactly what an A1/A2 speaker should aim for.
@@ -225,21 +226,21 @@ Notice how simple sentences connected by **et** (*and*) create a smooth, coheren
    </details>
 
 2. **Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential identity and verb cards to your Anki deck:
-   - *Je suis* (/ʒə sɥi/) — I am
-   - *Tu es* (/ty ɛ/) — You are (informal)
-   - *Il / Elle est* (/il ɛ/, /ɛl ɛ/) — He / She is
-   - *Nous sommes* (/nu sɔm/) — We are
-   - *Vous êtes* (/vu.z‿ɛt/) — You are (formal/plural)
-   - *Ils / Elles sont* (/il sɔ̃/, /ɛl sɔ̃/) — They are
-   - *J'ai* (/ʒe/) — I have
-   - *Tu as* (/ty a/) — You have
-   - *Il / Elle a* (/il a/, /ɛl a/) — He / She has
-   - *Nous avons* (/nu.z‿a.vɔ̃/) — We have
-   - *Vous avez* (/vu.z‿a.ve/) — You have
-   - *Ils / Elles ont* (/il.z‿ɔ̃/, /ɛl.z‿ɔ̃/) — They have
-   - *Quel âge avez-vous ?* (/kɛl ɑʒ a.ve vu/) — How old are you? (formal)
-   - *Je m'appelle...* (/ʒə ma.pɛl/) — My name is...
+   Add these 14 essential identity and verb cards to your Anki deck with IPA and Phonetic Respelling:
+   - *Je suis* (/ʒə sɥi/ — "zhuh SWEE") — I am
+   - *Tu es* (/ty ɛ/ — "tew EH") — You are (informal)
+   - *Il / Elle est* (/il ɛ/, /ɛl ɛ/ — "eel EH", "ehl EH") — He / She is
+   - *Nous sommes* (/nu sɔm/ — "noo SUHM") — We are
+   - *Vous êtes* (/vu.z‿ɛt/ — "voo-ZEHT") — You are (formal/plural)
+   - *Ils / Elles sont* (/il sɔ̃/, /ɛl sɔ̃/ — "eel SOHN", "ehl SOHN") — They are
+   - *J'ai* (/ʒe/ — "zhay") — I have
+   - *Tu as* (/ty a/ — "tew AH") — You have
+   - *Il / Elle a* (/il a/, /ɛl a/ — "eel AH", "ehl AH") — He / She has
+   - *Nous avons* (/nu.z‿a.vɔ̃/ — "noo-zah-VOHN") — We have
+   - *Vous avez* (/vu.z‿a.ve/ — "voo-zah-VAY") — You have
+   - *Ils / Elles ont* (/il.z‿ɔ̃/, /ɛl.z‿ɔ̃/ — "eel-ZOHN", "ehl-ZOHN") — They have
+   - *Quel âge avez-vous ?* (/kɛl ɑʒ a.ve vu/ — "kel AHZH ah-vay VOO") — How old are you? (formal)
+   - *Je m'appelle...* (/ʒə ma.pɛl/ — "zhuh mah-PEL") — My name is...
 
 3. **Receptive Listening Task**  
    Listen to the short dialogue from [TV5Monde — Se présenter (A1 Entraînement)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
