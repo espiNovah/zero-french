@@ -27,20 +27,20 @@ This gender has nothing to do with biological sex or physical properties. A neck
 Because gender is an inseparable property of each noun, you must adopt the golden habit of language acquisition: **never memorize a French noun alone.** Always learn every noun accompanied by its article:
 
 > ✗ Never learn: *ordinateur* (computer)  
-> ✓ Always learn: **un ordinateur** (/œ̃.n‿ɔʁ.di.na.tœʁ/) or **l'ordinateur** (masculine)
+> ✓ Always learn: **un ordinateur** (/œ̃.n‿ɔʁ.di.na.tœʁ/ — *uhn-nor-dee-nah-TEUR*) or **l'ordinateur** (masculine)
 
 > ✗ Never learn: *chaise* (chair)  
-> ✓ Always learn: **une chaise** (/yn ʃɛz/) or **la chaise** (feminine)
+> ✓ Always learn: **une chaise** (/yn ʃɛz/ — *ewn SHEHZ*) or **la chaise** (feminine)
 
 Observe how native speakers introduce and identify objects:
 
-> **C'est un livre intéressant.** — /sɛ.t‿œ̃ livʁ ɛ̃.te.ʁɛ.sɑ̃/  
+> **C'est un livre intéressant.** — /sɛ.t‿œ̃ livʁ ɛ̃.te.ʁɛ.sɑ̃/ (seh-tuhn LEEV-ruh an-tay-reh-SAHN)  
 > *It is an interesting book. (Masculine noun with "un")*
 
-> **C'est une table moderne.** — /sɛ.t‿yn tabl mɔ.dɛʁn/  
+> **C'est une table moderne.** — /sɛ.t‿yn tabl mɔ.dɛʁn/ (seh-tewn TAH-bluh moh-DEHRN)  
 > *It is a modern table. (Feminine noun with "une")*
 
-> **Voici les clés du bureau.** — /vwa.si le kle dy by.ʁo/  
+> **Voici les clés du bureau.** — /vwa.si le kle dy by.ʁo/ (vwah-SEE lay KLAY dew bew-ROH)  
 > *Here are the office keys. (Plural noun with "les")*
 
 ### Definite and indefinite articles
@@ -50,33 +50,33 @@ French articles tell the listener whether you are referring to a specific, known
 #### 1. Indefinite Articles (Un, Une, Des)
 Use indefinite articles when introducing an object for the first time, or when referring to one item among many (equivalent to English "a", "an", or plural "some"):
 
-- **un** (/œ̃/) — placed before masculine singular nouns: *un stylo* (a pen)
-- **une** (/yn/) — placed before feminine singular nouns: *une feuille* (a sheet of paper)
-- **des** (/de/) — placed before all plural nouns: *des stylos* (some pens), *des feuilles* (some sheets)
+- **un** (/œ̃/ — *uhn*) — placed before masculine singular nouns: *un stylo* (a pen)
+- **une** (/yn/ — *ewn*) — placed before feminine singular nouns: *une feuille* (a sheet of paper)
+- **des** (/de/ — *day*) — placed before all plural nouns: *des stylos* (some pens), *des feuilles* (some sheets)
 
 Notice that French has a mandatory plural indefinite article: **des**. In English, you can say "I have pens" without any article. In French, you **cannot** say *"J'ai stylos"*; you must say **J'ai des stylos**.
 
 #### 2. Definite Articles (Le, La, L', Les)
 Use definite articles when referring to a specific item known to both speaker and listener, or when speaking about a category in general (equivalent to English "the"):
 
-- **le** (/lə/) — before masculine singular nouns starting with a consonant: *le bureau* (the desk)
-- **la** (/la/) — before feminine singular nouns starting with a consonant: *la porte* (the door)
+- **le** (/lə/ — *luh*) — before masculine singular nouns starting with a consonant: *le bureau* (the desk)
+- **la** (/la/ — *lah*) — before feminine singular nouns starting with a consonant: *la porte* (the door)
 - **l'** (/l/) — before any singular noun (masc. or fem.) starting with a **vowel** or silent **h**: *l'ordinateur* (the computer), *l'horloge* (the clock)
-- **les** (/le/) — before all plural nouns: *les bureaux* (the desks), *les portes* (the doors)
+- **les** (/le/ — *lay*) — before all plural nouns: *les bureaux* (the desks), *les portes* (the doors)
 
 | Category | Masculine Singular | Feminine Singular | Before Vowel / Silent H | All Plural Nouns |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indefinite (a / some)** | **un** (/œ̃/) | **une** (/yn/) | **un** (liaison /n/) / **une** (enchaînement) | **des** (/de/) |
-| **Definite (the)** | **le** (/lə/) | **la** (/la/) | **l'** (/l/) | **les** (/le/) |
+| **Indefinite (a / some)** | **un** (/œ̃/ — *uhn*) | **une** (/yn/ — *ewn*) | **un** (liaison /n/) / **une** (enchaînement) | **des** (/de/ — *day*) |
+| **Definite (the)** | **le** (/lə/ — *luh*) | **la** (/la/ — *lah*) | **l'** (/l/) | **les** (/le/ — *lay*) |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Phonetic Rule: The L' Elision
 
 When *le* or *la* meets a noun starting with a vowel sound, the vowel of the article drops and is replaced by an apostrophe. This is called **elision**:
-- *le + ordinateur* → **l'ordinateur** (/lɔʁ.di.na.tœʁ/)
-- *la + adresse* → **l'adresse** (/la.dʁɛs/)
-- *le + homme* → **l'homme** (/lɔm/)
+- *le + ordinateur* → **l'ordinateur** (/lɔʁ.di.na.tœʁ/ — `lor-dee-nah-TEUR`)
+- *la + adresse* → **l'adresse** (/la.dʁɛs/ — `lah-DRESS`)
+- *le + homme* → **l'homme** (/lɔm/ — `LUHM`)
 
 When written with *l'*, the article does not tell you whether the noun is masculine or feminine! In your notes, always write **l'ordinateur (m.)** or **l'adresse (f.)** so you remember its gender when using adjectives or pronouns later.
 
@@ -87,31 +87,31 @@ When written with *l'*, the article does not tell you whether the noun is mascul
 In both professional and domestic contexts, you will interact with a consistent set of items. Master these high-frequency nouns with their associated articles:
 
 #### Workplace & Study Items
-| French with Definite Article | French with Indefinite Article | IPA Pronunciation | English Meaning | Gender |
-| :--- | :--- | :--- | :--- | :--- |
-| **l'ordinateur** | **un ordinateur** | /œ̃.n‿ɔʁ.di.na.tœʁ/ | computer | Masc. |
-| **l'écran** | **un écran** | /œ̃.n‿e.kʁɑ̃/ | screen / monitor | Masc. |
-| **le clavier** | **un clavier** | /œ̃ kla.vje/ | keyboard | Masc. |
-| **la souris** | **une souris** | /yn su.ʁi/ | mouse (computer & animal) | Fem. |
-| **le téléphone** | **un téléphone** | /œ̃ te.le.fɔn/ | phone / telephone | Masc. |
-| **le bureau** | **un bureau** | /œ̃ by.ʁo/ | desk / office | Masc. |
-| **le stylo** | **un stylo** | /œ̃ sti.lo/ | pen | Masc. |
-| **le cahier** | **un cahier** | /œ̃ ka.je/ | notebook | Masc. |
-| **le document** | **un document** | /œ̃ dɔ.ky.mɑ̃/ | document / paper | Masc. |
-| **la feuille** | **une feuille** | /yn fœj/ | sheet of paper / leaf | Fem. |
+| French with Definite Article | French with Indefinite Article | IPA | Phonetic Respelling | English Meaning | Gender |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **l'ordinateur** | **un ordinateur** | /œ̃.n‿ɔʁ.di.na.tœʁ/ | **uhn-nor-dee-nah-TEUR** | computer | Masc. |
+| **l'écran** | **un écran** | /œ̃.n‿e.kʁɑ̃/ | **uhn-nay-KRAHN** | screen / monitor | Masc. |
+| **le clavier** | **un clavier** | /œ̃ kla.vje/ | **uhn klah-VYAY** | keyboard | Masc. |
+| **la souris** | **une souris** | /yn su.ʁi/ | **ewn soo-REE** | mouse (computer & animal) | Fem. |
+| **le téléphone** | **un téléphone** | /œ̃ te.le.fɔn/ | **uhn tay-lay-FOHN** | phone / telephone | Masc. |
+| **le bureau** | **un bureau** | /œ̃ by.ʁo/ | **uhn bew-ROH** | desk / office | Masc. |
+| **le stylo** | **un stylo** | /œ̃ sti.lo/ | **uhn stee-LOH** | pen | Masc. |
+| **le cahier** | **un cahier** | /œ̃ ka.je/ | **uhn kah-YAY** | notebook | Masc. |
+| **le document** | **un document** | /œ̃ dɔ.ky.mɑ̃/ | **uhn doh-kew-MAHN** | document / paper | Masc. |
+| **la feuille** | **une feuille** | /yn fœj/ | **ewn FEUHY** | sheet of paper / leaf | Fem. |
 
 #### Domestic & Everyday Objects
-| French with Definite Article | French with Indefinite Article | IPA Pronunciation | English Meaning | Gender |
-| :--- | :--- | :--- | :--- | :--- |
-| **la table** | **une table** | /yn tabl/ | table | Fem. |
-| **la chaise** | **une chaise** | /yn ʃɛz/ | chair | Fem. |
-| **la porte** | **une porte** | /yn pɔʁt/ | door | Fem. |
-| **la fenêtre** | **une fenêtre** | /yn fə.nɛtʁ/ | window | Fem. |
-| **la clé / la clef** | **une clé** | /yn kle/ | key | Fem. |
-| **le sac** | **un sac** | /œ̃ sak/ | bag / backpack | Masc. |
-| **le livre** | **un livre** | /œ̃ livʁ/ | book | Masc. |
-| **la tasse** | **une tasse** | /yn tas/ | cup / mug | Fem. |
-| **la voiture** | **une voiture** | /yn vwa.tyʁ/ | car | Fem. |
+| French with Definite Article | French with Indefinite Article | IPA | Phonetic Respelling | English Meaning | Gender |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **la table** | **une table** | /yn tabl/ | **ewn TAH-bluh** | table | Fem. |
+| **la chaise** | **une chaise** | /yn ʃɛz/ | **ewn SHEHZ** | chair | Fem. |
+| **la porte** | **une porte** | /yn pɔʁt/ | **ewn POHRT** | door | Fem. |
+| **la fenêtre** | **une fenêtre** | /yn fə.nɛtʁ/ | **ewn fuh-NEH-truh** | window | Fem. |
+| **la clé / la clef** | **une clé** | /yn kle/ | **ewn KLAY** | key | Fem. |
+| **le sac** | **un sac** | /œ̃ sak/ | **uhn SAHK** | bag / backpack | Masc. |
+| **le livre** | **un livre** | /œ̃ livʁ/ | **uhn LEEV-ruh** | book | Masc. |
+| **la tasse** | **une tasse** | /yn tas/ | **ewn TAHS** | cup / mug | Fem. |
+| **la voiture** | **une voiture** | /yn vwa.tyʁ/ | **ewn vwah-TEWR** | car | Fem. |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -152,40 +152,40 @@ When encountering a new vocabulary word in a TCF reading text, check the ending.
 
 In English, adjectives always precede the noun ("a blue pen"). In French, **most adjectives—including colors—are placed AFTER the noun**:
 
-> **un stylo bleu** — /œ̃ sti.lo blø/  
+> **un stylo bleu** — /œ̃ sti.lo blø/ (uhn stee-loh BLEUH)  
 > *a blue pen (Literal: a pen blue)*
 
-> **une chaise verte** — /yn ʃɛz vɛʁt/  
+> **une chaise verte** — /yn ʃɛz vɛʁt/ (ewn shehz VEHRT)  
 > *a green chair (Literal: a chair green)*
 
 Furthermore, color adjectives must **agree in gender and number** with the noun they describe:
 
 1. **Regular colors add -e in the feminine**:
-   - **bleu** (/blø/) → **bleue** (/blø/) — *blue* (spelling changes, pronunciation remains the same)
-   - **vert** (/vɛʁ/) → **verte** (/vɛʁt/) — *green* (the silent *t* becomes audible /t/)
-   - **gris** (/ɡʁi/) → **grise** (/ɡʁiz/) — *grey* (the silent *s* becomes audible /z/)
-   - **noir** (/nwaʁ/) → **noire** (/nwaʁ/) — *black*
+   - **bleu** (/blø/ — `BLEUH`) → **bleue** (/blø/ — `BLEUH`) — *blue* (spelling changes, pronunciation remains the same)
+   - **vert** (/vɛʁ/ — `VEHR`) → **verte** (/vɛʁt/ — `VEHRT`) — *green* (the silent *t* becomes audible /t/)
+   - **gris** (/ɡʁi/ — `GREE`) → **grise** (/ɡʁiz/ — `GREEZ`) — *grey* (the silent *s* becomes audible /z/)
+   - **noir** (/nwaʁ/ — `NWAHR`) → **noire** (/nwaʁ/ — `NWAHR`) — *black*
 
 2. **Colors already ending in -e do not change in the feminine**:
-   - **rouge** (/ʁuʒ/) → **rouge** (/ʁuʒ/) — *red*
-   - **jaune** (/ʒon/) → **jaune** (/ʒon/) — *yellow*
-   - **rose** (/ʁoz/) → **rose** (/ʁoz/) — *pink*
+   - **rouge** (/ʁuʒ/ — `ROOZH`) → **rouge** (/ʁuʒ/ — `ROOZH`) — *red*
+   - **jaune** (/ʒon/ — `ZHOHN`) → **jaune** (/ʒon/ — `ZHOHN`) — *yellow*
+   - **rose** (/ʁoz/ — `ROHZ`) → **rose** (/ʁoz/ — `ROHZ`) — *pink*
 
 3. **Irregular feminine forms**:
-   - **blanc** (/blɑ̃/) → **blanche** (/blɑ̃ʃ/) — *white*
+   - **blanc** (/blɑ̃/ — `BLAHN`) → **blanche** (/blɑ̃ʃ/ — `BLAHN-sh`) — *white*
 
 4. **Invariable colors (never change, even in feminine or plural)**:
-   - **orange** (/ɔ.ʁɑ̃ʒ/) — *orange*
-   - **marron** (/ma.ʁɔ̃/) — *brown*
+   - **orange** (/ɔ.ʁɑ̃ʒ/ — `oh-RAHNZH`) — *orange*
+   - **marron** (/ma.ʁɔ̃/ — `mah-ROHN`) — *brown*
 
 Observe these descriptions in complete sentences:
 
 > **J'ai un ordinateur noir et une souris blanche.**  
-> /ʒe œ̃.n‿ɔʁ.di.na.tœʁ nwaʁ e yn su.ʁi blɑ̃ʃ/  
+> /ʒe œ̃.n‿ɔʁ.di.na.tœʁ nwaʁ e yn su.ʁi blɑ̃ʃ/ (zhay uhn-nor-dee-nah-TEUR NWAHR ay ewn soo-ree BLAHN-sh)  
 > *I have a black computer and a white mouse.*
 
 > **Le bureau a deux chaises rouges et une table grise.**  
-> /lə by.ʁo a dø ʃɛz ʁuʒ e yn tabl ɡʁiz/  
+> /lə by.ʁo a dø ʃɛz ʁuʒ e yn tabl ɡʁiz/ (luh bew-ROH ah deuh shehz ROOZH ay ewn tah-bluh GREEZ)  
 > *The office has two red chairs and a grey table.*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
@@ -223,21 +223,21 @@ In the early, easier TCF Listening items, the answer choices may differ only by 
    </details>
 
 2. **Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential everyday nouns and color cards with their definite and indefinite articles to your Anki deck:
-   - *l'ordinateur (m.) / un ordinateur* (/œ̃.n‿ɔʁ.di.na.tœʁ/) — computer
-   - *le bureau / un bureau* (/œ̃ by.ʁo/) — desk / office
-   - *le clavier / un clavier* (/œ̃ kla.vje/) — keyboard
-   - *la souris / une souris* (/yn su.ʁi/) — mouse
-   - *la table / une table* (/yn tabl/) — table
-   - *la chaise / une chaise* (/yn ʃɛz/) — chair
-   - *la fenêtre / une fenêtre* (/yn fə.nɛtʁ/) — window
-   - *la porte / une porte* (/yn pɔʁt/) — door
-   - *le stylo / un stylo* (/œ̃ sti.lo/) — pen
-   - *le livre / un livre* (/œ̃ livʁ/) — book
-   - *noir / noire* (/nwaʁ/) — black
-   - *blanc / blanche* (/blɑ̃/, /blɑ̃ʃ/) — white
-   - *bleu / bleue* (/blø/) — blue
-   - *vert / verte* (/vɛʁ/, /vɛʁt/) — green
+   Add these 14 essential everyday nouns and color cards with their definite and indefinite articles to your Anki deck (with IPA and Phonetic Respelling):
+   - *l'ordinateur (m.) / un ordinateur* (/œ̃.n‿ɔʁ.di.na.tœʁ/ — "uhn-nor-dee-nah-TEUR") — computer
+   - *le bureau / un bureau* (/œ̃ by.ʁo/ — "uhn bew-ROH") — desk / office
+   - *le clavier / un clavier* (/œ̃ kla.vje/ — "uhn klah-VYAY") — keyboard
+   - *la souris / une souris* (/yn su.ʁi/ — "ewn soo-REE") — mouse
+   - *la table / une table* (/yn tabl/ — "ewn TAH-bluh") — table
+   - *la chaise / une chaise* (/yn ʃɛz/ — "ewn SHEHZ") — chair
+   - *la fenêtre / une fenêtre* (/yn fə.nɛtʁ/ — "ewn fuh-NEH-truh") — window
+   - *la porte / une porte* (/yn pɔʁt/ — "ewn POHRT") — door
+   - *le stylo / un stylo* (/œ̃ sti.lo/ — "uhn stee-LOH") — pen
+   - *le livre / un livre* (/œ̃ livʁ/ — "uhn LEEV-ruh") — book
+   - *noir / noire* (/nwaʁ/ — "NWAHR") — black
+   - *blanc / blanche* (/blɑ̃/, /blɑ̃ʃ/ — "BLAHN", "BLAHN-sh") — white
+   - *bleu / bleue* (/blø/ — "BLEUH") — blue
+   - *vert / verte* (/vɛʁ/, /vɛʁt/ — "VEHR", "VEHRT") — green
 
 3. **Receptive Listening & Reading Task**  
    Visit the free A1 activity page on [TV5Monde — Les objets du quotidien](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
