@@ -24,13 +24,13 @@ In French, your choice of greeting depends primarily on two factors: the time of
 
 Observe how native speakers greet each other across different hours:
 
-> **Bonjour, madame.** — /bɔ̃.ʒuʁ, ma.dam/  
+> **Bonjour, madame.** — /bɔ̃.ʒuʁ, ma.dam/ (bohn-ZHOOR, mah-DAHM)  
 > *Good morning / Hello, ma'am.* (Used from morning until dusk)
 
-> **Bonsoir, monsieur.** — /bɔ̃.swaʁ, mə.sjø/  
+> **Bonsoir, monsieur.** — /bɔ̃.swaʁ, mə.sjø/ (bohn-SWAHR, muh-SYEUH)  
 > *Good evening, sir.* (Used starting around 5:00 or 6:00 pm)
 
-> **Salut, Thomas !** — /sa.ly, tɔ.ma/  
+> **Salut, Thomas !** — /sa.ly, tɔ.ma/ (sah-LU, toh-MAH)  
 > *Hi, Thomas!* (Casual greeting strictly reserved for friends, peers, and children)
 
 The standard universal daytime greeting is **bonjour**. It is a compound word formed from *bon* ("good") and *jour* ("day"). You use it from early morning until late afternoon (around 5:00 pm or 6:00 pm). Once daylight begins to fade or evening activities commence, speakers switch naturally to **bonsoir** (*bon* + *soir*, "good evening"). Using *bonjour* at 8:00 pm sounds noticeably foreign to native ears.
@@ -39,15 +39,15 @@ Notice that **salut** means both "hi" and informal "bye". It is an informal gree
 
 When answering the telephone, French speakers typically start with the telephone marker *allô*, very often followed by *bonjour*:
 
-> **Allô ? Oui, bonjour.** — /a.lo ? wi, bɔ̃.ʒuʁ/  
+> **Allô ? Oui, bonjour.** — /a.lo ? wi, bɔ̃.ʒuʁ/ (ah-LOH ? WEE, bohn-ZHOOR)  
 > *Hello? Yes, hello.*
 
-| French | IPA Pronunciation | English Translation | Register & Usage Context |
-| :--- | :--- | :--- | :--- |
-| **Bonjour** | /bɔ̃.ʒuʁ/ | Hello / Good day | Universal (formal and polite neutral); used until evening |
-| **Bonsoir** | /bɔ̃.swaʁ/ | Good evening | Universal (formal and polite neutral); used from ~5:30 pm onwards |
-| **Salut** | /sa.ly/ | Hi / Hey | Strictly informal; close friends, peers, and children |
-| **Allô** | /a.lo/ | Hello | Mainly on the telephone (*Allô, bonjour* is normal); in Québec, also an informal in-person greeting |
+| French | IPA | Phonetic Respelling | English Translation | Register & Usage Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bonjour** | /bɔ̃.ʒuʁ/ | **bohn-ZHOOR** | Hello / Good day | Universal (formal and polite neutral); used until evening |
+| **Bonsoir** | /bɔ̃.swaʁ/ | **bohn-SWAHR** | Good evening | Universal (formal and polite neutral); used from ~5:30 pm onwards |
+| **Salut** | /sa.ly/ | **sah-LU** | Hi / Hey | Strictly informal; close friends, peers, and children |
+| **Allô** | /a.lo/ | **ah-LOH** | Hello | Mainly on the telephone (*Allô, bonjour* is normal); in Québec, also an informal in-person greeting |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -63,10 +63,10 @@ English uses the single pronoun "you" whether addressing a toddler, your best fr
 
 Compare these paired examples to observe how verb endings and pronouns change:
 
-> **Tu vas bien ?** — /ty va bjɛ̃/  
+> **Tu vas bien ?** — /ty va bjɛ̃/ (tew vah BYAN)  
 > *Are you doing well?* (Informal address to a friend)
 
-> **Vous allez bien ?** — /vu.z‿a.le bjɛ̃/  
+> **Vous allez bien ?** — /vu.z‿a.le bjɛ̃/ (voo-zah-lay BYAN)  
 > *Are you doing well?* (Formal address to an examiner or customer)
 
 The distinction between these two pronouns follows consistent social guidelines:
@@ -82,7 +82,7 @@ The distinction between these two pronouns follows consistent social guidelines:
 
 The golden rule for adult immigrants is simple: **when in doubt, always use vous**. Addressing someone as *vous* signals respect and professional courtesy. If the other person prefers a more casual relationship, they will invite you to switch by saying:
 
-> **On peut se tutoyer.** — /ɔ̃ pø sə ty.twa.je/  
+> **On peut se tutoyer.** — /ɔ̃ pø sə ty.twa.je/ (ohn peuh suh tew-twah-YAY)  
 > *We can use "tu" with each other.*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
@@ -99,30 +99,30 @@ In everyday Francophone life, a greeting is almost always paired with an inquiry
 
 Observe the patterns below:
 
-> **Comment allez-vous ?** — /kɔ.mɑ̃.t‿a.le vu/  
+> **Comment allez-vous ?** — /kɔ.mɑ̃.t‿a.le vu/ (koh-mahn-tah-lay VOO)  
 > *How are you?* (Formal, using subject-verb inversion and liaison)
 
-> **Comment vas-tu ?** — /kɔ.mɑ̃ va ty/  
+> **Comment vas-tu ?** — /kɔ.mɑ̃ va ty/ (koh-mahn vah TEW)  
 > *How are you?* (Informal standard)
 
-> **Ça va ?** — /sa va/  
+> **Ça va ?** — /sa va/ (sah VAH)  
 > *How's it going? / Everything okay?* (Neutral-to-informal, extremely common)
 
-> **Comment ça va ?** — /kɔ.mɑ̃ sa va/  
+> **Comment ça va ?** — /kɔ.mɑ̃ sa va/ (koh-mahn sah VAH)  
 > *How are things going?* (Neutral conversational)
 
-Notice the phonetics of **Comment allez-vous ?**. Because the adverb *comment* ends in a consonant sound (/t/ in liaison) and *allez* begins with a vowel sound (/a/), the silent *t* links across words: `/kɔ.mɑ̃.t‿a.le vu/`. Similarly, the final *s* of *vous* links smoothly when followed by another vowel.
+Notice the phonetics of **Comment allez-vous ?**. Because the adverb *comment* ends in a consonant sound (/t/ in liaison) and *allez* begins with a vowel sound (/a/), the silent *t* links across words: `/kɔ.mɑ̃.t‿a.le vu/ (koh-mahn-tah-lay VOO)`. Similarly, the final *s* of *vous* links smoothly when followed by another vowel.
 
 Here is a summary of common inquiries:
 
-| French Inquiry | Pronunciation | English Translation | When to Use |
-| :--- | :--- | :--- | :--- |
-| **Comment allez-vous ?** | /kɔ.mɑ̃.t‿a.le vu/ | How are you? | Formal; professional settings, elders, exam room |
-| **Vous allez bien ?** | /vu.z‿a.le bjɛ̃/ | Are you doing well? | Polite; slightly softer than formal inversion |
-| **Comment vas-tu ?** | /kɔ.mɑ̃ va ty/ | How are you? | Informal; friends, peers, relatives |
-| **Tu vas bien ?** | /ty va bjɛ̃/ | Are you doing well? | Informal conversational |
-| **Ça va ?** | /sa va/ | How's it going? | Universal informal / familiar everyday |
-| **Comment ça va ?** | /kɔ.mɑ̃ sa va/ | How are things going? | Neutral friendly |
+| French Inquiry | IPA | Phonetic Respelling | English Translation | When to Use |
+| :--- | :--- | :--- | :--- | :--- |
+| **Comment allez-vous ?** | /kɔ.mɑ̃.t‿a.le vu/ | **koh-mahn-tah-lay VOO** | How are you? | Formal; professional settings, elders, exam room |
+| **Vous allez bien ?** | /vu.z‿a.le bjɛ̃/ | **voo-zah-lay BYAN** | Are you doing well? | Polite; slightly softer than formal inversion |
+| **Comment vas-tu ?** | /kɔ.mɑ̃ va ty/ | **koh-mahn vah TEW** | How are you? | Informal; friends, peers, relatives |
+| **Tu vas bien ?** | /ty va bjɛ̃/ | **tew vah BYAN** | Are you doing well? | Informal conversational |
+| **Ça va ?** | /sa va/ | **sah VAH** | How's it going? | Universal informal / familiar everyday |
+| **Comment ça va ?** | /kɔ.mɑ̃ sa va/ | **koh-mahn sah VAH** | How are things going? | Neutral friendly |
 
 ### Responding politely to greetings
 
@@ -134,32 +134,32 @@ When someone asks how you are doing, polite etiquette requires a three-step resp
 Notice how these micro-dialogues flow naturally:
 
 #### Dialogue A: Formal Exchange (Workplace or Exam Room)
-> **Bonjour, monsieur. Comment allez-vous ?**  
+> **Bonjour, monsieur. Comment allez-vous ?** (bohn-ZHOOR, muh-SYEUH. koh-mahn-tah-lay VOO ?)  
 > *Hello, sir. How are you?*  
-> **Très bien, merci. Et vous-même ?**  
+> **Très bien, merci. Et vous-même ?** (treh BYAN, mehr-SEE. ay voo-MEHM ?)  
 > *Very well, thank you. And yourself?*  
-> **Ça va bien, je vous remercie.**  
+> **Ça va bien, je vous remercie.** (sah vah BYAN, zhuh voo ruh-mehr-SEE.)  
 > *I'm doing well, thank you.*
 
 #### Dialogue B: Informal Exchange (Friends / Classmates)
-> **Salut, Sarah ! Ça va ?**  
+> **Salut, Sarah ! Ça va ?** (sah-LU, sah-RAH ! sah VAH ?)  
 > *Hi, Sarah! How's it going?*  
-> **Oui, ça va super, merci ! Et toi ?**  
+> **Oui, ça va super, merci ! Et toi ?** (WEE, sah vah sew-PEHR, mehr-SEE ! ay TWAH ?)  
 > *Yes, doing great, thanks! And you?*  
-> **Pas mal, la routine !**  
+> **Pas mal, la routine !** (pah MAHL, lah roo-TEEN !)  
 > *Not bad, the usual routine!*
 
 Key response formulas:
 
-| French Response | Pronunciation | English Translation | Nuance |
-| :--- | :--- | :--- | :--- |
-| **Très bien, merci.** | /tʁɛ bjɛ̃, mɛʁ.si/ | Very well, thank you. | Standard polite response |
-| **Ça va bien, merci.** | /sa va bjɛ̃, mɛʁ.si/ | I'm doing well, thanks. | Standard neutral response |
-| **Oui, ça va.** | /wi, sa va/ | Yes, I'm okay / fine. | Direct, casual confirmation |
-| **Pas mal.** | /pa mal/ | Not bad. | Modest, colloquial |
-| **Comme ci, comme ça.** | /kɔm si, kɔm sa/ | So-so. | Expressing mediocre state |
-| **Et vous ?** | /e vu/ | And you? (formal) | Returning the question formally |
-| **Et toi ?** | /e twa/ | And you? (informal) | Returning the question informally |
+| French Response | IPA | Phonetic Respelling | English Translation | Nuance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Très bien, merci.** | /tʁɛ bjɛ̃, mɛʁ.si/ | **treh BYAN, mehr-SEE** | Very well, thank you. | Standard polite response |
+| **Ça va bien, merci.** | /sa va bjɛ̃, mɛʁ.si/ | **sah vah BYAN, mehr-SEE** | I'm doing well, thanks. | Standard neutral response |
+| **Oui, ça va.** | /wi, sa va/ | **WEE, sah VAH** | Yes, I'm okay / fine. | Direct, casual confirmation |
+| **Pas mal.** | /pa mal/ | **pah MAHL** | Not bad. | Modest, colloquial |
+| **Comme ci, comme ça.** | /kɔm si, kɔm sa/ | **kohm SEE, kohm SAH** | So-so. | Expressing mediocre state |
+| **Et vous ?** | /e vu/ | **ay VOO** | And you? (formal) | Returning the question formally |
+| **Et toi ?** | /e twa/ | **ay TWAH** | And you? (informal) | Returning the question informally |
 
 ### Polite expressions and everyday etiquette
 
@@ -167,28 +167,31 @@ In French, courtesy words are not optional embellishments; they are mandatory st
 
 Observe how a request transforms when polite formulas are attached:
 
-> **Un café, s'il vous plaît.** — /œ̃ ka.fe, sil vu plɛ/  
+> **Un café, s'il vous plaît.** — /œ̃ ka.fe, sil vu plɛ/ (uhn kah-FAY, seel voo PLEH)  
 > *A coffee, please.*
 
-> **Merci beaucoup pour votre aide.** — /mɛʁ.si bo.ku puʁ vɔtʁ ɛd/  
+> **Merci beaucoup pour votre aide.** — /mɛʁ.si bo.ku puʁ vɔtʁ ɛd/ (mehr-SEE boh-KOO poor voht-ruh EHD)  
 > *Thank you very much for your help.*
 
-> **De rien, c'est avec plaisir.** — /də ʁjɛ̃, sɛ.t‿a.vɛk ple.ziʁ/  
+> **De rien, c'est avec plaisir.** — /də ʁjɛ̃, sɛ.t‿a.vɛk ple.ziʁ/ (duh RYAN, seh-tah-vek pleh-ZEER)  
 > *You're welcome, it's my pleasure.*
 
 Here are the essential courtesy formulas every candidate must master:
 
-| French Phrase | IPA Pronunciation | English Meaning | Usage Context |
-| :--- | :--- | :--- | :--- |
-| **S'il vous plaît** | /sil vu plɛ/ | Please (formal) | To strangers, officials, clerks, examiners |
-| **S'il te plaît** | /sil tə plɛ/ | Please (informal) | To friends, peers, children |
-| **Merci** | /mɛʁ.si/ | Thank you | Universal gratitude marker |
-| **Merci beaucoup** | /mɛʁ.si bo.ku/ | Thank you very much | Stronger expression of appreciation |
-| **De rien** | /də ʁjɛ̃/ | You're welcome | Standard informal/neutral "don't mention it" |
-| **Je vous en prie** | /ʒə vu.z‿ɑ̃ pʁi/ | You're very welcome | Elevated, formal response to "merci" |
-| **Je t'en prie** | /ʒə tɑ̃ pʁi/ | You're welcome | Warm, informal response to "merci" |
-| **Excusez-moi** | /ɛk.sky.ze mwa/ | Excuse me (formal) | Getting someone's attention or apologizing |
-| **Pardon** | /paʁ.dɔ̃/ | Pardon / Sorry | Passing someone in a crowd, minor mistake |
+| French Phrase | IPA | Phonetic Respelling | English Meaning | Usage Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **S'il vous plaît** | /sil vu plɛ/ | **seel voo PLEH** | Please (formal) | To strangers, officials, clerks, examiners |
+| **S'il te plaît** | /sil tə plɛ/ | **seel tuh PLEH** | Please (informal) | To friends, peers, children |
+| **Merci** | /mɛʁ.si/ | **mehr-SEE** | Thank you | Universal gratitude marker |
+| **Merci beaucoup** | /mɛʁ.si bo.ku/ | **mehr-see boh-KOO** | Thank you very much | Stronger expression of appreciation |
+| **Je vous en prie** | /ʒə vu.z‿ɑ̃ pʁi/ | **zhuh voo-zahn PREE** | You're very welcome | Elevated, formal response to "merci" (essential for TCF) |
+| **Je t'en prie** | /ʒə tɑ̃ pʁi/ | **zhuh tahn PREE** | You're welcome | Warm, informal response to "merci" (with friends/family) |
+| **Avec plaisir** | /a.vɛk ple.ziʁ/ | **ah-vek pleh-ZEER** | With pleasure / My pleasure | Warm polite response |
+| **De rien** | /də ʁjɛ̃/ | **duh RYAN** | You're welcome | Standard informal/neutral "don't mention it" |
+| **Pas de problème** | /pa də pʁɔ.blɛm/ | **pah duh proh-BLEHM** | No problem | Everyday casual response |
+| **Il n'y a pas de quoi** | /i.l‿n‿j‿a pa də kwa/ | **eel nyah pah duh KWAH** | Don't mention it | Often shortened to *Y'a pas de quoi* |
+| **Excusez-moi** | /ɛk.sky.ze mwa/ | **ehk-skew-zay MWAH** | Excuse me (formal) | Getting someone's attention or apologizing |
+| **Pardon** | /paʁ.dɔ̃/ | **pahr-DOHN** | Pardon / Sorry | Passing someone in a crowd, minor mistake |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -204,25 +207,25 @@ Ending a conversation in French involves more than a hasty "bye." It typically i
 
 Observe these common farewell formulas:
 
-> **Au revoir, bonne journée !** — /o ʁə.vwaʁ, bɔn ʒuʁ.ne/  
+> **Au revoir, bonne journée !** — /o ʁə.vwaʁ, bɔn ʒuʁ.ne/ (oh ruh-VWAHR, buhn zhoor-NAY)  
 > *Goodbye, have a good day!*
 
-> **À bientôt, prenez soin de vous.** — /a bjɛ̃.to, pʁə.ne swɛ̃ də vu/  
+> **À bientôt, prenez soin de vous.** — /a bjɛ̃.to, pʁə.ne swɛ̃ də vu/ (ah byan-TOH, pruh-nay SWAN duh VOO)  
 > *See you soon, take care of yourself.*
 
 Notice the difference between **jour** (a point in time: *bonjour*) and **journée** (the duration of the day: *bonne journée*). Similarly, **soir** refers to the evening as a time point (*bonsoir*), whereas **soirée** denotes the duration of the evening (*bonne soirée*). Therefore, you say *bonjour* when arriving, but *bonne journée* ("have a good day") when leaving.
 
-| Farewell Phrase | Pronunciation | English Translation | Register & Tone |
-| :--- | :--- | :--- | :--- |
-| **Au revoir** | /o ʁə.vwaʁ/ | Goodbye | Universal standard; appropriate in every context |
-| **Bonne journée** | /bɔn ʒuʁ.ne/ | Have a good day | Polite daytime departure |
-| **Bonne soirée** | /bɔn swa.ʁe/ | Have a good evening | Polite evening departure |
-| **Bonne nuit** | /bɔn nɥi/ | Good night | Exclusively before going to sleep |
-| **À bientôt** | /a bjɛ̃.to/ | See you soon | Neutral; implies seeing each other soon |
-| **À demain** | /a də.mɛ̃/ | See you tomorrow | Specific to seeing someone the next day |
-| **À tout à l'heure** | /a tu.t‿a lœʁ/ | See you in a little while | Same day, within a few hours |
-| **Salut** | /sa.ly/ | Bye | Informal; only with people you call *tu* |
-| **Ciao** | /tʃa.o/ | Bye | Colloquial, borrowed from Italian |
+| Farewell Phrase | IPA | Phonetic Respelling | English Translation | Register & Tone |
+| :--- | :--- | :--- | :--- | :--- |
+| **Au revoir** | /o ʁə.vwaʁ/ | **oh ruh-VWAHR** | Goodbye | Universal standard; appropriate in every context |
+| **Bonne journée** | /bɔn ʒuʁ.ne/ | **buhn zhoor-NAY** | Have a good day | Polite daytime departure |
+| **Bonne soirée** | /bɔn swa.ʁe/ | **buhn swah-RAY** | Have a good evening | Polite evening departure |
+| **Bonne nuit** | /bɔn nɥi/ | **buhn NWEE** | Good night | Exclusively before going to sleep |
+| **À bientôt** | /a bjɛ̃.to/ | **ah byan-TOH** | See you soon | Neutral; implies seeing each other soon |
+| **À demain** | /a də.mɛ̃/ | **ah duh-MAN** | See you tomorrow | Specific to seeing someone the next day |
+| **À tout à l'heure** | /a tu.t‿a lœʁ/ | **ah too-tah LEUHR** | See you in a little while | Same day, within a few hours |
+| **Salut** | /sa.ly/ | **sah-LU** | Bye | Informal; only with people you call *tu* |
+| **Ciao** | /tʃa.o/ | **CHOW** | Bye | Colloquial, borrowed from Italian |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -278,19 +281,19 @@ To consolidate your mastery of registers, review this quick matrix of situationa
    </details>
 
 2. **Core Vocabulary & Anki Deck Preparation**  
-   Add the following 12 high-priority greeting cards to your French vocabulary deck (Anki or physical flashcards). Include the IPA pronunciation and register note on the reverse side:
-   - *Bonjour* (/bɔ̃.ʒuʁ/) — Hello / Good day [Universal]
-   - *Bonsoir* (/bɔ̃.swaʁ/) — Good evening [Formal/Neutral after ~5:30 pm]
-   - *Salut* (/sa.ly/) — Hi / Bye [Informal peers only]
-   - *Comment allez-vous ?* (/kɔ.mɑ̃.t‿a.le vu/) — How are you? [Formal]
-   - *Ça va ?* (/sa va/) — How's it going? [Neutral/Informal]
-   - *S'il vous plaît* (/sil vu plɛ/) — Please [Formal / Plural]
-   - *S'il te plaît* (/sil tə plɛ/) — Please [Informal]
-   - *Merci beaucoup* (/mɛʁ.si bo.ku/) — Thank you very much [Universal]
-   - *De rien* (/də ʁjɛ̃/) — You're welcome [Neutral/Informal]
-   - *Je vous en prie* (/ʒə vu.z‿ɑ̃ pʁi/) — You are very welcome [Formal/Elevated]
-   - *Au revoir* (/o ʁə.vwaʁ/) — Goodbye [Universal]
-   - *Bonne journée* (/bɔn ʒuʁ.ne/) — Have a good day [Polite departure]
+   Add the following 12 high-priority greeting cards to your French vocabulary deck (Anki or physical flashcards). Include the IPA and Phonetic Respelling on the reverse side:
+   - *Bonjour* (/bɔ̃.ʒuʁ/ — "bohn-ZHOOR") — Hello / Good day [Universal]
+   - *Bonsoir* (/bɔ̃.swaʁ/ — "bohn-SWAHR") — Good evening [Formal/Neutral after ~5:30 pm]
+   - *Salut* (/sa.ly/ — "sah-LU") — Hi / Bye [Informal peers only]
+   - *Comment allez-vous ?* (/kɔ.mɑ̃.t‿a.le vu/ — "koh-mahn-tah-lay VOO") — How are you? [Formal]
+   - *Ça va ?* (/sa va/ — "sah VAH") — How's it going? [Neutral/Informal]
+   - *S'il vous plaît* (/sil vu plɛ/ — "seel voo PLEH") — Please [Formal / Plural]
+   - *S'il te plaît* (/sil tə plɛ/ — "seel tuh PLEH") — Please [Informal]
+   - *Merci beaucoup* (/mɛʁ.si bo.ku/ — "mehr-see boh-KOO") — Thank you very much [Universal]
+   - *De rien* (/də ʁjɛ̃/ — "duh RYAN") — You're welcome [Neutral/Informal]
+   - *Je vous en prie* (/ʒə vu.z‿ɑ̃ pʁi/ — "zhuh voo-zahn PREE") — You are very welcome [Formal/Elevated]
+   - *Au revoir* (/o ʁə.vwaʁ/ — "oh ruh-VWAHR") — Goodbye [Universal]
+   - *Bonne journée* (/bɔn ʒuʁ.ne/ — "buhn zhoor-NAY") — Have a good day [Polite departure]
 
 3. **Receptive Listening Task**  
    Watch and listen to [Easy French — French Greetings (Street Interviews)](https://www.youtube.com/watch?v=nMlJQ3bgmAQ).  

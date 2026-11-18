@@ -107,37 +107,38 @@ Every lesson should teach with real French. Format examples consistently:
 
 ### Inline examples
 
-Use **bold** for the French, IPA in slashes, and *italics* for the English translation:
+Use **bold** for the French, IPA in slashes, English phonetic respelling in parentheses, and *italics* for the English translation:
 
 ```markdown
-**Bonjour** — /bɔ̃.ʒuʁ/ — *Hello / Good day*
+**Bonjour** — /bɔ̃.ʒuʁ/ (bohn-ZHOOR) — *Hello / Good day*
 ```
 
 ### Blockquote examples (for longer phrases or dialogues)
 
-Use blockquotes with the French on one line and the translation on the next:
+Use blockquotes with the French, IPA, and phonetic respelling on the first line and the translation on the next:
 
 ```markdown
-> **Comment allez-vous aujourd'hui ?** — /kɔ.mɑ̃.t‿a.le vu o.ʒuʁ.dɥi/
+> **Comment allez-vous aujourd'hui ?** — /kɔ.mɑ̃.t‿a.le vu o.ʒuʁ.dɥi/ (koh-mahn-tah-lay VOO oh-zhoor-DWEE)
 > *How are you today?*
 ```
 
 ### Tables of vocabulary
 
-Use tables for lists of related words. Always include pronunciation:
+Use tables for lists of related words. Always include IPA and English phonetic respelling:
 
 ```markdown
 | French | Pronunciation | English |
 | --- | --- | --- |
-| **Bonjour** | /bɔ̃.ʒuʁ/ | Hello |
-| **Merci** | /mɛʁ.si/ | Thank you |
+| **Bonjour** | /bɔ̃.ʒuʁ/ (bohn-ZHOOR) | Hello |
+| **Merci** | /mɛʁ.si/ (mehr-SEE) | Thank you |
 ```
 
-### Pronunciation hints
+### Pronunciation hints & Phonetic Respelling
 
-- Use IPA (International Phonetic Alphabet) for precision. Learners will encounter IPA in dictionaries and language tools.
+- Use **IPA (International Phonetic Alphabet)** for precision, accompanied by **English Phonetic Respelling** so adult beginners can speak immediately with confidence.
+- In phonetic respelling, write the stressed syllable in **ALL CAPS** (in French, stress naturally falls on the final syllable of the rhythm group: *bohn-ZHOOR*, *mehr-SEE*, *seel voo PLEH*).
 - For sounds that don't exist in English, add a brief note: "The French *r* (/ʁ/) is produced at the back of the throat, unlike the English *r*."
-- Nasal vowels (/ɑ̃/, /ɔ̃/, /ɛ̃/) deserve special attention — point them out whenever they appear.
+- Nasal vowels (/ɑ̃/ *ahn*, /ɔ̃/ *ohn*, /ɛ̃/ *an/ehn*) deserve special attention — point them out whenever they appear.
 
 ### Québec French markers
 

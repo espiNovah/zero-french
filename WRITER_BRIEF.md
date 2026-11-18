@@ -59,11 +59,11 @@ Lessons must follow this exact section sequence:
 - **Depth**: Deliver substantive, adult-oriented pedagogical explanations in plain English. Avoid condescending textbook jargon; explain the underlying communicative logic.
 - **Pattern-First Grammar**: Always explain grammar inductively. Present clear, paired examples first so the learner observes the pattern, and then codify the grammatical rule or formula.
 - **French Examples**: Every concept must have abundant French examples. Format every example consistently:
-  - **Inline**: `**Phrase en français** — /fʁaz ɑ̃ fʁɑ̃.sɛ/ — *English translation*`
+  - **Inline**: `**Phrase en français** — /fʁaz ɑ̃ fʁɑ̃.sɛ/ (frahz ahn frahn-SEH) — *English translation*`
   - **Dialogue / Blockquote**:
-    > **Comment vous appelez-vous ?** — /kɔ.mɑ̃ vu.z‿a.ple vu/  
+    > **Comment vous appelez-vous ?** — /kɔ.mɑ̃ vu.z‿a.ple vu/ (koh-mahn voo-zah-play VOO)  
     > *What is your name? (formal)*
-- **Pronunciation Hints**: Every new sound, liaison, silent consonant, or elision must include an IPA transcription in slashes or an accessible plain-English phonetic hint (e.g., *"The French u (/y/) is made by shaping your lips to say 'oo' while trying to pronounce 'ee'"*).
+- **Pronunciation Hints & Phonetic Respelling**: Every new sound, liaison, silent consonant, or elision must include an IPA transcription in slashes accompanied by a familiar English phonetic respelling with the stressed syllable capitalized (e.g., `(bohn-ZHOOR)`, `(zhuh voo-zahn PREE)`).
 - **Exam Tip Callout**: Include at least one `lesson-note--warning` box addressing specific TCF Canada traps:
   ```markdown
   <div class="lesson-note lesson-note--warning" markdown="1">

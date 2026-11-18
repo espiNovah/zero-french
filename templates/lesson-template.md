@@ -15,9 +15,10 @@ CUSTOM SECTION CONTENT. EXPLAIN THE CONCEPT IN YOUR OWN WORDS.
 FOR EACH FRENCH EXAMPLE, PROVIDE:
 - The French phrase in **bold**
 - An IPA pronunciation hint: /pʁɔ.nɔ̃.sja.sjɔ̃/
+- A familiar English phonetic respelling: (proh-nohn-syah-SYOHN)
 - An English translation in *italics*
 
-> **Bonjour, comment allez-vous ?** — /bɔ̃.ʒuʁ, kɔ.mɑ̃.t‿a.le vu/
+> **Bonjour, comment allez-vous ?** — /bɔ̃.ʒuʁ, kɔ.mɑ̃.t‿a.le vu/ (bohn-ZHOOR, koh-mahn-tah-lay VOO)
 > *Hello, how are you?*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
