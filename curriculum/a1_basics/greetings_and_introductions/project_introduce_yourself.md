@@ -21,21 +21,21 @@ Before recording, ensure you have the necessary setup ready:
 
 1. **Step 1: Draft Your Introduction Outline (No full memorization)**  
    In the real exam, you do not have notes. For this first benchmark, you may write an outline of 6–8 bullet points on paper. Do not write full sentences to memorize; use prompt keywords:
-   - Salutation and formal greeting (*Bonjour, monsieur / madame*)
-   - Full name (*Je m'appelle...*)
-   - Country of origin and nationality (*Je viens de... / Je suis...*)
-   - Current city of residence (*J'habite à...*)
-   - Occupation or field of study (*Je suis ingénieur / J'étudie l'informatique*)
-   - Languages spoken (*Je parle anglais et j'apprends le français*)
-   - One personal passion or weekend activity (*J'aime la musique / le sport*)
-   - Polite closing and thank-you (*Merci beaucoup pour votre écoute, bonne journée*)
+   - Salutation and formal greeting (*Bonjour, monsieur / madame* — "bohn-ZHOOR, muh-SYEUH / mah-DAHM")
+   - Full name (*Je m'appelle...* — "zhuh mah-PEL...")
+   - Country of origin and nationality (*Je viens de... / Je suis...* — "zhuh vyan duh... / zhuh SWEE...")
+   - Current city of residence (*J'habite à...* — "zhah-beet AH...")
+   - Occupation or field of study (*Je suis ingénieur / J'étudie l'informatique* — "zhuh swee-zan-zhay-NYEUR / zhay-tew-dee lan-for-mah-TEEK")
+   - Languages spoken (*Je parle anglais et j'apprends le français* — "zhuh pahrl ahn-GLEH ay zhah-prahn luh frahn-SEH")
+   - One personal passion or weekend activity (*J'aime la musique / le sport* — "zhehm lah mew-ZEEK / luh SPOHR")
+   - Polite closing and thank-you (*Merci beaucoup pour votre écoute, bonne journée* — "mehr-SEE boh-KOO poor voht-ruh ay-KOOT, buhn zhoor-NAY")
 
 2. **Step 2: Timed Spoken Rehearsal**  
    Read your outline once silently. Then, look away from your notes and practice speaking out loud. Focus on:
    - Starting with a clear formal greeting.
    - Using full simple sentences (*sujet + verbe + complément*).
    - Linking words smoothly (*et*, *aussi*, *mais*).
-   - Pronouncing nasal vowels cleanly in words like *bonjour* (/bɔ̃.ʒuʁ/) and *français* (/fʁɑ̃.sɛ/).
+   - Pronouncing nasal vowels cleanly in words like *bonjour* (/bɔ̃.ʒuʁ/ — "bohn-ZHOOR") and *français* (/fʁɑ̃.sɛ/ — "frahn-SEH").
 
 3. **Step 3: The 2-Minute Recorded Take**  
    Start your timer and hit record. Deliver your self-introduction continuously. 
