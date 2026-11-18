@@ -24,24 +24,24 @@ French nouns for family members carry grammatical gender (masculine or feminine)
 
 Observe how native speakers introduce their immediate family:
 
-> **Voici mon père et ma mère.** — /vwa.si mɔ̃ pɛʁ e ma mɛʁ/  
+> **Voici mon père et ma mère.** — /vwa.si mɔ̃ pɛʁ e ma mɛʁ/ (vwah-SEE mohn PEHR ay mah MEHR)  
 > *Here is my father and my mother.*
 
-> **J'ai un frère et deux sœurs.** — /ʒe œ̃ fʁɛʁ e dø sœʁ/  
+> **J'ai un frère et deux sœurs.** — /ʒe œ̃ fʁɛʁ e dø sœʁ/ (zhay uhn FREHR ay deuh SEUHR)  
 > *I have one brother and two sisters.*
 
-> **Nous avons un fils et une fille.** — /nu.z‿a.vɔ̃ œ̃ fis e yn fij/  
+> **Nous avons un fils et une fille.** — /nu.z‿a.vɔ̃ œ̃ fis e yn fij/ (noo-zah-VOHN uhn FEESS ay ewn FEEY)  
 > *We have a son and a daughter.*
 
-Notice the pronunciation of **fils** (son): the *l* is silent, and the final *s* is pronounced: `/fis/`. Do not pronounce it as *"feel"*. In contrast, **fille** (daughter or girl) is pronounced `/fij/`.
+Notice the pronunciation of **fils** (son): the *l* is silent, and the final *s* is pronounced: `/fis/ (FEESS)`. Do not pronounce it as *"feel"*. In contrast, **fille** (daughter or girl) is pronounced `/fij/ (FEEY)`.
 
 | Masculine Family Term | Feminine Family Term | Plural Collective Term | English Translation |
 | :--- | :--- | :--- | :--- |
-| **le père** (/lə pɛʁ/) | **la mère** (/la mɛʁ/) | **les parents** (/le pa.ʁɑ̃/) | father / mother / parents |
-| **le fils** (/lə fis/) | **la fille** (/la fij/) | **les enfants** (/le.z‿ɑ̃.fɑ̃/) | son / daughter / children |
-| **le frère** (/lə fʁɛʁ/) | **la sœur** (/la sœʁ/) | **les frères et sœurs** | brother / sister / siblings |
-| **le mari** (/lə ma.ʁi/) | **la femme** (/la fam/) | **le couple** (/lə kupl/) | husband / wife / couple |
-| **l'époux** (/le.pu/) | **l'épouse** (/le.puz/) | **les époux** (/le.z‿e.pu/) | spouse (masc.) / spouse (fem.) |
+| **le père** (/lə pɛʁ/ — *luh PEHR*) | **la mère** (/la mɛʁ/ — *lah MEHR*) | **les parents** (/le pa.ʁɑ̃/ — *lay pah-RAHN*) | father / mother / parents |
+| **le fils** (/lə fis/ — *luh FEESS*) | **la fille** (/la fij/ — *lah FEEY*) | **les enfants** (/le.z‿ɑ̃.fɑ̃/ — *lay-zahn-FAHN*) | son / daughter / children |
+| **le frère** (/lə fʁɛʁ/ — *luh FREHR*) | **la sœur** (/la sœʁ/ — *lah SEUHR*) | **les frères et sœurs** (/le fʁɛʁ e sœʁ/ — *lay frehr-ay-SEUHR*) | brother / sister / siblings |
+| **le mari** (/lə ma.ʁi/ — *luh mah-REE*) | **la femme** (/la fam/ — *lah FAHM*) | **le couple** (/lə kupl/ — *luh KOOPL*) | husband / wife / couple |
+| **l'époux** (/le.pu/ — *lay-POO*) | **l'épouse** (/le.puz/ — *lay-POOZ*) | **les époux** (/le.z‿e.pu/ — *lay-zay-POO*) | spouse (masc.) / spouse (fem.) |
 
 > **Parents vs Relatives**: In French, **mes parents** usually means your *father and mother*, but **un parent** can also mean any relative (*un parent éloigné* = a distant relative). For "relatives" as a group, you can say **la famille élargie**, or in Québec **la parenté** **(QC)**. **Les proches** means the people close to you (family and close friends).
 
@@ -51,22 +51,22 @@ When describing your family tree in more detail, French uses clear prefixes for 
 
 Observe the patterns:
 
-> **Mes grands-parents habitent en France.** — /me ɡʁɑ̃.pa.ʁɑ̃ a.bit ɑ̃ fʁɑ̃s/  
+> **Mes grands-parents habitent en France.** — /me ɡʁɑ̃.pa.ʁɑ̃ a.bit ɑ̃ fʁɑ̃s/ (may grahn-pah-RAHN ah-beet ahn FRAHNS)  
 > *My grandparents live in France.*
 
-> **Mon oncle est ingénieur à Montréal.** — /mɔ̃n‿ɔ̃kl ɛ.t‿ɛ̃.ʒe.njœʁ a mɔ̃.ʁe.al/  
+> **Mon oncle est ingénieur à Montréal.** — /mɔ̃n‿ɔ̃kl ɛ.t‿ɛ̃.ʒe.njœʁ a mɔ̃.ʁe.al/ (moh-nOHN-kluh eh-tan-zhay-NYEUR ah mohn-ray-AHL)  
 > *My uncle is an engineer in Montreal.*
 
-| French Term | IPA Pronunciation | English Meaning | Note |
-| :--- | :--- | :--- | :--- |
-| **le grand-père** | /lə ɡʁɑ̃.pɛʁ/ | grandfather | Note the hyphen |
-| **la grand-mère** | /la ɡʁɑ̃.mɛʁ/ | grandmother | Plural: *les grands-parents* |
-| **l'oncle** | /lɔ̃kl/ | uncle | Vowel-initial (uses *l'*) |
-| **la tante** | /la tɑ̃t/ | aunt | Feminine noun |
-| **le cousin** | /lə ku.zɛ̃/ | cousin (male) | Nasal vowel /ɛ̃/ |
-| **la cousine** | /la ku.zin/ | cousin (female) | Oral vowel /in/ |
-| **le neveu** | /lə nə.vø/ | nephew | Plural: *les neveux* |
-| **la nièce** | /la njɛs/ | niece | Feminine noun |
+| French Term | IPA | Phonetic Respelling | English Meaning | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **le grand-père** | /lə ɡʁɑ̃.pɛʁ/ | **luh grahn-PEHR** | grandfather | Note the hyphen |
+| **la grand-mère** | /la ɡʁɑ̃.mɛʁ/ | **lah grahn-MEHR** | grandmother | Plural: *les grands-parents* |
+| **l'oncle** | /lɔ̃kl/ | **LOHN-kluh** | uncle | Vowel-initial (uses *l'*) |
+| **la tante** | /la tɑ̃t/ | **lah TAHNT** | aunt | Feminine noun |
+| **le cousin** | /lə ku.zɛ̃/ | **luh koo-ZAN** | cousin (male) | Nasal vowel /ɛ̃/ |
+| **la cousine** | /la ku.zin/ | **lah koo-ZEEN** | cousin (female) | Oral vowel /in/ |
+| **le neveu** | /lə nə.vø/ | **luh nuh-VEUH** | nephew | Plural: *les neveux* |
+| **la nièce** | /la njɛs/ | **lah NYESS** | niece | Feminine noun |
 
 ### Possessive adjectives: Agreement with the possessed noun
 
@@ -76,25 +76,25 @@ In French, possessive adjectives obey a completely different rule: **they agree 
 
 Observe this fundamental contrast:
 
-> **David parle de sa mère.** — /da.vid paʁl də sa mɛʁ/  
+> **David parle de sa mère.** — /da.vid paʁl də sa mɛʁ/ (dah-VEED pahrl duh sah MEHR)  
 > *David is talking about his mother. ("mère" is feminine, so we use "sa", even though David is a man!)*
 
-> **Sophie parle de son père.** — /sɔ.fi paʁl də sɔ̃ pɛʁ/  
+> **Sophie parle de son père.** — /sɔ.fi paʁl də sɔ̃ pɛʁ/ (soh-FEE pahrl duh sohn PEHR)  
 > *Sophie is talking about her father. ("père" is masculine, so we use "son", even though Sophie is a woman!)*
 
-> **Pierre et Marie aiment leurs enfants.** — /pjɛʁ e ma.ʁi ɛm lœʁ.z‿ɑ̃.fɑ̃/  
+> **Pierre et Marie aiment leurs enfants.** — /pjɛʁ e ma.ʁi ɛm lœʁ.z‿ɑ̃.fɑ̃/ (pyehr ay mah-REE ehm leur-zahn-FAHN)  
 > *Pierre and Marie love their children. ("enfants" is plural, so we use "leurs")*
 
 #### The Complete Possessive Adjective Matrix
 
 | Owner | Masculine Singular Noun | Feminine Singular Noun | Plural Nouns (Masc. & Fem.) |
 | :--- | :--- | :--- | :--- |
-| **I (Je)** | **mon** (/mɔ̃/) | **ma** (/ma/) | **mes** (/me/) |
-| **You informal (Tu)** | **ton** (/tɔ̃/) | **ta** (/ta/) | **tes** (/te/) |
-| **He / She / It (Il/Elle)**| **son** (/sɔ̃/) | **sa** (/sa/) | **ses** (/se/) |
-| **We (Nous)** | **notre** (/nɔtʁ/) | **notre** (/nɔtʁ/) | **nos** (/no/) |
-| **You formal/plural (Vous)**| **votre** (/vɔtʁ/) | **votre** (/vɔtʁ/) | **vos** (/vo/) |
-| **They (Ils/Elles)** | **leur** (/lœʁ/) | **leur** (/lœʁ/) | **leurs** (/lœʁ/) |
+| **I (Je)** | **mon** (/mɔ̃/ — *mohn*) | **ma** (/ma/ — *mah*) | **mes** (/me/ — *may*) |
+| **You informal (Tu)** | **ton** (/tɔ̃/ — *tohn*) | **ta** (/ta/ — *tah*) | **tes** (/te/ — *tay*) |
+| **He / She / It (Il/Elle)**| **son** (/sɔ̃/ — *sohn*) | **sa** (/sa/ — *sah*) | **ses** (/se/ — *say*) |
+| **We (Nous)** | **notre** (/nɔtʁ/ — *NOH-truh*) | **notre** (/nɔtʁ/ — *NOH-truh*) | **nos** (/no/ — *noh*) |
+| **You formal/plural (Vous)**| **votre** (/vɔtʁ/ — *VOH-truh*) | **votre** (/vɔtʁ/ — *VOH-truh*) | **vos** (/vo/ — *voh*) |
+| **They (Ils/Elles)** | **leur** (/lœʁ/ — *leur*) | **leur** (/lœʁ/ — *leur*) | **leurs** (/lœʁ/ — *leur*) |
 
 Notice that for *nous*, *vous*, and *ils/elles*, there is no gender distinction in the singular: you use **notre**, **votre**, and **leur** for both masculine and feminine singular nouns.
 
@@ -106,13 +106,13 @@ If a feminine noun begins with a vowel sound or a silent *h*, using *ma*, *ta*, 
 
 Compare these pairs:
 
-> **mon amie** (/mɔ̃.n‿a.mi/) — *my (female) friend*  
+> **mon amie** — /mɔ̃.n‿a.mi/ (moh-nah-MEE) — *my (female) friend*  
 > ✗ *ma amie* (Impossible in French)
 
-> **son épouse** (/sɔ̃.n‿e.puz/) — *his/her wife*  
+> **son épouse** — /sɔ̃.n‿e.puz/ (sohn-nay-POOZ) — *his/her wife*  
 > ✗ *sa épouse* (Impossible in French)
 
-> **ton histoire** (/tɔ̃.n‿is.twaʁ/) — *your story / history*  
+> **ton histoire** — /tɔ̃.n‿is.twaʁ/ (tohn-neess-TWAHR) — *your story / history*  
 > ✗ *ta histoire* (Impossible in French: silent "h" acts like a vowel)
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -132,24 +132,24 @@ In everyday life and particularly in Canadian immigration forms (such as Express
 
 Observe how speakers state their relationship status using the verb **être**:
 
-> **Je suis marié depuis cinq ans.** — /ʒə sɥi ma.ʁje də.pɥi sɛ̃.k‿ɑ̃/  
+> **Je suis marié depuis cinq ans.** — /ʒə sɥi ma.ʁje də.pɥi sɛ̃.k‿ɑ̃/ (zhuh swee mah-ree-AY duh-pwee sank-AHN)  
 > *I have been married for five years. (Masculine speaker)*
 
-> **Je suis mariée et nous avons deux enfants.** — /ʒə sɥi ma.ʁje e nu.z‿a.vɔ̃ dø.z‿ɑ̃.fɑ̃/  
+> **Je suis mariée et nous avons deux enfants.** — /ʒə sɥi ma.ʁje e nu.z‿a.vɔ̃ dø.z‿ɑ̃.fɑ̃/ (zhuh swee mah-ree-AY ay noo-zah-VOHN deuh-zahn-FAHN)  
 > *I am married and we have two children. (Feminine speaker: note the extra "e")*
 
-> **Nous sommes conjoints de fait.** — /nu sɔm kɔ̃.ʒwɛ̃ də fɛ/  
+> **Nous sommes conjoints de fait.** — /nu sɔm kɔ̃.ʒwɛ̃ də fɛ/ (noo suhm kohn-ZHWAN duh FEH)  
 > *We are common-law partners.*
 
-| Civil Status Term | IPA Pronunciation | English Meaning | Note |
-| :--- | :--- | :--- | :--- |
-| **célibataire** | /se.li.ba.tɛʁ/ | single | Same form for masc. and fem. |
-| **marié / mariée** | /ma.ʁje/ | married | Add *-e* for feminine (sound is identical) |
-| **conjoint de fait** | /kɔ̃.ʒwɛ̃ də fɛ/ | common-law partner (male) | Official Canadian legal status (cohabitation ≥ 1 yr) |
-| **conjointe de fait** | /kɔ̃.ʒwɛ̃t də fɛ/ | common-law partner (female) | Feminine form adds audible /t/ sound |
-| **divorcé / divorcée** | /di.vɔʁ.se/ | divorced | Add *-e* for feminine |
-| **séparé / séparée** | /se.pa.ʁe/ | separated | Add *-e* for feminine |
-| **veuf / veuve** | /vœf / vœv/ | widower / widow | Irregular feminine spelling and pronunciation shift |
+| Civil Status Term | IPA | Phonetic Respelling | English Meaning | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **célibataire** | /se.li.ba.tɛʁ/ | **say-lee-bah-TEHR** | single | Same form for masc. and fem. |
+| **marié / mariée** | /ma.ʁje/ | **mah-ree-AY** | married | Add *-e* for feminine (sound is identical) |
+| **conjoint de fait** | /kɔ̃.ʒwɛ̃ də fɛ/ | **kohn-ZHWAN duh FEH** | common-law partner (male) | Official Canadian legal status (cohabitation ≥ 1 yr) |
+| **conjointe de fait** | /kɔ̃.ʒwɛ̃t də fɛ/ | **kohn-ZHWANT duh FEH** | common-law partner (female) | Feminine form adds audible /t/ sound |
+| **divorcé / divorcée** | /di.vɔʁ.se/ | **dee-vor-SAY** | divorced | Add *-e* for feminine |
+| **séparé / séparée** | /se.pa.ʁe/ | **say-pah-RAY** | separated | Add *-e* for feminine |
+| **veuf / veuve** | /vœf / vœv/ | **veuf / veuhv** | widower / widow | Irregular feminine spelling and pronunciation shift |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -198,21 +198,21 @@ Using simple connectors like **mais** (*but*), **et** (*and*), and **avec** (*wi
    </details>
 
 2. **Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential family terms and possessives to your Anki deck:
-   - *le père / la mère* (/lə pɛʁ/, /la mɛʁ/) — father / mother
-   - *les parents* (/le pa.ʁɑ̃/) — parents
-   - *le fils* (/lə fis/) — son (note: final s is pronounced!)
-   - *la fille* (/la fij/) — daughter / girl
-   - *le frère / la sœur* (/lə fʁɛʁ/, /la sœʁ/) — brother / sister
-   - *le mari / la femme* (/lə ma.ʁi/, /la fam/) — husband / wife
-   - *le conjoint / la conjointe* (/lə kɔ̃.ʒwɛ̃/, /la kɔ̃.ʒwɛ̃t/) — partner / spouse
-   - *mon, ma, mes* (/mɔ̃/, /ma/, /me/) — my (masc., fem., plural)
-   - *ton, ta, tes* (/tɔ̃/, /ta/, /te/) — your (masc., fem., plural informal)
-   - *son, sa, ses* (/sɔ̃/, /sa/, /se/) — his/her/its (masc., fem., plural)
-   - *notre, nos* (/nɔtʁ/, /no/) — our (singular, plural)
-   - *votre, vos* (/vɔtʁ/, /vo/) — your (singular formal/plural, plural)
-   - *leur, leurs* (/lœʁ/) — their (singular, plural)
-   - *célibataire* (/se.li.ba.tɛʁ/) — single
+   Add these 14 essential family terms and possessives to your Anki deck with IPA and Phonetic Respelling:
+   - *le père / la mère* (/lə pɛʁ/, /la mɛʁ/ — "luh PEHR", "lah MEHR") — father / mother
+   - *les parents* (/le pa.ʁɑ̃/ — "lay pah-RAHN") — parents
+   - *le fils* (/lə fis/ — "luh FEESS") — son (note: final s is pronounced!)
+   - *la fille* (/la fij/ — "lah FEEY") — daughter / girl
+   - *le frère / la sœur* (/lə fʁɛʁ/, /la sœʁ/ — "luh FREHR", "lah SEUHR") — brother / sister
+   - *le mari / la femme* (/lə ma.ʁi/, /la fam/ — "luh mah-REE", "lah FAHM") — husband / wife
+   - *le conjoint / la conjointe* (/lə kɔ̃.ʒwɛ̃/, /la kɔ̃.ʒwɛ̃t/ — "luh kohn-ZHWAN", "lah kohn-ZHWANT") — partner / spouse
+   - *mon, ma, mes* (/mɔ̃/, /ma/, /me/ — "mohn, mah, may") — my (masc., fem., plural)
+   - *ton, ta, tes* (/tɔ̃/, /ta/, /te/ — "tohn, tah, tay") — your (masc., fem., plural informal)
+   - *son, sa, ses* (/sɔ̃/, /sa/, /se/ — "sohn, sah, say") — his/her/its (masc., fem., plural)
+   - *notre, nos* (/nɔtʁ/, /no/ — "NOH-truh, noh") — our (singular, plural)
+   - *votre, vos* (/vɔtʁ/, /vo/ — "VOH-truh, voh") — your (singular formal/plural, plural)
+   - *leur, leurs* (/lœʁ/ — "leur") — their (singular, plural)
+   - *célibataire* (/se.li.ba.tɛʁ/ — "say-lee-bah-TEHR") — single
 
 3. **Receptive Listening Task**  
    Listen to the family dialogue excerpt on [RFI Savoirs — Parler de sa famille (A1)](https://francaisfacile.rfi.fr/fr/).  
