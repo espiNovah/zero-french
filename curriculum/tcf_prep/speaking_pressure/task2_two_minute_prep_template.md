@@ -28,7 +28,7 @@ By the end of this lesson, you will be able to:
 
 On test day you receive the task instructions and two minutes to prepare. The exact wording and materials depend on the centre, but the instruction may sound something like this:
 > **« Vous avez deux minutes pour préparer cette tâche. Vous pouvez prendre des notes. Vous devez me poser des questions pour obtenir des informations. À vous. »**  
-> — /vu.z‿a.ve dø mi.nyt puʁ pʁe.pa.ʁe sɛt tɑʃ. vu pu.ve pʁɑ̃dʁ de nɔt. vu də.ve mə po.ze de kɛs.tjɔ̃ puʁ ɔb.tə.niʁ de.z‿ɛ̃.fɔʁ.ma.sjɔ̃. a vu/
+> — /vu.z‿a.ve dø mi.nyt puʁ pʁe.pa.ʁe sɛt tɑʃ. vu pu.ve pʁɑ̃dʁ de nɔt. vu də.ve mə po.ze de kɛs.tjɔ̃ puʁ ɔb.tə.niʁ de.z‿ɛ̃.fɔʁ.ma.sjɔ̃. a vu/ (voo-zah-VAY duh mee-NEWT poor pray-pah-RAY seht TAHSH. voo poo-VAY PRAHN-druh day NOHT. voo duh-VAY muh poh-ZAY day kehs-TYOHN poor ohb-tuh-NEER day-zehn-fohr-mah-SYOHN. ah VOO.)
 
 Two minutes is **120 seconds**. If you attempt to handwrite complete grammatical sentences, you write at approximately 15 words per minute. Three complete questions will consume your entire preparation time.
 
@@ -105,10 +105,10 @@ Deploy these four distinct grammatical mechanisms across the interview:
 
 | Syntactic Register | Grammatical Formula | Concrete Exam Example |
 | :--- | :--- | :--- |
-| **1. Polite Conditional Inversion** | Verb + Hyphen + Subject Pronoun | **« Pourriez-vous me préciser les modalités de règlement ? »** — /pu.ʁje vu mə pʁe.si.ze le mɔ.da.li.te də ʁɛ.ɡlə.mɑ̃/ |
-| **2. Indirect Embedded Question** | J'aimerais savoir si / ce que / quand... | **« J'aimerais savoir si le matériel pédagogique est fourni gracieusement. »** — /ʒ‿ɛ.mə.ʁɛ sa.vwaʁ si lə ma.te.ʁjɛl pe.da.ɡɔ.ʒik ɛ fuʁ.ni ɡʁa.sjøz.mɑ̃/ |
-| **3. Complex Interrogative Phrase** | Qu'en est-il de... / Dans quelle mesure... | **« Qu'en est-il de la politique de remboursement en cas de force majeure ? »** — /k‿ɑ̃n‿ɛt‿il də la pɔ.li.tik də ʁɑ̃.buʁ.sə.mɑ̃ ɑ̃ ka də fɔʁs ma.ʒœʁ/ |
-| **4. Classical Est-ce que / Quel** | Quel(le)s sont les... | **« Quelles sont les pièces justificatives exigées lors de l'inscription ? »** — /kɛl sɔ̃ le pjɛs ʒys.ti.fi.ka.tiv.z‿ɛɡ.zi.ʒe lɔʁ də l‿ɛ̃s.kʁip.sjɔ̃/ |
+| **1. Polite Conditional Inversion** | Verb + Hyphen + Subject Pronoun | **« Pourriez-vous me préciser les modalités de règlement ? »** — /pu.ʁje vu mə pʁe.si.ze le mɔ.da.li.te də ʁɛ.ɡlə.mɑ̃/ (poor-yay-VOO muh pray-see-ZAY lay moh-dah-lee-TAY duh reh-gluh-MAHN ?) |
+| **2. Indirect Embedded Question** | J'aimerais savoir si / ce que / quand... | **« J'aimerais savoir si le matériel pédagogique est fourni gracieusement. »** — /ʒ‿ɛ.mə.ʁɛ sa.vwaʁ si lə ma.te.ʁjɛl pe.da.ɡɔ.ʒik ɛ fuʁ.ni ɡʁa.sjøz.mɑ̃/ (zheh-muh-REH sah-VWAHR see luh mah-tay-RYEHL pay-dah-goh-ZHEEK eh foor-NEE grah-syuhz-MAHN.) |
+| **3. Complex Interrogative Phrase** | Qu'en est-il de... / Dans quelle mesure... | **« Qu'en est-il de la politique de remboursement en cas de force majeure ? »** — /k‿ɑ̃n‿ɛt‿il də la pɔ.li.tik də ʁɑ̃.buʁ.sə.mɑ̃ ɑ̃ ka də fɔʁs ma.ʒœʁ/ (kahn-eh-TEEL duh lah poh-lee-TEEK duh rahn-boor-suh-MAHN ahn kah duh fohrs mah-ZHUHR ?) |
+| **4. Classical Est-ce que / Quel** | Quel(le)s sont les... | **« Quelles sont les pièces justificatives exigées lors de l'inscription ? »** — /kɛl sɔ̃ le pjɛs ʒys.ti.fi.ka.tiv.z‿ɛɡ.zi.ʒe lɔʁ də l‿ɛ̃s.kʁip.sjɔ̃/ (kehl SOHN lay pyehs zhews-tee-fee-kah-teev-zehg-zee-ZHAY lohr duh lehn-skreep-SYOHN ?) |
 
 ---
 
@@ -135,17 +135,17 @@ Every question must follow a natural interactive cycle:
 Never let an examiner's answer drop into silence. Use these formulas to validate the information before pivoting:
 
 1. **When the news is favorable**:
-   - **« C'est une excellente nouvelle, cela correspond parfaitement à mes attentes. »** — /s‿ɛt‿yn ɛk.sɛ.lɑ̃t nu.vɛl sə.la kɔ.ʁɛs.pɔ̃ paʁ.fɛt.mɑ̃ a me.z‿a.tɑ̃t/ (*That is excellent news; that matches my expectations perfectly.*)
-   - **« C'est très avantageux. Et à ce propos... »** — /s‿ɛ tʁɛ.z‿a.vɑ̃.ta.ʒø. e a sə pʁɔ.po/ (*That is very advantageous. And speaking of which...*)
+   - **« C'est une excellente nouvelle, cela correspond parfaitement à mes attentes. »** — /s‿ɛt‿yn ɛk.sɛ.lɑ̃t nu.vɛl sə.la kɔ.ʁɛs.pɔ̃ paʁ.fɛt.mɑ̃ a me.z‿a.tɑ̃t/ (seh-tewn ehk-seh-LAHNT noo-VEHL, suh-lah koh-rehs-POHN pahr-feht-MAHN ah may-zah-TAHNT.) (*That is excellent news; that matches my expectations perfectly.*)
+   - **« C'est très avantageux. Et à ce propos... »** — /s‿ɛ tʁɛ.z‿a.vɑ̃.ta.ʒø. e a sə pʁɔ.po/ (seh treh-zah-vahn-tah-ZHEUH. ay ah suh proh-POH...) (*That is very advantageous. And speaking of which...*)
 2. **When the information is neutral / factual**:
-   - **« D'accord, je prends bonne note de cet horaire. »** — /da.kɔʁ ʒə pʁɑ̃ bɔn nɔt də sɛt‿ɔ.ʁɛʁ/ (*Understood, I make good note of that schedule.*)
-   - **« Très bien, c'est tout à fait clair. Passons maintenant à... »** — /tʁɛ bjɛ̃ s‿ɛ tu.t‿a fɛ klɛʁ. pa.sɔ̃ mɛ̃t.nɑ̃ a/ (*Very well, that is completely clear. Moving on now to...*)
+   - **« D'accord, je prends bonne note de cet horaire. »** — /da.kɔʁ ʒə pʁɑ̃ bɔn nɔt də sɛt‿ɔ.ʁɛʁ/ (dah-KOHR, zhuh prahn bohn NOHT duh seh-toh-REHR.) (*Understood, I make good note of that schedule.*)
+   - **« Très bien, c'est tout à fait clair. Passons maintenant à... »** — /tʁɛ bjɛ̃ s‿ɛ tu.t‿a fɛ klɛʁ. pa.sɔ̃ mɛ̃t.nɑ̃ a/ (treh BYEHN, seh too-tah FEH KLEHR. pah-SOHN mehnt-NAHN ah...) (*Very well, that is completely clear. Moving on now to...*)
 3. **When the examiner presents an objection or restriction**:
    - The examiner might say: *« Malheureusement, les cours du soir sont complets pour le mois prochain. »*
    - **Do not say**: *« Ah. Dommage. »*
    - **High-Scoring Objection Negotiation**:
      **« Je comprends tout à fait. Dans cette hypothèse, existerait-il une liste d'attente sur laquelle je pourrais m'inscrire ? À défaut, proposez-vous des créneaux équivalents le week-end ? »**  
-     — /ʒə kɔ̃.pʁɑ̃ tu.t‿a fɛ. dɑ̃ sɛt i.pɔ.tɛz ɛɡ.zis.tə.ʁɛ.t‿il yn list d‿a.tɑ̃t syʁ la.kɛl ʒə pu.ʁɛ m‿ɛ̃s.kʁiʁ/
+     — /ʒə kɔ̃.pʁɑ̃ tu.t‿a fɛ. dɑ̃ sɛt i.pɔ.tɛz ɛɡ.zis.tə.ʁɛ.t‿il yn list d‿a.tɑ̃t syʁ la.kɛl ʒə pu.ʁɛ m‿ɛ̃s.kʁiʁ/ (zhuh kohn-PRAHN too-tah FEH. dahn seht ee-poh-TEHZ ehg-zees-tuh-reh-TEEL ewn leest dah-TAHNT sewr lah-KEHL zhuh poo-REH mehn-SKREER ?)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -213,20 +213,20 @@ CONCLUSION : Très séduit / réserver place / envoi formulaire par courriel
 
 Commit these 12 interactive formulas to memory to lead the dialogue smoothly:
 
-| Spoken Formula | IPA Transcription | English Translation | Interactive Context |
-| :--- | :--- | :--- | :--- |
-| **Je prends bonne note de cette modalité.** | /ʒə pʁɑ̃ bɔn nɔt də sɛt mɔ.da.li.te/ | *I take careful note of this term.* | Acknowledging a rule |
-| **Cela correspond tout à fait à mon profil.** | /sə.la kɔ.ʁɛs.pɔ̃ tu.t‿a fɛ a mɔ̃ pʁɔ.fil/ | *That matches my profile completely.* | Positive validation |
-| **Permettez-moi d'insister sur un point...** | /pɛʁ.mɛ.te mwa d‿ɛ̃.sis.te syʁ œ̃ pwɛ̃/ | *Allow me to emphasize one point...* | Deepening an inquiry |
-| **Qu'en est-il des modalités de paiement ?** | /k‿ɑ̃n‿ɛt‿il de mɔ.da.li.te də pe.mɑ̃/ | *What about payment arrangements?* | Introducing pricing |
-| **Y a-t-il des prérequis particuliers ?** | /j‿a.t‿il de pʁe.ʁə.ki paʁ.ti.ky.lje/ | *Are there specific prerequisites?* | Asking about admission |
-| **Dans l'hypothèse où je devrais reporter...** | /dɑ̃ l‿i.pɔ.tɛz u ʒə də.vʁɛ ʁə.pɔʁ.te/ | *In the event that I had to postpone...* | Negotiating flexibility |
-| **Existerait-il une formule alternative ?** | /ɛɡ.zis.tə.ʁɛ.t‿il yn fɔʁ.myl al.tɛʁ.na.tiv/ | *Might there be an alternative plan?* | Overcoming an obstacle |
-| **C'est un élément des plus rassurants.** | /s‿ɛt‿œ̃n‿e.le.mɑ̃ de ply ʁa.sy.ʁɑ̃/ | *That is a most reassuring factor.* | Positive reaction |
-| **Pourriez-vous m'éclairer quant aux... ?** | /pu.ʁje vu m‿e.klɛ.ʁe kɑ̃.t‿o/ | *Could you clarify regarding...?* | High-register transition |
-| **Le matériel est-il fourni gracieusement ?** | /lə ma.te.ʁjɛl ɛ.t‿il fuʁ.ni ɡʁa.sjøz.mɑ̃/ | *Is gear provided free of charge?* | Checking hidden costs |
-| **Tout cela me convient parfaitement.** | /tu sə.la mə kɔ̃.vjɛ̃ paʁ.fɛt.mɑ̃/ | *All this suits me perfectly.* | Beginning the wrap-up |
-| **Conviendrait-il que je vous transmette... ?** | /kɔ̃.vjɛ̃.dʁɛ.t‿il kə ʒə vu tʁɑ̃s.mɛt/ | *Would it be suitable for me to send...?* | Finalizing booking |
+| Spoken Formula | IPA Transcription | Phonetic Respelling | English Translation | Interactive Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je prends bonne note de cette modalité.** | /ʒə pʁɑ̃ bɔn nɔt də sɛt mɔ.da.li.te/ | (zhuh prahn bohn NOHT duh seht moh-dah-lee-TAY) | *I take careful note of this term.* | Acknowledging a rule |
+| **Cela correspond tout à fait à mon profil.** | /sə.la kɔ.ʁɛs.pɔ̃ tu.t‿a fɛ a mɔ̃ pʁɔ.fil/ | (suh-lah koh-rehs-POHN too-tah FEH ah mohn proh-FEEL) | *That matches my profile completely.* | Positive validation |
+| **Permettez-moi d'insister sur un point...** | /pɛʁ.mɛ.te mwa d‿ɛ̃.sis.te syʁ œ̃ pwɛ̃/ | (pehr-meh-tay-MWAH dehn-sees-TAY sewr uhn PWEHN) | *Allow me to emphasize one point...* | Deepening an inquiry |
+| **Qu'en est-il des modalités de paiement ?** | /k‿ɑ̃n‿ɛt‿il de mɔ.da.li.te də pe.mɑ̃/ | (kahn-eh-TEEL day moh-dah-lee-TAY duh peh-MAHN ?) | *What about payment arrangements?* | Introducing pricing |
+| **Y a-t-il des prérequis particuliers ?** | /j‿a.t‿il de pʁe.ʁə.ki paʁ.ti.ky.lje/ | (yah-teel day pray-ruh-KEE pahr-tee-kew-LYAY ?) | *Are there specific prerequisites?* | Asking about admission |
+| **Dans l'hypothèse où je devrais reporter...** | /dɑ̃ l‿i.pɔ.tɛz u ʒə də.vʁɛ ʁə.pɔʁ.te/ | (dahn lee-poh-TEHZ oo zhuh duh-VREH ruh-pohr-TAY...) | *In the event that I had to postpone...* | Negotiating flexibility |
+| **Existerait-il une formule alternative ?** | /ɛɡ.zis.tə.ʁɛ.t‿il yn fɔʁ.myl al.tɛʁ.na.tiv/ | (ehg-zees-tuh-reh-TEEL ewn fohr-MEWL ahl-tehr-nah-TEEV ?) | *Might there be an alternative plan?* | Overcoming an obstacle |
+| **C'est un élément des plus rassurants.** | /s‿ɛt‿œ̃n‿e.le.mɑ̃ de ply ʁa.sy.ʁɑ̃/ | (seh-tuhn-nay-lay-MAHN day plew rah-sew-RAHN) | *That is a most reassuring factor.* | Positive reaction |
+| **Pourriez-vous m'éclairer quant aux... ?** | /pu.ʁje vu m‿e.klɛ.ʁe kɑ̃.t‿o/ | (poor-yay-VOO may-klay-RAY kahn-TOH... ?) | *Could you clarify regarding...?* | High-register transition |
+| **Le matériel est-il fourni gracieusement ?** | /lə ma.te.ʁjɛl ɛ.t‿il fuʁ.ni ɡʁa.sjøz.mɑ̃/ | (luh mah-tay-RYEHL eh-teel foor-NEE grah-syuhz-MAHN ?) | *Is gear provided free of charge?* | Checking hidden costs |
+| **Tout cela me convient parfaitement.** | /tu sə.la mə kɔ̃.vjɛ̃ paʁ.fɛt.mɑ̃/ | (too suh-lah muh kohn-VYEHN pahr-feht-MAHN) | *All this suits me perfectly.* | Beginning the wrap-up |
+| **Conviendrait-il que je vous transmette... ?** | /kɔ̃.vjɛ̃.dʁɛ.t‿il kə ʒə vu tʁɑ̃s.mɛt/ | (kohn-vyehn-dreh-TEEL kuh zhuh voo trahns-MEHT... ?) | *Would it be suitable for me to send...?* | Finalizing booking |
 
 ---
 
