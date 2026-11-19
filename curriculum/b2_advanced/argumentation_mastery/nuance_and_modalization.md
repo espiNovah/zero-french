@@ -52,15 +52,15 @@ By using a verb in the conditional instead of the indicative, the speaker attrib
   * *Le premier ministre a démissionné ce matin.* (Proven, confirmed fact).
 * *Journalistic Conditional (Unconfirmed report)*:  
   * **Le premier ministre aurait démissionné ce matin à la suite d'un scandale financier.**  
-    /lə pʁə.mje mi.nistʁ o.ʁɛ de.mi.sjɔ.ne sə ma.tɛ̃ a la sɥit d‿œ̃ skɑ̃.dal fi.nɑ̃.sje/  
+    /lə pʁə.mje mi.nistʁ o.ʁɛ de.mi.sjɔ.ne sə ma.tɛ̃ a la sɥit d‿œ̃ skɑ̃.dal fi.nɑ̃.sje/ (*luh pruh-MYAY mee-NEEST-ruh oh-REH day-mee-syoh-NAY suh mah-TEHN ah lah SWEET duhn skahn-DAHL fee-nahn-SYAY*)  
     *The prime minister has reportedly resigned this morning following a financial scandal.*
 
 #### Key Journalistic Patterns
 * **Le groupe ferroviaire envisagerait la fermeture de trois ateliers régionaux.**  
-  /lə gʁup fɛ.ʁɔ.vjɛʁ ɑ̃.vi.za.ʒə.ʁɛ la fɛʁ.mə.tyʁ də tʁwa.z‿a.tə.lje ʁe.ʒjɔ.no/  
+  /lə gʁup fɛ.ʁɔ.vjɛʁ ɑ̃.vi.za.ʒə.ʁɛ la fɛʁ.mə.tyʁ də tʁwa.z‿a.tə.lje ʁe.ʒjɔ.no/ (*luh GROOP feh-roh-VYEHR ahn-vee-zah-zhuh-REH lah fehr-muh-TEWR duh trwah-zah-tuh-LYAY ray-zhyoh-NOH*)  
   *The railway group is reportedly considering the closure of three regional workshops.*
 * **Selon des sources syndicales, une entente de principe serait intervenue tard hier soir.**  
-  /sə.lɔ̃ de suʁs sɛ̃.dzi.kal, yn ɑ̃.tɑ̃t də pʁɛ̃.sip sə.ʁɛ t‿ɛ̃.tɛʁ.və.ny taʁ jɛʁ swaʁ/  
+  /sə.lɔ̃ de suʁs sɛ̃.dzi.kal, yn ɑ̃.tɑ̃t də pʁɛ̃.sip sə.ʁɛ t‿ɛ̃.tɛʁ.və.ny taʁ jɛʁ swaʁ/ (*suh-LOHN day SOORS sehn-dee-KAHL, ewn ahn-TAHNT duh prehnb-SEEP suh-reh tehn-tehr-vuh-NEW TAHR YEHR SWAHR*)  
   *According to union sources, an agreement in principle has reportedly been reached late yesterday evening.*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
@@ -83,20 +83,20 @@ When **devoir** is followed by an infinitive, it frequently indicates a deduced 
 * Obligation: *Vous devez signer ce contrat.* (*You must sign this contract.*)
 * Epistemic deduction:  
   **Le dossier doit comporter des erreurs matérielles, car les chiffres ne concordent pas.**  
-  /lə dɔ.sje dwa kɔ̃.pɔʁ.te de.z‿e.ʁœʁ ma.te.ʁjɛl, kaʁ le ʃifʁ nə kɔ̃.kɔʁd pa/  
+  /lə dɔ.sje dwa kɔ̃.pɔʁ.te de.z‿e.ʁœʁ ma.te.ʁjɛl, kaʁ le ʃifʁ nə kɔ̃.kɔʁd pa/ (*luh doh-SYAY dwah kohn-por-TAY day-zay-RUHR mah-tay-RYEHL, kar lay SHEE-fruh nuh kohn-KORD PAH*)  
   *The file must contain clerical errors, because the figures do not match.*
 
 #### 2. Pouvoir and Se pouvoir: Capacity vs Plausibility
 * **pouvoir + infinitif**: Expresses potentiality (*Il peut pleuvoir*).
 * **Il se peut que (+ Subjonctif)**: An impersonal locution denoting possibility:  
   * **Il se peut que les négociations aboutissent** (subjonctif) **avant la fin de la semaine.**  
-    /il sə pø kə le ne.gɔ.sja.sjɔ̃ a.bu.tis a.vɑ̃ la fɛ̃ də la s(ə).mɛn/  
+    /il sə pø kə le ne.gɔ.sja.sjɔ̃ a.bu.tis a.vɑ̃ la fɛ̃ də la s(ə).mɛn/ (*eel suh PEUH kuh lay nay-goh-syah-SYOHN ah-boo-TEESS ah-VAHN lah FEHN duh lah SMEHN*)  
     *Negotiations may possibly succeed before the end of the week.*
 
 #### 3. Sembler versus Paraître
 * **Sembler**: Suggests subjective impression. When used impersonally (*il semble que*), it governs the **subjunctive mood**:  
   * **Il semble que le gouvernement hésite** (subjonctif) **à appliquer cette directive.**  
-    /il sɑ̃bl kə lə gu.vɛʁ.nə.mɑ̃ e.zit a a.pli.ke sɛt dzi.ʁɛk.tsiv/  
+    /il sɑ̃bl kə lə gu.vɛʁ.nə.mɑ̃ e.zit a a.pli.ke sɛt dzi.ʁɛk.tsiv/ (*eel SAHM-bluh kuh luh goo-vehr-nuh-MAHN ay-ZEET ah ah-plee-KAY seht dee-rehk-TEEV*)  
     *It seems that the government is hesitating to implement this directive.*
 * **Il me semble que**: When accompanied by an indirect object pronoun (*me, te, nous*), it expresses a personal conviction and governs the **indicative mood**:  
   * **Il me semble que cette solution est** (indicatif) **la plus équitable.**
@@ -107,14 +107,14 @@ When **devoir** is followed by an infinitive, it frequently indicates a deduced 
 
 Adverbs allow you to fine-tune your rhetorical stance with mathematical precision:
 
-| Level of Certainty | Modal Adverb | IPA Transcription | Contextual Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **High Certainty (95–100%)** | **indéniablement** | /ɛ̃.de.nja.blə.mɑ̃/ | undeniably / unquestionably | *Cette mesure améliorera indéniablement la sécurité routière.* |
-| **High Certainty (95–100%)** | **manifestement** | /ma.ni.fɛs.tə.mɑ̃/ | obviously / plainly | *Les ressources actuelles sont manifestement insuffisantes.* |
-| **High Probability (70–90%)** | **vraisemblablement** | /vʁɛ.sɑ̃.bla.blə.mɑ̃/ | most likely / in all probability | *Le conseil municipal adoptera vraisemblablement cette résolution.* |
-| **High Probability (70–90%)** | **selon toute vraisemblance** | /sə.lɔ̃ tut vʁɛ.sɑ̃.blɑ̃s/ | in all likelihood | *Selon toute vraisemblance, les tarifs augmenteront l'an prochain.* |
-| **Tentative / Hesitant (40–60%)** | **potentiellement** | /pɔ.tɑ̃.sjɛl.mɑ̃/ | potentially | *Cette technologie est potentiellement révolutionnaire.* |
-| **Doubt / Questioning (<40%)** | **difficilement** | /di.fi.sil.mɑ̃/ | hardly / scarcely | *Ce modèle économique peut difficilement être soutenu à long terme.* |
+| Level of Certainty | Modal Adverb | IPA Transcription | Phonetic Respelling | Contextual Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **High Certainty (95–100%)** | **indéniablement** | /ɛ̃.de.nja.blə.mɑ̃/ | (ehn-day-nyah-bluh-MAHN) | undeniably / unquestionably | *Cette mesure améliorera indéniablement la sécurité routière.* |
+| **High Certainty (95–100%)** | **manifestement** | /ma.ni.fɛs.tə.mɑ̃/ | (mah-nee-fehs-tuh-MAHN) | obviously / plainly | *Les ressources actuelles sont manifestement insuffisantes.* |
+| **High Probability (70–90%)** | **vraisemblablement** | /vʁɛ.sɑ̃.bla.blə.mɑ̃/ | (vreh-sahn-blah-bluh-MAHN) | most likely / in all probability | *Le conseil municipal adoptera vraisemblablement cette résolution.* |
+| **High Probability (70–90%)** | **selon toute vraisemblance** | /sə.lɔ̃ tut vʁɛ.sɑ̃.blɑ̃s/ | (suh-LOHN toot vreh-sahn-BLAHNS) | in all likelihood | *Selon toute vraisemblance, les tarifs augmenteront l'an prochain.* |
+| **Tentative / Hesitant (40–60%)** | **potentiellement** | /pɔ.tɑ̃.sjɛl.mɑ̃/ | (poh-tahn-syehl-MAHN) | potentially | *Cette technologie est potentiellement révolutionnaire.* |
+| **Doubt / Questioning (<40%)** | **difficilement** | /di.fi.sil.mɑ̃/ | (dee-fee-seel-MAHN) | hardly / scarcely | *Ce modèle économique peut difficilement être soutenu à long terme.* |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -148,19 +148,19 @@ IMPERSONAL INTRODUCTIONS ───┼─── Legitimizing a Hypothesis: Il est
 #### 1. Force est de constater que (+ Indicatif)
 An authoritative rhetorical formula establishing an undeniable factual observation:
 * **Force est de constater que les disparités régionales persistent malgré les subventions.**  
-  /fɔʁs ɛ də kɔ̃s.ta.te kə le dis.pa.ʁi.te ʁe.ʒjɔ.nal pɛʁ.sist mal.gʁe le syb.vɑ̃.sjɔ̃/  
+  /fɔʁs ɛ də kɔ̃s.ta.te kə le dis.pa.ʁi.te ʁe.ʒjɔ.nal pɛʁ.sist mal.gʁe le syb.vɑ̃.sjɔ̃/ (*FORSS eh duh kohn-stah-TAY kuh lay dees-pah-ree-TAY ray-zhyoh-NAHL pehr-SEEST mahl-GRAY lay sewb-vahn-SYOHN*)  
   *One is forced to recognize that regional disparities persist despite subsidies.*
 
 #### 2. Il est permis de penser que
 Softens an ambitious claim, presenting it as a legitimate and defensible intellectual perspective:
 * **Il est permis de penser qu'une approche plus inclusive donnerait de meilleurs résultats.**  
-  /il ɛ pɛʁ.mi də pɑ̃.se k‿yn a.pʁɔʃ plys ɛ̃.kly.ziv dɔn.ʁɛ də mɛ.jœʁ ʁe.zyl.ta/  
+  /il ɛ pɛʁ.mi də pɑ̃.se k‿yn a.pʁɔʃ plys ɛ̃.kly.ziv dɔn.ʁɛ də mɛ.jœʁ ʁe.zyl.ta/ (*eel eh pehr-MEE duh pahn-SAY kewn ah-PROHSH plewss ehn-klew-ZEEV dohn-REH duh may-YUHR ray-zewl-TAH*)  
   *It is reasonable to believe that a more inclusive approach would yield better results.*
 
 #### 3. Il convient de relativiser
 Cautions the audience against jumping to hasty or exaggerated conclusions:
 * **S'il y a eu des incidents isolés, il convient de relativiser la portée globale de ces dérapages.**  
-  /s‿il j‿a y de.z‿ɛ̃.si.dɑ̃ i.zɔ.le, il kɔ̃.vjɛ̃ də ʁə.la.tsi.vi.ze la pɔʁ.te glɔ.bal də se de.ʁa.paʒ/  
+  /s‿il j‿a y de.z‿ɛ̃.si.dɑ̃ i.zɔ.le, il kɔ̃.vjɛ̃ də ʁə.la.tsi.vi.ze la pɔʁ.te glɔ.bal də se de.ʁa.paʒ/ (*seel yah EW day-zehn-see-DAHN ee-zoh-LAY, eel kohn-VYEN duh ruh-lah-tee-vee-ZAY lah por-TAY gloh-BAHL duh say day-rah-PAHZH*)  
   *While there were isolated incidents, it is important to put the overall scope of these lapses into perspective.*
 
 ---
