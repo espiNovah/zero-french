@@ -154,13 +154,13 @@ To achieve a solid B2 or C1 rating, your transition between Paragraph 1 and Para
 
 #### The 5 Essential Bridge Articulators
 
-| Bridge Articulator | IPA Transcription | Communicative Function |
-| :--- | :--- | :--- |
-| **Cette expérience m'a fait prendre conscience que...** | /sɛt ɛks.pe.ʁjɑ̃s ma fɛ pʁɑ̃dʁ kɔ̃.sjɑ̃s kə/ | Connects a personal trial to a broader ethical realization |
-| **Fort de ce constat, il apparaît évident que...** | /fɔʁ də sə kɔ̃s.ta i.l‿a.pa.ʁɛ e.vi.dɑ̃ kə/ | Elevates an observation to an incontrovertible societal fact |
-| **Cet épisode illustre parfaitement les limites de...** | /sɛt e.pi.zɔd i.lystʁ paʁ.fɛt.mɑ̃ le li.mit də/ | Uses a narrative anecdote as concrete evidence of systemic failure |
-| **Au-delà de cette péripétie individuelle, force est de constater que...** | /o.də.la də sɛt pe.ʁi.pe.si ɛ̃.di.vi.dɥɛl fɔʁs ɛ də kɔ̃s.ta.te kə/ | High-register transition dismissing trivia in favor of structural causes |
-| **Cette situation pose une interrogation fondamentale sur...** | /sɛt si.tɥa.sjɔ̃ poz yn ɛ̃.tɛ.ʁɔ.ɡa.sjɔ̃ fɔ̃.da.mɑ̃.tal syʁ/ | Frames the issue as an open democratic debate |
+| Bridge Articulator | IPA Transcription | Phonetic Respelling | Communicative Function |
+| :--- | :--- | :--- | :--- |
+| **Cette expérience m'a fait prendre conscience que...** | /sɛt ɛks.pe.ʁjɑ̃s ma fɛ pʁɑ̃dʁ kɔ̃.sjɑ̃s kə/ | (seht ehk-spay-RYAHNS mah feh PRAHN-druh kohn-SYAHNS kuh) | Connects a personal trial to a broader ethical realization |
+| **Fort de ce constat, il apparaît évident que...** | /fɔʁ də sə kɔ̃s.ta i.l‿a.pa.ʁɛ e.vi.dɑ̃ kə/ | (fohr duh suh kohns-TAH, eel ah-pah-REH ay-vee-DAHN kuh) | Elevates an observation to an incontrovertible societal fact |
+| **Cet épisode illustre parfaitement les limites de...** | /sɛt e.pi.zɔd i.lystʁ paʁ.fɛt.mɑ̃ le li.mit də/ | (seh-tay-pee-ZOHD ee-LEWS-truh pahr-feht-MAHN lay lee-MEET duh) | Uses a narrative anecdote as concrete evidence of systemic failure |
+| **Au-delà de cette péripétie individuelle, force est de constater que...** | /o.də.la də sɛt pe.ʁi.pe.si ɛ̃.di.vi.dɥɛl fɔʁs ɛ də kɔ̃s.ta.te kə/ | (oh-duh-LAH duh seht pay-ree-pay-SEE ehn-dee-vee-DWEHL, fohrs eh duh kohns-tah-TAY kuh) | High-register transition dismissing trivia in favor of structural causes |
+| **Cette situation pose une interrogation fondamentale sur...** | /sɛt si.tɥa.sjɔ̃ poz yn ɛ̃.tɛ.ʁɔ.ɡa.sjɔ̃ fɔ̃.da.mɑ̃.tal syʁ/ | (seht see-twah-SYOHN pohz ewn ehn-teh-roh-gah-SYOHN fohn-dah-mahn-TAHL sewr) | Frames the issue as an open democratic debate |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -215,20 +215,20 @@ Open a plain text editor with all spellcheckers disabled. Set a timer for **16 m
 
 Master these 12 high-scoring lexical units, focusing on their register and accurate usage:
 
-| French Expression | IPA Transcription | English Translation | Context of Use |
-| :--- | :--- | :--- | :--- |
-| **Une mésaventure** | /yn me.za.vɑ̃.tyʁ/ | A mishap / bad experience | Opening narrative hook |
-| **Une initiative louable** | /yn i.ni.sja.tiv lwa.bl/ | A commendable initiative | Positive personal experience |
-| **Susciter l'exaspération** | /sy.si.te l‿ɛk.zas.pe.ʁa.sjɔ̃/ | To provoke exasperation | Emotional consequence of an incident |
-| **Enrayer le problème** | /ɑ̃.ʁe.je lə pʁɔ.blɛm/ | To halt / curb the problem | Introducing a policy goal |
-| **Pénaliser le quotidien** | /pe.na.li.ze lə kɔ.ti.djɛ̃/ | To handicap daily life | Explaining civic impact |
-| **S'avérer indispensable** | /s‿a.ve.ʁe ɛ̃.dis.pɑ̃.sabl/ | To prove essential | High-register modal assertion |
-| **Incitations financières** | /ɛ̃.si.ta.sjɔ̃ fi.nɑ̃.sjɛʁ/ | Financial incentives | Concrete public recommendation |
-| **Des mesures dissuasives** | /de mə.zyʁ di.sɥa.ziv/ | Dissuasive / punitive measures | Proposing fines or regulations |
-| **Un cadre de vie agréable** | /œ̃ ka.dʁə də vi a.ɡʁe.abl/ | A pleasant living environment | Civic quality of life argument |
-| **Sensibiliser les esprits** | /sɑ̃.si.bi.li.ze le.z‿ɛs.pʁi/ | To raise public awareness | Educational recommendation |
-| **Restaurer la confiance** | /ʁɛs.to.ʁe la kɔ̃.fjɑ̃s/ | To rebuild trust | Concluding sentence for civic debates |
-| **Force est de reconnaître** | /fɔʁs ɛ də ʁə.kɔ.nɛtʁ/ | It must be acknowledged | Concession / objective bridge |
+| French Expression | IPA Transcription | Phonetic Respelling | English Translation | Context of Use |
+| :--- | :--- | :--- | :--- | :--- |
+| **Une mésaventure** | /yn me.za.vɑ̃.tyʁ/ | (ewn may-zah-vahn-TEWR) | A mishap / bad experience | Opening narrative hook |
+| **Une initiative louable** | /yn i.ni.sja.tiv lwa.bl/ | (ewn ee-nee-syah-TEEV LWAH-bluh) | A commendable initiative | Positive personal experience |
+| **Susciter l'exaspération** | /sy.si.te l‿ɛk.zas.pe.ʁa.sjɔ̃/ | (sew-see-TAY lehk-zahs-pay-rah-SYOHN) | To provoke exasperation | Emotional consequence of an incident |
+| **Enrayer le problème** | /ɑ̃.ʁe.je lə pʁɔ.blɛm/ | (ahn-reh-YAY luh proh-BLEHM) | To halt / curb the problem | Introducing a policy goal |
+| **Pénaliser le quotidien** | /pe.na.li.ze lə kɔ.ti.djɛ̃/ | (pay-nah-lee-ZAY luh koh-tee-DYEHN) | To handicap daily life | Explaining civic impact |
+| **S'avérer indispensable** | /s‿a.ve.ʁe ɛ̃.dis.pɑ̃.sabl/ | (sah-vay-RAY ehn-dees-pahn-SAH-bluh) | To prove essential | High-register modal assertion |
+| **Incitations financières** | /ɛ̃.si.ta.sjɔ̃ fi.nɑ̃.sjɛʁ/ | (ehn-see-tah-SYOHN fee-nahn-SYEHR) | Financial incentives | Concrete public recommendation |
+| **Des mesures dissuasives** | /de mə.zyʁ di.sɥa.ziv/ | (day muh-ZEWR dee-swah-ZEEV) | Dissuasive / punitive measures | Proposing fines or regulations |
+| **Un cadre de vie agréable** | /œ̃ ka.dʁə də vi a.ɡʁe.abl/ | (uhn KAH-druh duh vee ah-gray-AH-bluh) | A pleasant living environment | Civic quality of life argument |
+| **Sensibiliser les esprits** | /sɑ̃.si.bi.li.ze le.z‿ɛs.pʁi/ | (sahn-see-bee-lee-ZAY lay-zehs-PREE) | To raise public awareness | Educational recommendation |
+| **Restaurer la confiance** | /ʁɛs.to.ʁe la kɔ̃.fjɑ̃s/ | (rehs-toh-RAY lah kohn-FYAHNS) | To rebuild trust | Concluding sentence for civic debates |
+| **Force est de reconnaître** | /fɔʁs ɛ də ʁə.kɔ.nɛtʁ/ | (fohrs eh duh ruh-koh-NEH-truh) | It must be acknowledged | Concession / objective bridge |
 
 ---
 
