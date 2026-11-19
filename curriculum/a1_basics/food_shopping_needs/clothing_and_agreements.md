@@ -21,40 +21,40 @@ This section contains a general overview of topics that you will learn in this l
 
 ### Essential wardrobe and seasonal clothing vocabulary
 
-To shop for clothes or describe what someone is wearing, you need the verb **porter** (/pɔʁ.te/, to wear / to carry), which is a regular *-er* verb conjugated just like *parler*:
-- *Je porte un pantalon noir.* (/ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ nwaʁ/ — *I am wearing black pants.*)
-- *Elle porte une robe rouge.* (/ɛl pɔʁt yn ʁɔb ʁuʒ/ — *She is wearing a red dress.*)
+To shop for clothes or describe what someone is wearing, you need the verb **porter** (/pɔʁ.te/ — (por-TAY), to wear / to carry), which is a regular *-er* verb conjugated just like *parler*:
+- *Je porte un pantalon noir.* (/ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ nwaʁ/ (zhuh port uhn pahn-tah-LOHN NWAHR) — *I am wearing black pants.*)
+- *Elle porte une robe rouge.* (/ɛl pɔʁt yn ʁɔb ʁuʒ/ (el port ewn rob ROOZH) — *She is wearing a red dress.*)
 
 Here are the most high-frequency clothing items categorized by garment type:
 
 #### 1. Les vêtements du quotidien (Everyday Clothing)
 
-| French Noun | IPA Pronunciation | English Meaning | Grammatical Gender |
-| :--- | :--- | :--- | :--- |
-| **un pantalon** | /œ̃ pɑ̃.ta.lɔ̃/ | pair of pants / trousers | Masculine Singular (always singular in French!) |
-| **un jean** | /œ̃ dʒin/ | pair of jeans | Masculine Singular (*un jean bleu*) |
-| **une chemise** | /yn ʃə.miz/ | button-down dress shirt | Feminine Singular |
-| **un chemisier** | /œ̃ ʃə.mi.zje/ | woman's blouse | Masculine Singular |
-| **un t-shirt** | /œ̃ ti.ʃœʁt/ | t-shirt | Masculine Singular |
-| **un pull** (or *pull-over*) | /œ̃ pyl/ | sweater / pullover | Masculine Singular (*un chandail* in Canada) |
-| **une veste** | /yn vɛst/ | jacket / blazer | Feminine Singular |
-| **un costume** | /œ̃ kɔs.tym/ | man's business suit | Masculine Singular |
-| **une robe** | /yn ʁɔb/ | dress | Feminine Singular |
-| **une jupe** | /yn ʒyp/ | skirt | Feminine Singular |
-| **un short** | /œ̃ ʃɔʁt/ | pair of shorts | Masculine Singular (treated as singular: *un short*) |
+| French Noun | IPA Pronunciation | Respelling | English Meaning | Grammatical Gender |
+| :--- | :--- | :--- | :--- | :--- |
+| **un pantalon** | /œ̃ pɑ̃.ta.lɔ̃/ | (uhn pahn-tah-LOHN) | pair of pants / trousers | Masculine Singular (always singular in French!) |
+| **un jean** | /œ̃ dʒin/ | (uhn JEEN) | pair of jeans | Masculine Singular (*un jean bleu*) |
+| **une chemise** | /yn ʃə.miz/ | (ewn shuh-MEEZ) | button-down dress shirt | Feminine Singular |
+| **un chemisier** | /œ̃ ʃə.mi.zje/ | (uhn shuh-mee-ZYAY) | woman's blouse | Masculine Singular |
+| **un t-shirt** | /œ̃ ti.ʃœʁt/ | (uhn tee-SHEURT) | t-shirt | Masculine Singular |
+| **un pull** (or *pull-over*) | /œ̃ pyl/ | (uhn PEWL) | sweater / pullover | Masculine Singular (*un chandail* in Canada) |
+| **une veste** | /yn vɛst/ | (ewn VEST) | jacket / blazer | Feminine Singular |
+| **un costume** | /œ̃ kɔs.tym/ | (uhn koss-TEWM) | man's business suit | Masculine Singular |
+| **une robe** | /yn ʁɔb/ | (ewn ROB) | dress | Feminine Singular |
+| **une jupe** | /yn ʒyp/ | (ewn ZHEWP) | skirt | Feminine Singular |
+| **un short** | /œ̃ ʃɔʁt/ | (uhn SHORT) | pair of shorts | Masculine Singular (treated as singular: *un short*) |
 
 #### 2. Les chaussures et accessoires (Footwear & Accessories)
 
-| French Noun | IPA Pronunciation | English Meaning | Grammatical Gender |
-| :--- | :--- | :--- | :--- |
-| **les chaussures** | /le ʃo.syʁ/ | shoes | Feminine Plural (*une chaussure*) |
-| **les bottes** | /le bɔt/ | boots | Feminine Plural (*une botte*) |
-| **les baskets** | /le bas.kɛt/ | sneakers / running shoes | Feminine Plural (*des espadrilles* in Canada) |
-| **les chaussettes** | /le ʃo.sɛt/ | socks | Feminine Plural (*une chaussette*) |
-| **une ceinture** | /yn sɛ̃.tyʁ/ | belt | Feminine Singular |
-| **un chapeau** | /œ̃ ʃa.po/ | hat | Masculine Singular |
-| **une casquette** | /yn kas.kɛt/ | baseball cap | Feminine Singular |
-| **des lunettes de soleil** | /de ly.nɛt də sɔ.lɛj/ | sunglasses | Feminine Plural |
+| French Noun | IPA Pronunciation | Respelling | English Meaning | Grammatical Gender |
+| :--- | :--- | :--- | :--- | :--- |
+| **les chaussures** | /le ʃo.syʁ/ | (lay shoh-SEWR) | shoes | Feminine Plural (*une chaussure*) |
+| **les bottes** | /le bɔt/ | (lay BOT) | boots | Feminine Plural (*une botte*) |
+| **les baskets** | /le bas.kɛt/ | (lay bass-KET) | sneakers / running shoes | Feminine Plural (*des espadrilles* in Canada) |
+| **les chaussettes** | /le ʃo.sɛt/ | (lay shoh-SET) | socks | Feminine Plural (*une chaussette*) |
+| **une ceinture** | /yn sɛ̃.tyʁ/ | (ewn sehn-TEWR) | belt | Feminine Singular |
+| **un chapeau** | /œ̃ ʃa.po/ | (uhn shah-POH) | hat | Masculine Singular |
+| **une casquette** | /yn kas.kɛt/ | (ewn kass-KET) | baseball cap | Feminine Singular |
+| **des lunettes de soleil** | /de ly.nɛt də sɔ.lɛj/ | (day lew-net duh soh-LEY) | sunglasses | Feminine Plural |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -62,11 +62,11 @@ Here are the most high-frequency clothing items categorized by garment type:
 
 If you are preparing to live in Canada, standard European French winter terms will be replaced by specific Québec French lexical items:
 
-- **Une tuque** **(QC)** vs **Un bonnet** (France): In France, a knitted winter beanie is *un bonnet*. In Canada, it is universally called *une tuque* **(QC)**. Surviving the winter without a warm tuque is impossible!
-- **Des mitaines** **(QC)** vs **Des moufles** (France): In Québec, mittens (gloves without individual fingers) are called *des mitaines* **(QC)**. Note: in France, *une mitaine* refers to fingerless gloves, whereas in Canada *des mitaines* are thick, warm winter mittens. Regular five-finger gloves are *des gants* (/de ɡɑ̃/) in both countries.
-- **Un chandail** **(QC)** vs **Un pull** (France): While Europeans say *un pull*, Canadians typically say *un chandail* **(QC)** for any knit sweater, jersey, or sweatshirt.
-- **Des espadrilles** **(QC)** vs **Des baskets** (France): In France, sneakers or athletic trainers are *des baskets*. In Québec, athletic sneakers are called *des espadrilles* **(QC)** (or familiarly, *des souliers de course*).
-- **Un manteau d'hiver** and **un habit de neige** **(QC)**: A heavy-duty down winter parka is commonly called *un manteau d'hiver* (used in France too); a children's snowsuit is *un habit de neige* **(QC)**.
+- **Une tuque** **(QC)** (/yn tyk/ — (ewn TEWK)) vs **Un bonnet** (France) (/œ̃ bɔ.nɛ/ — (uhn boh-NEH)): In France, a knitted winter beanie is *un bonnet*. In Canada, it is universally called *une tuque* **(QC)**. Surviving the winter without a warm tuque is impossible!
+- **Des mitaines** **(QC)** (/de mi.tɛn/ — (day mee-TEN)) vs **Des moufles** (France) (/de mufl/ — (day MOO-fluh)): In Québec, mittens (gloves without individual fingers) are called *des mitaines* **(QC)**. Note: in France, *une mitaine* refers to fingerless gloves, whereas in Canada *des mitaines* are thick, warm winter mittens. Regular five-finger gloves are *des gants* (/de ɡɑ̃/ — (day GAHN)) in both countries.
+- **Un chandail** **(QC)** (/œ̃ ʃɑ̃.daj/ — (uhn shahn-DEY)) vs **Un pull** (France): While Europeans say *un pull*, Canadians typically say *un chandail* **(QC)** for any knit sweater, jersey, or sweatshirt.
+- **Des espadrilles** **(QC)** (/de.z‿ɛs.pa.dʁij/ — (day-zes-pah-DREE)) vs **Des baskets** (France): In France, sneakers or athletic trainers are *des baskets*. In Québec, athletic sneakers are called *des espadrilles* **(QC)** (or familiarly, *des souliers de course*).
+- **Un manteau d'hiver** (/œ̃ mɑ̃.to d‿i.vɛʁ/ — (uhn mahn-toh dee-VEHR)) and **un habit de neige** **(QC)** (/œ̃.n‿a.bi də nɛʒ/ — (uhn-nah-bee duh NEZH)): A heavy-duty down winter parka is commonly called *un manteau d'hiver* (used in France too); a children's snowsuit is *un habit de neige* **(QC)**.
 
 </div>
 
@@ -97,39 +97,39 @@ In Section 1, you learned that French final consonants are generally silent unle
 
 Observe how the pronunciation transforms when switching from masculine to feminine:
 
-| Adjective | Masculine Form & IPA | Feminine Form & IPA | English Meaning | Phonetic Shift |
-| :--- | :--- | :--- | :--- | :--- |
-| **vert** | **vert** (/vɛʁ/) | **verte** (/vɛʁt/) | green | Final /t/ wakes up! |
-| **gris** | **gris** (/ɡʁi/) | **grise** (/ɡʁiz/) | grey | Final *s* becomes /z/ sound! |
-| **blanc** | **blanc** (/blɑ̃/) | **blanche** (/blɑ̃ʃ/) | white | Nasal becomes /ɑ̃/ + /ʃ/! |
-| **chaud** | **chaud** (/ʃo/) | **chaude** (/ʃod/) | warm / hot | Final /d/ wakes up! |
-| **froid** | **froid** (/fʁwa/) | **froide** (/fʁwad/) | cold | Final /d/ wakes up! |
-| **grand** | **grand** (/ɡʁɑ̃/) | **grande** (/ɡʁɑ̃d/) | tall / large | Final /d/ wakes up! |
-| **petit** | **petit** (/pə.ti/) | **petite** (/pə.tit/) | small / short | Final /t/ wakes up! |
-| **court** | **court** (/kuʁ/) | **courte** (/kuʁt/) | short (length) | Final /t/ wakes up! |
+| Adjective | Masculine Form & IPA | Respelling (Masc.) | Feminine Form & IPA | Respelling (Fem.) | English Meaning | Phonetic Shift |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **vert** | **vert** (/vɛʁ/) | (VEHR) | **verte** (/vɛʁt/) | (VEHRT) | green | Final /t/ wakes up! |
+| **gris** | **gris** (/ɡʁi/) | (GREE) | **grise** (/ɡʁiz/) | (GREEZ) | grey | Final *s* becomes /z/ sound! |
+| **blanc** | **blanc** (/blɑ̃/) | (BLAHN) | **blanche** (/blɑ̃ʃ/) | (BLAHN-sh) | white | Nasal becomes /ɑ̃/ + /ʃ/! |
+| **chaud** | **chaud** (/ʃo/) | (SHOH) | **chaude** (/ʃod/) | (SHOHD) | warm / hot | Final /d/ wakes up! |
+| **froid** | **froid** (/fʁwa/) | (FRWAH) | **froide** (/fʁwad/) | (FRWAHD) | cold | Final /d/ wakes up! |
+| **grand** | **grand** (/ɡʁɑ̃/) | (GRAHN) | **grande** (/ɡʁɑ̃d/) | (GRAHND) | tall / large | Final /d/ wakes up! |
+| **petit** | **petit** (/pə.ti/) | (puh-TEE) | **petite** (/pə.tit/) | (puh-TEET) | small / short | Final /t/ wakes up! |
+| **court** | **court** (/kuʁ/) | (KOOR) | **courte** (/kuʁt/) | (KOORT) | short (length) | Final /t/ wakes up! |
 
-> **Un manteau vert** (/œ̃ mɑ̃.to vɛʁ/) — Final *t* is completely silent.  
-> **Une écharpe verte** (/yn e.ʃaʁp vɛʁt/) — Final *t* is crisply pronounced!
+> **Un manteau vert** (/œ̃ mɑ̃.to vɛʁ/ — (uhn mahn-toh VEHR)) — Final *t* is completely silent.  
+> **Une écharpe verte** (/yn e.ʃaʁp vɛʁt/ — (ewn ay-sharp VEHRT)) — Final *t* is crisply pronounced!
 
-> **Un pantalon gris** (/œ̃ pɑ̃.ta.lɔ̃ ɡʁi/) — Final *s* is completely silent.  
-> **Une veste grise** (/yn vɛst ɡʁiz/) — Final *s* is pronounced as a voiced /z/!
+> **Un pantalon gris** (/œ̃ pɑ̃.ta.lɔ̃ ɡʁi/ — (uhn pahn-tah-lohn GREE)) — Final *s* is completely silent.  
+> **Une veste grise** (/yn vɛst ɡʁiz/ — (ewn vest GREEZ)) — Final *s* is pronounced as a voiced /z/!
 
 #### 3. The Plural Agreement (Adding -s)
 
 To make an adjective plural, the general rule is to **add an -s** to the singular form:
-- Masculine plural: add **-s** to masculine singular (*vert* $\rightarrow$ **verts** /vɛʁ/)
-- Feminine plural: add **-s** to feminine singular (*verte* $\rightarrow$ **vertes** /vɛʁt/)
+- Masculine plural: add **-s** to masculine singular (*vert* $\rightarrow$ **verts** /vɛʁ/ — (VEHR))
+- Feminine plural: add **-s** to feminine singular (*verte* $\rightarrow$ **vertes** /vɛʁt/ — (VEHRT))
 
 Just like nouns, the plural **-s** on an adjective is **completely silent** in pronunciation:
-- *Il porte des pantalons verts.* (/il pɔʁt de pɑ̃.ta.lɔ̃ vɛʁ/) — Sounds identical to singular *vert*!
-- *Elle porte des chaussures vertes.* (/ɛl pɔʁt de ʃo.syʁ vɛʁt/) — Sounds identical to singular *verte*!
+- *Il porte des pantalons verts.* (/il pɔʁt de pɑ̃.ta.lɔ̃ vɛʁ/ — (eel port day pahn-tah-lohn VEHR)) — Sounds identical to singular *vert*!
+- *Elle porte des chaussures vertes.* (/ɛl pɔʁt de ʃo.syʁ vɛʁt/ — (el port day shoh-sewr VEHRT)) — Sounds identical to singular *verte*!
 
 Observe the complete 4-part agreement matrix for the adjective **noir** (black):
 
 | | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural |
 | :--- | :--- | :--- | :--- | :--- |
 | **Spelling** | **noir** | **noire** | **noirs** | **noires** |
-| **Pronunciation** | /nwaʁ/ | /nwaʁ/ | /nwaʁ/ | /nwaʁ/ |
+| **Pronunciation** | /nwaʁ/ (NWAHR) | /nwaʁ/ (NWAHR) | /nwaʁ/ (NWAHR) | /nwaʁ/ (NWAHR) |
 | **Example** | *un manteau noir* | *une veste noire* | *des manteaux noirs* | *des vestes noires* |
 
 ### Colors and invariable exceptions
@@ -138,15 +138,15 @@ Colors are the most common adjectives used in shopping. Most colors follow stand
 
 | Color | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural |
 | :--- | :--- | :--- | :--- | :--- |
-| **blue** | bleu (/blø/) | bleue (/blø/) | bleus (/blø/) | bleues (/blø/) |
-| **black** | noir (/nwaʁ/) | noire (/nwaʁ/) | noirs (/nwaʁ/) | noires (/nwaʁ/) |
-| **green** | vert (/vɛʁ/) | verte (/vɛʁt/) | verts (/vɛʁ/) | vertes (/vɛʁt/) |
-| **white** | blanc (/blɑ̃/) | blanche (/blɑ̃ʃ/) | blancs (/blɑ̃/) | blanches (/blɑ̃ʃ/) |
-| **grey** | gris (/ɡʁi/) | grise (/ɡʁiz/) | gris (/ɡʁi/) | grises (/ɡʁiz/) |
-| **red** | rouge (/ʁuʒ/) | rouge (/ʁuʒ/) | rouges (/ʁuʒ/) | rouges (/ʁuʒ/) |
-| **yellow** | jaune (/ʒon/) | jaune (/ʒon/) | jaunes (/ʒon/) | jaunes (/ʒon/) |
-| **pink** | rose (/ʁoz/) | rose (/ʁoz/) | roses (/ʁoz/) | roses (/ʁoz/) |
-| **purple** | violet (/vjɔ.lɛ/) | violette (/vjɔ.lɛt/) | violets (/vjɔ.lɛ/) | violettes (/vjɔ.lɛt/) |
+| **blue** | bleu (/blø/ — (BLEUH)) | bleue (/blø/ — (BLEUH)) | bleus (/blø/ — (BLEUH)) | bleues (/blø/ — (BLEUH)) |
+| **black** | noir (/nwaʁ/ — (NWAHR)) | noire (/nwaʁ/ — (NWAHR)) | noirs (/nwaʁ/ — (NWAHR)) | noires (/nwaʁ/ — (NWAHR)) |
+| **green** | vert (/vɛʁ/ — (VEHR)) | verte (/vɛʁt/ — (VEHRT)) | verts (/vɛʁ/ — (VEHR)) | vertes (/vɛʁt/ — (VEHRT)) |
+| **white** | blanc (/blɑ̃/ — (BLAHN)) | blanche (/blɑ̃ʃ/ — (BLAHN-sh)) | blancs (/blɑ̃/ — (BLAHN)) | blanches (/blɑ̃ʃ/ — (BLAHN-sh)) |
+| **grey** | gris (/ɡʁi/ — (GREE)) | grise (/ɡʁiz/ — (GREEZ)) | gris (/ɡʁi/ — (GREE)) | grises (/ɡʁiz/ — (GREEZ)) |
+| **red** | rouge (/ʁuʒ/ — (ROOZH)) | rouge (/ʁuʒ/ — (ROOZH)) | rouges (/ʁuʒ/ — (ROOZH)) | rouges (/ʁuʒ/ — (ROOZH)) |
+| **yellow** | jaune (/ʒon/ — (ZHOHN)) | jaune (/ʒon/ — (ZHOHN)) | jaunes (/ʒon/ — (ZHOHN)) | jaunes (/ʒon/ — (ZHOHN)) |
+| **pink** | rose (/ʁoz/ — (ROHZ)) | rose (/ʁoz/ — (ROHZ)) | roses (/ʁoz/ — (ROHZ)) | roses (/ʁoz/ — (ROHZ)) |
+| **purple** | violet (/vjɔ.lɛ/ — (vyoh-LEH)) | violette (/vjɔ.lɛt/ — (vyoh-LET)) | violets (/vjɔ.lɛ/ — (vyoh-LEH)) | violettes (/vjɔ.lɛt/ — (vyoh-LET)) |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -155,11 +155,11 @@ Colors are the most common adjectives used in shopping. Most colors follow stand
 Some colors in French originate from physical objects (fruits, nuts, or stones). When a color word is derived from a noun, it is usually **invariable**: it does not take a feminine *-e* or a plural *-s*! (Exceptions that do agree: *rose, mauve, fauve, écarlate* — *des robes roses*.)
 
 The two most common invariable colors are:
-1. **marron** (/ma.ʁɔ̃/, chestnut / brown):
+1. **marron** (/ma.ʁɔ̃/ — (mah-ROHN), chestnut / brown):
    - *un pantalon marron*
    - *une veste marron* (never *"marrone"*)
    - *des chaussures marron* (never *"marrons"*)
-2. **orange** (/ɔ.ʁɑ̃ʒ/, orange):
+2. **orange** (/ɔ.ʁɑ̃ʒ/ — (oh-RAHNZH), orange):
    - *un chapeau orange*
    - *une tuque orange*
    - *des t-shirts orange* (never *"oranges"*)
@@ -195,23 +195,23 @@ A small group of frequent, short adjectives are placed **before the noun**. You 
 - **G**oodness: **bon / bonne, mauvais / mauvaise** (*un bon manteau*, *une mauvaise idée*)
 - **S**ize: **grand / grande, petit / petite, gros / grosse** (*un grand magasin*, *une petite taille*)
 
-> **Un beau manteau noir** (/œ̃ bo mɑ̃.to nwaʁ/)  
+> **Un beau manteau noir** (/œ̃ bo mɑ̃.to nwaʁ/ — (uhn boh mahn-toh NWAHR))  
 > Notice the placement: *beau* (Beauty) comes **before** the noun, while *noir* (Color) comes **after**!
 
 #### Essential Shopping Phrases in a Clothing Store
 
 When shopping for clothes or taking a TCF speaking test, you will need these practical expressions:
 
-| French Expression | IPA Pronunciation | English Meaning | Usage Note |
-| :--- | :--- | :--- | :--- |
-| **Quelle est votre taille ?** | /kɛ.l‿ɛ vɔtʁ taj/ | What is your (clothing) size? | Asked by the sales clerk for shirts, pants, and dresses. |
-| **Je fais du 38 / du M.** | /ʒə fɛ dy tʁɑ̃t.ɥit/ | I wear size 38 / medium. | Note the formula: *faire du + size*. |
-| **Quelle est votre pointure ?** | /kɛ.l‿ɛ vɔtʁ pwɛ̃.tyʁ/ | What is your shoe size? | *La pointure* is strictly reserved for shoes! |
-| **Je fais du 42.** | /ʒə fɛ dy ka.ʁɑ̃t.dø/ | I wear shoe size 42. | European shoe sizes (42 EU $\approx$ 9 US/Canada). |
-| **Je peux l'essayer ?** | /ʒə pø l‿e.sɛ.je/ | May I try it on? | Used with the verb *essayer* (to try on). |
-| **Où sont les cabines d'essayage ?** | /u sɔ̃ le ka.bin d‿e.sɛ.jaʒ/ | Where are the fitting rooms? | *La cabine d'essayage* = the changing/fitting room. |
-| **C'est trop grand / trop petit.** | /s‿ɛ tʁo ɡʁɑ̃/ / /tʁo pə.ti/ | It's too big / too small. | Expressing sizing feedback. |
-| **Ça vous va très bien !** | /sa vu va tʁɛ bjɛ̃/ | It suits you very well! | The standard compliment from a French clerk. |
+| French Expression | IPA Pronunciation | Respelling | English Meaning | Usage Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **Quelle est votre taille ?** | /kɛ.l‿ɛ vɔtʁ taj/ | (kel-eh voht-ruh TEY) | What is your (clothing) size? | Asked by the sales clerk for shirts, pants, and dresses. |
+| **Je fais du 38 / du M.** | /ʒə fɛ dy tʁɑ̃t.ɥit/ | (zhuh feh dew trahnt-WEET) | I wear size 38 / medium. | Note the formula: *faire du + size*. |
+| **Quelle est votre pointure ?** | /kɛ.l‿ɛ vɔtʁ pwɛ̃.tyʁ/ | (kel-eh voht-ruh pwehn-TEWR) | What is your shoe size? | *La pointure* is strictly reserved for shoes! |
+| **Je fais du 42.** | /ʒə fɛ dy ka.ʁɑ̃t.dø/ | (zhuh feh dew kah-rahnt-DEUH) | I wear shoe size 42. | European shoe sizes (42 EU $\approx$ 9 US/Canada). |
+| **Je peux l'essayer ?** | /ʒə pø l‿e.sɛ.je/ | (zhuh peuh lay-seh-YAY ?) | May I try it on? | Used with the verb *essayer* (to try on). |
+| **Où sont les cabines d'essayage ?** | /u sɔ̃ le ka.bin d‿e.sɛ.jaʒ/ | (oo sohn lay kah-been deh-seh-YAHZH ?) | Where are the fitting rooms? | *La cabine d'essayage* = the changing/fitting room. |
+| **C'est trop grand / trop petit.** | /s‿ɛ tʁo ɡʁɑ̃/ / /tʁo pə.ti/ | (say troh GRAHN / troh puh-TEE) | It's too big / too small. | Expressing sizing feedback. |
+| **Ça vous va très bien !** | /sa vu va tʁɛ bjɛ̃/ | (sah voo vah treh BYEN !) | It suits you very well! | The standard compliment from a French clerk. |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -260,23 +260,23 @@ On the TCF Listening exam, retail dialogues between customers and store associat
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 16 core clothing items, retail expressions, and Canadian winter terms with IPA to your personal Anki flashcard deck:
-   - *un pantalon* (/œ̃ pɑ̃.ta.lɔ̃/) — pair of pants
-   - *une chemise* (/yn ʃə.miz/) — dress shirt
-   - *un pull* (/œ̃ pyl/) — sweater (France)
-   - *un chandail* **(QC)** (/œ̃ ʃɑ̃.daj/) — sweater (Canada)
-   - *une robe* (/yn ʁɔb/) — dress
-   - *les chaussures* (/le ʃo.syʁ/) — shoes
-   - *les bottes* (/le bɔt/) — boots
-   - *une tuque* **(QC)** (/yn tyk/) — winter beanie (Canada)
-   - *des mitaines* **(QC)** (/de mi.tɛn/) — mittens (Canada)
-   - *vert / verte* (/vɛʁ/ / /vɛʁt/) — green
-   - *blanc / blanche* (/blɑ̃/ / /blɑ̃ʃ/) — white
-   - *marron* (/ma.ʁɔ̃/) — brown (invariable)
-   - *la taille* (/la taj/) — clothing size
-   - *la pointure* (/la pwɛ̃.tyʁ/) — shoe size
-   - *essayer* (/e.sɛ.je/) — to try on
-   - *la cabine d'essayage* (/la ka.bin d‿e.sɛ.jaʒ/) — fitting room
+   Add these 16 core clothing items, retail expressions, and Canadian winter terms with IPA and phonetic respelling to your personal Anki flashcard deck:
+   - *un pantalon* — /œ̃ pɑ̃.ta.lɔ̃/ (uhn pahn-tah-LOHN) — pair of pants
+   - *une chemise* — /yn ʃə.miz/ (ewn shuh-MEEZ) — dress shirt
+   - *un pull* — /œ̃ pyl/ (uhn PEWL) — sweater (France)
+   - *un chandail* **(QC)** — /œ̃ ʃɑ̃.daj/ (uhn shahn-DEY) — sweater (Canada)
+   - *une robe* — /yn ʁɔb/ (ewn ROB) — dress
+   - *les chaussures* — /le ʃo.syʁ/ (lay shoh-SEWR) — shoes
+   - *les bottes* — /le bɔt/ (lay BOT) — boots
+   - *une tuque* **(QC)** — /yn tyk/ (ewn TEWK) — winter beanie (Canada)
+   - *des mitaines* **(QC)** — /de mi.tɛn/ (day mee-TEN) — mittens (Canada)
+   - *vert / verte* — /vɛʁ/ / /vɛʁt/ (VEHR / VEHRT) — green
+   - *blanc / blanche* — /blɑ̃/ / /blɑ̃ʃ/ (BLAHN / BLAHN-sh) — white
+   - *marron* — /ma.ʁɔ̃/ (mah-ROHN) — brown (invariable)
+   - *la taille* — /la taj/ (lah TEY) — clothing size
+   - *la pointure* — /la pwɛ̃.tyʁ/ (lah pwehn-TEWR) — shoe size
+   - *essayer* — /e.sɛ.je/ (ay-seh-YAY) — to try on
+   - *la cabine d'essayage* — /la ka.bin d‿e.sɛ.jaʒ/ (lah kah-been deh-seh-YAHZH) — fitting room
 
 3. **Step 3: Receptive Listening Task**  
    Listen to the clothing retail dialogue on [TV5Monde — Acheter des vêtements](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
