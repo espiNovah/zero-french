@@ -7,7 +7,7 @@ Nominalization is the grammatical process of transforming verbs, adjectives, or 
   * *Comme le coût des logements augmente rapidement, les jeunes ont de la difficulté à s'installer.*
 * Elevated nominal style:  
   * **La hausse rapide du coût des logements entrave l'installation des jeunes ménages.**  
-    /la oz ʁa.pid dy ku de lɔʒ.mɑ̃ ɑ̃.tʁav l‿ɛ̃s.ta.la.sjɔ̃ de ʒœn me.naʒ/
+    /la oz ʁa.pid dy ku de lɔʒ.mɑ̃ ɑ̃.tʁav l‿ɛ̃s.ta.la.sjɔ̃ de ʒœn me.naʒ/ (*lah OHZ rah-PEED dew KOO day lohzh-MAHN ahn-TRAHV lehn-stah-lah-SYOHN day zheuhn may-NAHZH*)
 
 On the **TCF Canada** and **TEF Canada** examinations, nominalization is a mandatory skill for reaching **CEFR Level B2 (NCLC 7+)**:
 1. In **Writing Task 3 (*Expression écrite — Tâche 3*)**, the strict word limit (120 to 180 words) forbids sprawling, repetitive sentences. Nominalization allows you to condense complex arguments into information-dense, elegant summaries.
@@ -37,50 +37,50 @@ PATTERNS OF NOMINAL DERIVATION ─┼─── Suffix -age / -ure : bloquer -> l
 #### 1. Suffixes -ation, -ition, and -tion (Feminine Nouns)
 This is the most common and productive category for regular and irregular verbs:
 
-| Verb | Action Noun | IPA Transcription | Meaning |
-| :--- | :--- | :--- | :--- |
-| **créer** | **la création** | /la kʁe.a.sjɔ̃/ | creation / establishment |
-| **adopter** | **l'adoption** | /l‿a.dɔp.sjɔ̃/ | adoption / passing of a law |
-| **déclarer** | **la déclaration** | /la de.kla.ʁa.sjɔ̃/ | declaration / statement |
-| **diminuer** | **la diminution** | /la di.mi.ny.sjɔ̃/ | decrease / reduction |
-| **disparaître** | **la disparition** | /la dis.pa.ʁi.sjɔ̃/ | disappearance |
-| **interdire** | **l'interdiction** | /l‿ɛ̃.tɛʁ.dik.sjɔ̃/ | prohibition / ban |
-| **dénoncer** | **la dénonciation** | /la de.nɔ̃.sja.sjɔ̃/ | denunciation / reporting |
+| Verb | Action Noun | IPA Transcription | Phonetic Respelling | Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **créer** | **la création** | /la kʁe.a.sjɔ̃/ | (lah kray-ah-SYOHN) | creation / establishment |
+| **adopter** | **l'adoption** | /l‿a.dɔp.sjɔ̃/ | (lah-dohp-SYOHN) | adoption / passing of a law |
+| **déclarer** | **la déclaration** | /la de.kla.ʁa.sjɔ̃/ | (lah day-klah-rah-SYOHN) | declaration / statement |
+| **diminuer** | **la diminution** | /la di.mi.ny.sjɔ̃/ | (lah dee-mee-new-SYOHN) | decrease / reduction |
+| **disparaître** | **la disparition** | /la dis.pa.ʁi.sjɔ̃/ | (lah dees-pah-ree-SYOHN) | disappearance |
+| **interdire** | **l'interdiction** | /l‿ɛ̃.tɛʁ.dik.sjɔ̃/ | (lehn-tehr-deek-SYOHN) | prohibition / ban |
+| **dénoncer** | **la dénonciation** | /la de.nɔ̃.sja.sjɔ̃/ | (lah day-nohn-syah-SYOHN) | denunciation / reporting |
 
 #### 2. Suffix -ment (Masculine Nouns)
 Typically applied to *-er* verbs and verbs denoting psychological or physical change:
 
-| Verb | Action Noun | IPA Transcription | Meaning |
-| :--- | :--- | :--- | :--- |
-| **aménager** | **l'aménagement** | /l‿a.me.naʒ.mɑ̃/ | planning / development |
-| **développer** | **le développement** | /lə de.vlɔp.mɑ̃/ | development / growth |
-| **ralentir** | **le ralentissement** | /lə ʁa.lɑ̃.tis.mɑ̃/ | slowdown |
-| **licencier** | **le licenciement** | /lə li.sɑ̃.si.mɑ̃/ | layoff / termination |
-| **renforcer** | **le renforcement** | /lə ʁɑ̃.fɔʁs.mɑ̃/ | strengthening / reinforcement |
-| **soulager** | **le soulagement** | /lə su.laʒ.mɑ̃/ | relief |
+| Verb | Action Noun | IPA Transcription | Phonetic Respelling | Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **aménager** | **l'aménagement** | /l‿a.me.naʒ.mɑ̃/ | (lah-may-nahzh-MAHN) | planning / development |
+| **développer** | **le développement** | /lə de.vlɔp.mɑ̃/ | (luh day-vlohp-MAHN) | development / growth |
+| **ralentir** | **le ralentissement** | /lə ʁa.lɑ̃.tis.mɑ̃/ | (luh rah-lahn-tees-MAHN) | slowdown |
+| **licencier** | **le licenciement** | /lə li.sɑ̃.si.mɑ̃/ | (luh lee-sahn-see-MAHN) | layoff / termination |
+| **renforcer** | **le renforcement** | /lə ʁɑ̃.fɔʁs.mɑ̃/ | (luh rahn-fors-MAHN) | strengthening / reinforcement |
+| **soulager** | **le soulagement** | /lə su.laʒ.mɑ̃/ | (luh soo-lahzh-MAHN) | relief |
 
 #### 3. Suffixes -age, -ure, and -ance/-ence
 * **-age** (Masculine, often technical or mechanical processes):  
-  * *bloquer* → **le blocage** (/lə blɔ.kaʒ/, *gridlock / blockage*)  
-  * *recycler* → **le recyclage** (/lə ʁe.si.klaʒ/, *recycling*)  
-  * *déménager* → **le déménagement** (/lə de.me.naʒ.mɑ̃/)
+  * *bloquer* → **le blocage** (/lə blɔ.kaʒ/ — (luh bloh-KAHZH), *gridlock / blockage*)  
+  * *recycler* → **le recyclage** (/lə ʁe.si.klaʒ/ — (luh ruh-see-KLAHZH), *recycling*)  
+  * *déménager* → **le déménagement** (/lə de.me.naʒ.mɑ̃/ — (luh day-may-nahzh-MAHN))
 * **-ure** (Feminine):  
-  * *fermer* → **la fermeture** (/la fɛʁ.mə.tyʁ/, *closure*)  
-  * *rompre* → **la rupture** (/la ʁyp.tyʁ/, *rupture / breakdown*)
+  * *fermer* → **la fermeture** (/la fɛʁ.mə.tyʁ/ — (lah fehr-muh-TEWR), *closure*)  
+  * *rompre* → **la rupture** (/la ʁyp.tyʁ/ — (lah rewk-TEWR), *rupture / breakdown*)
 * **-ance / -ence** (Feminine):  
-  * *tolérer* → **la tolérance** (/la tɔ.le.ʁɑ̃s/, *tolerance*)  
-  * *exiger* → **l'exigence** (/l‿ɛg.zi.ʒɑ̃s/, *requirement / demand*)  
-  * *résister* → **la résistance** (/la ʁe.zis.tɑ̃s/, *resistance*)
+  * *tolérer* → **la tolérance** (/la tɔ.le.ʁɑ̃s/ — (lah toh-lay-RAHNS), *tolerance*)  
+  * *exiger* → **l'exigence** (/l‿ɛg.zi.ʒɑ̃s/ — (lehg-zee-ZHAHNS), *requirement / demand*)  
+  * *résister* → **la résistance** (/la ʁe.zis.tɑ̃s/ — (lah ray-zees-TAHNS), *resistance*)
 
 #### 4. Zero-Derivation: The Verbal Stem as a Noun
 In many high-frequency verbs, the noun is formed simply by extracting the verb root without adding a suffix:
-* *réformer* → **la réforme** (/la ʁe.fɔʁm/, *reform*)
-* *refuser* → **le refus** (/lə ʁə.fy/, *refusal*)
-* *baisser* → **la baisse** (/la bɛs/, *drop / decrease*)
-* *hausser* → **la hausse** (/la oz/, *rise / increase*)
-* *chuter* → **la chute** (/la ʃyt/, *fall / plunge*)
-* *coûter* → **le coût** (/lə ku/, *cost*)
-* *accueillir* → **l'accueil** (/l‿a.kœj/, *welcome / reception*)
+* *réformer* → **la réforme** (/la ʁe.fɔʁm/ — (lah ray-FORM), *reform*)
+* *refuser* → **le refus** (/lə ʁə.fy/ — (luh ruh-FEW), *refusal*)
+* *baisser* → **la baisse** (/la bɛs/ — (lah BESS), *drop / decrease*)
+* *hausser* → **la hausse** (/la oz/ — (lah OHZ), *rise / increase*)
+* *chuter* → **la chute** (/la ʃyt/ — (lah SHEWT), *fall / plunge*)
+* *coûter* → **le coût** (/lə ku/ — (luh KOO), *cost*)
+* *accueillir* → **l'accueil** (/l‿a.kœj/ — (lah-KUHY), *welcome / reception*)
 
 ---
 
@@ -117,7 +117,7 @@ In a verbal clause, the subject performs an action on an object. In a nominal ph
 * *le gouvernement provincial* → **par le gouvernement provincial**
 *Nominal (B2)*:
 * **L'augmentation des taxes scolaires par le gouvernement provincial a suscité de vives critiques.**  
-  /l‿og.mɑ̃.ta.sjɔ̃ de taks skɔ.lɛʁ paʁ lə gu.vɛʁ.nə.mɑ̃ pʁɔ.vɛ̃.sjal a sys.si.te də viv kʁi.tsik/
+  /l‿og.mɑ̃.ta.sjɔ̃ de taks skɔ.lɛʁ paʁ lə gu.vɛʁ.nə.mɑ̃ pʁɔ.vɛ̃.sjal a sys.si.te də viv kʁi.tsik/ (*lohg-mahn-tah-SYOHN day TAHKS skoh-LEHR pahr luh goo-vehr-nuh-MAHN proh-vehn-SYAHL ah sew-see-TAY duh VEEV kree-TEEK*)
 
 #### 2. Transposing Subordinate Causal Clauses
 Conversational French relies on subordinate clauses with *parce que* or *comme*. Formal French compresses them into prepositional nominal phrases:
@@ -126,13 +126,13 @@ Conversational French relies on subordinate clauses with *parce que* or *comme*.
 * *Parce que la population vieillit rapidement, nous devons réformer le système de santé.*
 *Nominal (B2)*:
 * **En raison du vieillissement rapide de la population, une réforme du système de santé s'impose.**  
-  /ɑ̃ ʁɛ.zɔ̃ dy vje.jis.mɑ̃ ʁa.pid də la pɔ.py.la.sjɔ̃, yn ʁe.fɔʁm dy sis.tɛm də sɑ̃.te s‿ɛ̃.poz/
+  /ɑ̃ ʁɛ.zɔ̃ dy vje.jis.mɑ̃ ʁa.pid də la pɔ.py.la.sjɔ̃, yn ʁe.fɔʁm dy sis.tɛm də sɑ̃.te s‿ɛ̃.poz/ (*ahn ray-ZOHN dew vyeh-yees-MAHN rah-PEED duh lah poh-pew-lah-SYOHN, ewn ray-FORM dew sees-TEHM duh sahn-TAY sehn-POHZ*)
 
 *Verbal (B1)*:
 * *Bien que les profits aient chuté au premier trimestre, l'entreprise embauche.*
 *Nominal (B2)*:
 * **Malgré la chute des profits au premier trimestre, l'entreprise poursuit ses embauches.**  
-  /mal.gʁe la ʃyt de pʁɔ.fi o pʁə.mje tʁi.mɛstʁ, l‿ɑ̃.tʁə.pʁiz puʁ.sɥi se.z‿ɑ̃.boʃ/
+  /mal.gʁe la ʃyt de pʁɔ.fi o pʁə.mje tʁi.mɛstʁ, l‿ɑ̃.tʁə.pʁiz puʁ.sɥi se.z‿ɑ̃.boʃ/ (*mahl-GRAY lah SHEWT day proh-FEE oh pruh-MYAY tree-MEHS-truh, lahn-truh-PREEZ poor-SWEE say-zahn-BOHSH*)
 
 ---
 
