@@ -26,52 +26,52 @@ French numbers from 0 to 69 follow logical decimal patterns, but their pronuncia
 
 #### 1. Numbers 0 to 20: The Foundation
 
-| Number | French Word | IPA Pronunciation | Phonetic Notes & Sound Traps |
-| :--- | :--- | :--- | :--- |
-| **0** | **zéro** | /ze.ʁo/ | Clean closed /e/ and /o/ |
-| **1** | **un** | /œ̃/ (or /ɛ̃/) | Nasal vowel; links (liaison /n/) before vowels: *un ami* |
-| **2** | **deux** | /dø/ | Closed /ø/ sound; silent *x* (links as /z/) |
-| **3** | **trois** | /tʁwa/ | Glide /wa/; silent *s* (links as /z/) |
-| **4** | **quatre** | /katʁ/ | Drop final /ʁ/ in fast speech: *quatre personnes* |
-| **5** | **cinq** | /sɛ̃k/ | Audible final /k/ sound |
-| **6** | **six** | /sis/ | Final *x* sounds like **/s/** (silent before consonants: *six livres* /si livʁ/) |
-| **7** | **sept** | /sɛt/ | The letter **p is 100% silent**! Sounds like "set" |
-| **8** | **huit** | /ɥit/ | Initial *h* silent; glide /ɥi/; audible final /t/ |
-| **9** | **neuf** | /nœf/ | Audible /f/ sound (links as /v/ before *heures/ans*) |
-| **10** | **dix** | /dis/ | Final *x* sounds like **/s/** (silent before consonants: *dix jours* /di ʒuʁ/) |
-| **11** | **onze** | /ɔ̃z/ | Nasal /ɔ̃/; no elision before onze: *le onze* |
-| **12** | **douze** | /duz/ | Pure /u/ sound |
-| **13** | **treize** | /tʁɛz/ | Open /ɛ/ sound |
-| **14** | **quatorze** | /ka.tɔʁz/ | Oral open /ɔ/; do not confuse with 40 (*quarante*)! |
-| **15** | **quinze** | /kɛ̃z/ | Nasal /ɛ̃/ sound |
-| **16** | **seize** | /sɛz/ | Open /ɛ/ sound |
-| **17** | **dix-sept** | /dis.sɛt/ | Compound: 10 + 7 (hyphen mandatory) |
-| **18** | **dix-huit** | /di.z‿ɥit/ | Mandatory voiced **/z/** liaison linking dix and huit |
-| **19** | **dix-neuf** | /diz.nœf/ | Voiced **/z/** sound before n |
-| **20** | **vingt** | /vɛ̃/ | Nasal /ɛ̃/; **both g and t are completely silent**! |
+| Number | French Word | IPA Pronunciation | English Respelling | Phonetic Notes & Sound Traps |
+| :--- | :--- | :--- | :--- | :--- |
+| **0** | **zéro** | /ze.ʁo/ | **ZAY-roh** | Clean closed /e/ and /o/ |
+| **1** | **un** | /œ̃/ (or /ɛ̃/) | **UHN** | Nasal vowel; links (liaison /n/) before vowels: *un ami* |
+| **2** | **deux** | /dø/ | **DEUH** | Closed /ø/ sound; silent *x* (links as /z/) |
+| **3** | **trois** | /tʁwa/ | **TRWAH** | Glide /wa/; silent *s* (links as /z/) |
+| **4** | **quatre** | /katʁ/ | **KAH-truh** | Drop final /ʁ/ in fast speech: *quatre personnes* |
+| **5** | **cinq** | /sɛ̃k/ | **SANK** | Audible final /k/ sound |
+| **6** | **six** | /sis/ | **SEESS** | Final *x* sounds like **/s/** (silent before consonants: *six livres* /si livʁ/) |
+| **7** | **sept** | /sɛt/ | **SET** | The letter **p is 100% silent**! Sounds like "set" |
+| **8** | **huit** | /ɥit/ | **WEET** | Initial *h* silent; glide /ɥi/; audible final /t/ |
+| **9** | **neuf** | /nœf/ | **NEUF** | Audible /f/ sound (links as /v/ before *heures/ans*) |
+| **10** | **dix** | /dis/ | **DEESS** | Final *x* sounds like **/s/** (silent before consonants: *dix jours* /di ʒuʁ/) |
+| **11** | **onze** | /ɔ̃z/ | **OHNZ** | Nasal /ɔ̃/; no elision before onze: *le onze* |
+| **12** | **douze** | /duz/ | **DOOZ** | Pure /u/ sound |
+| **13** | **treize** | /tʁɛz/ | **TREHZ** | Open /ɛ/ sound |
+| **14** | **quatorze** | /ka.tɔʁz/ | **kah-TOHRZ** | Oral open /ɔ/; do not confuse with 40 (*quarante*)! |
+| **15** | **quinze** | /kɛ̃z/ | **KANZ** | Nasal /ɛ̃/ sound |
+| **16** | **seize** | /sɛz/ | **SEHZ** | Open /ɛ/ sound |
+| **17** | **dix-sept** | /dis.sɛt/ | **deess-SET** | Compound: 10 + 7 (hyphen mandatory) |
+| **18** | **dix-huit** | /di.z‿ɥit/ | **deez-WEET** | Mandatory voiced **/z/** liaison linking dix and huit |
+| **19** | **dix-neuf** | /diz.nœf/ | **deez-NEUF** | Voiced **/z/** sound before n |
+| **20** | **vingt** | /vɛ̃/ | **VAN** | Nasal /ɛ̃/; **both g and t are completely silent**! |
 
 #### 2. Tens from 20 to 69: The Decimal System
 Between 20 and 69, French operates on a standard base-10 system. When adding the number 1, French connects the words with **et** (*and*), with no hyphen:
-- **21** = **vingt et un** (/vɛ̃.t‿e œ̃/ — notice the /t/ liaison on vingt!)
-- **31** = **trente et un** (/tʁɑ̃.t‿e œ̃/)
-- **41** = **quarante et un** (/ka.ʁɑ̃.t‿e œ̃/)
-- **51** = **cinquante et un** (/sɛ̃.kɑ̃.t‿e œ̃/)
-- **61** = **soixante et un** (/swa.sɑ̃.t‿e œ̃/)
+- **21** = **vingt et un** (/vɛ̃.t‿e œ̃/ — (van-tay-UHN) — notice the /t/ liaison on vingt!)
+- **31** = **trente et un** (/tʁɑ̃.t‿e œ̃/ — (trahn-tay-UHN))
+- **41** = **quarante et un** (/ka.ʁɑ̃.t‿e œ̃/ — (kah-rahn-tay-UHN))
+- **51** = **cinquante et un** (/sɛ̃.kɑ̃.t‿e œ̃/ — (san-kahn-tay-UHN))
+- **61** = **soixante et un** (/swa.sɑ̃.t‿e œ̃/ — (swah-sahn-tay-UHN))
 
 For all other numbers (22–29, 32–39, etc.), words are connected by a **hyphen** without *et*:
-- **22** = **vingt-deux** (/vɛ̃t.dø/ — the *t* becomes audible!)
-- **35** = **trente-cinq** (/tʁɑ̃t.sɛ̃k/)
-- **48** = **quarante-huit** (/ka.ʁɑ̃.t‿ɥit/)
-- **54** = **cinquante-quatre** (/sɛ̃.kɑ̃t.katʁ/)
-- **66** = **soixante-six** (/swa.sɑ̃t.sis/)
+- **22** = **vingt-deux** (/vɛ̃t.dø/ — (vant-DEUH) — the *t* becomes audible!)
+- **35** = **trente-cinq** (/tʁɑ̃t.sɛ̃k/ — (trahnt-SANK))
+- **48** = **quarante-huit** (/ka.ʁɑ̃.t‿ɥit/ — (kah-rahnt-WEET))
+- **54** = **cinquante-quatre** (/sɛ̃.kɑ̃t.katʁ/ — (san-kahnt-KAH-truh))
+- **66** = **soixante-six** (/swa.sɑ̃t.sis/ — (swah-sahnt-SEESS))
 
-| Tens | French Word | IPA Pronunciation | Example Compound Number |
-| :--- | :--- | :--- | :--- |
-| **20** | **vingt** | /vɛ̃/ | **25** = vingt-cinq (/vɛ̃t.sɛ̃k/) |
-| **30** | **trente** | /tʁɑ̃t/ | **32** = trente-deux (/tʁɑ̃t.dø/) |
-| **40** | **quarante** | /ka.ʁɑ̃t/ | **44** = quarante-quatre (/ka.ʁɑ̃t.katʁ/) |
-| **50** | **cinquante** | /sɛ̃.kɑ̃t/ | **57** = cinquante-sept (/sɛ̃.kɑ̃t.sɛt/) |
-| **60** | **soixante** | /swa.sɑ̃t/ | **63** = soixante-trois (/swa.sɑ̃t.tʁwa/) |
+| Tens | French Word | IPA Pronunciation | English Respelling | Example Compound Number |
+| :--- | :--- | :--- | :--- | :--- |
+| **20** | **vingt** | /vɛ̃/ | **VAN** | **25** = vingt-cinq (/vɛ̃t.sɛ̃k/ — (vant-SANK)) |
+| **30** | **trente** | /tʁɑ̃t/ | **TRAHNT** | **32** = trente-deux (/tʁɑ̃t.dø/ — (trahnt-DEUH)) |
+| **40** | **quarante** | /ka.ʁɑ̃t/ | **kah-RAHNT** | **44** = quarante-quatre (/ka.ʁɑ̃t.katʁ/ — (kah-rahnt-KAH-truh)) |
+| **50** | **cinquante** | /sɛ̃.kɑ̃t/ | **san-KAHNT** | **57** = cinquante-sept (/sɛ̃.kɑ̃t.sɛt/ — (san-kahnt-SET)) |
+| **60** | **soixante** | /swa.sɑ̃t/ | **swah-SAHNT** | **63** = soixante-trois (/swa.sɑ̃t.tʁwa/ — (swah-sahnt-TRWAH)) |
 
 ### The vigesimal puzzle: Numbers from 70 to 99 and beyond
 
@@ -87,40 +87,40 @@ Observe how 70, 80, and 90 are constructed:
 
 #### 1. The 70s: Soixante + Teens
 To count from 70 to 79, you take **soixante** (60) and count upward using the numbers 10 through 19:
-- **70** = **soixante-dix** (/swa.sɑ̃t.dis/ — 60 + 10)
-- **71** = **soixante et onze** (/swa.sɑ̃.t‿e ɔ̃z/ — 60 and 11)
-- **72** = **soixante-douze** (/swa.sɑ̃t.duz/ — 60 + 12)
-- **73** = **soixante-treize** (/swa.sɑ̃t.tʁɛz/ — 60 + 13)
-- **74** = **soixante-quatorze** (/swa.sɑ̃t.ka.tɔʁz/ — 60 + 14)
-- **75** = **soixante-quinze** (/swa.sɑ̃t.kɛ̃z/ — 60 + 15)
-- **76** = **soixante-seize** (/swa.sɑ̃t.sɛz/ — 60 + 16)
-- **77** = **soixante-dix-sept** (/swa.sɑ̃t.dis.sɛt/ — 60 + 17)
-- **78** = **soixante-dix-huit** (/swa.sɑ̃t.di.z‿ɥit/ — 60 + 18)
-- **79** = **soixante-dix-neuf** (/swa.sɑ̃t.diz.nœf/ — 60 + 19)
+- **70** = **soixante-dix** (/swa.sɑ̃t.dis/ — (swah-sahnt-DEESS) — 60 + 10)
+- **71** = **soixante et onze** (/swa.sɑ̃.t‿e ɔ̃z/ — (swah-sahn-tay-OHNZ) — 60 and 11)
+- **72** = **soixante-douze** (/swa.sɑ̃t.duz/ — (swah-sahnt-DOOZ) — 60 + 12)
+- **73** = **soixante-treize** (/swa.sɑ̃t.tʁɛz/ — (swah-sahnt-TREHZ) — 60 + 13)
+- **74** = **soixante-quatorze** (/swa.sɑ̃t.ka.tɔʁz/ — (swah-sahnt-kah-TOHRZ) — 60 + 14)
+- **75** = **soixante-quinze** (/swa.sɑ̃t.kɛ̃z/ — (swah-sahnt-KANZ) — 60 + 15)
+- **76** = **soixante-seize** (/swa.sɑ̃t.sɛz/ — (swah-sahnt-SEHZ) — 60 + 16)
+- **77** = **soixante-dix-sept** (/swa.sɑ̃t.dis.sɛt/ — (swah-sahnt-deess-SET) — 60 + 17)
+- **78** = **soixante-dix-huit** (/swa.sɑ̃t.di.z‿ɥit/ — (swah-sahnt-deez-WEET) — 60 + 18)
+- **79** = **soixante-dix-neuf** (/swa.sɑ̃t.diz.nœf/ — (swah-sahnt-deez-NEUF) — 60 + 19)
 
 #### 2. The 80s: Quatre-vingts (4 × 20)
-- **80** is literally "four twenties": **quatre-vingts** (/katʁ.vɛ̃/). Notice the final **s** on *vingts* when it stands alone.
+- **80** is literally "four twenties": **quatre-vingts** (/katʁ.vɛ̃/ — (kah-truh-VAN)). Notice the final **s** on *vingts* when it stands alone.
 - From 81 onwards, the *s* drops, and there is **no "et"**:
-  - **81** = **quatre-vingt-un** (/katʁ.vɛ̃.œ̃/ — notice: NO "et"!)
-  - **82** = **quatre-vingt-deux** (/katʁ.vɛ̃.dø/)
-  - **85** = **quatre-vingt-cinq** (/katʁ.vɛ̃.sɛ̃k/)
-  - **89** = **quatre-vingt-neuf** (/katʁ.vɛ̃.nœf/)
+  - **81** = **quatre-vingt-un** (/katʁ.vɛ̃.œ̃/ — (kah-truh-van-UHN) — notice: NO "et"!)
+  - **82** = **quatre-vingt-deux** (/katʁ.vɛ̃.dø/ — (kah-truh-van-DEUH))
+  - **85** = **quatre-vingt-cinq** (/katʁ.vɛ̃.sɛ̃k/ — (kah-truh-van-SANK))
+  - **89** = **quatre-vingt-neuf** (/katʁ.vɛ̃.nœf/ — (kah-truh-van-NEUF))
 
 #### 3. The 90s: Quatre-vingt + Teens
 To count from 90 to 99, take **quatre-vingt** (80) and count upward using the numbers 10 through 19:
-- **90** = **quatre-vingt-dix** (/katʁ.vɛ̃.dis/ — 80 + 10)
-- **91** = **quatre-vingt-onze** (/katʁ.vɛ̃.ɔ̃z/ — 80 + 11)
-- **92** = **quatre-vingt-douze** (/katʁ.vɛ̃.duz/ — 80 + 12)
-- **95** = **quatre-vingt-quinze** (/katʁ.vɛ̃.kɛ̃z/ — 80 + 15)
-- **98** = **quatre-vingt-dix-huit** (/katʁ.vɛ̃.di.z‿ɥit/ — 80 + 18)
-- **99** = **quatre-vingt-dix-neuf** (/katʁ.vɛ̃.diz.nœf/ — 80 + 19)
+- **90** = **quatre-vingt-dix** (/katʁ.vɛ̃.dis/ — (kah-truh-van-DEESS) — 80 + 10)
+- **91** = **quatre-vingt-onze** (/katʁ.vɛ̃.ɔ̃z/ — (kah-truh-van-OHNZ) — 80 + 11)
+- **92** = **quatre-vingt-douze** (/katʁ.vɛ̃.duz/ — (kah-truh-van-DOOZ) — 80 + 12)
+- **95** = **quatre-vingt-quinze** (/katʁ.vɛ̃.kɛ̃z/ — (kah-truh-van-KANZ) — 80 + 15)
+- **98** = **quatre-vingt-dix-huit** (/katʁ.vɛ̃.di.z‿ɥit/ — (kah-truh-van-deez-WEET) — 80 + 18)
+- **99** = **quatre-vingt-dix-neuf** (/katʁ.vɛ̃.diz.nœf/ — (kah-truh-van-deez-NEUF) — 80 + 19)
 
 #### 4. Hundreds and Thousands: Cent and Mille
-- **100** = **cent** (/sɑ̃/ — nasal vowel, *t* is silent)
-- **200** = **deux cents** (/dø sɑ̃/ — adds *s* in the plural when round)
-- **205** = **deux cent cinq** (/dø sɑ̃ sɛ̃k/ — *s* drops when followed by another number)
-- **1,000** = **mille** (/mil/ — *mille* is **invariable**; it NEVER takes an "s": *trois mille dollars*)
-- **1,000,000** = **un million** (/œ̃ mi.ljɔ̃/ — takes an "s" in the plural: *deux millions*)
+- **100** = **cent** (/sɑ̃/ — (SAHN) — nasal vowel, *t* is silent)
+- **200** = **deux cents** (/dø sɑ̃/ — (deuh SAHN) — adds *s* in the plural when round)
+- **205** = **deux cent cinq** (/dø sɑ̃ sɛ̃k/ — (deuh sahn SANK) — *s* drops when followed by another number)
+- **1,000** = **mille** (/mil/ — (MEEL) — *mille* is **invariable**; it NEVER takes an "s": *trois mille dollars*)
+- **1,000,000** = **un million** (/œ̃ mi.ljɔ̃/ — (uhn meel-YOHN) — takes an "s" in the plural: *deux millions*)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -136,35 +136,35 @@ In French, asking for and stating the time uses the impersonal pronoun **il** an
 
 Observe how speakers inquire about time:
 
-> **Quelle heure est-il ?** — /kɛ.l‿œʁ ɛ.til/  
+> **Quelle heure est-il ?** — /kɛ.l‿œʁ ɛ.til/ (kel eur ay-TEEL)  
 > *What time is it? (Formal inversion)*
 
-> **Il est quelle heure ?** — /i.l‿ɛ kɛ.l‿œʁ/  
+> **Il est quelle heure ?** — /i.l‿ɛ kɛ.l‿œʁ/ (eel ay kel EUR)  
 > *What time is it? (Everyday conversational)*
 
 To answer, always begin with **Il est...**:
-- **Il est une heure.** (/i.l‿ɛ.t‿yn œʁ/ — *It is one o'clock.* Note: *heure* is feminine, so we say *une*).
-- **Il est deux heures.** (/i.l‿ɛ dø.z‿œʁ/ — *It is two o'clock.* Note: plural *heures* with /z/ liaison).
-- **Il est midi.** (/i.l‿ɛ mi.di/ — *It is noon / 12:00 pm.* In the 12-hour conversational style, say *midi* rather than "douze heures"; *douze heures* is standard in the 24-hour system).
-- **Il est minuit.** (/i.l‿ɛ mi.nɥi/ — *It is midnight / 12:00 am.* In the 12-hour conversational style, say *minuit* rather than "zéro heure"; *zéro heure* is standard in the 24-hour system).
+- **Il est une heure.** (/i.l‿ɛ.t‿yn œʁ/ — (eel ay-TEWN EUR) — *It is one o'clock.* Note: *heure* is feminine, so we say *une*).
+- **Il est deux heures.** (/i.l‿ɛ dø.z‿œʁ/ — (eel ay deuh-ZEUR) — *It is two o'clock.* Note: plural *heures* with /z/ liaison).
+- **Il est midi.** (/i.l‿ɛ mi.di/ — (eel ay mee-DEE) — *It is noon / 12:00 pm.* In the 12-hour conversational style, say *midi* rather than "douze heures"; *douze heures* is standard in the 24-hour system).
+- **Il est minuit.** (/i.l‿ɛ mi.nɥi/ — (eel ay mee-NWEE) — *It is midnight / 12:00 am.* In the 12-hour conversational style, say *minuit* rather than "zéro heure"; *zéro heure* is standard in the 24-hour system).
 
 #### 1. The Conversational 12-Hour System
 In daily casual conversation, French speakers use common fractional markers:
-- **et quart** (/e kaʁ/) — quarter past: *Il est trois heures **et quart*** (3:15)
-- **et demie** (/e də.mi/) — half past: *Il est quatre heures **et demie*** (4:30)
-- **moins le quart** (/mwɛ̃ lə kaʁ/) — quarter to: *Il est six heures **moins le quart*** (5:45)
-- **moins dix** (/mwɛ̃ dis/) — ten to: *Il est sept heures **moins dix*** (6:50)
+- **et quart** (/e kaʁ/ — (ay KAHR)) — quarter past: *Il est trois heures **et quart*** (3:15)
+- **et demie** (/e də.mi/ — (ay duh-MEE)) — half past: *Il est quatre heures **et demie*** (4:30)
+- **moins le quart** (/mwɛ̃ lə kaʁ/ — (mwan luh KAHR)) — quarter to: *Il est six heures **moins le quart*** (5:45)
+- **moins dix** (/mwɛ̃ dis/ — (mwan DEESS)) — ten to: *Il est sept heures **moins dix*** (6:50)
 
 When using the 12-hour clock, specify the period of day when necessary:
-- **du matin** (/dy ma.tɛ̃/) — in the morning (e.g. *8h du matin* = 8:00 am)
-- **de l'après-midi** (/də la.pʁɛ.mi.di/) — in the afternoon (e.g. *3h de l'après-midi* = 3:00 pm)
-- **du soir** (/dy swaʁ/) — in the evening (e.g. *8h du soir* = 8:00 pm)
+- **du matin** (/dy ma.tɛ̃/ — (dew mah-TAN)) — in the morning (e.g. *8h du matin* = 8:00 am)
+- **de l'après-midi** (/də la.pʁɛ.mi.di/ — (duh lah-preh-mee-DEE)) — in the afternoon (e.g. *3h de l'après-midi* = 3:00 pm)
+- **du soir** (/dy swaʁ/ — (dew SWAHR)) — in the evening (e.g. *8h du soir* = 8:00 pm)
 
 #### 2. The Official 24-Hour System
 In Canadian transportation (buses, trains, flights), public schedules, business appointments, and cinema listings, Francophones exclusively use the **24-hour clock**. The word *heure* (abbreviated as **h**) is placed between the hours and minutes:
-- **14h15** = *quatorze heures quinze* (2:15 pm)
-- **17h30** = *dix-sept heures trente* (5:30 pm)
-- **20h45** = *vingt heures quarante-cinq* (8:45 pm)
+- **14h15** = *quatorze heures quinze* (/ka.tɔʁ.z‿œʁ kɛ̃z/ — (kah-tohr-zeur KANZ) — 2:15 pm)
+- **17h30** = *dix-sept heures trente* (/dis.sɛ.t‿œʁ tʁɑ̃t/ — (deess-set-eur TRAHNT) — 5:30 pm)
+- **20h45** = *vingt heures quarante-cinq* (/vɛ̃.t‿œʁ ka.ʁɑ̃t.sɛ̃k/ — (van-teur kah-rahnt-SANK) — 8:45 pm)
 
 Notice that in the 24-hour system, you **never** use *et quart*, *et demie*, or *moins*. You simply state the exact numbers: *quinze*, *trente*, *quarante-cinq*.
 
@@ -174,15 +174,15 @@ To organize your routine and schedule appointments, you need the calendar vocabu
 
 #### 1. The 7 Days of the Week (Les jours de la semaine)
 
-| Day in French | IPA Pronunciation | English Meaning | Cultural Note |
-| :--- | :--- | :--- | :--- |
-| **lundi** | /lœ̃.di/ | Monday | First day of the business week |
-| **mardi** | /maʁ.di/ | Tuesday | |
-| **mercredi** | /mɛʁ.kʁə.di/ | Wednesday | Middle of the week |
-| **jeudi** | /ʒø.di/ | Thursday | |
-| **vendredi** | /vɑ̃.dʁə.di/ | Friday | |
-| **samedi** | /sam.di/ | Saturday | First day of the weekend |
-| **dimanche** | /di.mɑ̃ʃ/ | Sunday | Traditional day of rest |
+| Day in French | IPA Pronunciation | English Respelling | English Meaning | Cultural Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **lundi** | /lœ̃.di/ | **luhn-DEE** | Monday | First day of the business week |
+| **mardi** | /maʁ.di/ | **mahr-DEE** | Tuesday | |
+| **mercredi** | /mɛʁ.kʁə.di/ | **mehr-kruh-DEE** | Wednesday | Middle of the week |
+| **jeudi** | /ʒø.di/ | **zhuh-DEE** | Thursday | |
+| **vendredi** | /vɑ̃.dʁə.di/ | **vahn-druh-DEE** | Friday | |
+| **samedi** | /sam.di/ | **sahm-DEE** | Saturday | First day of the weekend |
+| **dimanche** | /di.mɑ̃ʃ/ | **dee-MAHNSH** | Sunday | Traditional day of rest |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -205,18 +205,18 @@ Capitalizing days or months is a spelling error, and spelling accuracy is part o
   - *Je travaille **le samedi**.* = I work on Saturdays (every Saturday).
 
 #### 2. The 12 Months of the Year (Les douze mois de l'année)
-- **janvier** (/ʒɑ̃.vje/) — January
-- **février** (/fe.vʁi.je/) — February
-- **mars** (/maʁs/ — *final s is audible*) — March
-- **avril** (/a.vʁil/) — April
-- **mai** (/mɛ/) — May
-- **juin** (/ʒɥɛ̃/ — *nasal /ɛ̃/*) — June
-- **juillet** (/ʒɥi.jɛ/ — *final t is silent*) — July
-- **août** (/u/ or /ut/) — August
-- **septembre** (/sɛp.tɑ̃bʁ/) — September
-- **octobre** (/ɔk.tɔbʁ/) — October
-- **novembre** (/nɔ.vɑ̃bʁ/) — November
-- **décembre** (/de.sɑ̃bʁ/) — December
+- **janvier** (/ʒɑ̃.vje/ — (zhahn-vee-AY)) — January
+- **février** (/fe.vʁi.je/ — (fay-vree-YAY)) — February
+- **mars** (/maʁs/ — (MAHRS) — *final s is audible*) — March
+- **avril** (/a.vʁil/ — (ah-VREEL)) — April
+- **mai** (/mɛ/ — (MEH)) — May
+- **juin** (/ʒɥɛ̃/ — (zhwahn) — *nasal /ɛ̃/*) — June
+- **juillet** (/ʒɥi.jɛ/ — (zhwee-YEH) — *final t is silent*) — July
+- **août** (/u/ or /ut/ — (OO) or (OOT)) — August
+- **septembre** (/sɛp.tɑ̃bʁ/ — (sep-TAHN-bruh)) — September
+- **octobre** (/ɔk.tɔbʁ/ — (awk-TOH-bruh)) — October
+- **novembre** (/nɔ.vɑ̃bʁ/ — (noh-VAHN-bruh)) — November
+- **décembre** (/de.sɑ̃bʁ/ — (day-SAHN-bruh)) — December
 
 To state what month something happens in, use the preposition **en** or the phrase **au mois de**:
 - *Je suis né **en mai**.* (I was born in May.)
@@ -227,12 +227,12 @@ In French, calendar dates are structured as:
 
 $$\textbf{le} + \text{numéro} + \text{mois} (+ \text{année})$$
 
-- **le 14 juillet** (/lə ka.tɔʁz ʒɥi.jɛ/) — July 14th
-- **le 24 juin** (/lə vɛ̃t.katʁ ʒɥɛ̃/) — June 24th (Fête nationale du Québec)
-- **le 11 novembre 2024** (/lə ɔ̃z nɔ.vɑ̃bʁ dø mil vɛ̃t.katʁ/) — November 11th, 2024
+- **le 14 juillet** (/lə ka.tɔʁz ʒɥi.jɛ/ — (luh kah-TOHRZ zhwee-YEH)) — July 14th
+- **le 24 juin** (/lə vɛ̃t.katʁ ʒɥɛ̃/ — (luh vant-KAH-truh zhwahn)) — June 24th (Fête nationale du Québec)
+- **le 11 novembre 2024** (/lə ɔ̃z nɔ.vɑ̃bʁ dø mil vɛ̃t.katʁ/ — (luh OHNZ noh-VAHN-bruh deuh meel vant-KAH-truh)) — November 11th, 2024
 
 > **The First of the Month Exception**: For the first day of any month, French **never** says *"le un"*. You must always use the ordinal word **le premier** (abbreviated as **le 1er**):
-> - ✓ **Le 1er juillet** (/lə pʁə.mje ʒɥi.jɛ/ — Canada Day)
+> - ✓ **Le 1er juillet** (/lə pʁə.mje ʒɥi.jɛ/ — (luh pruh-mee-AY zhwee-YEH) — Canada Day)
 > - ✗ *Le un juillet* (Impossible in French)
 > For all subsequent days (2 through 31), use normal cardinal numbers: *le deux mai*, *le trois juin*.
 
@@ -261,7 +261,7 @@ A) Voie 40 à 14h16
 B) Voie 14 à 16h40 (Correct)  
 C) Voie 14 à 16h14  
 D) Voie 4 à 16h40  
-Train yourself to immediately distinguish **quatorze** (/ka.tɔʁz/ = 14) from **quarante** (/ka.ʁɑ̃t/ = 40), and **quinze** (/kɛ̃z/ = 15) from **cinquante** (/sɛ̃.kɑ̃t/ = 50).
+Train yourself to immediately distinguish **quatorze** (/ka.tɔʁz/ (kah-TOHRZ) = 14) from **quarante** (/ka.ʁɑ̃t/ (kah-RAHNT) = 40), and **quinze** (/kɛ̃z/ (KANZ) = 15) from **cinquante** (/sɛ̃.kɑ̃t/ (san-KAHNT) = 50).
 
 </div>
 
@@ -293,21 +293,21 @@ Train yourself to immediately distinguish **quatorze** (/ka.tɔʁz/ = 14) from *
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential numerical and calendar cards with IPA to your Anki deck:
-   - *zéro* (/ze.ʁo/) — 0
-   - *quatorze* (/ka.tɔʁz/) — 14
-   - *quarante* (/ka.ʁɑ̃t/) — 40
-   - *soixante-dix* (/swa.sɑ̃t.dis/) — 70
-   - *quatre-vingts* (/katʁ.vɛ̃/) — 80
-   - *quatre-vingt-dix* (/katʁ.vɛ̃.dis/) — 90
-   - *cent / deux cents* (/sɑ̃/, /dø sɑ̃/) — 100 / 200
-   - *mille* (/mil/) — 1,000 (invariable!)
-   - *Il est midi / minuit* (/i.l‿ɛ mi.di/, /mi.nɥi/) — It is noon / midnight
-   - *et quart / et demie* (/e kaʁ/, /e də.mi/) — quarter past / half past
-   - *moins le quart* (/mwɛ̃ lə kaʁ/) — quarter to
-   - *la fin de semaine (QC)* (/la fɛ̃ də s(ə)mɛn/) — the weekend
-   - *le premier mai* (/lə pʁə.mje mɛ/) — May 1st
-   - *Quelle heure est-il ?* (/kɛ.l‿œʁ ɛ.til/) — What time is it?
+   Add these 14 essential numerical and calendar cards with IPA and English phonetic respelling to your Anki deck:
+   - *zéro* (/ze.ʁo/ — (ZAY-roh)) — 0
+   - *quatorze* (/ka.tɔʁz/ — (kah-TOHRZ)) — 14
+   - *quarante* (/ka.ʁɑ̃t/ — (kah-RAHNT)) — 40
+   - *soixante-dix* (/swa.sɑ̃t.dis/ — (swah-sahnt-DEESS)) — 70
+   - *quatre-vingts* (/katʁ.vɛ̃/ — (kah-truh-VAN)) — 80
+   - *quatre-vingt-dix* (/katʁ.vɛ̃.dis/ — (kah-truh-van-DEESS)) — 90
+   - *cent / deux cents* (/sɑ̃/, /dø sɑ̃/ — (SAHN / deuh SAHN)) — 100 / 200
+   - *mille* (/mil/ — (MEEL)) — 1,000 (invariable!)
+   - *Il est midi / minuit* (/i.l‿ɛ mi.di/, /mi.nɥi/ — (eel ay mee-DEE / mee-NWEE)) — It is noon / midnight
+   - *et quart / et demie* (/e kaʁ/, /e də.mi/ — (ay KAHR / ay duh-MEE)) — quarter past / half past
+   - *moins le quart* (/mwɛ̃ lə kaʁ/ — (mwan luh KAHR)) — quarter to
+   - *la fin de semaine (QC)* (/la fɛ̃ də s(ə)mɛn/ — (lah fan duh smen)) — the weekend
+   - *le premier mai* (/lə pʁə.mje mɛ/ — (luh pruh-mee-AY MEH)) — May 1st
+   - *Quelle heure est-il ?* (/kɛ.l‿œʁ ɛ.til/ — (kel eur ay-TEEL)) — What time is it?
 
 3. **Receptive Listening Task**  
    Listen to the schedule and transport announcements on [TV5Monde — Comprendre les heures et les horaires (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
