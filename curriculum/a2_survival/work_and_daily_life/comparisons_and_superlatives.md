@@ -35,16 +35,16 @@ Equality      (=): [aussi] + Adjective / Adverb + [que / qu']
 
 Remember: **adjectives must always agree in gender and number with the subject they modify!**
 
-| Comparative Type | French Structure | IPA Pronunciation | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- | :--- |
-| **Superiority (+)** | **plus** grand **que** | /ply ɡʁɑ̃ kə/ | bigger than | *Ce 4½ est **plus grand que** mon ancien logement.* |
-| **Inferiority (-)** | **moins** cher **que** | /mwɛ̃ ʃɛʁ kə/ | less expensive than | *Le loyer à Sherbrooke est **moins cher qu'**à Montréal.* |
-| **Equality (=)** | **aussi** lumineux **que**| /o.si ly.mi.nø kə/ | as bright as | *Le salon est **aussi lumineux que** la terrasse.* |
-| **Adverb (+)** | **plus** rapidement **que**| /ply ʁa.pid.mɑ̃ kə/ | more quickly than | *Le métro circule **plus rapidement que** l'autobus.* |
-| **Adverb (=)** | **aussi** bien **que** | /o.si bjɛ̃ kə/ | as well as | *Elle parle français **aussi bien que** son collègue.* |
+| Comparative Type | French Structure | IPA Pronunciation | Phonetic Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Superiority (+)** | **plus** grand **que** | /ply ɡʁɑ̃ kə/ | (plew grahn KUH) | bigger than | *Ce 4½ est **plus grand que** mon ancien logement.* |
+| **Inferiority (-)** | **moins** cher **que** | /mwɛ̃ ʃɛʁ kə/ | (mwen shehr KUH) | less expensive than | *Le loyer à Sherbrooke est **moins cher qu'**à Montréal.* |
+| **Equality (=)** | **aussi** lumineux **que**| /o.si ly.mi.nø kə/ | (oh-see lew-mee-NUH kuh) | as bright as | *Le salon est **aussi lumineux que** la terrasse.* |
+| **Adverb (+)** | **plus** rapidement **que**| /ply ʁa.pid.mɑ̃ kə/ | (plew rah-peed-mahn KUH) | more quickly than | *Le métro circule **plus rapidement que** l'autobus.* |
+| **Adverb (=)** | **aussi** bien **que** | /o.si bjɛ̃ kə/ | (oh-see byen KUH) | as well as | *Elle parle français **aussi bien que** son collègue.* |
 
 Notice that before a vowel sound, **que** elides to **qu'**:
-> *Montréal est plus abordable **qu'**Ottawa.* (/mɔ̃.ʁe.al ɛ ply.z‿a.bɔʁ.dabl k‿ɔ.ta.wa/)
+> *Montréal est plus abordable **qu'**Ottawa.* (/mɔ̃.ʁe.al ɛ ply.z‿a.bɔʁ.dabl k‿ɔ.ta.wa/ — *mohn-ray-AHL eh plew-zah-bohr-DAH-bluh koh-tah-WAH*)
 
 ### Comparing nouns: quantities
 
@@ -58,12 +58,12 @@ Inferiority   (-): [moins de] + Noun + [que / qu']
 Equality      (=): [autant de] + Noun + [que / qu']
 ```
 
-| Comparative Type | French Structure | IPA | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- | :--- |
-| **Superiority (+)** | **plus de** travail **que** | /ply də tʁa.vaj kə/ | more work than | *J'ai **plus de travail que** la semaine dernière.* |
-| **Inferiority (-)** | **moins de** bruit **que** | /mwɛ̃ də bʁɥi kə/ | less noise than | *Il y a **moins de bruit que** sur l'autoroute.* |
-| **Equality (=)** | **autant de** congés **que** | /o.tɑ̃ də kɔ̃.ʒe kə/ | as many holidays as | *Nous avons **autant de congés que** nos collègues.* |
-| **Vowel Elision** | **plus d'**espace **que** | /ply d‿ɛs.pas kə/ | more space than | *Ce logement a **plus d'espace que** le studio.* |
+| Comparative Type | French Structure | IPA | Phonetic Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Superiority (+)** | **plus de** travail **que** | /ply də tʁa.vaj kə/ | (plew duh trah-vehy KUH) | more work than | *J'ai **plus de travail que** la semaine dernière.* |
+| **Inferiority (-)** | **moins de** bruit **que** | /mwɛ̃ də bʁɥi kə/ | (mwen duh brwee KUH) | less noise than | *Il y a **moins de bruit que** sur l'autoroute.* |
+| **Equality (=)** | **autant de** congés **que** | /o.tɑ̃ də kɔ̃.ʒe kə/ | (oh-tahn duh kohn-ZHAY kuh) | as many holidays as | *Nous avons **autant de congés que** nos collègues.* |
+| **Vowel Elision** | **plus d'**espace **que** | /ply d‿ɛs.pas kə/ | (plew dehs-PAHS kuh) | more space than | *Ce logement a **plus d'espace que** le studio.* |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -73,7 +73,7 @@ English uses the word *"as"* for both qualities and quantities (*as tall as* vs 
 
 In French, you must never use *aussi* with nouns:
 - **Incorrect**: *"J'ai aussi d'argent que toi."* (Severe error)
-- **Correct**: **J'ai autant d'argent que toi.** (/ʒ‿e o.tɑ̃ d‿aʁ.ʒɑ̃ kə twa/ — *I have as much money as you.*)
+- **Correct**: **J'ai autant d'argent que toi.** (/ʒ‿e o.tɑ̃ d‿aʁ.ʒɑ̃ kə twa/ — *zhay oh-tahn dahr-ZHAHN kuh twah* — *I have as much money as you.*)
 
 Remember the rule: **Aussi** goes with Adjectives and Adverbs; **Autant de** goes with Nouns!
 
@@ -91,13 +91,13 @@ Equality      (=): [Conjugated Verb] + [autant que]
 
 In comparisons with verbs, the final **-s** of **plus** is **pronounced** as **/plys/** to clearly distinguish it from negative *ne... plus*:
 
-> **Je travaille plus que mon collègue.** — /ʒə tʁa.vaj plys kə mɔ̃ kɔ.lɛɡ/  
+> **Je travaille plus que mon collègue.** — /ʒə tʁa.vaj plys kə mɔ̃ kɔ.lɛɡ/ (zhuh trah-VEHY plewss kuh mohn koh-LEHG)  
 > *I work more than my colleague.*
 
-> **En télétravail, je dépense moins qu'au bureau.** — /ɑ̃ te.le.tʁa.vaj, ʒə de.pɑ̃s mwɛ̃ k‿o by.ʁo/  
+> **En télétravail, je dépense moins qu'au bureau.** — /ɑ̃ te.le.tʁa.vaj, ʒə de.pɑ̃s mwɛ̃ k‿o by.ʁo/ (ahn tay-lay-trah-VEHY, zhuh day-PAHNS mwen koh bew-ROH)  
 > *In telework, I spend less than at the office.*
 
-> **Il gagne autant que son superviseur.** — /il ɡaɲ o.tɑ̃ kə sɔ̃ sy.pɛʁ.vi.zœʁ/  
+> **Il gagne autant que son superviseur.** — /il ɡaɲ o.tɑ̃ kə sɔ̃ sy.pɛʁ.vi.zœʁ/ (eel GAHN-yuh oh-TAHN kuh sohn sew-pehr-vee-ZEUHR)  
 > *He earns as much as his supervisor.*
 
 ### Irregular comparatives: the meilleur versus mieux trap
@@ -111,11 +111,11 @@ bon (good - adjective) → MEILLEUR (better - adjective)
 bien (well - adverb)   → MIEUX (better - adverb)
 ```
 
-| Base Word | Type | Irregular Comparative | Agreement Rule | Example in Context |
-| :--- | :--- | :--- | :--- | :--- |
-| **bon** (good) | Adjective | **meilleur** (/mɛ.jœʁ/) | Agrees with noun (*-e, -s, -es*) | *Cet appartement est **meilleur** que l'autre.*<br>*Cette offre est **meilleure**.* |
-| **bien** (well) | Adverb | **mieux** (/mjø/) | Invariable (never changes) | *Je me sens **mieux** aujourd'hui.*<br>*Il travaille **mieux** en équipe.* |
-| **mauvais** (bad)| Adjective | **pire** (/piʁ/) or *plus mauvais* | Agrees in number (*-s*) | *La circulation est **pire** le vendredi.* |
+| Base Word | Type | Irregular Comparative | Phonetic Respelling | Agreement Rule | Example in Context |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **bon** (good) | Adjective | **meilleur** (/mɛ.jœʁ/) | (meh-YEUHR) | Agrees with noun (*-e, -s, -es*) | *Cet appartement est **meilleur** que l'autre.*<br>*Cette offre est **meilleure**.* |
+| **bien** (well) | Adverb | **mieux** (/mjø/) | (MYUH) | Invariable (never changes) | *Je me sens **mieux** aujourd'hui.*<br>*Il travaille **mieux** en équipe.* |
+| **mauvais** (bad)| Adjective | **pire** (/piʁ/) or *plus mauvais* | (PEER / plew moh-VEH) | Agrees in number (*-s*) | *La circulation est **pire** le vendredi.* |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -144,13 +144,13 @@ To form the superlative of an adjective, place the appropriate definite article 
 [le / la / les] + [plus / moins] + Adjective + [de + category]
 ```
 
-> **Montréal est la plus grande ville de la province de Québec.** — /mɔ̃.ʁe.al ɛ la ply ɡʁɑ̃d vil də la pʁɔ.vɛ̃s də ke.bɛk/  
+> **Montréal est la plus grande ville de la province de Québec.** — /mɔ̃.ʁe.al ɛ la ply ɡʁɑ̃d vil də la pʁɔ.vɛ̃s də ke.bɛk/ (mohn-ray-AHL eh lah plew GRAHND veel duh lah proh-VEHNS duh kay-BEHK)  
 > *Montreal is the biggest city in the province of Quebec.*
 
-> **C'est le logement le moins cher du quartier.** — /s‿ɛ lə lɔʒ.mɑ̃ lə mwɛ̃ ʃɛʁ dy kaʁ.tje/  
+> **C'est le logement le moins cher du quartier.** — /s‿ɛ lə lɔʒ.mɑ̃ lə mwɛ̃ ʃɛʁ dy kaʁ.tje/ (seh luh lohzh-MAHN luh mwen SHEHR dew kahr-TYAY)  
 > *It is the least expensive dwelling in the neighborhood.*
 
-> **Le meilleur candidat obtiendra le poste permanent.** — /lə mɛ.jœʁ kɑ̃.di.da ɔb.tjɛ̃.dʁa lə pɔst pɛʁ.ma.nɑ̃/  
+> **Le meilleur candidat obtiendra le poste permanent.** — /lə mɛ.jœʁ kɑ̃.di.da ɔb.tjɛ̃.dʁa lə pɔst pɛʁ.ma.nɑ̃/ (luh meh-yeuhr kahn-dee-DAH ohb-tyen-DRAH luh pohst pehr-mah-NAHN)  
 > *The best candidate will obtain the permanent position.*
 
 Notice that in French, the preposition following a superlative is **de** (*in / of*), not *dans*:
@@ -162,10 +162,10 @@ Notice that in French, the preposition following a superlative is **de** (*in / 
 #### Québec vs France
 
 In Québec colloquial French, you will encounter colorful expressions using comparatives:
-- **Pas pire** **(QC)** (/pa piʁ/): Literally meaning "not worse", this is ubiquitous Canadian slang for *"pretty good"*, *"not bad"*, or *"decent"*:
+- **Pas pire** **(QC)** (/pa piʁ/ — *pah PEER*): Literally meaning "not worse", this is ubiquitous Canadian slang for *"pretty good"*, *"not bad"*, or *"decent"*:
   > *« Comment tu trouves ton nouvel appart ? — Pas pire pantoute ! »* **(QC)**  
   > (Meaning: *"How do you like your new apartment? — Pretty good, not bad at all!"*)
-- **Bien pire** (/bjɛ̃ piʁ/): Not a Québec expression but standard French everywhere, used to emphasize that a situation is far worse:
+- **Bien pire** (/bjɛ̃ piʁ/ — *byen PEER*): Not a Québec expression but standard French everywhere, used to emphasize that a situation is far worse:
   > *« L'hiver à Winnipeg est bien pire qu'à Vancouver ! »*
 
 On the TCF Canada exam, use standard comparatives (*très satisfaisant, bien supérieur*) in your writing, but recognizing *pas pire* will help your ear on informal Canadian listening dialogues!
@@ -219,20 +219,20 @@ Demonstrating this complete grammatical spectrum in a single 130-word text shows
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 14 comparative and superlative terms with IPA to your personal Anki flashcard deck:
-   - *plus... que* (/ply ... kə/) — more... than (adjective/adverb)
-   - *moins... que* (/mwɛ̃ ... kə/) — less... than (adjective/adverb)
-   - *aussi... que* (/o.si ... kə/) — as... as (adjective/adverb)
-   - *plus de... que* (/ply də ... kə/) — more [noun] than
-   - *moins de... que* (/mwɛ̃ də ... kə/) — less [noun] than
-   - *autant de... que* (/o.tɑ̃ də ... kə/) — as much/many [noun] as
-   - *travailler plus que* (/tʁa.va.je plys kə/) — to work more than
-   - *meilleur / meilleure* (/mɛ.jœʁ/) — better (adjective, modifies noun)
-   - *mieux* (/mjø/) — better (adverb, modifies verb)
-   - *pire* (/piʁ/) — worse (adjective)
-   - *le plus / la plus* (/lə ply / la ply/) — the most (superlative)
-   - *le moins* (/lə mwɛ̃/) — the least (superlative)
-   - *le meilleur / la meilleure* (/lə mɛ.jœʁ / la mɛ.jœʁ/) — the best (superlative)
-   - *pas pire* **(QC)** (/pa piʁ/) — not bad / pretty good (informal Canadian)
+   - *plus... que* (/ply ... kə/ — *plew ... KUH*) — more... than (adjective/adverb)
+   - *moins... que* (/mwɛ̃ ... kə/ — *mwen ... KUH*) — less... than (adjective/adverb)
+   - *aussi... que* (/o.si ... kə/ — *oh-see ... KUH*) — as... as (adjective/adverb)
+   - *plus de... que* (/ply də ... kə/ — *plew duh ... KUH*) — more [noun] than
+   - *moins de... que* (/mwɛ̃ də ... kə/ — *mwen duh ... KUH*) — less [noun] than
+   - *autant de... que* (/o.tɑ̃ də ... kə/ — *oh-tahn duh ... KUH*) — as much/many [noun] as
+   - *travailler plus que* (/tʁa.va.je plys kə/ — *trah-vah-YAY plewss KUH*) — to work more than
+   - *meilleur / meilleure* (/mɛ.jœʁ/ — *meh-YEUHR*) — better (adjective, modifies noun)
+   - *mieux* (/mjø/ — *MYUH*) — better (adverb, modifies verb)
+   - *pire* (/piʁ/ — *PEER*) — worse (adjective)
+   - *le plus / la plus* (/lə ply / la ply/ — *luh PLEW / lah PLEW*) — the most (superlative)
+   - *le moins* (/lə mwɛ̃/ — *luh MWEN*) — the least (superlative)
+   - *le meilleur / la meilleure* (/lə mɛ.jœʁ / la mɛ.jœʁ/ — *luh meh-YEUHR / lah meh-YEUHR*) — the best (superlative)
+   - *pas pire* **(QC)** (/pa piʁ/ — *pah PEER*) — not bad / pretty good (informal Canadian)
 
 3. **Step 3: Receptive Reading Practice**  
    Visit an authentic Canadian cost-of-living comparison site or article on [Radio-Canada — Économie et consommation](https://ici.radio-canada.ca/).  
