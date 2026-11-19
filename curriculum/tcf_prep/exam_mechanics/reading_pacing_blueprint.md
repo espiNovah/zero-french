@@ -164,10 +164,10 @@ Scan the four answer options. Immediately disqualify any choice containing *touj
 #### Québec vs France
 
 Canadian-themed practical notices may include Québec civic and transit terms:
-- *le traversier* **(QC)**: Ferry boat (*Prendre le traversier Québec-Lévis*).
-- *l'aqueduc* **(QC)**: Municipal water supply network (*Travaux sur le réseau d'aqueduc*).
-- *le déneigement* **(QC)**: Snow clearing operations and seasonal parking bans (*Avis d'opération de déneigement : interdiction de stationner*).
-- *trottoir en travaux* (pan-French, not a québécisme): Sidewalk maintenance notice.
+- *le traversier* **(QC)** — /lə tʁa.vɛʁ.sje/ (*luh trah-vehr-SYAY*): Ferry boat (*Prendre le traversier Québec-Lévis*).
+- *l'aqueduc* **(QC)** — /l‿ak.dyk/ (*lahk-DEWK*): Municipal water supply network (*Travaux sur le réseau d'aqueduc*).
+- *le déneigement* **(QC)** — /lə de.nɛʒ.mɑ̃/ (*luh day-nehzh-MAHN*): Snow clearing operations and seasonal parking bans (*Avis d'opération de déneigement : interdiction de stationner*).
+- *trottoir en travaux* — /tʁɔ.twaʁ ɑ̃ tʁa.vo/ (*troh-TWAHR ahn trah-VOH*): Sidewalk maintenance notice.
 
 </div>
 
