@@ -54,7 +54,7 @@ Observe the patterns:
 > **Mes grands-parents habitent en France.** — /me ɡʁɑ̃.pa.ʁɑ̃ a.bit ɑ̃ fʁɑ̃s/ (may grahn-pah-RAHN ah-beet ahn FRAHNS)  
 > *My grandparents live in France.*
 
-> **Mon oncle est ingénieur à Montréal.** — /mɔ̃n‿ɔ̃kl ɛ.t‿ɛ̃.ʒe.njœʁ a mɔ̃.ʁe.al/ (moh-nOHN-kluh eh-tan-zhay-NYEUR ah mohn-ray-AHL)  
+> **Mon oncle est ingénieur à Montréal.** — /mɔ̃n‿ɔ̃kl ɛ.t‿ɛ̃.ʒe.njœʁ a mɔ̃.ʁe.al/ (moh-nOHN-kluh eh-tehn-zhay-NYEUR ah mohn-ray-AHL)  
 > *My uncle is an engineer in Montreal.*
 
 | French Term | IPA | Phonetic Respelling | English Meaning | Note |
@@ -63,7 +63,7 @@ Observe the patterns:
 | **la grand-mère** | /la ɡʁɑ̃.mɛʁ/ | **lah grahn-MEHR** | grandmother | Plural: *les grands-parents* |
 | **l'oncle** | /lɔ̃kl/ | **LOHN-kluh** | uncle | Vowel-initial (uses *l'*) |
 | **la tante** | /la tɑ̃t/ | **lah TAHNT** | aunt | Feminine noun |
-| **le cousin** | /lə ku.zɛ̃/ | **luh koo-ZAN** | cousin (male) | Nasal vowel /ɛ̃/ |
+| **le cousin** | /lə ku.zɛ̃/ | **luh koo-ZEHN** | cousin (male) | Nasal vowel /ɛ̃/ |
 | **la cousine** | /la ku.zin/ | **lah koo-ZEEN** | cousin (female) | Oral vowel /in/ |
 | **le neveu** | /lə nə.vø/ | **luh nuh-VEUH** | nephew | Plural: *les neveux* |
 | **la nièce** | /la njɛs/ | **lah NYESS** | niece | Feminine noun |
@@ -132,21 +132,21 @@ In everyday life and particularly in Canadian immigration forms (such as Express
 
 Observe how speakers state their relationship status using the verb **être**:
 
-> **Je suis marié depuis cinq ans.** — /ʒə sɥi ma.ʁje də.pɥi sɛ̃.k‿ɑ̃/ (zhuh swee mah-ree-AY duh-pwee sank-AHN)  
+> **Je suis marié depuis cinq ans.** — /ʒə sɥi ma.ʁje də.pɥi sɛ̃.k‿ɑ̃/ (zhuh swee mah-ree-AY duh-pwee sehn-KAHN)  
 > *I have been married for five years. (Masculine speaker)*
 
 > **Je suis mariée et nous avons deux enfants.** — /ʒə sɥi ma.ʁje e nu.z‿a.vɔ̃ dø.z‿ɑ̃.fɑ̃/ (zhuh swee mah-ree-AY ay noo-zah-VOHN deuh-zahn-FAHN)  
 > *I am married and we have two children. (Feminine speaker: note the extra "e")*
 
-> **Nous sommes conjoints de fait.** — /nu sɔm kɔ̃.ʒwɛ̃ də fɛ/ (noo suhm kohn-ZHWAN duh FEH)  
+> **Nous sommes conjoints de fait.** — /nu sɔm kɔ̃.ʒwɛ̃ də fɛ/ (noo suhm kohn-ZHWEN duh FEH)  
 > *We are common-law partners.*
 
 | Civil Status Term | IPA | Phonetic Respelling | English Meaning | Note |
 | :--- | :--- | :--- | :--- | :--- |
 | **célibataire** | /se.li.ba.tɛʁ/ | **say-lee-bah-TEHR** | single | Same form for masc. and fem. |
 | **marié / mariée** | /ma.ʁje/ | **mah-ree-AY** | married | Add *-e* for feminine (sound is identical) |
-| **conjoint de fait** | /kɔ̃.ʒwɛ̃ də fɛ/ | **kohn-ZHWAN duh FEH** | common-law partner (male) | Official Canadian legal status (cohabitation ≥ 1 yr) |
-| **conjointe de fait** | /kɔ̃.ʒwɛ̃t də fɛ/ | **kohn-ZHWANT duh FEH** | common-law partner (female) | Feminine form adds audible /t/ sound |
+| **conjoint de fait** | /kɔ̃.ʒwɛ̃ də fɛ/ | **kohn-ZHWEN duh FEH** | common-law partner (male) | Official Canadian legal status (cohabitation ≥ 1 yr) |
+| **conjointe de fait** | /kɔ̃.ʒwɛ̃t də fɛ/ | **kohn-ZHWENT duh FEH** | common-law partner (female) | Feminine form adds audible /t/ sound |
 | **divorcé / divorcée** | /di.vɔʁ.se/ | **dee-vor-SAY** | divorced | Add *-e* for feminine |
 | **séparé / séparée** | /se.pa.ʁe/ | **say-pah-RAY** | separated | Add *-e* for feminine |
 | **veuf / veuve** | /vœf / vœv/ | **veuf / veuhv** | widower / widow | Irregular feminine spelling and pronunciation shift |
@@ -205,13 +205,13 @@ Using simple connectors like **mais** (*but*), **et** (*and*), and **avec** (*wi
    - *la fille* (/la fij/ — "lah FEEY") — daughter / girl
    - *le frère / la sœur* (/lə fʁɛʁ/, /la sœʁ/ — "luh FREHR", "lah SEUHR") — brother / sister
    - *le mari / la femme* (/lə ma.ʁi/, /la fam/ — "luh mah-REE", "lah FAHM") — husband / wife
-   - *le conjoint / la conjointe* (/lə kɔ̃.ʒwɛ̃/, /la kɔ̃.ʒwɛ̃t/ — "luh kohn-ZHWAN", "lah kohn-ZHWANT") — partner / spouse
+   - *le conjoint / la conjointe* (/lə kɔ̃.ʒwɛ̃/, /la kɔ̃.ʒwɛ̃t/ — "luh kohn-ZHWEN", "lah kohn-ZHWENT") — partner / spouse
    - *mon, ma, mes* (/mɔ̃/, /ma/, /me/ — "mohn, mah, may") — my (masc., fem., plural)
    - *ton, ta, tes* (/tɔ̃/, /ta/, /te/ — "tohn, tah, tay") — your (masc., fem., plural informal)
    - *son, sa, ses* (/sɔ̃/, /sa/, /se/ — "sohn, sah, say") — his/her/its (masc., fem., plural)
    - *notre, nos* (/nɔtʁ/, /no/ — "NOH-truh, noh") — our (singular, plural)
    - *votre, vos* (/vɔtʁ/, /vo/ — "VOH-truh, voh") — your (singular formal/plural, plural)
-   - *leur, leurs* (/lœʁ/ — "leur") — their (singular, plural)
+   - *leur, leurs* (/lœʁ/ — "LEUHR") — their (singular, plural)
    - *célibataire* (/se.li.ba.tɛʁ/ — "say-lee-bah-TEHR") — single
 
 3. **Receptive Listening Task**  
