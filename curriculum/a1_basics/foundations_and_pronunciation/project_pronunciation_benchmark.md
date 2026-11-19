@@ -34,9 +34,9 @@ Before beginning your recording session, ensure you have the following setup pre
    > 4. *Le dessert était sur la table du chef.* — /lə de.sɛʁ e.tɛ syʁ la tabl dy ʃɛf/ (luh day-sehr ay-teh sewr lah tah-bluh dew SHEF) — *(The dessert was on the chef's table.)*  
    > 
    > **Partie 2 : Voyelles nasales en contraste (/ɑ̃/, /ɔ̃/, /ɛ̃/)**  
-   > 5. *Mon grand cousin blond mange du bon pain blanc.* — /mɔ̃ ɡʁɑ̃ ku.zɛ̃ blɔ̃ mɑ̃ʒ dy bɔ̃ pɛ̃ blɑ̃/ (mohn grahn koo-zan blohn mahnzh dew bohn pan BLAHN) — *(My tall blond cousin eats good white bread.)*  
-   > 6. *En automne, cent Canadiens dansent dans un grand restaurant.* — /ɑ̃.n‿o.tɔn sɑ̃ ka.na.djɛ̃ dɑ̃s dɑ̃.z‿œ̃ ɡʁɑ̃ ʁɛs.to.ʁɑ̃/ (ahn-noh-tawn, sahn kah-nah-dyan dahns dahn-zuhn grahn res-toh-RAHN) — *(In autumn, one hundred Canadians dance in a big restaurant.)*  
-   > 7. *Ce bon vin blanc vient de la région du mont Saint-Michel.* — /sə bɔ̃ vɛ̃ blɑ̃ vjɛ̃ də la ʁe.ʒjɔ̃ dy mɔ̃ sɛ̃ mi.ʃɛl/ (suh bohn van blahn vyan duh lah ray-zhyohn dew mohn san-mee-SHEL) — *(This good white wine comes from the Mount Saint-Michel region.)*  
+   > 5. *Mon grand cousin blond mange du bon pain blanc.* — /mɔ̃ ɡʁɑ̃ ku.zɛ̃ blɔ̃ mɑ̃ʒ dy bɔ̃ pɛ̃ blɑ̃/ (mohn grahn koo-zehn blohn mahnzh dew bohn pehn BLAHN) — *(My tall blond cousin eats good white bread.)*  
+   > 6. *En automne, cent Canadiens dansent dans un grand restaurant.* — /ɑ̃.n‿o.tɔn sɑ̃ ka.na.djɛ̃ dɑ̃s dɑ̃.z‿œ̃ ɡʁɑ̃ ʁɛs.to.ʁɑ̃/ (ahn-noh-tawn, sahn kah-nah-dyen dahns dahn-zuhn grahn res-toh-RAHN) — *(In autumn, one hundred Canadians dance in a big restaurant.)*  
+   > 7. *Ce bon vin blanc vient de la région du mont Saint-Michel.* — /sə bɔ̃ vɛ̃ blɑ̃ vjɛ̃ də la ʁe.ʒjɔ̃ dy mɔ̃ sɛ̃ mi.ʃɛl/ (suh bohn vehn blahn vyen duh lah ray-zhyohn dew mohn sehn-mee-SHEL) — *(This good white wine comes from the Mount Saint-Michel region.)*  
    > 
    > **Partie 3 : Lettres muettes et règle CaReFuL**  
    > 8. *Le loup gris dort près du grand lit vert.* — /lə lu ɡʁi dɔʁ pʁɛ dy ɡʁɑ̃ li vɛʁ/ (luh loo gree dohr preh dew grahn lee VEHR) — *(The grey wolf sleeps near the big green bed.)*  
@@ -49,8 +49,8 @@ Before beginning your recording session, ensure you have the following setup pre
    > 13. *Quand‿il arrive, on‿écoute son‿histoire.* — /kɑ̃.t‿i.l‿a.ʁiv ɔ̃.n‿e.kut sɔ̃.n‿is.twaʁ/ (kahn-tee-lah-REEV, ohn-nay-koot soh-nees-TWAHR) — *(When he arrives, we listen to his story.)*  
    > 
    > **Partie 5 : Nombres, indicatifs et codes postaux canadiens**  
-   > 14. *Le prix est de soixante-dix-neuf dollars et quatre-vingt-onze cents.* — /lə pʁi ɛ də swa.sɑ̃t.diz.nœf dɔ.laʁ e katʁ.vɛ̃.ɔ̃z sɛnt/ (luh pree eh duh swah-sahnt-deez-NEUF doh-lahr ay kah-truh-van-OHNZ sent) — *(The price is seventy-nine dollars and ninety-one cents.)*  
-   > 15. *Composez le 514-872-0391 (cinq-un-quatre, huit-sept-deux, zéro-trois-neuf-un).* — /sɛ̃k œ̃ katʁ \| ɥit sɛt dø \| ze.ʁo tʁwa nœf œ̃/ (sank uhn KAH-truh \| weet set DEUH \| zay-roh trwah neuf UHN) — *(Dial 514-872-0391.)*  
+   > 14. *Le prix est de soixante-dix-neuf dollars et quatre-vingt-onze cents.* — /lə pʁi ɛ də swa.sɑ̃t.diz.nœf dɔ.laʁ e katʁ.vɛ̃.ɔ̃z sɛnt/ (luh pree eh duh swah-sahnt-deez-NEUF doh-lahr ay kah-truh-vehn-OHNZ sent) — *(The price is seventy-nine dollars and ninety-one cents.)*  
+   > 15. *Composez le 514-872-0391 (cinq-un-quatre, huit-sept-deux, zéro-trois-neuf-un).* — /sɛ̃k œ̃ katʁ \| ɥit sɛt dø \| ze.ʁo tʁwa nœf œ̃/ (sehnk uhn KAH-truh \| weet set DEUH \| zay-roh trwah neuf UHN) — *(Dial 514-872-0391.)*  
    > 16. *Mon code postal à Gatineau est J8X 3V7 (J-huit-X, trois-V-sept).* — /ʒi ɥit iks \| tʁwa ve sɛt/ (zhee weet EEKS \| trwah vay SET) — *(My postal code in Gatineau is J8X 3V7.)*
 
 2. **Step 2: Continuous 3-Minute Audio Take**  
