@@ -275,13 +275,13 @@ A successful milestone completion confirms:
 
 When conducting your oral roleplay at the municipal desk, organize your inquiry around these 10 structured questions:
 
-1. *« Bonjour Madame, je viens d'emménager dans le quartier et j'aimerais obtenir des informations sur vos activités sportives. »* (/bɔ̃.ʒuʁ ma.dam, ʒə vjɛ̃ d‿ɑ̃.me.na.ʒe dɑ̃ lə kaʁ.tje/)
-2. *« Quels types de cours proposez-vous pour les adultes pendant la session d'automne ? »* (/kɛl tip də kuʁ pʁɔ.po.ze vu puʁ le z‿a.dylt/)
-3. *« Avez-vous des activités adaptées aux enfants de moins de 10 ans ? »* (/a.ve vu de z‿ak.ti.vi.te a.dap.te o z‿ɑ̃.fɑ̃/)
-4. *« À quels moments de la semaine les cours de natation ont-ils lieu ? »* (/a kɛl mɔ.mɑ̃ də la sə.mɛn le kuʁ də na.ta.sjɔ̃ ɔ̃.t‿il ljø/)
-5. *« Combien coûte l'abonnement trimestriel pour un adulte ? »* (/kɔ̃.bjɛ̃ kut l‿a.bɔn.mɑ̃ tʁi.mɛs.tʁi.jɛl/)
-6. *« Est-ce que la municipalité offre un rabais spécial pour les nouveaux résidents ? »* (/ɛs kə la my.ni.si.pa.li.te ɔfʁ œ̃ ʁa.bɛ spe.sjal/)
-7. *« Faut-il fournir un justificatif de domicile et une photo pour la carte d'accès ? »* (/fo.t‿il fuʁ.niʁ œ̃ ʒys.ti.fi.ka.tif də dɔ.mi.sil/)
-8. *« Est-il obligatoire de s'inscrire en ligne sur votre site internet ? »* (/ɛ.t‿il ɔ.bli.ɡa.twaʁ də s‿ɛ̃s.kʁiʁ ɑ̃ liɲ/)
-9. *« Quelle est la date limite pour compléter l'inscription avant le début des cours ? »* (/kɛl ɛ la dat li.mit puʁ kɔ̃.ple.te l‿ɛ̃s.kʁip.sjɔ̃/)
-10. *« Auriez-vous un dépliant avec la programmation complète que je pourrais emporter ? »* (/o.ʁje vu œ̃ de.pli.jɑ̃ a.vɛk la pʁɔ.ɡʁa.ma.sjɔ̃ kɔ̃.plɛt/)
+1. *« Bonjour Madame, je viens d'emménager dans le quartier et j'aimerais obtenir des informations sur vos activités sportives. »* (/bɔ̃.ʒuʁ ma.dam, ʒə vjɛ̃ d‿ɑ̃.me.na.ʒe dɑ̃ lə kaʁ.tje/ — *bohn-ZHOOR mah-DAHM, zhuh vyen dahm-may-nah-ZHAY dahn luh kahr-TYAY*)
+2. *« Quels types de cours proposez-vous pour les adultes pendant la session d'automne ? »* (/kɛl tip də kuʁ pʁɔ.po.ze vu puʁ le z‿a.dylt/ — *kehl teep duh koor proh-poh-zay-VOO poor lay zah-DEWLT*)
+3. *« Avez-vous des activités adaptées aux enfants de moins de 10 ans ? »* (/a.ve vu de z‿ak.ti.vi.te a.dap.te o z‿ɑ̃.fɑ̃/ — *ah-vay-VOO day zahk-tee-vee-TAY ah-dahp-TAY oh zahn-FAHN*)
+4. *« À quels moments de la semaine les cours de natation ont-ils lieu ? »* (/a kɛl mɔ.mɑ̃ də la sə.mɛn le kuʁ də na.ta.sjɔ̃ ɔ̃.t‿il ljø/ — *ah kehl moh-MAHN duh lah suh-MEHN lay koor duh nah-tah-SYOHN ohn-teel LYEUH*)
+5. *« Combien coûte l'abonnement trimestriel pour un adulte ? »* (/kɔ̃.bjɛ̃ kut l‿a.bɔn.mɑ̃ tʁi.mɛs.tʁi.jɛl/ — *kohn-BYEN KOOT lah-bohn-MAHN tree-mehs-tree-YEHL*)
+6. *« Est-ce que la municipalité offre un rabais spécial pour les nouveaux résidents ? »* (/ɛs kə la my.ni.si.pa.li.te ɔfʁ œ̃ ʁa.bɛ spe.sjal/ — *ehss kuh lah mew-nee-see-pah-lee-TAY OH-fruh uhn rah-BEH spay-SYAHL*)
+7. *« Faut-il fournir un justificatif de domicile et une photo pour la carte d'accès ? »* (/fo.t‿il fuʁ.niʁ œ̃ ʒys.ti.fi.ka.tif də dɔ.mi.sil/ — *foh-teel foor-NEER uhn zhews-tee-fee-kah-TEEF duh doh-mee-SEEL*)
+8. *« Est-il obligatoire de s'inscrire en ligne sur votre site internet ? »* (/ɛ.t‿il ɔ.bli.ɡa.twaʁ də s‿ɛ̃s.kʁiʁ ɑ̃ liɲ/ — *eh-teel oh-blee-gah-TWAHR duh sehn-SKREER ahn LEEN-yuh*)
+9. *« Quelle est la date limite pour compléter l'inscription avant le début des cours ? »* (/kɛl ɛ la dat li.mit puʁ kɔ̃.ple.te l‿ɛ̃s.kʁip.sjɔ̃/ — *kehl eh lah daht lee-MEET poor kohn-play-TAY lehn-skreep-SYOHN*)
+10. *« Auriez-vous un dépliant avec la programmation complète que je pourrais emporter ? »* (/o.ʁje vu œ̃ de.pli.jɑ̃ a.vɛk la pʁɔ.ɡʁa.ma.sjɔ̃ kɔ̃.plɛt/ — *oh-ryay-VOO uhn day-plee-YAHN ah-vehk lah proh-grah-mah-SYOHN kohn-PLEHT*)
