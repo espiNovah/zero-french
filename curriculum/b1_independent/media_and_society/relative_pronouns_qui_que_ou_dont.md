@@ -5,7 +5,7 @@ At CEFR A2, your writing and speaking rely heavily on short, juxtaposed sentence
 
 At CEFR B1, such repetitive sentence structures hold back your TCF Canada Writing and Speaking. Examiners value **syntactic complexity and cohesive subordination** (*la complexité syntaxique et la cohésion textuelle*). Relative pronouns allow you to fuse ideas into elegant, information-dense clauses without awkward nominal repetitions:
 * **J'ai lu un article qui traite de la crise du logement, un sujet dont tout le monde parle.**
-  /ʒe ly œ̃.n‿aʁ.tikl ki tʁɛt də la kʁiz dy lɔʒ.mɑ̃, œ̃ sy.ʒɛ dɔ̃ tu lə mɔ̃d paʁl/
+  /ʒe ly œ̃.n‿aʁ.tikl ki tʁɛt də la kʁiz dy lɔʒ.mɑ̃, œ̃ sy.ʒɛ dɔ̃ tu lə mɔ̃d paʁl/ (*zhay lew uhn-nahr-TEE-kluh kee treht duh lah KREEZ dew lohzh-MAHN, uhn sew-ZHEH dohn too luh MOHND PARL*)
   *I read an article that deals with the housing crisis, a topic of which everyone is speaking.*
 
 In journalistic and formal French, relative pronouns are foundational tools. Whether you are summarizing an editorial from *Le Devoir*, detailing an interview on *Radio-Canada*, or drafting an argumentative essay for TCF Writing Task 3, mastering the four simple relative pronouns—**qui**, **que**, **où**, and **dont**—is mandatory.
@@ -18,12 +18,12 @@ This lesson breaks down the grammatical function, syntactic placement, phonetic 
 
 The fundamental rule of French relative pronouns is simple: **the choice of pronoun depends entirely on its grammatical function within the subordinate relative clause**, never on whether the antecedent (*l'antécédent*) is a human or an inanimate object.
 
-| Relative Pronoun | Grammatical Role in Relative Clause | Followed By | Elision Before Vowel? | Core English Equivalents |
-| :--- | :--- | :--- | :--- | :--- |
-| **qui** (/ki/) | Grammatical Subject | Conjugated Verb or Object Pronoun | **NO** (*qui arrive*, never *qu'arrive*) | who, which, that |
-| **que / qu'** (/kə/ / /k/) | Direct Object (*COD*) | Subject + Verb | **YES** (*qu'il*, *qu'elle*, *qu'on*) | whom, which, that |
-| **où** (/u/) | Complement of Place or Time | Subject + Verb | **NO** (*où il*, never *ou*) | where, when, in which |
-| **dont** (/dɔ̃/) | Object of preposition *de* / Possession | Subject + Verb | **NO** (*dont il*) | of which, whose, that ... about |
+| Relative Pronoun | Phonetic Respelling | Grammatical Role in Relative Clause | Followed By | Elision Before Vowel? | Core English Equivalents |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **qui** (/ki/) | (KEE) | Grammatical Subject | Conjugated Verb or Object Pronoun | **NO** (*qui arrive*, never *qu'arrive*) | who, which, that |
+| **que / qu'** (/kə/ / /k/) | (kuh / k) | Direct Object (*COD*) | Subject + Verb | **YES** (*qu'il*, *qu'elle*, *qu'on*) | whom, which, that |
+| **où** (/u/) | (OO) | Complement of Place or Time | Subject + Verb | **NO** (*où il*, never *ou*) | where, when, in which |
+| **dont** (/dɔ̃/) | (DOHN) | Object of preposition *de* / Possession | Subject + Verb | **NO** (*dont il*) | of which, whose, that ... about |
 
 ---
 
@@ -34,21 +34,21 @@ The fundamental rule of French relative pronouns is simple: **the choice of pron
 #### Key Mechanics
 1. **Immediate syntactic successor**: Because **qui** is the grammatical subject, it is immediately followed by a conjugated verb (or reflexive/object pronouns immediately preceding the verb).
 2. **Verb agreement**: The verb in the relative clause agrees in person and number with the antecedent (*l'antécédent*).
-   * **C'est moi qui ai pris cette décision.** (/s‿ɛ mwa ki e pʁi sɛt de.si.zjɔ̃/) — *It is I who made this decision.* (Verb agrees with *moi* = 1st person singular).
-   * **Ce sont les journalistes qui ont vérifié les faits.** (/sə sɔ̃ le ʒuʁ.na.list ki ɔ̃ ve.ʁi.fje le fɛ/) — *It is the journalists who verified the facts.*
+   * **C'est moi qui ai pris cette décision.** (/s‿ɛ mwa ki e pʁi sɛt de.si.zjɔ̃/ — *seh MWAH kee ay PREE seht day-see-ZYOHN*) — *It is I who made this decision.* (Verb agrees with *moi* = 1st person singular).
+   * **Ce sont les journalistes qui ont vérifié les faits.** (/sə sɔ̃ le ʒuʁ.na.list ki ɔ̃ ve.ʁi.fje le fɛ/ — *suh SOHN lay zhoor-nah-LEEST kee ohn vay-ree-FYAY lay FEH*) — *It is the journalists who verified the facts.*
 3. **No elision**: Unlike *que*, **qui NEVER elides** before a vowel or mute *h*. Writing *l'homme qu'arrive* is a severe grammatical error.
-   * **Correct**: **L'expert qui analyse la situation.** (/l‿ɛks.pɛʁ ki a.na.liz la si.tɥa.sjɔ̃/) — *The expert who is analyzing the situation.*
+   * **Correct**: **L'expert qui analyse la situation.** (/l‿ɛks.pɛʁ ki a.na.liz la si.tɥa.sjɔ̃/ — *lehks-PEHR kee ah-nah-LEEZ lah see-twah-SYOHN*) — *The expert who is analyzing the situation.*
    * **Incorrect**: *L'expert qu'analyse la situation.* ❌
 
 #### Journalistic and Societal Examples
 * **Le gouvernement fédéral a adopté une loi qui protège les données numériques.**
-  /lə gu.vɛʁ.nə.mɑ̃ fe.de.ʁal a a.dɔp.te yn lwa ki pʁɔ.tɛʒ le dɔ.ne ny.me.ʁik/
+  /lə gu.vɛʁ.nə.mɑ̃ fe.de.ʁal a a.dɔp.te yn lwa ki pʁɔ.tɛʒ le dɔ.ne ny.me.ʁik/ (*luh goo-vehr-nuh-MAHN fay-day-RAHL ah ah-dohp-TAY ewn LWAH kee proh-TEHZH lay doh-NAY new-may-REEK*)
   *The federal government adopted a law that protects digital data.*
 * **Ce sont des mesures économiques qui encouragent la création d'emplois locaux.**
-  /sə sɔ̃ de mə.zyʁ e.kɔ.nɔ.mik ki ɑ̃.ku.ʁaʒ la kʁe.a.sjɔ̃ d‿ɑ̃.plwa lɔ.ko/
+  /sə sɔ̃ de mə.zyʁ e.kɔ.nɔ.mik ki ɑ̃.ku.ʁaʒ la kʁe.a.sjɔ̃ d‿ɑ̃.plwa lɔ.ko/ (*suh SOHN day muh-ZEWR ay-koh-noh-MEEK kee ahn-koo-RAHZH lah kray-ah-SYOHN dahn-plwah loh-KOH*)
   *These are economic measures that encourage the creation of local jobs.*
 * **L'éditorialiste qui s'exprime dans cette chronique soulève des questions légitimes.**
-  /l‿e.di.tɔ.ʁja.list ki s‿ɛks.pʁim dɑ̃ sɛt ʃʁɔ.nik su.lɛv de kɛs.tjɔ̃ le.ʒi.tim/
+  /l‿e.di.tɔ.ʁja.list ki s‿ɛks.pʁim dɑ̃ sɛt ʃʁɔ.nik su.lɛv de kɛs.tjɔ̃ le.ʒi.tim/ (*lay-dee-toh-ryah-LEEST kee sehks-PREEM dahn seht kroh-NEEK soo-LEHV day kehs-TYOHN lay-zhee-TEEM*)
   *The columnist who expresses themselves in this column raises legitimate questions.*
 
 ---
@@ -60,13 +60,13 @@ The fundamental rule of French relative pronouns is simple: **the choice of pron
 #### Key Mechanics
 1. **Immediate syntactic successor**: Because **que** is an object, the relative clause requires its own explicit subject followed by a verb (*que + sujet + verbe*).
 2. **Mandatory elision**: **Que** becomes **qu'** before a vowel or a mute *h*.
-   * **Le reportage qu'ils ont diffusé hier soir.** (/lə ʁə.pɔʁ.taʒ k‿il.z‿ɔ̃ di.fy.ze jɛʁ swaʁ/) — *The report that they broadcast yesterday evening.*
+   * **Le reportage qu'ils ont diffusé hier soir.** (/lə ʁə.pɔʁ.taʒ k‿il.z‿ɔ̃ di.fy.ze jɛʁ swaʁ/ — *luh ruh-por-TAHZH keel-zohn dee-few-ZAY YEHR SWAHR*) — *The report that they broadcast yesterday evening.*
 3. **Past participle agreement with *avoir***: When the verb in the relative clause is conjugated in a compound tense (*passé composé*, *plus-que-parfait*) with auxiliary *avoir*, the past participle **must agree in gender and number** with the preceding direct object (*l'antécédent*).
    * **L'enquête** (fem. sing.) **que la journaliste a menée** (+e) **démontre des irrégularités.**
-     /l‿ɑ̃.kɛt kə la ʒuʁ.na.list a mə.ne de.mɔ̃tʁ de.z‿i.ʁe.gy.la.ʁi.te/
+     /l‿ɑ̃.kɛt kə la ʒuʁ.na.list a mə.ne de.mɔ̃tʁ de.z‿i.ʁe.gy.la.ʁi.te/ (*lahn-KEHT kuh lah zhoor-nah-LEEST ah muh-NAY day-MOHN-truh day-zee-ray-gew-lah-ree-TAY*)
      *The investigation that the journalist conducted demonstrates irregularities.*
    * **Les chiffres** (masc. plur.) **que nous avons reçus** (+s) **confirment la tendance.**
-     /le ʃifʁ kə nu.z‿a.vɔ̃ ʁə.sy kɔ̃.fiʁm la tɑ̃.dɑ̃s/
+     /le ʃifʁ kə nu.z‿a.vɔ̃ ʁə.sy kɔ̃.fiʁm la tɑ̃.dɑ̃s/ (*lay SHEE-fruh kuh noo-zah-VOHN ruh-SEW kohn-FEERM lah tahn-DAHNS*)
      *The figures that we received confirm the trend.*
 
 #### Common Subject vs Object Confusion
@@ -83,22 +83,22 @@ In English, "where" refers exclusively to locations, while temporal reference po
 #### 1. Complement of Place (*Lieu*)
 Replaces a physical location, geographical area, or metaphorical domain introduced by prepositions like *à, dans, sur, en, chez*:
 * **Montréal est la métropole où se déroule le festival international de jazz.**
-  /mɔ̃.ʁe.al ɛ la me.tʁɔ.pɔl u sə de.ʁul lə fɛs.ti.val ɛ̃.tɛʁ.na.sjɔ.nal də dʒaz/
+  /mɔ̃.ʁe.al ɛ la me.tʁɔ.pɔl u sə de.ʁul lə fɛs.ti.val ɛ̃.tɛʁ.na.sjɔ.nal də dʒaz/ (*mohn-ray-AHL eh lah may-troh-POHL oo suh day-ROOL luh fehs-tee-VAHL ehn-tehr-nah-syoh-NAHL duh JAZZ*)
   *Montreal is the metropolis where the international jazz festival takes place.*
 * **Le quartier où nous avons emménagé dispose d'excellents transports en commun.**
-  /lə kaʁ.tje u nu.z‿a.vɔ̃ ɑ̃.me.na.ʒe dis.poz d‿ɛk.sɛ.lɑ̃ tʁɑ̃s.pɔʁ ɑ̃ kɔ.mœ̃/
+  /lə kaʁ.tje u nu.z‿a.vɔ̃ ɑ̃.me.na.ʒe dis.poz d‿ɛk.sɛ.lɑ̃ tʁɑ̃s.pɔʁ ɑ̃ kɔ.mœ̃/ (*luh kahr-TYAY oo noo-zah-vohn zahm-may-nah-ZHAY dees-POHZ dehk-say-LAHN trahns-POR ahn koh-MUHN*)
   *The neighborhood where we moved has excellent public transit.*
 
 #### 2. Complement of Time (*Temps*)
 Whenever an antecedent denotes a moment, day, month, year, or era, standard French requires **où** (never *quand* as a relative pronoun).
 * **Le jour où les résultats électoraux ont été proclamés.**
-  /lə ʒuʁ u le ʁe.zyl.ta e.lɛk.tɔ.ʁo ɔ̃.t‿e.te pʁɔ.kla.me/
+  /lə ʒuʁ u le ʁe.zyl.ta e.lɛk.tɔ.ʁo ɔ̃.t‿e.te pʁɔ.kla.me/ (*luh ZHOOR oo lay ray-zewl-TAH ay-lehk-toh-ROH ohn-tay-TAY proh-klah-MAY*)
   *The day when the election results were announced.*
 * **À l'époque où les journaux papier dominaient le marché de l'information.**
-  /a l‿e.pɔk u le ʒuʁ.no pa.pje dɔ.mi.nɛ lə maʁ.ʃe də l‿ɛ̃.fɔʁ.ma.sjɔ̃/
+  /a l‿e.pɔk u le ʒuʁ.no pa.pje dɔ.mi.nɛ lə maʁ.ʃe də l‿ɛ̃.fɔʁ.ma.sjɔ̃/ (*ah lay-POHK oo lay zhoor-NOH pah-PYAY doh-mee-NEH luh mahr-SHAY duh lehn-for-mah-SYOHN*)
   *At the time when print newspapers dominated the news market.*
 * **Au moment où le premier ministre a pris la parole.**
-  /o mɔ.mɑ̃ u lə pʁə.mje mi.nistʁ a pʁi la pa.ʁɔl/
+  /o mɔ.mɑ̃ u lə pʁə.mje mi.nistʁ a pʁi la pa.ʁɔl/ (*oh moh-MAHN oo luh pruh-MYAY mee-NEEST-ruh ah PREE lah pah-ROHL*)
   *At the moment when the prime minister took the floor.*
 
 > [!WARNING]
@@ -134,14 +134,14 @@ Compare the synthesis:
 * Sentence B: *Tout le monde parle **de cet éditorial**.*
 * Synthesis with **dont**:
   **L'éditorial dont tout le monde parle aborde la transition énergétique.**
-  /l‿e.di.tɔ.ʁjal dɔ̃ tu lə mɔ̃d paʁl a.bɔʁd la tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik/
+  /l‿e.di.tɔ.ʁjal dɔ̃ tu lə mɔ̃d paʁl a.bɔʁd la tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik/ (*lay-dee-toh-RYAHL dohn too luh MOHND PARL ah-BOR-duh lah trahn-zee-SYOHN ay-nehr-zhay-TEEK*)
   *The editorial that everyone is talking about addresses the energy transition.*
 
 * Sentence A: *Le journaliste a obtenu les documents.*
 * Sentence B: *Il avait besoin **de ces documents** pour boucler son reportage.*
 * Synthesis with **dont**:
   **Les documents dont le journaliste avait besoin ont été déclassifiés.**
-  /le dɔ.ky.mɑ̃ dɔ̃ lə ʒuʁ.na.list a.vɛ bə.zwɛ̃ ɔ̃.t‿e.te de.kla.si.fje/
+  /le dɔ.ky.mɑ̃ dɔ̃ lə ʒuʁ.na.list a.vɛ bə.zwɛ̃ ɔ̃.t‿e.te de.kla.si.fje/ (*lay doh-kew-MAHN dohn luh zhoor-nah-LEEST ah-VEH buh-ZWEN ohn-tay-TAY day-klah-see-FYAY*)
   *The documents that the journalist needed have been declassified.*
 
 #### 2. Expressing Possession and Relationships (*Whose*)
@@ -150,10 +150,10 @@ In French, two word orders are possible, depending on the role of the possessed 
 * Possessed noun as **subject**: **[Antecedent] + dont + [Article + Possessed Noun] + [Verb]** (*l'écrivaine dont le dernier roman a remporté le prix*).
 * Possessed noun as **direct object**: **[Antecedent] + dont + [Subject + Verb] + [Article + Possessed Noun]** (*l'écrivaine dont j'ai lu le dernier roman*).
 * **Voici l'écrivaine dont le dernier roman a remporté le prix Goncourt.**
-  /vwa.si l‿e.kʁi.vɛn dɔ̃ lə dɛʁ.nje ʁɔ.mɑ̃ a ʁɑ̃.pɔʁ.te lə pʁi gɔ̃.kuʁ/
+  /vwa.si l‿e.kʁi.vɛn dɔ̃ lə dɛʁ.nje ʁɔ.mɑ̃ a ʁɑ̃.pɔʁ.te lə pʁi gɔ̃.kuʁ/ (*vwah-SEE lay-kree-VEHN dohn luh dehr-NYAY roh-MAHN ah rahn-por-TAY luh PREE gohn-KOOR*)
   *Here is the female author whose latest novel won the Goncourt prize.*
 * **Une entreprise québécoise dont les dirigeants favorisent le télétravail.**
-  /yn ɑ̃.tʁə.pʁiz ke.be.kwaz dɔ̃ le di.ʁi.ʒɑ̃ fa.vɔ.ʁiz lə te.le.tʁa.vaj/
+  /yn ɑ̃.tʁə.pʁiz ke.be.kwaz dɔ̃ le di.ʁi.ʒɑ̃ fa.vɔ.ʁiz lə te.le.tʁa.vaj/ (*ewn ahn-truh-PREEZ kay-bay-KWAHZ dohn lay dee-ree-ZHAHN fah-voh-REEZ luh tay-lay-trah-VY*)
   *A Quebec company whose leaders encourage telework.*
 
 > [!CAUTION]
@@ -165,7 +165,7 @@ In French, two word orders are possible, depending on the role of the possessed 
 #### 3. Expressing Quantity and Subsets (*Of Which / Of Whom*)
 *Dont* can specify a numeric portion or subset of a larger plural group:
 * **Le quotidien a interrogé cinquante témoins, dont douze ont accepté de témoigner sous serment.**
-  /lə kɔ.ti.djɛ̃ a ɛ̃.tɛ.ʁɔ.ʒe sɛ̃.kɑ̃t te.mwɛ̃, dɔ̃ duz ɔ̃.t‿ak.sɛp.te də te.mwa.ɲe su sɛʁ.mɑ̃/
+  /lə kɔ.ti.djɛ̃ a ɛ̃.tɛ.ʁɔ.ʒe sɛ̃.kɑ̃t te.mwɛ̃, dɔ̃ duz ɔ̃.t‿ak.sɛp.te də te.mwa.ɲe su sɛʁ.mɑ̃/ (*luh koh-tee-DYEN ah ehn-teh-roh-ZHAY sehn-KAHNT tay-MWEN, dohn DOOZ ohn-tahk-sehp-TAY duh tay-mwah-NYAY soo sehr-MAHN*)
   *The daily newspaper questioned fifty witnesses, of whom twelve agreed to testify under oath.*
 
 ---
@@ -174,11 +174,11 @@ In French, two word orders are possible, depending on the role of the possessed 
 
 What happens when there is **no specific noun antecedent**? When you want to refer to a whole clause, an unspecified idea, or translate "what" (in the sense of "that which"), French uses compound indefinite relatives: **ce qui**, **ce que**, **ce dont**, and **ce à quoi**.
 
-| Pronoun | Function | Formula / Followed By | Example |
-| :--- | :--- | :--- | :--- |
-| **ce qui** (/sə ki/) | Unknown Subject | *ce qui + verbe* | **Ce qui m'inquiète le plus, c'est la désinformation.** (/sə ki m‿ɛ̃.kjɛt lə plys, s‿ɛ la de.zɛ̃.fɔʁ.ma.sjɔ̃/) — *What worries me most is disinformation.* |
-| **ce que / ce qu'** (/sə kə/ / /sə k/) | Unknown Direct Object | *ce que + sujet + verbe* | **Je comprends parfaitement ce que vous voulez dire.** (/ʒə kɔ̃.pʁɑ̃ paʁ.fɛt.mɑ̃ sə kə vu vu.le diʁ/) — *I understand perfectly what you mean.* |
-| **ce dont** (/sə dɔ̃/) | Unknown Object of *de* | *ce dont + sujet + verbe (+ de)* | **Ce dont ce pays a besoin, c'est d'investissements massifs dans les infrastructures.** (/sə dɔ̃ sə pe.i a bə.zwɛ̃, s‿ɛ d‿ɛ̃.vɛs.tis.mɑ̃ ma.sif dɑ̃ le.z‿ɛ̃.fʁas.tʁyk.tyʁ/) — *What this country needs is massive investments in infrastructure.* |
+| Pronoun | Phonetic Respelling | Function | Formula / Followed By | Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **ce qui** (/sə ki/) | (suh KEE) | Unknown Subject | *ce qui + verbe* | **Ce qui m'inquiète le plus, c'est la désinformation.** (/sə ki m‿ɛ̃.kjɛt lə plys, s‿ɛ la de.zɛ̃.fɔʁ.ma.sjɔ̃/ — *suh KEE mehn-kyeht luh PLEWSS, seh lah day-zehn-for-mah-SYOHN*) — *What worries me most is disinformation.* |
+| **ce que / ce qu'** (/sə kə/ / /sə k/) | (suh kuh / suh k) | Unknown Direct Object | *ce que + sujet + verbe* | **Je comprends parfaitement ce que vous voulez dire.** (/ʒə kɔ̃.pʁɑ̃ paʁ.fɛt.mɑ̃ sə kə vu vu.le diʁ/ — *zhuh kohn-PRAHN pahr-feht-MAHN suh kuh voo voo-lay DEER*) — *I understand perfectly what you mean.* |
+| **ce dont** (/sə dɔ̃/) | (suh DOHN) | Unknown Object of *de* | *ce dont + sujet + verbe (+ de)* | **Ce dont ce pays a besoin, c'est d'investissements massifs dans les infrastructures.** (/sə dɔ̃ sə pe.i a bə.zwɛ̃, s‿ɛ d‿ɛ̃.vɛs.tis.mɑ̃ ma.sif dɑ̃ le.z‿ɛ̃.fʁas.tʁyk.tyʁ/ — *suh DOHN suh pay-EE ah buh-ZWEN, seh dehn-vehs-tees-MAHN mah-SEEF dahn lay-zehn-frahs-treek-TEWR*) — *What this country needs is massive investments in infrastructure.* |
 
 #### High-Scoring Rhetorical Structure: Cleft Sentences (*Mise en Relief*)
 In TCF Canada Speaking Task 3 and Writing Task 3, you can use *ce qui / ce que / ce dont* at the start of a sentence to emphasize your argument:
@@ -202,7 +202,7 @@ When judging grammatical range, examiners look for features that set B1 apart fr
   * *Je lis souvent La Presse. C'est un journal gratuit. Il propose des articles intéressants. Les journalistes parlent de la société québécoise.* (typical of A2)
 * **B1 Level (Integrated, coherent relative structures)**:
   * **Je consulte quotidiennement La Presse, qui est un journal numérique gratuit dont les articles analysent avec rigueur les enjeux de la société québécoise.** (typical of B1)
-  * /ʒə kɔ̃.sylt kɔ.ti.djɛn.mɑ̃ la pʁɛs, ki ɛ t‿œ̃ ʒuʁ.nal ny.me.ʁik gʁa.tɥi dɔ̃ le.z‿aʁ.tikl a.na.liz a.vɛk ʁi.gœʁ le.z‿ɑ̃.ʒø də la sɔ.sje.te ke.be.kwaz/
+  * /ʒə kɔ̃.sylt kɔ.ti.djɛn.mɑ̃ la pʁɛs, ki ɛ t‿œ̃ ʒuʁ.nal ny.me.ʁik gʁa.tɥi dɔ̃ le.z‿aʁ.tikl a.na.liz a.vɛk ʁi.gœʁ le.z‿ɑ̃.ʒø də la sɔ.sje.te ke.be.kwaz/ (*zhuh kohn-SEWLT koh-tee-dyeh-nuh-MAHN lah PREHSS, kee eh tuhn zhoor-NAHL new-may-REEK grah-TWEE dohn lay-zahr-TEE-kluh ah-nah-LEEZ ah-vehk ree-GUHR lay-zahn-ZHEUH duh lah soh-syay-TAY kay-bay-KWAHZ*)
 
 ---
 
