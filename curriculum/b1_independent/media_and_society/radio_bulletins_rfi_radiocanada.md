@@ -45,16 +45,16 @@ Every professional radio news broadcast follows a strict, predictable structural
 
 #### Essential broadcast terminology
 
-| French Broadcast Term | IPA Pronunciation | English Meaning | Practical Role in News |
-| :--- | :--- | :--- | :--- |
-| **Le présentateur / La présentatrice** | /pʁe.zɑ̃.ta.tœʁ / tʁis/ | The news anchor | Anchors the studio broadcast and links stories together. |
-| **L'envoyé(e) spécial(e)** | /l‿ɑ̃.vwa.je spe.sjal/ | Special correspondent | Journalist deployed directly to the scene of events. |
-| **Le reportage** | /lə ʁə.pɔʁ.taʒ/ | Field report / feature | In-depth story featuring field recordings and commentary. |
-| **L'extrait sonore / Le son** | /l‿ɛks.tʁɛ sɔ.nɔʁ / sɔ̃/ | Soundbite / audio clip | Recorded statement from a minister, witness, or expert. |
-| **Le flash d'information** | /lə flaʃ d‿ɛ̃.fɔʁ.ma.sjɔ̃/ | News flash / Bulletin | Brief 2-minute news summary broadcast at the top of the hour. |
-| **Prendre l'antenne** | /pʁɑ̃dʁ l‿ɑ̃.tɛn/ | To go on the air | The moment an anchor or station begins broadcasting live. |
-| **Rendre l'antenne** | /ʁɑ̃dʁ l‿ɑ̃.tɛn/ | To sign off the air | The formal closing statement handing back control to the studio. |
-| **En direct** | /ɑ̃ di.ʁɛkt/ | Live / Real-time | Broadcast occurring live without tape delay. |
+| French Broadcast Term | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Role in News |
+| :--- | :--- | :--- | :--- | :--- |
+| **Le présentateur / La présentatrice** | /pʁe.zɑ̃.ta.tœʁ / tʁis/ | (luh pray-zahn-tah-TUHR / lah pray-zahn-tah-TREESS) | The news anchor | Anchors the studio broadcast and links stories together. |
+| **L'envoyé(e) spécial(e)** | /l‿ɑ̃.vwa.je spe.sjal/ | (lahn-vwah-YAY spay-SYAHL) | Special correspondent | Journalist deployed directly to the scene of events. |
+| **Le reportage** | /lə ʁə.pɔʁ.taʒ/ | (luh ruh-por-TAHZH) | Field report / feature | In-depth story featuring field recordings and commentary. |
+| **L'extrait sonore / Le son** | /l‿ɛks.tʁɛ sɔ.nɔʁ / sɔ̃/ | (lehks-TREH soh-NOR / luh SOHN) | Soundbite / audio clip | Recorded statement from a minister, witness, or expert. |
+| **Le flash d'information** | /lə flaʃ d‿ɛ̃.fɔʁ.ma.sjɔ̃/ | (luh FLAHSH dehn-for-mah-SYOHN) | News flash / Bulletin | Brief 2-minute news summary broadcast at the top of the hour. |
+| **Prendre l'antenne** | /pʁɑ̃dʁ l‿ɑ̃.tɛn/ | (prahn-druh lahn-TEHN) | To go on the air | The moment an anchor or station begins broadcasting live. |
+| **Rendre l'antenne** | /ʁɑ̃dʁ l‿ɑ̃.tɛn/ | (rahn-druh lahn-TEHN) | To sign off the air | The formal closing statement handing back control to the studio. |
+| **En direct** | /ɑ̃ di.ʁɛkt/ | (ahn dee-REHKT) | Live / Real-time | Broadcast occurring live without tape delay. |
 
 ### Acoustic features of broadcast french: cadences elisions and breath groups
 
@@ -79,7 +79,7 @@ $$\text{Le} - \text{gou} - \text{ver} - \text{ne} - \text{ment} \quad (1 - 2 - 3
 
 In professional radio news, announcers maintain formal, elevated speech standards:
 - **Mandatory liaisons are always pronounced, and many optional ones are added**:  
-  *« Les‿autorités‿ont annoncé... »* (/le.z‿o.tɔ.ʁi.te.z‿ɔ̃ a.nɔ̃.se/): *les‿autorités* is mandatory; *autorités‿ont* is optional, typical of careful broadcast speech.
+  *« Les‿autorités‿ont annoncé... »* (/le.z‿o.tɔ.ʁi.te.z‿ɔ̃ a.nɔ̃.se/ — *lay-zoh-toh-ree-tay-zohn nah-nohn-SAY*): *les‿autorités* is mandatory; *autorités‿ont* is optional, typical of careful broadcast speech.
 - **Vowels remain pure**: No diphthongization in standard broadcast French.
 - **Elision of "e caduc" in rapid quotes**: While the studio anchor speaks formally, interviewed citizens or politicians frequently drop unstable *e* sounds (*« J'crois qu'y a pas d'problème »* instead of *« Je crois qu'il n'y a pas de problème »*).
 
