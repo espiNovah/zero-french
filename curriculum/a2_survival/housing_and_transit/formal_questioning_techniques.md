@@ -34,19 +34,19 @@ To form a simple inverted question, swap the conjugated verb and the subject pro
 [Conjugated Verb] - [Subject Pronoun] + [Complement] ?
 ```
 
-> **Avez-vous un logement disponible ?** — /a.ve vu œ̃ lɔʒ.mɑ̃ dis.pɔ.nibl/  
+> **Avez-vous un logement disponible ?** — /a.ve vu œ̃ lɔʒ.mɑ̃ dis.pɔ.nibl/ (ah-vay VOO uhn lohzh-mahn dees-poh-NEEBL ?)  
 > *Do you have a dwelling available?*
 
-> **Quand pouvez-vous faire la visite ?** — /kɑ̃ pu.ve vu fɛʁ la vi.zit/  
+> **Quand pouvez-vous faire la visite ?** — /kɑ̃ pu.ve vu fɛʁ la vi.zit/ (kahn poo-vay VOO fehr lah vee-ZEET ?)  
 > *When can you do the viewing?*
 
-> **Où se trouve-t-il ?** — /u sə tʁuv.til/  
+> **Où se trouve-t-il ?** — /u sə tʁuv.til/ (oo suh troov-TEEL ?)  
 > *Where is it located?*
 
 (With a noun subject, *Où se trouve l'appartement ?* is also correct, but that is **stylistic inversion** (no hyphen, no pronoun), not pronoun inversion.)
 
 In compound tenses like the passé composé, you invert **the auxiliary verb and the pronoun only**; the past participle follows:
-> **Avez-vous reçu mon dossier de candidature ?** — /a.ve vu ʁə.sy mɔ̃ dɔ.sje də kɑ̃.di.da.tyʁ/  
+> **Avez-vous reçu mon dossier de candidature ?** — /a.ve vu ʁə.sy mɔ̃ dɔ.sje də kɑ̃.di.da.tyʁ/ (ah-vay VOO ruh-sew mohn doh-syay duh kahn-dee-dah-TEWR ?)  
 > *Have you received my application file?*
 
 #### 2. The Euphonic -t- Insertion Rule
@@ -59,12 +59,12 @@ When a third-person verb (*il*, *elle*, *on*) ends in a vowel (such as *-e* or *
 [Verb ending in vowel] + -t- + [il / elle / on] ?
 ```
 
-| Normal Statement | Vowel Clash Avoided | Correct Inverted Form with Euphonic -t- | IPA Pronunciation |
-| :--- | :--- | :--- | :--- |
-| **Il habite à Laval.** | *Habite-il ?* (Incorrect) | **Habite-t-il à Laval ?** | /a.bi.til a la.val/ |
-| **Elle a un balcon.** | *A-elle ?* (Incorrect) | **A-t-elle un balcon ?** | /a.t‿ɛl œ̃ bal.kɔ̃/ |
-| **Le bus arrive.** | *Arrive-il ?* (Incorrect) | **Arrive-t-il bientôt ?** | /a.ʁiv.til bjɛ̃.to/ |
-| **On peut fumer.** | *Peut-on ?* (Already ends in -t) | **Peut-on fumer sur le balcon ?** | /pø.t‿ɔ̃ fy.me syʁ lə bal.kɔ̃/ |
+| Normal Statement | Vowel Clash Avoided | Correct Inverted Form with Euphonic -t- | IPA Pronunciation | Phonetic Respelling |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il habite à Laval.** | *Habite-il ?* (Incorrect) | **Habite-t-il à Laval ?** | /a.bi.til a la.val/ | **ah-beet-TEEL ah lah-VAHL ?** |
+| **Elle a un balcon.** | *A-elle ?* (Incorrect) | **A-t-elle un balcon ?** | /a.t‿ɛl œ̃ bal.kɔ̃/ | **ah-TEL uhn bahl-KOHN ?** |
+| **Le bus arrive.** | *Arrive-il ?* (Incorrect) | **Arrive-t-il bientôt ?** | /a.ʁiv.til bjɛ̃.to/ | **ah-reev-TEEL byen-TOH ?** |
+| **On peut fumer.** | *Peut-on ?* (Already ends in -t) | **Peut-on fumer sur le balcon ?** | /pø.t‿ɔ̃ fy.me syʁ lə bal.kɔ̃/ | **peuh-TOHN few-may sewr luh bahl-KOHN ?** |
 
 Notice that if the verb already ends in **-t** or **-d** (*peut-on*, *attend-il*), no extra *-t-* is added; the existing consonant provides the liaison sound!
 
@@ -81,16 +81,16 @@ In formal French, you cannot simply swap the noun and the verb (you cannot say *
 
 The noun remains at the beginning of the clause, and a matching pronoun (*il, elle, ils, elles*) is attached to the verb with a hyphen:
 
-> **Le loyer comprend-il le chauffage ?** — /lə lwa.je kɔ̃.pʁɑ̃.t‿il lə ʃo.faʒ/  
+> **Le loyer comprend-il le chauffage ?** — /lə lwa.je kɔ̃.pʁɑ̃.t‿il lə ʃo.faʒ/ (luh lwah-yay kohn-prahn-TEEL luh shoh-FAHZH ?)  
 > *Does the rent include heating?* (Literally: *The rent, includes it heating?*)
 
-> **Les animaux sont-ils acceptés dans l'immeuble ?** — /le.z‿a.ni.mo sɔ̃.t‿il.z‿ak.sɛp.te dɑ̃ l‿i.mœbl/  
+> **Les animaux sont-ils acceptés dans l'immeuble ?** — /le.z‿a.ni.mo sɔ̃.t‿il.z‿ak.sɛp.te dɑ̃ l‿i.mœbl/ (lay-zah-nee-moh sohn-teel-zahk-sep-tay dahn lee-MEUBL ?)  
 > *Are pets accepted in the building?*
 
-> **La station de métro est-elle proche du logement ?** — /la sta.sjɔ̃ də me.tʁo ɛ.t‿ɛl pʁɔʃ dy lɔʒ.mɑ̃/  
+> **La station de métro est-elle proche du logement ?** — /la sta.sjɔ̃ də me.tʁo ɛ.t‿ɛl pʁɔʃ dy lɔʒ.mɑ̃/ (lah stah-syohn duh may-troh eh-TEL prohsh dew lohzh-MAHN ?)  
 > *Is the subway station close to the dwelling?*
 
-> **Le propriétaire a-t-il fixé une date pour la signature ?** — /lə pʁɔ.pʁi.je.tɛʁ a.t‿il fik.se yn dat puʁ la si.ɲa.tyʁ/  
+> **Le propriétaire a-t-il fixé une date pour la signature ?** — /lə pʁɔ.pʁi.je.tɛʁ a.t‿il fik.se yn dat puʁ la si.ɲa.tyʁ/ (luh proh-pree-yay-tehr ah-TEEL feek-say ewn daht poor lah seen-yah-TEWR ?)  
 > *Has the landlord set a date for the signing?*
 
 Using complex noun inversion in formal written letters or during TCF Speaking Task 2 shows the examiner a confident command of formal syntax!
@@ -109,25 +109,25 @@ When asking whether something is true or possible, use an introductory condition
 [Polite Opener] + si / s' + [Subject] + [Verb] ...
 ```
 
-| Polite Opener | IPA Pronunciation | English Meaning | Example with *si* |
-| :--- | :--- | :--- | :--- |
-| **Pourriez-vous me dire si...** | /pu.ʁje vu mə diʁ si/ | Could you tell me if... | *Pourriez-vous me dire si le logement est libre ?* |
-| **J'aimerais savoir si...** | /ʒ‿ɛm.ʁɛ sa.vwaʁ si/ | I would like to know if... | *J'aimerais savoir si l'eau chaude est comprise.* |
-| **Je voudrais savoir si...** | /ʒə vu.dʁɛ sa.vwaʁ si/ | I would like to know if... | *Je voudrais savoir si un stationnement est inclus.* |
-| **Savez-vous si...** | /sa.ve vu si/ | Do you know if... | *Savez-vous si les animaux sont autorisés ?* |
-| **Serait-il possible de...** | /sə.ʁɛ.t‿il pɔ.sibl də/ | Would it be possible to... | *Serait-il possible de visiter ce samedi ?* |
+| Polite Opener | IPA Pronunciation | Phonetic Respelling | English Meaning | Example with *si* |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pourriez-vous me dire si...** | /pu.ʁje vu mə diʁ si/ | **poo-ryay VOO muh deer see...** | Could you tell me if... | *Pourriez-vous me dire si le logement est libre ?* |
+| **J'aimerais savoir si...** | /ʒ‿ɛm.ʁɛ sa.vwaʁ si/ | **zhem-reh sah-VWAHR see...** | I would like to know if... | *J'aimerais savoir si l'eau chaude est comprise.* |
+| **Je voudrais savoir si...** | /ʒə vu.dʁɛ sa.vwaʁ si/ | **zhuh voo-dreh sah-VWAHR see...** | I would like to know if... | *Je voudrais savoir si un stationnement est inclus.* |
+| **Savez-vous si...** | /sa.ve vu si/ | **sah-vay VOO see...** | Do you know if... | *Savez-vous si les animaux sont autorisés ?* |
+| **Serait-il possible de...** | /sə.ʁɛ.t‿il pɔ.sibl də/ | **suh-reh-TEEL poh-SEEBL duh...** | Would it be possible to... | *Serait-il possible de visiter ce samedi ?* |
 
 #### 2. Openers with Interrogative Words
 
 When inquiring about time, cost, location, or reasons, attach the interrogative word directly to the opener:
 
-> **Pourriez-vous m'indiquer quand le bail commence ?** — /pu.ʁje vu m‿ɛ̃.di.ke kɑ̃ lə baj kɔ.mɑ̃s/  
+> **Pourriez-vous m'indiquer quand le bail commence ?** — /pu.ʁje vu m‿ɛ̃.di.ke kɑ̃ lə baj kɔ.mɑ̃s/ (poo-ryay VOO mehn-dee-kay kahn luh bye koh-MAHNS ?)  
 > *Could you indicate to me when the lease begins?*
 
-> **J'aimerais savoir combien coûte le loyer mensuel.** — /ʒ‿ɛm.ʁɛ sa.vwaʁ kɔ̃.bjɛ̃ kut lə lwa.je mɑ̃.sɥɛl/  
+> **J'aimerais savoir combien coûte le loyer mensuel.** — /ʒ‿ɛm.ʁɛ sa.vwaʁ kɔ̃.bjɛ̃ kut lə lwa.je mɑ̃.sɥɛl/ (zhem-reh sah-VWAHR kohn-byen koot luh lwah-yay mahn-SWEHL.)  
 > *I would like to know how much the monthly rent costs.*
 
-> **Pouvez-vous m'expliquer où se trouve la buanderie ?** — /pu.ve vu m‿ɛks.pli.ke u sə tʁuv la bɥɑ̃.dʁi/  
+> **Pouvez-vous m'expliquer où se trouve la buanderie ?** — /pu.ve vu m‿ɛks.pli.ke u sə tʁuv la bɥɑ̃.dʁi/ (poo-vay VOO mehks-plee-kay oo suh troov lah bwehn-dree ?)  
 > *Can you explain to me where the laundry room is located?*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -146,12 +146,12 @@ Never combine an indirect question opener with a hyphenated pronoun inversion:
 
 When asking *"which"* or *"what"*, French uses the interrogative adjective **quel**. Because it is an adjective, it **must agree in gender and number with the noun it qualifies**:
 
-| Form | Gender & Number | IPA | Example Question | Translation |
-| :--- | :--- | :--- | :--- | :--- |
-| **Quel** | Masc. Sing. | /kɛl/ | **Quel est le montant du loyer ?** | What is the amount of the rent? |
-| **Quelle** | Fem. Sing. | /kɛl/ | **Quelle est la date de disponibilité ?** | What is the availability date? |
-| **Quels** | Masc. Plur. | /kɛl/ | **Quels sont les électroménagers inclus ?**| What appliances are included? |
-| **Quelles** | Fem. Plur. | /kɛl/ | **Quelles sont les conditions du bail ?** | What are the lease conditions? |
+| Form | Gender & Number | IPA | Phonetic Respelling | Example Question | Translation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Quel** | Masc. Sing. | /kɛl/ | **KEL** | **Quel est le montant du loyer ?** | What is the amount of the rent? |
+| **Quelle** | Fem. Sing. | /kɛl/ | **KEL** | **Quelle est la date de disponibilité ?** | What is the availability date? |
+| **Quels** | Masc. Plur. | /kɛl/ | **KEL** | **Quels sont les électroménagers inclus ?**| What appliances are included? |
+| **Quelles** | Fem. Plur. | /kɛl/ | **KEL** | **Quelles sont les conditions du bail ?** | What are the lease conditions? |
 
 Notice that phonetically, **quel, quelle, quels,** and **quelles** all sound 100% identical: **/kɛl/**. In written French, however, matching the spelling to the gender and number of the noun is part of grammatical accuracy, which examiners do assess!
 
@@ -215,19 +215,19 @@ This grid helps make sure you never run out of questions during the 3.5-minute i
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 12 formal questioning formulas and interrogative terms with IPA to your personal Anki flashcard deck:
-   - *pourriez-vous me dire si...* (/pu.ʁje vu mə diʁ si/) — could you tell me if...
-   - *j'aimerais savoir si...* (/ʒ‿ɛm.ʁɛ sa.vwaʁ si/) — I would like to know if...
-   - *serait-il possible de...* (/sə.ʁɛ.t‿il pɔ.sibl də/) — would it be possible to...
-   - *pouvez-vous m'indiquer...* (/pu.ve vu m‿ɛ̃.di.ke/) — can you indicate to me...
-   - *quel est le montant de...* (/kɛl ɛ lə mɔ̃.tɑ̃ də/) — what is the amount of...
-   - *quelle est la date de...* (/kɛl ɛ la dat də/) — what is the date of...
-   - *quels sont les services...* (/kɛl sɔ̃ le sɛʁ.vis/) — what are the services...
-   - *quelles sont les conditions...* (/kɛl sɔ̃ le kɔ̃.di.sjɔ̃/) — what are the conditions...
-   - *y a-t-il un...* (/j‿a.t‿il œ̃/) — is there a... (inverted)
-   - *le logement comprend-il...* (/lə lɔʒ.mɑ̃ kɔ̃.pʁɑ̃.t‿il/) — does the dwelling include...
-   - *est-il possible de visiter...* (/ɛ.t‿il pɔ.sibl də vi.zi.te/) — is it possible to visit...
-   - *je vous remercie pour ces précisions* (/ʒə vu ʁə.mɛʁ.si puʁ se pʁe.si.zjɔ̃/) — thank you for these clarifications
+   Add these 12 formal questioning formulas and interrogative terms with IPA and Phonetic Respelling to your personal Anki flashcard deck:
+   - *pourriez-vous me dire si...* (/pu.ʁje vu mə diʁ si/ — "poo-ryay VOO muh deer see...") — could you tell me if...
+   - *j'aimerais savoir si...* (/ʒ‿ɛm.ʁɛ sa.vwaʁ si/ — "zhem-reh sah-VWAHR see...") — I would like to know if...
+   - *serait-il possible de...* (/sə.ʁɛ.t‿il pɔ.sibl də/ — "suh-reh-TEEL poh-SEEBL duh...") — would it be possible to...
+   - *pouvez-vous m'indiquer...* (/pu.ve vu m‿ɛ̃.di.ke/ — "poo-vay VOO mehn-dee-KAY...") — can you indicate to me...
+   - *quel est le montant de...* (/kɛl ɛ lə mɔ̃.tɑ̃ də/ — "kel eh luh mohn-TAHN duh...") — what is the amount of...
+   - *quelle est la date de...* (/kɛl ɛ la dat də/ — "kel eh lah DAHT duh...") — what is the date of...
+   - *quels sont les services...* (/kɛl sɔ̃ le sɛʁ.vis/ — "kel sohn lay sehr-VEESS...") — what are the services...
+   - *quelles sont les conditions...* (/kɛl sɔ̃ le kɔ̃.di.sjɔ̃/ — "kel sohn lay kohn-dee-SYOHN...") — what are the conditions...
+   - *y a-t-il un...* (/j‿a.t‿il œ̃/ — "yah-TEEL uhn...") — is there a... (inverted)
+   - *le logement comprend-il...* (/lə lɔʒ.mɑ̃ kɔ̃.pʁɑ̃.t‿il/ — "luh lohzh-mahn kohn-prahn-TEEL...") — does the dwelling include...
+   - *est-il possible de visiter...* (/ɛ.t‿il pɔ.sibl də vi.zi.te/ — "eh-TEEL poh-SEEBL duh vee-zee-TAY...") — is it possible to visit...
+   - *je vous remercie pour ces précisions* (/ʒə vu ʁə.mɛʁ.si puʁ se pʁe.si.zjɔ̃/ — "zhuh voo ruh-mehr-SEE poor say pray-see-ZYOHN") — thank you for these clarifications
 
 3. **Step 3: Receptive Audio Roleplay Drill**  
    Listen to a simulated tenant-landlord phone interaction on [Podcast Français Facile — Dialogue de location et questions formelles](https://www.podcastfrancaisfacile.com/dialogue/a-lagence-immobiliere-2.html).  
