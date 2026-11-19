@@ -44,7 +44,7 @@ While the audio is playing:
   1. *Qui parle à qui ?* (colleagues, friends, official announcer to public, doctor to patient).
   2. *Où sont-ils ?* (in an office, train station, grocery store, university).
   3. *Quel est le ton ?* (worried, enthusiastic, formal, critical).
-* **Listen for Logical Articulators**: Notice how the speaker pivots: *« Oui, c'est vrai, mais en fait... »* or *« Cependant, je préférerais... »*. The real answer almost always follows the contrast marker!
+* **Listen for Logical Articulators**: Notice how the speaker pivots: *« Oui, c'est vrai, mais en fait... »* (/wi, s‿ɛ vʁɛ, mɛ.z‿ɑ̃ fɛt/ — *wee, seh VREH, meh-zahn FEHT*) or *« Cependant, je préférerais... »* (/sə.pɑ̃.dɑ̃, ʒə pʁe.fe.ʁə.ʁɛ/ — *suh-pahn-DAHN, zhuh pray-fay-ruh-REH*). The real answer almost always follows the contrast marker!
 
 #### Step 3: Immediate Decision and Mental Reset
 * **Select Immediately**: As soon as the recording ends, make your selection.
@@ -80,8 +80,8 @@ Multiple-choice options are written with plausible distractors. Mastering the **
 | :--- | :--- | :--- |
 | **1. The Exact Word Match Trap (*Le piège du mot à mot*)** | An incorrect option repeats the exact word heard in the audio, but distorts the context or negation. | Be suspicious when an option copies a word verbatim. Correct answers at B1 often use **synonyms or paraphrases**. |
 | **2. The Absolute Extrapolation Trap** | Options containing absolute qualifiers (*toujours, jamais, totalement, tous, uniquement, indispensable*). | Nuanced French discourse avoids absolutes. If the text says *« Beaucoup de citoyens hésitent »*, eliminate options stating *« Tous les citoyens refusent »*. |
-| **3. The Chronological Inversion Trap** | The option states something that was true in the past, but the prompt asks about current or future plans. | Pay strict attention to verb tenses: *« Auparavant nous faisions cela »* (past habit) vs *« Désormais nous privilégions... »* (current policy). |
-| **4. The Opposite Polarity Trap** | The option expresses the exact reverse of the speaker's viewpoint using subtle negative markers (*ne... guère, sans succès, loin de là*). | Check negative locutions: *« Ce n'est guère encourageant »* means *it is hardly encouraging / negative*. |
+| **3. The Chronological Inversion Trap** | The option states something that was true in the past, but the prompt asks about current or future plans. | Pay strict attention to verb tenses: *« Auparavant nous faisions cela »* (/o.pa.ʁa.vɑ̃ nu fə.zjɔ̃ sə.la/ — *oh-pah-rah-VAHN noo fuh-ZYOHN suh-LAH*) (past habit) vs *« Désormais nous privilégions... »* (/de.zɔʁ.mɛ nu pʁi.vi.le.ʒjɔ̃/ — *day-zohr-MEH noo pree-vee-lay-ZHYOHN*) (current policy). |
+| **4. The Opposite Polarity Trap** | The option expresses the exact reverse of the speaker's viewpoint using subtle negative markers (*ne... guère, sans succès, loin de là*). | Check negative locutions: *« Ce n'est guère encourageant »* (/sə n‿ɛ gɛʁ ɑ̃.ku.ʁa.ʒɑ̃/ — *suh neh GEHR ahn-koo-rah-ZHAHN*) means *it is hardly encouraging / negative*. |
 
 ---
 
