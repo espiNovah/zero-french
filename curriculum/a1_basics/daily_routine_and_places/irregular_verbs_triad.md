@@ -24,25 +24,25 @@ The verb **aller** (to go) is unique in French linguistics. Although its infinit
 
 Observe how native speakers conjugate and pronounce **aller**:
 
-> **Je vais au travail à pied.** — /ʒə vɛ o tʁa.vaj a pje/  
+> **Je vais au travail à pied.** — /ʒə vɛ o tʁa.vaj a pje/ (zhuh veh oh trah-VYE ah pyay)  
 > *I go to work on foot.*
 
-> **Comment allez-vous ? — Je vais très bien, merci.** — /kɔ.mɑ̃.t‿a.le vu ? — ʒə vɛ tʁɛ bjɛ̃, mɛʁ.si/  
+> **Comment allez-vous ? — Je vais très bien, merci.** — /kɔ.mɑ̃.t‿a.le vu ? — ʒə vɛ tʁɛ bjɛ̃, mɛʁ.si/ (kaw-mahn-tah-lay VOO ? — zhuh veh treh BYAN, mehr-SEE)  
 > *How are you? — I am doing very well, thank you.*
 
-> **Nous allons au centre-ville cet après-midi.** — /nu.z‿a.lɔ̃ o sɑ̃tʁ.vil sɛ.t‿a.pʁɛ.mi.di/  
+> **Nous allons au centre-ville cet après-midi.** — /nu.z‿a.lɔ̃ o sɑ̃tʁ.vil sɛ.t‿a.pʁɛ.mi.di/ (noo-zah-LOHN oh sahntr-VEEL seh-tah-preh-mee-DEE)  
 > *We are going downtown this afternoon.*
 
 Here is the complete present tense conjugation of **aller**:
 
-| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | **vais** | /ʒə vɛ/ | I go / I am going |
-| **Tu** | **vas** | /ty va/ | You go (informal) |
-| **Il / Elle / On** | **va** | /il va / ɛl va / ɔ̃ va/ | He / She / One goes |
-| **Nous** | **allons** | /nu.z‿a.lɔ̃/ | We go (mandatory liaison: /z/) |
-| **Vous** | **allez** | /vu.z‿a.le/ | You go (mandatory liaison: /z/) |
-| **Ils / Elles** | **vont** | /il vɔ̃ / ɛl vɔ̃/ | They go (nasal vowel /ɔ̃/) |
+| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | **vais** | /ʒə vɛ/ | **zhuh VEH** | I go / I am going |
+| **Tu** | **vas** | /ty va/ | **tew VAH** | You go (informal) |
+| **Il / Elle / On** | **va** | /il va / ɛl va / ɔ̃ va/ | **eel VAH / el VAH / ohn VAH** | He / She / One goes |
+| **Nous** | **allons** | /nu.z‿a.lɔ̃/ | **noo-zah-LOHN** | We go (mandatory liaison: /z/) |
+| **Vous** | **allez** | /vu.z‿a.le/ | **voo-zah-LAY** | You go (mandatory liaison: /z/) |
+| **Ils / Elles** | **vont** | /il vɔ̃ / ɛl vɔ̃/ | **eel VOHN / el VOHN** | They go (nasal vowel /ɔ̃/) |
 
 Notice that the final consonants in *vais*, *vas*, and *vont* are silent. Pay special attention to the 3rd person plural **ils vont** (/il vɔ̃/): do not confuse it with **ils sont** (/il sɔ̃/, from *être*) or **ils ont** (/il.z‿ɔ̃/, from *avoir*).
 
@@ -54,15 +54,15 @@ $$\text{Sujet} + \text{aller (présent)} + \text{verbe à l'infinitif}$$
 Observe how naturally this expresses upcoming events and intentions:
 
 > **Je vais déménager à Montréal le mois prochain.**  
-> /ʒə vɛ de.me.na.ʒe a mɔ̃.ʁe.al lə mwa pʁɔ.ʃɛ̃/  
+> /ʒə vɛ de.me.na.ʒe a mɔ̃.ʁe.al lə mwa pʁɔ.ʃɛ̃/ (zhuh veh day-may-nah-ZHAY ah mohn-ray-AL luh mwah praw-SHAN)  
 > *I am going to move to Montreal next month.*
 
 > **Nous allons visiter la ville ce week-end.**  
-> /nu.z‿a.lɔ̃ vi.zi.te la vil sə wi.kɛnd/  
+> /nu.z‿a.lɔ̃ vi.zi.te la vil sə wi.kɛnd/ (noo-zah-LOHN vee-zee-TAY lah veel suh week-END)  
 > *We are going to visit the city this weekend.*
 
 > **Elle va commencer un nouvel emploi lundi.**  
-> /ɛl va kɔ.mɑ̃.se œ̃ nu.vɛl ɑ̃.plwa lœ̃.di/  
+> /ɛl va kɔ.mɑ̃.se œ̃ nu.vɛl ɑ̃.plwa lœ̃.di/ (el vah kaw-mahn-SAY uhn noo-vel ahn-PLWAH luhn-DEE)  
 > *She is going to start a new job on Monday.*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
@@ -79,25 +79,25 @@ The verb **faire** translates broadly to both "to do" and "to make." Beyond its 
 
 Observe the conjugations in context:
 
-> **Qu'est-ce que vous faites dans la vie ?** — /kɛs.kə vu fɛt dɑ̃ la vi/  
+> **Qu'est-ce que vous faites dans la vie ?** — /kɛs.kə vu fɛt dɑ̃ la vi/ (kes-kuh voo FET dahn lah VEE)  
 > *What do you do for a living? (Common interview and exam question)*
 
-> **Je fais du vélo le samedi matin.** — /ʒə fɛ dy ve.lo lə sam.di ma.tɛ̃/  
+> **Je fais du vélo le samedi matin.** — /ʒə fɛ dy ve.lo lə sam.di ma.tɛ̃/ (zhuh feh dew vay-LOH luh sahm-dee mah-TAN)  
 > *I go cycling on Saturday mornings.*
 
-> **Ils font leurs devoirs à la bibliothèque.** — /il fɔ̃ lœʁ də.vwaʁ a la bi.bli.jɔ.tɛk/  
+> **Ils font leurs devoirs à la bibliothèque.** — /il fɔ̃ lœʁ də.vwaʁ a la bi.bli.jɔ.tɛk/ (eel fohn leuhr duh-VWAHR ah lah bee-blee-oh-TEK)  
 > *They do their homework at the library.*
 
 Here is the present tense conjugation of **faire**:
 
-| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | **fais** | /ʒə fɛ/ | I do / I make |
-| **Tu** | **fais** | /ty fɛ/ | You do (informal) |
-| **Il / Elle / On** | **fait** | /il fɛ / ɛl fɛ / ɔ̃ fɛ/ | He / She / One does |
-| **Nous** | **faisons** | /nu fə.zɔ̃/ | We do (pronounced /fə.zɔ̃/, NOT /fɛ.zɔ̃/!) |
-| **Vous** | **faites** | /vu fɛt/ | You do (formal/plural — irregular ending!) |
-| **Ils / Elles** | **font** | /il fɔ̃ / ɛl fɔ̃/ | They do / They make |
+| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | **fais** | /ʒə fɛ/ | **zhuh FEH** | I do / I make |
+| **Tu** | **fais** | /ty fɛ/ | **tew FEH** | You do (informal) |
+| **Il / Elle / On** | **fait** | /il fɛ / ɛl fɛ / ɔ̃ fɛ/ | **eel FEH / el FEH / ohn FEH** | He / She / One does |
+| **Nous** | **faisons** | /nu fə.zɔ̃/ | **noo fuh-ZOHN** | We do (pronounced /fə.zɔ̃/, NOT /fɛ.zɔ̃/!) |
+| **Vous** | **faites** | /vu fɛt/ | **voo FET** | You do (formal/plural — irregular ending!) |
+| **Ils / Elles** | **font** | /il fɔ̃ / ɛl fɔ̃/ | **eel FOHN / el FOHN** | They do / They make |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -112,25 +112,25 @@ Two forms of *faire* catch even advanced learners off guard:
 #### 1. Talking About the Weather with "Il fait"
 In French, you never use *être* to describe weather temperatures or conditions. You use the impersonal pronoun **il** followed by **fait**:
 
-| Weather Expression | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- |
-| **Il fait beau.** | /il fɛ bo/ | The weather is nice / sunny. |
-| **Il fait chaud.** | /il fɛ ʃo/ | It is hot. |
-| **Il fait froid.** | /il fɛ fʁwa/ | It is cold. |
-| **Il fait frais.** | /il fɛ fʁɛ/ | It is cool / chilly. |
-| **Il fait mauvais.** | /il fɛ mɔ.vɛ/ | The weather is bad. |
-| **Il fait du vent.** | /il fɛ dy vɑ̃/ | It is windy. |
-| **Il fait du soleil.** | /il fɛ dy sɔ.lɛj/ | It is sunny. |
+| Weather Expression | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- |
+| **Il fait beau.** | /il fɛ bo/ | **eel feh BOH** | The weather is nice / sunny. |
+| **Il fait chaud.** | /il fɛ ʃo/ | **eel feh SHOH** | It is hot. |
+| **Il fait froid.** | /il fɛ fʁwa/ | **eel feh FRWAH** | It is cold. |
+| **Il fait frais.** | /il fɛ fʁɛ/ | **eel feh FREH** | It is cool / chilly. |
+| **Il fait mauvais.** | /il fɛ mɔ.vɛ/ | **eel feh moh-VEH** | The weather is bad. |
+| **Il fait du vent.** | /il fɛ dy vɑ̃/ | **eel feh dew VAHN** | It is windy. |
+| **Il fait du soleil.** | /il fɛ dy sɔ.lɛj/ | **eel feh dew soh-LEH-yuh** | It is sunny. |
 
 #### 2. Hobbies, Sports, and Daily Activities
 When describing recreational activities with *faire*, French pairs *faire* with the partitive articles (**du**, **de la**, **de l'**):
-- **faire du sport** (/fɛʁ dy spɔʁ/) — to do sports / exercise
-- **faire du vélo** (/fɛʁ dy ve.lo/) — to cycle
-- **faire de la natation** (/fɛʁ də la na.ta.sjɔ̃/) — to swim
-- **faire de la randonnée** (/fɛʁ də la ʁɑ̃.dɔ.ne/) — to go hiking
-- **faire la cuisine** (/fɛʁ la kɥi.zin/) — to cook / do the cooking
-- **faire le ménage** (/fɛʁ lə me.naʒ/) — to clean the house / do housework
-- **faire les courses** (/fɛʁ le kuʁs/) — to go grocery shopping
+- **faire du sport** (/fɛʁ dy spɔʁ/ — (fehr dew SPOHR)) — to do sports / exercise
+- **faire du vélo** (/fɛʁ dy ve.lo/ — (fehr dew vay-LOH)) — to cycle
+- **faire de la natation** (/fɛʁ də la na.ta.sjɔ̃/ — (fehr duh lah nah-tah-SYOHN)) — to swim
+- **faire de la randonnée** (/fɛʁ də la ʁɑ̃.dɔ.ne/ — (fehr duh lah rahn-doh-NAY)) — to go hiking
+- **faire la cuisine** (/fɛʁ la kɥi.zin/ — (fehr lah kwee-ZEEN)) — to cook / do the cooking
+- **faire le ménage** (/fɛʁ lə me.naʒ/ — (fehr luh may-NAZH)) — to clean the house / do housework
+- **faire les courses** (/fɛʁ le kuʁs/ — (fehr lay KOORS)) — to go grocery shopping
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -148,25 +148,25 @@ The verb **venir** translates to "to come." It describes physical arrival, geogr
 
 Observe the conjugations in context:
 
-> **Je viens du Maroc et j'habite à Québec.** — /ʒə vjɛ̃ dy ma.ʁɔk e ʒa.bit a ke.bɛk/  
+> **Je viens du Maroc et j'habite à Québec.** — /ʒə vjɛ̃ dy ma.ʁɔk e ʒa.bit a ke.bɛk/ (zhuh vyan dew mah-ROK ay zhah-beet ah kay-BEK)  
 > *I come from Morocco and I live in Quebec City.*
 
-> **D'où venez-vous ?** — /du və.ne vu/  
+> **D'où venez-vous ?** — /du və.ne vu/ (doo vuh-nay-VOO)  
 > *Where do you come from? (Formal origin inquiry)*
 
-> **Ils viennent de commencer la réunion.** — /il vjɛn də kɔ.mɑ̃.se la ʁe.y.njɔ̃/  
+> **Ils viennent de commencer la réunion.** — /il vjɛn də kɔ.mɑ̃.se la ʁe.y.njɔ̃/ (eel vyen duh kaw-mahn-SAY lah ray-ew-NYOHN)  
 > *They just started the meeting.*
 
 Here is the present tense conjugation of **venir**:
 
-| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | **viens** | /ʒə vjɛ̃/ | I come |
-| **Tu** | **viens** | /ty vjɛ̃/ | You come (informal) |
-| **Il / Elle / On** | **vient** | /il vjɛ̃ / ɛl vjɛ̃ / ɔ̃ vjɛ̃/ | He / She / One comes |
-| **Nous** | **venons** | /nu və.nɔ̃/ | We come |
-| **Vous** | **venez** | /vu və.ne/ | You come (formal/plural) |
-| **Ils / Elles** | **viennent** | /il vjɛn / ɛl vjɛn/ | They come (doubled *n*, oral /ɛn/) |
+| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | **viens** | /ʒə vjɛ̃/ | **zhuh VYAN** | I come |
+| **Tu** | **viens** | /ty vjɛ̃/ | **tew VYAN** | You come (informal) |
+| **Il / Elle / On** | **vient** | /il vjɛ̃ / ɛl vjɛ̃ / ɔ̃ vjɛ̃/ | **eel VYAN / el VYAN / ohn VYAN** | He / She / One comes |
+| **Nous** | **venons** | /nu və.nɔ̃/ | **noo vuh-NOHN** | We come |
+| **Vous** | **venez** | /vu və.ne/ | **voo vuh-NAY** | You come (formal/plural) |
+| **Ils / Elles** | **viennent** | /il vjɛn / ɛl vjɛn/ | **eel VYEN / el VYEN** | They come (doubled *n*, oral /ɛn/) |
 
 Notice the phonetic contrast between singular forms (*viens/vient*: nasal vowel **/jɛ̃/**) and the third-person plural (*viennent*: oral open vowel plus audible consonant **/jɛn/**).
 
@@ -185,15 +185,15 @@ $$\text{Sujet} + \text{venir (présent)} + \text{de (ou d')} + \text{verbe à l'
 Observe how easily this conveys recent events:
 
 > **Je viens de terminer mon café.**  
-> /ʒə vjɛ̃ də tɛʁ.mi.ne mɔ̃ ka.fe/  
+> /ʒə vjɛ̃ də tɛʁ.mi.ne mɔ̃ ka.fe/ (zhuh vyan duh tehr-mee-NAY mohn kah-FAY)  
 > *I just finished my coffee.*
 
 > **Le train vient d'arriver en gare.**  
-> /lə tʁɛ̃ vjɛ̃ da.ʁi.ve ɑ̃ ɡaʁ/  
+> /lə tʁɛ̃ vjɛ̃ da.ʁi.ve ɑ̃ ɡaʁ/ (luh tran vyan dah-ree-VAY ahn GAHR)  
 > *The train just arrived at the station.*
 
 > **Nous venons de signer notre bail à Gatineau.**  
-> /nu və.nɔ̃ də si.ɲe nɔtʁ baj a ɡa.ti.no/  
+> /nu və.nɔ̃ də si.ɲe nɔtʁ baj a ɡa.ti.no/ (noo vuh-NOHN duh see-NYAY noh-truh BYE ah gah-tee-NOH)  
 > *We just signed our lease in Gatineau.*
 
 ### Synthesizing the triad: A complete day of actions
@@ -236,21 +236,21 @@ Observe the variety of structures:
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 high-frequency expressions and conjugated forms with IPA to your Anki deck:
-   - *Je vais* (/ʒə vɛ/) — I go / I am going
-   - *Nous allons* (/nu.z‿a.lɔ̃/) — We go
-   - *Ils vont* (/il vɔ̃/) — They go
-   - *Je fais* (/ʒə fɛ/) — I do / I make
-   - *Vous faites* (/vu fɛt/) — You do / You make (formal/plural)
-   - *Ils font* (/il fɔ̃/) — They do / They make
-   - *Il fait beau* (/il fɛ bo/) — The weather is nice
-   - *Il fait froid* (/il fɛ fʁwa/) — It is cold
-   - *Faire du sport* (/fɛʁ dy spɔʁ/) — To exercise / do sports
-   - *Faire l'épicerie (QC)* (/fɛʁ le.pi.sʁi/) — To do grocery shopping
-   - *Je viens de...* (/ʒə vjɛ̃ də/) — I just (did something)
-   - *Ils viennent* (/il vjɛn/) — They come
-   - *D'où venez-vous ?* (/du və.ne vu/) — Where do you come from? (formal)
-   - *Je vais + infinitif* (/ʒə vɛ/) — I am going to (near future)
+   Add these 14 high-frequency expressions and conjugated forms with IPA and English phonetic respelling to your Anki deck:
+   - *Je vais* (/ʒə vɛ/ — (zhuh VEH)) — I go / I am going
+   - *Nous allons* (/nu.z‿a.lɔ̃/ — (noo-zah-LOHN)) — We go
+   - *Ils vont* (/il vɔ̃/ — (eel VOHN)) — They go
+   - *Je fais* (/ʒə fɛ/ — (zhuh FEH)) — I do / I make
+   - *Vous faites* (/vu fɛt/ — (voo FET)) — You do / You make (formal/plural)
+   - *Ils font* (/il fɔ̃/ — (eel FOHN)) — They do / They make
+   - *Il fait beau* (/il fɛ bo/ — (eel feh BOH)) — The weather is nice
+   - *Il fait froid* (/il fɛ fʁwa/ — (eel feh FRWAH)) — It is cold
+   - *Faire du sport* (/fɛʁ dy spɔʁ/ — (fehr dew SPOHR)) — To exercise / do sports
+   - *Faire l'épicerie (QC)* (/fɛʁ le.pi.sʁi/ — (fehr lay-peess-REE)) — To do grocery shopping
+   - *Je viens de...* (/ʒə vjɛ̃ də/ — (zhuh vyan duh)) — I just (did something)
+   - *Ils viennent* (/il vjɛn/ — (eel VYEN)) — They come
+   - *D'où venez-vous ?* (/du və.ne vu/ — (doo vuh-nay-VOO)) — Where do you come from? (formal)
+   - *Je vais + infinitif* (/ʒə vɛ/ — (zhuh VEH)) — I am going to (near future)
 
 3. **Receptive Listening Task**  
    Listen to the A1 audio excerpt on daily plans and routines from [TV5Monde — Parler de ses projets et activités (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
