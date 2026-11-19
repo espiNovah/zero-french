@@ -40,12 +40,12 @@ $$\text{Conditionnel Passé} = \text{Auxiliary (AVOIR or ÊTRE in Conditionnel P
 | AUXILIARY CONJUGATION IN CONDITIONNEL PRÉSENT                     |
 |                                                                   |
 | AVOIR Stem (aur-)                | ÊTRE Stem (ser-)               |
-| - J'aurais        /ʒ‿o.ʁɛ/       | - Je serais       /ʒə sə.ʁɛ/   |
-| - Tu aurais       /ty o.ʁɛ/      | - Tu serais       /ty sə.ʁɛ/   |
-| - Il/Elle aurait  /i.l‿o.ʁɛ/     | - Il/Elle serait  /il sə.ʁɛ/   |
-| - Nous aurions    /nu.z‿o.ʁjɔ̃/   | - Nous serions    /nu sə.ʁjɔ̃/  |
-| - Vous auriez     /vu.z‿o.ʁje/   | - Vous seriez     /vu sə.ʁje/  |
-| - Ils/Elles auraient /il.z‿o.ʁɛ/| - Ils/Elles seraient /il sə.ʁɛ/|
+| - J'aurais (zhoh-REH) /ʒ‿o.ʁɛ/   | - Je serais (zhuh suh-REH) /ʒə sə.ʁɛ/ |
+| - Tu aurais (tew oh-REH) /ty o.ʁɛ/ | - Tu serais (tew suh-REH) /ty sə.ʁɛ/ |
+| - Il/Elle aurait (eel/ehl oh-REH) /i.l‿o.ʁɛ/ | - Il/Elle serait (eel/ehl suh-REH) /il sə.ʁɛ/ |
+| - Nous aurions (noo-zoh-RYOHN) /nu.z‿o.ʁjɔ̃/ | - Nous serions (noo suh-RYOHN) /nu sə.ʁjɔ̃/ |
+| - Vous auriez (voo-zoh-RYAY) /vu.z‿o.ʁje/ | - Vous seriez (voo suh-RYAY) /vu sə.ʁje/ |
+| - Ils/Elles auraient (eel/ehl-zoh-REH) /il.z‿o.ʁɛ/ | - Ils/Elles seraient (eel/ehl suh-REH) /il sə.ʁɛ/ |
 +-------------------------------------------------------------------+
 ```
 
@@ -54,24 +54,24 @@ $$\text{Conditionnel Passé} = \text{Auxiliary (AVOIR or ÊTRE in Conditionnel P
 1. **Verbs taking AVOIR**:
    - The vast majority of French verbs use *avoir*.
    - The past participle does **not** agree with the subject:
-     **« Elle aurait compris »** — /ɛ.l‿o.ʁɛ kɔ̃.pʁi/ (*She would have understood*).
+     **« Elle aurait compris »** — /ɛ.l‿o.ʁɛ kɔ̃.pʁi/ (ehl oh-reh kohn-PREE) (*She would have understood*).
    - The participle agrees in gender and number **only if a direct object precedes the verb**:
-     **« Les mesures qu'ils auraient adoptées »** — /le mə.zyʁ kil.z‿o.ʁɛ.t‿a.dɔp.te/ (*The measures that they would have adopted* — feminine plural *adoptées*).
+     **« Les mesures qu'ils auraient adoptées »** — /le mə.zyʁ kil.z‿o.ʁɛ.t‿a.dɔp.te/ (lay muh-ZEWR keel-zoh-reh-tah-dohp-TAY) (*The measures that they would have adopted* — feminine plural *adoptées*).
 
 2. **Verbs taking ÊTRE**:
    - Movement verbs (the 14 verbs of the *Maison d'Être*: *aller, venir, arriver, partir, monter, descendre, naître, mourir...*) and all **pronominal/reflexive verbs**.
    - With movement verbs, the past participle **always agrees** with the subject. With pronominal verbs, it agrees with a **preceding direct object** — usually the reflexive *se* itself, hence agreement with the subject. When *se* is an **indirect** object (*se téléphoner, se parler, se plaire*), there is **no agreement**: *elles se seraient téléphoné*.
-     **« Elle serait venue »** — /ɛl sə.ʁɛ və.ny/ (*She would have come* — feminine *e*).
-     **« Ils se seraient plaints »** — /il sə sə.ʁɛ plɛ̃/ (*They would have complained* — masculine plural *s*).
+     **« Elle serait venue »** — /ɛl sə.ʁɛ və.ny/ (ehl suh-reh vuh-NEW) (*She would have come* — feminine *e*).
+     **« Ils se seraient plaints »** — /il sə sə.ʁɛ plɛ̃/ (eel suh suh-reh PLEHN) (*They would have complained* — masculine plural *s*).
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
 #### Exam tip: Acoustic Liaison Trap in Aurait vs Auraient
 
-In spoken French, **aurait** (3rd singular) and **auraient** (3rd plural) sound identical: **/o.ʁɛ/**. 
+In spoken French, **aurait** (3rd singular) and **auraient** (3rd plural) sound identical: **/o.ʁɛ/** (oh-REH). 
 - However, when followed by a word starting with a vowel, the liaison reveals the plural:
-  - **« Il aurait aimé »** — /i.l‿o.ʁɛ.t‿e.me/ (*liaison with [t]*)
-  - **« Ils auraient aimé »** — /il.z‿o.ʁɛ.t‿e.me/ (*liaison with [z] on ils + [t] on auraient*)
+  - **« Il aurait aimé »** — /i.l‿o.ʁɛ.t‿e.me/ (eel oh-reh-tay-MAY) (*liaison with [t]*)
+  - **« Ils auraient aimé »** — /il.z‿o.ʁɛ.t‿e.me/ (eel-zoh-reh-tay-MAY) (*liaison with [z] on ils + [t] on auraient*)
 - Train your ear to catch the subtle initial /z/ sound on the subject pronoun (*ils_auraient* vs *il_aurait*) in TCF Listening audio recordings.
 
 </div>
@@ -104,7 +104,7 @@ In French rhetorical argumentation, hypotheses are codified across three distinc
 
 The most heavily penalized error in French conditional syntax is placing the conditional tense in the *si*-clause:
 - **Catastrophic Error**: *« Si j'aurais su, je serais venu... »* (a classic error that examiners notice immediately).
-- **Correct B2/C1 Standard**: **« Si j'avais su, je serais venu... »** — /si ʒ‿a.vɛ sy ʒə sə.ʁɛ və.ny/ (*If I had known, I would have come...*)
+- **Correct B2/C1 Standard**: **« Si j'avais su, je serais venu... »** — /si ʒ‿a.vɛ sy ʒə sə.ʁɛ və.ny/ (see zhah-veh SEW, zhuh suh-reh vuh-NEW...) (*If I had known, I would have come...*)
 
 **The Mnemonic**: Remember the classic French grammatical proverb: **« Les "si" n'aiment pas les "-rais" ! »** (*The word "si" hates the "-rais" ending!*). The clause introduced by *si* must strictly take the **plus-que-parfait** (*avais su, étions partis, avait compris*).
 
@@ -116,7 +116,7 @@ $$\text{Si} + \text{Plus-que-parfait (Past Cause)} \longrightarrow \text{Conditi
 
 - **Example**:
   **« Si le gouvernement avait investi massivement dans les transports ferrés il y a dix ans, nos villes ne souffriraient pas d'une telle congestion aujourd'hui. »**  
-  — /si lə ɡu.vɛʁ.nə.mɑ̃ a.vɛ.t‿ɛ̃.vɛs.ti ma.siv.mɑ̃ dɑ̃ le tʁɑ̃s.pɔʁ fɛ.ʁe il j‿a di.z‿ɑ̃ no vil nə su.fʁi.ʁɛ pa d‿yn tɛl kɔ̃.ʒɛs.tjɔ̃ o.ʒuʁ.dɥi/  
+  — /si lə ɡu.vɛʁ.nə.mɑ̃ a.vɛ.t‿ɛ̃.vɛs.ti ma.siv.mɑ̃ dɑ̃ le tʁɑ̃s.pɔʁ fɛ.ʁe il j‿a di.z‿ɑ̃ no vil nə su.fʁi.ʁɛ pa d‿yn tɛl kɔ̃.ʒɛs.tjɔ̃ o.ʒuʁ.dɥi/ (see luh goo-vehr-nuh-mahn ah-veht-ehn-vehs-tee mah-seev-mahn dahn lay trahns-pohr feh-RAY eel yah deez-AHN noh veel nuh soo-free-reh pah dewn tehl kohn-zhehs-TYOHN oh-zhoor-DWEE)  
   *(If the government had invested massively in rail transport ten years ago, our cities would not be suffering from such congestion today.)*
 
 Deploying a mixed hypothesis in TCF Writing Task 2 or Speaking Task 3 provides undeniable evidence of C1 syntactic command.
@@ -146,25 +146,25 @@ The *conditionnel passé* serves three indispensable communicative functions on 
 #### 1. Expressing Personal and Collective Regret
 Use in Writing Task 1 (apologizing for an absence) and Task 2 (reflecting on a personal experience):
 - **« J'aurais souhaité être des vôtres, mais des impératifs familiaux m'en ont empêché. »**  
-  — /ʒ‿o.ʁɛ swɛ.te ɛtʁ de votʁ mɛ de.z‿ɛ̃.pe.ʁa.tif fa.mi.ljo m‿ɑ̃n‿ɔ̃t‿ɑ̃.pɛ.ʃe/  
+  — /ʒ‿o.ʁɛ swɛ.te ɛtʁ de votʁ mɛ de.z‿ɛ̃.pe.ʁa.tif fa.mi.ljo m‿ɑ̃n‿ɔ̃t‿ɑ̃.pɛ.ʃe/ (zhoh-reh sweh-tay EH-truh day VOHTR meh day-zehn-pay-rah-teef fah-mee-LYOH mahn-ohn-tahn-peh-SHAY)  
   *(I would have wished to be among you, but family obligations prevented me.)*
 - **« Avec le recul, nous aurions dû privilégier une solution plus durable. »**  
-  — /a.vɛk lə ʁə.kyl nu.z‿o.ʁjɔ̃ dy pʁi.vi.le.ʒje yn sɔ.ly.sjɔ̃ ply dy.ʁabl/  
+  — /a.vɛk lə ʁə.kyl nu.z‿o.ʁjɔ̃ dy pʁi.vi.le.ʒje yn sɔ.ly.sjɔ̃ ply dy.ʁabl/ (ah-vehk luh ruh-KEWL noo-zoh-ryohn DEW pree-vee-lay-zhyay ewn soh-lew-syohn plew dew-RAH-bluh)  
   *(With hindsight, we ought to have favored a more sustainable solution.)*
 
 #### 2. Diplomatic Reproach and Civic Policy Critique
 Use in Writing Task 2 (complaining to municipal authorities) and Task 3 (analyzing debate failures):
 - **« La municipalité aurait dû consulter les citoyens avant d'engager ces travaux colossaux. »**  
-  — /la my.ni.si.pa.li.te o.ʁɛ dy kɔ̃.syl.te le si.twa.jɛ̃ a.vɑ̃ d‿ɑ̃.ɡa.ʒe se tʁa.vo kɔ.lɔ.so/  
+  — /la my.ni.si.pa.li.te o.ʁɛ dy kɔ̃.syl.te le si.twa.jɛ̃ a.vɑ̃ d‿ɑ̃.ɡa.ʒe se tʁa.vo kɔ.lɔ.so/ (lah mew-nee-see-pah-lee-TAY oh-reh dew kohn-sewl-TAY lay see-twah-YEHN ah-vahn dahn-gah-zhay say trah-voh koh-loh-SOH)  
   *(The municipality should have consulted citizens before undertaking these colossal works.)*
 - **« Il aurait fallu instaurer un cadre réglementaire strict dès l'émergence de cette technologie. »**  
-  — /i.l‿o.ʁɛ fa.ly ɛ̃s.to.ʁe œ̃ ka.dʁə ʁe.ɡlə.mɑ̃.tɛʁ stʁikt dɛ l‿e.mɛʁ.ʒɑ̃s də sɛt tɛk.nɔ.lɔ.ʒi/  
+  — /i.l‿o.ʁɛ fa.ly ɛ̃s.to.ʁe œ̃ ka.dʁə ʁe.ɡlə.mɑ̃.tɛʁ stʁikt dɛ l‿e.mɛʁ.ʒɑ̃s də sɛt tɛk.nɔ.lɔ.ʒi/ (eel oh-reh fah-LEW ehn-stoh-RAY uhn KAH-druh ray-gluh-mahn-TEHR STREEKT deh lay-mehr-ZHAHNS duh seht tehk-noh-loh-ZHEE)  
   *(It would have been necessary to establish a strict regulatory framework right from the emergence of this technology.)*
 
 #### 3. The Journalistic Conditional of Attribution (Precautionary Tone)
 In TCF Listening (Radio-Canada broadcasts) and Reading editorials, journalists use the *conditionnel passé* to report claims without verifying their factual accuracy:
 - **« D'après des révélations récentes, l'entreprise aurait dissimulé des rapports alarmants sur la toxicité de ses produits. »**  
-  — /d‿a.pʁɛ de ʁe.ve.la.sjɔ̃ ʁe.sɑ̃t l‿ɑ̃.tʁə.pʁiz o.ʁɛ di.si.my.le de ʁa.pɔʁ a.laʁ.mɑ̃/  
+  — /d‿a.pʁɛ de ʁe.ve.la.sjɔ̃ ʁe.sɑ̃t l‿ɑ̃.tʁə.pʁiz o.ʁɛ di.si.my.le de ʁa.pɔʁ a.laʁ.mɑ̃/ (dah-preh day ray-vay-lah-syohn ray-SAHNT lahn-truh-PREEZ oh-reh dees-see-mew-LAY day rah-pohr ah-lahr-MAHN)  
   *(According to recent revelations, the company allegedly concealed alarming reports regarding the toxicity of its products.)*
 - **Distractor Warning**: When you hear *aurait dissimulé*, the author is **alleging**, not confirming as an undisputed fact. If an MCQ option asserts: *« L'entreprise a prouvé son innocence »* or *« Il est certain que l'entreprise a menti »*, evaluate whether the text's modality is factual or hypothetical!
 
@@ -222,20 +222,20 @@ Transform the following 10 present or conversational statements into sophisticat
 
 Master these 12 indispensable rhetorical units for expressing regrets, reproaches, and retrospective nuance:
 
-| French Formula | IPA Transcription | English Translation | Communicative Register |
-| :--- | :--- | :--- | :--- |
-| **Il aurait fallu (+ inf.)** | /i.l‿o.ʁɛ fa.ly/ | *It would have been necessary to...* | Policy critique |
-| **Nous aurions dû (+ inf.)** | /nu.z‿o.ʁjɔ̃ dy/ | *We ought to have...* | Collective regret |
-| **Vous auriez pu (+ inf.)** | /vu.z‿o.ʁje py/ | *You could have...* | Diplomatic reproach |
-| **J'aurais aimé croire que...** | /ʒ‿o.ʁɛ.t‿e.me kʁwaʁ kə/ | *I would have liked to believe that...* | Nuanced disillusionment |
-| **Le bilan aurait été tout autre**| /lə bi.lɑ̃ o.ʁɛ.t‿e.te tu.t‿otʁ/| *The outcome would have been entirely different*| Analytical synthesis |
-| **N'eût été (+ nom) [Literary]** | /n‿y.t‿e.te/ | *Had it not been for...* | Ultra-high register hypothesis |
-| **Selon toute vraisemblance, il aurait...** | /sə.lɔ̃ tut vʁɛ.sɑ̃.blɑ̃s/ | *In all likelihood, he allegedly...* | Epistemic journalism |
-| **Qui aurait cru que... ?** | /ki o.ʁɛ kʁy kə/ | *Who would have believed that...?* | Rhetorical surprise |
-| **Il aurait été préférable de...**| /i.l‿o.ʁɛ.t‿e.te pʁe.fe.ʁabl də/| *It would have been preferable to...* | Constructive recommendation |
-| **Une opportunité qu'il aurait fallu saisir**| /yn ɔ.pɔʁ.ty.ni.te k‿i.l‿o.ʁɛ fa.ly se.ziʁ/| *An opportunity that should have been seized*| Civic editorial stance |
-| **À en croire les rumeurs, ils auraient...**| /a ɑ̃ kʁwaʁ le ʁy.mœʁ/ | *According to rumors, they allegedly...* | Unconfirmed news analysis |
-| **Cela aurait pu être évité** | /sə.la o.ʁɛ py ɛtʁ‿e.vi.te/ | *That could have been avoided* | Final evaluation verdict |
+| French Formula | IPA Transcription | Phonetic Respelling | English Translation | Communicative Register |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il aurait fallu (+ inf.)** | /i.l‿o.ʁɛ fa.ly/ | (eel oh-reh fah-LEW) | *It would have been necessary to...* | Policy critique |
+| **Nous aurions dû (+ inf.)** | /nu.z‿o.ʁjɔ̃ dy/ | (noo-zoh-RYOHN DEW) | *We ought to have...* | Collective regret |
+| **Vous auriez pu (+ inf.)** | /vu.z‿o.ʁje py/ | (voo-zoh-RYAY PEW) | *You could have...* | Diplomatic reproach |
+| **J'aurais aimé croire que...** | /ʒ‿o.ʁɛ.t‿e.me kʁwaʁ kə/ | (zhoh-reh-tay-MAY KRWAHR kuh) | *I would have liked to believe that...* | Nuanced disillusionment |
+| **Le bilan aurait été tout autre**| /lə bi.lɑ̃ o.ʁɛ.t‿e.te tu.t‿otʁ/| (luh bee-LAHN oh-reh-tay-tay toot-OH-truh) | *The outcome would have been entirely different*| Analytical synthesis |
+| **N'eût été (+ nom) [Literary]** | /n‿y.t‿e.te/ | (new-tay-TAY) | *Had it not been for...* | Ultra-high register hypothesis |
+| **Selon toute vraisemblance, il aurait...** | /sə.lɔ̃ tut vʁɛ.sɑ̃.blɑ̃s/ | (suh-lohn toot vreh-sahn-BLAHNS, eel oh-REH...) | *In all likelihood, he allegedly...* | Epistemic journalism |
+| **Qui aurait cru que... ?** | /ki o.ʁɛ kʁy kə/ | (kee oh-reh KREW kuh... ?) | *Who would have believed that...?* | Rhetorical surprise |
+| **Il aurait été préférable de...**| /i.l‿o.ʁɛ.t‿e.te pʁe.fe.ʁabl də/| (eel oh-reh-tay-tay pray-fay-RAH-bluh duh) | *It would have been preferable to...* | Constructive recommendation |
+| **Une opportunité qu'il aurait fallu saisir**| /yn ɔ.pɔʁ.ty.ni.te k‿i.l‿o.ʁɛ fa.ly se.ziʁ/| (ewn oh-pohr-tew-nee-TAY keel oh-reh fah-LEW say-ZEER) | *An opportunity that should have been seized*| Civic editorial stance |
+| **À en croire les rumeurs, ils auraient...**| /a ɑ̃ kʁwaʁ le ʁy.mœʁ/ | (ah ahn KRWAHR lay rew-MUHR, eel-zoh-REH...) | *According to rumors, they allegedly...* | Unconfirmed news analysis |
+| **Cela aurait pu être évité** | /sə.la o.ʁɛ py ɛtʁ‿e.vi.te/ | (suh-lah oh-reh PEW EH-truh ay-vee-TAY) | *That could have been avoided* | Final evaluation verdict |
 
 ---
 
