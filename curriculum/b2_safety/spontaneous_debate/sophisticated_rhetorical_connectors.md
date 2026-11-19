@@ -62,7 +62,7 @@ Rhetorical connectors are the mortar between your argumentative bricks. In high-
 When building a persuasive case in Writing Task 3 or Speaking Task 3, you must guide your audience up an ascending ladder of importance.
 
 #### 1. Non seulement... mais encore / mais bien plus
-- **Pronunciation (IPA)**: [nɔ̃ səlmɑ̃ ... mɛz ɑ̃kɔʁ] / [mɛ bjɛ̃ plys]
+- **Pronunciation (IPA)**: [nɔ̃ səlmɑ̃ ... mɛz ɑ̃kɔʁ] / [mɛ bjɛ̃ plys] (nohn suhl-MAHN ... may-zahn-KOHR / meh byen PLEWSS)
 - **Exact Rhetorical Function**: Establishes a bilateral correlative structure that elevates the second argument as a decisive escalation beyond the first.
 - **Syntactic Rule**: Symmetrical balance. If *non seulement* introduces a verb clause, *mais encore* must introduce an equivalent verb clause.
 - **Model Example**:  
@@ -71,7 +71,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
   *This tax reform not only penalizes small businesses; what is more, it discourages local innovation by heavily taxing research.*
 
 #### 2. Qui plus est
-- **Pronunciation (IPA)**: [ki ply.z‿ɛ] or [ki plys ɛ] *(Note: both are heard. The liaison form [plyzɛ] is the traditional pronunciation; [plysɛ], with a pronounced "s", is also very common).*
+- **Pronunciation (IPA)**: [ki ply.z‿ɛ] or [ki plys ɛ] (kee plew-ZEH / kee plews EH) *(Note: both are heard. The liaison form [plyzɛ] is the traditional pronunciation; [plysɛ], with a pronounced "s", is also very common).*
 - **Exact Rhetorical Function**: Introduces an unforeseen, compounding argument that decisively seals the demonstration. Synonymous with *« bien plus encore »* or *« circonstance aggravante »*.
 - **Syntactic Rule**: Placed between commas at the beginning of an independent clause or following a semicolon.
 - **Model Example**:  
@@ -80,7 +80,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
   *The current highway alignment generates alarming air pollution. What is more, its widening will irreparably destroy centuries-old agricultural land.*
 
 #### 3. D'autant (plus / moins) que
-- **Pronunciation (IPA)**: [dotɑ̃ plys kə] / [dotɑ̃ mwɛ̃ kə]
+- **Pronunciation (IPA)**: [dotɑ̃ plys kə] / [dotɑ̃ mwɛ̃ kə] (doh-TAHN plews kuh / doh-TAHN mwehn kuh)
 - **Exact Rhetorical Function**: Introduces a reinforcing causal factor that magnifies the preceding statement (English: *especially as*, *all the more so since*).
 - **Syntactic Rule**: Governs the **indicatif** (expresses an objective fact). Never followed by the subjunctive.
 - **Model Example**:  
@@ -89,7 +89,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
   *The exodus of young professionals to metropolitan areas is accelerating, all the more so since peripheral regions suffer from a glaring shortage of medical services.*
 
 #### 4. À plus forte raison
-- **Pronunciation (IPA)**: [a ply fɔʁt ʁɛzɔ̃]
+- **Pronunciation (IPA)**: [a ply fɔʁt ʁɛzɔ̃] (ah plew fohrt ray-ZOHN)
 - **Exact Rhetorical Function**: Deduces a necessary conclusion *a fortiori*: if a premise holds true in a difficult case, it holds even more indisputably in this one.
 - **Model Example**:  
   **« Si les grandes corporations peinent à sécuriser leurs bases de données contre le cyber-espionnage, à plus forte raison les municipalités locales se trouvent-elles démunies. »**  
@@ -103,7 +103,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
 In academic essays and oral debate, dogmatic speakers simply dismiss opposing views with *« Mais non »*. Refined speakers dismantle counter-arguments by demonstrating that even if the counter-argument is acknowledged, it remains vastly insufficient.
 
 #### 1. Loin s'en faut
-- **Pronunciation (IPA)**: [lwɛ̃ sɑ̃ fo]
+- **Pronunciation (IPA)**: [lwɛ̃ sɑ̃ fo] (lwehn sahn FOH)
 - **Exact Rhetorical Function**: An idiomatic, elevated repudiation meaning *"Far from it"* or *"Nowhere near the case"*.
 - **Syntactic Rule**: An invariable parenthetical idiom used after a declarative clause or negation.
 - **Model Example**:  
@@ -112,7 +112,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
   *Recent climate agreements have not succeeded in curbing the rise in global temperatures—far from it.*
 
 #### 2. Bien loin de (+ infinitif)
-- **Pronunciation (IPA)**: [bjɛ̃ lwɛ̃ də]
+- **Pronunciation (IPA)**: [bjɛ̃ lwɛ̃ də] (byen lwehn duh)
 - **Exact Rhetorical Function**: Contrasts an actual negative effect with the intended positive objective (English: *Far from [doing X], it actually [does Y]*).
 - **Model Example**:  
   **« Bien loin de favoriser l'inclusion professionnelle, cette mesure administrative a accru la précarité des travailleurs atypiques. »**  
@@ -120,7 +120,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
   *Far from fostering professional inclusion, this administrative measure actually increased precariousness for non-traditional workers.*
 
 #### 3. Il n'en reste pas moins que
-- **Pronunciation (IPA)**: [il nɑ̃ ʁɛst pa mwɛ̃ kə]
+- **Pronunciation (IPA)**: [il nɑ̃ ʁɛst pa mwɛ̃ kə] (eel nahn rehst pah MWEHN kuh)
 - **Exact Rhetorical Function**: Restores the primary argument after an extensive concession (English: *The fact nonetheless remains that...*).
 - **Syntactic Rule**: Governs the **indicatif** because it asserts a durable, incontrovertible reality.
 - **Model Example**:  
@@ -129,7 +129,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
   *Despite the technical explanations put forward by developers, the fact remains that this housing complex will disfigure the historical coastline.*
 
 #### 4. À rebours de
-- **Pronunciation (IPA)**: [a ʁəbuʁ də]
+- **Pronunciation (IPA)**: [a ʁəbuʁ də] (ah ruh-BOOR duh)
 - **Exact Rhetorical Function**: Expresses deliberate counter-current opposition to prevailing orthodoxy, trends, or popular assumptions (English: *in direct opposition to*, *running counter to*).
 - **Model Example**:  
   **« À rebours de la tendance générale à l'austérité budgétaire, la province a choisi d'augmenter massivement ses investissements dans les bibliothèques publiques. »**  
@@ -143,7 +143,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 Sophisticated discourse often requires subordinating an outcome to an extreme condition, an unpalatable cost, or a remote eventuality.
 
 #### 1. Quand bien même (+ conditionnel)
-- **Pronunciation (IPA)**: [kɑ̃ bjɛ̃ mɛm]
+- **Pronunciation (IPA)**: [kɑ̃ bjɛ̃ mɛm] (kahn byen MEHM)
 - **Exact Rhetorical Function**: Expresses an extreme hypothetical concession: *"Even if / Even assuming that..."*
 - **Strict Syntactic Rule**: **Always followed by the conditional mood** (*conditionnel présent* or *conditionnel passé*). Never by the indicative or subjunctive!
 - **Model Example**:  
@@ -152,7 +152,7 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
   *Even if the administration were to inject additional millions into this program, the problem of access to care would remain unresolved without medical decentralization.*
 
 #### 2. Quitte à (+ infinitif)
-- **Pronunciation (IPA)**: [kit a]
+- **Pronunciation (IPA)**: [kit a] (keet AH)
 - **Exact Rhetorical Function**: Indicates that a subject is determined to achieve a vital objective, even at the cost of enduring a major sacrifice or inconvenience (English: *even if it means [doing X]*, *at the risk of [doing X]*).
 - **Model Example**:  
   **« Les autorités doivent imposer un moratoire immédiat sur les forages, quitte à mécontenter certains lobbies industriels influents. »**  
@@ -160,7 +160,7 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
   *The authorities must impose an immediate moratorium on drilling, even if it means displeasing certain influential industrial lobbies.*
 
 #### 3. Pour peu que (+ subjonctif)
-- **Pronunciation (IPA)**: [puʁ pø kə]
+- **Pronunciation (IPA)**: [puʁ pø kə] (poor puh kuh)
 - **Exact Rhetorical Function**: Expresses a minimal sufficient condition: *"Provided only that..."* or *"As long as [minimal condition] is met..."*.
 - **Strict Syntactic Rule**: **Always governs the subjunctive mood**.
 - **Model Example**:  
@@ -174,17 +174,17 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
 
 This reference matrix summarizes the grammatical governance, punctuation requirements, and exam calibration for each C1 rhetorical connector:
 
-| Connector | Mood / Form Governed | Punctuation Rule | TCF Task Alignment | Typical Examiner Reaction |
-| :--- | :--- | :--- | :--- | :--- |
-| **Non seulement... mais bien plus** | Indicatif | Comma or semicolon before *mais* | EE Task 3 & EO Task 3 | Signals architectural mastery of correlatives |
-| **Qui plus est** | Independent clause (Indicatif) | Preceded by period or semicolon; followed by comma | EE Task 2/3 & EO Task 3 | Signals native-like rhetorical escalation |
-| **D'autant plus que** | Indicatif | Preceded by a comma | EE Task 3 & EO Task 3 | Eliminates banal *parce que* and *car* |
-| **Loin s'en faut** | Invariable standalone phrase | Follows negation; set off by comma or period | EE Task 3 & EO Task 3 | High-register repudiation marker |
-| **Il n'en reste pas moins que** | Indicatif | Starts new sentence or follows concession | EE Task 3 & EO Task 3 | Demonstrates dialectical persistence |
-| **Quand bien même** | **Conditionnel (Mandatory)** | Subordinate clause set off by comma | EE Task 3 & EO Task 3 | Rare, high-prestige hypothetical marker |
-| **Quitte à** | **Infinitif** | Preceded by comma; attached to main clause | EE Task 3 & EO Task 3 | Shows concise risk-acceptance syntax |
-| **Pour peu que** | **Subjonctif (Mandatory)** | Subordinate clause set off by comma | EE Task 3 & EO Task 3 | Sophisticated minimal condition marker |
-| **À rebours de** | **Groupe nominal** | Prepositional phrase opening sentence | EE Task 3 | Intellectual editorial register |
+| Connector | Mood / Form Governed | Phonetic Respelling | Punctuation Rule | TCF Task Alignment | Typical Examiner Reaction |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Non seulement... mais bien plus** | Indicatif | (nohn suhl-MAHN ... meh byen PLEWSS) | Comma or semicolon before *mais* | EE Task 3 & EO Task 3 | Signals architectural mastery of correlatives |
+| **Qui plus est** | Independent clause (Indicatif) | (kee plew-ZEH) | Preceded by period or semicolon; followed by comma | EE Task 2/3 & EO Task 3 | Signals native-like rhetorical escalation |
+| **D'autant plus que** | Indicatif | (doh-TAHN plews kuh) | Preceded by a comma | EE Task 3 & EO Task 3 | Eliminates banal *parce que* and *car* |
+| **Loin s'en faut** | Invariable standalone phrase | (lwehn sahn FOH) | Follows negation; set off by comma or period | EE Task 3 & EO Task 3 | High-register repudiation marker |
+| **Il n'en reste pas moins que** | Indicatif | (eel nahn rehst pah MWEHN kuh) | Starts new sentence or follows concession | EE Task 3 & EO Task 3 | Demonstrates dialectical persistence |
+| **Quand bien même** | **Conditionnel (Mandatory)** | (kahn byen MEHM) | Subordinate clause set off by comma | EE Task 3 & EO Task 3 | Rare, high-prestige hypothetical marker |
+| **Quitte à** | **Infinitif** | (keet AH) | Preceded by comma; attached to main clause | EE Task 3 & EO Task 3 | Shows concise risk-acceptance syntax |
+| **Pour peu que** | **Subjonctif (Mandatory)** | (poor puh kuh) | Subordinate clause set off by comma | EE Task 3 & EO Task 3 | Sophisticated minimal condition marker |
+| **À rebours de** | **Groupe nominal** | (ah ruh-BOOR duh) | Prepositional phrase opening sentence | EE Task 3 | Intellectual editorial register |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
