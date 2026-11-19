@@ -48,14 +48,14 @@ Before starting your roleplay simulation, set up your physical and digital testi
 
 3. **Step 3: Recorded 3.5-Minute Unscripted Interaction**  
    Start your audio recording device and the 3.5-minute timer. Speak aloud as if conversing with Monsieur Tremblay on the telephone:
-   - **Opening**: Greet politely and state why you are calling (*« Bonjour Monsieur Tremblay, je vous appelle au sujet de votre annonce pour le 4½ à louer... »*).
-   - **Inquiries**: Ask your questions naturally. After each question, pause for 3–5 seconds and imagine the landlord's answer, then react appropriately (*« D'accord, très bien », « Je vois », « C'est parfait »*) before launching your next question.
+   - **Opening**: Greet politely and state why you are calling (*« Bonjour Monsieur Tremblay, je vous appelle au sujet de votre annonce pour le 4½ à louer... »* /bɔ̃.ʒuʁ mə.sjø tʁɑ̃.blɛ, ʒə vu.z‿a.pɛl o sy.ʒɛ də vɔ.tʁə a.nɔ̃s puʁ lə katʁ.e dmi a lwe/ — (bohn-ZHOOR muh-SYEUH trahn-BLAY, zhuh voo-zah-PEL oh sew-ZHEH duh voht-ruh ah-NOHNS poor luh kah-tray dmee ah LWAY...)).
+   - **Inquiries**: Ask your questions naturally. After each question, pause for 3–5 seconds and imagine the landlord's answer, then react appropriately (*« D'accord, très bien »* /da.kɔʁ, tʁɛ bjɛ̃/ — (dah-KOHR, treh BYEN), *« Je vois »* /ʒə vwa/ — (zhuh VWAH), *« C'est parfait »* /sɛ paʁ.fɛ/ — (seh pahr-FEH)) before launching your next question.
    - **Question Variety**: You must include at least:
-     - 2 questions using **complex noun inversion** (*Le loyer comprend-il... ?*, *L'immeuble dispose-t-il... ?*).
-     - 2 questions using **polite conditional openers** (*Pourriez-vous me dire si... ?*, *J'aimerais savoir si... ?*).
-     - 2 questions using **interrogative quel** (*Quel est le montant... ?*, *Quelles sont les conditions... ?*).
-     - 1 question using an **object pronoun** (*Quand est-il possible de le visiter ?*).
-   - **Closing**: Thank the landlord politely and confirm a visit appointment (*« Je vous remercie beaucoup pour ces renseignements. À samedi pour la visite ! »*).
+     - 2 questions using **complex noun inversion** (*Le loyer comprend-il... ?* /lə lwa.je kɔ̃.pʁɑ̃.t‿il/ — (luh lwah-yay kohn-prahn-TEEL... ?), *L'immeuble dispose-t-il... ?* /l‿i.mœbl dis.poz.til/ — (lee-meubl dees-pohz-TEEL... ?)).
+     - 2 questions using **polite conditional openers** (*Pourriez-vous me dire si... ?* /pu.ʁje vu mə diʁ si/ — (poo-ryay VOO muh deer see... ?), *J'aimerais savoir si... ?* /ʒ‿ɛm.ʁɛ sa.vwaʁ si/ — (zhem-reh sah-VWAHR see... ?)).
+     - 2 questions using **interrogative quel** (*Quel est le montant... ?* /kɛl ɛ lə mɔ̃.tɑ̃/ — (kel eh luh mohn-TAHN... ?), *Quelles sont les conditions... ?* /kɛl sɔ̃ le kɔ̃.di.sjɔ̃/ — (kel sohn lay kohn-dee-SYOHN... ?)).
+     - 1 question using an **object pronoun** (*Quand est-il possible de le visiter ?* /kɑ̃.t‿ɛ.til pɔ.sibl də lə vi.zi.te/ — (kahn-teh-TEEL poh-SEEBL duh luh vee-zee-TAY ?)).
+   - **Closing**: Thank the landlord politely and confirm a visit appointment (*« Je vous remercie beaucoup pour ces renseignements. À samedi pour la visite ! »* /ʒə vu ʁə.mɛʁ.si bo.ku puʁ se ʁɑ̃.sɛɲ.mɑ̃. a sam.di puʁ la vi.zit/ — (zhuh voo ruh-mehr-SEE boh-KOO poor say rahn-sen-yuh-MAHN. ah sahm-DEE poor lah vee-ZEET !)).
 
 #### Evidence
 
@@ -114,8 +114,8 @@ Be objective and strict.
 
 #### Extra credit
 
-- **Incorporate a Past-Tense Inquiry**: Ask the landlord at least one question about past tenants or renovations using the passé composé (*« Quand avez-vous rénové la cuisine ? »* or *« Pendant combien d'années les anciens locataires sont-ils restés ? »*).
-- **Handle a Complication**: Imagine the landlord states that parking is an additional $150/month. Formulate a spontaneous follow-up negotiating or asking if street parking permits are available (*« Serait-il possible d'obtenir une vignette de stationnement auprès de la ville ? »*).
+- **Incorporate a Past-Tense Inquiry**: Ask the landlord at least one question about past tenants or renovations using the passé composé (*« Quand avez-vous rénové la cuisine ? »* /kɑ̃.t‿a.ve vu ʁe.nɔ.ve la kɥi.zin/ — (kahn-tah-vay VOO ray-noh-vay lah kwee-ZEEN ?)).
+- **Handle a Complication**: Imagine the landlord states that parking is an additional $150/month. Formulate a spontaneous follow-up negotiating or asking if street parking permits are available (*« Serait-il possible d'obtenir une vignette de stationnement auprès de la ville ? »* /sə.ʁɛ.t‿il pɔ.sibl d‿ɔb.tə.niʁ yn vi.ɲɛt də sta.sjɔn.mɑ̃ o.pʁɛ də la vil/ — (suh-reh-TEEL poh-SEEBL dohb-tuh-NEER ewn veen-YET duh stah-syohn-mahn oh-PREH duh lah VEEL ?)).
 
 </div>
 
