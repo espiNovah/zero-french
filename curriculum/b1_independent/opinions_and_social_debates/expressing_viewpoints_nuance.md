@@ -28,18 +28,18 @@ When articulating an argument, French distinguishes between **subjective persona
 
 These introductory prepositional phrases anchor the argument specifically to your individual experience, values, or professional perspective:
 
-| Opinion Marker | IPA Pronunciation | English Translation | Nuance & Best Context |
-| :--- | :--- | :--- | :--- |
-| **À mon avis** | /a mɔ̃ n‿a.vi/ | In my opinion | Classic, versatile, neutral; suitable for spoken and written French. |
-| **Selon moi / D'après moi** | /sə.lɔ̃ mwa / d‿a.pʁɛ mwa/ | According to me / In my view | Emphasizes personal judgment; very common in TCF speaking and writing. |
-| **À mon sens** | /a mɔ̃ sɑ̃s/ | To my mind / As I see it | Elevated, reflective, professional; highly favored in B1/B2 editorial writing. |
-| **Pour ma part** | /puʁ ma paʁ/ | For my part / As for me | Highlights a distinct personal position in contrast to what others think. |
-| **En ce qui me concerne** | /ɑ̃ sə ki mə kɔ̃.sɛʁn/ | As far as I am concerned | Sets clear personal boundaries on an issue. |
-| **De mon point de vue** | /də mɔ̃ pwɛ̃ də vy/ | From my point of view | Situates your opinion from a specific angle or role (e.g., as an employee). |
+| Opinion Marker | IPA Pronunciation | Phonetic Respelling | English Translation | Nuance & Best Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **À mon avis** | /a mɔ̃ n‿a.vi/ | (ah mohn nah-VEE) | In my opinion | Classic, versatile, neutral; suitable for spoken and written French. |
+| **Selon moi / D'après moi** | /sə.lɔ̃ mwa / d‿a.pʁɛ mwa/ | (suh-LOHN MWAH / dah-PREH MWAH) | According to me / In my view | Emphasizes personal judgment; very common in TCF speaking and writing. |
+| **À mon sens** | /a mɔ̃ sɑ̃s/ | (ah mohn SAHNS) | To my mind / As I see it | Elevated, reflective, professional; highly favored in B1/B2 editorial writing. |
+| **Pour ma part** | /puʁ ma paʁ/ | (poor mah PAHR) | For my part / As for me | Highlights a distinct personal position in contrast to what others think. |
+| **En ce qui me concerne** | /ɑ̃ sə ki mə kɔ̃.sɛʁn/ | (ahn suh kee muh kohn-SEHRN) | As far as I am concerned | Sets clear personal boundaries on an issue. |
+| **De mon point de vue** | /də mɔ̃ pwɛ̃ də vy/ | (duh mohn pwen duh VEW) | From my point of view | Situates your opinion from a specific angle or role (e.g., as an employee). |
 
 **Examples in Context**:
 - *« **À mon sens**, la transition écologique doit s'accompagner d'un soutien financier aux ménages modestes. »*  
-  (/a mɔ̃ sɑ̃s la tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik dwa s‿a.kɔ̃.pa.ɲe d‿œ̃ su.tjɛ̃ fi.nɑ̃.sje o me.naʒ mɔ.dɛst/)
+  (/a mɔ̃ sɑ̃s la tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik dwa s‿a.kɔ̃.pa.ɲe d‿œ̃ su.tjɛ̃ fi.nɑ̃.sje o me.naʒ mɔ.dɛst/ — *ah mohn SAHNS, lah trahn-zee-SYOHN ay-koh-loh-ZHEEK dwa sah-kohn-pah-NYAY duhn soo-TYEN fee-nahn-SYAY oh may-NAHZH moh-DEHST*)
 - *« **Pour ma part**, j'estime que le travail hybride offre un équilibre idéal entre collaboration et concentration. »*
 - *« **Selon moi**, les universités devraient renforcer les stages pratiques en entreprise. »*
 
@@ -49,15 +49,15 @@ When you want your argument to sound authoritative, analytical, or widely recogn
 
 $$\mathbf{\text{Il}} + \mathbf{\text{Verbe impersonnel / Adjectif}} + \mathbf{\text{que}} + \mathbf{\text{Indicatif}}$$
 
-- **Il me semble que** /il mə sɑ̃bl kə/ : *It seems to me that*  
+- **Il me semble que** /il mə sɑ̃bl kə/ (eel muh SAHN-bluh kuh) : *It seems to me that*  
   *« **Il me semble que** les investissements dans le transport collectif restent insuffisants. »*
-- **Il est évident / clair que** /il ɛ.t‿e.vi.dɑ̃ kə/ : *It is obvious / clear that*  
+- **Il est évident / clair que** /il ɛ.t‿e.vi.dɑ̃ kə/ (eel eh-tay-vee-DAHN kuh) : *It is obvious / clear that*  
   *« **Il est évident que** l'intelligence artificielle va profondément transformer le marché du travail. »*
-- **Il est indéniable que** /il ɛ.t‿ɛ̃.de.njabl kə/ : *It is undeniable that*  
+- **Il est indéniable que** /il ɛ.t‿ɛ̃.de.njabl kə/ (eel eh-tehn-day-NYAH-bluh kuh) : *It is undeniable that*  
   *« **Il est indéniable que** le coût de la vie a considérablement augmenté au Canada. »*
-- **Force est de constater que** /fɔʁs ɛ də kɔ̃s.ta.te kə/ : *It must be recognized that / One cannot help but notice that*  
+- **Force est de constater que** /fɔʁs ɛ də kɔ̃s.ta.te kə/ (FORS eh duh kohns-tah-TAY kuh) : *It must be recognized that / One cannot help but notice that*  
   *« **Force est de constater que** les habitudes de consommation des jeunes générations évoluent rapidement. »*
-- **Il paraît indéniable que** /il pa.ʁɛ ɛ̃.de.njabl kə/ : *It appears undeniable that*  
+- **Il paraît indéniable que** /il pa.ʁɛ ɛ̃.de.njabl kə/ (eel pah-REH ehn-day-NYAH-bluh kuh) : *It appears undeniable that*  
   *« **Il paraît indéniable que** le bilinguisme constitue un atout professionnel majeur au Canada. »*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -119,7 +119,7 @@ Debates on the TCF Canada exam are rarely black-and-white. Strong candidates ack
 #### 1. Total agreement (L'adhésion totale)
 
 - *« **Je partage entièrement votre analyse** sur cette question. »*  
-  (/ʒə paʁ.taʒ ɑ̃.tjɛʁ.mɑ̃ vɔtʁ a.na.liz syʁ sɛt kɛs.tjɔ̃/)
+  (/ʒə paʁ.taʒ ɑ̃.tjɛʁ.mɑ̃ vɔtʁ a.na.liz syʁ sɛt kɛs.tjɔ̃/ — *zhuh pahr-TAHZH ahn-tyehr-MAHN voh-truh ah-nah-LEEZ sewr seht kehs-TYOHN*)
 - *« **C'est tout à fait exact** ; les chiffres confirment pleinement ce constat. »*  
 - *« **Je suis parfaitement d'accord avec** l'idée que nous devons moderniser nos infrastructures. »*
 
