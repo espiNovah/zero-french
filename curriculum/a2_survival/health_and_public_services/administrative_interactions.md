@@ -27,8 +27,8 @@ In Francophone cultures, approaching a service desk without a formal greeting is
 #### 1. The three-step opening ritual
 
 1. **Mandatory Formal Greeting**: Never start directly with your request. Always open with a polite greeting acknowledging the agent:
-   - *« Bonjour Madame »* /bɔ̃.ʒuʁ ma.dam/
-   - *« Bonjour Monsieur »* /bɔ̃.ʒuʁ mə.sjø/
+   - *« Bonjour Madame »* /bɔ̃.ʒuʁ ma.dam/ (bohn-ZHOOR mah-DAHM)
+   - *« Bonjour Monsieur »* /bɔ̃.ʒuʁ mə.sjø/ (bohn-ZHOOR muh-SYEUH)
    - *(In Canada, a cordial « Bonjour ! » delivered with a smile is standard).*
 2. **Polite Request Opener**: Introduce your need using conditional or modal softening:
    - *« Excusez-moi de vous déranger, je viens pour... »* (*Excuse me for disturbing you, I am coming for...*)
@@ -36,18 +36,18 @@ In Francophone cultures, approaching a service desk without a formal greeting is
 3. **Closing and Gratitude**: Complete the transaction with professional gratitude:
    - *« Je vous remercie beaucoup pour votre aide. »* (*I thank you very much for your help.*)
    - *« Merci infiniment, bonne fin de journée ! »* (*Thank you so much, have a great rest of the day!*)
-   - When the clerk says *« Merci »*, respond with **« Je vous en prie »** /ʒə vu.z‿ɑ̃ pʁi/ (*You are welcome* — formal) or **« De rien »**. In Québec you will also hear **« Bienvenue ! »** /bjɛ̃.və.ny/: this is familiar usage, a calque of English *you're welcome* that the OQLF advises against, so recognize it but use *je vous en prie* or *de rien* yourself.
+   - When the clerk says *« Merci »*, respond with **« Je vous en prie »** /ʒə vu.z‿ɑ̃ pʁi/ (zhuh voo-zahn-PREE) (*You are welcome* — formal) or **« De rien »**. In Québec you will also hear **« Bienvenue ! »** /bjɛ̃.və.ny/ (byen-vuh-NEW): this is familiar usage, a calque of English *you're welcome* that the OQLF advises against, so recognize it but use *je vous en prie* or *de rien* yourself.
 
 #### 2. Master summary of formal address formulas
 
-| Informal (Avoid at Counters) | Formal / Professional (Mandatory) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| *Salut !* | **Bonjour Madame / Monsieur** | /bɔ̃.ʒuʁ ma.dam / mə.sjø/ | *Good morning / Hello* |
-| *Je veux ce formulaire.* | **Je voudrais ce formulaire, s'il vous plaît.** | /ʒə vu.dʁɛ sə fɔʁ.my.lɛʁ sil vu plɛ/ | *I would like this form, please.* |
-| *Donne-moi le prix.* | **Pourriez-vous m'indiquer le tarif ?** | /pu.ʁje vu m‿ɛ̃.di.ke lə ta.ʁif/ | *Could you tell me the price?* |
-| *Quoi ? Répète.* | **Pardon ? Pourriez-vous répéter plus lentement ?** | /paʁ.dɔ̃ pu.ʁje vu ʁe.pe.te ply lɑ̃t.mɑ̃/ | *Pardon? Could you repeat more slowly?* |
-| *De rien.* (neutral, fine in most situations) | **Je vous en prie.** (*Bienvenue* is familiar Québec usage, a calque the OQLF advises against) | /ʒə vu.z‿ɑ̃ pʁi/ | *You are very welcome.* |
-| *Bye !* | **Au revoir, bonne journée.** | /o ʁə.vwaʁ, bɔn ʒuʁ.ne/ | *Goodbye, have a good day.* |
+| Informal (Avoid at Counters) | Formal / Professional (Mandatory) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| *Salut !* | **Bonjour Madame / Monsieur** | /bɔ̃.ʒuʁ ma.dam / mə.sjø/ | (bohn-ZHOOR mah-DAHM / muh-SYEUH) | *Good morning / Hello* |
+| *Je veux ce formulaire.* | **Je voudrais ce formulaire, s'il vous plaît.** | /ʒə vu.dʁɛ sə fɔʁ.my.lɛʁ sil vu plɛ/ | (zhuh voo-DREH suh fohr-mew-LEHR, seel voo PLEH) | *I would like this form, please.* |
+| *Donne-moi le prix.* | **Pourriez-vous m'indiquer le tarif ?** | /pu.ʁje vu m‿ɛ̃.di.ke lə ta.ʁif/ | (poo-ryay-VOO mehn-dee-KAY luh tah-REEF?) | *Could you tell me the price?* |
+| *Quoi ? Répète.* | **Pardon ? Pourriez-vous répéter plus lentement ?** | /paʁ.dɔ̃ pu.ʁje vu ʁe.pe.te ply lɑ̃t.mɑ̃/ | (pahr-DOHN? poo-ryay-VOO ray-pay-TAY plew lahnt-MAHN?) | *Pardon? Could you repeat more slowly?* |
+| *De rien.* (neutral, fine in most situations) | **Je vous en prie.** (*Bienvenue* is familiar Québec usage, a calque the OQLF advises against) | /ʒə vu.z‿ɑ̃ pʁi/ | (zhuh voo-zahn-PREE) | *You are very welcome.* |
+| *Bye !* | **Au revoir, bonne journée.** | /o ʁə.vwaʁ, bɔn ʒuʁ.ne/ | (oh ruh-VWAHR, buhn zhoor-NAY) | *Goodbye, have a good day.* |
 
 ### Postal banking and municipal counter vocabulary
 
@@ -55,39 +55,39 @@ Administrative desks feature specialized lexical fields. Below are the essential
 
 #### 1. Postal services (La Poste / Postes Canada)
 
-| French Term | IPA Pronunciation | English Meaning | Practical Context Example |
-| :--- | :--- | :--- | :--- |
-| **un colis** | /œ̃ kɔ.li/ | a package / parcel | *Je voudrais expédier ce colis au Maroc.* |
-| **un timbre** | /œ̃ tɛ̃bʁ/ | a stamp | *Avez-vous des timbres pour le courrier international ?* |
-| **une lettre recommandée** | /yn lɛtʁ ʁə.kɔ.mɑ̃.de/ | a registered letter | *Je dois envoyer cette lettre recommandée avec accusé de réception.* |
-| **le numéro de suivi** | /lə ny.me.ʁo də sɥi.vi/ | tracking number | *Quel est le numéro de suivi de mon envoi ?* |
-| **le code postal** | /lə kɔd pɔs.tal/ | postal code / ZIP | *N'oubliez pas d'inscrire le code postal sur l'enveloppe.* |
-| **affranchir** | /a.fʁɑ̃.ʃiʁ/ | to stamp / pay postage | *Pouvez-vous affranchir cette enveloppe pour la France ?* |
-| **peser** | /pə.ze/ | to weigh | *Nous devons peser votre paquet sur la balance.* |
+| French Term | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Context Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **un colis** | /œ̃ kɔ.li/ | (uhn koh-LEE) | a package / parcel | *Je voudrais expédier ce colis au Maroc.* |
+| **un timbre** | /œ̃ tɛ̃bʁ/ | (uhn TEHN-bruh) | a stamp | *Avez-vous des timbres pour le courrier international ?* |
+| **une lettre recommandée** | /yn lɛtʁ ʁə.kɔ.mɑ̃.de/ | (ewn LEH-truh ruh-koh-mahn-DAY) | a registered letter | *Je dois envoyer cette lettre recommandée avec accusé de réception.* |
+| **le numéro de suivi** | /lə ny.me.ʁo də sɥi.vi/ | (luh new-may-ROH duh swee-VEE) | tracking number | *Quel est le numéro de suivi de mon envoi ?* |
+| **le code postal** | /lə kɔd pɔs.tal/ | (luh kohd pohs-TAHL) | postal code / ZIP | *N'oubliez pas d'inscrire le code postal sur l'enveloppe.* |
+| **affranchir** | /a.fʁɑ̃.ʃiʁ/ | (ah-frahn-SHEER) | to stamp / pay postage | *Pouvez-vous affranchir cette enveloppe pour la France ?* |
+| **peser** | /pə.ze/ | (puh-ZAY) | to weigh | *Nous devons peser votre paquet sur la balance.* |
 
 #### 2. Banking services (La Banque / L'Institution financière)
 
-| French Term | IPA Pronunciation | English Meaning | Practical Context Example |
-| :--- | :--- | :--- | :--- |
-| **un compte-chèques** | /œ̃ kɔ̃t.ʃɛk/ | checking account | *Je souhaite ouvrir un compte-chèques pour mes dépenses courantes.* |
-| **un compte d'épargne** | /œ̃ kɔ̃t d‿e.paʁɲ/ | savings account | *Quel est le taux d'intérêt de ce compte d'épargne ?* |
-| **un virement** | /œ̃ viʁ.mɑ̃/ | bank transfer / wire | *Je dois faire un virement bancaire vers mon pays d'origine.* |
-| **un virement Interac (QC)** | /œ̃ viʁ.mɑ̃ ɛ̃.te.ʁak/ | Interac e-Transfer | *Au Canada, le virement Interac est le moyen le plus rapide de payer.* |
-| **un guichet automatique** | /œ̃ ɡi.ʃɛ o.tɔ.ma.tik/ | ATM / cash dispenser | *Y a-t-il un guichet automatique à proximité ?* |
-| **un spécimen de chèque (QC) / RIB (FR)** | /œ̃ spe.si.mɛn də ʃɛk / ɛʁ.i.be/ | void cheque / banking details slip | *Mon employeur me demande un spécimen de chèque pour le dépôt direct.* |
-| **déposer de l'argent** | /de.po.ze də l‿aʁ.ʒɑ̃/ | to deposit money | *Je voudrais déposer ce chèque dans mon compte.* |
-| **retirer de l'argent** | /ʁə.ti.ʁe də l‿aʁ.ʒɑ̃/ | to withdraw cash | *Quel est le montant maximal que je peux retirer par jour ?* |
+| French Term | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Context Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **un compte-chèques** | /œ̃ kɔ̃t.ʃɛk/ | (uhn kohnt-SHEHK) | checking account | *Je souhaite ouvrir un compte-chèques pour mes dépenses courantes.* |
+| **un compte d'épargne** | /œ̃ kɔ̃t d‿e.paʁɲ/ | (uhn kohnt day-PAR-nyuh) | savings account | *Quel est le taux d'intérêt de ce compte d'épargne ?* |
+| **un virement** | /œ̃ viʁ.mɑ̃/ | (uhn veer-MAHN) | bank transfer / wire | *Je dois faire un virement bancaire vers mon pays d'origine.* |
+| **un virement Interac (QC)** | /œ̃ viʁ.mɑ̃ ɛ̃.te.ʁak/ | (uhn veer-MAHN ehn-tay-RAHK) | Interac e-Transfer | *Au Canada, le virement Interac est le moyen le plus rapide de payer.* |
+| **un guichet automatique** | /œ̃ ɡi.ʃɛ o.tɔ.ma.tik/ | (uhn gee-SHEH oh-toh-mah-TEEK) | ATM / cash dispenser | *Y a-t-il un guichet automatique à proximité ?* |
+| **un spécimen de chèque (QC) / RIB (FR)** | /œ̃ spe.si.mɛn də ʃɛk / ɛʁ.i.be/ | (uhn spay-see-MEHN duh SHEHK / ehr-ee-BAY) | void cheque / banking details slip | *Mon employeur me demande un spécimen de chèque pour le dépôt direct.* |
+| **déposer de l'argent** | /de.po.ze də l‿aʁ.ʒɑ̃/ | (day-poh-ZAY duh lahr-ZHAHN) | to deposit money | *Je voudrais déposer ce chèque dans mon compte.* |
+| **retirer de l'argent** | /ʁə.ti.ʁe də l‿aʁ.ʒɑ̃/ | (ruh-tee-RAY duh lahr-ZHAHN) | to withdraw cash | *Quel est le montant maximal que je peux retirer par jour ?* |
 
 #### 3. Government registries and municipal desks
 
-| French Term | IPA Pronunciation | English Meaning | Practical Context Example |
-| :--- | :--- | :--- | :--- |
-| **la mairie / l'hôtel de ville** | /la mɛ.ʁi / l‿o.tɛl də vil/ | city hall / municipal office | *Les inscriptions scolaires se font à l'hôtel de ville.* |
-| **la SAAQ (QC)** | /la ɛs.a.a.ky/ | driver licensing authority | *Je dois faire transférer mon permis de conduire à la SAAQ.* |
-| **le NAS (QC) / numéro de sécu (FR)** | /lə nas / ny.me.ʁo də se.ky/ | Social Insurance Number (SIN) | *Vous devez obtenir votre numéro d'assurance sociale à Service Canada.* |
-| **le guichet d'accueil** | /lə ɡi.ʃɛ d‿a.kœj/ | reception counter / intake desk | *Prenez un numéro d'attente à la borne d'accueil.* |
-| **le délai de traitement** | /lə de.lɛ də tʁɛt.mɑ̃/ | processing time / turnaround | *Quel est le délai de traitement pour renouveler ce document ?* |
-| **prendre rendez-vous** | /pʁɑ̃dʁ ʁɑ̃.de.vu/ | to make an appointment | *Est-il obligatoire de prendre rendez-vous en ligne ?* |
+| French Term | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Context Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **la mairie / l'hôtel de ville** | /la mɛ.ʁi / l‿o.tɛl də vil/ | (lah meh-REE / loh-tehl duh VEEL) | city hall / municipal office | *Les inscriptions scolaires se font à l'hôtel de ville.* |
+| **la SAAQ (QC)** | /la ɛs.a.a.ky/ | (lah ehs-ah-ah-KEW) | driver licensing authority | *Je dois faire transférer mon permis de conduire à la SAAQ.* |
+| **le NAS (QC) / numéro de sécu (FR)** | /lə nas / ny.me.ʁo də se.ky/ | (luh NAHS / new-may-ROH duh say-KEW) | Social Insurance Number (SIN) | *Vous devez obtenir votre numéro d'assurance sociale à Service Canada.* |
+| **le guichet d'accueil** | /lə ɡi.ʃɛ d‿a.kœj/ | (luh gee-SHEH dah-KUHY) | reception counter / intake desk | *Prenez un numéro d'attente à la borne d'accueil.* |
+| **le délai de traitement** | /lə de.lɛ də tʁɛt.mɑ̃/ | (luh day-LEH duh tret-MAHN) | processing time / turnaround | *Quel est le délai de traitement pour renouveler ce document ?* |
+| **prendre rendez-vous** | /pʁɑ̃dʁ ʁɑ̃.de.vu/ | (prahn-druh rahn-day-VOO) | to make an appointment | *Est-il obligatoire de prendre rendez-vous en ligne ?* |
 
 ### Polite conditional requests and official questioning
 
@@ -97,16 +97,16 @@ When making a request at an administrative desk, using the present tense (*« Je
 
 $$\text{Je voudrais} / \text{J'aimerais} + \text{Nom ou Infinitif} + \text{s'il vous plaît}$$
 
-- **Je voudrais** /ʒə vu.dʁɛ/ (*I would like*):  
+- **Je voudrais** /ʒə vu.dʁɛ/ (zhuh voo-DREH) (*I would like*):  
   *« Bonjour, je voudrais renouveler mon titre de séjour, s'il vous plaît. »*  
   *« Je voudrais ouvrir un compte bancaire pour étudiants. »*
-- **J'aimerais** /ʒ‿ɛ.mə.ʁɛ/ (*I would like / I would appreciate*):  
+- **J'aimerais** /ʒ‿ɛ.mə.ʁɛ/ (zheh-muh-REH) (*I would like / I would appreciate*):  
   *« J'aimerais obtenir des informations sur les programmes de francisation. »*  
   *« J'aimerais savoir quels formulaires je dois remplir. »*
-- **Pourriez-vous** /pu.ʁje vu/ (*Could you*):  
+- **Pourriez-vous** /pu.ʁje vu/ (poo-ryay-VOO) (*Could you*):  
   *« Pourriez-vous m'indiquer la démarche à suivre ? »*  
   *« Pourriez-vous me dire où se trouve le bureau 204 ? »*
-- **Auriez-vous** /o.ʁje vu/ (*Would you have*):  
+- **Auriez-vous** /o.ʁje vu/ (oh-ryay-VOO) (*Would you have*):  
   *« Auriez-vous un stylo ou un dépliant explicatif, s'il vous plaît ? »*
 
 #### 2. Inquiry patterns for administrative clerks
@@ -137,24 +137,24 @@ Government and public clerks will ask you to produce specific verification docum
 
 #### 1. Essential identity and verification documents
 
-| Document Term | IPA | Explanation & Description |
-| :--- | :--- | :--- |
-| **Une pièce d'identité** | /yn pjɛs d‿i.dɑ̃.ti.te/ | Any official photo ID: passport, national identity card, or permanent resident card. |
-| **Un passeport valide** | /œ̃ pas.pɔʁ va.lid/ | A valid, non-expired international travel passport. |
-| **Un justificatif de domicile** | /œ̃ ʒys.ti.fi.ka.tif də dɔ.mi.sil/ | Proof of address (utility bill, lease agreement, or internet bill dated within 3 months). |
-| **Une preuve de résidence (QC)** | /yn pʁœv də ʁe.zi.dɑ̃s/ | Canadian term for proof of residential address (lease, hydro bill). |
-| **Un extrait d'acte de naissance** | /œ̃ n‿ɛks.tʁɛ d‿akt də nɛ.sɑ̃s/ | Official birth certificate extract. |
-| **Le formulaire de demande** | /lə fɔʁ.my.lɛʁ də də.mɑ̃d/ | The standardized printed or digital application form. |
-| **La signature du demandeur** | /la si.ɲa.tyʁ dy də.mɑ̃.dœʁ/ | Signature of the applicant. |
-| **Une attestation d'emploi** | /yn a.tɛs.ta.sjɔ̃ d‿ɑ̃.plwa/ | Employment verification letter issued by an employer. |
+| Document Term | IPA | Phonetic Respelling | Explanation & Description |
+| :--- | :--- | :--- | :--- |
+| **Une pièce d'identité** | /yn pjɛs d‿i.dɑ̃.ti.te/ | (ewn pyehs deen-dahn-tee-TAY) | Any official photo ID: passport, national identity card, or permanent resident card. |
+| **Un passeport valide** | /œ̃ pas.pɔʁ va.lid/ | (uhn pahs-POR vah-LEED) | A valid, non-expired international travel passport. |
+| **Un justificatif de domicile** | /œ̃ ʒys.ti.fi.ka.tif də dɔ.mi.sil/ | (uhn zhews-tee-fee-kah-TEEF duh doh-mee-SEEL) | Proof of address (utility bill, lease agreement, or internet bill dated within 3 months). |
+| **Une preuve de résidence (QC)** | /yn pʁœv də ʁe.zi.dɑ̃s/ | (ewn pruhv duh ray-zee-DAHNS) | Canadian term for proof of residential address (lease, hydro bill). |
+| **Un extrait d'acte de naissance** | /œ̃ n‿ɛks.tʁɛ d‿akt də nɛ.sɑ̃s/ | (uhn nehks-TREH dahkt duh neh-SAHNS) | Official birth certificate extract. |
+| **Le formulaire de demande** | /lə fɔʁ.my.lɛʁ də də.mɑ̃d/ | (luh fohr-mew-LEHR duh duh-MAHND) | The standardized printed or digital application form. |
+| **La signature du demandeur** | /la si.ɲa.tyʁ dy də.mɑ̃.dœʁ/ | (lah seen-yah-TEWR dew duh-mahn-DUHR) | Signature of the applicant. |
+| **Une attestation d'emploi** | /yn a.tɛs.ta.sjɔ̃ d‿ɑ̃.plwa/ | (ewn ah-tehs-tah-SYOHN dahn-PLWAH) | Employment verification letter issued by an employer. |
 
 #### 2. Key verbs for handling paperwork
 
-- **Remplir** /ʁɑ̃.pliʁ/ (*to fill out*): *« Remplissez les cases en lettres majuscules. »*
-- **Fournir** /fuʁ.niʁ/ (*to supply / provide*): *« Vous devez fournir deux photos de format passeport. »*
-- **Signer** /si.ɲe/ (*to sign*): *« Signez en bas à droite de la dernière page. »*
-- **Déposer** /de.po.ze/ (*to file / submit*): *« Je viens déposer ma demande de renouvellement. »*
-- **Joindre** /ʒwɛ̃dʁ/ (*to attach / enclose*): *« N'oubliez pas de joindre une copie de votre bail. »*
+- **Remplir** /ʁɑ̃.pliʁ/ (rahn-PLEER) (*to fill out*): *« Remplissez les cases en lettres majuscules. »*
+- **Fournir** /fuʁ.niʁ/ (foor-NEER) (*to supply / provide*): *« Vous devez fournir deux photos de format passeport. »*
+- **Signer** /si.ɲe/ (seen-YAY) (*to sign*): *« Signez en bas à droite de la dernière page. »*
+- **Déposer** /de.po.ze/ (day-poh-ZAY) (*to file / submit*): *« Je viens déposer ma demande de renouvellement. »*
+- **Joindre** /ʒwɛ̃dʁ/ (zhwehn-DRUH) (*to attach / enclose*): *« N'oubliez pas de joindre une copie de votre bail. »*
 
 ### TCF Canada Speaking Task 2 roleplay strategy
 
