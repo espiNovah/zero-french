@@ -98,7 +98,7 @@ When the proctor leads you to your assigned workstation, you are sitting in fron
 If your headphones have static, if a key sticks, or if the screen flickers:
 - **Raise your hand immediately BEFORE the test begins**:
   **« Excusez-moi, Monsieur / Madame, le casque audio grésille sur mon poste. Pourriez-vous vérifier le branchement ou me changer de terminal ? »**  
-  — /ɛks.ky.ze mwa mə.sjø ma.dam lə kask o.djo ɡʁe.zij syʁ mɔ̃ pɔst/
+  — /ɛks.ky.ze mwa mə.sjø ma.dam lə kask o.djo ɡʁe.zij syʁ mɔ̃ pɔst/ (ehk-skew-zay-MWAH, muh-SYEUH / mah-DAHM, luh kahsk oh-DYOH gray-ZEE-yuh sewr mohn POHST)
 - Report a hardware issue as early as possible, and immediately if it happens during the test, so the proctor can log it and handle it according to the centre's procedure.
 
 ---
@@ -188,20 +188,20 @@ Read each of the four realistic test-day crisis scenarios below. For each situat
 
 Commit these 12 formal terms to memory:
 
-| French Term | IPA Transcription | English Translation | Context of Use |
-| :--- | :--- | :--- | :--- |
-| **La convocation officielle** | /la kɔ̃.vɔ.ka.sjɔ̃ ɔ.fi.sjɛl/ | Official exam summons | Entrance document |
-| **Le centre agréé** | /lə sɑ̃tʁ a.ɡʁe.e/ | Accredited test center | Official testing venue |
-| **Le surveillant d'examen** | /lə syʁ.vɛ.jɑ̃ d‿ɛɡ.za.mɛ̃/ | Test proctor / invigilator| Examination hall staff |
-| **L'émargement** | /l‿e.maʁ.ʒə.mɑ̃/ | Attendance sign-in | Signing physical register |
-| **Le casier de consigne** | /lə ka.zje də kɔ̃.siɲ/ | Security locker | Mandatory bag/phone storage |
-| **Un incident technique** | /œ̃n‿ɛ̃.si.dɑ̃ tɛk.nik/ | Technical glitch | Official reportable event |
-| **L'attestation de présence**| /l‿a.tɛs.ta.sjɔ̃ də pʁe.zɑ̃s/| Proof of attendance | Employer/official excuse slip |
-| **Le procès-verbal (PV)** | /lə pʁɔ.sɛ vɛʁ.bal/ | Official session minutes | Formal log of room incidents |
-| **Une tentative de fraude** | /yn tɑ̃.ta.tiv də fʁod/ | Suspected cheating | Disqualifying offense |
-| **La neutralité bienveillante**| /la nø.tʁa.li.te bjɛ̃.vɛ.jɑ̃t/| Benevolent neutrality | Examiner professional posture |
-| **L'annulation de session** | /l‿a.ny.la.sjɔ̃ də se.sjɔ̃/ | Session voiding | Revocation of test sitting |
-| **La délivrance des résultats** | /la de.li.vʁɑ̃s de ʁe.zyl.ta/ | Issuance of score report | Final certificate release |
+| French Term | IPA Transcription | Phonetic Respelling | English Translation | Context of Use |
+| :--- | :--- | :--- | :--- | :--- |
+| **La convocation officielle** | /la kɔ̃.vɔ.ka.sjɔ̃ ɔ.fi.sjɛl/ | (lah kohn-voh-kah-SYOHN oh-fee-SYEHL) | Official exam summons | Entrance document |
+| **Le centre agréé** | /lə sɑ̃tʁ a.ɡʁe.e/ | (luh SAHN-truh ah-gray-AY) | Accredited test center | Official testing venue |
+| **Le surveillant d'examen** | /lə syʁ.vɛ.jɑ̃ d‿ɛɡ.za.mɛ̃/ | (luh sewr-vay-YAHN dehg-zah-MEHN) | Test proctor / invigilator| Examination hall staff |
+| **L'émargement** | /l‿e.maʁ.ʒə.mɑ̃/ | (lay-mahrzh-MAHN) | Attendance sign-in | Signing physical register |
+| **Le casier de consigne** | /lə ka.zje də kɔ̃.siɲ/ | (luh kah-ZYAY duh kohn-SEEN-yuh) | Security locker | Mandatory bag/phone storage |
+| **Un incident technique** | /œ̃n‿ɛ̃.si.dɑ̃ tɛk.nik/ | (uhn-nehn-see-DAHN tehk-NEEK) | Technical glitch | Official reportable event |
+| **L'attestation de présence**| /l‿a.tɛs.ta.sjɔ̃ də pʁe.zɑ̃s/| (lah-tehs-tah-SYOHN duh pray-ZAHNS) | Proof of attendance | Employer/official excuse slip |
+| **Le procès-verbal (PV)** | /lə pʁɔ.sɛ vɛʁ.bal/ | (luh proh-SEH vehr-BAHL) | Official session minutes | Formal log of room incidents |
+| **Une tentative de fraude** | /yn tɑ̃.ta.tiv də fʁod/ | (ewn tahn-tah-TEEV duh FROHD) | Suspected cheating | Disqualifying offense |
+| **La neutralité bienveillante**| /la nø.tʁa.li.te bjɛ̃.vɛ.jɑ̃t/| (lah nuh-trah-lee-TAY byen-vay-YAHNTE) | Benevolent neutrality | Examiner professional posture |
+| **L'annulation de session** | /l‿a.ny.la.sjɔ̃ də se.sjɔ̃/ | (lah-new-lah-SYOHN duh say-SYOHN) | Session voiding | Revocation of test sitting |
+| **La délivrance des résultats** | /la de.li.vʁɑ̃s de ʁe.zyl.ta/ | (lah day-lee-VRAHNS day ray-zewl-TAH) | Issuance of score report | Final certificate release |
 
 ---
 
