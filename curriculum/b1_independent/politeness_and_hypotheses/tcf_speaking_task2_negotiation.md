@@ -63,7 +63,7 @@ The single biggest mistake candidates make in Task 2 is waiting for the examiner
 Do not open with a timid *« Bonjour, je cherche des informations »*. Frame your situation with contextual depth:
 
 - *« Bonjour Monsieur. Je viens vous voir aujourd'hui car notre association sportive organise son gala annuel le mois prochain. **J'aimerais me renseigner sur les modalités de location** de votre salle de réception. »*  
-  (/bɔ̃.ʒuʁ mə.sjø. ʒə vjɛ̃ vu vwaʁ o.ʒuʁ.dɥi kaʁ nɔtʁ a.sɔ.sja.sjɔ̃ spɔʁ.tiv ɔʁ.ɡa.niz sɔ̃ ɡa.la a.nɥɛl lə mwa pʁɔ.ʃɛ̃. ʒ‿ɛ.mə.ʁɛ mə ʁɑ̃.sɛ.ɲe syʁ le mɔ.da.li.te də lɔ.ka.sjɔ̃/)
+  (/bɔ̃.ʒuʁ mə.sjø. ʒə vjɛ̃ vu vwaʁ o.ʒuʁ.dɥi kaʁ nɔtʁ a.sɔ.sja.sjɔ̃ spɔʁ.tiv ɔʁ.ɡa.niz sɔ̃ ɡa.la a.nɥɛl lə mwa pʁɔ.ʃɛ̃. ʒ‿ɛ.mə.ʁɛ mə ʁɑ̃.sɛ.ɲe syʁ le mɔ.da.li.te də lɔ.ka.sjɔ̃/ — *bohn-ZHOOR muh-SYEUH. zhuh vyen voo vwahr oh-zhoor-DWEE kahr noh-truh ah-soh-syah-SYOHN spor-TEEV or-gah-NEEZ sohn gah-LAH ah-NWEHL luh mwah proh-SHEN. zheh-muh-REH muh rahn-seh-NYAY sewr lay moh-dah-lee-TAY duh loh-kah-SYOHN*)
 - *« Bonjour Madame. Nouvellement arrivé dans la région avec ma famille, **je souhaiterais inscrire** mes deux enfants à des activités parascolaires pour la session d'hiver. **Pourriez-vous m'indiquer** les programmes actuellement disponibles ? »*
 
 #### 2. Rebound questioning: linking answers to new inquiries
@@ -96,24 +96,24 @@ Step 3: Concrete Counter-Proposal with the Conditional or Si-Clause
 
 #### Master phrasebook for counter-proposals
 
-| Examiner Obstacle | Candidate Counter-Proposal Formula | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| *« C'est complet à cette date. »* | **Si nous avancions la date d'une semaine, y aurait-il des places libres ?** | /si nu z‿a.vɑ̃.sjɔ̃ la dat d‿yn sə.mɛn i o.ʁɛ.t‿il de plas libʁ/ | *If we moved the date up by a week, would there be open spots?* |
-| *« C'est trop tard pour s'inscrire. »* | **N'y aurait-il pas une liste d'attente sur laquelle vous pourriez m'inscrire ?** | /n‿i o.ʁɛ.t‿il pa yn list d‿a.tɑ̃t syʁ la.kɛl vu pu.ʁje m‿ɛ̃s.kʁiʁ/ | *Wouldn't there be a waiting list where you could put my name down?* |
-| *« Le tarif n'est pas négociable. »* | **Proposez-vous un rabais pour les étudiants ou les nouveaux résidents ?** | /pʁɔ.po.ze vu œ̃ ʁa.bɛ puʁ le z‿e.ty.djɑ̃ u le nu.vo ʁe.zi.dɑ̃/ | *Do you offer a discount for students or newcomers?* |
-| *« Nous n'acceptons pas ce document. »* | **Serait-il possible de vous fournir une attestation d'employeur à la place ?** | /sə.ʁɛ.t‿il pɔ.sibl də vu fuʁ.niʁ yn a.tɛs.ta.sjɔ̃ d‿ɑ̃.plwa.jœʁ a la plas/ | *Would it be possible to provide an employer letter instead?* |
-| *« Je n'ai pas le temps aujourd'hui. »* | **Pourrions-nous convenir d'un bref rendez-vous téléphonique demain ?** | /pu.ʁjɔ̃ nu kɔ̃.və.niʁ d‿œ̃ bʁɛf ʁɑ̃.de.vu te.le.fɔ.nik də.mɛ̃/ | *Could we agree on a brief phone meeting tomorrow?* |
+| Examiner Obstacle | Candidate Counter-Proposal Formula | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| *« C'est complet à cette date. »* | **Si nous avancions la date d'une semaine, y aurait-il des places libres ?** | /si nu z‿a.vɑ̃.sjɔ̃ la dat d‿yn sə.mɛn i o.ʁɛ.t‿il de plas libʁ/ | (see noo-zah-vahn-SYOHN lah daht dewn suh-MEHN, ee oh-reh-teel day plahs LEE-bruh?) | *If we moved the date up by a week, would there be open spots?* |
+| *« C'est trop tard pour s'inscrire. »* | **N'y aurait-il pas une liste d'attente sur laquelle vous pourriez m'inscrire ?** | /n‿i o.ʁɛ.t‿il pa yn list d‿a.tɑ̃t syʁ la.kɛl vu pu.ʁje m‿ɛ̃s.kʁiʁ/ | (nee oh-reh-teel pah ewn leest dah-TAHNT sewr lah-KEHL voo poo-ryay mehn-SKREER?) | *Wouldn't there be a waiting list where you could put my name down?* |
+| *« Le tarif n'est pas négociable. »* | **Proposez-vous un rabais pour les étudiants ou les nouveaux résidents ?** | /pʁɔ.po.ze vu œ̃ ʁa.bɛ puʁ le z‿e.ty.djɑ̃ u le nu.vo ʁe.zi.dɑ̃/ | (proh-poh-zay-VOO uhn rah-BEH poor lay zay-tew-DYAHN oo lay noo-voh ray-zee-DAHN?) | *Do you offer a discount for students or newcomers?* |
+| *« Nous n'acceptons pas ce document. »* | **Serait-il possible de vous fournir une attestation d'employeur à la place ?** | /sə.ʁɛ.t‿il pɔ.sibl də vu fuʁ.niʁ yn a.tɛs.ta.sjɔ̃ d‿ɑ̃.plwa.jœʁ a la plas/ | (suh-reh-teel poh-SEE-bluh duh voo foor-NEER ewn ah-tehs-tah-SYOHN dahn-plwah-YUHR ah lah PLAHS?) | *Would it be possible to provide an employer letter instead?* |
+| *« Je n'ai pas le temps aujourd'hui. »* | **Pourrions-nous convenir d'un bref rendez-vous téléphonique demain ?** | /pu.ʁjɔ̃ nu kɔ̃.və.niʁ d‿œ̃ bʁɛf ʁɑ̃.de.vu te.le.fɔ.nik də.mɛ̃/ | (poo-ryohn-NOO kohn-vuh-NEER duhn brehf rahn-day-VOO tay-lay-foh-NEEK duh-MEHN?) | *Could we agree on a brief phone meeting tomorrow?* |
 
 ### Active listening reactions and discourse markers
 
 In spontaneous oral conversation, dead silence while the examiner speaks undermines the impression of fluency. Integrate natural reactive interjections and conversational bridges:
 
 - **Pour marquer l'accord et l'intérêt** :  
-  *« Absolument »* (/ab.sɔ.ly.mɑ̃/), *« Tout à fait »* (/tu.t‿a fɛ/), *« C'est parfaitement clair »* (/s‿ɛ paʁ.fɛt.mɑ̃ klɛʁ/), *« C'est une excellente nouvelle »* (/s‿ɛ.t‿yn ɛk.sɛ.lɑ̃t nu.vɛl/).
+  *« Absolument »* (/ab.sɔ.ly.mɑ̃/ — *ahb-soh-lew-MAHN*), *« Tout à fait »* (/tu.t‿a fɛ/ — *too-tah-FEH*), *« C'est parfaitement clair »* (/s‿ɛ paʁ.fɛt.mɑ̃ klɛʁ/ — *seh pahr-feht-mahn KLEHR*), *« C'est une excellente nouvelle »* (/s‿ɛ.t‿yn ɛk.sɛ.lɑ̃t nu.vɛl/ — *seh-tewn ehk-say-lahnt noo-VEHL*).
 - **Pour marquer la réflexion ou la nuance** :  
-  *« Effectivement, mais... »* (/e.fɛk.tiv.mɑ̃ mɛ/), *« Cela dit... »* (/sə.la di/), *« Dans cette perspective... »* (/dɑ̃ sɛt pɛʁs.pɛk.tiv/), *« Si je comprends bien... »* (/si ʒə kɔ̃.pʁɑ̃ bjɛ̃/).
+  *« Effectivement, mais... »* (/e.fɛk.tiv.mɑ̃ mɛ/ — *ay-fehk-teev-mahn MEH*), *« Cela dit... »* (/sə.la di/ — *suh-lah DEE*), *« Dans cette perspective... »* (/dɑ̃ sɛt pɛʁs.pɛk.tiv/ — *dahn seht pehr-spehk-TEEV*), *« Si je comprends bien... »* (/si ʒə kɔ̃.pʁɑ̃ bjɛ̃/ — *see zhuh kohn-prahn BYEN*).
 - **Pour relancer la négociation** :  
-  *« Qu'en pensez-vous ? »* (/k‿ɑ̃ pɑ̃.se vu/), *« Serait-ce envisageable ? »* (/sə.ʁɛs ɑ̃.vi.za.ʒabl/), *« Y verriez-vous un inconvénient ? »* (/i vɛ.ʁje vu œ̃ n‿ɛ̃.kɔ̃.ve.njɑ̃/).
+  *« Qu'en pensez-vous ? »* (/k‿ɑ̃ pɑ̃.se vu/ — *kahn pahn-say-VOO?*), *« Serait-ce envisageable ? »* (/sə.ʁɛs ɑ̃.vi.za.ʒabl/ — *suh-REHSS ahn-vee-zah-ZHAH-bluh?*), *« Y verriez-vous un inconvénient ? »* (/i vɛ.ʁje vu œ̃ n‿ɛ̃.kɔ̃.ve.njɑ̃/ — *ee veh-ryay-VOO uhn nehn-kohn-vay-NYAHN?*).
 
 ### Complete unscripted roleplay simulations with phonetic cues
 
