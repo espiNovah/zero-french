@@ -24,22 +24,22 @@ This section contains a general overview of topics that you will learn in this l
 
 Before decoding listings, you must be able to name the rooms and functional spaces of an apartment or house:
 
-| French Room / Space | IPA Pronunciation | English Meaning | Notes & Details |
-| :--- | :--- | :--- | :--- |
-| **le logement** | /lə lɔʒ.mɑ̃/ | dwelling / housing | General legal and everyday term for a home. |
-| **l'appartement (m.)** | /l‿a.paʁ.tə.mɑ̃/ | apartment / flat | In Canada, also called *un condo* if privately owned. |
-| **la pièce** | /la pjɛs/ | room (general) | Refers to habitable living rooms and bedrooms. |
-| **le salon** | /lə sa.lɔ̃/ | living room | Also called *la salle de séjour*. |
-| **la chambre à coucher** | /la ʃɑ̃.bʁ‿a ku.ʃe/ | bedroom | Often shortened to *la chambre*. |
-| **la cuisine** | /la kɥi.zin/ | kitchen | *Cuisine équipée* = fitted kitchen with appliances. |
-| **la salle de bain** | /la sal də bɛ̃/ | bathroom (with tub/shower) | Abbreviated *sdb* in ads. |
-| **les toilettes (f. pl.)** | /le twa.lɛt/ | restroom / water closet | In France, often separate from the bathroom (*WC*). |
-| **l'entrée (f.)** | /l‿ɑ̃.tʁe/ | foyer / entryway | Vestibule or hall inside the front door. |
-| **le couloir** | /lə ku.lwaʁ/ | hallway / corridor | Connects different rooms. |
-| **le balcon** | /lə bal.kɔ̃/ | balcony | Outdoor platform attached to an apartment. |
-| **le sous-sol** | /lə su.sɔl/ | basement | Common in Canadian duplexes and triplexes. |
+| French Room / Space | IPA Pronunciation | Phonetic Respelling | English Meaning | Notes & Details |
+| :--- | :--- | :--- | :--- | :--- |
+| **le logement** | /lə lɔʒ.mɑ̃/ | **luh lohzh-MAHN** | dwelling / housing | General legal and everyday term for a home. |
+| **l'appartement (m.)** | /l‿a.paʁ.tə.mɑ̃/ | **lah-pahr-tuh-MAHN** | apartment / flat | In Canada, also called *un condo* if privately owned. |
+| **la pièce** | /la pjɛs/ | **lah PYESS** | room (general) | Refers to habitable living rooms and bedrooms. |
+| **le salon** | /lə sa.lɔ̃/ | **luh sah-LOHN** | living room | Also called *la salle de séjour*. |
+| **la chambre à coucher** | /la ʃɑ̃.bʁ‿a ku.ʃe/ | **lah shahm-brah koo-SHAY** | bedroom | Often shortened to *la chambre*. |
+| **la cuisine** | /la kɥi.zin/ | **lah kwee-ZEEN** | kitchen | *Cuisine équipée* = fitted kitchen with appliances. |
+| **la salle de bain** | /la sal də bɛ̃/ | **lah sahl duh BEHN** | bathroom (with tub/shower) | Abbreviated *sdb* in ads. |
+| **les toilettes (f. pl.)** | /le twa.lɛt/ | **lay twah-LET** | restroom / water closet | In France, often separate from the bathroom (*WC*). |
+| **l'entrée (f.)** | /l‿ɑ̃.tʁe/ | **lahn-TRAY** | foyer / entryway | Vestibule or hall inside the front door. |
+| **le couloir** | /lə ku.lwaʁ/ | **luh koo-LWAHR** | hallway / corridor | Connects different rooms. |
+| **le balcon** | /lə bal.kɔ̃/ | **luh bahl-KOHN** | balcony | Outdoor platform attached to an apartment. |
+| **le sous-sol** | /lə su.sɔl/ | **luh soo-SUHL** | basement | Common in Canadian duplexes and triplexes. |
 
-> **Cet appartement comprend un grand salon lumineux, deux chambres à coucher et une cuisine moderne.** — /sɛ.t‿a.paʁ.tə.mɑ̃ kɔ̃.pʁɑ̃ œ̃ ɡʁɑ̃ sa.lɔ̃ ly.mi.nø, dø ʃɑ̃.bʁ‿a ku.ʃe e yn kɥi.zin mɔ.dɛʁn/  
+> **Cet appartement comprend un grand salon lumineux, deux chambres à coucher et une cuisine moderne.** — /sɛ.t‿a.paʁ.tə.mɑ̃ kɔ̃.pʁɑ̃ œ̃ ɡʁɑ̃ sa.lɔ̃ ly.mi.nø, dø ʃɑ̃.bʁ‿a ku.ʃe e yn kɥi.zin mɔ.dɛʁn/ (seh-tah-pahr-tuh-mahn kohn-prahn uhn grahn sah-lohn lew-mee-NEUH, deuh shahm-brah koo-shay ay ewn kwee-zeen moh-DEHRN)  
 > *This apartment includes a large bright living room, two bedrooms, and a modern kitchen.*
 
 ### The two systems of apartment sizing: Europe vs Canada
@@ -60,11 +60,11 @@ In France and Europe, apartments are classified by the letter **T** (for *Type*)
 
 In Québec and Francophone Canada, rental listings universally use the **half-room system** (**la demie**). The half (½) represents the **bathroom**:
 
-- **Un 1½** (/œ̃ œ̃.n‿e dmi/): A studio apartment (one main room + one bathroom).
-- **Un 2½** (/œ̃ dø.z‿e dmi/): One living/sleeping area, a separate kitchen, plus one bathroom.
-- **Un 3½** (/œ̃ tʁwa.z‿e dmi/): **One bedroom**, one living room, one separate kitchen, plus one bathroom. (Equivalent to a French *T2* or North American "one-bedroom").
-- **Un 4½** (/œ̃ katʁ.e dmi/): **Two bedrooms**, one living room, one kitchen, plus one bathroom. (Equivalent to a French *T3* or North American "two-bedroom").
-- **Un 5½** (/œ̃ sɛ̃k.e dmi/): **Three bedrooms**, one living room, one kitchen, plus one bathroom.
+- **Un 1½** (/œ̃ œ̃.n‿e dmi/ — (uhn uhn-nay dmee)): A studio apartment (one main room + one bathroom).
+- **Un 2½** (/œ̃ dø.z‿e dmi/ — (uhn deuh-zay dmee)): One living/sleeping area, a separate kitchen, plus one bathroom.
+- **Un 3½** (/œ̃ tʁwa.z‿e dmi/ — (uhn trwah-zay dmee)): **One bedroom**, one living room, one separate kitchen, plus one bathroom. (Equivalent to a French *T2* or North American "one-bedroom").
+- **Un 4½** (/œ̃ katʁ.e dmi/ — (uhn kah-tray dmee)): **Two bedrooms**, one living room, one kitchen, plus one bathroom. (Equivalent to a French *T3* or North American "two-bedroom").
+- **Un 5½** (/œ̃ sɛ̃k.e dmi/ — (uhn sehn-kay dmee)): **Three bedrooms**, one living room, one kitchen, plus one bathroom.
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -82,19 +82,19 @@ If a reading question asks: *« Combien de chambres compte ce logement québéco
 
 Real estate listings in newspapers and online classified sites (such as Kijiji, Marketplace, or SeLoger) use dense abbreviations to save space:
 
-| Abbreviation | Full French Form | English Meaning |
-| :--- | :--- | :--- |
-| **rdc / RDC** | *rez-de-chaussée* | ground floor |
-| **asc.** | *ascenseur* | elevator |
-| **étag.** | *étage* | floor / story (e.g. *3e étag.* = 3rd floor) |
-| **meub.** | *meublé* | furnished |
-| **non meub.** | *non meublé* | unfurnished |
-| **sdb / SDB** | *salle de bain* | bathroom |
-| **sde / SDE** | *salle d'eau* | shower room (shower without bathtub) |
-| **cc / CC** | *charges comprises* | utilities / building fees included in rent |
-| **hc / HC** | *hors charges* | rent without utilities / extra costs |
-| **électros** **(QC)** | *électroménagers inclus* | refrigerator and stove included |
-| **stat.** **(QC)** | *stationnement* | parking space |
+| Abbreviation | Full French Form | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **rdc / RDC** | *rez-de-chaussée* | /ʁe.də.ʃo.se/ | **ray-duh-shoh-SAY** | ground floor |
+| **asc.** | *ascenseur* | /a.sɑ̃.sœʁ/ | **ah-sahn-SEUHR** | elevator |
+| **étag.** | *étage* | /e.taʒ/ | **ay-TAHZH** | floor / story (e.g. *3e étag.* = 3rd floor) |
+| **meub.** | *meublé* | /mø.ble/ | **meuh-BLAY** | furnished |
+| **non meub.** | *non meublé* | /nɔ̃ mø.ble/ | **nohn meuh-BLAY** | unfurnished |
+| **sdb / SDB** | *salle de bain* | /sal də bɛ̃/ | **sahl duh BEHN** | bathroom |
+| **sde / SDE** | *salle d'eau* | /sal do/ | **sahl DOH** | shower room (shower without bathtub) |
+| **cc / CC** | *charges comprises* | /ʃaʁʒ kɔ̃.pʁiz/ | **shahrzh kohn-PREEZ** | utilities / building fees included in rent |
+| **hc / HC** | *hors charges* | /ɔʁ ʃaʁʒ/ | **ohr SHAHRZH** | rent without utilities / extra costs |
+| **électros** **(QC)** | *électroménagers inclus* | /e.lɛk.tʁɔ.me.na.ʒe ɛ̃.kly/ | **ay-lek-troh-may-nah-ZHAY ehn-KLEW** | refrigerator and stove included |
+| **stat.** **(QC)** | *stationnement* | /sta.sjɔn.mɑ̃/ | **stah-syohn-MAHN** | parking space |
 
 #### Sample Classified Ad Analysis
 
@@ -113,12 +113,12 @@ Let us deconstruct this authentic listing:
 
 Navigating the rental market requires specific contractual and financial terminology:
 
-- **Le loyer** (/lə lwa.je/) — *The rent*: The monthly financial sum paid to the owner.
-- **Le bail** (/lə baj/) — *The lease / rental contract* (plural: *les baux* /le bo/).
-- **Le propriétaire** (/lə pʁɔ.pʁi.je.tɛʁ/) — *The landlord / owner* (feminine: *la propriétaire*).
-- **Le locataire** (/lə lɔ.ka.tɛʁ/) — *The tenant* (feminine: *la locataire*).
-- **La colocation** (/la kɔ.lɔ.ka.sjɔ̃/) — *Apartment sharing / living with roommates*. (Roommate = *un colocataire* or *un coloc*).
-- **Le dépôt de garantie / La caution** (/lə de.po də ɡa.ʁɑ̃.ti / la ko.sjɔ̃/) — *Security deposit*.
+- **Le loyer** (/lə lwa.je/ — (luh lwah-YAY)) — *The rent*: The monthly financial sum paid to the owner.
+- **Le bail** (/lə baj/ — (luh BYE)) — *The lease / rental contract* (plural: *les baux* /le bo/ — (lay BOH)).
+- **Le propriétaire** (/lə pʁɔ.pʁi.je.tɛʁ/ — (luh proh-pree-yay-TEHR)) — *The landlord / owner* (feminine: *la propriétaire*).
+- **Le locataire** (/lə lɔ.ka.tɛʁ/ — (luh loh-kah-TEHR)) — *The tenant* (feminine: *la locataire*).
+- **La colocation** (/la kɔ.lɔ.ka.sjɔ̃/ — (lah koh-loh-kah-SYOHN)) — *Apartment sharing / living with roommates*. (Roommate = *un colocataire* or *un coloc*).
+- **Le dépôt de garantie / La caution** (/lə de.po də ɡa.ʁɑ̃.ti / la ko.sjɔ̃/ — (luh day-poh duh gah-rahn-TEE / lah koh-SYOHN)) — *Security deposit*.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -179,23 +179,23 @@ Train your eyes to scan directly for digits, abbreviations, and exclusionary sym
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 16 housing and rental terms with IPA to your personal Anki flashcard deck:
-   - *le logement* (/lə lɔʒ.mɑ̃/) — housing / dwelling
-   - *le loyer* (/lə lwa.je/) — monthly rent
-   - *le bail* (/lə baj/) — lease / rental contract
-   - *le propriétaire* (/lə pʁɔ.pʁi.je.tɛʁ/) — landlord
-   - *le locataire* (/lə lɔ.ka.tɛʁ/) — tenant
-   - *la chambre à coucher* (/la ʃɑ̃.bʁ‿a ku.ʃe/) — bedroom
-   - *la salle de bain* (/la sal də bɛ̃/) — bathroom
-   - *le rez-de-chaussée* (/lə ʁe.də.ʃo.se/) — ground floor
-   - *l'ascenseur (m.)* (/l‿a.sɑ̃.sœʁ/) — elevator
-   - *le meublé* (/lə mø.ble/) — furnished apartment
-   - *les charges comprises (cc)* (/le ʃaʁʒ kɔ̃.pʁiz/) — utilities included
-   - *chauffé et éclairé* **(QC)** (/ʃo.fe e e.klɛ.ʁe/) — heated and powered (electricity included)
-   - *les électroménagers* (/le.z‿e.lɛk.tʁɔ.me.na.ʒe/) — household appliances (fridge/stove)
-   - *le stationnement* **(QC)** (/lə sta.sjɔn.mɑ̃/) — parking space
-   - *la colocation* (/la kɔ.lɔ.ka.sjɔ̃/) — apartment sharing
-   - *le jour du déménagement* **(QC)** (/lə ʒuʁ dy de.me.naʒ.mɑ̃/) — moving day (July 1st)
+   Add these 16 housing and rental terms with IPA and Phonetic Respelling to your personal Anki flashcard deck:
+   - *le logement* (/lə lɔʒ.mɑ̃/ — "luh lohzh-MAHN") — housing / dwelling
+   - *le loyer* (/lə lwa.je/ — "luh lwah-YAY") — monthly rent
+   - *le bail* (/lə baj/ — "luh BYE") — lease / rental contract
+   - *le propriétaire* (/lə pʁɔ.pʁi.je.tɛʁ/ — "luh proh-pree-yay-TEHR") — landlord
+   - *le locataire* (/lə lɔ.ka.tɛʁ/ — "luh loh-kah-TEHR") — tenant
+   - *la chambre à coucher* (/la ʃɑ̃.bʁ‿a ku.ʃe/ — "lah shahm-brah koo-SHAY") — bedroom
+   - *la salle de bain* (/la sal də bɛ̃/ — "lah sahl duh BEHN") — bathroom
+   - *le rez-de-chaussée* (/lə ʁe.də.ʃo.se/ — "luh ray-duh-shoh-SAY") — ground floor
+   - *l'ascenseur (m.)* (/l‿a.sɑ̃.sœʁ/ — "lah-sahn-SEUHR") — elevator
+   - *le meublé* (/lə mø.ble/ — "luh meuh-BLAY") — furnished apartment
+   - *les charges comprises (cc)* (/le ʃaʁʒ kɔ̃.pʁiz/ — "lay shahrzh kohn-PREEZ") — utilities included
+   - *chauffé et éclairé* **(QC)** (/ʃo.fe e e.klɛ.ʁe/ — "shoh-FAY ay ay-kleh-RAY") — heated and powered (electricity included)
+   - *les électroménagers* (/le.z‿e.lɛk.tʁɔ.me.na.ʒe/ — "lay-zay-lek-troh-may-nah-ZHAY") — household appliances (fridge/stove)
+   - *le stationnement* **(QC)** (/lə sta.sjɔn.mɑ̃/ — "luh stah-syohn-MAHN") — parking space
+   - *la colocation* (/la kɔ.lɔ.ka.sjɔ̃/ — "lah koh-loh-kah-SYOHN") — apartment sharing
+   - *le jour du déménagement* **(QC)** (/lə ʒuʁ dy de.me.naʒ.mɑ̃/ — "luh zhoor dew day-may-nahzh-MAHN") — moving day (July 1st)
 
 3. **Step 3: Receptive Reading Practice**  
    Visit an authentic Canadian or Francophone classifieds portal (such as [Radio-Canada — Dossier logement](https://ici.radio-canada.ca/)).  
@@ -205,12 +205,12 @@ Train your eyes to scan directly for digits, abbreviations, and exclusionary sym
 4. **Step 4: Productive Speaking Task (Simulated TCF Speaking Task 2 Inquiry)**  
    Imagine you found an ad for a 3½ apartment in Montreal that says: *« 3½ à louer, 1 200 $, libre 1er juillet. Tél : 514-555-0199 »*.  
    Record a **2-minute voice note** roleplaying a telephone call to the landlord where you ask **at least 7 formal questions** using polite formulas:
-   - Ask about the exact location and nearest metro station (*À quelle distance se trouve la station de métro la plus proche ?*).
-   - Ask if heating and electricity are included (*Est-ce que le loyer est chauffé et éclairé ?*).
-   - Ask about appliances (*Est-ce que les électroménagers sont inclus ?*).
-   - Ask about parking and elevator access (*Y a-t-il un ascenseur et un stationnement disponible ?*).
-   - Inquire about pet policies (*Est-ce que les animaux sont permis dans l'immeuble ?*).
-   - Request an appointment to visit the apartment (*Quand est-il possible de visiter le logement ?*).
+   - Ask about the exact location and nearest metro station (*À quelle distance se trouve la station de métro la plus proche ?* /a kɛl dis.tɑ̃s sə tʁuv la sta.sjɔ̃ də me.tʁo la ply pʁɔʃ/ — (ah kel dees-TAHNS suh TROOV lah stah-syohn duh may-troh lah plew PROHSH ?)).
+   - Ask if heating and electricity are included (*Est-ce que le loyer est chauffé et éclairé ?* /ɛs.kə lə lwa.je ɛ ʃo.fe e e.klɛ.ʁe/ — (ess-kuh luh lwah-YAY eh shoh-FAY ay ay-kleh-RAY ?)).
+   - Ask about appliances (*Est-ce que les électroménagers sont inclus ?* /ɛs.kə le.z‿e.lɛk.tʁɔ.me.na.ʒe sɔ̃.t‿ɛ̃.kly/ — (ess-kuh lay-zay-lek-troh-may-nah-ZHAY sohn-tehn-KLEW ?)).
+   - Ask about parking and elevator access (*Y a-t-il un ascenseur et un stationnement disponible ?* /i.l‿j‿a.t‿il œ̃.n‿a.sɑ̃.sœʁ e œ̃ sta.sjɔn.mɑ̃ dis.pɔ.nibl/ — (eel-yah-TEEL uhn-nah-sahn-SEUHR ay uhn stah-syohn-mahn dees-poh-NEEBL ?)).
+   - Inquire about pet policies (*Est-ce que les animaux sont permis dans l'immeuble ?* /ɛs.kə le.z‿a.ni.mo sɔ̃ pɛʁ.mi dɑ̃ l‿i.mœbl/ — (ess-kuh lay-zah-nee-MOH sohn pehr-MEE dahn lee-MEUBL ?)).
+   - Request an appointment to visit the apartment (*Quand est-il possible de visiter le logement ?* /kɑ̃.t‿ɛ.til pɔ.sibl də vi.zi.te lə lɔʒ.mɑ̃/ — (kahn-teh-TEEL poh-SEEBL duh vee-zee-tay luh lohzh-MAHN ?)).
    
    Listen back to your recording and verify that your questions use formal *vous* (*vouvoiement*) and sound polite and spontaneous!
 
