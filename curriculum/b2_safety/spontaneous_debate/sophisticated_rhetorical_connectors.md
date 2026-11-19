@@ -68,6 +68,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
 - **Model Example**:  
   **« Cette réforme fiscale ne pénalise pas seulement les petites entreprises ; mais bien plus, elle décourage l'innovation locale en taxant lourdement la recherche. »**  
   [sɛt ʁefɔʁm fiskal nə penaliz pa səlmɑ̃ le pətit zɑ̃tʁəpʁiz mɛ bjɛ̃ plys ɛl dekuʁaʒ linɔvasjɔ̃ lɔkal ɑ̃ taksɑ̃ luʁdəmɑ̃ la ʁəʃɛʁʃ]  
+  (seht ray-FOHRM fees-KAHL nuh pay-nah-LEEZ pah suhl-MAHN lay puh-TEET zahn-truh-PREEZ ; meh BYEN PLEWSS, ehl day-koo-RAHZH leen-noh-vah-SYOHN loh-KAHL ahn tahk-SAHN loor-duh-MAHN lah ruh-SHEHRSH.)  
   *This tax reform not only penalizes small businesses; what is more, it discourages local innovation by heavily taxing research.*
 
 #### 2. Qui plus est
@@ -77,6 +78,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
 - **Model Example**:  
   **« Le tracé autoroutier actuel engendre une pollution atmosphérique alarmante. Qui plus est, son élargissement détruira irrémédiablement des terres agricoles centenaires. »**  
   [lə tʁase otoʁutje aktɥɛl ɑ̃ʒɑ̃dʁ yn pɔlysjɔ̃ atmɔsfɛʁik alaʁmɑ̃t ki plys ɛ sɔ̃n elaʁʒismɑ̃ detʁɥiʁa iʁemedjabləmɑ̃ de tɛʁ aɡʁikɔl sɑ̃tnɛʁ]  
+  (luh trah-SAY oh-toh-roo-TYAY ahk-TWEL ahn-ZHAHN-druh ewn poh-lew-SYOHN aht-mohs-fay-REEK ah-lahr-MAHNT. kee plew-ZEH, sohn nay-lahr-zhees-MAHN day-trwee-RAH ee-ray-may-dyah-bluh-MAHN day TEHR ah-gree-KOHL sahn-tuh-NEHR.)  
   *The current highway alignment generates alarming air pollution. What is more, its widening will irreparably destroy centuries-old agricultural land.*
 
 #### 3. D'autant (plus / moins) que
@@ -86,6 +88,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
 - **Model Example**:  
   **« L'exode des jeunes professionnels vers les métropoles s'accélère, d'autant plus que les régions périphériques souffrent d'une pénurie criante de services médicaux. »**  
   [lɛɡzɔd de ʒœn pʁɔfɛsjɔnɛl vɛʁ le metʁɔpɔl sakselɛʁ dotɑ̃ plys kə le ʁeʒjɔ̃ peʁifeʁik sufʁ dyn penyʁi kʁijɑ̃t də sɛʁvis mediko]  
+  (lehg-ZOHD day zhuhn proh-feh-syoh-NEHL vehr lay may-troh-POHL sahk-say-LEHR, doh-TAHN PLEWS kuh lay ray-zhyohn pay-ree-fay-REEK SOO-fruht dewn pay-new-REE kree-YAHNT duh sehr-VEES may-dee-KOH.)  
   *The exodus of young professionals to metropolitan areas is accelerating, all the more so since peripheral regions suffer from a glaring shortage of medical services.*
 
 #### 4. À plus forte raison
@@ -94,6 +97,7 @@ When building a persuasive case in Writing Task 3 or Speaking Task 3, you must g
 - **Model Example**:  
   **« Si les grandes corporations peinent à sécuriser leurs bases de données contre le cyber-espionnage, à plus forte raison les municipalités locales se trouvent-elles démunies. »**  
   [si le ɡʁɑ̃d kɔʁpɔʁasjɔ̃ pɛn a sekyʁize lœʁ baz də dɔne kɔ̃tʁ lə sibɛʁɛspjɔnaʒ a ply fɔʁt ʁɛzɔ̃ le minisipalite lɔkal sə tʁuvt‿ɛl demyni]  
+  (see lay GRAHND kohr-poh-rah-SYOHN PEHN ah say-kew-ree-ZAY luhr BAHZ duh doh-NAY kohn-truh luh see-behr-ehs-pyoh-NAHZH, ah plew FOHRT ray-ZOHN lay mew-nee-see-pah-lee-TAY loh-KAHL suh troovt-EHL day-mew-NEE.)  
   *If large corporations struggle to secure their databases against cyber-espionage, even more so are local municipalities left defenseless.*
 
 ---
@@ -109,6 +113,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 - **Model Example**:  
   **« Les récents accords climatiques n'ont pas permis de juguler la hausse des températures mondiales, loin s'en faut. »**  
   [le ʁesɑ̃.z‿akɔʁ klimatik nɔ̃ pa pɛʁmi də ʒyɡyle la os de tɑ̃peʁatyʁ mɔ̃djal lwɛ̃ sɑ̃ fo]  
+  (lay ray-SAHN-zah-KOHR klee-mah-TEEK nohn PAH pehr-MEE duh zhew-gew-LAY lah OHSS day tahn-pay-rah-TEWR mohn-DYAHL, lwehn sahn FOH.)  
   *Recent climate agreements have not succeeded in curbing the rise in global temperatures—far from it.*
 
 #### 2. Bien loin de (+ infinitif)
@@ -117,6 +122,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 - **Model Example**:  
   **« Bien loin de favoriser l'inclusion professionnelle, cette mesure administrative a accru la précarité des travailleurs atypiques. »**  
   [bjɛ̃ lwɛ̃ də favɔʁize lɛ̃klyzjɔ̃ pʁɔfɛsjɔnɛl sɛt məzyʁ dministʁativ a akʁy la pʁekaʁite de tʁavajœʁ atipik]  
+  (byen lwehn duh fah-voh-ree-ZAY lehn-klew-ZYOHN proh-feh-syoh-NEHL, seht muh-ZEWR ahd-mee-nees-trah-TEEV ah ah-KREW lah pray-kah-ree-TAY day trah-vah-YUR ah-tee-PEEK.)  
   *Far from fostering professional inclusion, this administrative measure actually increased precariousness for non-traditional workers.*
 
 #### 3. Il n'en reste pas moins que
@@ -126,6 +132,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 - **Model Example**:  
   **« Malgré les explications techniques avancées par les promoteurs, il n'en reste pas moins que ce complexe immobilier défigurera le littoral historique. »**  
   [malɡʁe lez ɛksplikasjɔ̃ tɛknik avɑ̃se paʁ le pʁɔmɔtœʁ il nɑ̃ ʁɛst pa mwɛ̃ kə sə kɔ̃plɛks imɔbilje defiɡyʁəʁa lə litɔʁal istɔʁik]  
+  (mahl-GRAY lay-zehk-splee-kah-SYOHN tehk-NEEK ah-vahn-SAY pahr lay proh-moh-TUR, eel nahn rehst pah MWEHN kuh suh kohm-PLEHKS eem-moh-bee-LYAY day-fee-gew-ruh-RAH luh lee-toh-RAHL ees-toh-REEK.)  
   *Despite the technical explanations put forward by developers, the fact remains that this housing complex will disfigure the historical coastline.*
 
 #### 4. À rebours de
@@ -134,6 +141,7 @@ In academic essays and oral debate, dogmatic speakers simply dismiss opposing vi
 - **Model Example**:  
   **« À rebours de la tendance générale à l'austérité budgétaire, la province a choisi d'augmenter massivement ses investissements dans les bibliothèques publiques. »**  
   [a ʁəbuʁ də la tɑ̃dɑ̃s ʒeneʁal a losteʁite bydʒetɛʁ la pʁɔvɛ̃s a ʃwazi doɡmɑ̃te masivmɑ̃ sez ɛ̃vɛstismɑ̃ dɑ̃ le biblijɔtɛk pyblik]  
+  (ah ruh-BOOR duh lah tahn-DAHNS zhay-nay-RAHL ah lohs-tay-ree-TAY bewd-zhay-TEHR, lah proh-VEHNS ah shwah-ZEE dohg-mahn-TAY mah-seev-MAHN say-zehn-vehs-tees-MAHN dahn lay bee-blyoh-TEHK pew-BLEEK.)  
   *Running counter to the general trend toward fiscal austerity, the province chose to massively increase its investments in public libraries.*
 
 ---
@@ -149,6 +157,7 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
 - **Model Example**:  
   **« Quand bien même l'administration injecterait des millions supplémentaires dans ce programme, le problème d'accès aux soins demeurerait entier sans décentralisation médicale. »**  
   [kɑ̃ bjɛ̃ mɛm ladministʁasjɔ̃ ɛ̃ʒɛktəʁɛ de miljɔ̃ syplemɑ̃tɛʁ dɑ̃ sə pʁɔɡʁam lə pʁɔblɛm daksɛ oz swɛ̃ dəmœʁəʁɛ ɑ̃tje sɑ̃ desɑ̃tʁalizasjɔ̃ medikal]  
+  (kahn byen MEHM lahd-mee-nees-trah-SYOHN ehn-zhehk-truh-REH day meel-YOHN sew-play-mahn-TEHR dahn suh proh-GRAHM, luh proh-BLEHM dahk-SEH oh SWEHN duh-muh-ruh-REH ahn-TYAY sahn day-sahn-trah-lee-zah-SYOHN may-dee-KAHL.)  
   *Even if the administration were to inject additional millions into this program, the problem of access to care would remain unresolved without medical decentralization.*
 
 #### 2. Quitte à (+ infinitif)
@@ -157,6 +166,7 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
 - **Model Example**:  
   **« Les autorités doivent imposer un moratoire immédiat sur les forages, quitte à mécontenter certains lobbies industriels influents. »**  
   [lez otoʁite dwavt‿ɛ̃poze œ̃ mɔʁatwaʁ imedja syʁ le fɔʁaʒ kit a mekɔ̃tɑ̃te sɛʁtɛ̃ lɔbi zɛ̃dystʁijɛl zɛ̃flyɑ̃]  
+  (lay-zoh-toh-ree-TAY DWAHVT-ehm-poh-ZAY uhn moh-rah-TWAHR eem-may-DYAH sewr lay foh-RAHZH, keet ah may-kohn-tahn-TAY sehr-TEHN loh-BEE zehn-dews-tree-YEHL zehn-flew-AHN.)  
   *The authorities must impose an immediate moratorium on drilling, even if it means displeasing certain influential industrial lobbies.*
 
 #### 3. Pour peu que (+ subjonctif)
@@ -166,6 +176,7 @@ Sophisticated discourse often requires subordinating an outcome to an extreme co
 - **Model Example**:  
   **« Cette initiative citoyenne pourrait rapidement transformer le quartier, pour peu que la mairie lui accorde un soutien logistique minimal. »**  
   [sɛt inisjativ sitwajɛn puʁɛ ʁapidmɑ̃ tʁɑ̃sfɔʁme lə kaʁtje puʁ pø kə la mɛʁi lɥi akɔʁd œ̃ sutjɛ̃ lɔʒistik minimal]  
+  (seht ee-nee-syah-TEEV see-twah-YEHN poor-REH rah-peed-MAHN trahns-fohr-MAY luh kahr-TYAY, poor puh kuh lah may-REE lwee ah-KOHRD uhn soo-TYEN loh-zhees-TEEK mee-nee-MAHL.)  
   *This civic initiative could quickly transform the neighborhood, provided only that city hall grants it minimal logistical support.*
 
 ---
