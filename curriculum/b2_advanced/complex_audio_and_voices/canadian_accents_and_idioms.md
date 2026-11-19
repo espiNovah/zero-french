@@ -37,33 +37,33 @@ CANADIAN PHONETIC SYSTEM  ─┼─── 2. Vowel Laxing : /i, y, u/ become [ɪ
 #### 1. Dental Affrication (/t/ → [ts], /d/ → [dz])
 The single most pervasive acoustic feature of Laurentian (Québec and Ontario) French is the affrication of dental stops (/t/ and /d/) when immediately followed by high front vowels (/i/, /y/) or semi-vowels (/j/, /ɥ/). The tongue makes brief fricative contact with the alveolar ridge, inserting an audible [s] or [z] sound:
 
-| French Word | Standard International IPA | Canadian French IPA | Auditory Perception | English Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **tu dis** | /ty di/ | [tsy dzi] | *"tsu dzee"* | you say |
-| **dimanche** | /di.mɑ̃ʃ/ | [dzi.mãːʃ] | *"dzee-menche"* | Sunday |
-| **dur** | /dyʁ/ | [dzyːʁ] | *"dzur"* | hard |
-| **la tuque** | /la tyk/ | [la tsʏk] | *"la tsuk"* | the winter hat |
-| **partir** | /paʁ.tiʁ/ | [paʁ.tsiːʁ] | *"par-tseer"* | to leave |
+| French Word | Standard International IPA | Canadian French IPA | Phonetic Respelling | Auditory Perception | English Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **tu dis** | /ty di/ | [tsy dzi] | (tsew dzee) | *"tsu dzee"* | you say |
+| **dimanche** | /di.mɑ̃ʃ/ | [dzi.mãːʃ] | (dzee-MAHNSH) | *"dzee-menche"* | Sunday |
+| **dur** | /dyʁ/ | [dzyːʁ] | (DZEWR) | *"dzur"* | hard |
+| **la tuque** | /la tyk/ | [la tsʏk] | (lah TSEWK) | *"la tsuk"* | the winter hat |
+| **partir** | /paʁ.tiʁ/ | [paʁ.tsiːʁ] | (pahr-TSEER) | *"par-tseer"* | to leave |
 
 Affrication **never** applies before other vowels: *le député* stays [lə de.py.te] (/d/ + /e/), *l'équipe* stays [l‿e.kɪp] (no /t/ at all), and *tout* stays [tu]. Only the /t/ or /d/ directly followed by /i, y, j, ɥ/ changes.
 
-> **Tu viens-tu dimanche matin ?** — /tsy vjɛ̃ tsy dzi.mɑ̃ʃ ma.tɛ̃/ — *Are you coming Sunday morning?*
+> **Tu viens-tu dimanche matin ?** — /tsy vjɛ̃ tsy dzi.mɑ̃ʃ ma.tɛ̃/ (*tsew vyen tsew dzee-MAHNSH mah-TEHN*) — *Are you coming Sunday morning?*
 
 In Canadian recordings, affrication appears constantly in both formal institutional interviews and street-level vox pops. You must train your ear to filter out the [s] and [z] friction so that *« l'attitude du député »*—heard as [la.tsi.tsʏd dzy de.py.te]—is immediately registered as *attitude du député* rather than an unfamiliar vocabulary item.
 
 #### 2. High-Vowel Laxing (/i/ → [ɪ], /y/ → [ʏ], /u/ → [ʊ])
 In standard European French, high vowels (/i/, /y/, /u/) remain tense and peripheral regardless of syllable structure. In Canadian French, when these vowels appear in a **closed syllable** (a syllable ending in a pronounced consonant other than the lengthening consonants /ʁ, z, v, vʁ/), they become lax, adopting open qualities identical to English short vowels in *bit*, *book*, and German *Hütte*:
 
-| Vowel Shift | Standard IPA | Canadian IPA | Example Word | Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **/i/ → [ɪ]** | /vit/ | [vɪt] | **vite** | fast |
-| **/i/ → [ɪ]** | /ʁiʃ/ | [ʁɪʃ] | **riche** | rich |
-| **/y/ → [ʏ]** | /lyn/ | [lʏn] | **lune** | moon |
-| **/y/ → [ʏ]** | /lyt/ | [lʏt] | **lutte** | struggle / fight |
-| **/u/ → [ʊ]** | /tut/ | [tʊt] | **toute** | all (fem.) |
-| **/u/ → [ʊ]** | /ʁut/ | [ʁʊt] | **route** | road |
+| Vowel Shift | Standard IPA | Canadian IPA | Phonetic Respelling | Example Word | Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **/i/ → [ɪ]** | /vit/ | [vɪt] | (VIHT) | **vite** | fast |
+| **/i/ → [ɪ]** | /ʁiʃ/ | [ʁɪʃ] | (REESH / RIHSH) | **riche** | rich |
+| **/y/ → [ʏ]** | /lyn/ | [lʏn] | (LEWN) | **lune** | moon |
+| **/y/ → [ʏ]** | /lyt/ | [lʏt] | (LEWT) | **lutte** | struggle / fight |
+| **/u/ → [ʊ]** | /tut/ | [tʊt] | (TOOT) | **toute** | all (fem.) |
+| **/u/ → [ʊ]** | /ʁut/ | [ʁʊt] | (ROOT) | **route** | road |
 
-> **Il faut faire vite toute la route !** — /ɪl fo faɛ̯ʁ vɪt tʊt la ʁʊt/ — *We must hurry all along the road!*
+> **Il faut faire vite toute la route !** — /ɪl fo faɛ̯ʁ vɪt tʊt la ʁʊt/ (*eel foh fah-EHR viht toot lah ROOT*) — *We must hurry all along the road!*
 
 #### 3. Vowel Diphthongization in Long Syllables
 When a historically long vowel (often indicated in orthography by a circumflex accent `^`, or before the lengthening consonants /ʁ/, /z/, /v/, /ʒ/) is stressed in a final closed syllable, it regularly diphthongs in spoken Canadian French. The vowel begins at one tongue position and glides to another:
@@ -111,7 +111,7 @@ In conversational Québec French, *tu* functions not only as the second-person s
 - *« Ils viennent-tu avec nous ? »* = *Est-ce qu'ils viennent avec nous ?*
 - *« Tu veux-tu un café ? »* = *Est-ce que tu veux un café ?*
 
-> **C'est-tu possible d'avoir un rendez-vous plus tôt ?** — /s‿e tsy pɔ.sɪbl d‿a.vwaʁ œ̃ ʁɑ̃.de.vu ply to/ — *Is it possible to get an appointment earlier?*
+> **C'est-tu possible d'avoir un rendez-vous plus tôt ?** — /s‿e tsy pɔ.sɪbl d‿a.vwaʁ œ̃ ʁɑ̃.de.vu ply to/ (*seh tsew poh-SEE-bluh dah-VWAHR uhn rahn-day-VOO plew TOH*) — *Is it possible to get an appointment earlier?*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -162,15 +162,15 @@ Listening comprehension often requires you to infer meaning from figurative and 
 Let us examine how these expressions operate within authentic Canadian speech:
 
 > **Quand le budget a été coupé, le directeur du projet a frappé un nœud solide.**  
-> /kɑ̃ lə byd.ʒɛ a e.te ku.pe, lə dzi.ʁɛk.tœʁ dy pʁɔ.ʒɛ a fʁa.pe œ̃ nœ sɔ.lɪd/  
+> /kɑ̃ lə byd.ʒɛ a e.te ku.pe, lə dzi.ʁɛk.tœʁ dy pʁɔ.ʒɛ a fʁa.pe œ̃ nœ sɔ.lɪd/ (*kahn luh bewd-ZHEH ah ay-TAY koo-PAY, luh dzee-rehk-TUHR dew proh-ZHEH ah frah-PAY uhn NEUH soh-LEED*)  
 > *When the budget was cut, the project manager hit a brick wall.*
 
 > **Dans les négociations commerciales, il faut être vigilant pour ne pas se faire passer un sapin.**  
-> /dɑ̃ le ne.gɔ.sja.sjɔ̃ kɔ.mɛʁ.sjal, ɪl fo ɛːtʁ vi.ʒi.lɑ̃ puʁ nə pɑ se faɛ̯ʁ pɑ.se œ̃ sa.pɛ̃/  
+> /dɑ̃ le ne.gɔ.sja.sjɔ̃ kɔ.mɛʁ.sjal, ɪl fo ɛːtʁ vi.ʒi.lɑ̃ puʁ nə pɑ se faɛ̯ʁ pɑ.se œ̃ sa.pɛ̃/ (*dahn lay nay-goh-syah-SYOHN koh-mehr-SYAHL, eel foh EH-truh vee-zhee-LAHN poor nuh pah suh fah-EHR pah-SAY uhn sah-PEHN*)  
 > *In commercial negotiations, one must be vigilant so as not to get swindled.*
 
 > **Malgré les difficultés de la première session, l'étudiant a refusé de lâcher la patate.**  
-> /mal.gʁe le dzi.fi.kyl.te də la pʁə.mjɛːʁ sɛ.sjɔ̃, l‿e.tsy.dzjɑ̃ a ʁə.fy.ze də lɑ.ʃe la pa.tat/  
+> /mal.gʁe le dzi.fi.kyl.te də la pʁə.mjɛːʁ sɛ.sjɔ̃, l‿e.tsy.dzjɑ̃ a ʁə.fy.ze də lɑ.ʃe la pa.tat/ (*mahl-GRAY lay dzee-fee-kewl-TAY duh lah pruh-MYEHR say-SYOHN, lay-tsew-DZYAHN ah ruh-few-ZAY duh lah-SHAY lah pah-TAHT*)  
 > *Despite the difficulties of the first term, the student refused to throw in the towel.*
 
 ---
@@ -296,16 +296,16 @@ Transcribe the following 6 Canadian phonetic phrases into standard orthographic 
 #### Exercise 2: Canadian Vocabulary and Anki Deck
 Add the following high-priority Canadian items to your spaced-repetition deck with IPA and contextual definitions:
 
-1. **le char** — /lə ʃaʁ/ — *la voiture / l'automobile (car)*
-2. **le dépanneur** — /lə de.pa.nœʁ/ — *la supérette / le magasin de quartier ouvert tard (convenience store)*
-3. **la facture** — /la fak.tsyːʁ/ — *l'addition au restaurant / note à payer (bill)*
-4. **magasiner** — /ma.ga.zi.ne/ — *faire du shopping / faire du lèche-vitrine (to shop, to go shopping)*
-5. **le courriel** — /lə ku.ʁjɛl/ — *l'e-mail / le message électronique (email)*
-6. **la fin de semaine** — /la fɛ̃ də s(ə).mɛn/ — *le week-end (weekend)*
-7. **le traversier** — /lə tʁa.vɛʁ.sje/ — *le ferry / bac maritime (ferry)*
-8. **la tuque** — /la tsʏk/ — *le bonnet d'hiver (winter hat)*
-9. **le cégep** — /lə se.ʒɛp/ — *collège d'enseignement général et professionnel (post-secondary college in QC)*
-10. **stationner** — /sta.sjɔ.ne/ — *se garer (to park a vehicle)*
+1. **le char** — /lə ʃaʁ/ (luh SHAHR) — *la voiture / l'automobile (car)*
+2. **le dépanneur** — /lə de.pa.nœʁ/ (luh day-pah-NUHR) — *la supérette / le magasin de quartier ouvert tard (convenience store)*
+3. **la facture** — /la fak.tsyːʁ/ (lah fahk-TSEWR) — *l'addition au restaurant / note à payer (bill)*
+4. **magasiner** — /ma.ga.zi.ne/ (mah-gah-zee-NAY) — *faire du shopping / faire du lèche-vitrine (to shop, to go shopping)*
+5. **le courriel** — /lə ku.ʁjɛl/ (luh koor-YEHL) — *l'e-mail / le message électronique (email)*
+6. **la fin de semaine** — /la fɛ̃ də s(ə).mɛn/ (lah fehn duh SMEHN) — *le week-end (weekend)*
+7. **le traversier** — /lə tʁa.vɛʁ.sje/ (luh trah-vehr-SYAY) — *le ferry / bac maritime (ferry)*
+8. **la tuque** — /la tsʏk/ (lah TSEWK) — *le bonnet d'hiver (winter hat)*
+9. **le cégep** — /lə se.ʒɛp/ (luh say-ZHEHP) — *collège d'enseignement général et professionnel (post-secondary college in QC)*
+10. **stationner** — /sta.sjɔ.ne/ (stah-syoh-NAY) — *se garer (to park a vehicle)*
 
 #### Exercise 3: Spoken Decoding and Receptive Audio Task
 Access an authentic audio broadcast from **Radio-Canada Première** or **Radio-Canada Ohdio** (e.g., an episode of *Midi info* or *Les faits d'abord*). Listen to a 3-minute continuous segment featuring interviews with local citizens or political commentators.
