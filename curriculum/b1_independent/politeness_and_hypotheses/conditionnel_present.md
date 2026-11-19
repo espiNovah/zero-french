@@ -37,12 +37,12 @@ $$\mathbf{\text{Radical du futur simple}} + \mathbf{\text{Terminaisons de l'impa
 
 | Subject Pronoun | Parler (Futur stem: *parler-*) | Finir (Futur stem: *finir-*) | Vendre (Futur stem: *vendr-*) | Ending |
 | :--- | :--- | :--- | :--- | :--- |
-| **Je / J'** | **Je parlerais** (/ʒə paʁ.lə.ʁɛ/) | **Je finirais** (/ʒə fi.ni.ʁɛ/) | **Je vendrais** (/ʒə vɑ̃.dʁɛ/) | **-ais** |
-| **Tu** | **Tu parlerais** (/ty paʁ.lə.ʁɛ/) | **Tu finirais** (/ty fi.ni.ʁɛ/) | **Tu vendrais** (/ty vɑ̃.dʁɛ/) | **-ais** |
-| **Il / Elle / On** | **Il parlerait** (/il paʁ.lə.ʁɛ/) | **Elle finirait** (/ɛl fi.ni.ʁɛ/) | **On vendrait** (/ɔ̃ vɑ̃.dʁɛ/) | **-ait** |
-| **Nous** | **Nous parlerions** (/nu paʁ.lə.ʁjɔ̃/) | **Nous finirions** (/nu fi.ni.ʁjɔ̃/) | **Nous vendrions** (/nu vɑ̃.dʁi.jɔ̃/) | **-ions** |
-| **Vous** | **Vous parleriez** (/vu paʁ.lə.ʁje/) | **Vous finiriez** (/vu fi.ni.ʁje/) | **Vous vendriez** (/vu vɑ̃.dʁi.je/) | **-iez** |
-| **Ils / Elles** | **Ils parleraient** (/il paʁ.lə.ʁɛ/) | **Elles finiraient** (/ɛl fi.ni.ʁɛ/) | **Ils vendraient** (/il vɑ̃.dʁɛ/) | **-aient** |
+| **Je / J'** | **Je parlerais** (/ʒə paʁ.lə.ʁɛ/ — *zhuh pahr-luh-REH*) | **Je finirais** (/ʒə fi.ni.ʁɛ/ — *zhuh fee-nee-REH*) | **Je vendrais** (/ʒə vɑ̃.dʁɛ/ — *zhuh vahn-DREH*) | **-ais** |
+| **Tu** | **Tu parlerais** (/ty paʁ.lə.ʁɛ/ — *tew pahr-luh-REH*) | **Tu finirais** (/ty fi.ni.ʁɛ/ — *tew fee-nee-REH*) | **Tu vendrais** (/ty vɑ̃.dʁɛ/ — *tew vahn-DREH*) | **-ais** |
+| **Il / Elle / On** | **Il parlerait** (/il paʁ.lə.ʁɛ/ — *eel pahr-luh-REH*) | **Elle finirait** (/ɛl fi.ni.ʁɛ/ — *ehl fee-nee-REH*) | **On vendrait** (/ɔ̃ vɑ̃.dʁɛ/ — *ohn vahn-DREH*) | **-ait** |
+| **Nous** | **Nous parlerions** (/nu paʁ.lə.ʁjɔ̃/ — *noo pahr-luh-RYOHN*) | **Nous finirions** (/nu fi.ni.ʁjɔ̃/ — *noo fee-nee-RYOHN*) | **Nous vendrions** (/nu vɑ̃.dʁi.jɔ̃/ — *noo vahn-dree-YOHN*) | **-ions** |
+| **Vous** | **Vous parleriez** (/vu paʁ.lə.ʁje/ — *voo pahr-luh-RYAY*) | **Vous finiriez** (/vu fi.ni.ʁje/ — *voo fee-nee-RYAY*) | **Vous vendriez** (/vu vɑ̃.dʁi.je/ — *voo vahn-dree-YAY*) | **-iez** |
+| **Ils / Elles** | **Ils parleraient** (/il paʁ.lə.ʁɛ/ — *eel pahr-luh-REH*) | **Elles finiraient** (/ɛl fi.ni.ʁɛ/ — *ehl fee-nee-REH*) | **Ils vendraient** (/il vɑ̃.dʁɛ/ — *eel vahn-DREH*) | **-aient** |
 
 Notice that for the singular subjects (*je, tu, il, elle, on*) and the third-person plural (*ils, elles*), **the pronunciation is 100% identical: /-ʁɛ/**! Only the spelling changes between *-ais*, *-ait*, and *-aient*.
 
@@ -51,9 +51,9 @@ Notice that for the singular subjects (*je, tu, il, elle, on*) and the third-per
 **The critical phonetic contrast: Futur Simple vs Conditionnel Présent**  
 In standard French, the first-person singular (*je*) reveals a crucial vowel shift:
 - **Futur simple**: ends in closed **/e/** (like *café*):  
-  *Je parlerai* /ʒə paʁ.lə.ʁe/ — *J'aurai* /ʒ‿o.ʁe/ — *Je serai* /ʒə sə.ʁe/
+  *Je parlerai* /ʒə paʁ.lə.ʁe/ (zhuh pahr-luh-RAY) — *J'aurai* /ʒ‿o.ʁe/ (zhoh-RAY) — *Je serai* /ʒə sə.ʁe/ (zhuh suh-RAY)
 - **Conditionnel présent**: ends in open **/ɛ/** (like *merci* or *mère*):  
-  *Je parlerais* /ʒə paʁ.lə.ʁɛ/ — *J'aurais* /ʒ‿o.ʁɛ/ — *Je serais* /ʒə sə.ʁɛ/
+  *Je parlerais* /ʒə paʁ.lə.ʁɛ/ (zhuh pahr-luh-REH) — *J'aurais* /ʒ‿o.ʁɛ/ (zhoh-REH) — *Je serais* /ʒə sə.ʁɛ/ (zhuh suh-REH)
 
 Confusing these two sounds alters your meaning from a definitive future certainty (*« I will do it »*) to a polite hypothetical condition (*« I would do it »*).
 
@@ -65,22 +65,22 @@ Because the present conditional borrows its radical directly from the *futur sim
 
 #### Master catalog of irregular stems
 
-| Infinitive Verb | Irregular Stem | Conditionnel 1st Person (*Je*) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **Avoir** | **aur-** | **J'aurais** | /ʒ‿o.ʁɛ/ | *I would have* |
-| **Être** | **ser-** | **Je serais** | /ʒə sə.ʁɛ/ | *I would be* |
-| **Aller** | **ir-** | **J'irais** | /ʒ‿i.ʁɛ/ | *I would go* |
-| **Faire** | **fer-** | **Je ferais** | /ʒə fə.ʁɛ/ | *I would do / make* |
-| **Pouvoir** | **pourr-** (double r) | **Je pourrais** | /ʒə pu.ʁɛ/ | *I could / would be able* |
-| **Vouloir** | **voudr-** | **Je voudrais** | /ʒə vu.dʁɛ/ | *I would like* |
-| **Devoir** | **devr-** | **Je devrais** | /ʒə də.vʁɛ/ | *I should / ought to* |
-| **Savoir** | **saur-** | **Je saurais** | /ʒə so.ʁɛ/ | *I would know* |
-| **Venir** | **viendr-** | **Je viendrais** | /ʒə vjɛ̃.dʁɛ/ | *I would come* |
-| **Voir** | **verr-** (double r) | **Je verrais** | /ʒə vɛ.ʁɛ/ | *I would see* |
-| **Envoyer** | **enverr-** (double r) | **J'enverrais** | /ʒ‿ɑ̃.vɛ.ʁɛ/ | *I would send* |
-| **Recevoir** | **recevr-** | **Je recevrais** | /ʒə ʁə.sə.vʁɛ/ | *I would receive* |
-| **Falloir** (impersonal) | **faudr-** | **Il faudrait** | /il fo.dʁɛ/ | *It would be necessary / one should* |
-| **Pleuvoir** (impersonal) | **pleuvr-** | **Il pleuvrait** | /il plø.vʁɛ/ | *It would rain* |
+| Infinitive Verb | Irregular Stem | Conditionnel 1st Person (*Je*) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Avoir** | **aur-** | **J'aurais** | /ʒ‿o.ʁɛ/ | (zhoh-REH) | *I would have* |
+| **Être** | **ser-** | **Je serais** | /ʒə sə.ʁɛ/ | (zhuh suh-REH) | *I would be* |
+| **Aller** | **ir-** | **J'irais** | /ʒ‿i.ʁɛ/ | (zhee-REH) | *I would go* |
+| **Faire** | **fer-** | **Je ferais** | /ʒə fə.ʁɛ/ | (zhuh fuh-REH) | *I would do / make* |
+| **Pouvoir** | **pourr-** (double r) | **Je pourrais** | /ʒə pu.ʁɛ/ | (zhuh poo-REH) | *I could / would be able* |
+| **Vouloir** | **voudr-** | **Je voudrais** | /ʒə vu.dʁɛ/ | (zhuh voo-DREH) | *I would like* |
+| **Devoir** | **devr-** | **Je devrais** | /ʒə də.vʁɛ/ | (zhuh duh-VREH) | *I should / ought to* |
+| **Savoir** | **saur-** | **Je saurais** | /ʒə so.ʁɛ/ | (zhuh soh-REH) | *I would know* |
+| **Venir** | **viendr-** | **Je viendrais** | /ʒə vjɛ̃.dʁɛ/ | (zhuh vyen-DREH) | *I would come* |
+| **Voir** | **verr-** (double r) | **Je verrais** | /ʒə vɛ.ʁɛ/ | (zhuh veh-REH) | *I would see* |
+| **Envoyer** | **enverr-** (double r) | **J'enverrais** | /ʒ‿ɑ̃.vɛ.ʁɛ/ | (zhahn-veh-REH) | *I would send* |
+| **Recevoir** | **recevr-** | **Je recevrais** | /ʒə ʁə.sə.vʁɛ/ | (zhuh ruh-suh-VREH) | *I would receive* |
+| **Falloir** (impersonal) | **faudr-** | **Il faudrait** | /il fo.dʁɛ/ | (eel foh-DREH) | *It would be necessary / one should* |
+| **Pleuvoir** (impersonal) | **pleuvr-** | **Il pleuvrait** | /il plø.vʁɛ/ | (eel pleu-VREH) | *It would rain* |
 
 Notice the double-r verbs: **pouvoir** (*pourrais*), **voir** (*verrais*), and **envoyer** (*enverrais*). Pronounce the /ʁ/ clearly without rolling or doubling into a trill.
 
@@ -93,10 +93,10 @@ In professional, administrative, and public settings, using the present indicati
 Both verbs express polite requests, but *aimer* is considered slightly softer and more elegant:
 - **Je voudrais + nom / infinitif** :  
   *« Bonjour Madame, **je voudrais** réserver une salle de conférence pour jeudi matin. »*  
-  (/ʒə vu.dʁɛ ʁe.zɛʁ.ve yn sal də kɔ̃.fe.ʁɑ̃s puʁ ʒø.di ma.tɛ̃/)
+  (/ʒə vu.dʁɛ ʁe.zɛʁ.ve yn sal də kɔ̃.fe.ʁɑ̃s puʁ ʒø.di ma.tɛ̃/ — *bohn-ZHOOR mah-DAHM, zhuh voo-DREH ray-zehr-VAY ewn sahl duh kohn-fay-RAHNS poor zheu-dee mah-TEHN*)
 - **J'aimerais + nom / infinitif** :  
   *« **J'aimerais** obtenir des précisions sur le processus d'évaluation du personnel. »*  
-  (/ʒ‿ɛ.mə.ʁɛ ɔb.tə.niʁ de pʁe.si.zjɔ̃ syʁ lə pʁɔ.se.sys d‿e.va.lɥa.sjɔ̃ dy pɛʁ.sɔ.nɛl/)
+  (/ʒ‿ɛ.mə.ʁɛ ɔb.tə.niʁ de pʁe.si.zjɔ̃ syʁ lə pʁɔ.se.sys d‿e.va.lɥa.sjɔ̃ dy pɛʁ.sɔ.nɛl/ — *zheh-muh-REH ohb-tuh-NEER day pray-see-ZYOHN sewr luh proh-say-SEWS day-vah-lwah-SYOHN dew pehr-soh-NEHL*)
 
 #### 2. Inversion with Pouvoir: Pourriez-vous
 
@@ -104,12 +104,12 @@ When asking someone to perform an action, using inverted **pouvoir** in the cond
 
 $$\text{Pourriez-vous} + \text{infinitif} + \text{s'il vous plaît ?}$$
 
-| Direct / Blunt (Avoid at B1) | Refined Politeness (Conditionnel) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| *Envoyez-moi le devis.* | **Pourriez-vous m'envoyer le devis, s'il vous plaît ?** | /pu.ʁje vu m‿ɑ̃.vwa.je lə də.vi/ | *Could you send me the quote, please?* |
-| *Signez ici.* | **Auriez-vous l'amabilité de signer ici ?** | /o.ʁje vu l‿a.ma.bi.li.te də si.ɲe i.si/ | *Would you be so kind as to sign here?* |
-| *Répétez la question.* | **Pourriez-vous reformuler votre question ?** | /pu.ʁje vu ʁə.fɔʁ.my.le vɔtʁ kɛs.tjɔ̃/ | *Could you rephrase your question?* |
-| *Donne-moi ton avis.* | **J'aimerais connaître ton point de vue.** | /ʒ‿ɛ.mə.ʁɛ kɔ.nɛtʁ tɔ̃ pwɛ̃ də vy/ | *I would like to know your viewpoint.* |
+| Direct / Blunt (Avoid at B1) | Refined Politeness (Conditionnel) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| *Envoyez-moi le devis.* | **Pourriez-vous m'envoyer le devis, s'il vous plaît ?** | /pu.ʁje vu m‿ɑ̃.vwa.je lə də.vi/ | (poo-ryay-VOO mahn-vwah-YAY luh duh-VEE, seel voo PLEH?) | *Could you send me the quote, please?* |
+| *Signez ici.* | **Auriez-vous l'amabilité de signer ici ?** | /o.ʁje vu l‿a.ma.bi.li.te də si.ɲe i.si/ | (oh-ryay-VOO lah-mah-bee-lee-TAY duh seen-YAY ee-SEE?) | *Would you be so kind as to sign here?* |
+| *Répétez la question.* | **Pourriez-vous reformuler votre question ?** | /pu.ʁje vu ʁə.fɔʁ.my.le vɔtʁ kɛs.tjɔ̃/ | (poo-ryay-VOO ruh-fohr-mew-LAY voh-truh kehs-TYOHN?) | *Could you rephrase your question?* |
+| *Donne-moi ton avis.* | **J'aimerais connaître ton point de vue.** | /ʒ‿ɛ.mə.ʁɛ kɔ.nɛtʁ tɔ̃ pwɛ̃ də vy/ | (zheh-muh-REH koh-NEH-truh tohn pwen duh VEW) | *I would like to know your viewpoint.* |
 
 ### Formulating advice recommendations and hypothetical wishes
 
