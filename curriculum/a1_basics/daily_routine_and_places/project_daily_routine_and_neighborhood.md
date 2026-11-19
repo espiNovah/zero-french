@@ -31,9 +31,9 @@ Before starting your writing session, set up your physical and digital environme
 
 2. **Step 2: Timed 15-Minute Writing Take (No Notes, No Spellcheck)**  
    Start your 15-minute countdown timer and begin typing immediately in your text editor. Do not use a dictionary, translator, or grammar checker. Structure your message into three distinct parts:
-   - **Part 1 (Salutation & Work Schedule)**: Friendly greeting (*Salut... / Cher ami...*) + what time your day starts and your work routine using regular *-er* verbs (*commencer*, *travailler*, *terminer*).
-   - **Part 2 (Neighborhood & Places)**: Describe your living area using spatial prepositions and landmarks (*J'habite près de... En face de chez moi, il y a...*).
-   - **Part 3 (Invitation & Farewell)**: Invite your friend to visit (*Est-ce que tu veux venir ce week-end ?*) and provide a warm closing formula (*À bientôt / Amitiés*).
+   - **Part 1 (Salutation & Work Schedule)**: Friendly greeting (*Salut...* /sa.ly/ (sah-LEW) / *Cher ami...* /ʃɛ.ʁ‿a.mi/ (shehr-ah-MEE)) + what time your day starts and your work routine using regular *-er* verbs (*commencer* /kɔ.mɑ̃.se/ (koh-mahn-SAY), *travailler* /tʁa.va.je/ (trah-vah-YAY), *terminer* /tɛʁ.mi.ne/ (tehr-mee-NAY)).
+   - **Part 2 (Neighborhood & Places)**: Describe your living area using spatial prepositions and landmarks (*J'habite près de...* /ʒ‿a.bit pʁɛ də/ (zhah-BEET preh duh) / *En face de chez moi, il y a...* /ɑ̃ fas də ʃe mwa, i.l‿j‿a/ (ahn FAHS duh shay MWAH, eel-yah)).
+   - **Part 3 (Invitation & Farewell)**: Invite your friend to visit (*Est-ce que tu veux venir ce week-end ?* /ɛs.kə ty vø və.niʁ sə wi.kɛnd/ (ess-kuh tew veuh vuh-NEER suh week-END ?)) and provide a warm closing formula (*À bientôt* /a bjɛ̃.to/ (ah byen-TOH) / *Amitiés* /a.mi.tje/ (ah-mee-TYAY)).
 
 3. **Step 3: Exact Word Count Audit & Proofreading**  
    Once your timer rings or you complete your draft, highlight your text and count every word.
@@ -102,8 +102,8 @@ Be objective and strict. Do not inflate scores.
 
 #### Extra credit
 
-- **Add Near Future Actions**: Include two sentences using the *futur proche* (*aller + infinitif*) describing what you and your friend are going to do together when they visit (*Nous allons visiter le musée et nous allons manger au restaurant*).
-- **Give Navigation Instructions**: Include one sentence giving exact street directions from the nearest bus stop or metro station to your apartment using spatial prepositions (*Pour venir chez moi, tu prends la rue Saint-Denis et c'est en face du parc*).
+- **Add Near Future Actions**: Include two sentences using the *futur proche* (*aller + infinitif*) describing what you and your friend are going to do together when they visit (*Nous allons visiter le musée et nous allons manger au restaurant* /nu.z‿a.lɔ̃ vi.zi.te lə my.ze e nu.z‿a.lɔ̃ mɑ̃.ʒe o ʁɛs.to.ʁɑ̃/ (noo-zah-LOHN vee-zee-TAY luh mew-ZAY ay noo-zah-LOHN mahn-ZHAY oh ress-toh-RAHN)).
+- **Give Navigation Instructions**: Include one sentence giving exact street directions from the nearest bus stop or metro station to your apartment using spatial prepositions (*Pour venir chez moi, tu prends la rue Saint-Denis et c'est en face du parc* /puʁ və.niʁ ʃe mwa, ty pʁɑ̃ la ʁy sɛ̃ də.ni e sɛ.t‿ɑ̃ fas dy paʁk/ (poor vuh-NEER shay MWAH, tew PRAHN lah REW sehn duh-NEE ay say-tahn FAHS dew PARK)).
 
 </div>
 
