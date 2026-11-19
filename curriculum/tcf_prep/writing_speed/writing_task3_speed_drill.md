@@ -214,20 +214,20 @@ Open a plain text editor with spellcheck completely disabled. Set a timer for **
 
 Master these 12 indispensable phrases for synthesizing documents and asserting your stance:
 
-| Expression | IPA Transcription | English Meaning | Syntactic Rule |
-| :--- | :--- | :--- | :--- |
-| **Il est légitime de s'interroger sur...** | /i.l‿ɛ le.ʒi.tim də s‿ɛ̃.tɛ.ʁɔ.ʒe syʁ/ | *It is legitimate to question...* | Opening debate framing |
-| **Faire valoir les atouts de...** | /fɛʁ va.lwaʁ le.z‿a.tu də/ | *To highlight the advantages of...* | Followed by direct noun phrase |
-| **Mettre en garde contre les dérives** | /mɛtʁ ɑ̃ ɡaʁd kɔ̃tʁ le de.ʁiv/ | *To warn against abuses/excesses* | Followed by noun |
-| **Souscrire pleinement à l'idée que...** | /sus.kʁiʁ plɛn.mɑ̃ a l‿i.de kə/ | *To subscribe fully to the idea that...* | Followed by indicative |
-| **Bien qu'il faille reconnaître que...** | /bjɛ̃ k‿il faj ʁə.kɔ.nɛtʁ kə/ | *Although it must be recognized that...* | Mandatory subjunctive (*faille*) |
-| **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ | *One cannot help but notice that...* | High-register objective marker |
-| **Il n'en demeure pas moins que...** | /il nɑ̃ də.mœʁ pa mwɛ̃ kə/ | *Nonetheless / it remains true that...* | Counter-balancing connector |
-| **À condition que (+ subj.)** | /a kɔ̃.di.sjɔ̃ kə/ | *On condition that...* | Mandatory subjunctive condition |
-| **Une préoccupation légitime** | /yn pʁe.ɔ.ky.pa.sjɔ̃ le.ʒi.tim/ | *A legitimate concern* | Concession adjective |
-| **Un impératif incontournable** | /œ̃n‿ɛ̃.pe.ʁa.tif ɛ̃.kɔ̃.tuʁ.nabl/ | *An unavoidable imperative* | Strong thesis formulation |
-| **Garantir des garde-fous** | /ɡa.ʁɑ̃.tiʁ de ɡaʁ.də.fu/ | *To guarantee safeguards* | Policy / ethical proposal |
-| **En dernière analyse** | /ɑ̃ dɛʁ.njɛʁ a.na.liz/ | *In the final analysis* | High-register conclusion marker |
+| Expression | IPA Transcription | Phonetic Respelling | English Meaning | Syntactic Rule |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il est légitime de s'interroger sur...** | /i.l‿ɛ le.ʒi.tim də s‿ɛ̃.tɛ.ʁɔ.ʒe syʁ/ | (eel eh lay-zhee-TEEM duh sehn-teh-roh-ZHAY sewr) | *It is legitimate to question...* | Opening debate framing |
+| **Faire valoir les atouts de...** | /fɛʁ va.lwaʁ le.z‿a.tu də/ | (fehr vah-LWAHR lay-zah-TOO duh) | *To highlight the advantages of...* | Followed by direct noun phrase |
+| **Mettre en garde contre les dérives** | /mɛtʁ ɑ̃ ɡaʁd kɔ̃tʁ le de.ʁiv/ | (MEH-truh ahn GAHRD kohn-truh lay day-REEV) | *To warn against abuses/excesses* | Followed by noun |
+| **Souscrire pleinement à l'idée que...** | /sus.kʁiʁ plɛn.mɑ̃ a l‿i.de kə/ | (soos-KREER plehn-MAHN ah lee-DAY kuh) | *To subscribe fully to the idea that...* | Followed by indicative |
+| **Bien qu'il faille reconnaître que...** | /bjɛ̃ k‿il faj ʁə.kɔ.nɛtʁ kə/ | (byen keel FY-yuh ruh-koh-NEH-truh kuh) | *Although it must be recognized that...* | Mandatory subjunctive (*faille*) |
+| **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ | (fohrs eh duh kohns-tah-TAY kuh) | *One cannot help but notice that...* | High-register objective marker |
+| **Il n'en demeure pas moins que...** | /il nɑ̃ də.mœʁ pa mwɛ̃ kə/ | (eel nahn duh-MUHR pah MWEHN kuh) | *Nonetheless / it remains true that...* | Counter-balancing connector |
+| **À condition que (+ subj.)** | /a kɔ̃.di.sjɔ̃ kə/ | (ah kohn-dee-SYOHN kuh) | *On condition that...* | Mandatory subjunctive condition |
+| **Une préoccupation légitime** | /yn pʁe.ɔ.ky.pa.sjɔ̃ le.ʒi.tim/ | (ewn pray-oh-kew-pah-SYOHN lay-zhee-TEEM) | *A legitimate concern* | Concession adjective |
+| **Un impératif incontournable** | /œ̃n‿ɛ̃.pe.ʁa.tif ɛ̃.kɔ̃.tuʁ.nabl/ | (uhn-nehn-pay-rah-TEEF ehn-kohn-toor-NAH-bluh) | *An unavoidable imperative* | Strong thesis formulation |
+| **Garantir des garde-fous** | /ɡa.ʁɑ̃.tiʁ de ɡaʁ.də.fu/ | (gah-rahn-TEER day gahr-duh-FOO) | *To guarantee safeguards* | Policy / ethical proposal |
+| **En dernière analyse** | /ɑ̃ dɛʁ.njɛʁ a.na.liz/ | (ahn dehr-NYEHR ah-nah-LEEZ) | *In the final analysis* | High-register conclusion marker |
 
 ---
 
