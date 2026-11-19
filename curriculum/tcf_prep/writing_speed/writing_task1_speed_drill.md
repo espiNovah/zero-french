@@ -240,20 +240,20 @@ Open a plain text editor (TextEdit, Notepad, or a blank document) with **spellch
 
 Add these 12 high-scoring operational formulas to your writing toolkit:
 
-| Functional Goal | Formula in French | IPA | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Inquiring politely** | **Je me permets de vous solliciter afin de...** | /ʒə mə pɛʁ.mɛ də vu sɔ.li.si.te a.fɛ̃ də/ | *I take the liberty of contacting you to...* |
-| **Asking clarification** | **Pourriez-vous m'éclairer sur... ?** | /pu.ʁje vu m‿e.klɛ.ʁe syʁ/ | *Could you shed light on...?* |
-| **Friendly opening** | **J'espère que tu as passé un bon week-end.** | /ʒ‿ɛs.pɛʁ kə ty a pa.se œ̃ bɔ̃ wi.kɛnd/ | *I hope you had a good weekend.* |
-| **Friendly news** | **Je voulais te donner quelques nouvelles.** | /ʒə vu.lɛ tə dɔ.ne kɛl.kə nu.vɛl/ | *I wanted to give you some news.* |
-| **Expressing interest** | **Je porte un vif intérêt à votre proposition.** | /ʒə pɔʁ.t‿œ̃ vif ɛ̃.te.ʁɛ a vɔtʁ pʁɔ.pɔ.zi.sjɔ̃/ | *I have a keen interest in your offer.* |
-| **Offering help** | **N'hésite pas si tu as besoin d'un coup de main.** | /n‿e.zit pa si ty a bə.zwɛ̃ d‿œ̃ ku dəmɛ̃/ | *Don't hesitate if you need a hand.* |
-| **Stating availability** | **Je demeure à votre entière disposition.** | /ʒə də.mœʁ a vɔ.tʁ‿ɑ̃.tjɛʁ dis.pɔ.zi.sjɔ̃/ | *I remain at your full disposal.* |
-| **Anticipating response** | **Dans l'attente de votre retour, je...** | /dɑ̃ l‿a.tɑ̃t də vɔtʁ ʁə.tuʁ ʒə/ | *Looking forward to your reply, I...* |
-| **Requesting RSVP** | **Merci de me faire signe d'ici vendredi.** | /mɛʁ.si də mə fɛʁ siɲ d‿i.si vɑ̃.dʁə.di/ | *Please give me a sign/confirm by Friday.* |
-| **Warm sign-off** | **Prends bien soin de toi.** | /pʁɑ̃ bjɛ̃ swɛ̃ də twa/ | *Take good care of yourself.* |
-| **Formal sign-off** | **Bien cordialement,** | /bjɛ̃ kɔʁ.djal.mɑ̃/ | *Warm regards (semi-formal)* |
-| **Standard formal** | **Sincères salutations,** | /sɛ̃.sɛʁ sa.ly.ta.sjɔ̃/ | *Sincerely (formal)* |
+| Functional Goal | Formula in French | IPA | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Inquiring politely** | **Je me permets de vous solliciter afin de...** | /ʒə mə pɛʁ.mɛ də vu sɔ.li.si.te a.fɛ̃ də/ | (zhuh muh pehr-MEH duh voo soh-lee-see-TAY ah-fehn DUH) | *I take the liberty of contacting you to...* |
+| **Asking clarification** | **Pourriez-vous m'éclairer sur... ?** | /pu.ʁje vu m‿e.klɛ.ʁe syʁ/ | (poor-yay-VOO may-klay-ray SEWR) | *Could you shed light on...?* |
+| **Friendly opening** | **J'espère que tu as passé un bon week-end.** | /ʒ‿ɛs.pɛʁ kə ty a pa.se œ̃ bɔ̃ wi.kɛnd/ | (zheh-spehr kuh tsew ah pah-SAY uhn bohn week-EHND) | *I hope you had a good weekend.* |
+| **Friendly news** | **Je voulais te donner quelques nouvelles.** | /ʒə vu.lɛ tə dɔ.ne kɛl.kə nu.vɛl/ | (zhuh voo-LEH tuh doh-NAY kehl-kuh noo-VEHL) | *I wanted to give you some news.* |
+| **Expressing interest** | **Je porte un vif intérêt à votre proposition.** | /ʒə pɔʁ.t‿œ̃ vif ɛ̃.te.ʁɛ a vɔtʁ pʁɔ.pɔ.zi.sjɔ̃/ | (zhuh pohr-tuhn veef ehn-tay-REH ah voh-truh proh-poh-zee-SYOHN) | *I have a keen interest in your offer.* |
+| **Offering help** | **N'hésite pas si tu as besoin d'un coup de main.** | /n‿e.zit pa si ty a bə.zwɛ̃ d‿œ̃ ku dəmɛ̃/ | (nay-ZEET pah see tsew ah buh-ZWEHN duhn koo dmehn) | *Don't hesitate if you need a hand.* |
+| **Stating availability** | **Je demeure à votre entière disposition.** | /ʒə də.mœʁ a vɔ.tʁ‿ɑ̃.tjɛʁ dis.pɔ.zi.sjɔ̃/ | (zhuh duh-MUHR ah voh-trahn-TYEHR dees-poh-zee-SYOHN) | *I remain at your full disposal.* |
+| **Anticipating response** | **Dans l'attente de votre retour, je...** | /dɑ̃ l‿a.tɑ̃t də vɔtʁ ʁə.tuʁ ʒə/ | (dahn lah-TAHNT duh voh-truh ruh-TOOR, zhuh) | *Looking forward to your reply, I...* |
+| **Requesting RSVP** | **Merci de me faire signe d'ici vendredi.** | /mɛʁ.si də mə fɛʁ siɲ d‿i.si vɑ̃.dʁə.di/ | (mehr-SEE duh muh fehr SEEN-yuh dee-see vahn-druh-DEE) | *Please give me a sign/confirm by Friday.* |
+| **Warm sign-off** | **Prends bien soin de toi.** | /pʁɑ̃ bjɛ̃ swɛ̃ də twa/ | (prahn byen SWEHN duh twah) | *Take good care of yourself.* |
+| **Formal sign-off** | **Bien cordialement,** | /bjɛ̃ kɔʁ.djal.mɑ̃/ | (byen kohr-dyahl-MAHN) | *Warm regards (semi-formal)* |
+| **Standard formal** | **Sincères salutations,** | /sɛ̃.sɛʁ sa.ly.ta.sjɔ̃/ | (sehn-sehr sah-lew-tah-SYOHN) | *Sincerely (formal)* |
 
 ---
 
