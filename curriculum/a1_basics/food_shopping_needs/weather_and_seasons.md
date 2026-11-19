@@ -28,34 +28,34 @@ In French, you almost never use the verb *être* to describe the outdoor weather
 
 The pronoun **il** in these expressions is called **impersonal** (*le pronom impersonnel*) because it does not refer to a male person or an object; it simply represents the environment:
 
-| French Expression | IPA Pronunciation | English Meaning | Notes |
-| :--- | :--- | :--- | :--- |
-| **Il fait beau.** | /il fɛ bo/ | The weather is nice / pleasant. | General positive assessment of the weather. |
-| **Il fait mauvais.** | /il fɛ mɔ.vɛ/ | The weather is bad. | General negative assessment. |
-| **Il fait chaud.** | /il fɛ ʃo/ | It is warm / hot. | Used for outdoor weather (never say *"C'est chaud"* for weather!). |
-| **Il fait froid.** | /il fɛ fʁwa/ | It is cold. | Used for outdoor weather. |
-| **Il fait frais.** | /il fɛ fʁɛ/ | It is brisk / cool / chilly. | Autumn or crisp spring morning weather. |
-| **Il fait doux.** | /il fɛ du/ | It is mild. | Pleasant, gentle temperature. |
-| **Il fait gris.** | /il fɛ ɡʁi/ | It is overcast / grey. | Cloud-covered, gloomy sky. |
-| **Il fait jour.** | /il fɛ ʒuʁ/ | It is daylight / light outside. | Opposite: *Il fait nuit* (/il fɛ nɥi/ — It is dark/night). |
+| French Expression | IPA Pronunciation | Respelling | English Meaning | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il fait beau.** | /il fɛ bo/ | (eel feh BOH) | The weather is nice / pleasant. | General positive assessment of the weather. |
+| **Il fait mauvais.** | /il fɛ mɔ.vɛ/ | (eel feh moh-VEH) | The weather is bad. | General negative assessment. |
+| **Il fait chaud.** | /il fɛ ʃo/ | (eel feh SHOH) | It is warm / hot. | Used for outdoor weather (never say *"C'est chaud"* for weather!). |
+| **Il fait froid.** | /il fɛ fʁwa/ | (eel feh FRWAH) | It is cold. | Used for outdoor weather. |
+| **Il fait frais.** | /il fɛ fʁɛ/ | (eel feh FREH) | It is brisk / cool / chilly. | Autumn or crisp spring morning weather. |
+| **Il fait doux.** | /il fɛ du/ | (eel feh DOO) | It is mild. | Pleasant, gentle temperature. |
+| **Il fait gris.** | /il fɛ ɡʁi/ | (eel feh GREE) | It is overcast / grey. | Cloud-covered, gloomy sky. |
+| **Il fait jour.** | /il fɛ ʒuʁ/ | (eel feh ZHOOR) | It is daylight / light outside. | Opposite: *Il fait nuit* (/il fɛ nɥi/ — (eel feh NWEE) — It is dark/night). |
 
 #### Weather Expressions Using Partitives with Faire
 
 When describing atmospheric elements like wind, sun, or fog, French uses **il fait** followed by the **partitive article** (*du* or *de la*) that you mastered in the food lesson:
 
-> **Il fait du soleil.** — /il fɛ dy sɔ.lɛj/ — *It is sunny.*  
-> **Il fait du vent.** — /il fɛ dy vɑ̃/ — *It is windy.*  
-> **Il fait du brouillard.** — /il fɛ dy bʁu.jaʁ/ — *It is foggy.*  
-> **Il fait de l'orage.** — /il fɛ də l‿ɔ.ʁaʒ/ — *It is stormy.*
+> **Il fait du soleil.** — /il fɛ dy sɔ.lɛj/ (eel feh dew soh-LEY) — *It is sunny.*  
+> **Il fait du vent.** — /il fɛ dy vɑ̃/ (eel feh dew VAHN) — *It is windy.*  
+> **Il fait du brouillard.** — /il fɛ dy bʁu.jaʁ/ (eel feh dew broo-YAR) — *It is foggy.*  
+> **Il fait de l'orage.** — /il fɛ də l‿ɔ.ʁaʒ/ (eel feh duh loh-RAHZH) — *It is stormy.*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Grammar Trap: "Il fait chaud" vs "J'ai chaud" vs "C'est chaud"
 
 English speakers constantly mix up these three structures:
-1. **Weather**: **Il fait chaud** (/il fɛ ʃo/) = *The weather is hot outside.*
-2. **Personal Physical Sensation**: **J'ai chaud** (/ʒ‿e ʃo/) = *I feel hot / I am warm.* (Using *avoir*, never *"Je suis chaud"* which has an improper sexual connotation in French!).
-3. **Physical Objects**: **Le café est chaud** (/lə ka.fe ɛ ʃo/) = *The coffee is hot.* (Using *être* for tangible objects).
+1. **Weather**: **Il fait chaud** (/il fɛ ʃo/ — (eel feh SHOH)) = *The weather is hot outside.*
+2. **Personal Physical Sensation**: **J'ai chaud** (/ʒ‿e ʃo/ — (zhay SHOH)) = *I feel hot / I am warm.* (Using *avoir*, never *"Je suis chaud"* which has an improper sexual connotation in French!).
+3. **Physical Objects**: **Le café est chaud** (/lə ka.fe ɛ ʃo/ — (luh kah-FAY eh SHOH)) = *The coffee is hot.* (Using *être* for tangible objects).
 
 Never say *"La météo est chaude"* or *"C'est froid aujourd'hui"*. The weather always takes **il fait**.
 
@@ -67,23 +67,23 @@ In addition to expressions with *faire*, French possesses dedicated impersonal v
 
 #### 1. Verbs of Precipitation
 
-| Infinitive Verb | Present Tense Form & IPA | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- |
-| **pleuvoir** (irregular) | **Il pleut.** (/il plø/) | It is raining. | *Prends ton parapluie, il pleut beaucoup.* (Take your umbrella, it's raining hard.) |
-| **neiger** (regular -er) | **Il neige.** (/il nɛʒ/) | It is snowing. | *En janvier, il neige presque tous les jours.* (In January, it snows almost every day.) |
-| **geler** (stem-changing) | **Il gèle.** (/il ʒɛl/) | It is freezing. | *Attention sur la route, il gèle ce soir.* (Watch out on the road, it is freezing tonight.) |
-| **grêler** (regular -er) | **Il grêle.** (/il ɡʁɛl/) | It is hailing. | *Pendant l'orage d'été, il grêle.* (During the summer thunderstorm, it hails.) |
+| Infinitive Verb | Present Tense Form & IPA | Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **pleuvoir** (irregular) | **Il pleut.** (/il plø/) | (eel PLEUH) | It is raining. | *Prends ton parapluie, il pleut beaucoup.* (Take your umbrella, it's raining hard.) |
+| **neiger** (regular -er) | **Il neige.** (/il nɛʒ/) | (eel NEZH) | It is snowing. | *En janvier, il neige presque tous les jours.* (In January, it snows almost every day.) |
+| **geler** (stem-changing) | **Il gèle.** (/il ʒɛl/) | (eel ZHEL) | It is freezing. | *Attention sur la route, il gèle ce soir.* (Watch out on the road, it is freezing tonight.) |
+| **grêler** (regular -er) | **Il grêle.** (/il ɡʁɛl/) | (eel GREL) | It is hailing. | *Pendant l'orage d'été, il grêle.* (During the summer thunderstorm, it hails.) |
 
 #### 2. Atmospheric Nouns with "Il y a"
 
 You can also describe the sky and atmospheric phenomena using the existential expression **il y a** (/i.l‿i.j‿a/, there is / there are) followed by an article:
 
-> **Il y a des nuages.** — /i.l‿i.j‿a de nɥaʒ/ — *It is cloudy / There are clouds.*  
-> **Il y a du brouillard.** — /i.l‿i.j‿a dy bʁu.jaʁ/ — *There is fog.*  
-> **Il y a un orage.** — /i.l‿i.j‿a œ̃.n‿ɔ.ʁaʒ/ — *There is a thunderstorm.*  
-> **Il y a une tempête.** — /i.l‿i.j‿a yn tɑ̃.pɛt/ — *There is a storm.*  
-> **Il y a du vent.** — /i.l‿i.j‿a dy vɑ̃/ — *There is wind.*  
-> **Il y a une averse.** — /i.l‿i.j‿a yn a.vɛʁs/ — *There is a sudden rain shower.*
+> **Il y a des nuages.** — /i.l‿i.j‿a de nɥaʒ/ (eel-yah day new-AHZH) — *It is cloudy / There are clouds.*  
+> **Il y a du brouillard.** — /i.l‿i.j‿a dy bʁu.jaʁ/ (eel-yah dew broo-YAR) — *There is fog.*  
+> **Il y a un orage.** — /i.l‿i.j‿a œ̃.n‿ɔ.ʁaʒ/ (eel-yah uhn-noh-RAHZH) — *There is a thunderstorm.*  
+> **Il y a une tempête.** — /i.l‿i.j‿a yn tɑ̃.pɛt/ (eel-yah ewn tahn-PET) — *There is a storm.*  
+> **Il y a du vent.** — /i.l‿i.j‿a dy vɑ̃/ (eel-yah dew VAHN) — *There is wind.*  
+> **Il y a une averse.** — /i.l‿i.j‿a yn a.vɛʁs/ (eel-yah ewn ah-VEHRS) — *There is a sudden rain shower.*
 
 ### Temperatures, negative degrees, and the Canadian wind chill
 
@@ -93,19 +93,19 @@ On the TCF Canada exam, understanding spoken temperatures is an essential compon
 
 In all Francophone countries (including Canada), temperature is measured in **degrees Celsius** (*degrés Celsius*, abbreviated **°C**). To state the temperature, use **il fait** followed by the number and the word **degrés** (/də.ɡʁe/):
 
-> **Il fait combien aujourd'hui ?** — /il fɛ kɔ̃.bjɛ̃ o.ʒuʁ.dɥi/ — *What is the temperature today?*  
-> **Il fait 22 degrés.** — /il fɛ vɛ̃t.dø də.ɡʁe/ — *It is 22 degrees (pleasant room temperature).*  
-> **Il fait 30 degrés à l'ombre.** — /il fɛ tʁɑ̃t də.ɡʁe a l‿ɔ̃bʁ/ — *It is 30 degrees in the shade (hot summer day).*
+> **Il fait combien aujourd'hui ?** — /il fɛ kɔ̃.bjɛ̃ o.ʒuʁ.dɥi/ (eel feh kohn-BYEN oh-zhoor-DWEE) — *What is the temperature today?*  
+> **Il fait 22 degrés.** — /il fɛ vɛ̃t.dø də.ɡʁe/ (eel feh vehnt-DEUH duh-GRAY) — *It is 22 degrees (pleasant room temperature).*  
+> **Il fait 30 degrés à l'ombre.** — /il fɛ tʁɑ̃t də.ɡʁe a l‿ɔ̃bʁ/ (eel feh TRAHNT duh-GRAY ah LOHN-bruh) — *It is 30 degrees in the shade (hot summer day).*
 
 #### Sub-Zero Temperatures in Canada
 
-In Canadian winters, temperatures frequently fall below zero (*en dessous de zéro*). In French, negative temperatures are stated using the word **moins** (/mwɛ̃/, minus):
+In Canadian winters, temperatures frequently fall below zero (*en dessous de zéro*). In French, negative temperatures are stated using the word **moins** (/mwɛ̃/ — (MWEN), minus):
 
-> **Il fait moins cinq degrés.** — /il fɛ mwɛ̃ sɛ̃k də.ɡʁe/ — *It is minus 5 degrees.*  
-> **Il fait moins vingt.** — /il fɛ mwɛ̃ vɛ̃/ — *It is minus 20.* (In casual speech, *degrés* is often dropped).
+> **Il fait moins cinq degrés.** — /il fɛ mwɛ̃ sɛ̃k də.ɡʁe/ (eel feh mwehn SEHN-k duh-GRAY) — *It is minus 5 degrees.*  
+> **Il fait moins vingt.** — /il fɛ mwɛ̃ vɛ̃/ (eel feh mwehn VEHN) — *It is minus 20.* (In casual speech, *degrés* is often dropped).
 
 When a temperature is right at the freezing point of water (0 °C), you say:  
-> **Il fait zéro degré.** — /il fɛ ze.ʁo də.ɡʁe/ — *It is zero degrees.*
+> **Il fait zéro degré.** — /il fɛ ze.ʁo də.ɡʁe/ (eel feh zay-ROH duh-GRAY) — *It is zero degrees.*
 
 #### The Canadian Wind Chill Factor
 
@@ -113,30 +113,31 @@ Because wind dramatically accelerates body heat loss, Canadian meteorological fo
 
 > **Le thermomètre affiche -10 °C, mais avec le refroidissement éolien, on ressent -20 °C.**  
 > /lə tɛʁ.mɔ.mɛtʁ a.fiʃ mwɛ̃ dis də.ɡʁe | mɛ a.vɛk lə ʁə.fʁwa.dis.mɑ̃ e.ɔ.ljɛ̃ | ɔ̃ ʁə.sɑ̃ mwɛ̃ vɛ̃ də.ɡʁe/  
+> (luh tehr-moh-MET-ruh ah-FEESH mwehn DEES duh-GRAY, meh ah-vek luh ruh-frwah-dees-MAHN ay-oh-LYEHN, ohn ruh-SAHN mwehn VEHN duh-GRAY)  
 > *The thermometer shows -10 °C, but with the wind chill, it feels like -20 °C.*
 
-In Québec everyday speech, people simply refer to **la température ressentie** (/la tɑ̃.pe.ʁa.tyʁ ʁə.sɑ̃.ti/, the felt temperature).
+In Québec everyday speech, people simply refer to **la température ressentie** (/la tɑ̃.pe.ʁa.tyʁ ʁə.sɑ̃.ti/ — (lah tahn-pay-rah-TEWR ruh-sahn-TEE), the felt temperature).
 
 ### The four seasons, months, and prepositional patterns
 
 To speak about routines, vacation plans, and annual weather patterns, you must master the four seasons (*les quatre saisons*) and their grammatical prepositions.
 
-| Season | IPA | English Meaning | Gender | Preposition Formula | Example in Context | English Translation |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **le printemps** | /lə pʁɛ̃.tɑ̃/ | spring | Masculine | **au** printemps | **Au printemps**, les fleurs poussent. | In spring, flowers grow. |
-| **l'été** | /l‿e.te/ | summer | Masculine | **en** été | **En été**, il fait chaud et beau. | In summer, it is hot and nice. |
-| **l'automne** | /l‿o.tɔn/ | autumn / fall | Masculine | **en** automne | **En automne**, les feuilles changent de couleur. | In autumn, leaves change colour. |
-| **l'hiver** | /l‿i.vɛʁ/ | winter | Masculine | **en** hiver | **En hiver**, il neige beaucoup au Canada. | In winter, it snows a lot in Canada. |
+| Season | IPA | Respelling | English Meaning | Gender | Preposition Formula | Example in Context | English Translation |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **le printemps** | /lə pʁɛ̃.tɑ̃/ | (luh prehn-TAHN) | spring | Masculine | **au** printemps (/o pʁɛ̃.tɑ̃/ — (oh prehn-TAHN)) | **Au printemps**, les fleurs poussent. | In spring, flowers grow. |
+| **l'été** | /l‿e.te/ | (lay-TAY) | summer | Masculine | **en** été (/ɑ̃.n‿e.te/ — (ahn-nay-TAY)) | **En été**, il fait chaud et beau. | In summer, it is hot and nice. |
+| **l'automne** | /l‿o.tɔn/ | (loh-TON) | autumn / fall | Masculine | **en** automne (/ɑ̃.n‿o.tɔn/ — (ahn-noh-TON)) | **En automne**, les feuilles changent de couleur. | In autumn, leaves change colour. |
+| **l'hiver** | /l‿i.vɛʁ/ | (lee-VEHR) | winter | Masculine | **en** hiver (/ɑ̃.n‿i.vɛʁ/ — (ahn-nee-VEHR)) | **En hiver**, il neige beaucoup au Canada. | In winter, it snows a lot in Canada. |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Preposition Rule: Why "Au printemps" But "En été" ?
 
 Notice the irregularity in the table above:
-- **en été** (/ɑ̃.n‿e.te/) — starts with a vowel, uses **en**
-- **en automne** (/ɑ̃.n‿o.tɔn/) — starts with a vowel, uses **en**
-- **en hiver** (/ɑ̃.n‿i.vɛʁ/) — starts with a silent *h*, uses **en**
-- **au printemps** (/o pʁɛ̃.tɑ̃/) — starts with a consonant (*p*), uses **au** (*à + le = au*)!
+- **en été** (/ɑ̃.n‿e.te/ — (ahn-nay-TAY)) — starts with a vowel, uses **en**
+- **en automne** (/ɑ̃.n‿o.tɔn/ — (ahn-noh-TON)) — starts with a vowel, uses **en**
+- **en hiver** (/ɑ̃.n‿i.vɛʁ/ — (ahn-nee-VEHR)) — starts with a silent *h*, uses **en**
+- **au printemps** (/o pʁɛ̃.tɑ̃/ — (oh prehn-TAHN)) — starts with a consonant (*p*), uses **au** (*à + le = au*)!
 
 Never say *"en printemps"*. Saying *"en printemps"* is a basic grammar error that stands out in both TCF writing and speaking.
 
@@ -148,12 +149,12 @@ Never say *"en printemps"*. Saying *"en printemps"* is a basic grammar error tha
 
 Canadian French has evolved a rich, highly specialized lexicon to describe the realities of North American winter storms:
 
-- **Une bordée de neige** **(QC)**: In France, people say *une chute de neige*. In Québec, a heavy snowfall is called *une bordée de neige* **(QC)**.
-- **Une tempête de neige**: A snowstorm (used everywhere). If combined with high winds reducing visibility to near zero, it is called *un blizzard* or *une poudrerie* **(QC)** (blowing snow).
-- **Le verglas** (/lə vɛʁ.ɡla/): Black ice, the thin transparent ice that coats sidewalks and highways. The rain that causes it is *la pluie verglaçante* (freezing rain). A severe ice storm is *une tempête de verglas*.
-- **La gadoue** vs **La slush** **(QC)**: When snow on city streets melts into dirty, watery grey slush, Europeans call it *la gadoue*, while in Québec everyone uses the colourful colloquial term *la slush* **(QC)** (/la slœʃ/).
-- **Pelleter la neige**: The quintessential Canadian winter exercise: shoveling snow off your driveway or car is *pelleter* (a standard French verb, using *une pelle à neige*).
-- **Un banc de neige** **(QC)**: A large snowbank piled up along the side of the road by snowplows (*les déneigeuses*).
+- **Une bordée de neige** **(QC)** (/yn bɔʁ.de də nɛʒ/ — (ewn bor-DAY duh NEZH)): In France, people say *une chute de neige*. In Québec, a heavy snowfall is called *une bordée de neige* **(QC)**.
+- **Une tempête de neige** (/yn tɑ̃.pɛt də nɛʒ/ — (ewn tahn-PET duh NEZH)): A snowstorm (used everywhere). If combined with high winds reducing visibility to near zero, it is called *un blizzard* (/œ̃ bli.zaʁ/ — (uhn blee-ZAR)) or *une poudrerie* **(QC)** (/yn pud.ʁə.ʁi/ — (ewn pood-ruh-REE)) (blowing snow).
+- **Le verglas** (/lə vɛʁ.ɡla/ — (luh vehr-GLAH)): Black ice, the thin transparent ice that coats sidewalks and highways. The rain that causes it is *la pluie verglaçante* (/la plɥi vɛʁ.ɡla.sɑ̃t/ — (lah plwee vehr-glah-SAHNT)) (freezing rain). A severe ice storm is *une tempête de verglas*.
+- **La gadoue** (/la ɡa.du/ — (lah gah-DOO)) vs **La slush** **(QC)** (/la slœʃ/ — (lah SLEWSH)): When snow on city streets melts into dirty, watery grey slush, Europeans call it *la gadoue*, while in Québec everyone uses the colourful colloquial term *la slush* **(QC)**.
+- **Pelleter la neige** (/pɛl.te la nɛʒ/ — (pel-TAY lah NEZH)): The quintessential Canadian winter exercise: shoveling snow off your driveway or car is *pelleter* (a standard French verb, using *une pelle à neige*).
+- **Un banc de neige** **(QC)** (/œ̃ bɑ̃ də nɛʒ/ — (uhn bahn duh NEZH)): A large snowbank piled up along the side of the road by snowplows (*les déneigeuses*).
 
 </div>
 
@@ -204,23 +205,23 @@ On the TCF Canada Listening examination, weather forecasts are a possible topic 
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 16 core meteorological terms and Canadian weather expressions with IPA to your personal Anki flashcard deck:
-   - *le temps* (/lə tɑ̃/) — weather / time
-   - *la météo* (/la me.te.o/) — weather forecast
-   - *il fait beau* (/il fɛ bo/) — the weather is nice
-   - *il fait froid* (/il fɛ fʁwa/) — it is cold
-   - *il pleut* (/il plø/) — it is raining (verb *pleuvoir*)
-   - *il neige* (/il nɛʒ/) — it is snowing (verb *neiger*)
-   - *le vent* (/lə vɑ̃/) — the wind
-   - *le nuage* (/lə nɥaʒ/) — cloud
-   - *l'orage* (/l‿ɔ.ʁaʒ/) — thunderstorm
-   - *le degré* (/lə də.ɡʁe/) — degree (Celsius)
-   - *au printemps* (/o pʁɛ̃.tɑ̃/) — in spring
-   - *en été* (/ɑ̃.n‿e.te/) — in summer
-   - *en automne* (/ɑ̃.n‿o.tɔn/) — in autumn
-   - *en hiver* (/ɑ̃.n‿i.vɛʁ/) — in winter
-   - *une bordée de neige* **(QC)** (/yn bɔʁ.de də nɛʒ/) — heavy snowfall (Canada)
-   - *le verglas* (/lə vɛʁ.ɡla/) — black ice (freezing rain = *la pluie verglaçante*)
+   Add these 16 core meteorological terms and Canadian weather expressions with IPA and phonetic respelling to your personal Anki flashcard deck:
+   - *le temps* — /lə tɑ̃/ (luh TAHN) — weather / time
+   - *la météo* — /la me.te.o/ (lah may-tay-OH) — weather forecast
+   - *il fait beau* — /il fɛ bo/ (eel feh BOH) — the weather is nice
+   - *il fait froid* — /il fɛ fʁwa/ (eel feh FRWAH) — it is cold
+   - *il pleut* — /il plø/ (eel PLEUH) — it is raining (verb *pleuvoir*)
+   - *il neige* — /il nɛʒ/ (eel NEZH) — it is snowing (verb *neiger*)
+   - *le vent* — /lə vɑ̃/ (luh VAHN) — the wind
+   - *le nuage* — /lə nɥaʒ/ (luh new-AHZH) — cloud
+   - *l'orage* — /l‿ɔ.ʁaʒ/ (loh-RAHZH) — thunderstorm
+   - *le degré* — /lə də.ɡʁe/ (luh duh-GRAY) — degree (Celsius)
+   - *au printemps* — /o pʁɛ̃.tɑ̃/ (oh prehn-TAHN) — in spring
+   - *en été* — /ɑ̃.n‿e.te/ (ahn-nay-TAY) — in summer
+   - *en automne* — /ɑ̃.n‿o.tɔn/ (ahn-noh-TON) — in autumn
+   - *en hiver* — /ɑ̃.n‿i.vɛʁ/ (ahn-nee-VEHR) — in winter
+   - *une bordée de neige* **(QC)** — /yn bɔʁ.de də nɛʒ/ (ewn bor-DAY duh NEZH) — heavy snowfall (Canada)
+   - *le verglas* — /lə vɛʁ.ɡla/ (luh vehr-GLAH) — black ice (freezing rain = *la pluie verglaçante*)
 
 3. **Step 3: Receptive Listening Task**  
    Listen to the short weather bulletin on [TV5Monde — La météo en France et au Canada](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
