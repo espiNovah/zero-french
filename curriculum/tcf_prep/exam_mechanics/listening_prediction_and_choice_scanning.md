@@ -182,11 +182,11 @@ Reading complex text while listening to fast speech causes cognitive overload (*
 #### Québec vs France
 
 On the TCF Canada listening exam, you may hear varied francophone accents, including Canadian voices and regional lexicon:
-- *un char* **(QC)**: Colloquial term for a car (*une voiture / une auto* in standard French).
-- *stationner* + direct object **(QC)**: *stationner son auto* (in France, *stationner* is mostly intransitive — *défense de stationner* — and you *garer sa voiture*).
-- *le dépanneur* **(QC)**: Local convenience store (*l'épicerie de quartier* in France).
-- *le cégep* **(QC)**: General and vocational college (*collège d'enseignement général et professionnel*).
-- *le traversier* **(QC)**: Ferry boat (*le bac / le ferry* in France).
+- *un char* **(QC)** — /œ̃ ʃaʁ/ (*uhn SHAHR*): Colloquial term for a car (*une voiture / une auto* in standard French).
+- *stationner* + direct object **(QC)** — /sta.sjɔ.ne/ (*stah-syoh-NAY*): *stationner son auto* (in France, *stationner* is mostly intransitive — *défense de stationner* — and you *garer sa voiture*).
+- *le dépanneur* **(QC)** — /lə de.pa.nœʁ/ (*luh day-pah-NUHR*): Local convenience store (*l'épicerie de quartier* in France).
+- *le cégep* **(QC)** — /lə se.ʒɛp/ (*luh say-ZHEHP*): General and vocational college (*collège d'enseignement général et professionnel*).
+- *le traversier* **(QC)** — /lə tʁa.vɛʁ.sje/ (*luh trah-vehr-SYAY*): Ferry boat (*le bac / le ferry* in France).
 When pre-activating vocabulary before a Canadian-themed recording, prime both standard international terms and high-frequency Québec equivalents.
 
 </div>
