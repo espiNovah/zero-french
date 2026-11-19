@@ -34,12 +34,12 @@ $$\mathbf{\text{Ils / Elles (présent de l'indicatif)}} \quad \xrightarrow{\text
 
 | Subject Pronoun | Subjunctive Ending | Parler (*parl-*) | Finir (*finiss-*) | Attendre (*attend-*) |
 | :--- | :--- | :--- | :--- | :--- |
-| **que je / que j'** | **-e** | **que je parle** (/kə ʒə paʁl/) | **que je finisse** (/kə ʒə fi.nis/) | **que j'attende** (/kə ʒ‿a.tɑ̃d/) |
-| **que tu** | **-es** | **que tu parles** (/kə ty paʁl/) | **que tu finisses** (/kə ty fi.nis/) | **que tu attendes** (/kə ty a.tɑ̃d/) |
-| **qu'il / elle / on** | **-e** | **qu'il parle** (/k‿il paʁl/) | **qu'elle finisse** (/k‿ɛl fi.nis/) | **qu'on attende** (/k‿ɔ̃ n‿a.tɑ̃d/) |
-| **que nous** | **-ions** | **que nous parlions** (/kə nu paʁ.ljɔ̃/) | **que nous finissions** (/kə nu fi.ni.sjɔ̃/) | **que nous attendions** (/kə nu z‿a.tɑ̃.djɔ̃/) |
-| **que vous** | **-iez** | **que vous parliez** (/kə vu paʁ.lje/) | **que vous finissiez** (/kə vu fi.ni.sje/) | **que vous attendiez** (/kə vu z‿a.tɑ̃.dje/) |
-| **qu'ils / elles** | **-ent** | **qu'ils parlent** (/k‿il paʁl/) | **qu'elles finissent** (/k‿ɛl fi.nis/) | **qu'ils attendent** (/kil.z‿a.tɑ̃d/) |
+| **que je / que j'** | **-e** | **que je parle** (/kə ʒə paʁl/ — *kuh zhuh PARL*) | **que je finisse** (/kə ʒə fi.nis/ — *kuh zhuh fee-NEES*) | **que j'attende** (/kə ʒ‿a.tɑ̃d/ — *kuh zhah-TAHND*) |
+| **que tu** | **-es** | **que tu parles** (/kə ty paʁl/ — *kuh tew PARL*) | **que tu finisses** (/kə ty fi.nis/ — *kuh tew fee-NEES*) | **que tu attendes** (/kə ty a.tɑ̃d/ — *kuh tew ah-TAHND*) |
+| **qu'il / elle / on** | **-e** | **qu'il parle** (/k‿il paʁl/ — *keel PARL*) | **qu'elle finisse** (/k‿ɛl fi.nis/ — *kehl fee-NEES*) | **qu'on attende** (/k‿ɔ̃ n‿a.tɑ̃d/ — *kohn nah-TAHND*) |
+| **que nous** | **-ions** | **que nous parlions** (/kə nu paʁ.ljɔ̃/ — *kuh noo pahr-LYOHN*) | **que nous finissions** (/kə nu fi.ni.sjɔ̃/ — *kuh noo fee-nee-SYOHN*) | **que nous attendions** (/kə nu z‿a.tɑ̃.djɔ̃/ — *kuh noo zah-tahn-DYOHN*) |
+| **que vous** | **-iez** | **que vous parliez** (/kə vu paʁ.lje/ — *kuh voo pahr-LYAY*) | **que vous finissiez** (/kə vu fi.ni.sje/ — *kuh voo fee-nee-SYAY*) | **que vous attendiez** (/kə vu z‿a.tɑ̃.dje/ — *kuh voo zah-tahn-DYAY*) |
+| **qu'ils / elles** | **-ent** | **qu'ils parlent** (/k‿il paʁl/ — *keel PARL*) | **qu'elles finissent** (/k‿ɛl fi.nis/ — *kehl fee-NEES*) | **qu'ils attendent** (/kil.z‿a.tɑ̃d/ — *keel zah-TAHND*) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -57,26 +57,26 @@ Many common third-group verbs change their root between the singular forms (*je,
 
 | Verb | Ils form (Stem 1) | Nous form (Stem 2) | Subjunctive Forms (Je / Nous) |
 | :--- | :--- | :--- | :--- |
-| **Prendre** | *ils prennent* (*prenn-*) | *nous prenions* (*pren-*) | **que je prenne** (/pʁɛn/) / **que nous prenions** (/pʁə.njɔ̃/) |
-| **Venir** | *ils viennent* (*vienn-*) | *nous venions* (*ven-*) | **que je vienne** (/vjɛn/) / **que nous venions** (/və.njɔ̃/) |
-| **Boire** | *ils boivent* (*boiv-*) | *nous buvions* (*buv-*) | **que je boive** (/bwav/) / **que nous buvions** (/by.vjɔ̃/) |
-| **Devoir** | *ils doivent* (*doiv-*) | *nous devions* (*dev-*) | **que je doive** (/dwav/) / **que nous devions** (/də.vjɔ̃/) |
-| **Recevoir** | *ils reçoivent* (*reçoiv-*) | *nous recevions* (*recev-*) | **que je reçoive** (/ʁə.swav/) / **que nous recevions** (/ʁə.sə.vjɔ̃/) |
+| **Prendre** | *ils prennent* (*prenn-*) | *nous prenions* (*pren-*) | **que je prenne** (/pʁɛn/ — *PREHN*) / **que nous prenions** (/pʁə.njɔ̃/ — *pruh-NYOHN*) |
+| **Venir** | *ils viennent* (*vienn-*) | *nous venions* (*ven-*) | **que je vienne** (/vjɛn/ — *VYENN*) / **que nous venions** (/və.njɔ̃/ — *vuh-NYOHN*) |
+| **Boire** | *ils boivent* (*boiv-*) | *nous buvions* (*buv-*) | **que je boive** (/bwav/ — *BWAHV*) / **que nous buvions** (/by.vjɔ̃/ — *bew-VYOHN*) |
+| **Devoir** | *ils doivent* (*doiv-*) | *nous devions* (*dev-*) | **que je doive** (/dwav/ — *DWAHV*) / **que nous devions** (/də.vjɔ̃/ — *duh-VYOHN*) |
+| **Recevoir** | *ils reçoivent* (*reçoiv-*) | *nous recevions* (*recev-*) | **que je reçoive** (/ʁə.swav/ — *ruh-SWAHV*) / **que nous recevions** (/ʁə.sə.vjɔ̃/ — *ruh-suh-VYOHN*) |
 
 ### Regular stems and irregular subjunctive verbs
 
 Eight essential verbs in French have completely irregular subjunctive stems that do not derive from the present indicative. You must memorize these stems:
 
-| Infinitive Verb | Subjunctive Conjugation (Je, Tu, Il, Nous, Vous, Ils) | IPA Pronunciation Highlights |
-| :--- | :--- | :--- |
-| **Être** | **que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient** | /kə ʒə swa, nu swa.jɔ̃, vu swa.je, il swa/ |
-| **Avoir** | **que j'aie, tu aies, il ait, nous ayons, vous ayez, ils aient** | /kə ʒ‿ɛ, nu z‿ɛ.jɔ̃, vu z‿ɛ.je, il z‿ɛ/ |
-| **Faire** | **que je fasse, tu fasses, il fasse, nous fassions, vous fassiez, ils fassent** | Stem: /fas/ throughout (*fassions* /fa.sjɔ̃/) |
-| **Aller** | **que j'aille, tu ailles, il aille, nous allions, vous alliez, ils aillent** | /ʒ‿aj, il z‿aj/ vs /nu z‿a.ljɔ̃/ |
-| **Pouvoir** | **que je puisse, tu puisses, il puisse, nous puissions, vous puissiez, ils puissent** | Stem: /pɥis/ throughout (*puissions* /pɥi.sjɔ̃/) |
-| **Savoir** | **que je sache, tu saches, il sache, nous sachions, vous sachiez, ils sachent** | Stem: /saʃ/ throughout (*sachions* /sa.ʃjɔ̃/) |
-| **Vouloir** | **que je veuille, tu veuilles, il veuille, nous voulions, vous vouliez, ils veuillent** | /vœj/ vs /vu.ljɔ̃, vu.lje/ |
-| **Falloir** | **qu'il faille** (impersonal 3rd-person singular only) | /k‿il faj/ |
+| Infinitive Verb | Subjunctive Conjugation (Je, Tu, Il, Nous, Vous, Ils) | IPA Pronunciation Highlights | Phonetic Respelling Highlights |
+| :--- | :--- | :--- | :--- |
+| **Être** | **que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient** | /kə ʒə swa, nu swa.jɔ̃, vu swa.je, il swa/ | (kuh zhuh SWAH, noo swah-YOHN, voo swah-YAY, eel SWAH) |
+| **Avoir** | **que j'aie, tu aies, il ait, nous ayons, vous ayez, ils aient** | /kə ʒ‿ɛ, nu z‿ɛ.jɔ̃, vu z‿ɛ.je, il z‿ɛ/ | (kuh ZHEH, noo zeh-YOHN, voo zeh-YAY, eel ZEH) |
+| **Faire** | **que je fasse, tu fasses, il fasse, nous fassions, vous fassiez, ils fassent** | Stem: /fas/ throughout (*fassions* /fa.sjɔ̃/) | (Stem: FAHSS throughout; fassions: fah-SYOHN) |
+| **Aller** | **que j'aille, tu ailles, il aille, nous allions, vous alliez, ils aillent** | /ʒ‿aj, il z‿aj/ vs /nu z‿a.ljɔ̃/ | (ZHAHY, eel ZHAHY vs noo zah-LYOHN) |
+| **Pouvoir** | **que je puisse, tu puisses, il puisse, nous puissions, vous puissiez, ils puissent** | Stem: /pɥis/ throughout (*puissions* /pɥi.sjɔ̃/) | (Stem: PWEESS throughout; puissions: pwee-SYOHN) |
+| **Savoir** | **que je sache, tu saches, il sache, nous sachions, vous sachiez, ils sachent** | Stem: /saʃ/ throughout (*sachions* /sa.ʃjɔ̃/) | (Stem: SAHSH throughout; sachions: sah-SHYOHN) |
+| **Vouloir** | **que je veuille, tu veuilles, il veuille, nous voulions, vous vouliez, ils veuillent** | /vœj/ vs /vu.ljɔ̃, vu.lje/ | (VUH-yuh vs voo-LYOHN, voo-LYAY) |
+| **Falloir** | **qu'il faille** (impersonal 3rd-person singular only) | /k‿il faj/ | (keel FAH-yuh) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -91,14 +91,14 @@ The most frequent trigger for the subjunctive in French is expressing necessity,
 
 $$\mathbf{\text{Il faut que}} / \mathbf{\text{Il est nécessaire que}} + \mathbf{\text{Sujet}} + \mathbf{\text{Verbe au subjonctif}}$$
 
-| Impersonal Obligation Trigger | IPA Pronunciation | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- |
-| **Il faut que** | /il fo kə/ | It is necessary that / One must | **Il faut que vous remplissiez ce formulaire.** (*You must fill out this form.*) |
-| **Il est nécessaire que** | /il ɛ ne.sɛ.sɛʁ kə/ | It is necessary that | **Il est nécessaire que nous ayons les résultats avant midi.** (*It is necessary that we have the results before noon.*) |
-| **Il est essentiel que** | /il ɛ.t‿e.sɑ̃.sjɛl kə/ | It is essential that | **Il est essentiel que le patient prenne ses médicaments.** (*It is essential that the patient take his medication.*) |
-| **Il est primordial que** | /il ɛ pʁi.mɔʁ.djal kə/ | It is paramount that | **Il est primordial que vous arriviez à l'heure à l'examen.** (*It is paramount that you arrive on time for the exam.*) |
-| **Il est important que** | /il ɛ.t‿ɛ̃.pɔʁ.tɑ̃ kə/ | It is important that | **Il est important que l'équipe comprenne les nouveaux règlements.** (*It is important that the team understand the new rules.*) |
-| **Il convient que** | /il kɔ̃.vjɛ̃ kə/ | It is fitting / appropriate that | **Il convient que chacun fasse part de ses suggestions.** (*It is appropriate that everyone share their suggestions.*) |
+| Impersonal Obligation Trigger | IPA Pronunciation | Phonetic Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il faut que** | /il fo kə/ | (eel foh kuh) | It is necessary that / One must | **Il faut que vous remplissiez ce formulaire.** (*You must fill out this form.*) |
+| **Il est nécessaire que** | /il ɛ ne.sɛ.sɛʁ kə/ | (eel eh nay-seh-SEHR kuh) | It is necessary that | **Il est nécessaire que nous ayons les résultats avant midi.** (*It is necessary that we have the results before noon.*) |
+| **Il est essentiel que** | /il ɛ.t‿e.sɑ̃.sjɛl kə/ | (eel eh-tay-sahn-SYEHL kuh) | It is essential that | **Il est essentiel que le patient prenne ses médicaments.** (*It is essential that the patient take his medication.*) |
+| **Il est primordial que** | /il ɛ pʁi.mɔʁ.djal kə/ | (eel eh pree-mor-DYAHL kuh) | It is paramount that | **Il est primordial que vous arriviez à l'heure à l'examen.** (*It is paramount that you arrive on time for the exam.*) |
+| **Il est important que** | /il ɛ.t‿ɛ̃.pɔʁ.tɑ̃ kə/ | (eel eh-tehn-por-TAHN kuh) | It is important that | **Il est important que l'équipe comprenne les nouveaux règlements.** (*It is important that the team understand the new rules.*) |
+| **Il convient que** | /il kɔ̃.vjɛ̃ kə/ | (eel kohn-VYEN kuh) | It is fitting / appropriate that | **Il convient que chacun fasse part de ses suggestions.** (*It is appropriate that everyone share their suggestions.*) |
 
 ### Category 2 triggers: Desires wishes and will
 
@@ -108,7 +108,7 @@ $$\mathbf{\text{Sujet 1}} + \mathbf{\text{Verbe de volonté}} + \mathbf{\text{qu
 
 - **Vouloir que** (*to want someone to*):  
   *« Mon employeur veut **que je travaille** en présentiel trois jours par semaine. »*  
-  (/mɔ̃ n‿ɑ̃.plwa.jœʁ vø kə ʒə tʁa.vaj ɑ̃ pʁe.zɑ̃.sjɛl/)
+  (/mɔ̃ n‿ɑ̃.plwa.jœʁ vø kə ʒə tʁa.vaj ɑ̃ pʁe.zɑ̃.sjɛl/ — *mohn nahn-plwah-YUHR vuh kuh zhuh trah-VY ahn pray-zahn-SYEHL*)
 - **Exiger que** (*to demand / require that*):  
   *« La direction exige **que tous les employés fassent** valider leurs relevés d'heures. »*  
   (*Management requires that all employees have their timesheets validated.*)
@@ -142,7 +142,7 @@ $$\mathbf{\text{Sujet}} + \mathbf{\text{Verbe / Adjectif d'émotion}} + \mathbf{
 
 - **Être content(e) / heureux(-se) que** :  
   *« Je suis très heureuse **que vous puissiez** assister à notre conférence. »*  
-  (/ʒə sɥi tʁɛ z‿œ.ʁøz kə vu pɥi.sje a.sis.te a nɔtʁ kɔ̃.fe.ʁɑ̃s/)
+  (/ʒə sɥi tʁɛ z‿œ.ʁøz kə vu pɥi.sje a.sis.te a nɔtʁ kɔ̃.fe.ʁɑ̃s/ — *zhuh swee treh zuh-REUZ kuh voo pwee-SYAY ah-sees-TAY ah noh-truh kohn-fay-RAHNS*)
 - **Avoir peur / Craindre que** :  
   *« Nous avons peur **que le vol soit annulé** en raison de la tempête de neige. »*  
   (*We are afraid that the flight will be cancelled due to the snowstorm.*)
@@ -162,7 +162,7 @@ The subjunctive is the mood of unverified reality. Therefore, verbs expressing d
 
 - **Douter que** (*to doubt that*) :  
   *« **Je doute qu'il sache** comment résoudre cette panne informatique. »*  
-  (/ʒə dut k‿il saʃ kɔ.mɑ̃ ʁe.zudʁ sɛt pan ɛ̃.fɔʁ.ma.tik/)
+  (/ʒə dut k‿il saʃ kɔ.mɑ̃ ʁe.zudʁ sɛt pan ɛ̃.fɔʁ.ma.tik/ — *zhuh DOOT keel SAHSH koh-MAHN ray-ZOO-druh seht PAHN ehn-for-mah-TEEK*)
 - **Il est peu probable que** (*it is unlikely that*) :  
   *« **Il est peu probable que les prix baissent** au cours des prochains mois. »*  
   (*It is unlikely that prices will drop over the coming months.*)
