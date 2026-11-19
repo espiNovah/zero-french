@@ -24,34 +24,34 @@ The French alphabet uses the exact same 26 Latin letters as the English alphabet
 
 Observe the full phonetic inventory of the 26 French letters:
 
-| Letter | French Name | IPA Pronunciation | English "Cheat-Code" | Sound Guide & Common Pitfalls |
+| Letter | French Name | IPA Pronunciation | Phonetic Respelling | Sound Guide & Common Pitfalls |
 | :--- | :--- | :--- | :--- | :--- |
-| **A** | a | /a/ | **Ah** | Open vowel sound as in *father*. |
-| **B** | bé | /be/ | **Bay** | Pure monophthong: snap the vowel shut; do not glide into an English "-ee" diphthong. |
-| **C** | cé | /se/ | **Say** | Pure monophthong (soft /s/ sound; do not glide). |
-| **D** | dé | /de/ | **Day** | Dental sound: tip of tongue touches the back of upper front teeth. |
-| **E** | e | /ə/ | **Uh / Euh** ⚠️ | Relaxed neutral vowel (like *a* in *sofa*). **Pitfall**: Do not confuse with English letter "E" (which sounds like French **I**!). |
-| **F** | effe | /ɛf/ | **Ef** | Same as English. |
-| **G** | gé | /ʒe/ | **Jay** ⚠️ | Sounds like English "jay", softened without the hard "d" (like *s* in *measure*). **Pitfall**: Inverted trap with **J**! |
-| **H** | hache | /aʃ/ | **Ash** ⚠️ | Letter name is *ash*. **Pitfall**: In spoken words, *h* is always 100% silent. |
-| **I** | i | /i/ | **Ee** ⚠️ | Crisp "ee" as in *machine* or *ski*. **Pitfall**: English speakers hear "ee" and write letter E instead of **I**! |
-| **J** | ji | /ʒi/ | **Gee** ⚠️ | Sounds like English "gee", softened without the hard "d" (like *s* in *measure*). **Pitfall**: Inverted trap with **G**! |
-| **K** | ka | /ka/ | **Kah** | Same as English (used mainly in loanwords: *kilo*, *kayak*). |
-| **L** | elle | /ɛl/ | **El** | Short, crisp "el" without curling tongue backward. |
-| **M** | emme | /ɛm/ | **Em** | Same as English. |
-| **N** | enne | /ɛn/ | **En** | Same as English. |
-| **O** | o | /o/ | **Oh** | Pure closed "oh" (keep lips steady; avoid the English "oh-oo" diphthong glide). |
-| **P** | pé | /pe/ | **Pay** | Pure monophthong without a heavy English puff of air (unaspirated). |
-| **Q** | ku | /ky/ | **Ku** ⚠️ | Familiar English approximation; pronounce "k" with lips rounded forward (avoid a flat English "koo", which sounds like the French word *cou* / neck). |
-| **R** | erre | /ɛʁ/ | **Air** ⚠️ | Familiar approximation; produced with uvular friction at the back of the throat. **Pitfall**: Do not curl your tongue into an English "r". |
-| **S** | esse | /ɛs/ | **Es** | Same as English. |
-| **T** | té | /te/ | **Tay** | Dental: tongue pressed against upper front teeth without an English puff of air. |
-| **U** | u | /y/ | **Ou** ⚠️ | Familiar English approximation; shape lips to whistle while keeping tongue forward as if saying "ee". **Pitfall**: Distinct from the French letter pair *OU* (/u/). |
-| **V** | vé | /ve/ | **Vay** | Pure monophthong (snap vowel shut). |
-| **W** | double vé | /du.blə.ve/ | **Doobl-vay** | Literally "double V" (unlike English "double U"). |
-| **X** | iks | /iks/ | **Eeks** ⚠️ | French letter name is *ixe* (/iks/). **Pitfall**: Do not say English "eks". |
-| **Y** | i grec | /i.ɡʁɛk/ | **Ee-grek** | Literally "Greek I" (*i grec*). |
-| **Z** | zède | /zɛd/ | **Zed** ⚠️ | Standard Canadian and British English pronunciation. **Pitfall**: Say "zed", not American "zee". |
+| **A** | a | /a/ | **(AH)** | Open vowel sound as in *father*. |
+| **B** | bé | /be/ | **(BAY)** | Pure monophthong: snap the vowel shut; do not glide into an English "-ee" diphthong. |
+| **C** | cé | /se/ | **(SAY)** | Pure monophthong (soft /s/ sound; do not glide). |
+| **D** | dé | /de/ | **(DAY)** | Dental sound: tip of tongue touches the back of upper front teeth. |
+| **E** | e | /ə/ | **(EUH)** ⚠️ | Relaxed neutral vowel (like *a* in *sofa* or *eu* in *peur*). **Pitfall**: Do not confuse with English letter "E" (which sounds like French **I**!). |
+| **F** | effe | /ɛf/ | **(EF)** | Same as English. |
+| **G** | gé | /ʒe/ | **(ZHAY)** ⚠️ | Soft French /ʒ/ sound (like *s* in *measure* or *vision* + *ay*). **Pitfall**: Inverted trap with **J**; avoid hard English "dj" sound! |
+| **H** | hache | /aʃ/ | **(AHSH)** ⚠️ | Letter name is *hache*. **Pitfall**: In spoken words, *h* is always 100% silent. |
+| **I** | i | /i/ | **(EE)** ⚠️ | Crisp "ee" as in *machine* or *ski*. **Pitfall**: English speakers hear "ee" and write letter E instead of **I**! |
+| **J** | ji | /ʒi/ | **(ZHEE)** ⚠️ | Soft French /ʒ/ sound (like *s* in *measure* + *ee*). **Pitfall**: Inverted trap with **G**; avoid hard English "dj" sound! |
+| **K** | ka | /ka/ | **(KAH)** | Unaspirated *k* + open *ah* (used mainly in loanwords: *kilo*, *kayak*). |
+| **L** | elle | /ɛl/ | **(EL)** | Short, crisp "el" without curling tongue backward. |
+| **M** | emme | /ɛm/ | **(EM)** | Same as English. |
+| **N** | enne | /ɛn/ | **(EN)** | Same as English. |
+| **O** | o | /o/ | **(OH)** | Pure closed "oh" (keep lips steady; avoid the English "oh-oo" diphthong glide). |
+| **P** | pé | /pe/ | **(PAY)** | Pure monophthong without a heavy English puff of air (unaspirated). |
+| **Q** | ku | /ky/ | **(KEW)** ⚠️ | Pronounce "k" while shaping lips into a tight whistle with tongue forward for "ee" (/ky/). **Pitfall**: Avoid flat English "koo", which sounds like French *cou* (neck). |
+| **R** | erre | /ɛʁ/ | **(EHR)** ⚠️ | Produced with uvular friction at the back of the throat. **Pitfall**: Do not curl your tongue backward into an English "r". |
+| **S** | esse | /ɛs/ | **(ES)** | Same as English. |
+| **T** | té | /te/ | **(TAY)** | Dental: tongue pressed against upper front teeth without an English puff of air. |
+| **U** | u | /y/ | **(EW)** ⚠️ | Critical French sound: shape lips to whistle while keeping tongue forward as if saying "ee" (/y/). **Pitfall**: Distinct from French *OU* (/u/ — (OO)). |
+| **V** | vé | /ve/ | **(VAY)** | Pure monophthong (snap vowel shut). |
+| **W** | double vé | /du.blə.ve/ | **(DOO-bluh-VAY)** | Literally "double V" (unlike English "double U"). |
+| **X** | iks | /iks/ | **(EEKS)** ⚠️ | French letter name is *ixe* (/iks/). **Pitfall**: Do not say English "eks". |
+| **Y** | i grec | /i.ɡʁɛk/ | **(EE-grek)** | Literally "Greek I" (*i grec*). |
+| **Z** | zède | /zɛd/ | **(ZED)** ⚠️ | Standard Canadian and British English pronunciation. **Pitfall**: Say "zed", not American "zee". |
 
 ### The three classic letter traps for English speakers
 
@@ -59,41 +59,41 @@ English speakers instinctively stumble over three specific clusters when hearing
 
 #### Trap 1: The G versus J Inversion
 In English, the letter **G** sounds like "jee" and **J** sounds like "jay." In French, this relationship is **completely reversed**:
-- **G** is called **gé** (/ʒe/) — sounds like English "jay" (with a soft /ʒ/).
-- **J** is called **ji** (/ʒi/) — sounds like English "gee" (with a soft /ʒ/).
+- **G** is called **gé** (/ʒe/ — (ZHAY)) — sounds like English "jay", but softened to /ʒ/ (like *s* in *measure*).
+- **J** is called **ji** (/ʒi/ — (ZHEE)) — sounds like English "gee", but softened to /ʒ/ (like *s* in *measure*).
 
 When a French speaker spells the name *Gilles* (G-I-L-L-E-S), an English speaker often writes *Jilles* because they hear `/ʒi/`. Train yourself to invert your natural reflex:
-- Hearing `/ʒe/` → write **G**
-- Hearing `/ʒi/` → write **J**
+- Hearing `/ʒe/` (ZHAY) → write **G**
+- Hearing `/ʒi/` (ZHEE) → write **J**
 
 #### Trap 2: The E, I, and U Vowel Confusion (Plus Q)
 English vowel names mislead foreign learners:
-- In English, the letter **E** is pronounced "ee." In French, "ee" is the letter **I** (/i/)!
-- In French, the letter **E** is pronounced as a neutral, relaxed vowel: **/ə/** (similar to the vowel sound in English "her" or "the").
-- The French letter **U** has no equivalent in English: **/y/**. **Never pronounce U as "Oo"**: in French, "Oo" (/u/) is the sound of the spelling combination **OU** (as in *vous*, *tout*). To produce French **U**, place your tongue as if pronouncing /i/ ("ee"), but round your lips tightly as if whistling.
-- The letter **Q** (/ky/) ends with this exact same /y/ sound. Calling it "Koo" (/ku/) turns it into the French word *cou* (neck) or *coût* (cost).
+- In English, the letter **E** is pronounced "ee." In French, "ee" is the letter **I** (/i/ — (EE))!
+- In French, the letter **E** is pronounced as a neutral, relaxed vowel: **/ə/** (EUH) (similar to the vowel sound in English "her" or "the").
+- The French letter **U** has no equivalent in English: **/y/** (EW). **Never pronounce U as "Oo"**: in French, "Oo" (/u/ — (OO)) is the sound of the spelling combination **OU** (as in *vous*, *tout*). To produce French **U**, place your tongue as if pronouncing /i/ ("ee"), but round your lips tightly as if whistling.
+- The letter **Q** (/ky/ — (KEW)) ends with this exact same /y/ sound. Calling it "Koo" (/ku/ — (KOO)) turns it into the French word *cou* (neck) or *coût* (cost).
 
-| Spoken Sound | French Letter to Write | Common English Mistake |
-| :--- | :--- | :--- |
-| **/ə/** | **E** | Mistaken for "U" or "A" |
-| **/i/** | **I** | Mistaken for "E" |
-| **/y/** | **U** | Mistaken for "O" or English "Oo" (*OU*) |
-| **/ky/** | **Q** | Mistaken for "Koo" (*cou*) |
+| Spoken Sound | Phonetic Respelling | French Letter to Write | Common English Mistake |
+| :--- | :--- | :--- | :--- |
+| **/ə/** | (EUH) | **E** | Mistaken for "U" or "A" |
+| **/i/** | (EE) | **I** | Mistaken for "E" |
+| **/y/** | (EW) | **U** | Mistaken for "O" or English "Oo" (*OU*) |
+| **/ky/** | (KEW) | **Q** | Mistaken for "Koo" (*cou*) |
 
 #### Trap 3: W and Y (Double vé and I grec)
-- **W**: French calls this letter **double vé** (/du.blə.ve/) because visually it resembles two connected *V*s.
-- **Y**: French calls this letter **i grec** (/i.ɡʁɛk/), which literally means "Greek I" because the Romans borrowed the letter from the Greek alphabet.
+- **W**: French calls this letter **double vé** (/du.blə.ve/ — (DOO-bluh-VAY)) because visually it resembles two connected *V*s.
+- **Y**: French calls this letter **i grec** (/i.ɡʁɛk/ — (EE-grek)), which literally means "Greek I" because the Romans borrowed the letter from the Greek alphabet.
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Phonetic Trap: Silent H
 
 In the French language, the letter **H** is **never pronounced**. It produces no sound whatsoever:
-- *l'homme* is pronounced `/lɔm/` (never `/hɔm/`).
-- *l'hôtel* is pronounced `/lo.tɛl/`.
-- *l'hôpital* is pronounced `/lo.pi.tal/`.
+- *l'homme* is pronounced `/lɔm/` (LOM) (never `/hɔm/`).
+- *l'hôtel* is pronounced `/lo.tɛl/` (loh-TEL).
+- *l'hôpital* is pronounced `/lo.pi.tal/` (loh-pee-TAHL).
 
-When spelling a word aloud, you state the letter's name: **hache** (/aʃ/). But when reading or speaking the word in a sentence, the *h* is 100% silent.
+When spelling a word aloud, you state the letter's name: **hache** (/aʃ/ — (AHSH)). But when reading or speaking the word in a sentence, the *h* is 100% silent.
 
 </div>
 
@@ -105,16 +105,16 @@ French uses five diacritical marks (accents). Accents in French are **not decora
 - **Appearance**: Slopes upward from left to right: **é**.
 - **Rule**: Occurs **only on the letter E**.
 - **Sound**: Changes the neutral /ə/ sound into a clean, closed **/e/** sound (similar to the "ay" in "say," but without gliding):
-  - *le café* (/lə ka.fe/) — coffee
-  - *l'été* (/le.te/) — summer
-  - *répéter* (/ʁe.pe.te/) — to repeat
+  - *le café* (/lə ka.fe/ — (luh kah-FAY)) — coffee
+  - *l'été* (/le.te/ — (lay-TAY)) — summer
+  - *répéter* (/ʁe.pe.te/ — (ray-pay-TAY)) — to repeat
 
 #### 2. L'accent grave (The Grave Accent: è, à, ù)
 - **Appearance**: Slopes downward from left to right: **è**, **à**, **ù**.
 - **Phonetic Impact on E**: On the letter *e* (**è**), it opens the mouth to create a wide, open **/ɛ/** sound (like the "e" in "bed" or "pet"):
-  - *la mère* (/la mɛʁ/) — mother
-  - *le frère* (/lə fʁɛʁ/) — brother
-  - *très* (/tʁɛ/) — very
+  - *la mère* (/la mɛʁ/ — (lah MEHR)) — mother
+  - *le frère* (/lə fʁɛʁ/ — (luh FREHR)) — brother
+  - *très* (/tʁɛ/ — (TREH)) — very
 - **Grammatical Function on A and U**: On *a* and *u*, the grave accent does **not** change the pronunciation; it serves solely to distinguish homophones (words that sound identical but have different meanings):
   - **a** (has — from verb *avoir*) vs **à** (to / at — preposition)
   - **ou** (or — conjunction) vs **où** (where — interrogative/relative pronoun)
@@ -123,25 +123,25 @@ French uses five diacritical marks (accents). Accents in French are **not decora
 #### 3. L'accent circonflexe (The Circumflex: â, ê, î, ô, û)
 - **Appearance**: A small hat/chevron placed over any vowel: **â, ê, î, ô, û**.
 - **Historical Origin**: In Old French, these vowels were followed by the letter *s*. Over centuries, the *s* fell out of spoken pronunciation, and the circumflex was introduced to mark where the lost *s* once stood:
-  - *hôpital* (formerly *hospital*)
-  - *forêt* (formerly *forest*)
-  - *hôtel* (formerly *hostel*)
-  - *château* (formerly *chastel*)
-- **Phonetic Impact**: On *ê*, it creates an open vowel /ɛ/ (*la fête* /la fɛt/). On *ô*, it creates a closed vowel /o/ (*l'hôtel* /lo.tɛl/, *hôtel* /o.tɛl/). On *î* and *û*, it does not change the sound.
+  - *hôpital* (/o.pi.tal/ — (oh-pee-TAHL); formerly *hospital*)
+  - *forêt* (/fɔ.ʁɛ/ — (foh-REH); formerly *forest*)
+  - *hôtel* (/o.tɛl/ — (oh-TEL); formerly *hostel*)
+  - *château* (/ʃa.to/ — (shah-TOH); formerly *chastel*)
+- **Phonetic Impact**: On *ê*, it creates an open vowel /ɛ/ (*la fête* /la fɛt/ — (lah FET)). On *ô*, it creates a closed vowel /o/ (*l'hôtel* /lo.tɛl/ — (loh-TEL)). On *î* and *û*, it does not change the sound.
 
 #### 4. Le tréma (The Diaeresis: ë, ï, ü)
 - **Appearance**: Two horizontal dots placed over the second of two adjacent vowels: **ë, ï, ü**.
 - **Rule**: In French, two adjacent vowels usually combine into a single sound (e.g., *ai* = /ɛ/, *oi* = /wa/). The *tréma* instructs the reader to **pronounce the two vowels separately and distinctly**:
-  - *Noël* (/nɔ.ɛl/) — Christmas (pronounced *No-el*, not *Neul*)
-  - *naïf* (/na.if/) — naive (pronounced *na-if*, not *nèf*)
-  - *le maïs* (/lə ma.is/) — corn / maize (pronounced *ma-iss*, not *mè*)
+  - *Noël* (/nɔ.ɛl/ — (noh-EL)) — Christmas (pronounced *No-el*, not *Neul*)
+  - *naïf* (/na.if/ — (nah-EEF)) — naive (pronounced *na-if*, not *nèf*)
+  - *le maïs* (/lə ma.is/ — (luh mah-EES)) — corn / maize (pronounced *ma-iss*, not *mè*)
 
 #### 5. La cédille (The Cedilla: ç)
 - **Appearance**: A small tail attached underneath the letter **C**: **ç**.
 - **Rule**: In French, the letter *c* sounds like /k/ ("hard c") before the vowels *a, o, u* (*café*, *collègue*, *cuisine*). To force a soft /s/ sound before *a, o, u*, French adds a cédille:
-  - **français** (/fʁɑ̃.sɛ/) — without the cédille, it would sound like *"frankè"* (/fʁɑ̃.kɛ/)!
-  - **le garçon** (/lə ɡaʁ.sɔ̃/) — boy / waiter
-  - **ça va** (/sa va/) — it's going well
+  - **français** (/fʁɑ̃.sɛ/ — (frahn-SEH)) — without the cédille, it would sound like *"frankè"* (/fʁɑ̃.kɛ/)!
+  - **le garçon** (/lə ɡaʁ.sɔ̃/ — (luh gar-SOHN)) — boy / waiter
+  - **ça va** (/sa va/ — (sah VAH)) — it's going well
 - The cédille is **never** used before *e* or *i*, because *c* is already naturally soft before those vowels (*merci*, *ceci*).
 
 | Accent Name | French Name | Examples | Main Linguistic Function |
@@ -161,28 +161,30 @@ Observe how native speakers dictate contact information:
 > **Comment vous appelez-vous ?**  
 > *What is your name?*  
 > **Je m'appelle Marc Tremblay : M-A-R-C, T-R-E-M-B-L-A-Y.**  
-> /ʒə ma.pɛl maʁk tʁɑ̃.blɛ : ɛm-a-ɛʁ-se, te-ɛʁ-ə-ɛm-be-ɛl-a-i.ɡʁɛk/
+> /ʒə ma.pɛl maʁk tʁɑ̃.blɛ : ɛm-a-ɛʁ-se, te-ɛʁ-ə-ɛm-be-ɛl-a-i.ɡʁɛk/  
+> (zhuh mah-PEL mark trahn-BLEH : EM-AH-EHR-SAY, TAY-EHR-EUH-EM-BAY-EL-AH-EE-grek)
 
 #### Dictating Symbols and Punctuation:
 When reciting an email address, website, or reference number, use these terms:
-- **@** = **arobase** (/a.ʁɔ.baz/)
-- **.** = **point** (/pwɛ̃/)
-- **-** = **tiret** (/ti.ʁɛ/) or **tiret du milieu**
-- **_** = **tiret bas** (/ti.ʁe ba/) or **souligné**
-- **en majuscule** (/ɑ̃ ma.ʒys.kyl/) = in uppercase / capital letter
-- **en minuscule** (/ɑ̃ mi.nys.kyl/) = in lowercase
+- **@** = **arobase** (/a.ʁɔ.baz/ — (ah-roh-BAHZ))
+- **.** = **point** (/pwɛ̃/ — (PWEN))
+- **-** = **tiret** (/ti.ʁɛ/ — (tee-REH)) or **tiret du milieu**
+- **_** = **tiret bas** (/ti.ʁe ba/ — (tee-ray BAH)) or **souligné** (/su.li.ɲe/ — (soo-leen-YAY))
+- **en majuscule** (/ɑ̃ ma.ʒys.kyl/ — (ahn mah-zhews-KEWL)) = in uppercase / capital letter
+- **en minuscule** (/ɑ̃ mi.nys.kyl/ — (ahn mee-news-KEWL)) = in lowercase
 
 Observe this email address read aloud:
 > **david.tremblay@email.ca**  
 > *david (point) tremblay (arobase) email (point) c-a (en minuscules)*  
-> /da.vid pwɛ̃ tʁɑ̃.blɛ a.ʁɔ.baz i.mɛjl pwɛ̃ se-a/
+> /da.vid pwɛ̃ tʁɑ̃.blɛ a.ʁɔ.baz i.mɛjl pwɛ̃ se-a/  
+> (dah-VEED pwen trahn-BLEH ah-roh-BAHZ ee-meyl pwen SAY-AH)
 
 #### Canadian Alphanumeric Postal Codes
 In Canada, postal codes consist of six alphanumeric characters in the format **A1A 1A1** (alternating letter, number, letter, space, number, letter, number):
 - **H2X 1Y4** (Montréal) is spelled aloud as:  
-  **H-deux-X, un-Y-quatre** (/aʃ dø iks, œ̃ i.ɡʁɛk katʁ/)
+  **H-deux-X, un-Y-quatre** (/aʃ dø iks, œ̃ i.ɡʁɛk katʁ/ — (AHSH deuh EEKS, uhn EE-grek KAHT-ruh))
 - **K1P 5J2** (Ottawa) is spelled aloud as:  
-  **K-un-P, cinq-J-deux** (/ka œ̃ pe, sɛ̃k ʒi dø/)
+  **K-un-P, cinq-J-deux** (/ka œ̃ pe, sɛ̃k ʒi dø/ — (KAH uhn PAY, sehnk ZHEE deuh))
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -228,22 +230,22 @@ In the early, easier TCF Canada Listening items, audio prompts may feature a rec
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 15 essential letters, accents, and spelling formulas with IPA and English cheat-codes to your Anki deck:
-   - *A* (/a/) — letter A ("Ah")
-   - *E* (/ə/) — letter E ("Uh")
-   - *G* (/ʒe/) — letter G ("Jay" / soft "zh")
-   - *H* (/aʃ/) — letter H ("Ash", silent in words)
-   - *I* (/i/) — letter I ("Ee")
-   - *J* (/ʒi/) — letter J ("Gee" / soft "zh")
-   - *Q* (/ky/) — letter Q ("Ku" / rounded lips)
-   - *U* (/y/) — letter U ("Ou" / rounded lips)
-   - *W* (/du.blə.ve/) — letter W ("Doobl-vay")
-   - *Y* (/i.ɡʁɛk/) — letter Y ("Ee-grek")
-   - *L'accent aigu (é)* (/laksɑ̃ e.ɡy/) — acute accent (closed /e/)
-   - *L'accent grave (è, à)* (/laksɑ̃ ɡʁav/) — grave accent (open /ɛ/)
-   - *La cédille (ç)* (/la se.dij/) — cedilla (softens C before a, o, u)
-   - *Arobase (@)* (/a.ʁɔ.baz/) — @ symbol
-   - *Point (.)* (/pwɛ̃/) — dot / period
+   Add these 15 essential letters, accents, and spelling formulas with IPA and phonetic respellings to your Anki deck:
+   - *A* — /a/ (AH) — letter A
+   - *E* — /ə/ (EUH) — letter E
+   - *G* — /ʒe/ (ZHAY) — letter G (soft "zh" sound)
+   - *H* — /aʃ/ (AHSH) — letter H (silent in words)
+   - *I* — /i/ (EE) — letter I
+   - *J* — /ʒi/ (ZHEE) — letter J (soft "zh" sound)
+   - *Q* — /ky/ (KEW) — letter Q (rounded whistle lips)
+   - *U* — /y/ (EW) — letter U (rounded whistle lips)
+   - *W* — /du.blə.ve/ (DOO-bluh-VAY) — letter W
+   - *Y* — /i.ɡʁɛk/ (EE-grek) — letter Y
+   - *L'accent aigu (é)* — /laksɑ̃ e.ɡy/ (lahk-sahn ay-GEW) — acute accent (closed /e/)
+   - *L'accent grave (è, à)* — /laksɑ̃ ɡʁav/ (lahk-sahn GRAHV) — grave accent (open /ɛ/)
+   - *La cédille (ç)* — /la se.dij/ (lah say-DEE) — cedilla (softens C before a, o, u)
+   - *Arobase (@)* — /a.ʁɔ.baz/ (ah-roh-BAHZ) — @ symbol
+   - *Point (.)* — /pwɛ̃/ (PWEN) — dot / period
 
 3. **Receptive Listening Task**  
    Watch and listen to the alphabet and spelling demonstration on [TV5Monde — L'alphabet français et l'orthographe (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
