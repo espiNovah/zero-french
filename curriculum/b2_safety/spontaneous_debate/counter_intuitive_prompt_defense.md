@@ -106,11 +106,13 @@ Instead, elevate the prompt to a macro-societal level:
 - **Formula A (Isolating the Core Dilemma)**:  
   **« La question soulevée par ce sujet touche au cœur même de nos arbitrages collectifs : comment concilier impératif écologique et cohésion sociale ? »**  
   [la kɛstjɔ̃ sulve paʁ sə syʒɛ tuʃ o kœʁ mɛm də nozaʁbitʁaʒ kɔlɛktif kɔmɑ̃ kɔ̃silje ɛ̃peʁatif ekɔlɔʒik e kɔezjɔ̃ sɔsjal]  
+  (lah kehs-TYOHN sool-VAY pahr suh sew-ZHEH TOOSH oh KUR MEHM duh noh-zahr-bee-TRAHZH koh-lehk-TEEF : koh-MAHN kohn-see-LYAY ehm-pay-rah-TEEF ay-koh-loh-ZHEEK ay koh-ay-ZYOHN soh-SYAHL ?)  
   *The question raised by this topic touches the very heart of our collective trade-offs: how do we reconcile ecological urgency with social cohesion?*
 
 - **Formula B (Crediting the Underlying Intent)**:  
   **« Bien que cette proposition puisse de prime abord sembler provocatrice, voire utopique, elle a le mérite de mettre en lumière une faille majeure de nos politiques publiques. »**  
   [bjɛ̃ kə sɛt pʁɔpozisjɔ̃ pɥis də pʁim abɔʁ sɑ̃ble pʁɔvɔkatʁis vwaʁ ytɔpik ɛl a lə meʁit də mɛtʁ ɑ̃ lymjɛʁ yn faj maʒœʁ də no pɔlitik pyblik]  
+  (byen kuh seht proh-poh-zee-SYOHN PWEES duh PREEM ah-BOHR sahn-BLAY proh-voh-kah-TREES, vwahr ew-toh-PEEK, ehl ah luh may-REET duh MEH-truh ahn lew-MYEHR ewn FYE mah-ZHUR duh noh poh-lee-TEEK pew-BLEEK.)  
   *Although this proposal might at first glance appear provocative, or even utopian, it has the merit of highlighting a major flaw in our public policies.*
 
 #### Phase 2: La Déconstruction Critique (The 2-Minute Analytical Core)
@@ -119,11 +121,13 @@ In this phase, explain why the absolute or extreme nature of the prompt triggers
 - **Formula A (The Risk of Exacerbating Inequalities)**:  
   **« Une telle mesure, si elle venait à être adoptée sans discernement, risquerait d'engendrer des effets pervers diamétralement opposés aux objectifs visés. »**  
   [yn tɛl məzyʁ sil vənɛt a ɛtʁ adɔpte sɑ̃ disɛʁnəmɑ̃ ʁiskəʁɛ dɑ̃ʒɑ̃dʁe dez efɛ pɛʁvɛ djametʁaləmɑ̃ ɔpoze oz ɔbʒɛktif vize]  
+  (ewn tehl muh-ZEWR, seel vuh-NEHT ah EHT-ruh ah-dohp-TAY sahn dee-sehr-nuh-MAHN, rees-kuh-REH dahn-zhahn-DRAY dayz eh-FEH pehr-VEHR dyah-may-trahl-MAHN oh-poh-ZAY ohz ohb-zhehk-TEEF vee-ZAY.)  
   *Such a measure, were it to be adopted indiscriminately, would risk generating perverse effects diametrically opposed to its intended objectives.*
 
 - **Formula B (Retrospective Counterfactual)**:  
   **« L'histoire récente nous a démontré que chaque fois qu'un gouvernement a tenté d'imposer des restrictions brutales, cela n'a fait que jeter de l'huile sur le feu et polariser le débat citoyen. »**  
   [listwaʁ ʁesɑ̃t nuza demɔ̃tʁe kə ʃak fwa kœ̃ ɡuvɛʁnəmɑ̃ a tɑ̃te dɛ̃poze de ʁɛstʁiksjɔ̃ bʁytal səla na fɛ kə ʒəte də lɥil syʁ lə fø e pɔlaʁize lə deba sitwajɛ̃]  
+  (lees-TWAHR ray-SAHNT noo-zah day-mohn-TRAY kuh SHAHK FWAH kuhn goo-vehr-nuh-MAHN ah tahn-TAY dehn-poh-ZAY day rehs-treek-SYOHN brew-TAHL, suh-LAH nah FEH kuh zhuh-TAY duh LWEEL sewr luh FEU ay poh-lah-ree-ZAY luh day-BAH see-twah-YEN.)  
   *Recent history has demonstrated to us that whenever a government has attempted to impose blunt restrictions, it has merely added fuel to the fire and polarized civic debate.*
 
 #### Phase 3: Le Dépassement Constructif (The 2-Minute Solution)
@@ -132,6 +136,7 @@ Conclude your monologue by reframing the dilemma into a sustainable public polic
 - **Formula (The Nuanced Middle Path)**:  
   **« Dès lors, plutôt que d'opter pour une interdiction punitive qui s'apparenterait à une fuite en avant, il convient de faire la part des choses et d'encourager des incitations structurelles pérennes. »**  
   [dɛ lɔʁ plyto kə dɔpte puʁ yn ɛ̃tɛʁdiksjɔ̃ pynityv ki sapaʁɑ̃tʁɛt a yn fɥit ɑ̃navɑ̃ il kɔ̃vjɛ̃ də fɛʁ la paʁ de ʃoz e dɑ̃kuʁaʒe dez ɛ̃sasjɔ̃ stʁyktyʁɛl peʁɛn]  
+  (deh LOHR, plew-TOH kuh dohp-TAY poor ewn ehn-tehr-deek-SYOHN pew-nee-TEEV kee sah-pah-rahn-TREHT ah ewn FWEET ahn-nah-VAHN, eel kohn-VYEN duh FEHR lah PAHR day SHOHZ ay dahn-koo-rah-ZHAY dayz ehn-see-tah-SYOHN strewk-tew-REHL pay-REHN.)  
   *Consequently, rather than opting for a punitive ban that would resemble a headlong rush, one must distinguish between emotion and reality and encourage sustainable structural incentives.*
 
 ---
@@ -165,13 +170,13 @@ To respond at a C1 level, never give a monosyllabic reply (*« Non, je ne suis p
 
 #### Strategic Repertoire of Oral Articulators for Debate
 
-| Rhetorical Function | High-Register Spoken Formula | Pronunciation (IPA) | Pragmatic Impact |
-| :--- | :--- | :--- | :--- |
-| **Validating the Examiner's Objection** | *« Votre remarque met le doigt sur une difficulté bien réelle... »* | [vɔtʁə ʁəmaʁk mɛ lə dwa syʁ yn difikylte bjɛ̃ ʁeɛl] | Shows diplomatic maturity and deep active listening. |
-| **Limiting the Scope of an Argument** | *« Il faut se garder de généraliser un cas particulier... »* | [il fo sə ɡaʁde də ʒeneʁalize œ̃ ka paʁtikylje] | Neutralizes anecdotal evidence cited by the examiner. |
-| **Introducing Inescapable Reality** | *« Quoi qu'on en dise, force est de constater que... »* | [kwa kɔ̃n ɑ̃ diz fɔʁs ɛ də kɔ̃state kə] | Establishes an unassailable factual baseline. |
-| **Projecting Long-Term Consequences** | *« À terme, cette dérive risquerait d'éroder la confiance... »* | [a tɛʁm sɛt deʁiv ʁiskəʁɛ deʁɔde la kɔ̃fjɑ̃s] | Elevates the discussion from immediate cost to institutional trust. |
-| **Highlighting a Paradox** | *« C'est précisément là que réside le paradoxe de cette approche... »* | [sɛ pʁesizemɑ̃ la kə ʁezid lə paʁadɔks də sɛt apʁɔʃ] | Demonstrates sharp intellectual penetration. |
+| Rhetorical Function | High-Register Spoken Formula | Pronunciation (IPA) | Phonetic Respelling | Pragmatic Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **Validating the Examiner's Objection** | *« Votre remarque met le doigt sur une difficulté bien réelle... »* | [vɔtʁə ʁəmaʁk mɛ lə dwa syʁ yn difikylte bjɛ̃ ʁeɛl] | (voh-truh ruh-MAHRK meh luh DWAH sewr ewn dee-fee-kewl-TAY byen ray-EHL...) | Shows diplomatic maturity and deep active listening. |
+| **Limiting the Scope of an Argument** | *« Il faut se garder de généraliser un cas particulier... »* | [il fo sə ɡaʁde də ʒeneʁalize œ̃ ka paʁtikylje] | (eel foh suh gahr-DAY duh zhay-nay-rah-lee-ZAY uhn kah pahr-tee-kew-LYAY...) | Neutralizes anecdotal evidence cited by the examiner. |
+| **Introducing Inescapable Reality** | *« Quoi qu'on en dise, force est de constater que... »* | [kwa kɔ̃n ɑ̃ diz fɔʁs ɛ də kɔ̃state kə] | (kwah kohn-nahn DEEZ, fohrs eh duh kohns-tah-TAY kuh...) | Establishes an unassailable factual baseline. |
+| **Projecting Long-Term Consequences** | *« À terme, cette dérive risquerait d'éroder la confiance... »* | [a tɛʁm sɛt deʁiv ʁiskəʁɛ deʁɔde la kɔ̃fjɑ̃s] | (ah TEHRM, seht day-REEV rees-kuh-REH day-roh-DAY lah kohn-FYAHNS...) | Elevates the discussion from immediate cost to institutional trust. |
+| **Highlighting a Paradox** | *« C'est précisément là que réside le paradoxe de cette approche... »* | [sɛ pʁesizemɑ̃ la kə ʁezid lə paʁadɔks də sɛt apʁɔʃ] | (seh pray-see-zay-MAHN LAH kuh ray-ZEED luh pah-rah-DOHKS duh seht ah-PROHSH...) | Demonstrates sharp intellectual penetration. |
 
 ---
 

@@ -157,7 +157,7 @@ Examine the full verbatim transcript of a calibrated C1 performance delivered un
 | Evaluative Criterion | Evidence from Spoken Model | Examiner Commentary |
 | :--- | :--- | :--- |
 | **Duration & Balance** | Phase 1: 2m 00s (199w) / Phase 2: 2m 40s (349w) | Perfectly proportioned; zero dead time or rambling. |
-| **Cadence & Prosody** | Syllable-timed delivery; elongation on final syllables: *[le-paʁ-ti-zɑ̃-də-sɛt-tɛk-nɔ-lɔ-ʒI ↗]* (*les partisans de cette technologie*) | Fluid rhythmic groupings; continuative rising intonation maintained before conclusions. |
+| **Cadence & Prosody** | Syllable-timed delivery; elongation on final syllables: *[le-paʁ-ti-zɑ̃-də-sɛt-tɛk-nɔ-lɔ-ʒi ↗]* (lay-pahr-tee-ZAHN duh seht tehk-noh-loh-ZHEE ↗) (*les partisans de cette technologie*) | Fluid rhythmic groupings; continuative rising intonation maintained before conclusions. |
 | **Concession Formulas** | *« Je conçois tout à fait que... »*, *« Votre remarque met le doigt sur... »* | Elegant diplomatic acknowledgment avoiding defensive antagonism. |
 | **C1 Discursive Connectors**| *d'autant que*, *qui plus est*, *quand bien même (+ conditionnel)*, *loin de* | Flawless mood governance under rapid conversational conditions. |
 | **Idioms & Metaphors** | *« de la poudre aux yeux »*, *« faire la part des choses »*, *« un suspect en sursis »* | Native-like civic phraseology integrated seamlessly into public debate. |
@@ -214,7 +214,7 @@ Complete this diagnostic checklist after listening to your recorded audio file:
 - [ ] **Chronometer Discipline**: Did my opening monologue last between 1:50 and 2:10 without trailing off or rushing?
 - [ ] **Zero Silence Gap**: Did I begin responding to each examiner objection within 2 seconds of the question ending?
 - [ ] **The Diplomatic Concession**: Did I validate each objection before pivoting (*« Je comprends votre point de vue... néanmoins »*), rather than blurting out *« Non »*?
-- [ ] **Pure Syllabic Vowels**: Did I articulate vowels in words like *sécurité* [se-ky-ʁi-te] and *économique* [e-kɔ-nɔ-mik] with crisp, equal duration instead of reducing them to an English-style schwa?
+- [ ] **Pure Syllabic Vowels**: Did I articulate vowels in words like *sécurité* [se-ky-ʁi-te] (say-kew-ree-TAY) and *économique* [e-kɔ-nɔ-mik] (ay-koh-noh-MEEK) with crisp, equal duration instead of reducing them to an English-style schwa?
 - [ ] **Pitch Modulation**: Did my voice pitch rise audibly at the end of continuing clauses (↗) and drop decisively at the end of conclusive arguments (↘)?
 - [ ] **C1 Articulator Inclusion**: Did I employ at least two target connectors (*d'autant que*, *qui plus est*, *quand bien même*, *loin de*)?
 - [ ] **Lexical Elevation**: Did I avoid conversational crutches like *« comme j'ai dit »*, *« vous voyez »*, *« trucs »*, and *« machins »*?
