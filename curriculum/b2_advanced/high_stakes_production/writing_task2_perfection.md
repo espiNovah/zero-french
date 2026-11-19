@@ -122,9 +122,9 @@ To score at **NCLC 7 or higher**, you must elevate conversational narrative into
 #### Québec vs France
 
 In Canadian forums and media columns (*chroniques citoyennes*), social debates frequently use the following civic terms. None of them is a québécisme: they are standard French on both sides of the Atlantic, so you can use them safely in any Task 2:
-- *la consultation citoyenne*: Public consultation organized by a city or borough council (*les conseils d'arrondissement*).
-- *la collecte sélective*: Separate collection of recyclables and organic waste (*le recyclage et le compostage*).
-- *l'usager / les usagers*: The formal term for public service users and transit riders (*les usagers du transport collectif*).
+- *la consultation citoyenne* — /la kɔ̃.syl.ta.sjɔ̃ si.twa.jɛn/ (*lah kohn-sewl-tah-syohn see-twah-YEHN*): Public consultation organized by a city or borough council (*les conseils d'arrondissement*).
+- *la collecte sélective* — /la kɔ.lɛkt se.lɛk.tiv/ (*lah koh-lehkt say-lehk-TEEV*): Separate collection of recyclables and organic waste (*le recyclage et le compostage*).
+- *l'usager / les usagers* — /l‿y.za.ʒe / le.z‿y.za.ʒe/ (*lew-zah-ZHAY / lay-zew-zah-ZHAY*): The formal term for public service users and transit riders (*les usagers du transport collectif*).
 
 </div>
 
