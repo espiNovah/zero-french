@@ -125,11 +125,11 @@ Standard international French features **three core nasal vowels**. Master their
 #### 3. The Spread Front Nasal: /ɛ̃/
 - **Spellings**: **in**, **im**, **ain**, **aim**, **ein**, **ien**, **yn**, **ym**.
 - **Mouth Position**: Lips stretched sideways into a broad smile, mouth slightly open, sound focused forward:
-  - **le matin** (/lə ma.tɛ̃/ — (luh mah-TAN)) — morning
-  - **le vin** (/lə vɛ̃/ — (luh VAN)) — wine
-  - **le pain** (/lə pɛ̃/ — (luh PAN)) — bread
-  - **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYAN)) — Canadian (masc.)
-  - **plein** (/plɛ̃/ — (PLAN)) — full
+  - **le matin** (/lə ma.tɛ̃/ — (luh mah-TEHN)) — morning
+  - **le vin** (/lə vɛ̃/ — (luh VEHN)) — wine
+  - **le pain** (/lə pɛ̃/ — (luh PEHN)) — bread
+  - **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYEN)) — Canadian (masc.)
+  - **plein** (/plɛ̃/ — (PLEHN)) — full
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -140,8 +140,8 @@ When the *n* or *m* is followed by a **vowel** or another **n/m**, the nasality 
 
 - **un ami** (/œ̃.n‿a.mi/ — (uhn-nah-MEE)): *ami* has a vowel after *m*, so *a* is oral /a/.
 - **bon** (/bɔ̃/ — (BOHN) — nasal) → **bonne** (/bɔn/ — (BAWN) — oral /ɔ/ + clear /n/ sound).
-- **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYAN) — nasal) → **canadienne** (/ka.na.djɛn/ — (kah-nah-DYEN) — oral /ɛ/ + clear /n/).
-- **cousin** (/ku.zɛ̃/ — (koo-ZAN) — nasal) → **cousine** (/ku.zin/ — (koo-ZEEN) — oral /i/ + clear /n/).
+- **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYEN) — nasal) → **canadienne** (/ka.na.djɛn/ — (kah-nah-DYEN) — oral /ɛ/ + clear /n/).
+- **cousin** (/ku.zɛ̃/ — (koo-ZEHN) — nasal) → **cousine** (/ku.zin/ — (koo-ZEEN) — oral /i/ + clear /n/).
 
 This rule is the foundation of masculine and feminine grammatical agreement in French spoken comprehension.
 
@@ -204,7 +204,7 @@ Train your ear to recognize both variations.
 
 In TCF Canada Listening, especially in the early, easier items, minimal vowel pairs are a common source of wrong answers:
 - *Tu as des enfants ?* (/ty/ (TEW)) vs *Vous avez des enfants ?* (/vu/ (VOO))
-- *Je prends le vin.* (/vɛ̃/ (VAN)) vs *Je prends le vent.* (/vɑ̃/ (VAHN))
+- *Je prends le vin.* (/vɛ̃/ (VEHN)) vs *Je prends le vent.* (/vɑ̃/ (VAHN))
 - *C'est un bon plan.* (/bɔ̃/ (BOHN)) vs *C'est un banc blanc.* (/bɑ̃ blɑ̃/ (BAHN BLAHN))
 
 The audio plays only once. Before it starts, read the question and answer choices and silently identify the key vowel difference, then answer and move on.
@@ -250,12 +250,12 @@ The audio plays only once. Before it starts, read the question and answer choice
    - *sourd* (/suʁ/ — (SOOR)) — deaf
    - *bon (m.)* (/bɔ̃/ — (BOHN)) — good (nasal)
    - *bonne (f.)* (/bɔn/ — (BAWN)) — good (oral + n)
-   - *le vin* (/lə vɛ̃/ — (luh VAN)) — wine (nasal /ɛ̃/)
+   - *le vin* (/lə vɛ̃/ — (luh VEHN)) — wine (nasal /ɛ̃/)
    - *le vent* (/lə vɑ̃/ — (luh VAHN)) — wind (nasal /ɑ̃/)
    - *le pont* (/lə pɔ̃/ — (luh POHN)) — bridge (nasal /ɔ̃/)
    - *la nuit* (/la nɥi/ — (lah NWEE)) — night (glide /ɥi/)
    - *le soir* (/lə swaʁ/ — (luh SWAHR)) — evening (glide /wa/)
-   - *la fille* (/la fij/ — (lah FEE-yuh)) — girl / daughter (glide /j/)
+   - *la fille* (/la fij/ — (lah FEEY)) — girl / daughter (glide /j/)
 
 3. **Receptive Listening Task**  
    Listen to the minimal pairs and vowel training lesson on [TV5Monde — Les voyelles et les sons du français (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
