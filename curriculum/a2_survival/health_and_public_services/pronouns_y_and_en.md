@@ -32,21 +32,21 @@ The pronoun **Y** (/i/) functions primarily as an adverbial pronoun of place, bu
 
 Whenever a sentence refers to a place previously introduced by prepositions such as **à** (including *au, à la, à l', aux*), **dans**, **en**, **chez**, **sur**, or **sous**, replace the entire prepositional phrase with **Y**:
 
-| Original Question with Location | Replaced with Pronoun Y | IPA Pronunciation | English Translation |
-| :--- | :--- | :--- | :--- |
-| *Tu vas **à la clinique médicale** ?* | **Oui, j'y vais.** | /wi ʒ‿i vɛ/ | *Yes, I am going there.* |
-| *Habitez-vous **à Montréal** ?* | **Oui, j'y habite depuis deux ans.** | /wi ʒ‿i a.bit də.pɥi dø z‿ɑ̃/ | *Yes, I have been living there for two years.* |
-| *Est-il allé **chez le médecin** ?* | **Oui, il y est allé ce matin.** | /wi il i ɛ.t‿a.le sə ma.tɛ̃/ | *Yes, he went there this morning.* |
-| *Vos dossiers sont **dans le bureau** ?* | **Oui, ils y sont.** | /wi il z‿i sɔ̃/ | *Yes, they are in there.* |
-| *Travaillez-vous **en Ontario** ?* | **Oui, j'y travaille.** | /wi ʒ‿i tʁa.vaj/ | *Yes, I work there.* |
-| *Les clés sont **sur la table** ?* | **Oui, elles y sont.** | /wi ɛl z‿i sɔ̃/ | *Yes, they are on it.* |
+| Original Question with Location | Replaced with Pronoun Y | IPA Pronunciation | Phonetic Respelling | English Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| *Tu vas **à la clinique médicale** ?* | **Oui, j'y vais.** | /wi ʒ‿i vɛ/ | (wee zhee VEH) | *Yes, I am going there.* |
+| *Habitez-vous **à Montréal** ?* | **Oui, j'y habite depuis deux ans.** | /wi ʒ‿i a.bit də.pɥi dø z‿ɑ̃/ | (wee zhee ah-BEET duh-pwee duh-ZAHN) | *Yes, I have been living there for two years.* |
+| *Est-il allé **chez le médecin** ?* | **Oui, il y est allé ce matin.** | /wi il i ɛ.t‿a.le sə ma.tɛ̃/ | (wee eel ee eh-tah-LAY suh mah-TEHN) | *Yes, he went there this morning.* |
+| *Vos dossiers sont **dans le bureau** ?* | **Oui, ils y sont.** | /wi il z‿i sɔ̃/ | (wee eel-zee SOHN) | *Yes, they are in there.* |
+| *Travaillez-vous **en Ontario** ?* | **Oui, j'y travaille.** | /wi ʒ‿i tʁa.vaj/ | (wee zhee trah-VEHY) | *Yes, I work there.* |
+| *Les clés sont **sur la table** ?* | **Oui, elles y sont.** | /wi ɛl z‿i sɔ̃/ | (wee ehl-zee SOHN) | *Yes, they are on it.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 **Pronunciation and elision with Y**  
 Because **Y** begins with a vowel sound (/i/), the subject pronoun **je** always elides to **j'**:
-- *Je + y + vais* -> **J'y vais** (/ʒ‿i vɛ/).
-- In negative sentences: *Je + n' + y + vais + pas* -> **Je n'y vais pas** (/ʒə n‿i vɛ pa/).
+- *Je + y + vais* -> **J'y vais** (/ʒ‿i vɛ/ — *zhee VEH*).
+- In negative sentences: *Je + n' + y + vais + pas* -> **Je n'y vais pas** (/ʒə n‿i vɛ pa/ — *zhuh nee veh PAH*).
 
 </div>
 
@@ -79,12 +79,12 @@ The pronoun **EN** (/ɑ̃/) is an adverbial pronoun that replaces nouns introduc
 
 When referring to indefinite or unspecified quantities of food, medication, or abstract matter, replace the partitive phrase with **EN**:
 
-| Full Phrase with Partitive Article | Sentence with Pronoun EN | IPA Pronunciation | English Translation |
-| :--- | :--- | :--- | :--- |
-| *Prenez-vous **du sirop pour la toux** ?* | **Oui, j'en prends.** | /wi ʒ‿ɑ̃ pʁɑ̃/ | *Yes, I take some.* |
-| *Achetez-vous **de la pommade** ?* | **Oui, j'en achète.** | /wi ʒ‿ɑ̃ n‿a.ʃɛt/ | *Yes, I am buying some.* |
-| *Avez-vous besoin **d'aspirine** ?* | **Oui, j'en ai besoin.** | /wi ʒ‿ɑ̃ n‿e bə.zwɛ̃/ | *Yes, I need some.* |
-| *Le médecin prescrit **des antibiotiques** ?* | **Oui, il en prescrit.** | /wi il ɑ̃ pʁɛs.kʁi/ | *Yes, he prescribes some.* |
+| Full Phrase with Partitive Article | Sentence with Pronoun EN | IPA Pronunciation | Phonetic Respelling | English Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| *Prenez-vous **du sirop pour la toux** ?* | **Oui, j'en prends.** | /wi ʒ‿ɑ̃ pʁɑ̃/ | (wee zhahn PRAHN) | *Yes, I take some.* |
+| *Achetez-vous **de la pommade** ?* | **Oui, j'en achète.** | /wi ʒ‿ɑ̃ n‿a.ʃɛt/ | (wee zhahn-nah-SHEHT) | *Yes, I am buying some.* |
+| *Avez-vous besoin **d'aspirine** ?* | **Oui, j'en ai besoin.** | /wi ʒ‿ɑ̃ n‿e bə.zwɛ̃/ | (wee zhahn-nay buh-ZWEN) | *Yes, I need some.* |
+| *Le médecin prescrit **des antibiotiques** ?* | **Oui, il en prescrit.** | /wi il ɑ̃ pʁɛs.kʁi/ | (wee eel ahn preh-SKREE) | *Yes, he prescribes some.* |
 
 #### 2. Replacing nouns with numbers and quantity adverbs
 
@@ -139,9 +139,9 @@ Place the pronoun directly **before the auxiliary verb (*avoir* or *être*)**:
 
 $$\text{Sujet} + \mathbf{Y / EN} + \text{Auxiliaire} + \text{Participe passé}$$
 
-- *Je suis allé à l'hôpital.* -> **J'y suis allé.** (/ʒ‿i sɥi z‿a.le/)
-- *J'ai acheté des médicaments.* -> **J'en ai acheté.** (/ʒ‿ɑ̃ n‿e aʃ.te/)
-- *Nous avons réfléchi à la question.* -> **Nous y avons réfléchi.** (/nu z‿i a.vɔ̃ ʁe.fle.ʃi/)
+- *Je suis allé à l'hôpital.* -> **J'y suis allé.** (/ʒ‿i sɥi z‿a.le/ — *zhee swee-zah-LAY*)
+- *J'ai acheté des médicaments.* -> **J'en ai acheté.** (/ʒ‿ɑ̃ n‿e aʃ.te/ — *zhahn-nay ahsh-TAY*)
+- *Nous avons réfléchi à la question.* -> **Nous y avons réfléchi.** (/nu z‿i a.vɔ̃ ʁe.fle.ʃi/ — *noo-zee-ah-vohn ray-flay-SHEE*)
 
 <div class="lesson-note lesson-note--info" markdown="1">
 
@@ -182,10 +182,10 @@ $$\text{Sujet} + \mathbf{ne / n'} + \mathbf{Y / EN} + \text{Verbe conjugué} + \
 #### 2. Negative imperative
 
 In negative commands, the pronouns remain in their normal position **before** the verb:
-- **N'y allez pas !** (/n‿i a.le pa/) — *Do not go there!*
-- **N'en prenez pas trop !** (/n‿ɑ̃ pʁə.ne pa tʁo/) — *Do not take too much of it!*
-- **N'y touchez pas !** (/n‿i tu.ʃe pa/) — *Do not touch it!*
-- **N'en parlez à personne !** (/n‿ɑ̃ paʁ.le a pɛʁ.sɔn/) — *Do not speak of it to anyone!*
+- **N'y allez pas !** (/n‿i a.le pa/ — *nee ah-lay PAH!*) — *Do not go there!*
+- **N'en prenez pas trop !** (/n‿ɑ̃ pʁə.ne pa tʁo/ — *nahn pruh-nay pah TROH!*) — *Do not take too much of it!*
+- **N'y touchez pas !** (/n‿i tu.ʃe pa/ — *nee too-shay PAH!*) — *Do not touch it!*
+- **N'en parlez à personne !** (/n‿ɑ̃ paʁ.le a pɛʁ.sɔn/ — *nahn pahr-lay ah pehr-SOHN!*) — *Do not speak of it to anyone!*
 
 #### 3. Affirmative imperative and the euphonic -s
 
@@ -193,18 +193,18 @@ In affirmative commands, object pronouns attach to the **end** of the verb with 
 
 $$\text{Verbe à l'impératif} - \mathbf{y / en}$$
 
-- *Prenez des vitamines !* -> **Prenez-en !** (/pʁə.ne.z‿ɑ̃/)
-- *Pensez à vos objectifs !* -> **Pensez-y !** (/pɑ̃.se.z‿i/)
-- *Allez au laboratoire !* -> **Allez-y !** (/a.le.z‿i/)
+- *Prenez des vitamines !* -> **Prenez-en !** (/pʁə.ne.z‿ɑ̃/ — *pruh-nay-ZAHN!*)
+- *Pensez à vos objectifs !* -> **Pensez-y !** (/pɑ̃.se.z‿i/ — *pahn-say-ZEE!*)
+- *Allez au laboratoire !* -> **Allez-y !** (/a.le.z‿i/ — *ah-lay-ZEE!*)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 **The euphonic -s rule for -er verbs in the singular (tu)**  
 Remember that *-er* verbs drop their final *-s* in the singular imperative (*Va ! Parle ! Mange !*).  
 However, when followed by **-y** or **-en**, **the -s is restored to create a smooth phonetic liaison and prevent a clash between two vowel sounds**:
-- *Va à la pharmacie !* -> **Vas-y !** (/va.z‿i/ — pronounced with a /z/ liaison).
-- *Mange de la soupe !* -> **Manges-en !** (/mɑ̃.ʒə.z‿ɑ̃/).
-- *Pense à tes études !* -> **Penses-y !** (/pɑ̃.sə.z‿i/).
+- *Va à la pharmacie !* -> **Vas-y !** (/va.z‿i/ — pronounced with a /z/ liaison — *vah-ZEE!*).
+- *Mange de la soupe !* -> **Manges-en !** (/mɑ̃.ʒə.z‿ɑ̃/ — *mahn-zhuh-ZAHN!*).
+- *Pense à tes études !* -> **Penses-y !** (/pɑ̃.sə.z‿i/ — *pahn-suh-ZEE!*).
 
 </div>
 
@@ -214,7 +214,7 @@ Mastery of **Y** and **EN** delivers an immediate score multiplier on the TCF Ca
 
 1. **Compréhension orale (Listening Module)**:
    - *Key pitfall*: In rapid spoken French, *y* and *en* fuse with neighboring vowels.
-   - For example: *« On y va »* (/ɔ̃.n‿i va/) sounds like "oniva", and *« Il n'y en a plus »* (/il n‿j‿ɑ̃ n‿a ply/) sounds like "ilnianaplu". Training your ear to parse these contracted clusters prevents comprehension breakdowns during rapid administrative announcements.
+   - For example: *« On y va »* (/ɔ̃.n‿i va/ — *oh-nee-VAH*) sounds like "oniva", and *« Il n'y en a plus »* (/il n‿j‿ɑ̃ n‿a ply/ — *eel nyah-nah-PLEW*) sounds like "ilnianaplu". Training your ear to parse these contracted clusters prevents comprehension breakdowns during rapid administrative announcements.
 2. **Expression orale (Speaking Task 1 & Task 2)**:
    - In Task 1 (Spontaneous personal interview), when the examiner asks:  
      *« Depuis combien de temps habitez-vous dans votre ville ? »*  
