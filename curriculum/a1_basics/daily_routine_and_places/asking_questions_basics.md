@@ -24,13 +24,13 @@ English forms questions primarily by using helper auxiliary verbs ("Do you speak
 
 Observe how the same question shifts across the three registers:
 
-> **Vous parlez français ?** — /vu paʁ.le fʁɑ̃.sɛ/  
+> **Vous parlez français ?** — /vu paʁ.le fʁɑ̃.sɛ/ (voo par-LAY frahn-SEH ?)  
 > *Do you speak French? (Register 1: Rising Intonation — Casual / Everyday)*
 
-> **Est-ce que vous parlez français ?** — /ɛs.kə vu paʁ.le fʁɑ̃.sɛ/  
+> **Est-ce que vous parlez français ?** — /ɛs.kə vu paʁ.le fʁɑ̃.sɛ/ (es-kuh voo par-LAY frahn-SEH ?)  
 > *Do you speak French? (Register 2: Est-ce que — Standard Neutral)*
 
-> **Parlez-vous français ?** — /paʁ.le vu fʁɑ̃.sɛ/  
+> **Parlez-vous français ?** — /paʁ.le vu fʁɑ̃.sɛ/ (par-lay-VOO frahn-SEH ?)  
 > *Do you speak French? (Register 3: Inversion — Formal / Written / Exam)*
 
 #### 1. Rising Intonation (L'intonation montante)
@@ -39,14 +39,14 @@ This is the simplest and most common structure in spoken French. You keep the ex
 - Question: **Vous habitez à Montréal ?** (Voice rises sharply on the final syllable: *Do you live in Montreal?*)
 
 #### 2. The Universal Formula: Est-ce que
-**Est-ce que** (pronounced `/ɛs.kə/`) is the Swiss Army knife of French grammar. It literally translates to "is it that," but in practice it functions as an acoustic question marker:
+**Est-ce que** (pronounced `/ɛs.kə/` — (es-KUH)) is the Swiss Army knife of French grammar. It literally translates to "is it that," but in practice it functions as an acoustic question marker:
 - Statement: **Il travaille aujourd'hui.** (*He works today.*)
 - Question: **Est-ce qu'il travaille aujourd'hui ?** (*Does he work today?*)
 
 > **Critical Rule on Elision**: Before a vowel sound or silent *h*, *est-ce que* contracts to **est-ce qu'**:
-> - *Est-ce que + il* → **Est-ce qu'il** (/ɛs.kil/)
-> - *Est-ce que + elle* → **Est-ce qu'elle** (/ɛs.kɛl/)
-> - *Est-ce que + on* → **Est-ce qu'on** (/ɛs.kɔ̃/)
+> - *Est-ce que + il* → **Est-ce qu'il** (/ɛs.kil/ — (es-KEEL))
+> - *Est-ce que + elle* → **Est-ce qu'elle** (/ɛs.kɛl/ — (es-KEL))
+> - *Est-ce que + on* → **Est-ce qu'on** (/ɛs.kɔ̃/ — (es-KOHN))
 
 #### 3. Subject-Verb Inversion (L'inversion)
 In formal French, questions are formed by swapping the positions of the conjugated verb and the subject pronoun, joining them with a hyphen:
@@ -54,8 +54,8 @@ In formal French, questions are formed by swapping the positions of the conjugat
 - Question: **Avez-vous une réservation ?** (*Do you have a reservation?*)
 
 When the 3rd-person singular verb ends in a vowel (*a*, *e*) and the pronoun begins with a vowel (*il*, *elle*, *on*), French inserts a euphonic **-t-** between hyphens to prevent awkward vowel clashing:
-- *Il a un stylo* → **A-t-il un stylo ?** (/a.til œ̃ sti.lo/)
-- *Elle habite ici* → **Habite-t-elle ici ?** (/a.bit.tɛl i.si/)
+- *Il a un stylo* → **A-t-il un stylo ?** (/a.til œ̃ sti.lo/ — (ah-teel uhn stee-LOH ?))
+- *Elle habite ici* → **Habite-t-elle ici ?** (/a.bit.tɛl i.si/ — (ah-beet-tel ee-SEE ?))
 
 | Question Method | Structural Pattern | Register & Context | Tone & Delivery |
 | :--- | :--- | :--- | :--- |
@@ -70,12 +70,15 @@ A closed question (une question fermée) is one that requires a simple yes-or-no
 Observe the difference:
 
 > **Vous aimez le café ? — Oui, j'aime le café.**  
+> /vu.z‿ɛ.me lə ka.fe — wi, ʒɛm lə ka.fe/ (voo-zay-MAY luh kah-FAY — WEE, zhem luh kah-FAY)  
 > *Do you like coffee? — Yes, I like coffee.*
 
 > **Vous habitez à Toronto ? — Non, j'habite à Montréal.**  
+> /vu.z‿a.bi.te a tɔ.ʁɔ̃.to — nɔ̃, ʒ‿a.bit a mɔ̃.ʁe.al/ (voo-zah-bee-TAY ah toh-rohn-TOH — NOHN, zhah-BEET ah mohn-ray-AHL)  
 > *Do you live in Toronto? — No, I live in Montreal.*
 
 > **Vous n'aimez pas l'hiver ? — Si, j'adore l'hiver !**  
+> /vu nɛ.me pa li.vɛʁ — si, ʒa.dɔʁ li.vɛʁ/ (voo neh-may PAH lee-VEHR — SEE, zhah-DOR lee-VEHR)  
 > *Don't you like winter? — Yes (on the contrary), I love winter!*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -83,11 +86,11 @@ Observe the difference:
 #### Critical Grammar Rule: When to Use "Si"
 
 English speakers constantly make the mistake of using *oui* to contradict a negative question. In French:
-- **Oui** (/wi/): Confirms a **positive** question (*Tu viens ? — Oui.*)
-- **Non** (/nɔ̃/): Denies either a positive or negative question (*Tu viens ? — Non.* / *Tu ne viens pas ? — Non.*)
-- **Si** (/si/): Contradicts a **negative** question, asserting the positive (*Tu ne parles pas français ? — **Si**, je parle français !*).
+- **Oui** (/wi/ — (WEE)): Confirms a **positive** question (*Tu viens ? — Oui.*)
+- **Non** (/nɔ̃/ — (NOHN)): Denies either a positive or negative question (*Tu viens ? — Non.* / *Tu ne viens pas ? — Non.*)
+- **Si** (/si/ — (SEE)): Contradicts a **negative** question, asserting the positive (*Tu ne parles pas français ? — **Si**, je parle français !*).
 
-Never answer a negative question with *oui*. If someone asks *"Vous n'êtes pas canadien ?"* and you are Canadian, saying *"Oui"* is confusing; you must say **"Si, je suis canadien."**
+Never answer a negative question with *oui*. If someone asks *"Vous n'êtes pas canadien ?"* and you are Canadian, saying *"Oui"* is confusing; you must say **"Si, je suis canadien."** (/si ʒə sɥi ka.na.djɛ̃/ — (SEE, zhuh swee kah-nah-DYEN)).
 
 </div>
 
@@ -97,51 +100,51 @@ When you need specific information rather than a simple yes-or-no, you use open 
 
 Observe how these question words function in both *est-ce que* and inverted structures:
 
-> **Où est-ce que vous habitez ?** — /u ɛs.kə vu.z‿a.bi.te/  
+> **Où est-ce que vous habitez ?** — /u ɛs.kə vu.z‿a.bi.te/ (oo ess-kuh voo-zah-bee-TAY)  
 > *Where do you live? (Standard neutral with est-ce que)*
 
-> **Où habitez-vous ?** — /u a.bi.te vu/  
+> **Où habitez-vous ?** — /u a.bi.te vu/ (oo ah-bee-TAY-voo)  
 > *Where do you live? (Formal with inversion)*
 
-> **Quand commence le concert ?** — /kɑ̃ kɔ.mɑ̃s lə kɔ̃.sɛʁ/  
+> **Quand commence le concert ?** — /kɑ̃ kɔ.mɑ̃s lə kɔ̃.sɛʁ/ (kahn koh-MAHNS luh kohn-SEHR)  
 > *When does the concert start?*
 
 Here are the essential interrogatives every candidate must master:
 
-| Question Word | IPA | English | Example with Translation |
-| :--- | :--- | :--- | :--- |
-| **Qui** | /ki/ | Who / Whom | **Qui est à l'appareil ?** — *Who is on the phone?* |
-| **Où** | /u/ | Where | **Où se trouve la station de métro ?** — *Where is the subway station located?* |
-| **Quand** | /kɑ̃/ | When | **Quand arrive le train pour Ottawa ?** — *When does the train for Ottawa arrive?* |
-| **Comment** | /kɔ.mɑ̃/ | How / What | **Comment vous appelez-vous ?** — *What is your name?* |
-| **Que / Qu'est-ce que** | /kə/, /kɛs.kə/ | What | **Qu'est-ce que vous cherchez ?** — *What are you looking for?* |
-| **Quoi** | /kwa/ | What (after preposition or at end) | **Vous parlez de quoi ?** — *What are you talking about?* |
+| Question Word | IPA | Respelling | English | Example with Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| **Qui** | /ki/ | (KEE) | Who / Whom | **Qui est à l'appareil ?** — *Who is on the phone?* |
+| **Où** | /u/ | (OO) | Where | **Où se trouve la station de métro ?** — *Where is the subway station located?* |
+| **Quand** | /kɑ̃/ | (KAHN) | When | **Quand arrive le train pour Ottawa ?** — *When does the train for Ottawa arrive?* |
+| **Comment** | /kɔ.mɑ̃/ | (koh-MAHN) | How / What | **Comment vous appelez-vous ?** — *What is your name?* |
+| **Que / Qu'est-ce que** | /kə/, /kɛs.kə/ | (kuh / kess-KUH) | What | **Qu'est-ce que vous cherchez ?** — *What are you looking for?* |
+| **Quoi** | /kwa/ | (KWAH) | What (after preposition or at end) | **Vous parlez de quoi ?** — *What are you talking about?* |
 
 > **Phonetic Note on Quand**: When *quand* links to a following vowel, the silent *d* is pronounced as a clean **/t/** sound. This liaison is made in *quand est-ce que*, but not before an inverted verb:
-> - **Quand est-ce que tu arrives ?** is pronounced `/kɑ̃.t‿ɛs.kə ty a.ʁiv/`.
-> - **Quand arrive-t-il ?** is pronounced `/kɑ̃ a.ʁiv.til/` (no liaison).
+> - **Quand est-ce que tu arrives ?** is pronounced `/kɑ̃.t‿ɛs.kə ty a.ʁiv/` (kahn-tess-kuh tew ah-REEV).
+> - **Quand arrive-t-il ?** is pronounced `/kɑ̃ a.ʁiv.til/` (kahn ah-reev-TEEL) (no liaison).
 
 ### Asking about quantities and reasons: Combien and Pourquoi
 
 Two of the most frequent question words on immigration documents and practical tasks are **combien** (how much / how many) and **pourquoi** (why).
 
 #### 1. Combien (de): Price and Quantity
-- To ask the price of an item or service, use **C'est combien ?** (/sɛ kɔ̃.bjɛ̃/) or **Combien coûte... ?** (/kɔ̃.bjɛ̃ kut/):
+- To ask the price of an item or service, use **C'est combien ?** (/sɛ kɔ̃.bjɛ̃/ — (say kohn-BYEN)) or **Combien coûte... ?** (/kɔ̃.bjɛ̃ kut/ — (kohn-byen KOOT)):
   - **C'est combien pour une nuit ?** (*How much is it for one night?*)
   - **Combien coûte ce manteau ?** (*How much does this coat cost?*)
-- To ask about a quantity of countable items, use **combien de** (or **combien d'** before a vowel) followed by a plural noun:
+- To ask about a quantity of countable items, use **combien de** (/kɔ̃.bjɛ̃ də/ — (kohn-byen DUH)) (or **combien d'** before a vowel) followed by a plural noun:
   - **Combien de pièces y a-t-il dans l'appartement ?** (*How many rooms are there in the apartment?*)
   - **Combien d'enfants avez-vous ?** (*How many children do you have?*)
 
 #### 2. Pourquoi and Parce que: Asking and Giving Reasons
-When inquiring about motivations, causes, or explanations, use **pourquoi** (/puʁ.kwa/). When answering, always respond with **parce que** (/paʁs kə/) or **parce qu'** before vowels:
+When inquiring about motivations, causes, or explanations, use **pourquoi** (/puʁ.kwa/ — (poor-KWAH)). When answering, always respond with **parce que** (/paʁs kə/ — (parce-KUH)) or **parce qu'** before vowels:
 
 > **Pourquoi apprenez-vous le français ?**  
-> /puʁ.kwa a.pʁə.ne vu lə fʁɑ̃.sɛ/  
+> /puʁ.kwa a.pʁə.ne vu lə fʁɑ̃.sɛ/ (poor-kwah ah-pruh-nay VOO luh frahn-SEH)  
 > *Why are you learning French?*
 
 > **Parce que je vais m'installer au Canada.**  
-> /paʁs kə ʒə vɛ mɛ̃s.ta.le o ka.na.da/  
+> /paʁs kə ʒə vɛ mɛ̃s.ta.le o ka.na.da/ (parce-kuh zhuh veh mehn-stah-lay oh kah-nah-DAH)  
 > *Because I am going to settle in Canada.*
 
 ### The specific interrogative adjective: Quel and its agreements
@@ -150,23 +153,23 @@ When you want to ask "which" or "what" specifically regarding a noun (*what time
 
 Because *quel* is an adjective, it must **agree in gender and number** with the noun it modifies:
 
-| Form | Gender & Number | IPA Pronunciation | Example in Context | English Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **quel** | Masculine Singular | /kɛl/ | **Quel est votre nom ?** | What is your name? |
-| **quelle** | Feminine Singular | /kɛl/ | **Quelle est votre adresse ?** | What is your address? |
-| **quels** | Masculine Plural | /kɛl/ | **Quels documents sont nécessaires ?**| Which documents are required? |
-| **quelles** | Feminine Plural | /kɛl/ | **Quelles sont vos disponibilités ?** | What is your availability? |
+| Form | Gender & Number | IPA Pronunciation | Respelling | Example in Context | English Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **quel** | Masculine Singular | /kɛl/ | (KEL) | **Quel est votre nom ?** | What is your name? |
+| **quelle** | Feminine Singular | /kɛl/ | (KEL) | **Quelle est votre adresse ?** | What is your address? |
+| **quels** | Masculine Plural | /kɛl/ | (KEL) | **Quels documents sont nécessaires ?**| Which documents are required? |
+| **quelles** | Feminine Plural | /kɛl/ | (KEL) | **Quelles sont vos disponibilités ?** | What is your availability? |
 
-Notice that all four spellings (*quel, quelle, quels, quelles*) have the **exact same pronunciation**: **/kɛl/**! While pronunciation is identical in speaking, spelling agreement counts in TCF Writing Tasks 1, 2 and 3.
+Notice that all four spellings (*quel, quelle, quels, quelles*) have the **exact same pronunciation**: **/kɛl/** (KEL)! While pronunciation is identical in speaking, spelling agreement counts in TCF Writing Tasks 1, 2 and 3.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
 In spoken Canadian French (particularly in everyday informal speech in Québec), you will very frequently hear questions formed with the interrogative particle **-tu** placed right after the verb:
-- *Tu viens-tu ?* **(QC)** = *Est-ce que tu viens ?* (*Are you coming?*)
-- *C'est-tu ouvert ?* **(QC)** = *Est-ce que c'est ouvert ?* (*Is it open?*)
-- *Il fait-tu froid dehors ?* **(QC)** = *Est-ce qu'il fait froid dehors ?* (*Is it cold outside?*)
+- *Tu viens-tu ?* **(QC)** (/ty vjɛ̃.ty/ — (tew vyen-TEW)) = *Est-ce que tu viens ?* (*Are you coming?*)
+- *C'est-tu ouvert ?* **(QC)** (/sɛ.ty u.vɛʁ/ — (seh-tew oo-VEHR)) = *Est-ce que c'est ouvert ?* (*Is it open?*)
+- *Il fait-tu froid dehors ?* **(QC)** (/il fɛ.ty fʁwa də.ɔʁ/ — (eel feh-tew frwah duh-OR)) = *Est-ce qu'il fait froid dehors ?* (*Is it cold outside?*)
 
 This *-tu* particle is not the pronoun *tu*; it is a historical spoken marker that signals a yes/no question. On the TCF Canada exam, you may hear it in Canadian audio recordings (Listening), but in your own Speaking and Writing tests, you should stick to standard **est-ce que** or **inversion**.
 
@@ -240,21 +243,21 @@ In Speaking Task 2, do not ask the same question twice or ask questions that are
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential question formulas and interrogatives with IPA to your Anki deck:
-   - *Est-ce que... ?* (/ɛs.kə/) — Question marker (standard)
-   - *Qui ?* (/ki/) — Who?
-   - *Où ?* (/u/) — Where?
-   - *Quand ?* (/kɑ̃/) — When?
-   - *Comment ?* (/kɔ.mɑ̃/) — How?
-   - *Pourquoi ?* (/puʁ.kwa/) — Why?
-   - *Parce que...* (/paʁs kə/) — Because...
-   - *Combien ?* (/kɔ̃.bjɛ̃/) — How much?
-   - *Combien de... ?* (/kɔ̃.bjɛ̃ də/) — How many...?
-   - *Quel (m.) / Quelle (f.)* (/kɛl/) — Which / What? (singular)
-   - *Quels (m.) / Quelles (f.)* (/kɛl/) — Which / What? (plural)
-   - *C'est combien ?* (/sɛ kɔ̃.bjɛ̃/) — How much is it?
-   - *À quelle heure ?* (/a kɛ.l‿œʁ/) — At what time?
-   - *Si !* (/si/) — Yes! (contradicting a negative statement)
+   Add these 14 essential question formulas and interrogatives with IPA and phonetic respelling to your Anki deck:
+   - *Est-ce que... ?* — /ɛs.kə/ (ess-KUH) — Question marker (standard)
+   - *Qui ?* — /ki/ (KEE) — Who?
+   - *Où ?* — /u/ (OO) — Where?
+   - *Quand ?* — /kɑ̃/ (KAHN) — When?
+   - *Comment ?* — /kɔ.mɑ̃/ (koh-MAHN) — How?
+   - *Pourquoi ?* — /puʁ.kwa/ (poor-KWAH) — Why?
+   - *Parce que...* — /paʁs kə/ (parce-KUH) — Because...
+   - *Combien ?* — /kɔ̃.bjɛ̃/ (kohn-BYEN) — How much?
+   - *Combien de... ?* — /kɔ̃.bjɛ̃ də/ (kohn-byen DUH) — How many...?
+   - *Quel (m.) / Quelle (f.)* — /kɛl/ (KEL) — Which / What? (singular)
+   - *Quels (m.) / Quelles (f.)* — /kɛl/ (KEL) — Which / What? (plural)
+   - *C'est combien ?* — /sɛ kɔ̃.bjɛ̃/ (say kohn-BYEN) — How much is it?
+   - *À quelle heure ?* — /a kɛ.l‿œʁ/ (ah kel-EUR) — At what time?
+   - *Si !* — /si/ (SEE) — Yes! (contradicting a negative statement)
 
 3. **Receptive Listening Task**  
    Listen to the interactive inquiry dialogue on [TV5Monde — Poser des questions et se renseigner (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
