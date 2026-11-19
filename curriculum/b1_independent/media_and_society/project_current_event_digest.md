@@ -65,10 +65,10 @@ Examine the two journalistic excerpts below before drafting your digest:
 
 3. **Step 3: Oral News Dispatch Recording (3 minutes unscripted)**  
    Assume the persona of a radio journalist on an informational morning broadcast (modeled after *Le Journal en français facile* of RFI or *Radio-Canada Première*):
-   - **Minute 0:00–0:45**: Radio bulletin opener, broadcast greeting, lead story headline (*« Bonjour à toutes et à tous, voici les titres de l'actualité... »*).
+   - **Minute 0:00–0:45**: Radio bulletin opener, broadcast greeting, lead story headline (*« Bonjour à toutes et à tous, voici les titres de l'actualité... »* [/bɔ̃.ʒuʁ a tut.z‿e a tus, vwa.si le titʁ də l‿ak.tɥa.li.te/ — *bohn-ZHOOR ah toot-zay ah TOOSS, vwah-SEE lay TEET-ruh duh lahk-twah-lee-TAY*]).
    - **Minute 0:45–2:00**: Detailed dispatch synthesizing the two perspectives with vocal contrast, precise attribution (*« Du côté des écologistes, on affirme que... Tandis que les syndicats soulignent que... »*), and clear transitions.
    - **Minute 2:00–2:45**: Societal stakes and upcoming political milestones (e.g., city council debate, public consultations).
-   - **Minute 2:45–3:00**: Journalistic sign-off (*« C'était votre tour d'horizon de l'actualité sur nos ondes. À suivre dans un instant, le bulletin météo. »*).
+   - **Minute 2:45–3:00**: Journalistic sign-off (*« C'était votre tour d'horizon de l'actualité sur nos ondes. À suivre dans un instant, le bulletin météo. »* [/s‿e.tɛ vɔtʁ tuʁ d‿ɔ.ʁi.zɔ̃ də l‿ak.tɥa.li.te syʁ no.z‿ɔ̃d. a sɥivʁ dɑ̃.z‿œ̃.n‿ɛ̃s.tɑ̃, lə byl.tɛ̃ me.te.o/ — *seh-TEH voht-ruh TOOR doh-ree-ZOHN duh lahk-twah-lee-TAY sewr noh-ZOHND. ah SWEEV-ruh dahn-zuhn-nehn-STAHN, luh bewl-TEHN may-tay-OH*]).
    - **Delivery Requirement**: Speak continuously without reading a written script verbatim. Use prompt bullet points only. Record on [Vocaroo](https://vocaroo.com/) and save the audio link.
 
 #### Evidence
@@ -179,7 +179,7 @@ Study these benchmark submissions to calibrate your written and oral performance
 
 **Analytical Commentary**:
 - **Pacing**: Steady delivery of ~265 words over 2 minutes and 55 seconds (about 90 words per minute: a calm, deliberate pace that leaves room for clear articulation).
-- **Phonetic Fluidity**: Natural liaisons (*nos‿ondes, les‿experts, les‿associations*), clear intonation on topical contrasts.
+- **Phonetic Fluidity**: Natural liaisons (*nos‿ondes* [/no.z‿ɔ̃d/ — (noh-ZOHND)], *les‿experts* [/le.z‿ɛks.pɛʁ/ — (lay-zehks-PEHR)], *les‿associations* [/le.z‿a.sɔ.sja.sjɔ̃/ — (lay-zah-soh-syah-SYOHN)]), clear intonation on topical contrasts.
 - **Reporting Stance**: Clear balance between *les experts affirment que* vs *les représentants rappellent que*.
 
 ---
