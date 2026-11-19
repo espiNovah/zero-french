@@ -94,29 +94,29 @@ When listening to rapid speech, train your ears to detect the post-verbal negati
 
 Candidates fluent in English must memorize this high-priority glossary of false friends frequently deployed as distractors:
 
-| French Word | False English Cognate | True French Meaning | Exam Trap Example |
-| :--- | :--- | :--- | :--- |
-| **éventuellement** | eventually (in the end) | **potentially / possibly** | *« Nous pourrions éventuellement ouvrir une succursale »* means *perhaps/if possible*, NOT *finally in the end*. |
-| **assister à** | to assist (help) | **to attend / be present at** | *« Elle a assisté à la conférence »* means she *attended* it as a listener, not that she *helped* the speaker. |
-| **actuellement** | actually (in fact) | **currently / right now** | *« Le poste est actuellement vacant »* means *currently empty*, NOT *actually empty*. |
-| **ignorer** | to ignore (on purpose) | **to be unaware of / not know** (traditional sense); "to deliberately disregard" is also in dictionaries but criticized as an anglicism | *« Il ignore les règlements »* most often means he *does not know* them; let the context decide between the two senses. |
-| **prétendre** | to pretend (make believe) | **to claim / assert firmly** | *« L'accusé prétend être innocent »* means he *claims* innocence, not that he is pretending. |
-| **l'opportunité** | opportunity (chance) | **appropriateness / timeliness** (traditional sense); "chance" is also in dictionaries and very common, but criticized (*occasion* is preferred) | *« Débattre de l'opportunité de la loi »* means debating whether the law is *wise/advisable*. |
-| **sensible** | sensible (reasonable) | **sensitive / delicate** | *« Un dossier très sensible »* means a *delicate/contentious issue*, not a logical one. |
-| **un avertissement**| advertisement (pub) | **a warning / caution** | *« Recevoir un avertissement »* means receiving a *formal warning*, not an ad. |
-| **la défiance** | defiance (bold resistance)| **distrust / suspicion** | *« La défiance des usagers »* means citizen *mistrust*, not open rebellion. |
-| **résumer** | to resume (restart) | **to summarize / condense** | *« Pour résumer la réunion »* means to *recap*, not to restart after a break. |
+| French Word | IPA Transcription | Phonetic Respelling | False English Cognate | True French Meaning | Exam Trap Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **éventuellement** | /e.vɑ̃.tɥɛl.mɑ̃/ | (ay-vahn-twel-MAHN) | eventually (in the end) | **potentially / possibly** | *« Nous pourrions éventuellement ouvrir une succursale »* means *perhaps/if possible*, NOT *finally in the end*. |
+| **assister à** | /a.sis.te a/ | (ah-sees-tay AH) | to assist (help) | **to attend / be present at** | *« Elle a assisté à la conférence »* means she *attended* it as a listener, not that she *helped* the speaker. |
+| **actuellement** | /ak.tɥɛl.mɑ̃/ | (ahk-twel-MAHN) | actually (in fact) | **currently / right now** | *« Le poste est actuellement vacant »* means *currently empty*, NOT *actually empty*. |
+| **ignorer** | /i.ɲɔ.ʁe/ | (een-yoh-RAY) | to ignore (on purpose) | **to be unaware of / not know** (traditional sense); "to deliberately disregard" is also in dictionaries but criticized as an anglicism | *« Il ignore les règlements »* most often means he *does not know* them; let the context decide between the two senses. |
+| **prétendre** | /pʁe.tɑ̃dʁ/ | (pray-TAHN-druh) | to pretend (make believe) | **to claim / assert firmly** | *« L'accusé prétend être innocent »* means he *claims* innocence, not that he is pretending. |
+| **l'opportunité** | /l‿ɔ.pɔʁ.ty.ni.te/ | (loh-pohr-tew-nee-TAY) | opportunity (chance) | **appropriateness / timeliness** (traditional sense); "chance" is also in dictionaries and very common, but criticized (*occasion* is preferred) | *« Débattre de l'opportunité de la loi »* means debating whether the law is *wise/advisable*. |
+| **sensible** | /sɑ̃.sibl/ | (sahn-SEE-bluh) | sensible (reasonable) | **sensitive / delicate** | *« Un dossier très sensible »* means a *delicate/contentious issue*, not a logical one. |
+| **un avertissement**| /œ̃.n‿a.vɛʁ.tis.mɑ̃/ | (uhn-nah-vehr-tees-MAHN) | advertisement (pub) | **a warning / caution** | *« Recevoir un avertissement »* means receiving a *formal warning*, not an ad. |
+| **la défiance** | /la de.fjɑ̃s/ | (lah day-FYAHNS) | defiance (bold resistance)| **distrust / suspicion** | *« La défiance des usagers »* means citizen *mistrust*, not open rebellion. |
+| **résumer** | /ʁe.zy.me/ | (ray-zew-MAY) | to resume (restart) | **to summarize / condense** | *« Pour résumer la réunion »* means to *recap*, not to restart after a break. |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
 In Canadian French reading and listening prompts, candidates must navigate distinct regional false friends and colloquial negatives:
-- *pantoute* **(QC)**: Emphatic negation meaning *pas du tout* (*« Il n'a pas compris pantoute »* = He didn't understand at all).
-- *avoir de la misère à* **(QC)**: Means *avoir de la difficulté à* (having a hard time doing something), NOT experiencing poverty or misery.
-- *de valeur* **(QC)**: Means *regrettable / dommage* (*« C'est bien de valeur »* = That's really unfortunate/too bad), NOT of great monetary value.
-- *une bâtisse* **(QC, familiar)**: Very common in everyday Québec speech for any building; the standard terms are *un bâtiment / un immeuble*. In France it usually suggests a large, rather plain or unattractive building.
-- *canceller* **(QC)**: Common oral anglicism for *annuler*. On the exam, a distractor may test whether you recognize standard *annuler* as the paraphrase of an informal speaker saying *« ils ont cancellé le vol »*.
+- *pantoute* **(QC)** — /pɑ̃.tut/ (*pahn-TOOT*): Emphatic negation meaning *pas du tout* (*« Il n'a pas compris pantoute »* = He didn't understand at all).
+- *avoir de la misère à* **(QC)** — /a.vwaʁ də la mi.zɛːʁ a/ (*ah-VWAHR duh lah mee-ZEHR ah*): Means *avoir de la difficulté à* (having a hard time doing something), NOT experiencing poverty or misery.
+- *de valeur* **(QC)** — /də va.lœʁ/ (*duh vah-LUHR*): Means *regrettable / dommage* (*« C'est bien de valeur »* = That's really unfortunate/too bad), NOT of great monetary value.
+- *une bâtisse* **(QC, familiar)** — /yn bɑ.tsɪs/ (*ewn bah-TSEES*): Very common in everyday Québec speech for any building; the standard terms are *un bâtiment / un immeuble*. In France it usually suggests a large, rather plain or unattractive building.
+- *canceller* **(QC)** — /kɑ̃.se.le/ (*kahn-say-LAY*): Common oral anglicism for *annuler*. On the exam, a distractor may test whether you recognize standard *annuler* as the paraphrase of an informal speaker saying *« ils ont cancellé le vol »*.
 
 </div>
 
