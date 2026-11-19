@@ -58,7 +58,7 @@ The verb **être** (to be) is the cornerstone of the French language. It is comp
 
 Observe these examples in context:
 
-> **Je suis canadien.** — /ʒə sɥi ka.na.djɛ̃/ (zhuh swee kah-nah-DYAN)  
+> **Je suis canadien.** — /ʒə sɥi ka.na.djɛ̃/ (zhuh swee kah-nah-DYEN)  
 > *I am Canadian. (Masculine speaker)*
 
 > **Je suis canadienne.** — /ʒə sɥi ka.na.djɛn/ (zhuh swee kah-nah-DYEN)  
@@ -89,13 +89,13 @@ Observe the spelling and sound shifts between masculine and feminine forms:
    - **chinois** (/ʃi.nwa/ — `shee-NWAH`) → **chinoise** (/ʃi.nwaz/ — `shee-NWAHZ`) — *Chinese*
 
 2. **Adjectives ending in -ien double the n and add -e (-ienne)**, creating a clear nasal-to-vowel shift:
-   - **canadien** (/ka.na.djɛ̃/ — `kah-nah-DYAN`) → **canadienne** (/ka.na.djɛn/ — `kah-nah-DYEN`) — *Canadian*
-   - **algérien** (/al.ʒe.ʁjɛ̃/ — `ahl-zhay-RYAN`) → **algérienne** (/al.ʒe.ʁjɛn/ — `ahl-zhay-RYEN`) — *Algerian*
-   - **indien** (/ɛ̃.djɛ̃/ — `an-DYAN`) → **indienne** (/ɛ̃.djɛn/ — `an-DYEN`) — *Indian*
-   - **colombien** (/kɔ.lɔ̃.bjɛ̃/ — `koh-lohn-BYAN`) → **colombienne** (/kɔ.lɔ̃.bjɛn/ — `koh-lohn-BYEN`) — *Colombian*
+   - **canadien** (/ka.na.djɛ̃/ — `kah-nah-DYEN`) → **canadienne** (/ka.na.djɛn/ — `kah-nah-DYEN`) — *Canadian*
+   - **algérien** (/al.ʒe.ʁjɛ̃/ — `ahl-zhay-RYEN`) → **algérienne** (/al.ʒe.ʁjɛn/ — `ahl-zhay-RYEN`) — *Algerian*
+   - **indien** (/ɛ̃.djɛ̃/ — `ehn-DYEN`) → **indienne** (/ɛ̃.djɛn/ — `ehn-DYEN`) — *Indian*
+   - **colombien** (/kɔ.lɔ̃.bjɛ̃/ — `koh-lohn-BYEN`) → **colombienne** (/kɔ.lɔ̃.bjɛn/ — `koh-lohn-BYEN`) — *Colombian*
 
 3. **Adjectives already ending in -e do not change in the feminine**:
-   - **russe** (/ʁys/ — `ROOS`) → **russe** (/ʁys/ — `ROOS`) — *Russian*
+   - **russe** (/ʁys/ — `REWS`) → **russe** (/ʁys/ — `REWS`) — *Russian*
    - **suisse** (/sɥis/ — `SWEES`) → **suisse** (/sɥis/ — `SWEES`) — *Swiss*
    - **belge** (/bɛlʒ/ — `BELZH`) → **belge** (/bɛlʒ/ — `BELZH`) — *Belgian*
 
@@ -120,7 +120,7 @@ Here is the present tense conjugation of **avoir**:
 
 | Subject Pronoun | Verb Form | IPA | Phonetic Respelling | English Meaning |
 | :--- | :--- | :--- | :--- | :--- |
-| **J'** | **ai** | /ʒe/ | **zhay** | I have |
+| **J'** | **ai** | /ʒe/ | **ZHAY** | I have |
 | **Tu** | **as** | /ty a/ | **tew AH** | You have (informal) |
 | **Il / Elle / On** | **a** | /il a / ɛl a / ɔ̃n‿a/ | **eel AH / ehl AH / ohn-NAH** | He / She / One has |
 | **Nous** | **avons** | /nu.z‿a.vɔ̃/ | **noo-zah-VOHN** | We have |
@@ -152,14 +152,14 @@ When stating your profession in French using the verb *être*, you do **not** us
 
 Compare these paired examples:
 
-> **Je suis ingénieur.** — /ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/ (zhuh swee-zan-zhay-NYEUR)  
+> **Je suis ingénieur.** — /ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/ (zhuh swee-zehn-zhay-NYEUR)  
 > *I am an engineer. (Correct: no article)*  
 > ✗ *Je suis un ingénieur.* (Unnatural in standard French when simply stating your profession)
 
 > **Elle est avocate.** — /ɛl ɛ.t‿a.vɔ.kat/ (ehl eh-tah-voh-KAHT)  
 > *She is a lawyer. (Correct: feminine form, no article)*
 
-> **C'est un ingénieur remarquable.** — /sɛ.t‿œ̃.n‿ɛ̃.ʒe.njœʁ ʁə.maʁ.kabl/ (seh-tuhn-nan-zhay-NYEUR ruh-mahr-KAHBL)  
+> **C'est un ingénieur remarquable.** — /sɛ.t‿œ̃.n‿ɛ̃.ʒe.njœʁ ʁə.maʁ.kabl/ (seh-tuhn-nehn-zhay-NYEUR ruh-mahr-KAHBL)  
 > *He is a remarkable engineer. (Correct: when modified by an adjective, the article returns with "C'est")*
 
 #### Common Professions (Masculine & Feminine Forms)
@@ -169,11 +169,11 @@ Most professions adapt to the gender of the speaker:
 | Masculine Profession | Feminine Profession | English Translation |
 | :--- | :--- | :--- |
 | **enseignant** (/ɑ̃.sɛ.ɲɑ̃/ — *ahn-seh-NYAHN*) | **enseignante** (/ɑ̃.sɛ.ɲɑ̃t/ — *ahn-seh-NYAHNT*) | Teacher / Instructor |
-| **informaticien** (/ɛ̃.fɔʁ.ma.ti.sjɛ̃/ — *an-for-mah-tee-SYAN*) | **informaticienne** (/ɛ̃.fɔʁ.ma.ti.sjɛn/ — *an-for-mah-tee-SYEN*) | IT specialist / Computer scientist |
+| **informaticien** (/ɛ̃.fɔʁ.ma.ti.sjɛ̃/ — *ehn-for-mah-tee-SYEN*) | **informaticienne** (/ɛ̃.fɔʁ.ma.ti.sjɛn/ — *ehn-for-mah-tee-SYEN*) | IT specialist / Computer scientist |
 | **développeur** (/de.vlɔ.pœʁ/ — *day-vlohp-PEUR*) | **développeuse** (/de.vlɔ.pøz/ — *day-vlohp-PEUHZ*) | Software developer |
-| **infirmier** (/ɛ̃.fiʁ.mje/ — *an-feer-MYAY*) | **infirmière** (/ɛ̃.fiʁ.mjɛʁ/ — *an-feer-MYEHR*) | Nurse |
+| **infirmier** (/ɛ̃.fiʁ.mje/ — *ehn-feer-MYAY*) | **infirmière** (/ɛ̃.fiʁ.mjɛʁ/ — *ehn-feer-MYEHR*) | Nurse |
 | **comptable** (/kɔ̃.tabl/ — *kohn-TAHBL*) | **comptable** (/kɔ̃.tabl/ — *kohn-TAHBL*) | Accountant |
-| **médecin** (/med.sɛ̃/ — *mayd-SAN*) | **médecin** (/med.sɛ̃/ — *mayd-SAN*) | Doctor / Physician |
+| **médecin** (/med.sɛ̃/ — *mayd-SEHN*) | **médecin** (/med.sɛ̃/ — *mayd-SEHN*) | Doctor / Physician |
 | **directeur** (/di.ʁɛk.tœʁ/ — *dee-rek-TEUR*) | **directrice** (/di.ʁɛk.tʁis/ — *dee-rek-TREES*) | Director / Manager |
 | **avocat** (/a.vɔ.ka/ — *ah-voh-KAH*) | **avocate** (/a.vɔ.kat/ — *ah-voh-KAHT*) | Lawyer / Attorney |
 | **étudiant** (/e.ty.djɑ̃/ — *ay-tew-DYAHN*) | **étudiante** (/e.ty.djɑ̃t/ — *ay-tew-DYAHNT*) | Student |
@@ -192,7 +192,7 @@ Let us synthesize these three verbs (*s'appeler*, *être*, *avoir*) into a conti
 
 > **Bonjour. Je m'appelle David Tremblay. J'ai trente-cinq ans et je suis canadien. Je suis analyste financier à Toronto. Je parle anglais couramment et j'étudie le français.**  
 > /bɔ̃.ʒuʁ. ʒə ma.pɛl da.vid tʁɑ̃.blɛ. ʒe tʁɑ̃t.sɛ̃.k‿ɑ̃ e ʒə sɥi ka.na.djɛ̃. ʒə sɥi.z‿a.na.list fi.nɑ̃.sje a tɔ.ʁɔ̃.to. ʒə paʁl ɑ̃.ɡlɛ ku.ʁa.mɑ̃ e ʒe.ty.di lə fʁɑ̃.sɛ./  
-> *(bohn-ZHOOR. zhuh mah-PEL dah-VEED trahn-BLAY. zhay trahnt-sank-AHN ay zhuh swee kah-nah-DYAN. zhuh swee-zah-nah-LEEST fee-nahn-SYAY ah toh-rohn-TOH. zhuh pahrl ahn-GLEH koo-rah-MAHN ay zhay-tew-DEE luh frahn-SEH.)*  
+> *(bohn-ZHOOR. zhuh mah-PEL dah-VEED trahn-BLAY. zhay trahnt-sehn-KAHN ay zhuh swee kah-nah-DYEN. zhuh swee-zah-nah-LEEST fee-nahn-SYAY ah toh-rohn-TOH. zhuh pahrl ahn-GLEH koo-rah-MAHN ay zhay-tew-DEE luh frahn-SEH.)*  
 > *Hello. My name is David Tremblay. I am thirty-five years old and I am Canadian. I am a financial analyst in Toronto. I speak English fluently and I am studying French.*
 
 Notice how simple sentences connected by **et** (*and*) create a smooth, coherent flow, which is exactly what an A1/A2 speaker should aim for.
@@ -233,7 +233,7 @@ Notice how simple sentences connected by **et** (*and*) create a smooth, coheren
    - *Nous sommes* (/nu sɔm/ — "noo SUHM") — We are
    - *Vous êtes* (/vu.z‿ɛt/ — "voo-ZEHT") — You are (formal/plural)
    - *Ils / Elles sont* (/il sɔ̃/, /ɛl sɔ̃/ — "eel SOHN", "ehl SOHN") — They are
-   - *J'ai* (/ʒe/ — "zhay") — I have
+   - *J'ai* (/ʒe/ — "ZHAY") — I have
    - *Tu as* (/ty a/ — "tew AH") — You have
    - *Il / Elle a* (/il a/, /ɛl a/ — "eel AH", "ehl AH") — He / She has
    - *Nous avons* (/nu.z‿a.vɔ̃/ — "noo-zah-VOHN") — We have
