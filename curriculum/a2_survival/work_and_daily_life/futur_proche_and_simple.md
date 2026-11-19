@@ -35,22 +35,22 @@ The formula consists of the present tense of **aller** followed directly by an *
 [Subject] + [Aller in Present Tense] + [Infinitive Verb]
 ```
 
-| Subject Pronoun | Aller Conjugation | IPA | Example with *travailler* | English Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **Je** | **vais** | /vɛ/ | **Je vais travailler** | I am going to work |
-| **Tu** | **vas** | /va/ | **Tu vas travailler** | you are going to work |
-| **Il / Elle / On** | **va** | /va/ | **Il va travailler** | he / she is going to work |
-| **Nous** | **allons** | /a.lɔ̃/ | **Nous allons travailler** | we are going to work |
-| **Vous** | **allez** | /a.le/ | **Vous allez travailler** | you are going to work |
-| **Ils / Elles** | **vont** | /vɔ̃/ | **Ils vont travailler** | they are going to work |
+| Subject Pronoun | Aller Conjugation | IPA | Phonetic Respelling | Example with *travailler* | English Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Je** | **vais** | /vɛ/ | (veh) | **Je vais travailler** | I am going to work |
+| **Tu** | **vas** | /va/ | (vah) | **Tu vas travailler** | you are going to work |
+| **Il / Elle / On** | **va** | /va/ | (vah) | **Il va travailler** | he / she is going to work |
+| **Nous** | **allons** | /a.lɔ̃/ | (ah-LOHN) | **Nous allons travailler** | we are going to work |
+| **Vous** | **allez** | /a.le/ | (ah-LAY) | **Vous allez travailler** | you are going to work |
+| **Ils / Elles** | **vont** | /vɔ̃/ | (vohn) | **Ils vont travailler** | they are going to work |
 
 #### Negation and Pronoun Placement with Futur Proche
 
 - **Negation**: *Ne ... pas* wraps around the conjugated auxiliary verb **aller**:
-  > **Je ne vais pas accepter ce poste.** — /ʒə nə vɛ pa.z‿ak.sɛp.te sə pɔst/  
+  > **Je ne vais pas accepter ce poste.** — /ʒə nə vɛ pa.z‿ak.sɛp.te sə pɔst/ (zhuh nuh veh pah-zahk-sehp-TAY suh pohst)  
   > *I am not going to accept this position.*
 - **Object Pronoun Placement**: The pronoun sits immediately before the **infinitive verb**:
-  > **Je vais lui téléphoner.** — /ʒə vɛ lɥi te.le.fɔ.ne/  
+  > **Je vais lui téléphoner.** — /ʒə vɛ lɥi te.le.fɔ.ne/ (zhuh veh lwee tay-lay-foh-NAY)  
   > *I am going to call him/her.*
 
 ### The formal future: futur simple mechanics and endings
@@ -75,22 +75,22 @@ For regular **-re** verbs, drop the silent final **-e** before adding the ending
 - **attendre** → stem **attendr-** → *j'attendrai, tu attendras, il attendra, nous attendrons, vous attendrez, ils attendront*
 - **vendre** → stem **vendr-** → *je vendrai, tu vendras, il vendra, nous vendrons, vous vendrez, ils vendront*
 
-| Subject Pronoun | Future Ending | IPA | Example with *réussir* | Example with *attendre* |
-| :--- | :--- | :--- | :--- | :--- |
-| **Je** | **-ai** | /e/ | **Je réussirai** (/ʁe.y.si.ʁe/) | **J'attendrai** (/ʒ‿a.tɑ̃.dʁe/) |
-| **Tu** | **-as** | /a/ | **Tu réussiras** (/ty ʁe.y.si.ʁa/) | **Tu attendras** (/ty a.tɑ̃.dʁa/) |
-| **Il / Elle / On** | **-a** | /a/ | **Il réussira** (/il ʁe.y.si.ʁa/) | **Il attendra** (/i.l‿a.tɑ̃.dʁa/) |
-| **Nous** | **-ons** | /ɔ̃/ | **Nous réussirons** (/nu ʁe.y.si.ʁɔ̃/) | **Nous attendrons** (/nu.z‿a.tɑ̃.dʁɔ̃/) |
-| **Vous** | **-ez** | /e/ | **Vous réussirez** (/vu ʁe.y.si.ʁe/) | **Vous attendrez** (/vu.z‿a.tɑ̃.dʁe/) |
-| **Ils / Elles** | **-ont** | /ɔ̃/ | **Ils réussiront** (/il ʁe.y.si.ʁɔ̃/) | **Ils attendront** (/il.z‿a.tɑ̃.dʁɔ̃/) |
+| Subject Pronoun | Future Ending | IPA | Phonetic Respelling | Example with *réussir* | Example with *attendre* |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Je** | **-ai** | /e/ | (ay) | **Je réussirai** (/ʁe.y.si.ʁe/ — *zhuh ray-ew-see-RAY*) | **J'attendrai** (/ʒ‿a.tɑ̃.dʁe/ — *zhah-tahn-DRAY*) |
+| **Tu** | **-as** | /a/ | (ah) | **Tu réussiras** (/ty ʁe.y.si.ʁa/ — *tew ray-ew-see-RAH*) | **Tu attendras** (/ty a.tɑ̃.dʁa/ — *tew ah-tahn-DRAH*) |
+| **Il / Elle / On** | **-a** | /a/ | (ah) | **Il réussira** (/il ʁe.y.si.ʁa/ — *eel ray-ew-see-RAH*) | **Il attendra** (/i.l‿a.tɑ̃.dʁa/ — *eel ah-tahn-DRAH*) |
+| **Nous** | **-ons** | /ɔ̃/ | (ohn) | **Nous réussirons** (/nu ʁe.y.si.ʁɔ̃/ — *noo ray-ew-see-ROHN*) | **Nous attendrons** (/nu.z‿a.tɑ̃.dʁɔ̃/ — *noo-zah-tahn-DROHN*) |
+| **Vous** | **-ez** | /e/ | (ay) | **Vous réussirez** (/vu ʁe.y.si.ʁe/ — *voo ray-ew-see-RAY*) | **Vous attendrez** (/vu.z‿a.tɑ̃.dʁe/ — *voo-zah-tahn-DRAY*) |
+| **Ils / Elles** | **-ont** | /ɔ̃/ | (ohn) | **Ils réussiront** (/il ʁe.y.si.ʁɔ̃/ — *eel ray-ew-see-ROHN*) | **Ils attendront** (/il.z‿a.tɑ̃.dʁɔ̃/ — *eel-zah-tahn-DROHN*) |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Phonetic Trap: "Je parlerai" (Future) vs "Je parlais" (Imparfait)
 
 Listen carefully to the final vowel sound:
-- **Futur simple**: *Je parlerai* ends in a closed **/e/** (like the *é* in *café*).
-- **Imparfait**: *Je parlais* ends in an open **/ɛ/** (like the *è* in *très* or English *bed*).
+- **Futur simple**: *Je parlerai* ends in a closed **/e/** (zhuh pahr-luh-RAY) (like the *é* in *café*).
+- **Imparfait**: *Je parlais* ends in an open **/ɛ/** (zhuh pahr-LEH) (like the *è* in *très* or English *bed*).
 
 Mixing up these two sounds can lead to severe confusion in TCF Listening between past habits and future commitments!
 
@@ -100,21 +100,21 @@ Mixing up these two sounds can lead to severe confusion in TCF Listening between
 
 While the endings of the futur simple are 100% regular, many of the most essential verbs in the language possess **irregular stems**. However, every single future stem in French **ends in the letter -r** (or **-rr**):
 
-| Infinitive Verb | Irregular Future Stem | 1st Person Form & IPA | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **être** | **ser-** | **Je serai** (/ʒə sə.ʁe/) | I will be | *Je serai disponible demain matin.* |
-| **avoir** | **aur-** | **J'aurai** (/ʒ‿o.ʁe/) | I will have | *J'aurai les résultats du test la semaine prochaine.* |
-| **faire** | **fer-** | **Je ferai** (/ʒə fə.ʁe/) | I will do / make | *Nous ferons une demande de résidence permanente.* |
-| **aller** | **ir-** | **J'irai** (/ʒ‿i.ʁe/) | I will go | *J'irai à l'agence d'immigration jeudi.* |
-| **pouvoir** | **pourr-** (double r) | **Je pourrai** (/ʒə pu.ʁe/) | I will be able to | *Vous pourrez signer le contrat dès lundi.* |
-| **vouloir** | **voudr-** | **Je voudrai** (/ʒə vu.dʁe/) | I will want | *Nous voudrons visiter le quartier.* |
-| **savoir** | **saur-** | **Je saurai** (/ʒə so.ʁe/) | I will know | *Je saurai ma note bientôt.* |
-| **devoir** | **devr-** | **Je devrai** (/ʒə də.vʁe/) | I will have to | *Il devra renouveler son permis de travail.* |
-| **venir** | **viendr-** | **Je viendrai** (/ʒə vjɛ̃.dʁe/) | I will come | *Mon ami viendra me voir à Montréal.* |
-| **envoyer** | **enverr-** (double r) | **J'enverrai** (/ʒ‿ɑ̃.vɛ.ʁe/) | I will send | *J'enverrai mon CV par courriel ce soir.* |
-| **voir** | **verr-** (double r) | **Je verrai** (/ʒə vɛ.ʁe/) | I will see | *Nous verrons les options d'hébergement.* |
+| Infinitive Verb | Irregular Future Stem | 1st Person Form & IPA | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **être** | **ser-** | **Je serai** (/ʒə sə.ʁe/) | (zhuh suh-RAY) | I will be | *Je serai disponible demain matin.* |
+| **avoir** | **aur-** | **J'aurai** (/ʒ‿o.ʁe/) | (zhoh-RAY) | I will have | *J'aurai les résultats du test la semaine prochaine.* |
+| **faire** | **fer-** | **Je ferai** (/ʒə fə.ʁe/) | (zhuh fuh-RAY) | I will do / make | *Nous ferons une demande de résidence permanente.* |
+| **aller** | **ir-** | **J'irai** (/ʒ‿i.ʁe/) | (zhee-RAY) | I will go | *J'irai à l'agence d'immigration jeudi.* |
+| **pouvoir** | **pourr-** (double r) | **Je pourrai** (/ʒə pu.ʁe/) | (zhuh poo-RAY) | I will be able to | *Vous pourrez signer le contrat dès lundi.* |
+| **vouloir** | **voudr-** | **Je voudrai** (/ʒə vu.dʁe/) | (zhuh voo-DRAY) | I will want | *Nous voudrons visiter le quartier.* |
+| **savoir** | **saur-** | **Je saurai** (/ʒə so.ʁe/) | (zhuh soh-RAY) | I will know | *Je saurai ma note bientôt.* |
+| **devoir** | **devr-** | **Je devrai** (/ʒə də.vʁe/) | (zhuh duh-VRAY) | I will have to | *Il devra renouveler son permis de travail.* |
+| **venir** | **viendr-** | **Je viendrai** (/ʒə vjɛ̃.dʁe/) | (zhuh vyen-DRAY) | I will come | *Mon ami viendra me voir à Montréal.* |
+| **envoyer** | **enverr-** (double r) | **J'enverrai** (/ʒ‿ɑ̃.vɛ.ʁe/) | (zhahn-veh-RAY) | I will send | *J'enverrai mon CV par courriel ce soir.* |
+| **voir** | **verr-** (double r) | **Je verrai** (/ʒə vɛ.ʁe/) | (zhuh veh-RAY) | I will see | *Nous verrons les options d'hébergement.* |
 
-> **Il y aura** (/il j‿o.ʁa/) is the future form of *il y a* (*there will be*):  
+> **Il y aura** (/il j‿o.ʁa/ — *eel yoh-RAH*) is the future form of *il y a* (*there will be*):  
 > *Il y aura une réunion demain à 9 heures.* (There will be a meeting tomorrow at 9:00 AM).
 
 ### Deciding between futur proche and futur simple
@@ -145,12 +145,12 @@ FUTUR SIMPLE (Infinitive Stem + Endings):
 
 To situate future plans on a timeline, use these essential temporal connectors:
 
-- **demain / après-demain** (/də.mɛ̃ / a.pʁɛ də.mɛ̃/) — *tomorrow / the day after tomorrow*
-- **bientôt** (/bjɛ̃.to/) — *soon*
-- **prochain / prochaine** (/pʁɔ.ʃɛ̃ / pʁɔ.ʃɛn/) — *next (le mois prochain, la semaine prochaine)*
-- **dans + duration** (/dɑ̃/) — *in [amount of time]* (*dans deux semaines, dans six mois*)
-- **à l'avenir** (/a l‿av.niʁ/) — *in the future*
-- **plus tard** (/ply taʁ/) — *later / in the future*
+- **demain / après-demain** (/də.mɛ̃ / a.pʁɛ də.mɛ̃/ — *duh-MEHN / ah-preh duh-MEHN*) — *tomorrow / the day after tomorrow*
+- **bientôt** (/bjɛ̃.to/ — *byen-TOH*) — *soon*
+- **prochain / prochaine** (/pʁɔ.ʃɛ̃ / pʁɔ.ʃɛn/ — *proh-SHEHN / proh-SHEHN*) — *next (le mois prochain, la semaine prochaine)*
+- **dans + duration** (/dɑ̃/ — *dahn*) — *in [amount of time]* (*dans deux semaines, dans six mois*)
+- **à l'avenir** (/a l‿av.niʁ/ — *ah lahv-NEER*) — *in the future*
+- **plus tard** (/ply taʁ/ — *plew TAHR*) — *later / in the future*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -211,20 +211,20 @@ This deliberate contrast between immediate steps (*vais passer*) and formal aspi
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 14 future verbs and temporal connectors with IPA to your personal Anki flashcard deck:
-   - *je serai* (/ʒə sə.ʁe/) — I will be
-   - *j'aurai* (/ʒ‿o.ʁe/) — I will have
-   - *je ferai* (/ʒə fə.ʁe/) — I will do / make
-   - *j'irai* (/ʒ‿i.ʁe/) — I will go
-   - *je pourrai* (/ʒə pu.ʁe/) — I will be able to
-   - *je devrai* (/ʒə də.vʁe/) — I will have to
-   - *je viendrai* (/ʒə vjɛ̃.dʁe/) — I will come
-   - *j'enverrai* (/ʒ‿ɑ̃.vɛ.ʁe/) — I will send
-   - *il y aura* (/il j‿o.ʁa/) — there will be
-   - *bientôt* (/bjɛ̃.to/) — soon
-   - *l'année prochaine* (/l‿a.ne pʁɔ.ʃɛn/) — next year
-   - *dans six mois* (/dɑ̃ si mwa/) — in six months
-   - *à l'avenir* (/a l‿av.niʁ/) — in the future
-   - *s'établir durablement* (/s‿e.ta.bliʁ dy.ʁa.blə.mɑ̃/) — to settle permanently
+   - *je serai* (/ʒə sə.ʁe/ — *zhuh suh-RAY*) — I will be
+   - *j'aurai* (/ʒ‿o.ʁe/ — *zhoh-RAY*) — I will have
+   - *je ferai* (/ʒə fə.ʁe/ — *zhuh fuh-RAY*) — I will do / make
+   - *j'irai* (/ʒ‿i.ʁe/ — *zhee-RAY*) — I will go
+   - *je pourrai* (/ʒə pu.ʁe/ — *zhuh poo-RAY*) — I will be able to
+   - *je devrai* (/ʒə də.vʁe/ — *zhuh duh-VRAY*) — I will have to
+   - *je viendrai* (/ʒə vjɛ̃.dʁe/ — *zhuh vyen-DRAY*) — I will come
+   - *j'enverrai* (/ʒ‿ɑ̃.vɛ.ʁe/ — *zhahn-veh-RAY*) — I will send
+   - *il y aura* (/il j‿o.ʁa/ — *eel yoh-RAH*) — there will be
+   - *bientôt* (/bjɛ̃.to/ — *byen-TOH*) — soon
+   - *l'année prochaine* (/l‿a.ne pʁɔ.ʃɛn/ — *lah-nay proh-SHEHN*) — next year
+   - *dans six mois* (/dɑ̃ si mwa/ — *dahn see MWAH*) — in six months
+   - *à l'avenir* (/a l‿av.niʁ/ — *ah lahv-NEER*) — in the future
+   - *s'établir durablement* (/s‿e.ta.bliʁ dy.ʁa.blə.mɑ̃/ — *say-tah-BLEER dew-rah-bluh-MAHN*) — to settle permanently
 
 3. **Step 3: Receptive Reading & Weather Forecast Drill**  
    Visit [MétéoMédia Canada](https://www.meteomedia.com/ca) and read the 7-day weather forecast for Montreal or Quebec City.  
