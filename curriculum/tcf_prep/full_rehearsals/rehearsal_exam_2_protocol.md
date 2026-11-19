@@ -173,20 +173,20 @@ Prepare your workstation under the deliberate adversity protocol:
 
 Master these 12 formal terms defining psychometric performance benchmarking:
 
-| French Expression | IPA Transcription | English Translation | Evaluation Role |
-| :--- | :--- | :--- | :--- |
-| **L'inoculation au stress** | /l‿i.nɔ.ky.la.sjɔ̃ o stʁɛs/ | Stress inoculation | Adverse training conditions |
-| **L'écart de performance ($\Delta$)** | /l‿e.kaʁ də pɛʁ.fɔʁ.mɑ̃s/ | Performance delta | Score difference between sittings |
-| **La marge de sécurité** | /la maʁʒ də se.ky.ʁi.te/ | Safety margin | Points above NCLC 7 floor |
-| **Un score frontière** | /œ̃ skɔʁ fʁɔ̃.tjɛʁ/ | Borderline score | Score within 10 pts of cutoff |
-| **La constance psychométrique** | /la kɔ̃s.tɑ̃s psi.kɔ.me.tʁik/ | Test reliability | Consistency across forms |
-| **L'interférence ambiante** | /l‿ɛ̃.tɛʁ.fe.ʁɑ̃s ɑ̃.bjɑ̃t/ | Ambient interference | Background acoustic noise |
-| **Le seuil d'admissibilité** | /lə sœj d‿ad.mi.si.bi.li.te/ | Eligibility threshold | Minimum score for points |
-| **Un gain substantiel** | /œ̃ ɡɛ̃ syb.stɑ̃.sjɛl/ | Substantial gain | Significant score rise |
-| **La fidélité du protocole** | /la fi.de.li.te dy pʁɔ.tɔ.kɔl/ | Protocol fidelity | Strict adherence to rules |
-| **L'automatisation des réflexes**| /l‿o.tɔ.ma.ti.za.sjɔ̃ de ʁe.flɛks/| Habit automation | Unconscious skilled execution |
-| **Un plateau d'apprentissage** | /œ̃ pla.to d‿a.pʁɑ̃.ti.saʒ/ | Learning plateau | Temporary stall in progress |
-| **La validation définitive** | /la va.li.da.sjɔ̃ de.fi.ni.tiv/ | Final validation | Unambiguous proof of readiness |
+| French Expression | IPA Transcription | Phonetic Respelling | English Translation | Evaluation Role |
+| :--- | :--- | :--- | :--- | :--- |
+| **L'inoculation au stress** | /l‿i.nɔ.ky.la.sjɔ̃ o stʁɛs/ | (lee-noh-kew-lah-SYOHN oh STREHS) | Stress inoculation | Adverse training conditions |
+| **L'écart de performance ($\Delta$)** | /l‿e.kaʁ də pɛʁ.fɔʁ.mɑ̃s/ | (lay-KAHR duh pehr-fohr-MAHNS) | Performance delta | Score difference between sittings |
+| **La marge de sécurité** | /la maʁʒ də se.ky.ʁi.te/ | (lah MAHRZH duh say-kew-ree-TAY) | Safety margin | Points above NCLC 7 floor |
+| **Un score frontière** | /œ̃ skɔʁ fʁɔ̃.tjɛʁ/ | (uhn skohr frohn-TYEHR) | Borderline score | Score within 10 pts of cutoff |
+| **La constance psychométrique** | /la kɔ̃s.tɑ̃s psi.kɔ.me.tʁik/ | (lah kohns-TAHNS psee-koh-may-TREEK) | Test reliability | Consistency across forms |
+| **L'interférence ambiante** | /l‿ɛ̃.tɛʁ.fe.ʁɑ̃s ɑ̃.bjɑ̃t/ | (lehn-tehr-fay-RAHNS ahn-BYAHNT) | Ambient interference | Background acoustic noise |
+| **Le seuil d'admissibilité** | /lə sœj d‿ad.mi.si.bi.li.te/ | (luh SUHY dahd-mee-see-bee-lee-TAY) | Eligibility threshold | Minimum score for points |
+| **Un gain substantiel** | /œ̃ ɡɛ̃ syb.stɑ̃.sjɛl/ | (uhn GEHN sewb-stahn-SYEHL) | Substantial gain | Significant score rise |
+| **La fidélité du protocole** | /la fi.de.li.te dy pʁɔ.tɔ.kɔl/ | (lah fee-day-lee-TAY dew proh-toh-KOHL) | Protocol fidelity | Strict adherence to rules |
+| **L'automatisation des réflexes**| /l‿o.tɔ.ma.ti.za.sjɔ̃ de ʁe.flɛks/| (loh-toh-mah-tee-zah-SYOHN day ray-FLEHKS) | Habit automation | Unconscious skilled execution |
+| **Un plateau d'apprentissage** | /œ̃ pla.to d‿a.pʁɑ̃.ti.saʒ/ | (uhn plah-TOH dah-prahn-tee-SAHZH) | Learning plateau | Temporary stall in progress |
+| **La validation définitive** | /la va.li.da.sjɔ̃ de.fi.ni.tiv/ | (lah vah-lee-dah-SYOHN day-fee-nee-TEEV) | Final validation | Unambiguous proof of readiness |
 
 ---
 
