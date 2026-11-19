@@ -4,7 +4,7 @@ In this project, you will synthesize the professional and temporal skills develo
 
 This project directly simulates two high-stakes tasks on the **TCF Canada examination**:
 1. **Written Production (*Expression écrite*)**: A **100 to 120-word formal message** applying for a professional opportunity or writing to a Canadian mentor/recruiter (simulating Writing Task 1/2). You must describe your professional duties, compare past and present experience using the *imparfait* and *passé composé*, and project future goals with the *futur simple*.
-2. **Oral Production (*Expression orale*)**: A **2-minute recorded unscripted professional presentation** responding directly to the classic examiner question in Speaking Task 1: *« Parlez-moi de votre parcours professionnel et de vos ambitions au Canada »*.
+2. **Oral Production (*Expression orale*)**: A **2-minute recorded unscripted professional presentation** responding directly to the classic examiner question in Speaking Task 1: *« Parlez-moi de votre parcours professionnel et de vos ambitions au Canada »* (/paʁ.le mwa də vɔ.tʁə paʁ.kuʁ pʁɔ.fɛ.sjɔ.nɛl e də vo.z‿ɑ̃.bi.sjɔ̃ o ka.na.da/ — *pahr-LAY MWAH duh voh-truh pahr-KOOR proh-feh-syoh-NEHL ay duh voh-zahn-bee-SYOHN oh kah-nah-DAH*).
 
 Completing this project will deposit the third major verifiable performance artifact into your portfolio—proof that you can present your professional qualifications, work schedules, and future career milestones at **CEFR Level A2/B1**.
 
@@ -165,15 +165,15 @@ To help you calibrate your writing against this project's self-assessment rubric
 When recording your 2-minute unscripted oral profile, use the following structural blueprint. Speaking Task 1 has no preparation time, so internalize it before you start recording:
 
 1. **Introduction (0:00–0:25)**: State your name, current occupation, and current employer or field.
-   - *« Bonjour. Je m'appelle Alex et je suis actuellement analyste financier... »* /bɔ̃.ʒuʁ. ʒə m‿a.pɛl a.lɛks e ʒə sɥi ak.tɥɛl.mɑ̃ a.na.list fi.nɑ̃.sje/
+   - *« Bonjour. Je m'appelle Alex et je suis actuellement analyste financier... »* — /bɔ̃.ʒuʁ. ʒə m‿a.pɛl a.lɛks e ʒə sɥi ak.tɥɛl.mɑ̃ a.na.list fi.nɑ̃.sje/ (bohn-ZHOOR. zhuh mah-PEHL ah-LEHKS ay zhuh swee ahk-twel-MAHN ah-nah-LEEST fee-nahn-SYAY...)
 2. **Current Responsibilities (0:25–0:55)**: Describe two or three concrete daily duties using action verbs and adverbs of frequency.
-   - *« Tous les jours, j'analyse les budgets d'exploitation et je prépare des prévisions trimestrielles... »* /tu le ʒuʁ, ʒ‿a.na.liz le byd.ʒɛ d‿ɛks.plwa.ta.sjɔ̃ e ʒə pʁe.paʁ de pʁe.vi.zjɔ̃ tʁi.mɛs.tʁi.jɛl/
+   - *« Tous les jours, j'analyse les budgets d'exploitation et je prépare des prévisions trimestrielles... »* — /tu le ʒuʁ, ʒ‿a.na.liz le byd.ʒɛ d‿ɛks.plwa.ta.sjɔ̃ e ʒə pʁe.paʁ de pʁe.vi.zjɔ̃ tʁi.mɛs.tʁi.jɛl/ (too lay ZHOOR, zhah-nah-LEEZ lay bewd-ZHEH dehks-plwah-tah-SYOHN ay zhuh pray-PAHR day pray-vee-zyohn tree-mehs-tree-YEHL...)
 3. **Past Background & Evolution (0:55–1:25)**: Describe your educational background or previous job, contrasting duration with milestone achievements.
-   - *« Avant cette expérience, je faisais mes études à l'université où j'ai obtenu ma maîtrise avec mention... »* /a.vɑ̃ sɛt ɛks.pe.ʁjɑ̃s, ʒə fə.zɛ me.z‿e.tyd a l‿y.ni.vɛʁ.si.te u ʒ‿e ɔb.tə.ny ma mɛ.tʁiz a.vɛk mɑ̃.sjɔ̃/
+   - *« Avant cette expérience, je faisais mes études à l'université où j'ai obtenu ma maîtrise avec mention... »* — /a.vɑ̃ sɛt ɛks.pe.ʁjɑ̃s, ʒə fə.zɛ me.z‿e.tyd a l‿y.ni.vɛʁ.si.te u ʒ‿e ɔb.tə.ny ma mɛ.tʁiz a.vɛk mɑ̃.sjɔ̃/ (ah-VAHN seht ehks-pay-RYAHNS, zhuh fuh-ZEH may-zay-TEWD ah lew-nee-vehr-see-TAY oo zhay ohb-tuh-NEW mah meh-TREEZ ah-vehk mahn-SYOHN...)
 4. **Future Goals in Canada (1:25–1:55)**: Articulate two precise milestones using the *futur simple*.
-   - *« Lorsque j'arriverai à Montréal, je chercherai un emploi dans une institution bancaire et je m'intégrerai activement dans la communauté francophone... »* /lɔʁs.kə ʒ‿a.ʁi.vʁe a mɔ̃.ʁe.al, ʒə ʃɛʁ.ʃə.ʁe œ̃ n‿ɑ̃.plwa dɑ̃ z‿yn ɛ̃s.ti.ty.sjɔ̃ bɑ̃.kɛʁ e ʒə m‿ɛ̃.te.ɡʁə.ʁe ak.tiv.mɑ̃ dɑ̃ la kɔ.my.no.te fʁɑ̃.kɔ.fɔn/
+   - *« Lorsque j'arriverai à Montréal, je chercherai un emploi dans une institution bancaire et je m'intégrerai activement dans la communauté francophone... »* — /lɔʁs.kə ʒ‿a.ʁi.vʁe a mɔ̃.ʁe.al, ʒə ʃɛʁ.ʃə.ʁe œ̃ n‿ɑ̃.plwa dɑ̃ z‿yn ɛ̃s.ti.ty.sjɔ̃ bɑ̃.kɛʁ e ʒə m‿ɛ̃.te.ɡʁə.ʁe ak.tiv.mɑ̃ dɑ̃ la kɔ.my.no.te fʁɑ̃.kɔ.fɔn/ (lohrs-kuh zhah-ree-VRAY ah mohn-ray-AHL, zhuh shehr-shuh-RAY uhn-nahn-PLWAH dahn-zewn en-stee-tew-syohn bahn-KEHR ay zhuh men-tay-gruh-RAY ahk-teev-MAHN dahn lah koh-mew-noh-TAY frahn-koh-FOHN...)
 5. **Polite Closing (1:55–2:00)**: Conclude with confidence.
-   - *« Je vous remercie de votre attention et je reste disponible pour vos questions. »* /ʒə vu ʁə.mɛʁ.si də vɔtʁ a.tɑ̃.sjɔ̃ e ʒə ʁɛst dis.pɔ.nibl puʁ vo kɛs.tjɔ̃/
+   - *« Je vous remercie de votre attention et je reste disponible pour vos questions. »* — /ʒə vu ʁə.mɛʁ.si də vɔtʁ a.tɑ̃.sjɔ̃ e ʒə ʁɛst dis.pɔ.nibl puʁ vo kɛs.tjɔ̃/ (zhuh voo ruh-mehr-SEE duh voh-truh ah-tahn-SYOHN ay zhuh rehst dees-poh-NEE-bluh poor voh kehs-TYOHN.)
 
 ### Pre-submission checklist
 
