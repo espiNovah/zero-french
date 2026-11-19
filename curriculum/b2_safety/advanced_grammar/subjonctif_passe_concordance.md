@@ -34,12 +34,12 @@ $$\text{Subjonctif Passé} = \text{Auxiliary (AVOIR or ÊTRE in Subjonctif Prés
 | AUXILIARY FORMS IN SUBJONCTIF PRÉSENT                             |
 |                                                                   |
 | AVOIR Stem                       | ÊTRE Stem                      |
-| - que j'aie          /kə ʒ‿ɛ/    | - que je sois       /kə ʒə swa/|
-| - que tu aies        /kə ty ɛ/   | - que tu sois       /kə ty swa/|
-| - qu'il/elle ait     /k‿i.l‿ɛ/   | - qu'il/elle soit   /k‿il swa/ |
-| - que nous ayons     /kə nu.z‿ɛ.jɔ̃/| - que nous soyons /kə nu swa.jɔ̃/|
-| - que vous ayez      /kə vu.z‿ɛ.je/| - que vous soyez  /kə vu swa.je/|
-| - qu'ils/elles aient /kil.z‿ɛ/   | - qu'ils/elles soient /k‿il swa/ |
+| - que j'aie (kuh zheh) /kə ʒ‿ɛ/  | - que je sois (kuh zhuh SWAH) /kə ʒə swa/ |
+| - que tu aies (kuh tew eh) /kə ty ɛ/ | - que tu sois (kuh tew SWAH) /kə ty swa/ |
+| - qu'il/elle ait (keel/ehl eh) /k‿i.l‿ɛ/ | - qu'il/elle soit (keel/ehl SWAH) /k‿il swa/ |
+| - que nous ayons (kuh noo-zay-YOHN) /kə nu.z‿ɛ.jɔ̃/ | - que nous soyons (kuh noo swah-YOHN) /kə nu swa.jɔ̃/ |
+| - que vous ayez (kuh voo-zay-YAY) /kə vu.z‿ɛ.je/ | - que vous soyez (kuh voo swah-YAY) /kə vu swa.je/ |
+| - qu'ils/elles aient (keel/ehl-zeh) /kil.z‿ɛ/ | - qu'ils/elles soient (keel/ehl SWAH) /k‿il swa/ |
 +-------------------------------------------------------------------+
 ```
 
@@ -48,13 +48,13 @@ $$\text{Subjonctif Passé} = \text{Auxiliary (AVOIR or ÊTRE in Subjonctif Prés
 The vast majority of French verbs form their compound tenses with *avoir*. 
 
 - **comprendre**: **« Il est surprenant qu'elle n'ait pas compris la consigne. »**  
-  — /i.l‿ɛ syʁ.pʁə.nɑ̃ k‿ɛl n‿ɛ pa kɔ̃.pʁi la kɔ̃.siɲ/  
+  — /i.l‿ɛ syʁ.pʁə.nɑ̃ k‿ɛl n‿ɛ pa kɔ̃.pʁi la kɔ̃.siɲ/ (eel eh sew-pruh-NAHN kehl neh pah kohn-PREE lah kohn-SEEN-yuh)  
   *(It is surprising that she did not understand the instructions.)*
 - **prendre**: **« Je doute qu'ils aient pris la bonne décision. »**  
-  — /ʒə dut kil.z‿ɛ pʁi la bɔn de.si.zjɔ̃/  
+  — /ʒə dut kil.z‿ɛ pʁi la bɔn de.si.zjɔ̃/ (zhuh DOOT keel-zeh PREE lah bohn day-see-ZYOHN)  
   *(I doubt that they took the right decision.)*
 - **finir**: **« Bien que nous ayons fini les travaux à temps... »**  
-  — /bjɛ̃ kə nu.z‿ɛ.jɔ̃ fi.ni le tʁa.vo a tɑ̃/  
+  — /bjɛ̃ kə nu.z‿ɛ.jɔ̃ fi.ni le tʁa.vo a tɑ̃/ (byen kuh noo-zay-YOHN fee-NEE lay trah-VOH ah TAHN)  
   *(Although we finished the works on time...)*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
@@ -64,7 +64,7 @@ The vast majority of French verbs form their compound tenses with *avoir*.
 Just like in the *passé composé*, when the *subjonctif passé* is formed with *avoir*, the past participle agrees in gender and number with a **preceding direct object** (*COD antéposé*):
 - **« Les opportunités que la ville a offertes. »** (Indicative)
 - **« Il est regrettable que la ville n'ait pas saisi les opportunités qu'elle a eues. »**
-- **« Bien qu'ils les aient prévenues... »** — /bjɛ̃ k‿il le.z‿ɛ pʁev.ny/ (*Although they warned them [feminine plural]* $\rightarrow$ *prévenues*).
+- **« Bien qu'ils les aient prévenues... »** — /bjɛ̃ k‿il le.z‿ɛ pʁev.ny/ (byen keel lay-zeh prayv-NEW) (*Although they warned them [feminine plural]* $\rightarrow$ *prévenues*).
 
 </div>
 
@@ -73,13 +73,13 @@ Just like in the *passé composé*, when the *subjonctif passé* is formed with 
 Movement verbs (the 14 verbs of movement/change of state) and all **pronominal/reflexive verbs** use *être*. With movement verbs, the past participle **always agrees** with the subject. With pronominal verbs, it agrees with a **preceding direct object** (usually *se* itself): no agreement when *se* is an indirect object (*qu'elles se soient téléphoné*) or when the direct object follows the verb (*qu'ils se soient rendu compte*, where *compte* is the direct object):
 
 - **arriver**: **« Il est peu probable qu'elle soit arrivée avant midi. »**  
-  — /i.l‿ɛ pø pʁɔ.babl k‿ɛl swa.t‿a.ʁi.ve a.vɑ̃ mi.di/  
+  — /i.l‿ɛ pø pʁɔ.babl k‿ɛl swa.t‿a.ʁi.ve a.vɑ̃ mi.di/ (eel eh puh proh-BAH-bluh kehl swah-tah-ree-VAY ah-vahn mee-DEE)  
   *(It is unlikely that she arrived before noon — feminine e on arrivée).*
 - **se rendre compte**: **« Je regrette qu'ils ne se soient pas rendu compte du danger. »**  
-  — /ʒə ʁə.ɡʁɛt k‿il nə sə swa pa ʁɑ̃.dy kɔ̃t dy dɑ̃.ʒe/  
+  — /ʒə ʁə.ɡʁɛt k‿il nə sə swa pa ʁɑ̃.dy kɔ̃t dy dɑ̃.ʒe/ (zhuh ruh-GREHT keel nuh suh swah pah rahn-DEW KOHNT dew dahn-ZHAY)  
   *(I regret that they did not realize the danger).*
 - **partir**: **« Quoique mes collègues soient déjà partis... »**  
-  — /kwa.kə me kɔ.lɛɡ swa de.ʒa paʁ.ti/  
+  — /kwa.kə me kɔ.lɛɡ swa de.ʒa paʁ.ti/ (kwah-kuh may koh-LEHG swah day-ZHAH pahr-TEE)  
   *(Although my colleagues have already left — plural s on partis).*
 
 ---
@@ -113,12 +113,12 @@ In French syntax, when a main clause requires the subjunctive, the choice betwee
 1. **Avant que (+ subjonctif passé, optional)**:
    - When emphasizing that an action must be completely concluded prior to a deadline:
    - **« Il faut régler ce litige avant que la situation n'ait dégénéré. »**  
-     — /il fo ʁe.ɡle sə li.tiʒ a.vɑ̃ kə la si.tɥa.sjɔ̃ n‿ɛ de.ʒe.ne.ʁe/  
+     — /il fo ʁe.ɡle sə li.tiʒ a.vɑ̃ kə la si.tɥa.sjɔ̃ n‿ɛ de.ʒe.ne.ʁe/ (eel foh ray-GLAY suh lee-TEEZH ah-vahn kuh lah see-twah-syohn neh day-zhay-nay-RAY)  
      *(This dispute must be settled before the situation has degenerated.)*
 2. **Jusqu'à ce que (+ subjonctif passé, optional)**:
    - When marking an absolute boundary of completion:
    - **« Nous maintiendrons ces restrictions jusqu'à ce que les autorités sanitaires aient validé le protocole. »**  
-     — /nu mɛ̃.tjɛ̃.dʁɔ̃ se ʁɛs.tʁik.sjɔ̃ ʒys.k‿a sə kə le.z‿o.tɔ.ʁi.te sa.ni.tɛʁ ɛ va.li.de lə pʁɔ.tɔ.kɔl/  
+     — /nu mɛ̃.tjɛ̃.dʁɔ̃ se ʁɛs.tʁik.sjɔ̃ ʒys.k‿a sə kə le.z‿o.tɔ.ʁi.te sa.ni.tɛʁ ɛ va.li.de lə pʁɔ.tɔ.kɔl/ (noo mehn-tyehn-DROHN say rehs-treek-SYOHN zhews-kah suh kuh lay-zoh-toh-ree-tay sah-nee-TEHR eh vah-lee-DAY luh proh-toh-KOHL)  
      *(We will maintain these restrictions until the health authorities have validated the protocol.)*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -145,7 +145,7 @@ When comparing two opposing viewpoints in Task 3, avoid beginning with simplisti
 - **Formula**: **« Bien que / Quoique + Sujet + ait / soient + Participe Passé, force est de constater que... »**
 - **Example**:
   **« Bien que les promoteurs de l'intelligence artificielle aient promis des gains de productivité spectaculaires, force est de constater que les retombées sociales demeurent mitigées. »**  
-  — /bjɛ̃ kə le pʁɔ.mɔ.tœʁ də l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.ti.fi.sjɛl ɛ pʁɔ.mi de ɡɛ̃ də pʁɔ.dyk.ti.vi.te spɛk.ta.ky.lɛʁ fɔʁs ɛ də kɔ̃s.ta.te kə le ʁə.tɔ̃.be sɔ.sjal də.mœʁ mi.ti.ʒe/  
+  — /bjɛ̃ kə le pʁɔ.mɔ.tœʁ də l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.ti.fi.sjɛl ɛ pʁɔ.mi de ɡɛ̃ də pʁɔ.dyk.ti.vi.te spɛk.ta.ky.lɛʁ fɔʁs ɛ də kɔ̃s.ta.te kə le ʁə.tɔ̃.be sɔ.sjal də.mœʁ mi.ti.ʒe/ (byen kuh lay proh-moh-TUHR duh lehn-tay-lee-ZHAHNS ahr-tee-fee-SYEHL eh proh-MEE day gehn duh proh-dewk-tee-vee-TAY spehk-tah-kew-LEHR, fohrs eh duh kohns-tah-TAY kuh lay ruh-tohn-BAY soh-SYAHL duh-muhr mee-tee-ZHAY)  
   *(Although proponents of artificial intelligence promised spectacular productivity gains, one cannot help but notice that social outcomes remain mixed.)*
 
 #### 2. The Retrospective Civic Verdict (Writing Task 2 & Task 3 Conclusions)
@@ -164,7 +164,7 @@ Conclude your written response by evaluating past policies with an impersonal co
 In the live oral monologue, injecting a *subjonctif passé* demonstrates spontaneous grammatical range and accuracy, which examiners do take into account:
 
 > **« Certes, pour ma part, je ne prétends pas que la piétonnisation des centres urbains ait résolu l'ensemble des maux sociétaux ; néanmoins, elle a permis de revitaliser le commerce de proximité et d'apaiser l'espace public. »**  
-> — /sɛʁt puʁ ma paʁ ʒə nə pʁe.tɑ̃ pa kə la pje.tɔ.ni.za.sjɔ̃ de sɑ̃tʁ yʁ.bɛ̃ ɛ ʁe.zɔ.ly l‿ɑ̃.sɑ̃bl de mo sɔ.sje.to/
+> — /sɛʁt puʁ ma paʁ ʒə nə pʁe.tɑ̃ pa kə la pje.tɔ.ni.za.sjɔ̃ de sɑ̃tʁ yʁ.bɛ̃ ɛ ʁe.zɔ.ly l‿ɑ̃.sɑ̃bl de mo sɔ.sje.to/ (sehrt, poor mah PAHR, zhuh nuh pray-TAHN pah kuh lah pyeh-toh-nee-zah-SYOHN day sahn-truh ewr-BEHN eh ray-zoh-LEW lahn-SAHN-bluh day moh soh-syay-TOH)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -219,20 +219,20 @@ Convert the following 10 sentences into the *subjonctif passé* by integrating t
 
 Commit these 12 high-register C1 structures to memory:
 
-| Subjunctive Trigger | IPA Transcription | English Translation | Syntactic Role |
-| :--- | :--- | :--- | :--- |
-| **Bien qu'il ait semblé judicieux de...** | /bjɛ̃ k‿i.l‿ɛ sɑ̃.ble ʒy.di.sjø də/ | *Although it seemed wise to...* | Opening essay concession |
-| **Quoiqu'on ait pu observer que...** | /kwa.k‿ɔ̃n‿ɛ py ɔb.sɛʁ.ve kə/ | *Although one might have observed that..* | Analytical nuance |
-| **Il est déplorable que (+ subj. passé)** | /i.l‿ɛ de.plɔ.ʁabl kə/ | *It is deplorable that...* | Value judgment on past policy |
-| **Sans que personne ne s'en soit aperçu**| /sɑ̃ kə pɛʁ.sɔn nə s‿ɑ̃ swa.t‿a.pɛʁ.sy/| *Without anyone having noticed* | High-register adverbial clause |
-| **Avant qu'il ne soit trop tard** | /a.vɑ̃ k‿il nə swa tʁo taʁ/ | *Before it is (was) too late* | Temporal boundary (subj. présent + *ne* explétif) |
-| **Je doute que cette mesure ait suffi** | /ʒə dut kə sɛt mə.zyʁ ɛ sy.fi/ | *I doubt that this measure was enough* | Epistemic skepticism |
-| **Il est heureux que les mœurs aient changé**| /i.l‿ɛ.t‿œ.ʁø kə le mœʁ.z‿ɛ ʃɑ̃.ʒe/ | *It is fortunate that morals changed* | Sociological conclusion |
-| **Pour peu que les règles aient été suivies**| /puʁ pø kə le ʁɛɡl.z‿ɛ.t‿e.te sɥi.vi/ | *Provided that rules were followed* | Restrictive condition |
-| **Jusqu'à ce que la preuve ait été apportée**| /ʒys.k‿a sə kə la pʁœv ɛ.t‿e.te a.pɔʁ.te/| *Until proof had been provided* | Terminal limit |
-| **Non pas que les efforts aient été vains** | /nɔ̃ pa kə le.z‿e.fɔʁ.z‿ɛ.t‿e.te vɛ̃/ | *Not that efforts were in vain* | Dialectical qualification |
-| **Il est remarquable qu'ils aient su...** | /i.l‿ɛ ʁə.maʁ.kabl kil.z‿ɛ sy/ | *It is remarkable that they knew how to*| Positive appreciation |
-| **À supposer que le consensus ait existé** | /a sy.po.ze kə lə kɔ̃.sɑ̃.sys ɛ.t‿ɛɡ.zis.te/| *Assuming that consensus existed* | Hypothetical premise |
+| Subjunctive Trigger | IPA Transcription | Phonetic Respelling | English Translation | Syntactic Role |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bien qu'il ait semblé judicieux de...** | /bjɛ̃ k‿i.l‿ɛ sɑ̃.ble ʒy.di.sjø də/ | (byen keel eh sahn-blay zhew-dee-SYEUH duh) | *Although it seemed wise to...* | Opening essay concession |
+| **Quoiqu'on ait pu observer que...** | /kwa.k‿ɔ̃n‿ɛ py ɔb.sɛʁ.ve kə/ | (kwah-kohn-neh pew ohb-sehr-VAY kuh) | *Although one might have observed that..* | Analytical nuance |
+| **Il est déplorable que (+ subj. passé)** | /i.l‿ɛ de.plɔ.ʁabl kə/ | (eel eh day-ploh-RAH-bluh kuh) | *It is deplorable that...* | Value judgment on past policy |
+| **Sans que personne ne s'en soit aperçu**| /sɑ̃ kə pɛʁ.sɔn nə s‿ɑ̃ swa.t‿a.pɛʁ.sy/| (sahn kuh pehr-SOHN nuh sahn swah-tah-pehr-SEW) | *Without anyone having noticed* | High-register adverbial clause |
+| **Avant qu'il ne soit trop tard** | /a.vɑ̃ k‿il nə swa tʁo taʁ/ | (ah-vahn keel nuh swah troh TAHR) | *Before it is (was) too late* | Temporal boundary (subj. présent + *ne* explétif) |
+| **Je doute que cette mesure ait suffi** | /ʒə dut kə sɛt mə.zyʁ ɛ sy.fi/ | (zhuh DOOT kuh seht muh-ZEWR eh sew-FEE) | *I doubt that this measure was enough* | Epistemic skepticism |
+| **Il est heureux que les mœurs aient changé**| /i.l‿ɛ.t‿œ.ʁø kə le mœʁ.z‿ɛ ʃɑ̃.ʒe/ | (eel eh-tuh-REUH kuh lay mur-zeh shahn-ZHAY) | *It is fortunate that morals changed* | Sociological conclusion |
+| **Pour peu que les règles aient été suivies**| /puʁ pø kə le ʁɛɡl.z‿ɛ.t‿e.te sɥi.vi/ | (poor puh kuh lay reh-gluh-zeh-tay-tay swee-VEE) | *Provided that rules were followed* | Restrictive condition |
+| **Jusqu'à ce que la preuve ait été apportée**| /ʒys.k‿a sə kə la pʁœv ɛ.t‿e.te a.pɔʁ.te/| (zhews-kah suh kuh lah PRUHV eh-tay-tay ah-pohr-TAY) | *Until proof had been provided* | Terminal limit |
+| **Non pas que les efforts aient été vains** | /nɔ̃ pa kə le.z‿e.fɔʁ.z‿ɛ.t‿e.te vɛ̃/ | (nohn pah kuh lay-zeh-fohr-zeh-tay-tay VEHN) | *Not that efforts were in vain* | Dialectical qualification |
+| **Il est remarquable qu'ils aient su...** | /i.l‿ɛ ʁə.maʁ.kabl kil.z‿ɛ sy/ | (eel eh ruh-mahr-KAH-bluh keel-zeh SEW...) | *It is remarkable that they knew how to*| Positive appreciation |
+| **À supposer que le consensus ait existé** | /a sy.po.ze kə lə kɔ̃.sɑ̃.sys ɛ.t‿ɛɡ.zis.te/| (ah sew-poh-ZAY kuh luh kohn-sehn-SEWS eh-tehg-zees-TAY) | *Assuming that consensus existed* | Hypothetical premise |
 
 ---
 
