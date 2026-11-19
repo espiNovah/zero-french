@@ -28,7 +28,70 @@
     const lessons = allLessons(path);
     return { total: lessons.length, done: lessons.filter((l) => completed.has(key(path, l))).length, projects: lessons.filter((l) => l.project).length };
   }
-  const findPath = (id) => manifest.paths.find((p) => p.id === id);
+  function findPath(id) {
+    if (!id || !manifest || !manifest.paths) return null;
+    const raw = String(id).trim();
+    const cleanId = raw.toLowerCase();
+    const normalized = cleanId.replace(/_/g, "-");
+
+    // 1. Exact or hyphen-normalized match on path id
+    let match = manifest.paths.find((p) => p.id === raw || p.id === cleanId || p.id === normalized);
+    if (match) return match;
+
+    // 2. Folder names & shorthand aliases
+    const aliases = {
+      "a1": "a1-basics",
+      "01": "a1-basics",
+      "1": "a1-basics",
+      "a1-basics": "a1-basics",
+      "a1_basics": "a1-basics",
+      "basics": "a1-basics",
+      "a2": "a2-survival-french",
+      "02": "a2-survival-french",
+      "2": "a2-survival-french",
+      "a2-survival": "a2-survival-french",
+      "a2_survival": "a2-survival-french",
+      "a2-survival-french": "a2-survival-french",
+      "survival": "a2-survival-french",
+      "b1": "b1-independent",
+      "03": "b1-independent",
+      "3": "b1-independent",
+      "b1-independent": "b1-independent",
+      "b1_independent": "b1-independent",
+      "independent": "b1-independent",
+      "b2": "b2-advanced",
+      "04": "b2-advanced",
+      "4": "b2-advanced",
+      "b2-advanced": "b2-advanced",
+      "b2_advanced": "b2-advanced",
+      "advanced": "b2-advanced",
+      "tcf": "tcf-prep",
+      "05": "tcf-prep",
+      "5": "tcf-prep",
+      "tcf-prep": "tcf-prep",
+      "tcf_prep": "tcf-prep",
+      "prep": "tcf-prep",
+      "safety": "b2-safety",
+      "06": "b2-safety",
+      "6": "b2-safety",
+      "b2-safety": "b2-safety",
+      "b2_safety": "b2-safety",
+      "c1": "b2-safety"
+    };
+    if (aliases[cleanId] || aliases[normalized]) {
+      return manifest.paths.find((p) => p.id === (aliases[cleanId] || aliases[normalized]));
+    }
+
+    // 3. Match section ID (in case user passed section ID to /paths/)
+    match = manifest.paths.find((p) => p.sections && p.sections.some((s) => s.id === cleanId || s.id === normalized));
+    if (match) return match;
+
+    // 4. Match lesson ID (in case user passed lesson ID to /paths/)
+    match = manifest.paths.find((p) => p.sections && p.sections.some((s) => s.lessons.some((l) => l.id === cleanId || l.id === normalized)));
+    if (match) return match;
+
+    return null;
+  }
   const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 
   function setTitle(t) { document.title = t ? `${t} | Zéro French` : HOME_TITLE; }
@@ -37,8 +100,8 @@
       if (a.dataset.nav === name) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
     });
   }
-  function showError(msg) {
-    main.innerHTML = `<div class="error"><strong>Something went wrong.</strong> ${esc(msg)}</div>`;
+  function showError(msg, extraHtml = "") {
+    main.innerHTML = `<div class="error"><p><strong>Something went wrong.</strong> ${esc(msg)}</p>${extraHtml ? `<div style="margin-top:1rem">${extraHtml}</div>` : ""}</div>`;
   }
 
   // ---------- views ----------
@@ -59,7 +122,14 @@
 
   function viewPath(pathId) {
     const path = findPath(pathId);
-    if (!path) return showError("That path doesn't exist.");
+    if (!path) {
+      const available = (manifest && manifest.paths)
+        ? `<p style="margin-bottom:0.75rem"><strong>Choose a path:</strong></p><div style="display:flex;flex-wrap:wrap;gap:0.5rem;margin-bottom:1rem">` +
+          manifest.paths.map((p) => `<a class="btn secondary" href="#/paths/${p.id}">${esc(p.title)}</a>`).join("") +
+          `</div><p><a class="btn" href="#/">← Return to Home</a></p>`
+        : `<p><a class="btn" href="#/">← Return to Home</a></p>`;
+      return showError(`The path "${pathId}" doesn't exist.`, available);
+    }
     setTitle(path.title); setNav("home");
     const c = counts(path);
     main.innerHTML = `
@@ -91,9 +161,16 @@
 
   async function viewLesson(pathId, lessonId) {
     const path = findPath(pathId);
-    const lessons = path ? allLessons(path) : [];
-    const idx = lessons.findIndex((l) => l.id === lessonId);
-    if (idx === -1) return showError("That lesson doesn't exist.");
+    if (!path) {
+      return showError(`The path "${pathId}" doesn't exist.`, `<p><a class="btn" href="#/">← Return to Home</a></p>`);
+    }
+    const lessons = allLessons(path);
+    const cleanLessonId = String(lessonId).trim().toLowerCase();
+    const normLessonId = cleanLessonId.replace(/_/g, "-");
+    const idx = lessons.findIndex((l) => l.id === lessonId || l.id === cleanLessonId || l.id === normLessonId);
+    if (idx === -1) {
+      return showError(`The lesson "${lessonId}" doesn't exist in ${esc(path.title)}.`, `<p><a class="btn" href="#/paths/${path.id}">← Back to ${esc(path.title)}</a></p>`);
+    }
     const lesson = lessons[idx];
     setTitle(lesson.title); setNav("home");
     main.innerHTML = `<p class="loading">Loading lesson…</p>`;
@@ -180,8 +257,17 @@
       if (parts[3]) { document.getElementById(parts[3])?.scrollIntoView(); return; }
     }
     else if (PAGES[parts[0]]) viewPage(parts[0]);
+    else if (parts[0] && findPath(parts[0])) {
+      if (parts[1]) {
+        await viewLesson(parts[0], parts[1]);
+        main.dataset.lesson = `${parts[0]}/${parts[1]}`;
+        if (parts[2]) { document.getElementById(parts[2])?.scrollIntoView(); return; }
+      } else {
+        viewPath(parts[0]);
+      }
+    }
     else viewHome();
-    if (parts[0] !== "lessons") delete main.dataset.lesson;
+    if (parts[0] !== "lessons" && (!parts[0] || !parts[1])) delete main.dataset.lesson;
     window.scrollTo(0, 0);
   }
 
