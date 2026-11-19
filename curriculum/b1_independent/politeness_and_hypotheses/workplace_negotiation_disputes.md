@@ -25,26 +25,26 @@ When raising a grievance in a Francophone corporate setting, professional etique
 
 #### 1. Diplomatic softening formulas (Atténuateurs de discours)
 
-| Accusatory / Aggressive (Avoid) | Diplomatic & Professional (B1 Benchmark) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| *Votre travail est mauvais.* | **Il me semble que certains points nécessitent des ajustements.** | /il mə sɑ̃bl kə sɛʁ.tɛ̃ pwɛ̃ ne.sɛ.sit de z‿a.ʒys.tə.mɑ̃/ | *It seems to me that certain points require adjustments.* |
-| *Vous êtes toujours en retard.* | **J'ai constaté quelques retards récurrents dans la livraison des dossiers.** | /ʒ‿e kɔ̃s.ta.te kɛl.kə ʁə.taʁ ʁe.ky.ʁɑ̃ dɑ̃ la li.vʁɛ.zɔ̃/ | *I have noted several recurring delays in file delivery.* |
-| *C'est votre faute si le projet a échoué.* | **Nous faisons face à un dysfonctionnement dans notre chaîne de validation.** | /nu fə.zɔ̃ fas a œ̃ dis.fɔ̃k.sjɔn.mɑ̃ dɑ̃ nɔtʁ ʃɛn/ | *We are facing an operational issue in our approval chain.* |
-| *Je refuse de faire des heures supplémentaires.* | **Compte tenu de ma charge de travail actuelle, il me sera difficile d'assumer des tâches additionnelles.** | /kɔ̃t tə.ny də ma ʃaʁʒ də tʁa.vaj ak.tɥɛl il mə sə.ʁa di.fi.sil/ | *Given my current workload, it will be difficult for me to take on additional tasks.* |
+| Accusatory / Aggressive (Avoid) | Diplomatic & Professional (B1 Benchmark) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| *Votre travail est mauvais.* | **Il me semble que certains points nécessitent des ajustements.** | /il mə sɑ̃bl kə sɛʁ.tɛ̃ pwɛ̃ ne.sɛ.sit de z‿a.ʒys.tə.mɑ̃/ | (eel muh SAHN-bluh kuh sehr-TEHN pwen nay-seh-SEET day zah-zhews-tuh-MAHN) | *It seems to me that certain points require adjustments.* |
+| *Vous êtes toujours en retard.* | **J'ai constaté quelques retards récurrents dans la livraison des dossiers.** | /ʒ‿e kɔ̃s.ta.te kɛl.kə ʁə.taʁ ʁe.ky.ʁɑ̃ dɑ̃ la li.vʁɛ.zɔ̃/ | (zhay kohns-tah-TAY kehl-kuh ruh-TAHR ray-kew-RAHN dahn lah lee-vreh-ZOHN) | *I have noted several recurring delays in file delivery.* |
+| *C'est votre faute si le projet a échoué.* | **Nous faisons face à un dysfonctionnement dans notre chaîne de validation.** | /nu fə.zɔ̃ fas a œ̃ dis.fɔ̃k.sjɔn.mɑ̃ dɑ̃ nɔtʁ ʃɛn/ | (noo fuh-ZOHN FAHS ah uhn dees-fohnk-syohn-MAHN dahn noh-truh SHEHN) | *We are facing an operational issue in our approval chain.* |
+| *Je refuse de faire des heures supplémentaires.* | **Compte tenu de ma charge de travail actuelle, il me sera difficile d'assumer des tâches additionnelles.** | /kɔ̃t tə.ny də ma ʃaʁʒ də tʁa.vaj ak.tɥɛl il mə sə.ʁa di.fi.sil/ | (kohnt tuh-NEW duh mah SHAHRZH duh trah-VY ahk-TWEHL, eel muh suh-RAH dee-fee-SEEL) | *Given my current workload, it will be difficult for me to take on additional tasks.* |
 
 #### 2. Essential lexicon for workplace dissatisfaction
 
-- **La surcharge de travail** /la syʁ.ʃaʁʒ də tʁa.vaj/ : *Workload overload / Excessive workload*  
+- **La surcharge de travail** /la syʁ.ʃaʁʒ də tʁa.vaj/ (lah sewr-SHAHRZH duh trah-VY) : *Workload overload / Excessive workload*  
   *« L'équipe souffre d'une surcharge de travail en raison du manque de personnel. »*
-- **Un dysfonctionnement** /œ̃ dis.fɔ̃k.sjɔn.mɑ̃/ : *An operational malfunction / breakdown*  
+- **Un dysfonctionnement** /œ̃ dis.fɔ̃k.sjɔn.mɑ̃/ (uhn dees-fohnk-syohn-MAHN) : *An operational malfunction / breakdown*  
   *« Nous avons identifié un dysfonctionnement dans le logiciel de facturation. »*
-- **Un malentendu** /œ̃ ma.lɑ̃.tɑ̃.dy/ : *A misunderstanding*  
+- **Un malentendu** /œ̃ ma.lɑ̃.tɑ̃.dy/ (uhn mah-lahn-tahn-DEW) : *A misunderstanding*  
   *« Je pense qu'il y a eu un léger malentendu lors de notre dernière réunion. »*
-- **Le manque de communication** /lə mɑ̃k də kɔ.my.ni.ka.sjɔ̃/ : *Lack of communication*  
+- **Le manque de communication** /lə mɑ̃k də kɔ.my.ni.ka.sjɔ̃/ (luh MAHN-kuh duh koh-mew-nee-kah-SYOHN) : *Lack of communication*  
   *« Le manque de communication entre les départements ralentit notre progression. »*
-- **Dépasser l'échéance (f.)** /de.pa.se l‿e.ʃe.ɑ̃s/ : *To miss / blow the deadline*  
-  *« Si nous ne recevons pas ces données, nous risquons de dépasser l'échéance fixée. »*
-- **Être sous pression** /ɛtʁ su pʁe.sjɔ̃/ : *To be under severe stress / pressure*  
+- **Dépasser l'échéance (f.)** /de.pa.se l‿e.ʃe.ɑ̃s/ (day-pah-SAY lay-shay-AHNS) : *To miss / blow the deadline*  
+  *« Si nous ne recevrons pas ces données, nous risquons de dépasser l'échéance fixée. »*
+- **Être sous pression** /ɛtʁ su pʁe.sjɔ̃/ (EH-truh soo preh-SYOHN) : *To be under severe stress / pressure*  
   *« Les employés sont sous pression constante depuis le début du trimestre. »*
 
 ### Formulating constructive solutions and diplomatic compromises
@@ -66,13 +66,13 @@ $$\text{Je proposerais que} + \text{Verbe} \quad \text{ou} \quad \text{Nous pour
 
 #### 2. Idiomatic expressions for consensus and compromise
 
-- **Trouver un terrain d'entente** /tʁu.ve œ̃ tɛ.ʁɛ̃ d‿ɑ̃.tɑ̃t/ : *To find common ground*  
+- **Trouver un terrain d'entente** /tʁu.ve œ̃ tɛ.ʁɛ̃ d‿ɑ̃.tɑ̃t/ (troo-VAY uhn teh-REHN dahn-TAHNT) : *To find common ground*  
   *« Je suis convaincu que nous pouvons trouver un terrain d'entente satisfaisant pour nos deux équipes. »*
-- **Faire des concessions mutuelles** /fɛʁ de kɔ̃.sɛ.sjɔ̃ my.tɥɛl/ : *To make mutual concessions*  
+- **Faire des concessions mutuelles** /fɛʁ de kɔ̃.sɛ.sjɔ̃ my.tɥɛl/ (FEHR day kohn-seh-SYOHN mew-TWEHL) : *To make mutual concessions*  
   *« Dans toute négociation réussie, chaque partie doit faire des concessions. »*
-- **Couper la poire en deux (familier / professionnel détendu)** /ku.pe la pwaʁ ɑ̃ dø/ : *To meet halfway / split the difference*  
+- **Couper la poire en deux (familier / professionnel détendu)** /ku.pe la pwaʁ ɑ̃ dø/ (koo-PAY lah PWAHR ahn DUH) : *To meet halfway / split the difference*  
   *« Vous proposez vendredi, je préfère mardi : coupons la poire en deux et fixons la réunion à mercredi. »*
-- **Un compromis acceptable** /œ̃ kɔ̃.pʁɔ.mi ak.sɛp.tabl/ : *An acceptable compromise*  
+- **Un compromis acceptable** /œ̃ kɔ̃.pʁɔ.mi ak.sɛp.tabl/ (uhn kohn-proh-MEE ahk-sehp-TAH-bluh) : *An acceptable compromise*  
   *« Cette entente représente un compromis acceptable pour les syndicats et la direction. »*
 
 ### Negotiating working hours telework and deadlines
@@ -81,14 +81,14 @@ In Canadian workplaces (governed by provincial employment standards, administere
 
 #### 1. Key terms for flexible work and schedules
 
-| French Workplace Concept | IPA Pronunciation | English Meaning | Practical Context Example |
-| :--- | :--- | :--- | :--- |
-| **L'aménagement du temps de travail** | /l‿a.me.naʒ.mɑ̃ dy tɑ̃ də tʁa.vaj/ | flexible work arrangement | *J'aimerais solliciter un aménagement de mon temps de travail.* |
-| **La conciliation travail-famille (QC)** | /la kɔ̃.si.lja.sjɔ̃ tʁa.vaj fa.mij/ | work-life / work-family balance | *Cet horaire favorise une meilleure conciliation travail-famille.* |
-| **Le mode hybride** | /lə mɔd i.bʁid/ | hybrid work model | *Deux jours au bureau et trois jours en télétravail constituent le mode hybride.* |
-| **Reporter une échéance / une date butoir** | /ʁə.pɔʁ.te yn e.ʃe.ɑ̃s / dat by.twaʁ/ | to push back a deadline | *Serait-il possible de reporter la date butoir au 15 décembre ?* |
-| **Prendre un congé sans solde** | /pʁɑ̃dʁ œ̃ kɔ̃.ʒe sɑ̃ sɔld/ | to take unpaid leave | *Elle a demandé un congé sans solde de deux mois pour raisons personnelles.* |
-| **Les heures supplémentaires** | /le z‿œʁ sy.ple.mɑ̃.tɛʁ/ | overtime hours | *Nos heures supplémentaires seront-elles récupérées ou rémunérées ?* |
+| French Workplace Concept | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Context Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **L'aménagement du temps de travail** | /l‿a.me.naʒ.mɑ̃ dy tɑ̃ də tʁa.vaj/ | (lah-may-nahzh-MAHN dew TAHN duh trah-VY) | flexible work arrangement | *J'aimerais solliciter un aménagement de mon temps de travail.* |
+| **La conciliation travail-famille (QC)** | /la kɔ̃.si.lja.sjɔ̃ tʁa.vaj fa.mij/ | (lah kohn-see-lyah-SYOHN trah-VY fah-MEE-yuh) | work-life / work-family balance | *Cet horaire favorise une meilleure conciliation travail-famille.* |
+| **Le mode hybride** | /lə mɔd i.bʁid/ | (luh mohd ee-BREED) | hybrid work model | *Deux jours au bureau et trois jours en télétravail constituent le mode hybride.* |
+| **Reporter une échéance / une date butoir** | /ʁə.pɔʁ.te yn e.ʃe.ɑ̃s / dat by.twaʁ/ | (ruh-por-TAY ewn ay-shay-AHNS / daht bew-TWAHR) | to push back a deadline | *Serait-il possible de reporter la date butoir au 15 décembre ?* |
+| **Prendre un congé sans solde** | /pʁɑ̃dʁ œ̃ kɔ̃.ʒe sɑ̃ sɔld/ | (prahn-druh uhn kohn-ZHAY sahn SOHLD) | to take unpaid leave | *Elle a demandé un congé sans solde de deux mois pour raisons personnelles.* |
+| **Les heures supplémentaires** | /le z‿œʁ sy.ple.mɑ̃.tɛʁ/ | (lay zuhr sew-play-mahn-TEHR) | overtime hours | *Nos heures supplémentaires seront-elles récupérées ou rémunérées ?* |
 
 #### 2. Model conversational script: Negotiating a project extension
 
