@@ -168,20 +168,20 @@ Before launching your full rehearsal, verify every item on this pre-flight check
 
 Master these 12 formal terms defining the administration and evaluation of the TCF Canada:
 
-| Term in French | IPA Transcription | English Translation | Psychometric Context |
-| :--- | :--- | :--- | :--- |
-| **Une épreuve standardisée** | /yn e.pʁœv stɑ̃.daʁ.di.ze/ | A standardized test | Calibrated across all centers |
-| **Le score brut** | /lə skɔʁ bʁyt/ | Raw score | Correct items out of 39 |
-| **Le score étalonné** | /lə skɔʁ e.ta.lɔ.ne/ | Scaled score | Converted score out of 699 |
-| **Le barème officiel** | /lə ba.ʁɛm ɔ.fi.sjɛl/ | Official rubric / scale | FEI marking parameters |
-| **La double correction** | /la dubl kɔ.ʁɛk.sjɔ̃/ | Double marking | A second rater checks a production |
-| **L'écoute unique** | /l‿e.kut y.nik/ | Single listening exposure | Audio played once without pause |
-| **L'inattention cognitive** | /l‿i.na.tɑ̃.sjɔ̃ kɔɡ.ni.tiv/ | Fatigue-related inattention | Errors caused by mental tiredness |
-| **Le seuil requis** | /lə sœj ʁə.ki/ | Required threshold | Minimum score needed, e.g. the NCLC 7 floor |
-| **Un distracteur plausible** | /œ̃ dis.tʁak.tœʁ plo.zibl/ | Plausible distractor | Deceptive incorrect MCQ choice |
-| **Le respect de la consigne** | /lə ʁɛs.pɛ də la kɔ̃.siɲ/ | Task fulfillment | Following the instructions, including length |
-| **La fatigue cognitive** | /la fa.tiɡ kɔɡ.ni.tiv/ | Cognitive fatigue | Fatigue during 3-hour marathon |
-| **L'attestation officielle** | /l‿a.tɛs.ta.sjɔ̃ ɔ.fi.sjɛl/ | Official test certificate | Score report submitted to IRCC |
+| Term in French | IPA Transcription | Phonetic Respelling | English Translation | Psychometric Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **Une épreuve standardisée** | /yn e.pʁœv stɑ̃.daʁ.di.ze/ | (ewn ay-PRUHV stahn-dahr-dee-ZAY) | A standardized test | Calibrated across all centers |
+| **Le score brut** | /lə skɔʁ bʁyt/ | (luh skohr BREWT) | Raw score | Correct items out of 39 |
+| **Le score étalonné** | /lə skɔʁ e.ta.lɔ.ne/ | (luh skohr ay-tah-loh-NAY) | Scaled score | Converted score out of 699 |
+| **Le barème officiel** | /lə ba.ʁɛm ɔ.fi.sjɛl/ | (luh bah-REHM oh-fee-SYEHL) | Official rubric / scale | FEI marking parameters |
+| **La double correction** | /la dubl kɔ.ʁɛk.sjɔ̃/ | (lah DOO-bluh koh-rehk-SYOHN) | Double marking | A second rater checks a production |
+| **L'écoute unique** | /l‿e.kut y.nik/ | (lay-KOOT ew-NEEK) | Single listening exposure | Audio played once without pause |
+| **L'inattention cognitive** | /l‿i.na.tɑ̃.sjɔ̃ kɔɡ.ni.tiv/ | (lehn-nah-tahn-SYOHN kohg-nee-TEEV) | Fatigue-related inattention | Errors caused by mental tiredness |
+| **Le seuil requis** | /lə sœj ʁə.ki/ | (luh SUHY ruh-KEE) | Required threshold | Minimum score needed, e.g. the NCLC 7 floor |
+| **Un distracteur plausible** | /œ̃ dis.tʁak.tœʁ plo.zibl/ | (uhn dees-trahk-TUHR ploh-ZEE-bluh) | Plausible distractor | Deceptive incorrect MCQ choice |
+| **Le respect de la consigne** | /lə ʁɛs.pɛ də la kɔ̃.siɲ/ | (luh rehs-PEH duh lah kohn-SEEN-yuh) | Task fulfillment | Following the instructions, including length |
+| **La fatigue cognitive** | /la fa.tiɡ kɔɡ.ni.tiv/ | (lah fah-TEEG kohg-nee-TEEV) | Cognitive fatigue | Fatigue during 3-hour marathon |
+| **L'attestation officielle** | /l‿a.tɛs.ta.sjɔ̃ ɔ.fi.sjɛl/ | (lah-tehs-tah-SYOHN oh-fee-SYEHL) | Official test certificate | Score report submitted to IRCC |
 
 ---
 
