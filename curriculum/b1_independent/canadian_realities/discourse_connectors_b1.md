@@ -35,12 +35,12 @@ DISCOURSE CONNECTORS (B1) ──┼─── Consequence & Result: par conséque
 
 When presenting multiple arguments, enumerative connectors organize your discourse into distinct analytical phases:
 
-| Connector | IPA Transcription | Meaning | Rhetorical Function | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **en premier lieu** | /ɑ̃ pʁə.mje ljø/ | in the first place / first of all | Introduces primary argument | *En premier lieu, la pénurie de logements affecte les ménages modestes.* |
-| **d'une part... d'autre part** | /d‿yn paʁ... d‿otʁ paʁ/ | on the one hand... on the other hand | Balances two symmetrical pillars | *D'une part, le coût du projet est élevé ; d'autre part, ses retombées sont majeures.* |
-| **dans un second temps** | /dɑ̃.z‿œ̃ sə.gɔ̃ tɑ̃/ | secondly / in a second phase | Introduces secondary consideration | *Dans un second temps, nous examinerons les solutions d'adaptation.* |
-| **enfin / finalement** | /ɑ̃.fɛ̃ / fi.nal.mɑ̃/ | finally / lastly | Introduces final analytical point | *Enfin, la mobilisation citoyenne demeure indispensable.* |
+| Connector | IPA Transcription | Phonetic Respelling | Meaning | Rhetorical Function | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **en premier lieu** | /ɑ̃ pʁə.mje ljø/ | (ahn pruh-MYAY LYEUH) | in the first place / first of all | Introduces primary argument | *En premier lieu, la pénurie de logements affecte les ménages modestes.* |
+| **d'une part... d'autre part** | /d‿yn paʁ... d‿otʁ paʁ/ | (dewn PAHR... dohtr PAHR) | on the one hand... on the other hand | Balances two symmetrical pillars | *D'une part, le coût du projet est élevé ; d'autre part, ses retombées sont majeures.* |
+| **dans un second temps** | /dɑ̃.z‿œ̃ sə.gɔ̃ tɑ̃/ | (dahn-zuhn suh-GOHN TAHN) | secondly / in a second phase | Introduces secondary consideration | *Dans un second temps, nous examinerons les solutions d'adaptation.* |
+| **enfin / finalement** | /ɑ̃.fɛ̃ / fi.nal.mɑ̃/ | (ahn-FEHN / fee-nahl-MAHN) | finally / lastly | Introduces final analytical point | *Enfin, la mobilisation citoyenne demeure indispensable.* |
 
 #### High-Yield Pronunciation Note
 In the phrase **d'une part... d'autre part**, the final *t* of *part* is silent (/paʁ/). In formal speech, a liaison is never made after *part* (/d‿yn paʁ/, not */d‿yn paʁ.t‿a/*).
@@ -51,21 +51,21 @@ In the phrase **d'une part... d'autre part**, the final *t* of *part* is silent 
 
 When reinforcing a thesis with cumulative evidence, vary your vocabulary beyond *et* and *aussi*:
 
-* **de plus** (/də plys/) — *furthermore / in addition*:  
+* **de plus** (/də plys/ — (duh PLEWSS)) — *furthermore / in addition*:  
   * **Le télétravail réduit le stress des employés ; de plus, il diminue l'empreinte carbone des entreprises.**
-  /lə te.le.tʁa.vaj ʁe.dɥi lə stʁɛs de.z‿ɑ̃.plwa.je ; də plys, il di.mi.ny l‿ɑ̃.pʁɛ̃t kaʁ.bɔn de.z‿ɑ̃.tʁə.pʁiz/
+  /lə te.le.tʁa.vaj ʁe.dɥi lə stʁɛs de.z‿ɑ̃.plwa.je ; də plys, il di.mi.ny l‿ɑ̃.pʁɛ̃t kaʁ.bɔn de.z‿ɑ̃.tʁə.pʁiz/ (*luh tay-lay-trah-VY ray-DWEE luh STREHSS day-zahn-plwah-YAY ; duh PLEWSS, eel dee-mee-NEW lahn-prent kar-BOHN day-zahn-truh-PREEZ*)
   *Telework reduces employee stress; furthermore, it reduces company carbon footprints.*
-* **en outre** (/ɑ̃.n‿utʁ/) — *moreover / besides* (formal, obligatory liaison /ɑ̃.n‿utʁ/):  
+* **en outre** (/ɑ̃.n‿utʁ/ — (ahn-NOO-truh)) — *moreover / besides* (formal, obligatory liaison /ɑ̃.n‿utʁ/):  
   * **Cette politique favorise l'intégration ; en outre, elle stimule l'économie locale.**
-  /sɛt pɔ.li.tik fa.vɔ.ʁiz l‿ɛ̃.te.gʁa.sjɔ̃ ; ɑ̃.n‿utʁ, ɛl sti.myl l‿e.kɔ.nɔ.mi lɔ.kal/
+  /sɛt pɔ.li.tik fa.vɔ.ʁiz l‿ɛ̃.te.gʁa.sjɔ̃ ; ɑ̃.n‿utʁ, ɛl sti.myl l‿e.kɔ.nɔ.mi lɔ.kal/ (*seht poh-lee-TEEK fah-voh-REEZ lehn-tay-grah-SYOHN ; ahn-NOO-truh, ehl stee-MEWL lay-koh-noh-MEE loh-KAHL*)
   *This policy promotes integration; moreover, it stimulates the local economy.*
-* **par ailleurs** (/paʁ a.jœʁ/) — *furthermore / incidentally / on another note*:  
+* **par ailleurs** (/paʁ a.jœʁ/ — (pahr ah-YUHR)) — *furthermore / incidentally / on another note*:  
   * **La municipalité modernise ses rames de métro ; par ailleurs, de nouvelles pistes cyclables seront aménagées.**
-  /la my.ni.si.pa.li.te mɔ.dɛʁ.niz se ʁam də me.tʁo ; paʁ a.jœʁ, də nu.vɛl pist si.klabl sə.ʁɔ̃ a.me.na.ʒe/
+  /la my.ni.si.pa.li.te mɔ.dɛʁ.niz se ʁam də me.tʁo ; paʁ a.jœʁ, də nu.vɛl pist si.klabl sə.ʁɔ̃ a.me.na.ʒe/ (*lah mew-nee-see-pah-lee-TAY moh-dehr-NEEZ say RAHM duh may-TROH ; pahr ah-YUHR, duh noo-VEHL PEEST see-KLAH-bluh suh-ROHN ah-may-nah-ZHAY*)
   *The municipality is modernizing its subway trains; furthermore, new bike lanes will be developed.*
-* **de surcroît** (/də syʁ.kʁwa/) — *what is more / additionally* (advanced B1/B2 stylistic connector):  
+* **de surcroît** (/də syʁ.kʁwa/ — (duh sewr-KRWAH)) — *what is more / additionally* (advanced B1/B2 stylistic connector):  
   * **Le coût des loyers a bondi de 15 % ; de surcroît, le taux d'inoccupation n'a jamais été aussi bas.**
-  /lə ku de lwa.je a bɔ̃.di də kɛ̃z puʁ sɑ̃ ; də syʁ.kʁwa, lə to d‿i.nɔ.ky.pa.sjɔ̃ n‿a ʒa.mɛ e.te o.si ba/
+  /lə ku de lwa.je a bɔ̃.di də kɛ̃z puʁ sɑ̃ ; də syʁ.kʁwa, lə to d‿i.nɔ.ky.pa.sjɔ̃ n‿a ʒa.mɛ e.te o.si ba/ (*luh KOO day lwah-YAY ah bohn-DEE duh KEHNZ poor SAHN ; duh sewr-KRWAH, luh TOH deen-oh-kew-pah-SYOHN nah zhah-MEH ay-TAY oh-see BAH*)
   *Rental costs jumped by 15%; what is more, the vacancy rate has never been so low.*
 
 ---
@@ -75,11 +75,11 @@ When reinforcing a thesis with cumulative evidence, vary your vocabulary beyond 
 Connecting an effect to its cause requires precision regarding syntactic category (whether the connector is followed by a conjugated verb or a noun phrase).
 
 #### 1. Connectors Followed by a Noun Phrase (*+ Nom*)
-* **en raison de** (/ɑ̃ ʁɛ.zɔ̃ də/) — *due to / on account of* (objective, neutral):  
+* **en raison de** (/ɑ̃ ʁɛ.zɔ̃ də/ — (ahn ray-ZOHN duh)) — *due to / on account of* (objective, neutral):  
   * *La séance est ajournée **en raison de** la tempête de neige.*
-* **grâce à** (/gʁɑ.s‿a/) — *thanks to* (POSITIVE CAUSE):  
+* **grâce à** (/gʁɑ.s‿a/ — (grah-SAH)) — *thanks to* (POSITIVE CAUSE):  
   * *L'étudiant a réussi son examen **grâce à** un entraînement quotidien intensif.*
-* **à cause de** (/a koz də/) — *because of / owing to* (NEUTRAL OR NEGATIVE CAUSE; for a positive cause, *grâce à* is the natural choice):  
+* **à cause de** (/a koz də/ — (ah KOHZ duh)) — *because of / owing to* (NEUTRAL OR NEGATIVE CAUSE; for a positive cause, *grâce à* is the natural choice):  
   * *L'autobus est en retard **à cause d'**un bris mécanique sur le réseau.*
 
 > [!CAUTION]
@@ -88,13 +88,13 @@ Connecting an effect to its cause requires precision regarding syntactic categor
 > Avoid: *« J'ai réussi mon immigration à cause de mon professeur »* ⚠️ (Not ungrammatical, since *à cause de* can be neutral, but for a positive cause *grâce à mon professeur* is the natural choice).
 
 #### 2. Connectors Followed by an Indicative Clause (*+ Proposition à l'indicatif*)
-* **puisque** (/pɥisk/) — *since / as* (introduces a cause already known or accepted by the listener):  
+* **puisque** (/pɥisk/ — (PWEESK)) — *since / as* (introduces a cause already known or accepted by the listener):  
   * **Puisque le budget est adopté, nous pouvons engager les travaux.**
-  /pɥis.kə lə byd.ʒɛ ɛ t‿a.dɔp.te, nu pu.vɔ̃ ɑ̃.ga.ʒe le tʁa.vo/
+  /pɥis.kə lə byd.ʒɛ ɛ t‿a.dɔp.te, nu pu.vɔ̃ ɑ̃.ga.ʒe le tʁa.vo/ (*pweess-kuh luh bewd-ZHEH eh tah-dohp-TAY, noo poo-VOHN ahn-gah-ZHAY lay trah-VOH*)
   *Since the budget is adopted, we can begin the work.*
-* **étant donné que** (/e.tɑ̃ dɔ.ne kə/) — *given that / in view of the fact that*:  
+* **étant donné que** (/e.tɑ̃ dɔ.ne kə/ — (ay-tahn doh-NAY kuh)) — *given that / in view of the fact that*:  
   * **Étant donné que les délais sont courts, nous devons redoubler d'efforts.**
-  /e.tɑ̃ dɔ.ne kə le de.lɛ sɔ̃ kuʁ, nu də.vɔ̃ ʁə.du.ble d‿ɛ.fɔʁ/
+  /e.tɑ̃ dɔ.ne kə le de.lɛ sɔ̃ kuʁ, nu də.vɔ̃ ʁə.du.ble d‿ɛ.fɔʁ/ (*ay-tahn doh-NAY kuh lay day-LEH sohn KOOR, noo duh-VOHN ruh-doo-BLAY deh-FOR*)
   *Given that deadlines are tight, we must redouble our efforts.*
 
 ---
@@ -103,21 +103,21 @@ Connecting an effect to its cause requires precision regarding syntactic categor
 
 Expressing the direct result of a situation is critical for concluding paragraphs and forming solutions:
 
-* **par conséquent** (/paʁ kɔ̃.se.kɑ̃/) — *consequently / therefore*:  
+* **par conséquent** (/paʁ kɔ̃.se.kɑ̃/ — (pahr kohn-say-KAHN)) — *consequently / therefore*:  
   * **L'entreprise a automatisé sa chaîne de tri ; par conséquent, sa productivité a augmenté de 25 %.**
-  /l‿ɑ̃.tʁə.pʁiz a o.tɔ.ma.ti.ze sa ʃɛn də tʁi ; paʁ kɔ̃.se.kɑ̃, sa pʁɔ.dyk.ti.vi.te a og.mɑ̃.te də vɛ̃t.sɛ̃k puʁ sɑ̃/
+  /l‿ɑ̃.tʁə.pʁiz a o.tɔ.ma.ti.ze sa ʃɛn də tʁi ; paʁ kɔ̃.se.kɑ̃, sa pʁɔ.dyk.ti.vi.te a og.mɑ̃.te də vɛ̃t.sɛ̃k puʁ sɑ̃/ (*lahn-truh-PREEZ ah oh-toh-mah-tee-ZAY sah SHEHN duh TREE ; pahr kohn-say-KAHN, sah proh-dewk-tee-vee-TAY ah ohg-mahn-TAY duh vent-SEHNK poor SAHN*)
   *The company automated its sorting line; consequently, its productivity increased by 25%.*
-* **c'est pourquoi** (/s‿ɛ puʁ.kwa/) — *that is why / for this reason*:  
+* **c'est pourquoi** (/s‿ɛ puʁ.kwa/ — (seh poor-KWAH)) — *that is why / for this reason*:  
   * **Les transports en commun sont saturés ; c'est pourquoi la mairie encourage le covoiturage.**
-  /le tʁɑ̃s.pɔʁ ɑ̃ kɔ.mœ̃ sɔ̃ sa.ty.ʁe ; s‿ɛ puʁ.kwa la mɛ.ʁi ɑ̃.ku.ʁaʒ lə kɔ.vwa.ty.ʁaʒ/
+  /le tʁɑ̃s.pɔʁ ɑ̃ kɔ.mœ̃ sɔ̃ sa.ty.ʁe ; s‿ɛ puʁ.kwa la mɛ.ʁi ɑ̃.ku.ʁaʒ lə kɔ.vwa.ty.ʁaʒ/ (*lay trahns-POR ahn koh-MUHN sohn sah-tew-RAY ; seh poor-KWAH lah may-REE ahn-koo-RAHZH luh koh-vwah-tew-RAHZH*)
   *Public transit is saturated; that is why the town hall encourages carpooling.*
-* **ainsi** (/ɛ̃.si/) — *thus / in this way*:  
+* **ainsi** (/ɛ̃.si/ — (ehn-SEE)) — *thus / in this way*:  
   * **Le gouvernement finance des bourses ; ainsi, davantage d'étudiants accèdent aux études supérieures.**
-  /lə gu.vɛʁ.nə.mɑ̃ fi.nɑ̃s de buʁs ; ɛ̃.si, da.vɑ̃.taʒ d‿e.ty.djɑ̃ ak.sɛd o.z‿e.tyd sy.pe.ʁjœʁ/
+  /lə gu.vɛʁ.nə.mɑ̃ fi.nɑ̃s de buʁs ; ɛ̃.si, da.vɑ̃.taʒ d‿e.ty.djɑ̃ ak.sɛd o.z‿e.tyd sy.pe.ʁjœʁ/ (*luh goo-vehr-nuh-MAHN fee-NAHNS day BOORS ; ehn-SEE, dah-vahn-TAHZH day-tew-DYAHN ahk-SEHD oh-zay-tewd sew-pay-RYUHR*)
   *The government funds scholarships; thus, more students access higher education.*
-* **de ce fait** (/də sə fɛ/) — *as a result / thereby*:  
+* **de ce fait** (/də sə fɛ/ — (duh suh FEH)) — *as a result / thereby*:  
   * **Les taux d'intérêt ont baissé ; de ce fait, les investissements immobiliers reprennent.**
-  /le to d‿ɛ̃.te.ʁɛ ɔ̃ bɛ.se ; də sə fɛ, le.z‿ɛ̃.vɛs.tis.mɑ̃ i.mɔ.bi.lje ʁə.pʁɛn/
+  /le to d‿ɛ̃.te.ʁɛ ɔ̃ bɛ.se ; də sə fɛ, le.z‿ɛ̃.vɛs.tis.mɑ̃ i.mɔ.bi.lje ʁə.pʁɛn/ (*lay TOH dehn-tay-REH ohn beh-SAY ; duh suh FEH, lay-zehn-vehs-tees-MAHN ee-moh-bee-LYAY ruh-PREHN*)
   *Interest rates decreased; as a result, real estate investment is resuming.*
 
 ---
@@ -140,22 +140,22 @@ CONCESSION STRUCTURES ┼─── Concession Conjunctions: bien que (+ SUBJONCT
 #### 1. Concession Adverbs (*Néanmoins, Toutefois, Cependant*)
 These connectors signal that an unexpected result occurs despite an acknowledged obstacle:
 * **Le coût de cette transition énergétique est élevé ; néanmoins, elle s'avère indispensable pour l'avenir.**
-  /lə ku də sɛt tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik ɛ t‿ɛl.ve ; ne.ɑ̃.mwɛ̃, ɛl s‿a.vɛʁ ɛ̃.dis.pɑ̃.sabl puʁ l‿av.niʁ/
+  /lə ku də sɛt tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik ɛ t‿ɛl.ve ; ne.ɑ̃.mwɛ̃, ɛl s‿a.vɛʁ ɛ̃.dis.pɑ̃.sabl puʁ l‿av.niʁ/ (*luh KOO duh seht trahn-zee-SYOHN ay-nehr-zhay-TEEK eh tehl-VAY ; nay-ahn-MWEN, ehl sah-VEHR ehn-dees-pahn-SAH-bluh poor lahv-NEER*)
   *The cost of this energy transition is high; nevertheless, it proves indispensable for the future.*
 * **Les négociations ont été tendues ; toutefois, un compromis a été trouvé.**
-  /le ne.gɔ.sja.sjɔ̃ ɔ̃.t‿e.te tɑ̃.dy ; tu.tə.fwa, œ̃ kɔ̃.pʁɔ.mi a e.te tʁu.ve/
+  /le ne.gɔ.sja.sjɔ̃ ɔ̃.t‿e.te tɑ̃.dy ; tu.tə.fwa, œ̃ kɔ̃.pʁɔ.mi a e.te tʁu.ve/ (*lay nay-goh-syah-SYOHN ohn-tay-TAY tahn-DEW ; toot-FWAH, uhn kohn-proh-MEE ah ay-TAY troo-VAY*)
   *Negotiations were tense; however, a compromise was found.*
 
 #### 2. Subordinating Conjunctions: Bien que (+ Subjonctif)
 Whenever you use **bien que** or **quoique**, the verb in the subordinate clause **must be in the subjunctive mood**:
 * **Bien que les ressources budgétaires soient** (subjonctif) **limitées, l'hôpital maintient ses services d'urgence.**
-  /bjɛ̃ kə le ʁə.suʁs byd.ʒe.tɛʁ swa li.mi.te, l‿o.pi.tal mɛ̃.tjɛ̃ se sɛʁ.vis d‿yʁ.ʒɑ̃s/
+  /bjɛ̃ kə le ʁə.suʁs byd.ʒe.tɛʁ swa li.mi.te, l‿o.pi.tal mɛ̃.tjɛ̃ se sɛʁ.vis d‿yʁ.ʒɑ̃s/ (*byen kuh lay ruh-SOORS bewd-zhay-TEHR swah lee-mee-TAY, loh-pee-TAHL mehn-TYEHN say sehr-VEESS dew-zHAHNS*)
   *Although budgetary resources are limited, the hospital maintains its emergency services.*
 
 #### 3. Contrast: En revanche vs Par contre
-* **en revanche** (/ɑ̃ ʁə.vɑ̃ʃ/) — *on the other hand / in contrast* (standard, polished French):  
+* **en revanche** (/ɑ̃ ʁə.vɑ̃ʃ/ — (ahn ruh-VAHNSH)) — *on the other hand / in contrast* (standard, polished French):  
   * *L'apprentissage en ligne offre une grande flexibilité ; **en revanche**, il peut favoriser l'isolement.*
-* **par contre** (/paʁ kɔ̃tʁ/) — Very common in spoken French and, according to the OQLF, fully correct in writing too. Some purists still prefer *en revanche*, so alternating the two simply helps you vary your style.
+* **par contre** (/paʁ kɔ̃tʁ/ — (pahr KOHNT-ruh)) — Very common in spoken French and, according to the OQLF, fully correct in writing too. Some purists still prefer *en revanche*, so alternating the two simply helps you vary your style.
 
 ---
 
@@ -163,17 +163,18 @@ Whenever you use **bien que** or **quoique**, the verb in the subordinate clause
 
 #### 1. En effet versus En fait
 This is the most notorious false cognate in French discourse:
-* **en effet** (/ɑ̃.n‿e.fɛ/) = *indeed / because*. It **confirms and explains** a preceding assertion:  
+* **en effet** (/ɑ̃.n‿e.fɛ/ — (ahn-nay-FEH)) = *indeed / because*. It **confirms and explains** a preceding assertion:  
   * *« La demande est très forte. En effet, plus de mille candidats ont postulé. »*  
     (It confirms the strong demand with proof).
-* **en fait** (/ɑ̃ fɛt/) = *actually / as a matter of fact*. It **corrects, rectifies, or contradicts** an initial assumption:  
+* **en fait** (/ɑ̃ fɛt/ — (ahn FEHT)) = *actually / as a matter of fact*. It **corrects, rectifies, or contradicts** an initial assumption:  
   * *« On pensait qu'il était absent ; en fait, il travaillait à domicile. »*  
     (It contradicts the belief that he was absent).
 
 #### 2. Autrement dit and En d'autres termes
 Used to clarify or restate a dense concept in simpler terms:
 * **Le gouvernement applique une politique d'austérité ; autrement dit, les dépenses publiques seront réduites.**
-  /lə gu.vɛʁ.nə.mɑ̃ a.plik yn pɔ.li.tik d‿os.te.ʁi.te ; o.tʁə.mɑ̃ di, le de.pɑ̃s py.blik sə.ʁɔ̃ ʁe.dɥit/
+  /lə gu.vɛʁ.nə.mɑ̃ a.plik yn pɔ.li.tik d‿os.te.ʁi.te ; o.tʁə.mɑ̃ di, le de.pɑ̃s py.blik sə.ʁɔ̃ ʁe.dɥit/ (*luh goo-vehr-nuh-MAHN ah-PLEEK ewn poh-lee-TEEK dohs-tay-ree-TAY ; oh-truh-MAHN DEE, lay day-PAHNS pew-BLEEK suh-ROHN ray-DWEET*)
+  *The government is applying an austerity policy; in other words, public spending will be reduced.*
   *The government is applying an austerity policy; in other words, public spending will be reduced.*
 
 ---
