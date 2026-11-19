@@ -174,13 +174,13 @@ When a word ends with a vowel sound and the next word begins with a vowel sound,
 #### 3. Les Liaisons Obligatoires en Discours Formel
 In C1 debate, failing to make mandatory liaisons makes your speech sound uneducated; making forbidden liaisons makes it sound hyper-pedantic or incorrect.
 
-| Context | Written French | Phonetic Realization (IPA) | Status |
-| :--- | :--- | :--- | :--- |
-| **Article / Determiner + Noun** | *Les experts* | [le.z‿ɛks.pɛʁ] | **Mandatory** |
-| **Pronoun + Verb** | *Ils ont affirmé* | [il.z‿ɔ̃.(t‿)a.fiʁ.me] | **Mandatory** for *ils‿ont*; *ont‿affirmé* is **optional** (more formal) |
-| **Monosyllabic Preposition + Noun** | *Dans un instant* | [dɑ̃.z‿œ̃.n‿ɛ̃s.tɑ̃] | **Mandatory** |
-| **After the Conjunction "Et"** | *Un père et un fils* | [œ̃ pɛʁ e œ̃ fis] *(Zero liaison!)* | **FORBIDDEN (Never link "et")** |
-| **Singular Noun + Following Adjective**| *Un projet ambitieux* | [œ̃ pʁɔ.ʒɛ ɑ̃.bi.sjø] *(No [t])* | **Forbidden in standard speech** |
+| Context | Written French | Phonetic Realization (IPA) | Phonetic Respelling | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Article / Determiner + Noun** | *Les experts* | [le.z‿ɛks.pɛʁ] | (lay-zehk-SPEHR) | **Mandatory** |
+| **Pronoun + Verb** | *Ils ont affirmé* | [il.z‿ɔ̃.(t‿)a.fiʁ.me] | (eel-zohn-tah-feer-MAY) | **Mandatory** for *ils‿ont*; *ont‿affirmé* is **optional** (more formal) |
+| **Monosyllabic Preposition + Noun** | *Dans un instant* | [dɑ̃.z‿œ̃.n‿ɛ̃s.tɑ̃] | (dahn-zuhn-nehn-STAHN) | **Mandatory** |
+| **After the Conjunction "Et"** | *Un père et un fils* | [œ̃ pɛʁ e œ̃ fis] *(Zero liaison!)* | (uhn pehr ay uhn FEESS) | **FORBIDDEN (Never link "et")** |
+| **Singular Noun + Following Adjective**| *Un projet ambitieux* | [œ̃ pʁɔ.ʒɛ ɑ̃.bi.sjø] *(No [t])* | (uhn proh-ZHEH ahn-bee-SYEUH) | **Forbidden in standard speech** |
 
 ---
 
@@ -218,11 +218,11 @@ If you do this in French, you distort the entire metric rhythm. In French, orato
 #### Authentic Debate Demonstrations
 - Emphatic Indignation:  
   **« Cette décision est purement et simplement inacceptable ! »**  
-  [sɛt de-si-zjɔ̃ ɛ pyʁ-mɑ̃ e sɑ̃-plə-mɑ̃ **i-nak-sɛp-TABL** !]  
+  [sɛt de-si-zjɔ̃ ɛ pyʁ-mɑ̃ e sɑ̃-plə-mɑ̃ **i-nak-sɛp-TABL** !] (seht day-see-ZYOHN eh pewr-MAHN ay sahn-pluh-MAHN ee-nahk-sehp-TAH-bluh !)  
   *(Initial [p] of purement and [s] of simplement are crisp and incisive; final [tabl] is elongated).*
 - Intellectual Insistence:  
   **« Il est absolument capital de préserver ce consensus social. »**  
-  [il ɛt‿ab-sɔ-ly-mɑ̃ **ka-pi-TAL** də pʁe-zɛʁ-ve sə kɔ̃-sɑ̃-sys **sɔ-SJAL**.]
+  [il ɛt‿ab-sɔ-ly-mɑ̃ **ka-pi-TAL** də pʁe-zɛʁ-ve sə kɔ̃-sɑ̃-sys **sɔ-SJAL**.] (eel eh-tahb-soh-lew-MAHN kah-pee-TAHL duh pray-zehr-VAY suh kohn-sehn-SEWS soh-SYAHL.)
 
 ---
 
@@ -261,14 +261,14 @@ Segment each complex sentence below into balanced rhythmic groups using slashes 
 #### Drill 2: Eliminating English Lexical Stress
 Read the following words aloud. Avoid the temptation to stress the syllables capitalized in the "Incorrect English Trap" column. Instead, pronounce every syllable with equal duration and elongate ONLY the final syllable.
 
-| French Word | Incorrect English Interference | Correct French Syllabic Cadence (IPA) |
-| :--- | :--- | :--- |
-| **Gouvernement** | *« GOU-ver-ne-ment »* | [ɡu - vɛʁ - nə - **mɑ̃**] |
-| **Économique** | *« E-co-NO-mique »* | [e - kɔ - nɔ - **mik**] |
-| **Développement** | *« de-VE-lop-ment »* | [de - vlɔp - **mɑ̃**] |
-| **Responsabilité** | *« res-pon-sa-BI-li-té »* | [ʁɛs - pɔ̃ - sa - bi - li - **te**] |
-| **Indépendant** | *« in-de-PEN-dant »* | [ɛ̃ - de - pɑ̃ - **dɑ̃**] |
-| **Technologique** | *« tech-no-LO-gique »* | [tɛk - nɔ - lɔ - **ʒik**] |
+| French Word | Incorrect English Interference | Correct French Syllabic Cadence (IPA) | Phonetic Respelling |
+| :--- | :--- | :--- | :--- |
+| **Gouvernement** | *« GOU-ver-ne-ment »* | [ɡu - vɛʁ - nə - **mɑ̃**] | (goo - vehr - nuh - MAHN) |
+| **Économique** | *« E-co-NO-mique »* | [e - kɔ - nɔ - **mik**] | (ay - koh - noh - MEEK) |
+| **Développement** | *« de-VE-lop-ment »* | [de - vlɔp - **mɑ̃**] | (day - vlohhp - MAHN) |
+| **Responsabilité** | *« res-pon-sa-BI-li-té »* | [ʁɛs - pɔ̃ - sa - bi - li - **te**] | (rehs - pohn - sah - bee - lee - TAY) |
+| **Indépendant** | *« in-de-PEN-dant »* | [ɛ̃ - de - pɑ̃ - **dɑ̃**] | (ehn - day - pahn - DAHN) |
+| **Technologique** | *« tech-no-LO-gique »* | [tɛk - nɔ - lɔ - **ʒik**] | (tehk - noh - loh - ZHEEK) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
