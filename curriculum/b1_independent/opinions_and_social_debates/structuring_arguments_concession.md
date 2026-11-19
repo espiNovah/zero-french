@@ -51,12 +51,12 @@ When introducing a subordinate clause of concession that highlights an acknowled
 
 $$\mathbf{\text{Bien que}} / \mathbf{\text{Quoique}} + \mathbf{\text{Sujet}} + \mathbf{\text{Verbe au subjonctif}} + \mathbf{\text{, proposition principale}}$$
 
-| Subordinate Concession Clause | Main Result Clause | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Bien qu'il fasse très froid,** | **nous faisons une randonnée.** | /bjɛ̃ k‿il fas tʁɛ fʁwa nu fə.zɔ̃ yn ʁɑ̃.dɔ.ne/ | *Even though it is very cold, we are going hiking.* |
-| **Bien que ce logement soit cher,** | **son emplacement est parfait.** | /bjɛ̃ kə sə lɔʒ.mɑ̃ swa ʃɛʁ sɔ̃ n‿ɑ̃.plas.mɑ̃ ɛ paʁ.fɛ/ | *Although this apartment is expensive, its location is perfect.* |
-| **Quoiqu'elle ait peu d'expérience,** | **elle a obtenu le poste.** | /kwa.k‿ɛl ɛ pø d‿ɛks.pe.ʁjɑ̃s ɛl a ɔb.tə.ny lə pɔst/ | *Although she has little experience, she got the job.* |
-| **Bien que nous soyons fatigués,** | **nous finirons ce rapport.** | /bjɛ̃ kə nu swa.jɔ̃ fa.ti.ɡe nu fi.ni.ʁɔ̃ sə ʁa.pɔʁ/ | *Although we are tired, we will finish this report.* |
+| Subordinate Concession Clause | Main Result Clause | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bien qu'il fasse très froid,** | **nous faisons une randonnée.** | /bjɛ̃ k‿il fas tʁɛ fʁwa nu fə.zɔ̃ yn ʁɑ̃.dɔ.ne/ | (byen keel FAHSS treh FRWAH, noo fuh-ZOHN ewn rahn-doh-NAY) | *Even though it is very cold, we are going hiking.* |
+| **Bien que ce logement soit cher,** | **son emplacement est parfait.** | /bjɛ̃ kə sə lɔʒ.mɑ̃ swa ʃɛʁ sɔ̃ n‿ɑ̃.plas.mɑ̃ ɛ paʁ.fɛ/ | (byen kuh suh lohzh-MAHN swah SHEHR, sohn nahn-plahs-MAHN eh pahr-FEH) | *Although this apartment is expensive, its location is perfect.* |
+| **Quoiqu'elle ait peu d'expérience,** | **elle a obtenu le poste.** | /kwa.k‿ɛl ɛ pø d‿ɛks.pe.ʁjɑ̃s ɛl a ɔb.tə.ny lə pɔst/ | (kwah-KEHL eh puh dehks-pay-RYAHNS, ehl ah ohb-tuh-NEW luh POHST) | *Although she has little experience, she got the job.* |
+| **Bien que nous soyons fatigués,** | **nous finirons ce rapport.** | /bjɛ̃ kə nu swa.jɔ̃ fa.ti.ɡe nu fi.ni.ʁɔ̃ sə ʁa.pɔʁ/ | (byen kuh noo swah-YOHN fah-tee-GAY, noo fee-nee-ROHN suh rah-POR) | *Although we are tired, we will finish this report.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -85,7 +85,7 @@ $$\mathbf{\text{Même si}} + \mathbf{\text{Indicatif}}$$
 
 - **Même si + Présent** :  
   *« **Même si cette formation est** exigeante, elle ouvre d'immenses opportunités. »*  
-  (/mɛm si sɛt fɔʁ.ma.sjɔ̃ ɛ.t‿ɛɡ.zi.ʒɑ̃t ɛl uvʁ də l‿i.mɑ̃s ɔ.pɔʁ.ty.ni.te/ — Indicatif présent *est*, not *soit*!).
+  (/mɛm si sɛt fɔʁ.ma.sjɔ̃ ɛ.t‿ɛɡ.zi.ʒɑ̃t ɛl uvʁ də l‿i.mɑ̃s ɔ.pɔʁ.ty.ni.te/ — *mehm see seht for-mah-SYOHN eh-tehg-zee-ZHAHNT, ehl OO-vruh duh lee-MAHNS oh-por-tew-nee-TAY* — Indicatif présent *est*, not *soit*!).
 - **Même si + Imparfait** :  
   *« **Même s'il neigeait** abondamment, le festival d'hiver a attiré des milliers de visiteurs. »*  
   (*Even though it was snowing heavily, the winter festival drew thousands of visitors.*)
@@ -107,11 +107,11 @@ French possesses an extraordinarily expressive, authentic verbal idiom to descri
 
 $$\mathbf{\text{Sujet}} + \mathbf{\text{avoir (conjugué au présent / passé)}} + \mathbf{\text{beau}} + \mathbf{\text{Infinitif}}$$
 
-| Sentence with Avoir beau | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- |
-| **J'ai beau chercher, je ne trouve pas mes clés.** | /ʒ‿e bo ʃɛʁ.ʃe ʒə nə tʁuv pa me kle/ | *No matter how much I search, I cannot find my keys.* |
-| **Il a beau faire des efforts, il n'y arrive pas.** | /il a bo fɛʁ de z‿e.fɔʁ il n‿i a.ʁiv pa/ | *No matter how much effort he makes, he doesn't succeed.* |
-| **Nous avions beau courir, le bus était déjà parti.** | /nu z‿a.vjɔ̃ bo ku.ʁiʁ lə bys e.tɛ de.ʒa paʁ.ti/ | *No matter how fast we ran, the bus had already left.* |
+| Sentence with Avoir beau | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- |
+| **J'ai beau chercher, je ne trouve pas mes clés.** | /ʒ‿e bo ʃɛʁ.ʃe ʒə nə tʁuv pa me kle/ | (zhay boh shehr-SHAY, zhuh nuh TROOV pah may KLAY) | *No matter how much I search, I cannot find my keys.* |
+| **Il a beau faire des efforts, il n'y arrive pas.** | /il a bo fɛʁ de z‿e.fɔʁ il n‿i a.ʁiv pa/ | (eel ah boh fehr day zeh-FOR, eel nyah-REEV pah) | *No matter how much effort he makes, he doesn't succeed.* |
+| **Nous avions beau courir, le bus était déjà parti.** | /nu z‿a.vjɔ̃ bo ku.ʁiʁ lə bys e.tɛ de.ʒa paʁ.ti/ | (noo-zah-VYOHN boh koo-REER, luh BEWS ay-TEH day-ZHAH pahr-TEE) | *No matter how fast we ran, the bus had already left.* |
 
 ### Adverbial articulators: toutefois, neanmoins, en revanche, par contre
 
@@ -141,7 +141,7 @@ In societal argumentation, the most persuasive rhetorical structure is the **bip
 $$\mathbf{\text{Certes [Argument de la partie adverse], mais / toutefois [Votre contre-argument décisif]}}$$
 
 - *« **Certes**, l'intelligence artificielle peut automatiser des tâches répétitives, **mais** elle ne pourra jamais remplacer l'empathie et le discernement humain. »*  
-  (/sɛʁt l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.ti.fi.sjɛl pø o.tɔ.ma.ti.ze de taʃ ʁe.pe.ti.tiv mɛ ɛl nə pu.ʁa ʒa.mɛ ʁɑ̃.pla.se l‿ɑ̃.pa.ti/)
+  (/sɛʁt l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.ti.fi.sjɛl pø o.tɔ.ma.ti.ze de taʃ ʁe.pe.ti.tiv mɛ ɛl nə pu.ʁa ʒa.mɛ ʁɑ̃.pla.se l‿ɑ̃.pa.ti/ — *sehrt lehn-tay-lee-ZHAHNS ahr-tee-fee-SYEHL puh oh-toh-mah-tee-ZAY day TAHSH ray-pay-tee-TEEV, meh ehl nuh poo-RAH zhah-MEH rahn-plah-SAY lahn-pah-TEE*)
 - *« **Certes**, la création de pistes cyclables réduit temporairement les places de stationnement commercial, **toutefois** elle favorise la vitalité piétonne et réduit les émissions polluantes à long terme. »*
 
 #### Blueprint for a 3-Step Societal Synthesis (TCF Task 3)
