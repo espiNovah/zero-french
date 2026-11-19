@@ -26,18 +26,18 @@ This section contains a general overview of topics that you will learn in this l
 
 Navigating a French newspaper—whether in print or online—requires understanding its standardized typographic hierarchy:
 
-| Press Terminology | IPA Pronunciation | English Definition | Strategic Reading Function |
-| :--- | :--- | :--- | :--- |
-| **La une** | /la yn/ | The front page | The cover page displaying major national and global breaking stories. |
-| **La manchette** | /la mɑ̃.ʃɛt/ | The headline banner | Large-font title at the very top of the front page summarizing the day's lead event. |
-| **Le titre** | /lə titʁ/ | The article headline | Concise summary of the specific article designed to catch the reader's eye. |
-| **Le sous-titre** | /lə su.titʁ/ | The subheadline | Provides complementary details or framing directly below the main title. |
-| **Le chapô (chapeau)** | /lə ʃa.po/ | The lead paragraph summary | Short italicized or bold introductory text (2–3 sentences) summarizing the core thesis. |
-| **L'intertitre (m.)** | /l‿ɛ̃.tɛʁ.titʁ/ | Subheading / Section header | Short heading dividing long body copy to signpost thematic subtopics. |
-| **L'éditorial (m.)** | /l‿e.di.tɔ.ʁjal/ | The editorial / Opinion column | Thought leadership essay reflecting the official ideological stance of the editor-in-chief. |
-| **Une rubrique** | /yn ʁy.bʁik/ | A newspaper section / beat | Categorized theme: *Politique, Économie, Société, Culture, Sports, Faits divers*. |
-| **Un fait divers** | /œ̃ fɛ di.vɛʁ/ | A local news item / Human interest incident | Minor accident, local crime, or odd occurrence not connected to major politics. |
-| **Une dépêche** | /yn de.pɛʃ/ | A wire news dispatch | Rapid, neutral report issued by a wire service (AFP, Reuters, La Presse Canadienne). |
+| Press Terminology | IPA Pronunciation | Phonetic Respelling | English Definition | Strategic Reading Function |
+| :--- | :--- | :--- | :--- | :--- |
+| **La une** | /la yn/ | (lah EWN) | The front page | The cover page displaying major national and global breaking stories. |
+| **La manchette** | /la mɑ̃.ʃɛt/ | (lah mahn-SHEHT) | The headline banner | Large-font title at the very top of the front page summarizing the day's lead event. |
+| **Le titre** | /lə titʁ/ | (luh TEE-truh) | The article headline | Concise summary of the specific article designed to catch the reader's eye. |
+| **Le sous-titre** | /lə su.titʁ/ | (luh soo-TEE-truh) | The subheadline | Provides complementary details or framing directly below the main title. |
+| **Le chapô (chapeau)** | /lə ʃa.po/ | (luh shah-POH) | The lead paragraph summary | Short italicized or bold introductory text (2–3 sentences) summarizing the core thesis. |
+| **L'intertitre (m.)** | /l‿ɛ̃.tɛʁ.titʁ/ | (lehn-tehr-TEE-truh) | Subheading / Section header | Short heading dividing long body copy to signpost thematic subtopics. |
+| **L'éditorial (m.)** | /l‿e.di.tɔ.ʁjal/ | (lay-dee-toh-RYAHL) | The editorial / Opinion column | Thought leadership essay reflecting the official ideological stance of the editor-in-chief. |
+| **Une rubrique** | /yn ʁy.bʁik/ | (ewn rew-BREEK) | A newspaper section / beat | Categorized theme: *Politique, Économie, Société, Culture, Sports, Faits divers*. |
+| **Un fait divers** | /œ̃ fɛ di.vɛʁ/ | (uhn feh dee-VEHR) | A local news item / Human interest incident | Minor accident, local crime, or odd occurrence not connected to major politics. |
+| **Une dépêche** | /yn de.pɛʃ/ | (ewn day-PEHSH) | A wire news dispatch | Rapid, neutral report issued by a wire service (AFP, Reuters, La Presse Canadienne). |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -55,14 +55,14 @@ Headlines must convey maximum information in minimum space. To achieve this dens
 
 $$\text{Phrase verbale ordinaire} \quad \xrightarrow{\text{Nominalisation}} \quad \text{Titre journalistique}$$
 
-| Standard Verb Clause | Press Headline Nominalization | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| *Le chômage a augmenté en octobre.* | **Hausse du chômage en octobre** | /os dy ʃo.maʒ ɑ̃ n‿ɔk.tɔbʁ/ | *Rise in unemployment in October* |
-| *Les tarifs de transport vont baisser.* | **Baisse des tarifs de transport** | /bɛs de ta.ʁif də tʁɑ̃s.pɔʁ/ | *Drop in public transit fares* |
-| *La loi sur le logement a été adoptée.* | **Adoption de la loi sur le logement** | /a.dɔp.sjɔ̃ də la lwa syʁ lə lɔʒ.mɑ̃/ | *Adoption of housing bill* |
-| *L'école a été fermée après la tempête.* | **Fermeture de l'école après la tempête** | /fɛʁ.mə.tyʁ də l‿e.kɔl a.pʁɛ la tɑ̃.pɛt/ | *School closure after storm* |
-| *Le gouvernement a refusé la proposition.* | **Refus du gouvernement** | /ʁə.fy dy ɡu.vɛʁ.nə.mɑ̃/ | *Government says no (to the proposal)* |
-| *Le premier ministre se retire de la vie politique.* | **Retrait du premier ministre** | /ʁə.tʁɛ dy pʁə.mje mi.nistʁ/ | *Prime minister steps down* |
+| Standard Verb Clause | Press Headline Nominalization | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| *Le chômage a augmenté en octobre.* | **Hausse du chômage en octobre** | /os dy ʃo.maʒ ɑ̃ n‿ɔk.tɔbʁ/ | (OHSS dew shoh-MAHZH ahn nohk-TOH-bruh) | *Rise in unemployment in October* |
+| *Les tarifs de transport vont baisser.* | **Baisse des tarifs de transport** | /bɛs de ta.ʁif də tʁɑ̃s.pɔʁ/ | (BEHSS day tah-REEF duh trahns-POR) | *Drop in public transit fares* |
+| *La loi sur le logement a été adoptée.* | **Adoption de la loi sur le logement** | /a.dɔp.sjɔ̃ də la lwa syʁ lə lɔʒ.mɑ̃/ | (ah-dohp-SYOHN duh lah LWAH sewr luh lohzh-MAHN) | *Adoption of housing bill* |
+| *L'école a été fermée après la tempête.* | **Fermeture de l'école après la tempête** | /fɛʁ.mə.tyʁ də l‿e.kɔl a.pʁɛ la tɑ̃.pɛt/ | (fehr-muh-TEWR duh lay-KOHL ah-PREH lah tahn-PEHT) | *School closure after storm* |
+| *Le gouvernement a refusé la proposition.* | **Refus du gouvernement** | /ʁə.fy dy ɡu.vɛʁ.nə.mɑ̃/ | (ruh-FEW dew goo-vehr-nuh-MAHN) | *Government says no (to the proposal)* |
+| *Le premier ministre se retire de la vie politique.* | **Retrait du premier ministre** | /ʁə.tʁɛ dy pʁə.mje mi.nistʁ/ | (ruh-TREH dew pruh-MYAY mee-NEEST-ruh) | *Prime minister steps down* |
 
 #### 2. Essential noun suffixes for decoding headlines
 
