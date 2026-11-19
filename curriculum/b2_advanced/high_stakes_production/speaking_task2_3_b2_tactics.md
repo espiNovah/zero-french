@@ -70,17 +70,17 @@ A **B2 candidate negotiates assertively**:
 > **Dialogue de négociation B2 :**  
 > **Examinateur :** *« Désolé, nous n'avons plus de créneau disponible en soirée le vendredi. »*  
 > **Candidat :** *« Je comprends parfaitement cette contrainte de calendrier. Toutefois, dans la mesure où notre groupe est flexible, **serait-il envisageable de** reporter la session au samedi matin de bonne heure, quitte à ce que nous réservions deux semaines à l'avance pour vous garantir notre présence ? »*  
-> /ʒə kɔ̃.pʁɑ̃ paʁ.fɛt.mɑ̃ sɛt kɔ̃.tʁɛ̃t də ka.lɑ̃.dʁi.je. tu.tə.fwa, dɑ̃ la mə.zyʁ u nɔ.tʁə gʁup ɛ flɛk.sibl, sə.ʁɛ.t‿il ɑ̃.vi.za.ʒabl də ʁə.pɔʁ.te la sɛ.sjɔ̃ o sam.dzi ma.tɛ̃ də bɔn œʁ/
+> /ʒə kɔ̃.pʁɑ̃ paʁ.fɛt.mɑ̃ sɛt kɔ̃.tʁɛ̃t də ka.lɑ̃.dʁi.je. tu.tə.fwa, dɑ̃ la mə.zyʁ u nɔ.tʁə gʁup ɛ flɛk.sibl, sə.ʁɛ.t‿il ɑ̃.vi.za.ʒabl də ʁə.pɔʁ.te la sɛ.sjɔ̃ o sam.dzi ma.tɛ̃ də bɔn œʁ/ (*zhuh kohn-prahn pahr-feht-MAHN seht kohn-TREHNT duh kah-lahn-dree-YAY. too-tuh-FWAH, dahn lah muh-ZEWR oo noh-truh groop eh flehk-SEE-bluh, suh-reh-teel ahn-vee-zah-ZHAH-bluh duh ruh-pohr-TAY lah say-SYOHN oh sahm-dzee mah-TEHN duh buhn UHR?*)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
 In Canadian TCF testing centers (e.g., Montreal, Quebec City, Gatineau), examiners frequently frame Task 2 roleplays around North American civic and commercial realities:
-- *la fin de semaine* **(QC)**: The standard term in Canada for weekend (*le week-end* in France).
-- *le stationnement* **(QC)**: Parking or parking lot (*le parking* in France).
-- *le courriel* **(QC)**: Email or electronic message (*le mail* in France).
-- *magasiner* **(QC)**: Shopping / browsing goods (*faire du shopping / du lèche-vitrine* in France; *faire les courses* refers specifically to groceries/errands).
+- *la fin de semaine* **(QC)** — /la fɛ̃ də s(ə).mɛn/ (*lah fehn duh SMEHN*): The standard term in Canada for weekend (*le week-end* in France).
+- *le stationnement* **(QC)** — /lə sta.sjɔn.mɑ̃/ (*luh stah-syohn-MAHN*): Parking or parking lot (*le parking* in France).
+- *le courriel* **(QC)** — /lə ku.ʁjɛl/ (*luh koor-YEHL*): Email or electronic message (*le mail* in France).
+- *magasiner* **(QC)** — /ma.ga.zi.ne/ (*mah-gah-zee-NAY*): Shopping / browsing goods (*faire du shopping / du lèche-vitrine* in France; *faire les courses* refers specifically to groceries/errands).
 - *Tutoiement vs Vouvoiement*: While everyday Québec workplace culture shifts to *tutoiement* much earlier than in France, in **TCF Speaking Task 2** you must **strictly maintain formal vouvoiement** with the examiner (who roleplays as a store manager, landlord, or coordinator), unless the prompt card explicitly tells you to address a friend or peer.
 
 </div>
@@ -116,10 +116,10 @@ In Task 3, the examiner reads an open-ended question on a controversial public i
 
 #### High-Register Rhetorical Fillers
 When you need 3 seconds to assemble your next complex thought, **never say "euh" or fall silent**. Use high-register discursive stabilizers:
-- *« En effet, force est de constater que la réalité s'avère beaucoup plus complexe... »*
-- *« Si l'on pousse l'analyse un cran plus loin, il apparaît indéniable que... »*
-- *« D'aucuns pourraient objecter, non sans raison d'ailleurs, que... »*
-- *« À bien y regarder, l'enjeu ne réside pas tant dans... que dans... »*
+- *« En effet, force est de constater que la réalité s'avère beaucoup plus complexe... »* — /ɑ̃.n‿e.fɛ fɔʁs ɛ də kɔ̃s.ta.te kə la ʁe.a.li.te s‿a.vɛʁ bo.ku ply kɔ̃.plɛks/ (*ahn-nay-FEH, fohrs eh duh kohns-tah-TAY kuh lah ray-ah-lee-TAY sah-vehr boh-koo plew kohn-PLEHKS*)
+- *« Si l'on pousse l'analyse un cran plus loin, il apparaît indéniable que... »* — /si l‿ɔ̃ pus l‿a.na.liz œ̃ kʁɑ̃ ply lwɛ̃ il a.pa.ʁɛ ɛ̃.de.njabl kə/ (*see lohn poos lah-nah-LEEZ uhn krahn plew LWEHN, eel ah-pah-reh ehn-day-NYAH-bluh kuh*)
+- *« D'aucuns pourraient objecter, non sans raison d'ailleurs, que... »* — /d‿o.kœ̃ pu.ʁɛ t‿ɔb.ʒɛk.te nɔ̃ sɑ̃ ʁɛ.zɔ̃ d‿a.jœʁ kə/ (*doh-kuhn poor-eht-ohb-zhehk-TAY, nohn sahn ray-ZOHN dah-YUHR, kuh*)
+- *« À bien y regarder, l'enjeu ne réside pas tant dans... que dans... »* — /a bjɛ̃.n‿i ʁə.gaʁ.de l‿ɑ̃.ʒø nə ʁe.zid pa tɑ̃ dɑ̃ kə dɑ̃/ (*ah byen-nee ruh-gahr-DAY, lahn-ZHEUH nuh ray-zeed pah tahn dahn... kuh dahn...*)
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
