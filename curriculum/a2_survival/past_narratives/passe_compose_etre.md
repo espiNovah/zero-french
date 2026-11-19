@@ -32,57 +32,57 @@ In English, compound tenses always use the verb "to have" (*I have arrived*, *I 
 
 Let us review the present tense of the auxiliary **être**, which serves as the grammatical backbone for these verbs:
 
-| Subject Pronoun | Auxiliary (Être) | IPA Pronunciation | Example with *partir* | Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **Je / J'** | **suis** | /sɥi/ | **Je suis parti(e).** | I left / I have left. |
-| **Tu** | **es** | /ɛ/ | **Tu es parti(e).** | You left / You have left. |
-| **Il** | **est** | /ɛ/ | **Il est parti.** | He left / He has left. |
-| **Elle** | **est** | /ɛ/ | **Elle est partie.** | She left / She has left. |
-| **On** | **est** | /ɛ/ | **On est parti(s).** | We / One left. |
-| **Nous** | **sommes** | /sɔm/ | **Nous sommes parti(e)s.** | We left / We have left. |
-| **Vous** | **êtes** | /ɛt/ | **Vous êtes parti(e)(s).** | You left / You have left. |
-| **Ils** | **sont** | /sɔ̃/ | **Ils sont partis.** | They (m.) left / They have left. |
-| **Elles** | **sont** | /sɔ̃/ | **Elles sont parties.** | They (f.) left / They have left. |
+| Subject Pronoun | Auxiliary (Être) | IPA Pronunciation | Phonetic Respelling | Example with *partir* | Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Je / J'** | **suis** | /sɥi/ | (swee) | **Je suis parti(e).** | I left / I have left. |
+| **Tu** | **es** | /ɛ/ | (eh) | **Tu es parti(e).** | You left / You have left. |
+| **Il** | **est** | /ɛ/ | (eh) | **Il est parti.** | He left / He has left. |
+| **Elle** | **est** | /ɛ/ | (eh) | **Elle est partie.** | She left / She has left. |
+| **On** | **est** | /ɛ/ | (eh) | **On est parti(s).** | We / One left. |
+| **Nous** | **sommes** | /sɔm/ | (suhm) | **Nous sommes parti(e)s.** | We left / We have left. |
+| **Vous** | **êtes** | /ɛt/ | (eht) | **Vous êtes parti(e)(s).** | You left / You have left. |
+| **Ils** | **sont** | /sɔ̃/ | (sohn) | **Ils sont partis.** | They (m.) left / They have left. |
+| **Elles** | **sont** | /sɔ̃/ | (sohn) | **Elles sont parties.** | They (f.) left / They have left. |
 
 Notice the liaisons with auxiliary **être**:
-- **Vous‿êtes parti(e)s** (/vu.z‿ɛt paʁ.ti/) — mandatory liaison between pronoun *vous* and vowel *êtes* (/z/).
-- **Ils sont‿arrivés** (/il sɔ̃.t‿a.ʁi.ve/) — mandatory liaison between auxiliary *sont* and vowel *arrivés* (/t/).
-- **Elles sont‿arrivées** (/ɛl sɔ̃.t‿a.ʁi.ve/) — mandatory liaison between auxiliary *sont* and vowel *arrivées* (/t/).
+- **Vous‿êtes parti(e)s** (/vu.z‿ɛt paʁ.ti/ — *voo-zeht pahr-TEE*) — mandatory liaison between pronoun *vous* and vowel *êtes* (/z/).
+- **Ils sont‿arrivés** (/il sɔ̃.t‿a.ʁi.ve/ — *eel sohn-tah-ree-VAY*) — mandatory liaison between auxiliary *sont* and vowel *arrivés* (/t/).
+- **Elles sont‿arrivées** (/ɛl sɔ̃.t‿a.ʁi.ve/ — *ehl sohn-tah-ree-VAY*) — mandatory liaison between auxiliary *sont* and vowel *arrivées* (/t/).
 *(Note: There is no liaison in "Nous sommes partis" or "Ils sont partis" because "sommes" and "partis" begin with consonants).*
 
 ### Movement and change-of-state verbs: DR & MRS VANDERTRAMP
 
 To memorize the core movement and change-of-state verbs that take *être*, Francophone teachers throughout North America rely on the famous acronym **DR & MRS VANDERTRAMP**. Every letter corresponds to a verb:
 
-| Letter | Infinitive Verb | Past Participle & IPA | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **D** | **Devenir** | **devenu** (/də.vny/) | to become | *Il est devenu citoyen canadien.* |
-| **R** | **Revenir** | **revenu** (/ʁə.vny/) | to come back | *Elle est revenue de son voyage hier.* |
-| **&** | — | — | — | — |
-| **M** | **Monter** | **monté** (/mɔ̃.te/) | to go up / climb | *Nous sommes montés au sommet du mont Royal.* |
-| **R** | **Rester** | **resté** (/ʁɛs.te/) | to stay / remain | *Je suis resté à la maison toute la journée.* |
-| **S** | **Sortir** | **sorti** (/sɔʁ.ti/) | to go out / exit | *Ils sont sortis avec des amis hier soir.* |
-| **V** | **Venir** | **venu** (/vny/) | to come | *Mon ami est venu me visiter à Montréal.* |
-| **A** | **Aller** | **allé** (/a.le/) | to go | *Je suis allé à l'agence d'immigration.* |
-| **N** | **Naître** | **né** (/ne/) | to be born | *Elle est née en Ontario en 1995.* |
-| **D** | **Descendre** | **descendu** (/dɛ.sɑ̃.dy/) | to go down | *Nous sommes descendus du train à Toronto.* |
-| **E** | **Entrer** | **entré** (/ɑ̃.tʁe/) | to enter | *Le client est entré dans la banque.* |
-| **R** | **Rentrer** | **rentré** (/ʁɑ̃.tʁe/) | to return home | *À quelle heure es-tu rentré hier soir ?* |
-| **T** | **Tomber** | **tombé** (/tɔ̃.be/) | to fall | *La neige est tombée sur la ville.* |
-| **R** | **Retourner** | **retourné** (/ʁə.tuʁ.ne/) | to return / go back | *Ils sont retournés dans leur pays natal.* |
-| **A** | **Arriver** | **arrivé** (/a.ʁi.ve/) | to arrive | *L'avion est arrivé avec vingt minutes d'avance.* |
-| **M** | **Mourir** | **mort** (/mɔʁ/) | to die | *Le poète canadien est mort à l'âge de 90 ans.* |
-| **P** | **Partir** | **parti** (/paʁ.ti/) | to leave / depart | *Le train de banlieue est parti à l'heure.* |
+| Letter | Infinitive Verb | Past Participle & IPA | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **D** | **Devenir** | **devenu** (/də.vny/) | (duh-vuh-NEW) | to become | *Il est devenu citoyen canadien.* |
+| **R** | **Revenir** | **revenu** (/ʁə.vny/) | (ruh-vuh-NEW) | to come back | *Elle est revenue de son voyage hier.* |
+| **&** | — | — | — | — | — |
+| **M** | **Monter** | **monté** (/mɔ̃.te/) | (mohn-TAY) | to go up / climb | *Nous sommes montés au sommet du mont Royal.* |
+| **R** | **Rester** | **resté** (/ʁɛs.te/) | (rehs-TAY) | to stay / remain | *Je suis resté à la maison toute la journée.* |
+| **S** | **Sortir** | **sorti** (/sɔʁ.ti/) | (sohr-TEE) | to go out / exit | *Ils sont sortis avec des amis hier soir.* |
+| **V** | **Venir** | **venu** (/vny/) | (vuh-NEW) | to come | *Mon ami est venu me visiter à Montréal.* |
+| **A** | **Aller** | **allé** (/a.le/) | (ah-LAY) | to go | *Je suis allé à l'agence d'immigration.* |
+| **N** | **Naître** | **né** (/ne/) | (NAY) | to be born | *Elle est née en Ontario en 1995.* |
+| **D** | **Descendre** | **descendu** (/dɛ.sɑ̃.dy/) | (day-sahn-DEW) | to go down | *Nous sommes descendus du train à Toronto.* |
+| **E** | **Entrer** | **entré** (/ɑ̃.tʁe/) | (ahn-TRAY) | to enter | *Le client est entré dans la banque.* |
+| **R** | **Rentrer** | **rentré** (/ʁɑ̃.tʁe/) | (rahn-TRAY) | to return home | *À quelle heure es-tu rentré hier soir ?* |
+| **T** | **Tomber** | **tombé** (/tɔ̃.be/) | (tohm-BAY) | to fall | *La neige est tombée sur la ville.* |
+| **R** | **Retourner** | **retourné** (/ʁə.tuʁ.ne/) | (ruh-toor-NAY) | to return / go back | *Ils sont retournés dans leur pays natal.* |
+| **A** | **Arriver** | **arrivé** (/a.ʁi.ve/) | (ah-ree-VAY) | to arrive | *L'avion est arrivé avec vingt minutes d'avance.* |
+| **M** | **Mourir** | **mort** (/mɔʁ/) | (MOHR) | to die | *Le poète canadien est mort à l'âge de 90 ans.* |
+| **P** | **Partir** | **parti** (/paʁ.ti/) | (pahr-TEE) | to leave / depart | *Le train de banlieue est parti à l'heure.* |
 
-Notice that the list also includes **passer** (/pa.se/) when it means to pass by physically (*Je suis passé devant la mairie*).
+Notice that the list also includes **passer** (/pa.se/ — *pah-SAY*) when it means to pass by physically (*Je suis passé devant la mairie*).
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Meaning Trap: "Rester" Does NOT Mean "To Rest"
 
-The verb **rester** (/ʁɛs.te/) is a classic false friend (*faux ami*). It does **not** mean "to rest" (which is *se reposer* in French). **Rester** means **to stay** or **to remain**:
-- **Je suis resté au bureau** = *I stayed at the office.*
-- **Je me suis reposé au bureau** = *I rested at the office.*
+The verb **rester** (/ʁɛs.te/ — *rehs-TAY*) is a classic false friend (*faux ami*). It does **not** mean "to rest" (which is *se reposer* in French). **Rester** means **to stay** or **to remain**:
+- **Je suis resté au bureau** (/ʒə sɥi ʁɛs.te o by.ʁo/ — *zhuh swee rehs-TAY oh bew-ROH*) = *I stayed at the office.*
+- **Je me suis reposé au bureau** (/ʒə mə sɥi ʁə.po.ze o by.ʁo/ — *zhuh muh swee ruh-poh-ZAY oh bew-ROH*) = *I rested at the office.*
 
 Furthermore, even though *rester* denotes staying still rather than dynamic movement, it always conjugates with **être**!
 
@@ -100,19 +100,19 @@ The reflexive pronoun sits immediately in front of the conjugated auxiliary verb
 [Subject] + [Reflexive Pronoun] + [Auxiliary Être] + [Past Participle]
 ```
 
-Let us observe the complete paradigm of **se lever** (/sə lə.ve/, to get up; *to wake up* is **se réveiller**):
+Let us observe the complete paradigm of **se lever** (/sə lə.ve/ — *suh luh-VAY*, to get up; *to wake up* is **se réveiller** /sə ʁe.vɛ.je/ — *suh ray-veh-YAY*):
 
-| Person | French Sentence | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Je** | **Je me suis levé(e)** | /ʒə mə sɥi lə.ve/ | I got up |
-| **Tu** | **Tu t'es levé(e)** | /ty t‿ɛ lə.ve/ | You got up |
-| **Il** | **Il s'est levé** | /il s‿ɛ lə.ve/ | He got up |
-| **Elle** | **Elle s'est levée** | /ɛl s‿ɛ lə.ve/ | She got up |
-| **On** | **On s'est levé(e)s** | /ɔ̃ s‿ɛ lə.ve/ | We / One got up |
-| **Nous** | **Nous nous sommes levé(e)s** | /nu nu sɔm lə.ve/ | We got up |
-| **Vous** | **Vous vous êtes levé(e)(s)** | /vu vu.z‿ɛt lə.ve/ | You got up |
-| **Ils** | **Ils se sont levés** | /il sə sɔ̃ lə.ve/ | They (m.) got up |
-| **Elles** | **Elles se sont levées** | /ɛl sə sɔ̃ lə.ve/ | They (f.) got up |
+| Person | French Sentence | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Je** | **Je me suis levé(e)** | /ʒə mə sɥi lə.ve/ | (zhuh muh swee luh-VAY) | I got up |
+| **Tu** | **Tu t'es levé(e)** | /ty t‿ɛ lə.ve/ | (tew teh luh-VAY) | You got up |
+| **Il** | **Il s'est levé** | /il s‿ɛ lə.ve/ | (eel seh luh-VAY) | He got up |
+| **Elle** | **Elle s'est levée** | /ɛl s‿ɛ lə.ve/ | (ehl seh luh-VAY) | She got up |
+| **On** | **On s'est levé(e)s** | /ɔ̃ s‿ɛ lə.ve/ | (ohn seh luh-VAY) | We / One got up |
+| **Nous** | **Nous nous sommes levé(e)s** | /nu nu sɔm lə.ve/ | (noo noo suhm luh-VAY) | We got up |
+| **Vous** | **Vous vous êtes levé(e)(s)** | /vu vu.z‿ɛt lə.ve/ | (voo voo-zeht luh-VAY) | You got up |
+| **Ils** | **Ils se sont levés** | /il sə sɔ̃ lə.ve/ | (eel suh sohn luh-VAY) | They (m.) got up |
+| **Elles** | **Elles se sont levées** | /ɛl sə sɔ̃ lə.ve/ | (ehl suh sohn luh-VAY) | They (f.) got up |
 
 Notice the elision before vowels: *te* becomes **t'** (*tu t'es réveillé*), and *se* becomes **s'** (*il s'est installé*).
 
@@ -124,13 +124,13 @@ When negating a reflexive verb in the compound past, the **ne** (or **n'**) prec
 [Subject] + ne/n' + [Reflexive Pronoun] + [Auxiliary Être] + pas + [Past Participle]
 ```
 
-> **Je ne me suis pas réveillé à l'heure.** — /ʒə nə mə sɥi pa ʁe.vɛ.je a l‿œʁ/  
+> **Je ne me suis pas réveillé à l'heure.** — /ʒə nə mə sɥi pa ʁe.vɛ.je a l‿œʁ/ (zhuh nuh muh swee pah ray-veh-YAY ah LEUHR)  
 > *I did not wake up on time.*
 
-> **Elle ne s'est pas inquiétée pour les démarches.** — /ɛl nə s‿ɛ pa.z‿ɛ̃.kje.te puʁ le de.maʁʃ/  
+> **Elle ne s'est pas inquiétée pour les démarches.** — /ɛl nə s‿ɛ pa.z‿ɛ̃.kje.te puʁ le de.maʁʃ/ (ehl nuh seh pah-zen-kyeh-TAY poor lay day-MAHRSH)  
 > *She did not worry about the administrative procedures.*
 
-> **Nous ne nous sommes pas perdus dans le centre-ville.** — /nu nə nu sɔm pa pɛʁ.dy dɑ̃ lə sɑ̃.tʁə.vil/  
+> **Nous ne nous sommes pas perdus dans le centre-ville.** — /nu nə nu sɔm pa pɛʁ.dy dɑ̃ lə sɑ̃.tʁə.vil/ (noo nuh noo suhm pah pehr-DEW dahn luh sahn-truh-VEEL)  
 > *We did not get lost downtown.*
 
 ### The golden rule of agreement: matching the subject
@@ -156,7 +156,7 @@ Let us examine how this agreement rule manifests across different subjects:
 
 #### The Auditory vs Orthographic Reality
 
-In spoken French, the masculine form (*allé*), the feminine form (*allée*), the masculine plural (*allés*), and the feminine plural (*allées*) **sound 100% identical**: /a.le/.
+In spoken French, the masculine form (*allé*), the feminine form (*allée*), the masculine plural (*allés*), and the feminine plural (*allées*) **sound 100% identical**: /a.le/ (ah-LAY).
 
 However, on the **computer-based TCF Canada Writing test**, you type your text yourself; do not count on any spell-checker to fix agreements. Examiners assess grammatical accuracy, and a missing agreement on verbs taking *être* is an easy error for them to spot.
 
@@ -199,18 +199,18 @@ Monter · Descendre · Sortir · Rentrer · Retourner · Passer
 
 1. **Intransitive (Movement of Subject alone) → Auxiliary ÊTRE**:
    - The subject moves from one location to another. There is no direct object receiving the action. The past participle agrees with the subject:
-   > **Je suis monté au deuxième étage.** — /ʒə sɥi mɔ̃.te o dø.zjɛm e.taʒ/  
+   > **Je suis monté au deuxième étage.** — /ʒə sɥi mɔ̃.te o dø.zjɛm e.taʒ/ (zhuh swee mohn-TAY oh duh-zYEHM ay-TAHZH)  
    > *I went up to the second floor.* (Movement of self)
 
-   > **Elle est sortie de la maison.** — /ɛ.l‿ɛ sɔʁ.ti də la mɛ.zɔ̃/  
+   > **Elle est sortie de la maison.** — /ɛ.l‿ɛ sɔʁ.ti də la mɛ.zɔ̃/ (eh-leh sohr-TEE duh lah meh-ZOHN)  
    > *She went out of the house.* (Movement of self)
 
 2. **Transitive (Action performed ON an object) → Auxiliary AVOIR**:
    - The subject is moving or taking an external physical object. The verb is followed directly by a direct object noun (*les valises, le chien, la poubelle*). The auxiliary switches to **avoir**, and the participle **does not agree with the subject**:
-   > **J'ai monté les valises au deuxième étage.** — /ʒ‿e mɔ̃.te le va.liz o dø.zjɛm e.taʒ/  
+   > **J'ai monté les valises au deuxième étage.** — /ʒ‿e mɔ̃.te le va.liz o dø.zjɛm e.taʒ/ (zhay mohn-TAY lay vah-LEEZ oh duh-zYEHM ay-TAHZH)  
    > *I carried the suitcases up to the second floor.* (Transitive: suitcases = direct object)
 
-   > **Elle a sorti le chien.** — /ɛ.l‿a sɔʁ.ti lə ʃjɛ̃/  
+   > **Elle a sorti le chien.** — /ɛ.l‿a sɔʁ.ti lə ʃjɛ̃/ (ehl ah sohr-TEE luh SHYEN)  
    > *She took the dog out.* (Transitive: dog = direct object)
 
 | Verb | Intransitive with Être (Subject moves) | Transitive with Avoir (Object moved) |
@@ -225,9 +225,9 @@ Monter · Descendre · Sortir · Rentrer · Retourner · Passer
 
 #### Québec vs France
 
-In Québec, the arrival and settlement experience is central to immigration discourse. When discussing moving into a new apartment or home, Canadian Francophones frequently use the verb **emménager** (/ɑ̃.me.na.ʒe/, to move in) and **s'installer** (/s‿ɛ̃s.ta.le/, to settle in):
+In Québec, the arrival and settlement experience is central to immigration discourse. When discussing moving into a new apartment or home, Canadian Francophones frequently use the verb **emménager** (/ɑ̃.me.na.ʒe/ — *ahn-may-nah-ZHAY*, to move in) and **s'installer** (/s‿ɛ̃s.ta.le/ — *sen-stah-LAY*, to settle in):
 
-> **Nous nous sommes installés à Gatineau il y a trois ans.** — /nu nu sɔm.z‿ɛ̃s.ta.le a ɡa.ti.no il j‿a tʁwa.z‿ɑ̃/  
+> **Nous nous sommes installés à Gatineau il y a trois ans.** — /nu nu sɔm.z‿ɛ̃s.ta.le a ɡa.ti.no il j‿a tʁwa.z‿ɑ̃/ (noo noo suhm-zen-stah-LAY ah gah-tee-NOH eel yah trwah-ZAHN)  
 > *We settled in Gatineau three years ago.*
 
 Note that while *déménager* (to move out / relocate) conjugates with **avoir** (*J'ai déménagé*), *s'installer* is reflexive and therefore always conjugates with **être** (*Je me suis installé(e)*).
@@ -267,26 +267,26 @@ On the TCF Canada exam, using verbs like *s'installer*, *s'adapter*, and *s'int�
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 16 DR & MRS VANDERTRAMP and reflexive verbs with past participles and IPA to your personal Anki flashcard deck:
-   - *aller* → **allé(e)** (/a.le/) — went
-   - *venir* → **venu(e)** (/vny/) — came
-   - *partir* → **parti(e)** (/paʁ.ti/) — left
-   - *arriver* → **arrivé(e)** (/a.ʁi.ve/) — arrived
-   - *entrer* → **entré(e)** (/ɑ̃.tʁe/) — entered
-   - *sortir* → **sorti(e)** (/sɔʁ.ti/) — went out
-   - *monter* → **monté(e)** (/mɔ̃.te/) — went up
-   - *descendre* → **descendu(e)** (/dɛ.sɑ̃.dy/) — went down
-   - *naître* → **né(e)** (/ne/) — born
-   - *mourir* → **mort(e)** (/mɔʁ/, /mɔʁt/) — died
-   - *rester* → **resté(e)** (/ʁɛs.te/) — stayed / remained
-   - *tomber* → **tombé(e)** (/tɔ̃.be/) — fell
-   - *se lever* → **levé(e)** (/lə.ve/) — got up
-   - *se coucher* → **couché(e)** (/ku.ʃe/) — went to bed
-   - *s'installer* → **installé(e)** (/ɛ̃s.ta.le/) — settled in
-   - *se souvenir* → **souvenu(e)** (/su.vny/) — remembered
+   - *aller* → **allé(e)** (/a.le/ — *ah-LAY*) — went
+   - *venir* → **venu(e)** (/vny/ — *vuh-NEW*) — came
+   - *partir* → **parti(e)** (/paʁ.ti/ — *pahr-TEE*) — left
+   - *arriver* → **arrivé(e)** (/a.ʁi.ve/ — *ah-ree-VAY*) — arrived
+   - *entrer* → **entré(e)** (/ɑ̃.tʁe/ — *ahn-TRAY*) — entered
+   - *sortir* → **sorti(e)** (/sɔʁ.ti/ — *sohr-TEE*) — went out
+   - *monter* → **monté(e)** (/mɔ̃.te/ — *mohn-TAY*) — went up
+   - *descendre* → **descendu(e)** (/dɛ.sɑ̃.dy/ — *day-sahn-DEW*) — went down
+   - *naître* → **né(e)** (/ne/ — *NAY*) — born
+   - *mourir* → **mort(e)** (/mɔʁ/, /mɔʁt/ — *MOHR, MOHRT*) — died
+   - *rester* → **resté(e)** (/ʁɛs.te/ — *rehs-TAY*) — stayed / remained
+   - *tomber* → **tombé(e)** (/tɔ̃.be/ — *tohm-BAY*) — fell
+   - *se lever* → **levé(e)** (/lə.ve/ — *luh-VAY*) — got up
+   - *se coucher* → **couché(e)** (/ku.ʃe/ — *koo-SHAY*) — went to bed
+   - *s'installer* → **installé(e)** (/ɛ̃s.ta.le/ — *en-stah-LAY*) — settled in
+   - *se souvenir* → **souvenu(e)** (/su.vny/ — *soo-vuh-NEW*) — remembered
 
 3. **Step 3: Receptive Listening & Concordance Exercise**  
    Listen to the grammar lesson on [Podcast Français Facile — Le passé composé avec être](https://www.podcastfrancaisfacile.com/grammaire/passe-compose-etre.html).  
-   - Listen to the audio examples focusing specifically on liaison and elision (*Il est‿allé*, *Elle est‿arrivée*, *Ils sont‿allés*).
+   - Listen to the audio examples focusing specifically on liaison and elision (*Il est‿allé* /i.l‿ɛ.t‿a.le/ — *eel-eh-tah-LAY*, *Elle est‿arrivée* /ɛ.l‿ɛ.t‿a.ʁi.ve/ — *ehl-eh-tah-ree-VAY*, *Ils sont‿allés* /il sɔ̃.t‿a.le/ — *eel sohn-tah-LAY*).
    - Write out the 5 dictation sentences in your study notebook and verify your past participle agreements.
 
 4. **Step 4: Productive Writing & Speaking Task (Simulated TCF Recount)**  
