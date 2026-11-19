@@ -29,24 +29,24 @@ Compare how the mouth behaves in English versus French:
 
 Observe these foundational pure oral vowels:
 
-| French Vowel Sound | IPA Symbol | Common Spellings | French Examples with Pronunciation & Translation |
-| :--- | :--- | :--- | :--- |
-| **Pure A** | /a/ | a, à | **ami** (/a.mi/ — *friend*), **là** (/la/ — *there*) |
-| **Closed E** | /e/ | é, -er, -ez | **été** (/e.te/ — *summer*), **parler** (/paʁ.le/ — *to speak*) |
-| **Open E** | /ɛ/ | è, ê, ai, ei | **mère** (/mɛʁ/ — *mother*), **faire** (/fɛʁ/ — *to do*) |
-| **Pure I** | /i/ | i, y | **ici** (/i.si/ — *here*), **stylo** (/sti.lo/ — *pen*) |
-| **Closed O** | /o/ | o, au, eau | **bureau** (/by.ʁo/ — *desk*), **chaud** (/ʃo/ — *hot*) |
-| **Open O** | /ɔ/ | o (in closed syllable) | **porte** (/pɔʁt/ — *door*), **pomme** (/pɔm/ — *apple*) |
-| **Pure OU** | /u/ | ou, où | **vous** (/vu/ — *you*), **où** (/u/ — *where*) |
-| **Pure U** | /y/ | u, û | **tu** (/ty/ — *you*), **sur** (/syʁ/ — *on*) |
+| French Vowel Sound | IPA Symbol | Common Spellings | English Respelling | French Examples with Pronunciation & Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pure A** | /a/ | a, à | **ah** | **ami** (/a.mi/ — (ah-MEE) — *friend*), **là** (/la/ — (LAH) — *there*) |
+| **Closed E** | /e/ | é, -er, -ez | **ay** | **été** (/e.te/ — (ay-TAY) — *summer*), **parler** (/paʁ.le/ — (par-LAY) — *to speak*) |
+| **Open E** | /ɛ/ | è, ê, ai, ei | **eh** | **mère** (/mɛʁ/ — (MEHR) — *mother*), **faire** (/fɛʁ/ — (FEHR) — *to do*) |
+| **Pure I** | /i/ | i, y | **ee** | **ici** (/i.si/ — (ee-SEE) — *here*), **stylo** (/sti.lo/ — (stee-LOH) — *pen*) |
+| **Closed O** | /o/ | o, au, eau | **oh** | **bureau** (/by.ʁo/ — (bew-ROH) — *desk*), **chaud** (/ʃo/ — (SHOH) — *hot*) |
+| **Open O** | /ɔ/ | o (in closed syllable) | **aw / uh** | **porte** (/pɔʁt/ — (POHRT) — *door*), **pomme** (/pɔm/ — (PAWM) — *apple*) |
+| **Pure OU** | /u/ | ou, où | **oo** | **vous** (/vu/ — (VOO) — *you*), **où** (/u/ — (OO) — *where*) |
+| **Pure U** | /y/ | u, û | **ew / u** | **tu** (/ty/ — (TEW) — *you*), **sur** (/syʁ/ — (SEWR) — *on*) |
 
 ### The U versus OU challenge: Mastering the rounded front vowel
 
 The single most notorious sound challenge for English speakers learning French is the contrast between **U** (/y/) and **OU** (/u/). In English, both spellings often trigger a generic "oo" sound. In French, substituting one for the other changes the meaning of fundamental words:
-- **tu** (/ty/) = *you* vs **tout** (/tu/) = *all / everything*
-- **vu** (/vy/) = *seen* vs **vous** (/vu/) = *you (formal/plural)*
-- **sur** (/syʁ/) = *on* vs **sourd** (/suʁ/) = *deaf*
-- **dessus** (/də.sy/) = *on top* vs **dessous** (/də.su/) = *underneath*
+- **tu** (/ty/ — (TEW)) = *you* vs **tout** (/tu/ — (TOO)) = *all / everything*
+- **vu** (/vy/ — (VEW)) = *seen* vs **vous** (/vu/ — (VOO)) = *you (formal/plural)*
+- **sur** (/syʁ/ — (SEWR)) = *on* vs **sourd** (/suʁ/ — (SOOR)) = *deaf*
+- **dessus** (/də.sy/ — (duh-SEW)) = *on top* vs **dessous** (/də.su/ — (duh-SOO)) = *underneath*
 
 #### The Physical Recipe to Produce French /y/:
 To master this sound mechanically without guessing:
@@ -57,13 +57,13 @@ To master this sound mechanically without guessing:
 
 Compare these paired minimal pairs:
 
-> **Tu as vu le film ?** — /ty a vy lə film/  
+> **Tu as vu le film ?** — /ty a vy lə film/ (tew ah vew luh FEELM)  
 > *Did you see the movie? (Pure /y/ sound)*
 
-> **Vous écoutez tout le temps.** — /vu.z‿e.ku.te tu lə tɑ̃/  
+> **Vous écoutez tout le temps.** — /vu.z‿e.ku.te tu lə tɑ̃/ (voo-zay-koo-tay too luh TAHN)  
 > *You listen all the time. (Pure /u/ sound)*
 
-> **Le livre est sur la table, pas dessous.** — /lə livʁ ɛ syʁ la tabl, pa də.su/  
+> **Le livre est sur la table, pas dessous.** — /lə livʁ ɛ syʁ la tabl, pa də.su/ (luh LEE-vruh eh sewr lah TAH-bluh, pah duh-SOO)  
 > *The book is on the table, not underneath.*
 
 ### The EU and OEU vowels: Open vs closed rounded sounds
@@ -75,21 +75,21 @@ French distinguishes two variations of this sound:
 #### 1. The Closed Sound: /ø/
 - **Lip Position**: Rounded and tightly closed.
 - **When it occurs**: Usually at the end of a word or before a silent consonant (*-x, -t, -s*):
-  - **deux** (/dø/) — two
-  - **bleu** (/blø/) — blue
-  - **peu** (/pø/) — little / few
-  - **je veux** (/ʒə vø/) — I want
+  - **deux** (/dø/ — (DEUH)) — two
+  - **bleu** (/blø/ — (BLEUH)) — blue
+  - **peu** (/pø/ — (PEUH)) — little / few
+  - **je veux** (/ʒə vø/ — (zhuh VEUH)) — I want
 
 #### 2. The Open Sound: /œ/
 - **Lip Position**: Rounded but with a more open jaw.
 - **When it occurs**: In syllables ending in an audible consonant (especially *r, l, f*):
-  - **la sœur** (/la sœʁ/) — sister
-  - **le cœur** (/lə kœʁ/) — heart
-  - **l'heure** (/lœʁ/) — hour / time
-  - **le professeur** (/lə pʁɔ.fɛ.sœʁ/) — teacher
+  - **la sœur** (/la sœʁ/ — (lah SEUHR)) — sister
+  - **le cœur** (/lə kœʁ/ — (luh KEUHR)) — heart
+  - **l'heure** (/lœʁ/ — (LEUHR)) — hour / time
+  - **le professeur** (/lə pʁɔ.fɛ.sœʁ/ — (luh praw-feh-SEUHR)) — teacher
 
 Observe them in a single natural sentence:
-> **Mon jeune frère a deux sœurs.** — /mɔ̃ ʒœn fʁɛʁ a dø sœʁ/  
+> **Mon jeune frère a deux sœurs.** — /mɔ̃ ʒœn fʁɛʁ a dø sœʁ/ (mohn zhuhn FREHR ah deuh SEUHR)  
 > *My young brother has two sisters. (Notice: "jeune" /œ/ open, "deux" /ø/ closed, "sœurs" /œ/ open)*
 
 ### Nasal vowels: The three acoustic signatures
@@ -109,27 +109,27 @@ Standard international French features **three core nasal vowels**. Master their
 #### 1. The Open Back Nasal: /ɑ̃/
 - **Spellings**: **an**, **am**, **en**, **em** (when followed by a consonant or at the end of a word).
 - **Mouth Position**: Jaw drops wide open, lips relaxed, air resonates through nasal passage (like saying "ah" through your nose):
-  - **la France** (/la fʁɑ̃s/) — France
-  - **l'enfant** (/lɑ̃.fɑ̃/) — child
-  - **le temps** (/lə tɑ̃/) — weather / time
-  - **manger** (/mɑ̃.ʒe/) — to eat
+  - **la France** (/la fʁɑ̃s/ — (lah FRAHNS)) — France
+  - **l'enfant** (/lɑ̃.fɑ̃/ — (lahn-FAHN)) — child
+  - **le temps** (/lə tɑ̃/ — (luh TAHN)) — weather / time
+  - **manger** (/mɑ̃.ʒe/ — (mahn-ZHAY)) — to eat
 
 #### 2. The Rounded Closed Nasal: /ɔ̃/
 - **Spellings**: **on**, **om**.
 - **Mouth Position**: Lips rounded tightly into a small circle, jaw almost closed, air resonates deeply in the back (like saying "oh" through your nose):
-  - **bon** (/bɔ̃/) — good (masc.)
-  - **le nom** (/lə nɔ̃/) — name
-  - **la maison** (/la mɛ.zɔ̃/) — house
-  - **ils vont** (/il vɔ̃/) — they go
+  - **bon** (/bɔ̃/ — (BOHN)) — good (masc.)
+  - **le nom** (/lə nɔ̃/ — (luh NOHN)) — name
+  - **la maison** (/la mɛ.zɔ̃/ — (lah meh-ZOHN)) — house
+  - **ils vont** (/il vɔ̃/ — (eel VOHN)) — they go
 
 #### 3. The Spread Front Nasal: /ɛ̃/
 - **Spellings**: **in**, **im**, **ain**, **aim**, **ein**, **ien**, **yn**, **ym**.
 - **Mouth Position**: Lips stretched sideways into a broad smile, mouth slightly open, sound focused forward:
-  - **le matin** (/lə ma.tɛ̃/) — morning
-  - **le vin** (/lə vɛ̃/) — wine
-  - **le pain** (/lə pɛ̃/) — bread
-  - **canadien** (/ka.na.djɛ̃/) — Canadian (masc.)
-  - **plein** (/plɛ̃/) — full
+  - **le matin** (/lə ma.tɛ̃/ — (luh mah-TAN)) — morning
+  - **le vin** (/lə vɛ̃/ — (luh VAN)) — wine
+  - **le pain** (/lə pɛ̃/ — (luh PAN)) — bread
+  - **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYAN)) — Canadian (masc.)
+  - **plein** (/plɛ̃/ — (PLAN)) — full
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -138,10 +138,10 @@ Standard international French features **three core nasal vowels**. Master their
 A vowel is **only nasal** when followed by *n* or *m* that is either at the very end of a word (*bon*) or followed by another consonant (*chambre*).
 When the *n* or *m* is followed by a **vowel** or another **n/m**, the nasality disappears completely, and the vowel becomes an ordinary oral vowel:
 
-- **un ami** (/œ̃.n‿a.mi/): *ami* has a vowel after *m*, so *a* is oral /a/.
-- **bon** (/bɔ̃/ — nasal) → **bonne** (/bɔn/ — oral /ɔ/ + clear /n/ sound).
-- **canadien** (/ka.na.djɛ̃/ — nasal) → **canadienne** (/ka.na.djɛn/ — oral /ɛ/ + clear /n/).
-- **cousin** (/ku.zɛ̃/ — nasal) → **cousine** (/ku.zin/ — oral /i/ + clear /n/).
+- **un ami** (/œ̃.n‿a.mi/ — (uhn-nah-MEE)): *ami* has a vowel after *m*, so *a* is oral /a/.
+- **bon** (/bɔ̃/ — (BOHN) — nasal) → **bonne** (/bɔn/ — (BAWN) — oral /ɔ/ + clear /n/ sound).
+- **canadien** (/ka.na.djɛ̃/ — (kah-nah-DYAN) — nasal) → **canadienne** (/ka.na.djɛn/ — (kah-nah-DYEN) — oral /ɛ/ + clear /n/).
+- **cousin** (/ku.zɛ̃/ — (koo-ZAN) — nasal) → **cousine** (/ku.zin/ — (koo-ZEEN) — oral /i/ + clear /n/).
 
 This rule is the foundation of masculine and feminine grammatical agreement in French spoken comprehension.
 
@@ -153,23 +153,23 @@ In addition to pure vowels and nasals, French contains three rapid glide sounds 
 
 #### 1. The /wa/ Glide (Spelled "oi")
 The spelling **oi** never sounds like "oy" in English. It is a rapid transition from /w/ to open /a/:
-- **bonsoir** (/bɔ̃.swaʁ/) — good evening
-- **moi** (/mwa/) — me
-- **trois** (/tʁwa/) — three
-- **la voiture** (/la vwa.tyʁ/) — car
+- **bonsoir** (/bɔ̃.swaʁ/ — (bohn-SWAHR)) — good evening
+- **moi** (/mwa/ — (MWAH)) — me
+- **trois** (/tʁwa/ — (TRWAH)) — three
+- **la voiture** (/la vwa.tyʁ/ — (lah vwah-TEWR)) — car
 
 #### 2. The /ɥi/ Glide (Spelled "ui")
 The spelling **ui** combines the tight French /y/ sound with /i/, creating a rapid whistling glide:
-- **la nuit** (/la nɥi/) — night
-- **huit** (/ɥit/) — eight
-- **la cuisine** (/la kɥi.zin/) — kitchen
-- **suis** (/sɥi/) — am (*je suis*)
+- **la nuit** (/la nɥi/ — (lah NWEE)) — night
+- **huit** (/ɥit/ — (WEET)) — eight
+- **la cuisine** (/la kɥi.zin/ — (lah kwee-ZEEN)) — kitchen
+- **suis** (/sɥi/ — (SWEE)) — am (*je suis*)
 
 #### 3. The /j/ Glide (Spelled "-ille", "y", or "i + vowel")
 Sounds like the English "y" in "yes":
-- **la famille** (/la fa.mij/) — family (the *ill* is pronounced /ij/; it sounds like *fa-mee-y*)
-- **travailler** (/tʁa.va.je/) — to work
-- **le billet** (/lə bi.jɛ/) — ticket
+- **la famille** (/la fa.mij/ — (lah fah-MEE-yuh)) — family (the *ill* is pronounced /ij/; it sounds like *fa-mee-y*)
+- **travailler** (/tʁa.va.je/ — (trah-vah-YAY)) — to work
+- **le billet** (/lə bi.jɛ/ — (luh bee-YEH)) — ticket
 
 ### Canadian French vowel characteristics and nasal preservation
 
@@ -179,8 +179,8 @@ Canadian French (especially spoken in Québec, New Brunswick, and Ontario) prese
 In historical French, there were four distinct nasal vowels: /ɑ̃/, /ɔ̃/, /ɛ̃/, and **/œ̃/** (spelled **un**, **um**).
 - In modern France, the sound **/œ̃/** has virtually merged into **/ɛ̃/**: native Parisians pronounce *un brin* (a sprig) and *un brun* (a brown one) identically as `/ɛ̃ bʁɛ̃/`.
 - In Québec and French Canada, native speakers strictly preserve the difference:
-  - **brin** (/bʁɛ̃/) — pronounced with lips smiling
-  - **brun** (/bʁœ̃/) — pronounced with lips rounded forward
+  - **brin** (/bʁɛ̃/ — (BRAN)) — pronounced with lips smiling
+  - **brun** (/bʁœ̃/ — (BREUHN)) — pronounced with lips rounded forward
 
 Both pronunciations are standard. On the TCF Canada you may hear varied francophone accents, so be ready to recognize the rounded **/œ̃/** in words like *un*, *lundi*, and *brun* as well as the merged /ɛ̃/.
 
@@ -203,9 +203,9 @@ Train your ear to recognize both variations.
 #### Exam tip
 
 In TCF Canada Listening, especially in the early, easier items, minimal vowel pairs are a common source of wrong answers:
-- *Tu as des enfants ?* (/ty/) vs *Vous avez des enfants ?* (/vu/)
-- *Je prends le vin.* (/vɛ̃/) vs *Je prends le vent.* (/vɑ̃/)
-- *C'est un bon plan.* (/bɔ̃/) vs *C'est un banc blanc.* (/bɑ̃ blɑ̃/)
+- *Tu as des enfants ?* (/ty/ (TEW)) vs *Vous avez des enfants ?* (/vu/ (VOO))
+- *Je prends le vin.* (/vɛ̃/ (VAN)) vs *Je prends le vent.* (/vɑ̃/ (VAHN))
+- *C'est un bon plan.* (/bɔ̃/ (BOHN)) vs *C'est un banc blanc.* (/bɑ̃ blɑ̃/ (BAHN BLAHN))
 
 The audio plays only once. Before it starts, read the question and answer choices and silently identify the key vowel difference, then answer and move on.
 
@@ -241,21 +241,21 @@ The audio plays only once. Before it starts, read the question and answer choice
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential vowel and nasal minimal pairs with IPA to your Anki deck:
-   - *tu* (/ty/) — you (informal)
-   - *tout* (/tu/) — all / everything
-   - *vu* (/vy/) — seen (past participle)
-   - *vous* (/vu/) — you (formal/plural)
-   - *sur* (/syʁ/) — on / upon
-   - *sourd* (/suʁ/) — deaf
-   - *bon (m.)* (/bɔ̃/) — good (nasal)
-   - *bonne (f.)* (/bɔn/) — good (oral + n)
-   - *le vin* (/lə vɛ̃/) — wine (nasal /ɛ̃/)
-   - *le vent* (/lə vɑ̃/) — wind (nasal /ɑ̃/)
-   - *le pont* (/lə pɔ̃/) — bridge (nasal /ɔ̃/)
-   - *la nuit* (/la nɥi/) — night (glide /ɥi/)
-   - *le soir* (/lə swaʁ/) — evening (glide /wa/)
-   - *la fille* (/la fij/) — girl / daughter (glide /j/)
+   Add these 14 essential vowel and nasal minimal pairs with IPA and English phonetic respelling to your Anki deck:
+   - *tu* (/ty/ — (TEW)) — you (informal)
+   - *tout* (/tu/ — (TOO)) — all / everything
+   - *vu* (/vy/ — (VEW)) — seen (past participle)
+   - *vous* (/vu/ — (VOO)) — you (formal/plural)
+   - *sur* (/syʁ/ — (SEWR)) — on / upon
+   - *sourd* (/suʁ/ — (SOOR)) — deaf
+   - *bon (m.)* (/bɔ̃/ — (BOHN)) — good (nasal)
+   - *bonne (f.)* (/bɔn/ — (BAWN)) — good (oral + n)
+   - *le vin* (/lə vɛ̃/ — (luh VAN)) — wine (nasal /ɛ̃/)
+   - *le vent* (/lə vɑ̃/ — (luh VAHN)) — wind (nasal /ɑ̃/)
+   - *le pont* (/lə pɔ̃/ — (luh POHN)) — bridge (nasal /ɔ̃/)
+   - *la nuit* (/la nɥi/ — (lah NWEE)) — night (glide /ɥi/)
+   - *le soir* (/lə swaʁ/ — (luh SWAHR)) — evening (glide /wa/)
+   - *la fille* (/la fij/ — (lah FEE-yuh)) — girl / daughter (glide /j/)
 
 3. **Receptive Listening Task**  
    Listen to the minimal pairs and vowel training lesson on [TV5Monde — Les voyelles et les sons du français (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
@@ -267,10 +267,10 @@ The audio plays only once. Before it starts, read the question and answer choice
 
 4. **Productive Speaking Task (Minimal Pair Audio Benchmark)**  
    Record yourself on your phone or using [Vocaroo](https://vocaroo.com/) reading the following 4 contrastive sentences out loud in under 30 seconds:
-   - Sentence 1: *Tu as tout vu sous le pont.* (/ty a tu vy su lə pɔ̃/)
-   - Sentence 2: *Un bon vin blanc canadien.* (/œ̃ bɔ̃ vɛ̃ blɑ̃ ka.na.djɛ̃/)
-   - Sentence 3: *Je suis chez moi ce soir à huit heures.* (/ʒə sɥi ʃe mwa sə swaʁ a ɥi.t‿œʁ/)
-   - Sentence 4: *La jeune fille travaille avec sa sœur.* (/la ʒœn fij tʁa.vaj a.vɛk sa sœʁ/)
+   - Sentence 1: *Tu as tout vu sous le pont.* (/ty a tu vy su lə pɔ̃/ — (tew ah too vew soo luh POHN))
+   - Sentence 2: *Un bon vin blanc canadien.* (/œ̃ bɔ̃ vɛ̃ blɑ̃ ka.na.djɛ̃/ — (uhn bohn van blahn kah-nah-DYAN))
+   - Sentence 3: *Je suis chez moi ce soir à huit heures.* (/ʒə sɥi ʃe mwa sə swaʁ a ɥi.t‿œʁ/ — (zhuh swee shay mwah suh swahr ah weet-EUR))
+   - Sentence 4: *La jeune fille travaille avec sa sœur.* (/la ʒœn fij tʁa.vaj a.vɛk sa sœʁ/ — (lah zhuhn fee-yuh trah-vah-yuh ah-vek sah SEUHR))
    
    Listen back to your recording. Ensure your *u* sounds (/ty/, /vy/) do not sound like English "too" or "voo", and confirm that your nasal vowels (/bɔ̃/, /vɛ̃/, /blɑ̃/) have no trailing English "ng" consonant.
 
