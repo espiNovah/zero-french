@@ -29,15 +29,15 @@ IMMIGRATION CANADIENNE ─────┤    - Programme des candidats des provi
 
 #### 1. The Federal Framework (IRCC)
 Immigration, Réfugiés et Citoyenneté Canada (**IRCC**) manages admission, permanent residence and citizenship everywhere in Canada, Québec included; the difference is that Québec selects its own economic immigrants (see the CSQ below).
-* **Entrée express** (/ɑ̃.tʁe ɛks.pʁɛs/, *Express Entry*): The federal point-based system (*Système de classement global* / CRS) managing skilled economic immigration through the Federal Skilled Worker Program (*Programme des travailleurs qualifiés*).
+* **Entrée express** (/ɑ̃.tʁe ɛks.pʁɛs/ — (ahn-TRAY ehks-PREHSS), *Express Entry*): The federal point-based system (*Système de classement global* / CRS) managing skilled economic immigration through the Federal Skilled Worker Program (*Programme des travailleurs qualifiés*).
 * **Francophone Mobility and Minority Communities**: Canada actively incentivizes Francophone immigration outside Quebec to sustain linguistic duality in provinces such as Ontario, New Brunswick (*le Nouveau-Brunswick*, Canada's only officially bilingual province), and Manitoba.
 * **Programme des candidats des provinces (PCP)**: Provincial Nominee Programs allowing provinces to nominate candidates whose skills match regional labor shortages.
 
 #### 2. Quebec's Autonomous Selection (MIFI)
 Under the Canada-Quebec Accord, Quebec possesses exclusive responsibility for selecting its economic immigrants:
 * **MIFI** (*Ministère de l'Immigration, de la Francisation et de l'Intégration*): The provincial ministry responsible for immigrant selection, integration, and language training.
-* **CSQ** (*Certificat de sélection du Québec* / /sɛʁ.ti.fi.ka də se.lɛk.sjɔ̃ dy ke.bɛk/): The mandatory official selection document issued by Quebec before an applicant can apply to the federal government for permanent residency.
-* **Arrima** (/a.ʁi.ma/): The online portal used by candidates to submit an expression of interest (*déclaration d'intérêt*) under Quebec's economic immigration programs.
+* **CSQ** (*Certificat de sélection du Québec* / /sɛʁ.ti.fi.ka də se.lɛk.sjɔ̃ dy ke.bɛk/ — (sehr-tee-fee-KAH duh say-lehk-SYOHN dew kay-BEHK)): The mandatory official selection document issued by Quebec before an applicant can apply to the federal government for permanent residency.
+* **Arrima** (/a.ʁi.ma/ — (ah-ree-MAH)): The online portal used by candidates to submit an expression of interest (*déclaration d'intérêt*) under Quebec's economic immigration programs.
 * **PEQ & PSTQ**: The *Programme de l'expérience québécoise* and the *Programme de sélection des travailleurs qualifiés*, designed to select workers with proven professional experience and French language proficiency.
 
 ---
@@ -46,23 +46,23 @@ Under the Canada-Quebec Accord, Quebec possesses exclusive responsibility for se
 
 Mastering standard French terminology for Canadian administrative processes is essential for both daily life and standardized testing:
 
-| French Term | IPA Transcription | English Translation | Contextual Usage |
-| :--- | :--- | :--- | :--- |
-| **un nouvel arrivant / une nouvelle arrivante** | /œ̃ nu.vɛl a.ʁi.vɑ̃/ | newcomer | *Les services d'accueil orientent les nouveaux arrivants dès leur arrivée à l'aéroport.* |
-| **la résidence permanente** | /la ʁe.zi.dɑ̃s pɛʁ.ma.nɑ̃t/ | permanent residence | *L'obtention de la résidence permanente confère le droit de vivre et de travailler partout au Canada.* |
-| **le statut d'immigration** | /lə sta.ty d‿i.mi.gʁa.sjɔ̃/ | immigration status | *Il est indispensable de maintenir un statut d'immigration légal durant le traitement du dossier.* |
-| **un permis de travail fermé / ouvert** | /œ̃ pɛʁ.mi də tʁa.vaj fɛʁ.me / u.vɛʁ/ | closed / open work permit | *Un permis de travail ouvert permet de changer d'employeur sans autorisation préalable.* |
-| **la francisation** | /la fʁɑ̃.si.za.sjɔ̃/ | French language training / adoption | *Le gouvernement offre des cours de francisation rémunérés pour accélérer l'intégration socioprofessionnelle.* |
-| **l'équivalence des diplômes** | /l‿e.ki.va.lɑ̃s de di.plom/ | credential evaluation / ECA | *L'évaluation comparative des études établit l'équivalence des diplômes étrangers avec le système canadien.* |
-| **un organisme d'accueil** | /œ̃.n‿ɔʁ.ga.nism d‿a.kœj/ | settlement agency | *Les organismes d'accueil communautaires aident les familles à trouver un logement et une école.* |
-| **le bassin de candidats** | /lə ba.sɛ̃ də kɑ̃.di.da/ | candidate pool | *Les candidats ayant un score élevé reçoivent une invitation à présenter une demande.* |
+| French Term | IPA Transcription | Phonetic Respelling | English Translation | Contextual Usage |
+| :--- | :--- | :--- | :--- | :--- |
+| **un nouvel arrivant / une nouvelle arrivante** | /œ̃ nu.vɛl a.ʁi.vɑ̃/ | (uhn noo-vehl ah-ree-VAHN) | newcomer | *Les services d'accueil orientent les nouveaux arrivants dès leur arrivée à l'aéroport.* |
+| **la résidence permanente** | /la ʁe.zi.dɑ̃s pɛʁ.ma.nɑ̃t/ | (lah ray-zee-DAHNS pehr-mah-NAHNT) | permanent residence | *L'obtention de la résidence permanente confère le droit de vivre et de travailler partout au Canada.* |
+| **le statut d'immigration** | /lə sta.ty d‿i.mi.gʁa.sjɔ̃/ | (luh stah-TEW dee-mee-grah-SYOHN) | immigration status | *Il est indispensable de maintenir un statut d'immigration légal durant le traitement du dossier.* |
+| **un permis de travail fermé / ouvert** | /œ̃ pɛʁ.mi də tʁa.vaj fɛʁ.me / u.vɛʁ/ | (uhn pehr-MEE duh trah-VY fehr-MAY / oo-VEHR) | closed / open work permit | *Un permis de travail ouvert permet de changer d'employeur sans autorisation préalable.* |
+| **la francisation** | /la fʁɑ̃.si.za.sjɔ̃/ | (lah frahn-see-zah-SYOHN) | French language training / adoption | *Le gouvernement offre des cours de francisation rémunérés pour accélérer l'intégration socioprofessionnelle.* |
+| **l'équivalence des diplômes** | /l‿e.ki.va.lɑ̃s de di.plom/ | (lay-kee-vah-LAHNS day dee-PLOHM) | credential evaluation / ECA | *L'évaluation comparative des études établit l'équivalence des diplômes étrangers avec le système canadien.* |
+| **un organisme d'accueil** | /œ̃.n‿ɔʁ.ga.nism d‿a.kœj/ | (uhn-nor-gah-NEEZ-muh dah-KUHY) | settlement agency | *Les organismes d'accueil communautaires aident les familles à trouver un logement et une école.* |
+| **le bassin de candidats** | /lə ba.sɛ̃ də kɑ̃.di.da/ | (luh bah-SEHN duh kahn-dee-DAH) | candidate pool | *Les candidats ayant un score élevé reçoivent une invitation à présenter une demande.* |
 
 #### High-Yield Example Sentences
 * **Pour obtenir les points supplémentaires accordés au français dans Entrée express, le candidat doit justifier d'au moins un niveau NCLC 7 dans les quatre compétences.**
-  /puʁ ɔp.tə.niʁ le pwɛ̃ sy.ple.mɑ̃.tɛʁ a.kɔʁ.de o fʁɑ̃.sɛ dɑ̃ ɑ̃.tʁe ɛks.pʁɛs, lə kɑ̃.di.da dwa ʒys.ti.fje do mwɛ̃ œ̃ ni.vo ɛn se ɛl se sɛt dɑ̃ le katʁ kɔ̃.pe.tɑ̃s/
+  /puʁ ɔp.tə.niʁ le pwɛ̃ sy.ple.mɑ̃.tɛʁ a.kɔʁ.de o fʁɑ̃.sɛ dɑ̃ ɑ̃.tʁe ɛks.pʁɛs, lə kɑ̃.di.da dwa ʒys.ti.fje do mwɛ̃ œ̃ ni.vo ɛn se ɛl se sɛt dɑ̃ le katʁ kɔ̃.pe.tɑ̃s/ (*poor ohp-tuh-NEER lay pwen sew-play-mahn-TEHR ah-kor-DAY oh frahn-SEH dahn zahn-TRAY ehks-PREHSS, luh kahn-dee-DAH dwah zhews-tee-FYAY doh MWEN uhn nee-VOH ehn say ehl say SEHT dahn lay KAH-truh kohn-pay-TAHNS*)
   *To obtain the additional points awarded for French in Express Entry, the candidate must demonstrate at least NCLC 7 in all four skills.* (NCLC 7 is the threshold for this bonus, not the maximum: language points keep rising up to CLB 10.)
 * **Le gouvernement québécois verse une allocation financière aux immigrants inscrits aux cours de francisation à temps plein.**
-  /lə gu.vɛʁ.nə.mɑ̃ ke.be.kwa vɛʁs yn a.lɔ.ka.sjɔ̃ fi.nɑ̃.sjɛʁ o.z‿i.mi.gʁɑ̃ ɛ̃s.kʁi o kuʁ də fʁɑ̃.si.za.sjɔ̃ a tɑ̃ plɛ̃/
+  /lə gu.vɛʁ.nə.mɑ̃ ke.be.kwa vɛʁs yn a.lɔ.ka.sjɔ̃ fi.nɑ̃.sjɛʁ o.z‿i.mi.gʁɑ̃ ɛ̃s.kʁi o kuʁ də fʁɑ̃.si.za.sjɔ̃ a tɑ̃ plɛ̃/ (*luh goo-vehr-nuh-MAHN kay-bay-KWAH vehrs ewn ah-loh-kah-SYOHN fee-nahn-SYEHR oh-zee-mee-GRAHN ehn-SKREE oh KOOR duh frahn-see-zah-SYOHN ah tahn PLEN*)
   *The Quebec government pays a financial allowance to immigrants enrolled in full-time French language courses.*
 
 ---
@@ -80,9 +80,9 @@ A major debate in Canadian demographic policy is **la régionalisation de l'immi
    Regional populations are aging rapidly, making immigration essential for maintaining local schools, public services, and municipal tax bases.
 
 #### Sociological Perspectives and Vocabulary
-* **l'exode urbain** (/l‿ɛg.zɔd yʁ.bɛ̃/, *urban exodus*): Newcomers and young families relocating from dense cities to regional communities.
-* **la rétention des immigrants** (/la ʁe.tɑ̃.sjɔ̃ de.z‿i.mi.gʁɑ̃/, *immigrant retention*): The ability of regional towns to keep immigrants long-term through welcoming initiatives, employment stability, and cultural vitality.
-* **les incitatifs financiers** (/le.z‿ɛ̃.si.ta.tif fi.nɑ̃.sje/, *financial incentives*): Relocation allowances, tax credits, and settlement subsidies provided by municipal and provincial authorities.
+* **l'exode urbain** (/l‿ɛg.zɔd yʁ.bɛ̃/ — (lehg-ZOHD ewr-BEHN), *urban exodus*): Newcomers and young families relocating from dense cities to regional communities.
+* **la rétention des immigrants** (/la ʁe.tɑ̃.sjɔ̃ de.z‿i.mi.gʁɑ̃/ — (lah ray-tahn-SYOHN day-zee-mee-GRAHN), *immigrant retention*): The ability of regional towns to keep immigrants long-term through welcoming initiatives, employment stability, and cultural vitality.
+* **les incitatifs financiers** (/le.z‿ɛ̃.si.ta.tif fi.nɑ̃.sje/ — (lay-zehn-see-tah-TEEF fee-nahn-SYAY), *financial incentives*): Relocation allowances, tax credits, and settlement subsidies provided by municipal and provincial authorities.
 
 ---
 
@@ -99,10 +99,10 @@ One of the most intellectually stimulating topics encountered in B1 debate promp
 
 #### Expressing Integration Philosophies at B1
 * **Au niveau fédéral, le multiculturalisme valorise la préservation des identités d'origine au sein de la mosaïque canadienne.**
-  /o ni.vo fe.de.ʁal, lə myl.ti.kyl.ty.ʁa.lism va.lɔ.ʁiz la pʁe.zɛʁ.va.sjɔ̃ de.z‿i.dɑ̃.ti.te d‿ɔ.ʁi.ʒin o swɛ̃ də la mɔ.za.ik ka.na.djɛn/
+  /o ni.vo fe.de.ʁal, lə myl.ti.kyl.ty.ʁa.lism va.lɔ.ʁiz la pʁe.zɛʁ.va.sjɔ̃ de.z‿i.dɑ̃.ti.te d‿ɔ.ʁi.ʒin o swɛ̃ də la mɔ.za.ik ka.na.djɛn/ (*oh nee-VOH fay-day-RAHL, luh mewl-tee-kewl-tew-rah-LEEZ-muh vah-loh-REEZ lah pray-zehr-vah-SYOHN day-zee-dahn-tee-TAY doh-ree-ZHEEN oh SWEN duh lah moh-zah-EEK kah-nah-DYEHN*)
   *At the federal level, multiculturalism promotes the preservation of original cultural identities within the Canadian mosaic.*
 * **Au Québec, l'interculturalisme favorise le dialogue entre les diverses communautés tout en faisant du français la langue commune de cohésion sociale.**
-  /o ke.bɛk, l‿ɛ̃.tɛʁ.kyl.ty.ʁa.lism fa.vɔ.ʁiz lə dja.lɔg ɑ̃tʁ le di.vɛʁs kɔ.my.no.te tu t‿ɑ̃ fə.zɑ̃ dy fʁɑ̃.sɛ la lɑ̃g kɔ.myn də kɔ.e.zjɔ̃ sɔ.sjal/
+  /o ke.bɛk, l‿ɛ̃.tɛʁ.kyl.ty.ʁa.lism fa.vɔ.ʁiz lə dja.lɔg ɑ̃tʁ le di.vɛʁs kɔ.my.no.te tu t‿ɑ̃ fə.zɑ̃ dy fʁɑ̃.sɛ la lɑ̃g kɔ.myn də kɔ.e.zjɔ̃ sɔ.sjal/ (*oh kay-BEHK, lehn-tehr-kewl-tew-rah-LEEZ-muh fah-voh-REEZ luh dyah-LOHG ahntr lay dee-VEHRS koh-mew-noh-TAY too tahn fuh-ZAHN dew frahn-SEH lah LAHNG koh-MEWN duh koh-ay-ZYOHN soh-SYAHL*)
   *In Quebec, interculturalism encourages dialogue among diverse communities while establishing French as the common language of social cohesion.*
 
 ---
@@ -113,9 +113,9 @@ While Canada seeks skilled immigrants, newcomers frequently encounter systemic b
 
 #### 1. Foreign Credential Recognition (*La reconnaissance des diplômes étrangers*)
 Regulated professions (doctors, engineers, nurses, accountants, lawyers) are governed by provincial professional orders (*les ordres professionnels*). Newcomers often experience:
-* **le déclassement professionnel** (/lə de.klas.mɑ̃ pʁɔ.fɛ.sjɔ.nɛl/, *underemployment / deskilling*): Working in survival jobs far below one's academic qualification level.
+* **le déclassement professionnel** (/lə de.klas.mɑ̃ pʁɔ.fɛ.sjɔ.nɛl/ — (luh day-klahs-MAHN proh-feh-syoh-NEHL), *underemployment / deskilling*): Working in survival jobs far below one's academic qualification level.
 * **la reconnaissance des acquis et des compétences (RAC)**: The formal institutional process of evaluating prior foreign education and work experience against Canadian educational standards.
-* **les stages d'adaptation** (/le staʒ d‿a.dap.ta.sjɔ̃/, *bridging programs / adaptation internships*): Supervised clinical or technical training required to obtain full provincial licensing.
+* **les stages d'adaptation** (/le staʒ d‿a.dap.ta.sjɔ̃/ — (lay STAHZH dah-dahp-tah-SYOHN), *bridging programs / adaptation internships*): Supervised clinical or technical training required to obtain full provincial licensing.
 
 #### 2. The "Canadian Experience" Dilemma (*L'expérience canadienne*)
 A classic chicken-and-egg paradox: employers demand prior local Canadian work experience before hiring, but immigrants cannot acquire local experience without being hired.
