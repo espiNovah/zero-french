@@ -26,25 +26,25 @@ This section contains a general overview of topics that you will learn in this l
 As a general fundamental rule of standard French: **consonants at the very end of a word are silent**.
 
 Observe these silent endings in everyday vocabulary:
-- **D** is silent: *chaud* (/ʃo/ — *hot*), *grand* (/ɡʁɑ̃/ — *tall/big*), *tard* (/taʁ/ — *late*)
-- **P** is silent: *beaucoup* (/bo.ku/ — *a lot*), *trop* (/tʁo/ — *too much*)
-- **S** is silent: *français* (/fʁɑ̃.sɛ/ — *French*), *les chats* (/le ʃa/ — *the cats*), *trois* (/tʁwa/ — *three*)
-- **T** is silent: *petit* (/pə.ti/ — *small*), *le lit* (/lə li/ — *bed*), *le chat* (/lə ʃa/ — *cat*)
-- **X** is silent: *deux* (/dø/ — *two*), *la voix* (/la vwa/ — *voice*), *le prix* (/lə pʁi/ — *price*)
-- **Z** is silent: *le nez* (/lə ne/ — *nose*), *chez* (/ʃe/ — *at the home of*), *vous parlez* (/vu paʁ.le/ — *you speak*)
+- **D** is silent: *chaud* (/ʃo/ — (SHOH) — *hot*), *grand* (/ɡʁɑ̃/ — (GRAHN) — *tall/big*), *tard* (/taʁ/ — (TAHR) — *late*)
+- **P** is silent: *beaucoup* (/bo.ku/ — (boh-KOO) — *a lot*), *trop* (/tʁo/ — (TROH) — *too much*)
+- **S** is silent: *français* (/fʁɑ̃.sɛ/ — (frahn-SEH) — *French*), *les chats* (/le ʃa/ — (lay SHAH) — *the cats*), *trois* (/tʁwa/ — (TRWAH) — *three*)
+- **T** is silent: *petit* (/pə.ti/ — (puh-TEE) — *small*), *le lit* (/lə li/ — (luh LEE) — *bed*), *le chat* (/lə ʃa/ — (luh SHAH) — *cat*)
+- **X** is silent: *deux* (/dø/ — (DEUH) — *two*), *la voix* (/la vwa/ — (lah VWAH) — *voice*), *le prix* (/lə pʁi/ — (luh PREE) — *price*)
+- **Z** is silent: *le nez* (/lə ne/ — (luh NAY) — *nose*), *chez* (/ʃe/ — (SHAY) — *at the home of*), *vous parlez* (/vu paʁ.le/ — (voo par-LAY) — *you speak*)
 
 #### The CaReFuL Exception Mnemonic
 Which final consonants **are** pronounced? Remember the English word **CaReFuL**. The consonants **C**, **R**, **F**, and **L** are usually pronounced at the end of French words:
 
-| CaReFuL Consonant | Pronunciation in French | Examples with IPA & Translation | Key Exceptions |
+| CaReFuL Consonant | Pronunciation in French | Examples with IPA, Respelling & Translation | Key Exceptions |
 | :--- | :--- | :--- | :--- |
-| **C** | Audible **/k/** | **le sac** (/lə sak/ — *bag*), **le parc** (/lə paʁk/ — *park*), **avec** (/a.vɛk/ — *with*) | Silent after nasals: *blanc* (/blɑ̃/), *banc* (/bɑ̃/) |
-| **R** | Audible guttural **/ʁ/** | **l'hiver** (/li.vɛʁ/ — *winter*), **la mer** (/la mɛʁ/ — *sea*), **bonsoir** (/bɔ̃.swaʁ/ — *good evening*) | Silent in regular **-er** infinitives: *parler* (/paʁ.le/) |
-| **F** | Audible **/f/** | **neuf** (/nœf/ — *nine/new*), **le chef** (/lə ʃɛf/ — *boss/chef*), **actif** (/ak.tif/ — *active*) | Silent in plural words: *les œufs* (/le.z‿ø/ — *eggs*) |
-| **L** | Audible **/l/** | **l'hôtel** (/lo.tɛl/ — *hotel*), **le ciel** (/lə sjɛl/ — *sky*), **le travail** (/lə tʁa.vaj/) | Silent in *le fils* (/lə fis/ — son) and *-il* in *fusil* |
+| **C** | Audible **/k/** | **le sac** (/lə sak/ — (luh SAK) — *bag*), **le parc** (/lə paʁk/ — (luh PARK) — *park*), **avec** (/a.vɛk/ — (ah-VEK) — *with*) | Silent after nasals: *blanc* (/blɑ̃/ — (BLAHN)), *banc* (/bɑ̃/ — (BAHN)) |
+| **R** | Audible guttural **/ʁ/** | **l'hiver** (/li.vɛʁ/ — (lee-VEHR) — *winter*), **la mer** (/la mɛʁ/ — (lah MEHR) — *sea*), **bonsoir** (/bɔ̃.swaʁ/ — (bohn-SWAHR) — *good evening*) | Silent in regular **-er** infinitives: *parler* (/paʁ.le/ — (par-LAY)) |
+| **F** | Audible **/f/** | **neuf** (/nœf/ — (NEUF) — *nine/new*), **le chef** (/lə ʃɛf/ — (luh SHEF) — *boss/chef*), **actif** (/ak.tif/ — (ahk-TEEF) — *active*) | Silent in plural words: *les œufs* (/le.z‿ø/ — (lay-ZEUH) — *eggs*) |
+| **L** | Audible **/l/** | **l'hôtel** (/lo.tɛl/ — (loh-TEL) — *hotel*), **le ciel** (/lə sjɛl/ — (luh SYEL) — *sky*), **le travail** (/lə tʁa.vaj/ — (luh trah-VYE)) | Silent in *le fils* (/lə fis/ — (luh FEESS) — son) and *-il* in *fusil* |
 
 Observe how the rule operates in complete expressions:
-> **C'est un grand sac blanc.** — /sɛ.t‿œ̃ ɡʁɑ̃ sak blɑ̃/  
+> **C'est un grand sac blanc.** — /sɛ.t‿œ̃ ɡʁɑ̃ sak blɑ̃/ (seh-tuhn grahn sak BLAHN)  
 > *It is a big white bag. (Notice: "d" in grand is silent; "c" in sac is audible; "c" in blanc is silent after a nasal).*
 
 ### Elision and the dropping of unstressed E
@@ -56,19 +56,19 @@ When certain short, monosyllabic words ending in **e** or **a** meet a word begi
 
 $$\text{le / la / je / me / te / se / ce / de / ne / que} + \text{voyelle / h muet} \rightarrow \text{l' / j' / m' / t' / s' / c' / d' / n' / qu'}$$
 
-- *le + ordinateur* → **l'ordinateur** (/lɔʁ.di.na.tœʁ/)
-- *la + école* → **l'école** (/le.kɔl/)
-- *je + habite* → **j'habite** (/ʒa.bit/)
-- *ce + est* → **c'est** (/sɛ/)
-- *que + il* → **qu'il** (/kil/)
+- *le + ordinateur* → **l'ordinateur** (/lɔʁ.di.na.tœʁ/ — (lor-dee-nah-TEUHR))
+- *la + école* → **l'école** (/le.kɔl/ — (lay-KAWL))
+- *je + habite* → **j'habite** (/ʒa.bit/ — (zhah-BEET))
+- *ce + est* → **c'est** (/sɛ/ — (SEH))
+- *que + il* → **qu'il** (/kil/ — (KEEL))
 
 > **Rule on "Si"**: The conjunction *si* (if) elides **only before masculine pronouns** (*il, ils*): *s'il vous plaît*, *s'ils viennent*. It **never** elides before feminine pronouns: *si elle vient* (never *s'elle*).
 
 #### 2. The Dropped "E" in Natural Spoken French (Le E caduc)
 In fast conversational French, unstressed neutral /ə/ sounds inside or between words are frequently dropped whenever the surrounding consonants can be pronounced smoothly:
-- *samedi* is written with three syllables, but pronounced in two: **/sam.di/** (not /sa.mə.di/).
-- *la semaine* is pronounced **/las.mɛn/**.
-- *je ne sais pas* is reduced colloquially to **/ʒnə.se.pa/** or even **/ʃse.pa/**.
+- *samedi* is written with three syllables, but pronounced in two: **/sam.di/** (sahm-DEE) (not /sa.mə.di/).
+- *la semaine* is pronounced **/las.mɛn/** (lah-SMEN).
+- *je ne sais pas* is reduced colloquially to **/ʒnə.se.pa/** or even **/ʃse.pa/** (shsay-PAH).
 
 ### The mechanics of liaison: Awakening silent consonants
 
@@ -77,27 +77,27 @@ In written French, words stand separated by spaces. But in spoken French, words 
 A **liaison** occurs when a consonant that is normally **completely silent** at the end of a word is **awakened and pronounced** as the initial sound of the following word, because that following word begins with a **vowel sound** or **silent H**.
 
 Compare the isolated word versus the linked phrase:
-- Word alone: **les** is pronounced **/le/** (the *s* is 100% silent).
-- Word alone: **amis** is pronounced **/a.mi/**.
-- In phrase: **les amis** merges into a single continuous sound chain: **/le.z‿a.mi/**!
+- Word alone: **les** is pronounced **/le/** (lay) (the *s* is 100% silent).
+- Word alone: **amis** is pronounced **/a.mi/** (ah-MEE).
+- In phrase: **les amis** merges into a single continuous sound chain: **/le.z‿a.mi/** (lay-zah-MEE)!
 
 #### The Three Phonetic Shifts in Liaison:
 When final consonants awaken during a liaison, several transform their sound:
 
 1. **Final S and X transform into a voiced /z/ sound**:
-   - *les‿enfants* → **/le.z‿ɑ̃.fɑ̃/**
-   - *deux‿heures* → **/dø.z‿œʁ/**
-   - *vous‿êtes* → **/vu.z‿ɛt/**
-   - *beaux‿arbres* → **/bo.z‿aʁbʁ/**
+   - *les‿enfants* → **/le.z‿ɑ̃.fɑ̃/** (lay-zahn-FAHN)
+   - *deux‿heures* → **/dø.z‿œʁ/** (deuh-ZEUR)
+   - *vous‿êtes* → **/vu.z‿ɛt/** (voo-ZEHT)
+   - *beaux‿arbres* → **/bo.z‿aʁbʁ/** (boh-ZAHR-bruh)
 
 2. **Final D transforms into an unvoiced dental /t/ sound**:
-   - *un grand‿homme* → **/œ̃ ɡʁɑ̃.t‿ɔm/**
-   - *quand‿il arrive* → **/kɑ̃.t‿i.la.ʁiv/**
-   - *un pied-à-terre* → **/œ̃ pje.t‿a.tɛʁ/**
+   - *un grand‿homme* → **/œ̃ ɡʁɑ̃.t‿ɔm/** (uhn grahn-TAWM)
+   - *quand‿il arrive* → **/kɑ̃.t‿i.la.ʁiv/** (kahn-tee-lah-REEV)
+   - *un pied-à-terre* → **/œ̃ pje.t‿a.tɛʁ/** (uhn pyay-tah-TEHR)
 
 3. **Final F transforms into a voiced /v/ sound (in specific time/age units)**:
-   - *neuf‿heures* → **/nœ.v‿œʁ/** (9:00 / nine hours)
-   - *neuf‿ans* → **/nœ.v‿ɑ̃/** (nine years old)
+   - *neuf‿heures* → **/nœ.v‿œʁ/** (nuh-VEUR — 9:00 / nine hours)
+   - *neuf‿ans* → **/nœ.v‿ɑ̃/** (nuh-VAHN — nine years old)
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -105,9 +105,9 @@ When final consonants awaken during a liaison, several transform their sound:
 
 This is the most critical phonetic distinction in the French language:
 - **Ils ont** (*They have* — from *avoir*): Contains a **mandatory /z/ liaison** linking the pronoun *ils* to the vowel *ont*:
-  - **Ils ont** = **/il.z‿ɔ̃/**
+  - **Ils ont** = **/il.z‿ɔ̃/** (eel-ZOHN)
 - **Ils sont** (*They are* — from *être*): The verb *sont* begins with the consonant **s**. There is **no liaison** with the pronoun:
-  - **Ils sont** = **/il sɔ̃/**
+  - **Ils sont** = **/il sɔ̃/** (eel SOHN)
 
 Saying `/il sɔ̃ un problème/` means "They are a problem," whereas `/il.z‿ɔ̃ un problème/` means "They have a problem." Examiners listen intently for this voiced /z/ versus unvoiced /s/ contrast.
 
@@ -121,54 +121,54 @@ Not all adjacent words link together. French strictly categorizes liaisons into 
 You **must** make a liaison in these four grammatical environments:
 
 1. **Determiner + Noun / Adjective**:
-   - *un‿ordinateur* (/œ̃.n‿ɔʁ.di.na.tœʁ/)
-   - *les‿amis* (/le.z‿a.mi/)
-   - *mon‿amie* (/mɔ̃.n‿a.mi/)
-   - *ces‿immeubles* (/se.z‿i.mœbl/)
+   - *un‿ordinateur* (/œ̃.n‿ɔʁ.di.na.tœʁ/ — (uhn-nor-dee-nah-TEUHR))
+   - *les‿amis* (/le.z‿a.mi/ — (lay-zah-MEE))
+   - *mon‿amie* (/mɔ̃.n‿a.mi/ — (mohn-nah-MEE))
+   - *ces‿immeubles* (/se.z‿i.mœbl/ — (say-zee-MEU-bluh))
 
 2. **Pronoun + Verb / Verb + Pronoun**:
-   - *nous‿allons* (/nu.z‿a.lɔ̃/)
-   - *vous‿écoutez* (/vu.z‿e.ku.te/)
-   - *ils‿aiment* (/il.z‿ɛm/)
-   - *on‿arrive* (/ɔ̃.n‿a.ʁiv/)
-   - *allez-y* (/a.le.zi/)
+   - *nous‿allons* (/nu.z‿a.lɔ̃/ — (noo-zah-LOHN))
+   - *vous‿écoutez* (/vu.z‿e.ku.te/ — (voo-zay-koo-TAY))
+   - *ils‿aiment* (/il.z‿ɛm/ — (eel-ZEHM))
+   - *on‿arrive* (/ɔ̃.n‿a.ʁiv/ — (ohn-nah-REEV))
+   - *allez-y* (/a.le.zi/ — (ah-lay-ZEE))
 
 3. **Short Adjective + Noun**:
-   - *un petit‿enfant* (/œ̃ pə.ti.t‿ɑ̃.fɑ̃/)
-   - *un bel‿appartement* (/œ̃ bɛ.l‿a.paʁ.tə.mɑ̃/)
-   - *le premier‿avril* (/lə pʁə.mjɛ.ʁ‿a.vʁil/)
+   - *un petit‿enfant* (/œ̃ pə.ti.t‿ɑ̃.fɑ̃/ — (uhn puh-tee-tahn-FAHN))
+   - *un bel‿appartement* (/œ̃ bɛ.l‿a.paʁ.tə.mɑ̃/ — (uhn bel-ah-par-tuh-MAHN))
+   - *le premier‿avril* (/lə pʁə.mjɛ.ʁ‿a.vʁil/ — (luh pruh-myeh-rah-VREEL))
 
 4. **Monosyllabic Prepositions and Adverbs**:
-   - *dans‿un mois* (/dɑ̃.z‿œ̃ mwa/)
-   - *chez‿eux* (/ʃe.z‿ø/)
-   - *en‿avion* (/ɑ̃.n‿a.vjɔ̃/)
-   - *très‿intéressant* (/tʁɛ.z‿ɛ̃.te.ʁɛ.sɑ̃/)
+   - *dans‿un mois* (/dɑ̃.z‿œ̃ mwa/ — (dahn-zuhn MWAH))
+   - *chez‿eux* (/ʃe.z‿ø/ — (shay-ZEUH))
+   - *en‿avion* (/ɑ̃.n‿a.vjɔ̃/ — (ahn-nah-VYOHN))
+   - *très‿intéressant* (/tʁɛ.z‿ɛ̃.te.ʁɛ.sɑ̃/ — (treh-zan-tay-reh-SAHN))
 
 #### 2. Forbidden Liaisons (Liaisons interdites)
 Making a liaison in these environments sounds jarring and uneducated to native speakers. You must **never** make a liaison in the following situations:
 
 1. **After the conjunction "et" (and)**:
-   - *un café et‿un thé* → ✗ NEVER link! Pronounce: `/œ̃ ka.fe e œ̃ te/`. The word *et* is **never** followed by a liaison.
+   - *un café et‿un thé* → ✗ NEVER link! Pronounce: `/œ̃ ka.fe e œ̃ te/` (uhn kah-fay ay uhn tay). The word *et* is **never** followed by a liaison.
 
 2. **After a Singular Noun Subject**:
-   - *Le train‿arrive.* → ✗ NEVER link! Pronounce: `/lə tʁɛ̃ a.ʁiv/`. (Liaison only occurs after pronouns: *Il‿arrive*).
+   - *Le train‿arrive.* → ✗ NEVER link! Pronounce: `/lə tʁɛ̃ a.ʁiv/` (luh tran ah-REEV). (Liaison only occurs after pronouns: *Il‿arrive*).
 
 3. **Before an "Aspirated H" (H aspiré)**:
-   - While silent *h* allows liaison (*les‿hommes* /le.z‿ɔm/), words beginning with an aspirated *h* (*h aspiré*) block liaison and elision:
-     - *les héros* (/le e.ʁo/ — *the heroes*; never /le.z‿e.ʁo/!)
-     - *en haut* (/ɑ̃ o/ — *upstairs/at the top*)
-     - *le haricot* (/lə a.ʁi.ko/ — *the bean*)
+   - While silent *h* allows liaison (*les‿hommes* /le.z‿ɔm/ — (lay-ZAWM)), words beginning with an aspirated *h* (*h aspiré*) block liaison and elision:
+     - *les héros* (/le e.ʁo/ — (lay ay-ROH) — *the heroes*; never /le.z‿e.ʁo/!)
+     - *en haut* (/ɑ̃ o/ — (ahn OH) — *upstairs/at the top*)
+     - *le haricot* (/lə a.ʁi.ko/ — (luh ah-ree-KOH) — *the bean*)
 
 4. **Between an Inverted Verb-Subject and Complement**:
-   - *Sont-ils‿arrivés ?* → ✗ Pronounce: `/sɔ̃.til a.ʁi.ve/`.
+   - *Sont-ils‿arrivés ?* → ✗ Pronounce: `/sɔ̃.til a.ʁi.ve/` (sohn-teel ah-ree-VAY).
 
 | Environment | Example | Liaison Status | Pronunciation Guide |
 | :--- | :--- | :--- | :--- |
-| **Determiner + Noun** | *les enfants* | **Mandatory** | Clean /z/ link: `/le.z‿ɑ̃.fɑ̃/` |
-| **Subject Pronoun + Verb** | *vous écoutez* | **Mandatory** | Clean /z/ link: `/vu.z‿e.ku.te/` |
-| **After "et"** | *un père et un fils* | **Forbidden** | Complete pause: `/e œ̃ fis/` |
-| **After Singular Noun** | *le chat écoute* | **Forbidden** | Silent t: `/lə ʃa e.kut/` |
-| **Before Aspirated H** | *les héros* | **Forbidden** | No link: `/le e.ʁo/` |
+| **Determiner + Noun** | *les enfants* | **Mandatory** | Clean /z/ link: `/le.z‿ɑ̃.fɑ̃/` (lay-zahn-FAHN) |
+| **Subject Pronoun + Verb** | *vous écoutez* | **Mandatory** | Clean /z/ link: `/vu.z‿e.ku.te/` (voo-zay-koo-TAY) |
+| **After "et"** | *un père et un fils* | **Forbidden** | Complete pause: `/e œ̃ fis/` (ay uhn FEESS) |
+| **After Singular Noun** | *le chat écoute* | **Forbidden** | Silent t: `/lə ʃa e.kut/` (luh shah ay-KOOT) |
+| **Before Aspirated H** | *les héros* | **Forbidden** | No link: `/le e.ʁo/` (lay ay-ROH) |
 
 ### Canadian French consonant characteristics: Affrication
 
@@ -177,13 +177,13 @@ When you arrive in Montreal, Gatineau, or Quebec City, you will immediately noti
 #### The Rule of Affrication:
 In Québec French and across French Canada, whenever the dental consonants **T** and **D** appear immediately before the high front vowels **/i/** or **/y/** (or their corresponding glides **/j/** and **/ɥ/**), they are pronounced with an added sibilant friction:
 - **T + /i/ or /y/** becomes **/ts/**:
-  - **tu** (/ty/) sounds like **/tsy/** **(QC)**
-  - **petit** (/pə.ti/) sounds like **/pə.tsi/** **(QC)**
-  - **parti** (/paʁ.ti/) sounds like **/paʁ.tsi/** **(QC)**
+  - **tu** (/ty/) sounds like **/tsy/** (tsew) **(QC)**
+  - **petit** (/pə.ti/) sounds like **/pə.tsi/** (puh-TSEE) **(QC)**
+  - **parti** (/paʁ.ti/) sounds like **/paʁ.tsi/** (par-TSEE) **(QC)**
 - **D + /i/ or /y/** becomes **/dz/**:
-  - **dire** (/diʁ/) sounds like **/dziʁ/** **(QC)**
-  - **mardi** (/maʁ.di/) sounds like **/maʁ.dzi/** **(QC)**
-  - **du** (/dy/) sounds like **/dzy/** **(QC)**
+  - **dire** (/diʁ/) sounds like **/dziʁ/** (dzeer) **(QC)**
+  - **mardi** (/maʁ.di/) sounds like **/maʁ.dzi/** (mar-DZEE) **(QC)**
+  - **du** (/dy/) sounds like **/dzy/** (dzew) **(QC)**
 
 This is not "slang"; it is the natural, standard phonological accent of educated native speakers in Canada. It occurs automatically in formal news broadcasts, university lectures, and workplace meetings.
 
@@ -232,21 +232,21 @@ In TCF Canada Speaking Task 1 and 2, examiners do not require you to imitate a C
    </details>
 
 2. **Core Vocabulary & Anki Deck Expansion**  
-   Add these 14 essential liaison pairs and pronunciation rules with IPA to your Anki deck:
-   - *les amis* (/le.z‿a.mi/) — the friends (mandatory /z/ liaison)
-   - *nous allons* (/nu.z‿a.lɔ̃/) — we go (mandatory /z/ liaison)
-   - *vous êtes* (/vu.z‿ɛt/) — you are (mandatory /z/ liaison)
-   - *ils ont* (/il.z‿ɔ̃/) — they have (mandatory /z/ liaison)
-   - *ils sont* (/il sɔ̃/) — they are (no liaison on sont!)
-   - *un grand homme* (/œ̃ ɡʁɑ̃.t‿ɔm/) — a great man (/t/ liaison shift)
-   - *quand il* (/kɑ̃.t‿il/) — when he (/t/ liaison shift)
-   - *neuf heures* (/nœ.v‿œʁ/) — 9 o'clock (/v/ liaison shift)
-   - *chez eux* (/ʃe.z‿ø/) — at their place (/z/ liaison)
-   - *dans un mois* (/dɑ̃.z‿œ̃ mwa/) — in one month (/z/ liaison)
-   - *et un* (/e œ̃/) — and a (FORBIDDEN liaison!)
-   - *les héros* (/le e.ʁo/) — the heroes (FORBIDDEN liaison before aspirated h)
-   - *le sac* (/lə sak/) — bag (CaReFuL: pronounced c)
-   - *chaud* (/ʃo/) — hot (silent final d)
+   Add these 14 essential liaison pairs and pronunciation rules with IPA and English phonetic respelling to your Anki deck:
+   - *les amis* (/le.z‿a.mi/ — (lay-zah-MEE)) — the friends (mandatory /z/ liaison)
+   - *nous allons* (/nu.z‿a.lɔ̃/ — (noo-zah-LOHN)) — we go (mandatory /z/ liaison)
+   - *vous êtes* (/vu.z‿ɛt/ — (voo-ZEHT)) — you are (mandatory /z/ liaison)
+   - *ils ont* (/il.z‿ɔ̃/ — (eel-ZOHN)) — they have (mandatory /z/ liaison)
+   - *ils sont* (/il sɔ̃/ — (eel SOHN)) — they are (no liaison on sont!)
+   - *un grand homme* (/œ̃ ɡʁɑ̃.t‿ɔm/ — (uhn grahn-TAWM)) — a great man (/t/ liaison shift)
+   - *quand il* (/kɑ̃.t‿il/ — (kahn-TEEL)) — when he (/t/ liaison shift)
+   - *neuf heures* (/nœ.v‿œʁ/ — (nuh-VEUR)) — 9 o'clock (/v/ liaison shift)
+   - *chez eux* (/ʃe.z‿ø/ — (shay-ZEUH)) — at their place (/z/ liaison)
+   - *dans un mois* (/dɑ̃.z‿œ̃ mwa/ — (dahn-zuhn MWAH)) — in one month (/z/ liaison)
+   - *et un* (/e œ̃/ — (ay UHN)) — and a (FORBIDDEN liaison!)
+   - *les héros* (/le e.ʁo/ — (lay ay-ROH)) — the heroes (FORBIDDEN liaison before aspirated h)
+   - *le sac* (/lə sak/ — (luh SAK)) — bag (CaReFuL: pronounced c)
+   - *chaud* (/ʃo/ — (SHOH)) — hot (silent final d)
 
 3. **Receptive Listening Task**  
    Listen to the liaison and rhythm training dialogue on [TV5Monde — La liaison et l'enchaînement en français (A1)](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
@@ -258,10 +258,10 @@ In TCF Canada Speaking Task 1 and 2, examiners do not require you to imitate a C
 
 4. **Productive Speaking Task (Liaison Accuracy Benchmark)**  
    Record yourself on your phone or using [Vocaroo](https://vocaroo.com/) reading the following 4 sentences aloud in under 30 seconds:
-   - Sentence 1: *Nous‿avons deux‿enfants et nous‿habitons à Montréal.* (/nu.z‿a.vɔ̃ dø.z‿ɑ̃.fɑ̃ e nu.z‿a.bi.tɔ̃ a mɔ̃.ʁe.al/)
-   - Sentence 2: *Vous‿êtes chez‿eux avec un grand‿ami.* (/vu.z‿ɛt ʃe.z‿ø a.vɛk œ̃ ɡʁɑ̃.t‿a.mi/)
-   - Sentence 3: *Ils‿ont faim, mais ils sont très fatigués.* (/il.z‿ɔ̃ fɛ̃, mɛ il sɔ̃ tʁɛ fa.ti.ɡe/)
-   - Sentence 4: *Paul et Alice regardent les héros du film.* (/pɔl e a.lis ʁə.ɡaʁd le e.ʁo dy film/ — notice the two forbidden liaisons: no link after *et*, no link before *héros*!)
+   - Sentence 1: *Nous‿avons deux‿enfants et nous‿habitons à Montréal.* (/nu.z‿a.vɔ̃ dø.z‿ɑ̃.fɑ̃ e nu.z‿a.bi.tɔ̃ a mɔ̃.ʁe.al/ — (noo-zah-VOHN deuh-zahn-FAHN ay noo-zah-bee-TOHN ah mohn-ray-AL))
+   - Sentence 2: *Vous‿êtes chez‿eux avec un grand‿ami.* (/vu.z‿ɛt ʃe.z‿ø a.vɛk œ̃ ɡʁɑ̃.t‿a.mi/ — (voo-ZEHT shay-ZEUH ah-vek uhn grahn-tah-MEE))
+   - Sentence 3: *Ils‿ont faim, mais ils sont très fatigués.* (/il.z‿ɔ̃ fɛ̃, mɛ il sɔ̃ tʁɛ fa.ti.ɡe/ — (eel-ZOHN fan, meh eel SOHN treh fah-tee-GAY))
+   - Sentence 4: *Paul et Alice regardent les héros du film.* (/pɔl e a.lis ʁə.ɡaʁd le e.ʁo dy film/ — (pol ay ah-LEESS ruh-gard lay ay-ROH dew FEELM) — notice the two forbidden liaisons: no link after *et*, no link before *héros*!)
    
    Listen back to your recording. Confirm that your /z/ liaisons were voiced clearly, that you made no link after *et*, and that *ils ont* sounded distinctly different from *ils sont*.
 
