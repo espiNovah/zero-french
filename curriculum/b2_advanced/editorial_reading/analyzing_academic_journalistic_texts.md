@@ -92,7 +92,7 @@ Instead of writing separate sentences linked by *parce que* or *puisque*, editor
 
 > **Exemple :**  
 > *« Faute d'avoir anticipé la transition démographique, les régimes de retraite se trouvent aujourd'hui confrontés à un déséquilibre actuariel sans précédent. »*  
-> /fot d‿a.vwaʁ ɑ̃.ti.si.pe la tʁɑ̃.zi.sjɔ̃ de.mɔ.gʁa.fik, le ʁe.ʒim də ʁə.tʁɛt sə tʁuv o.ʒuʁ.dɥi kɔ̃.fʁɔ̃.te a œ̃ de.ze.ki.libʁ ak.tɥa.ʁjɛl sɑ̃ pʁe.se.dɑ̃/  
+> /fot d‿a.vwaʁ ɑ̃.ti.si.pe la tʁɑ̃.zi.sjɔ̃ de.mɔ.gʁa.fik, le ʁe.ʒim də ʁə.tʁɛt sə tʁuv o.ʒuʁ.dɥi kɔ̃.fʁɔ̃.te a œ̃ de.ze.ki.libʁ ak.tɥa.ʁjɛl sɑ̃ pʁe.se.dɑ̃/ (*foht dah-VWAHR ahn-tee-see-PAY lah trahn-zee-SYOHN day-moh-grah-FEEK, lay ray-ZHEEM duh ruh-TREHT suh troov oh-zhoor-DWEE kohn-frohn-TAY ah uhn day-zay-kee-LEE-bruh ahk-twah-RYEHL sahn pray-say-DAHN*)  
 > *Failing to have anticipated the demographic transition, pension systems now face an unprecedented actuarial imbalance.*
 
 The initial phrase *« Faute d'avoir anticipé »* is not a participial clause but a **prepositional infinitive phrase** (*faute de* + past infinitive). It establishes the causal explanation for the main clause that follows. A true participial equivalent would be *« N'ayant pas anticipé la transition démographique, les régimes de retraite… »*.
@@ -110,18 +110,18 @@ Upper-tier texts frequently deploy complex relative pronouns (*auquel, duquel, p
 
 To navigate B2/C1 texts without constant dictionary hesitation, you must master the high-frequency academic vocabulary used to describe trends, debate mechanisms, and conceptual models:
 
-| French Analytical Term | IPA Transcription | English Definition | Illustrative Context |
-| :--- | :--- | :--- | :--- |
-| **un paradigme** | /œ̃ pa.ʁa.diɡm/ | theoretical framework / paradigm | *L'économie circulaire marque un changement de paradigme fondamental.* |
-| **la précarisation** | /la pʁe.ka.ʁi.za.sjɔ̃/ | process of making unstable/insecure | *La précarisation des emplois contractuels fragilise les jeunes diplômés.* |
-| **l'effritement** *(m.)* | /l‿e.fʁit.mɑ̃/ | gradual erosion or crumbling | *Les sociologues observent un effritement continu du tissu communautaire.* |
-| **une aporie** | /yn a.pɔ.ʁi/ | logical impasse / insurmountable contradiction | *Tenter de concilier croissance infinie et ressources limitées constitue une aporie.* |
-| **la conciliation** | /la kɔ̃.si.lja.sjɔ̃/ | reconciliation / balancing conflicting needs | *La conciliation entre vie professionnelle et obligations familiales demeure complexe.* |
-| **le désengagement** | /lə de.zɑ̃.gaʒ.mɑ̃/ | withdrawal / scaling back of involvement | *Le désengagement progressif de l'État dans le financement du logement social.* |
-| **une dichotomie** | /yn di.kɔ.tɔ.mi/ | sharp division into two opposing parts | *L'auteur réfute la dichotomie simpliste entre écologie et rentabilité économique.* |
-| **corroborer** | /kɔ.ʁɔ.bɔ.ʁe/ | to confirm / substantiate with evidence | *Les données statistiques récentes viennent corroborer les hypothèses de l'étude.* |
-| **infirmer** | /ɛ̃.fiʁ.me/ | to invalidate / disprove a theory | *Les résultats des essais cliniques ont infirmé la théorie initiale des chercheurs.* |
-| **obvier à** | /ɔb.vje a/ | to obviate / prevent or circumvent a danger | *Des mesures d'urgence ont été adoptées afin d'obvier aux ruptures d'approvisionnement.* |
+| French Analytical Term | IPA Transcription | Phonetic Respelling | English Definition | Illustrative Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **un paradigme** | /œ̃ pa.ʁa.diɡm/ | (uhn pah-rah-DEEGM) | theoretical framework / paradigm | *L'économie circulaire marque un changement de paradigme fondamental.* |
+| **la précarisation** | /la pʁe.ka.ʁi.za.sjɔ̃/ | (lah pray-kah-ree-zah-SYOHN) | process of making unstable/insecure | *La précarisation des emplois contractuels fragilise les jeunes diplômés.* |
+| **l'effritement** *(m.)* | /l‿e.fʁit.mɑ̃/ | (lay-freet-MAHN) | gradual erosion or crumbling | *Les sociologues observent un effritement continu du tissu communautaire.* |
+| **une aporie** | /yn a.pɔ.ʁi/ | (ewn ah-poh-REE) | logical impasse / insurmountable contradiction | *Tenter de concilier croissance infinie et ressources limitées constitue une aporie.* |
+| **la conciliation** | /la kɔ̃.si.lja.sjɔ̃/ | (lah kohn-see-lyah-SYOHN) | reconciliation / balancing conflicting needs | *La conciliation entre vie professionnelle et obligations familiales demeure complexe.* |
+| **le désengagement** | /lə de.zɑ̃.gaʒ.mɑ̃/ | (luh day-zahn-gahzh-MAHN) | withdrawal / scaling back of involvement | *Le désengagement progressif de l'État dans le financement du logement social.* |
+| **une dichotomie** | /yn di.kɔ.tɔ.mi/ | (ewn dee-koh-toh-MEE) | sharp division into two opposing parts | *L'auteur réfute la dichotomie simpliste entre écologie et rentabilité économique.* |
+| **corroborer** | /kɔ.ʁɔ.bɔ.ʁe/ | (koh-roh-boh-RAY) | to confirm / substantiate with evidence | *Les données statistiques récentes viennent corroborer les hypothèses de l'étude.* |
+| **infirmer** | /ɛ̃.fiʁ.me/ | (ehn-feer-MAY) | to invalidate / disprove a theory | *Les résultats des essais cliniques ont infirmé la théorie initiale des chercheurs.* |
+| **obvier à** | /ɔb.vje a/ | (ohb-vyay AH) | to obviate / prevent or circumvent a danger | *Des mesures d'urgence ont été adoptées afin d'obvier aux ruptures d'approvisionnement.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -290,11 +290,11 @@ Match each analytical word on the left with its most precise contextual synonym 
 
 | Term | Potential Synonyms |
 | :--- | :--- |
-| **1. Corroborer** | A. Réfuter / contredire une hypothèse |
-| **2. Une aporie** | B. Confirmer / étayer par des preuves |
-| **3. L'effritement** | C. Dégradation continue / délitement progressif |
-| **4. Infirmer** | D. Impasse logique / dilemme sans solution évidente |
-| **5. Obvier à** | E. Parer à / faire obstacle à un danger |
+| **1. Corroborer** — /kɔ.ʁɔ.bɔ.ʁe/ (*koh-roh-boh-RAY*) | A. Réfuter / contredire une hypothèse |
+| **2. Une aporie** — /yn a.pɔ.ʁi/ (*ewn ah-poh-REE*) | B. Confirmer / étayer par des preuves |
+| **3. L'effritement** — /l‿e.fʁit.mɑ̃/ (*lay-freet-MAHN*) | C. Dégradation continue / délitement progressif |
+| **4. Infirmer** — /ɛ̃.fiʁ.me/ (*ehn-feer-MAY*) | D. Impasse logique / dilemme sans solution évidente |
+| **5. Obvier à** — /ɔb.vje a/ (*ohb-vyay AH*) | E. Parer à / faire obstacle à un danger |
 
 <details>
 <summary>Check your answers</summary>
