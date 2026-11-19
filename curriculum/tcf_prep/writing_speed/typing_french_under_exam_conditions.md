@@ -94,9 +94,9 @@ The most common frustration for beginners using US-International is typing an el
 
 To produce a true apostrophe followed by a vowel:
 - Press `'` then immediately tap the **Spacebar**, then type the vowel:
-  - `j` + `'` + `Space` + `a` + `i` $\rightarrow$ **j'ai** — /ʒe/ — *I have*
-  - `c` + `'` + `Space` + `e` + `s` + `t` $\rightarrow$ **c'est** — /sɛ/ — *it is*
-  - `d` + `'` + `Space` + `a` + `c` + `c` + `o` + `r` + `d` $\rightarrow$ **d'accord** — /da.kɔʁ/ — *agreed*
+  - `j` + `'` + `Space` + `a` + `i` $\rightarrow$ **j'ai** — /ʒe/ (*zhay*) — *I have*
+  - `c` + `'` + `Space` + `e` + `s` + `t` $\rightarrow$ **c'est** — /sɛ/ (*seh*) — *it is*
+  - `d` + `'` + `Space` + `a` + `c` + `c` + `o` + `r` + `d` $\rightarrow$ **d'accord** — /da.kɔʁ/ (*dah-KOHR*) — *agreed*
 
 Train this **apostrophe-spacebar-vowel** sequence until it becomes an automatic micro-reflex.
 
@@ -142,11 +142,11 @@ Omitting an accent in French frequently turns a verb into a preposition, or an a
 
 | Accented Form | Grammatical Identity | Unaccented Form | Grammatical Identity | Exemplary Exam Pair |
 | :--- | :--- | :--- | :--- | :--- |
-| **à** | Preposition (*to, at*) | **a** | Auxiliary verb *avoir* (*has*) | **Il a voyagé à Montréal.** — /i.l‿a vwa.ja.ʒe a mɔ̃.ʁe.al/ — *He traveled to Montreal.* |
-| **où** | Relative pronoun/adverb (*where*) | **ou** | Conjunction (*or*) | **La ville où nous habitons ou travaillons.** — /la vil u nu.z‿a.bi.tɔ̃ u tʁa.va.jɔ̃/ — *The city where we live or work.* |
-| **la** / **le** | Definite article (*the*) | **là** | Adverb of place/time (*there*) | **Restez là pendant la réunion.** — /ʁɛs.te la pɑ̃.dɑ̃ la ʁe.y.njɔ̃/ — *Stay there during the meeting.* |
-| **dû** | Past participle of *devoir* | **du** | Contracted article (*de + le*) | **Il a dû payer le prix du billet.** — /i.l‿a dy pe.je lə pʁi dy bi.jɛ/ — *He had to pay the price of the ticket.* |
-| **sûr** | Adjective (*sure, certain*) | **sur** | Preposition (*on, upon*) | **Je suis sûr de l'avoir posée sur la table.** — /ʒə sɥi syʁ də la.vwaʁ po.ze syʁ la tabl/ — *I am sure I put it on the table.* |
+| **à** | Preposition (*to, at*) | **a** | Auxiliary verb *avoir* (*has*) | **Il a voyagé à Montréal.** — /i.l‿a vwa.ja.ʒe a mɔ̃.ʁe.al/ (*ee-lah vwah-yah-ZHAY ah mohn-ray-AHL*) — *He traveled to Montreal.* |
+| **où** | Relative pronoun/adverb (*where*) | **ou** | Conjunction (*or*) | **La ville où nous habitons ou travaillons.** — /la vil u nu.z‿a.bi.tɔ̃ u tʁa.va.jɔ̃/ (*lah VEEL oo noo-zah-bee-TOHN oo trah-vah-YOHN*) — *The city where we live or work.* |
+| **la** / **le** | Definite article (*the*) | **là** | Adverb of place/time (*there*) | **Restez là pendant la réunion.** — /ʁɛs.te la pɑ̃.dɑ̃ la ʁe.y.njɔ̃/ (*rehs-TAY lah pahn-dahn lah ray-ew-NYOHN*) — *Stay there during the meeting.* |
+| **dû** | Past participle of *devoir* | **du** | Contracted article (*de + le*) | **Il a dû payer le prix du billet.** — /i.l‿a dy pe.je lə pʁi dy bi.jɛ/ (*ee-lah DEW pay-YAY luh PREE dew bee-YEH*) — *He had to pay the price of the ticket.* |
+| **sûr** | Adjective (*sure, certain*) | **sur** | Preposition (*on, upon*) | **Je suis sûr de l'avoir posée sur la table.** — /ʒə sɥi syʁ də la.vwaʁ po.ze syʁ la tabl/ (*zhuh swee SEWR duh lah-VWAHR poh-ZAY sewr lah TAH-bluh*) — *I am sure I put it on the table.* |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -154,7 +154,7 @@ Omitting an accent in French frequently turns a verb into a preposition, or an a
 
 The most common and costly spelling mistake in French is substituting the infinitive **-er** for the past participle **-é** (or vice versa):
 - Incorrect: *« J'ai participer à la conférence. »*
-- Correct: **« J'ai participé à la conférence. »** — /ʒe paʁ.ti.si.pe a la kɔ̃.fe.ʁɑ̃s/ — *I participated in the conference.*
+- Correct: **« J'ai participé à la conférence. »** — /ʒe paʁ.ti.si.pe a la kɔ̃.fe.ʁɑ̃s/ (*zhay pahr-tee-see-PAY ah lah kohn-fay-RAHNS*) — *I participated in the conference.*
 
 Because both sound identical (/paʁ.ti.si.pe/), typing quickly without proofreading leads candidates to type `-er` out of habit. 
 
@@ -168,7 +168,7 @@ Because both sound identical (/paʁ.ti.si.pe/), typing quickly without proofread
 
 In French, elision (*l'élision*) is not optional; it is a mandatory phonetic rule. Failing to elide is treated as a foundational grammatical error:
 - Incorrect: *« Je ai vu ce que il a fait. »*
-- Correct: **« J'ai vu ce qu'il a fait. »** — /ʒe vy sə k‿i.l‿a fɛ/ — *I saw what he did.*
+- Correct: **« J'ai vu ce qu'il a fait. »** — /ʒe vy sə k‿i.l‿a fɛ/ (*zhay VEW suh kee-lah FEH*) — *I saw what he did.*
 
 Words that must undergo elision before a vowel or mute h (*h muet*):
 - **Articles**: *le*, *la* $\rightarrow$ **l'ami**, **l'heure**
@@ -181,12 +181,12 @@ Words that must undergo elision before a vowel or mute h (*h muet*):
 
 The hyphen (*le trait d'union* `-`) is grammatically required in two primary TCF contexts:
 1. **Formal Inversions in Task 2 and Task 3**:
-   - **« Pourriez-vous me préciser les modalités ? »** — /pu.ʁje vu mə pʁe.si.ze le mɔ.da.li.te/ — *Could you clarify the terms for me?*
-   - **« Peut-être devrions-nous reconsidérer ce projet. »** — /pø.t‿ɛtʁ də.vʁi.jɔ̃ nu ʁə.kɔ̃.si.de.ʁe sə pʁɔ.ʒɛ/ — *Perhaps we ought to reconsider this project.*
+   - **« Pourriez-vous me préciser les modalités ? »** — /pu.ʁje vu mə pʁe.si.ze le mɔ.da.li.te/ (*poor-yay-VOO muh pray-see-ZAY lay moh-dah-lee-TAY*) — *Could you clarify the terms for me?*
+   - **« Peut-être devrions-nous reconsidérer ce projet. »** — /pø.t‿ɛtʁ də.vʁi.jɔ̃ nu ʁə.kɔ̃.si.de.ʁe sə pʁɔ.ʒɛ/ (*puh-TEH-truh duh-vree-yohn-NOO ruh-kohn-see-day-RAY suh proh-ZHEH*) — *Perhaps we ought to reconsider this project.*
 2. **Compound Civic Terms**:
-   - **« Les États-Unis »** — /le.z‿e.ta.z‿y.ni/ — *The United States*
-   - **« Le rond-point »** — /lə ʁɔ̃.pwɛ̃/ — *The roundabout*
-   - **« Au-delà de »** — /o.də.la də/ — *Beyond*
+   - **« Les États-Unis »** — /le.z‿e.ta.z‿y.ni/ (*lay-zay-tah-zew-NEE*) — *The United States*
+   - **« Le rond-point »** — /lə ʁɔ̃.pwɛ̃/ (*luh rohn-PWEHN*) — *The roundabout*
+   - **« Au-delà de »** — /o.də.la də/ (*oh-duh-lah DUH*) — *Beyond*
 
 ---
 
@@ -264,20 +264,20 @@ Disable autocorrect and spellcheck completely in your text editor. Type the foll
 
 Master these 12 technical and exam-specific terms, noting their phonetic pronunciations and accent placements:
 
-| Term in French | IPA Transcription | English Translation | Keystroke Focus |
-| :--- | :--- | :--- | :--- |
-| **Le clavier** | /lə kla.vje/ | The keyboard | Standard -er noun |
-| **La touche** | /la tuʃ/ | The key (button) | Vowel /u/ |
-| **L'accent aigu** | /l‿ak.sɑ̃.t‿e.ɡy/ | The acute accent (´) | Mandatory elision + /y/ |
-| **L'accent grave** | /l‿ak.sɑ̃ ɡʁav/ | The grave accent (`) | Open vowel /a/ |
-| **Le circonflexe** | /lə siʁ.kɔ̃.flɛks/ | The circumflex (^) | Nasal vowel /ɔ̃/ |
-| **Le tréma** | /lə tʁe.ma/ | The diaeresis (¨) | Closed /e/ |
-| **La cédille** | /la se.dij/ | The cedilla (ç) | Palatal /j/ |
-| **L'apostrophe** | /l‿a.pɔs.tʁɔf/ | The apostrophe (') | Feminine noun with elision |
-| **Le trait d'union** | /lə tʁɛ d‿y.njɔ̃/ | The hyphen (-) | Elision with *d'union* |
-| **Le correcteur** | /lə kɔ.ʁɛk.tœʁ/ | Spellcheck / autocorrect | Open /œ/ |
-| **La saisie** | /la se.zi/ | Typing / data entry | Feminine noun |
-| **La frappe** | /la fʁap/ | Keystroke / typing | Direct feminine noun |
+| Term in French | IPA Transcription | Phonetic Respelling | English Translation | Keystroke Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **Le clavier** | /lə kla.vje/ | (luh klah-VYAY) | The keyboard | Standard -er noun |
+| **La touche** | /la tuʃ/ | (lah TOOSH) | The key (button) | Vowel /u/ |
+| **L'accent aigu** | /l‿ak.sɑ̃.t‿e.ɡy/ | (lahk-sahn-tay-GEW) | The acute accent (´) | Mandatory elision + /y/ |
+| **L'accent grave** | /l‿ak.sɑ̃ ɡʁav/ | (lahk-sahn GRAHV) | The grave accent (`) | Open vowel /a/ |
+| **Le circonflexe** | /lə siʁ.kɔ̃.flɛks/ | (luh seer-kohn-FLEHKS) | The circumflex (^) | Nasal vowel /ɔ̃/ |
+| **Le tréma** | /lə tʁe.ma/ | (luh tray-MAH) | The diaeresis (¨) | Closed /e/ |
+| **La cédille** | /la se.dij/ | (lah say-DEE-yuh) | The cedilla (ç) | Palatal /j/ |
+| **L'apostrophe** | /l‿a.pɔs.tʁɔf/ | (lah-pohs-TROHF) | The apostrophe (') | Feminine noun with elision |
+| **Le trait d'union** | /lə tʁɛ d‿y.njɔ̃/ | (luh treh dew-NYOHN) | The hyphen (-) | Elision with *d'union* |
+| **Le correcteur** | /lə kɔ.ʁɛk.tœʁ/ | (luh koh-rehk-TUHR) | Spellcheck / autocorrect | Open /œ/ |
+| **La saisie** | /la se.zi/ | (lah say-ZEE) | Typing / data entry | Feminine noun |
+| **La frappe** | /la fʁap/ | (lah FRAHP) | Keystroke / typing | Direct feminine noun |
 
 ---
 
