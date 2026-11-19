@@ -44,7 +44,7 @@ In French grammar, the past tense system operates on a dual track:
 When an author uses the *passé simple*, they create an objective temporal distance. Consider this sentence, typical of advanced reading documents:
 
 > **« Dès son accession au pouvoir en 1960, le nouveau premier ministre engagea une vaste modernisation de l'État québécois ; il nationalisa l'électricité et créa des ministères clés, ce qui transforma irréversiblement la société civile. »**  
-> — /dɛ sɔ̃n‿ak.sɛ.sjɔ̃ o pu.vwaʁ ɑ̃ mil nœf sɑ̃ swa.sɑ̃t lə nu.vo pʁə.mje mi.nistʁ ɑ̃.ɡa.ʒa yn vast mɔ.dɛʁ.ni.za.sjɔ̃ də l‿e.ta ke.be.kwa/  
+> — /dɛ sɔ̃n‿ak.sɛ.sjɔ̃ o pu.vwaʁ ɑ̃ mil nœf sɑ̃ swa.sɑ̃t lə nu.vo pʁə.mje mi.nistʁ ɑ̃.ɡa.ʒa yn vast mɔ.dɛʁ.ni.za.sjɔ̃ də l‿e.ta ke.be.kwa/ (deh soh-nahk-seh-SYOHN oh poo-VWAHR ahn meel nuhf sahn swah-SAHNT, luh noo-VOH pruh-MYAY mee-NEES-truh ahn-gah-ZHAH ewn VAHST moh-dehr-nee-zah-SYOHN duh lay-tah kay-bay-KWAH)  
 > *Upon his accession to power in 1960, the new premier initiated a vast modernization of the Quebec state; he nationalized electricity and created key ministries, which irreversibly transformed civil society.*
 
 If a reader does not instantly register that **« engagea »**, **« nationalisa »**, and **« transforma »** are past actions equivalent to *a engagé*, *a nationalisé*, and *a transformé*, the sentence can be misinterpreted as describing future aspirations or ongoing policies, leading directly to selecting a false timeline distractor.
@@ -91,10 +91,10 @@ The *passé simple* organizes all French verbs into four distinct vowel-stem fam
 
 All regular `-er` verbs (including *aller*) take **-a** in the singular and **-èrent** in the plural:
 
-- **parler**: **Il parla** — /il paʁ.la/ (*he spoke*) | **Ils parlèrent** — /il paʁ.lɛʁ/ (*they spoke*)
-- **créer**: **Elle créa** — /ɛl kʁe.a/ (*she created*) | **Elles créèrent** — /ɛl kʁe.ɛʁ/ (*they created*)
-- **aller**: **Il alla** — /i.l‿a.la/ (*he went*) | **Ils allèrent** — /il.z‿a.lɛʁ/ (*they went*)
-- **décider**: **Le gouvernement décida** — /lə ɡu.vɛʁ.nə.mɑ̃ de.si.da/ (*the government decided*)
+- **parler**: **Il parla** — /il paʁ.la/ (eel pahr-LAH) (*he spoke*) | **Ils parlèrent** — /il paʁ.lɛʁ/ (eel pahr-LEHR) (*they spoke*)
+- **créer**: **Elle créa** — /ɛl kʁe.a/ (ehl kray-AH) (*she created*) | **Elles créèrent** — /ɛl kʁe.ɛʁ/ (ehl kray-EHR) (*they created*)
+- **aller**: **Il alla** — /i.l‿a.la/ (eel ah-LAH) (*he went*) | **Ils allèrent** — /il.z‿a.lɛʁ/ (eel-zah-LEHR) (*they went*)
+- **décider**: **Le gouvernement décida** — /lə ɡu.vɛʁ.nə.mɑ̃ de.si.da/ (luh goo-vehr-nuh-MAHN day-see-DAH) (*the government decided*)
 
 *Recognition Tip*: Whenever you see a verb ending in a standalone **-a** or **-èrent** on an `-er` stem, it is a completed past action.
 
@@ -102,31 +102,31 @@ All regular `-er` verbs (including *aller*) take **-a** in the singular and **-�
 
 Regular `-ir` verbs like *finir* and many 3rd-group verbs (*partir, prendre, dire, faire, voir*) take **-it** in the singular and **-irent** in the plural:
 
-- **finir**: **Il finit** — /il fi.ni/ (*he finished*) | **Ils finirent** — /il fi.niʁ/ (*they finished*)
-- **prendre**: **Elle prit** — /ɛl pʁi/ (*she took*) | **Elles prirent** — /ɛl pʁiʁ/ (*they took*)
-- **mettre**: **Il mit** — /il mi/ (*he put/placed*) | **Ils mirent** — /il miʁ/ (*they put/placed*)
-- **dire**: **Il dit** — /il di/ (*he said*) | **Ils dirent** — /il diʁ/ (*they said*)
-- **faire**: **Il fit** — /il fi/ (*he did/made*) | **Ils firent** — /il fiʁ/ (*they did/made*)
+- **finir**: **Il finit** — /il fi.ni/ (eel fee-NEE) (*he finished*) | **Ils finirent** — /il fi.niʁ/ (eel fee-NEER) (*they finished*)
+- **prendre**: **Elle prit** — /ɛl pʁi/ (ehl PREE) (*she took*) | **Elles prirent** — /ɛl pʁiʁ/ (ehl PREER) (*they took*)
+- **mettre**: **Il mit** — /il mi/ (eel MEE) (*he put/placed*) | **Ils mirent** — /il miʁ/ (eel MEER) (*they put/placed*)
+- **dire**: **Il dit** — /il di/ (eel DEE) (*he said*) | **Ils dirent** — /il diʁ/ (eel DEER) (*they said*)
+- **faire**: **Il fit** — /il fi/ (eel FEE) (*he did/made*) | **Ils firent** — /il fiʁ/ (eel FEER) (*they did/made*)
 
 #### 3. The "U" Family (3rd-group verbs having past participles in -u)
 
 Many irregular verbs whose past participle ends in **-u** (*vouloir $\rightarrow$ voulu, pouvoir $\rightarrow$ pu, devoir $\rightarrow$ dû, savoir $\rightarrow$ su, lire $\rightarrow$ lu*) adopt the **-ut** / **-urent** pattern:
 
-- **vouloir**: **Il voulut** — /il vu.ly/ (*he wanted*) | **Ils voulurent** — /il vu.lyʁ/ (*they wanted*)
-- **pouvoir**: **Elle put** — /ɛl py/ (*she could / was able*) | **Elles purent** — /ɛl pyʁ/ (*they were able*)
-- **savoir**: **Il sut** — /il sy/ (*he learned / knew*) | **Ils surent** — /il syʁ/ (*they knew*)
-- **devoir**: **Il dut** — /il dy/ (*he had to*) | **Ils durent** — /il dyʁ/ (*they had to*)
-- **connaître**: **Elle connut** — /ɛl kɔ.ny/ (*she experienced/knew*) | **Elles connurent** — /ɛl kɔ.nyʁ/ (*they experienced*)
-- **disparaître**: **Le navire disparut** — /lə na.viʁ dis.pa.ʁy/ (*the ship disappeared*)
+- **vouloir**: **Il voulut** — /il vu.ly/ (eel voo-LEW) (*he wanted*) | **Ils voulurent** — /il vu.lyʁ/ (eel voo-LEWR) (*they wanted*)
+- **pouvoir**: **Elle put** — /ɛl py/ (ehl PEW) (*she could / was able*) | **Elles purent** — /ɛl pyʁ/ (ehl PEWR) (*they were able*)
+- **savoir**: **Il sut** — /il sy/ (eel SEW) (*he learned / knew*) | **Ils surent** — /il syʁ/ (eel SEWR) (*they knew*)
+- **devoir**: **Il dut** — /il dy/ (eel DEW) (*he had to*) | **Ils durent** — /il dyʁ/ (eel DEWR) (*they had to*)
+- **connaître**: **Elle connut** — /ɛl kɔ.ny/ (ehl koh-NEW) (*she experienced/knew*) | **Elles connurent** — /ɛl kɔ.nyʁ/ (ehl koh-NEWR) (*they experienced*)
+- **disparaître**: **Le navire disparut** — /lə na.viʁ dis.pa.ʁy/ (luh nah-VEER dees-pah-REW) (*the ship disappeared*)
 
 #### 4. The "IN" Family (Venir, Tenir, and compounds)
 
 Verbs built on *venir* (*devenir, parvenir, revenir*) and *tenir* (*obtenir, maintenir, retenir*) take the nasal vowel **-int** / **-inrent** (/ɛ̃/):
 
-- **venir**: **Il vint** — /il vɛ̃/ (*he came*) | **Ils vinrent** — /il vɛ̃ʁ/ (*they came*)
-- **devenir**: **Elle devint** — /ɛl də.vɛ̃/ (*she became*) | **Elles devinrent** — /ɛl də.vɛ̃ʁ/ (*they became*)
-- **obtenir**: **Le chercheur obtint** — /lə ʃɛʁ.ʃœʁ ɔb.tɛ̃/ (*the researcher obtained*)
-- **maintenir**: **Le tribunal maintint** — /lə tʁi.by.nal mɛ̃.tɛ̃/ (*the court maintained*)
+- **venir**: **Il vint** — /il vɛ̃/ (eel VEHN) (*he came*) | **Ils vinrent** — /il vɛ̃ʁ/ (eel VEHN-ruh) (*they came*)
+- **devenir**: **Elle devint** — /ɛl də.vɛ̃/ (ehl duh-VEHN) (*she became*) | **Elles devinrent** — /ɛl də.vɛ̃ʁ/ (ehl duh-VEHN-ruh) (*they became*)
+- **obtenir**: **Le chercheur obtint** — /lə ʃɛʁ.ʃœʁ ɔb.tɛ̃/ (luh shehr-SHUHR ohb-TEHN) (*the researcher obtained*)
+- **maintenir**: **Le tribunal maintint** — /lə tʁi.by.nal mɛ̃.tɛ̃/ (luh tree-bew-NAHL mehn-TEHN) (*the court maintained*)
 
 ---
 
@@ -140,15 +140,15 @@ The auxiliary verbs have unique stems in the *passé simple*:
 
 | Verb | Passé Simple (3rd Sing) | Passé Simple (3rd Plur) | Meaning in Context |
 | :--- | :--- | :--- | :--- |
-| **Être** | **Il / Elle fut** — /il fy/ | **Ils / Elles furent** — /il fyʁ/ | *He / She was* (*a été*) |
-| **Avoir** | **Il / Elle eut** — /il y/ | **Ils / Elles eurent** — /il.z‿yʁ/ | *He / She had* (*a eu*) |
+| **Être** | **Il / Elle fut** — /il fy/ (eel/ehl FEW) | **Ils / Elles furent** — /il fyʁ/ (eel/ehl FEWR) | *He / She was* (*a été*) |
+| **Avoir** | **Il / Elle eut** — /il y/ (eel/ehl EW) | **Ils / Elles eurent** — /il.z‿yʁ/ (eel/ehl-ZEWR) | *He / She had* (*a eu*) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Pronunciation and Visual Traps of EUT and FUT
 
 - **eut / eurent**: Although written with **eu**, it is pronounced strictly with the pure closed French vowel **/y/**, exactly like the letter *u*.
-  - **« Dès qu'il eut confirmation de la nouvelle... »** — /dɛ k‿i.l‿y kɔ̃.fiʁ.ma.sjɔ̃ də la nu.vɛl/ (*As soon as he had confirmation of the news...*)
+  - **« Dès qu'il eut confirmation de la nouvelle... »** — /dɛ k‿i.l‿y kɔ̃.fiʁ.ma.sjɔ̃ də la nu.vɛl/ (deh keel EW kohn-feer-mah-SYOHN duh lah noo-VEHL) (*As soon as he had confirmation of the news...*)
 - **fut**: Do not confuse **« fut »** (*passé simple* of *être*) with **« fût »** (imparfait du subjonctif) or think it refers to the future. If a text states:
   **« Ce traité fut signé en 1982 »**, it means the treaty **was signed** in 1982, not that it will be signed in the future!
 
@@ -158,12 +158,12 @@ The auxiliary verbs have unique stems in the *passé simple*:
 
 | Passé Simple Form | Verb of Origin & True Meaning | Dangerous Homophone / False Reading | Exemplary Contrast Sentence |
 | :--- | :--- | :--- | :--- |
-| **Il vit** | **Voir** (*He saw*) | **Il vit** (from *vivre* — *he lives*) | **Quand il vit la fumée, il comprit le danger.** — /kɑ̃.t‿il vi la fy.me il kɔ̃.pʁi lə dɑ̃.ʒe/ (*When he saw the smoke, he understood the danger.*) |
-| **Il fit** | **Faire** (*He made/did*) | **Fait** (Present tense or noun) | **Cette découverte fit sensation dans le monde médical.** — /sɛt de.ku.vɛʁt fi sɑ̃.sa.sjɔ̃/ (*This discovery made a sensation...*) |
-| **Il put** | **Pouvoir** (*He could / was able*) | **Pue** (from *puer* — *to stink*) | **Après des années d'efforts, il put enfin publier ses travaux.** — /a.pʁɛ de.z‿a.ne d‿e.fɔʁ il py ɑ̃.fɛ̃ py.bli.je/ |
-| **Il sut** | **Savoir** (*He knew / learned*) | **Su / sût** (past participle *il a su*; imperfect subjunctive *qu'il sût* — same sound /sy/) | **Dès qu'il sut la vérité, il démissionna.** — /dɛ k‿il sy la ve.ʁi.te il de.mi.sjɔ.na/ (*As soon as he learned the truth, he resigned.*) |
-| **Il naquit** | **Naître** (*He was born*) | Confusion with *noyer* or *naviguer* | **L'écrivaine naquit à Montréal au début du siècle.** — /l‿e.kʁi.vɛn na.ki a mɔ̃.ʁe.al/ (*The writer was born in Montreal...*) |
-| **Il mourut** | **Mourir** (*He died*) | Confusion with *mûr* or *mordre* | **Il mourut sans laisser d'héritier.** — /il mu.ʁy sɑ̃ lɛ.se d‿e.ʁi.tje/ (*He died without leaving an heir.*) |
+| **Il vit** | **Voir** (*He saw*) | **Il vit** (from *vivre* — *he lives*) | **Quand il vit la fumée, il comprit le danger.** — /kɑ̃.t‿il vi la fy.me il kɔ̃.pʁi lə dɑ̃.ʒe/ (kahn-teel VEE lah few-MAY, eel kohn-PREE luh dahn-ZHAY) (*When he saw the smoke, he understood the danger.*) |
+| **Il fit** | **Faire** (*He made/did*) | **Fait** (Present tense or noun) | **Cette découverte fit sensation dans le monde médical.** — /sɛt de.ku.vɛʁt fi sɑ̃.sa.sjɔ̃/ (seht day-koo-VEHRT fee sahn-sah-SYOHN) (*This discovery made a sensation...*) |
+| **Il put** | **Pouvoir** (*He could / was able*) | **Pue** (from *puer* — *to stink*) | **Après des années d'efforts, il put enfin publier ses travaux.** — /a.pʁɛ de.z‿a.ne d‿e.fɔʁ il py ɑ̃.fɛ̃ py.bli.je/ (ah-preh day-zah-NAY day-FOHR, eel PEW ahn-FEHN pew-blee-YAY) |
+| **Il sut** | **Savoir** (*He knew / learned*) | **Su / sût** (past participle *il a su*; imperfect subjunctive *qu'il sût* — same sound /sy/) | **Dès qu'il sut la vérité, il démissionna.** — /dɛ k‿il sy la ve.ʁi.te il de.mi.sjɔ.na/ (deh keel SEW lah vay-ree-TAY, eel day-mee-syoh-NAH) (*As soon as he learned the truth, he resigned.*) |
+| **Il naquit** | **Naître** (*He was born*) | Confusion with *noyer* or *naviguer* | **L'écrivaine naquit à Montréal au début du siècle.** — /l‿e.kʁi.vɛn na.ki a mɔ̃.ʁe.al/ (lay-kree-VEHN nah-KEE ah mohn-ray-AHL) (*The writer was born in Montreal...*) |
+| **Il mourut** | **Mourir** (*He died*) | Confusion with *mûr* or *mordre* | **Il mourut sans laisser d'héritier.** — /il mu.ʁy sɑ̃ lɛ.se d‿e.ʁi.tje/ (eel moo-REW sahn leh-SAY day-ree-TYAY) (*He died without leaving an heir.*) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -221,20 +221,20 @@ Read the 10 sentences below, extracted from high-difficulty journalistic and his
 
 Commit these 12 high-frequency irregular *passé simple* forms to your recognition memory:
 
-| Passé Simple Form | Infinitive | IPA Transcription | English Equivalent |
-| :--- | :--- | :--- | :--- |
-| **Il acquit** | *Acquérir* | /i.l‿a.ki/ | *He acquired* (*il a acquis*) |
-| **Il conclut** | *Conclure* | /il kɔ̃.kly/ | *He concluded* (*il a conclu*) |
-| **Il craignit** | *Craindre* | /il kʁɛ.ɲi/ | *He feared* (*il a craint*) |
-| **Il disparut** | *Disparaître* | /il dis.pa.ʁy/ | *He disappeared* (*il a disparu*) |
-| **Il devint** | *Devenir* | /il də.vɛ̃/ | *He became* (*il est devenu*) |
-| **Il ouvrit** | *Ouvrir* | /i.l‿u.vʁi/ | *He opened* (*il a ouvert*) |
-| **Il parvint à** | *Parvenir à* | /il paʁ.vɛ̃ a/ | *He succeeded in* (*il est parvenu à*) |
-| **Il peignit** | *Peindre* | /il pɛ.ɲi/ | *He painted* (*il a peint*) |
-| **Il produisit** | *Produire* | /il pʁɔ.dɥi.zi/ | *He produced* (*il a produit*) |
-| **Il résolut** | *Résoudre* | /il ʁe.zɔ.ly/ | *He resolved* (*il a résolu*) |
-| **Il retint** | *Retenir* | /il ʁə.tɛ̃/ | *He retained* (*il a retenu*) |
-| **Il vécut** | *Vivre* | /il ve.ky/ | *He lived* (*il a vécu*) |
+| Passé Simple Form | Infinitive | IPA Transcription | Phonetic Respelling | English Equivalent |
+| :--- | :--- | :--- | :--- | :--- |
+| **Il acquit** | *Acquérir* | /i.l‿a.ki/ | (eel ah-KEE) | *He acquired* (*il a acquis*) |
+| **Il conclut** | *Conclure* | /il kɔ̃.kly/ | (eel kohn-KLEW) | *He concluded* (*il a conclu*) |
+| **Il craignit** | *Craindre* | /il kʁɛ.ɲi/ | (eel krehn-YEE) | *He feared* (*il a craint*) |
+| **Il disparut** | *Disparaître* | /il dis.pa.ʁy/ | (eel dees-pah-REW) | *He disappeared* (*il a disparu*) |
+| **Il devint** | *Devenir* | /il də.vɛ̃/ | (eel duh-VEHN) | *He became* (*il est devenu*) |
+| **Il ouvrit** | *Ouvrir* | /i.l‿u.vʁi/ | (eel oo-VREE) | *He opened* (*il a ouvert*) |
+| **Il parvint à** | *Parvenir à* | /il paʁ.vɛ̃ a/ | (eel pahr-VEHN ah) | *He succeeded in* (*il est parvenu à*) |
+| **Il peignit** | *Peindre* | /il pɛ.ɲi/ | (eel pehn-YEE) | *He painted* (*il a peint*) |
+| **Il produisit** | *Produire* | /il pʁɔ.dɥi.zi/ | (eel proh-dwee-ZEE) | *He produced* (*il a produit*) |
+| **Il résolut** | *Résoudre* | /il ʁe.zɔ.ly/ | (eel ray-zoh-LEW) | *He resolved* (*il a résolu*) |
+| **Il retint** | *Retenir* | /il ʁə.tɛ̃/ | (eel ruh-TEHN) | *He retained* (*il a retenu*) |
+| **Il vécut** | *Vivre* | /il ve.ky/ | (eel vay-KEW) | *He lived* (*il a vécu*) |
 
 ---
 
