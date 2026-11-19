@@ -128,18 +128,18 @@ In Canadian editorial reading passages, watch for institutional expressions that
 
 Master the true semantic boundaries of these ten high-frequency traps encountered in B2/C1 reading exams:
 
-| French Term | IPA Transcription | English False Friend | True French Meaning | Illustrative Context |
-| :--- | :--- | :--- | :--- | :--- |
-| **actuellement** | /ak.tɥɛl.mɑ̃/ | actually (in fact) | **currently / right now** | *Le projet de loi est actuellement examiné par la commission.* |
-| **ignorer** | /i.ɲɔ.ʁe/ | to ignore (deliberately) | **to not know / be unaware of** (the sense "to disregard" is in dictionaries but criticized as an anglicism) | *L'auteur semble ignorer les conclusions du dernier recensement.* |
-| **assister à** | /a.sis.te a/ | to assist / help | **to attend / witness an event** | *Les délégués ont assisté à une conférence plénière.* |
-| **sensible** | /sɑ̃.sibl/ | sensible (reasonable) | **sensitive / perceptible / delicate** | *La question linguistique demeure un enjeu sensible au pays.* |
-| **défendre** | /de.fɑ̃dʁ/ | to defend (only) | **to defend OR to forbid / prohibit** | *Le règlement municipal défend de stationner la nuit en hiver.* |
-| **décevoir** | /de.sə.vwaʁ/ | to deceive (lie/swindle) | **to disappoint / let down** | *Les résultats financiers ont déçu les investisseurs.* |
-| **prétendre** | /pʁe.tɑ̃dʁ/ | to pretend (make believe)| **to claim / assert firmly** | *Le promoteur prétend que le projet respecte l'environnement.* |
-| **éventuellement** | /e.vɑ̃.tɥɛl.mɑ̃/ | eventually (in the end) | **possibly / if need be** | *Le ministère pourrait éventuellement revoir sa décision.* |
-| **l'opportunité** | /l‿ɔ.pɔʁ.ty.ni.te/ | opportunity (chance) | **appropriateness / timeliness** (the "chance" sense also exists but is criticized) | *L'éditorialiste conteste l'opportunité de cette dépense.* |
-| **formidable** | /fɔʁ.mi.dabl/ | formidable (scary/daunting)| **terrific / impressive / vast** | *Ce chercheur a accompli un travail tout à fait formidable.* |
+| French Term | IPA Transcription | Phonetic Respelling | English False Friend | True French Meaning | Illustrative Context |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **actuellement** | /ak.tɥɛl.mɑ̃/ | (ahk-twel-MAHN) | actually (in fact) | **currently / right now** | *Le projet de loi est actuellement examiné par la commission.* |
+| **ignorer** | /i.ɲɔ.ʁe/ | (een-yoh-RAY) | to ignore (deliberately) | **to not know / be unaware of** (the sense "to disregard" is in dictionaries but criticized as an anglicism) | *L'auteur semble ignorer les conclusions du dernier recensement.* |
+| **assister à** | /a.sis.te a/ | (ah-sees-tay AH) | to assist / help | **to attend / witness an event** | *Les délégués ont assisté à une conférence plénière.* |
+| **sensible** | /sɑ̃.sibl/ | (sahn-SEE-bluh) | sensible (reasonable) | **sensitive / perceptible / delicate** | *La question linguistique demeure un enjeu sensible au pays.* |
+| **défendre** | /de.fɑ̃dʁ/ | (day-FAHN-druh) | to defend (only) | **to defend OR to forbid / prohibit** | *Le règlement municipal défend de stationner la nuit en hiver.* |
+| **décevoir** | /de.sə.vwaʁ/ | (day-suh-VWAHR) | to deceive (lie/swindle) | **to disappoint / let down** | *Les résultats financiers ont déçu les investisseurs.* |
+| **prétendre** | /pʁe.tɑ̃dʁ/ | (pray-TAHN-druh) | to pretend (make believe)| **to claim / assert firmly** | *Le promoteur prétend que le projet respecte l'environnement.* |
+| **éventuellement** | /e.vɑ̃.tɥɛl.mɑ̃/ | (ay-vahn-twel-MAHN) | eventually (in the end) | **possibly / if need be** | *Le ministère pourrait éventuellement revoir sa décision.* |
+| **l'opportunité** | /l‿ɔ.pɔʁ.ty.ni.te/ | (loh-pohr-tew-nee-TAY) | opportunity (chance) | **appropriateness / timeliness** (the "chance" sense also exists but is criticized) | *L'éditorialiste conteste l'opportunité de cette dépense.* |
+| **formidable** | /fɔʁ.mi.dabl/ | (fohr-mee-DAH-bluh) | formidable (scary/daunting)| **terrific / impressive / vast** | *Ce chercheur a accompli un travail tout à fait formidable.* |
 
 ---
 
