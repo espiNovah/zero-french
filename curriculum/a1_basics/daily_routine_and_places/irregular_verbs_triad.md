@@ -82,7 +82,7 @@ Observe the conjugations in context:
 > **Qu'est-ce que vous faites dans la vie ?** — /kɛs.kə vu fɛt dɑ̃ la vi/ (kes-kuh voo FET dahn lah VEE)  
 > *What do you do for a living? (Common interview and exam question)*
 
-> **Je fais du vélo le samedi matin.** — /ʒə fɛ dy ve.lo lə sam.di ma.tɛ̃/ (zhuh feh dew vay-LOH luh sahm-dee mah-TAN)  
+> **Je fais du vélo le samedi matin.** — /ʒə fɛ dy ve.lo lə sam.di ma.tɛ̃/ (zhuh feh dew vay-LOH luh sahm-dee mah-TEHN)  
 > *I go cycling on Saturday mornings.*
 
 > **Ils font leurs devoirs à la bibliothèque.** — /il fɔ̃ lœʁ də.vwaʁ a la bi.bli.jɔ.tɛk/ (eel fohn leuhr duh-VWAHR ah lah bee-blee-oh-TEK)  

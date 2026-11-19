@@ -152,11 +152,11 @@ To answer, always begin with **Il est...**:
 In daily casual conversation, French speakers use common fractional markers:
 - **et quart** (/e kaʁ/ — (ay KAHR)) — quarter past: *Il est trois heures **et quart*** (3:15)
 - **et demie** (/e də.mi/ — (ay duh-MEE)) — half past: *Il est quatre heures **et demie*** (4:30)
-- **moins le quart** (/mwɛ̃ lə kaʁ/ — (mwan luh KAHR)) — quarter to: *Il est six heures **moins le quart*** (5:45)
-- **moins dix** (/mwɛ̃ dis/ — (mwan DEESS)) — ten to: *Il est sept heures **moins dix*** (6:50)
+- **moins le quart** (/mwɛ̃ lə kaʁ/ — (mwen luh KAHR)) — quarter to: *Il est six heures **moins le quart*** (5:45)
+- **moins dix** (/mwɛ̃ dis/ — (mwen DEESS)) — ten to: *Il est sept heures **moins dix*** (6:50)
 
 When using the 12-hour clock, specify the period of day when necessary:
-- **du matin** (/dy ma.tɛ̃/ — (dew mah-TAN)) — in the morning (e.g. *8h du matin* = 8:00 am)
+- **du matin** (/dy ma.tɛ̃/ — (dew mah-TEHN)) — in the morning (e.g. *8h du matin* = 8:00 am)
 - **de l'après-midi** (/də la.pʁɛ.mi.di/ — (duh lah-preh-mee-DEE)) — in the afternoon (e.g. *3h de l'après-midi* = 3:00 pm)
 - **du soir** (/dy swaʁ/ — (dew SWAHR)) — in the evening (e.g. *8h du soir* = 8:00 pm)
 
@@ -304,8 +304,8 @@ Train yourself to immediately distinguish **quatorze** (/ka.tɔʁz/ (kah-TOHRZ) 
    - *mille* (/mil/ — (MEEL)) — 1,000 (invariable!)
    - *Il est midi / minuit* (/i.l‿ɛ mi.di/, /mi.nɥi/ — (eel ay mee-DEE / mee-NWEE)) — It is noon / midnight
    - *et quart / et demie* (/e kaʁ/, /e də.mi/ — (ay KAHR / ay duh-MEE)) — quarter past / half past
-   - *moins le quart* (/mwɛ̃ lə kaʁ/ — (mwan luh KAHR)) — quarter to
-   - *la fin de semaine (QC)* (/la fɛ̃ də s(ə)mɛn/ — (lah fan duh smen)) — the weekend
+   - *moins le quart* (/mwɛ̃ lə kaʁ/ — (mwen luh KAHR)) — quarter to
+   - *la fin de semaine (QC)* (/la fɛ̃ də s(ə)mɛn/ — (lah fehn duh smen)) — the weekend
    - *le premier mai* (/lə pʁə.mje mɛ/ — (luh pruh-mee-AY MEH)) — May 1st
    - *Quelle heure est-il ?* (/kɛ.l‿œʁ ɛ.til/ — (kel eur ay-TEEL)) — What time is it?
 

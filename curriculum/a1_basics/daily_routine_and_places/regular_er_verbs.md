@@ -136,7 +136,7 @@ In French, adverbs of frequency are usually placed **immediately after the conju
 
 #### Time-of-Day Markers
 To anchor your routine chronologically, use these everyday temporal expressions:
-- **le matin** (/lə ma.tɛ̃/ — (luh mah-TAN)) — in the morning
+- **le matin** (/lə ma.tɛ̃/ — (luh mah-TEHN)) — in the morning
 - **à midi** (/a mi.di/ — (ah mee-DEE)) — at noon
 - **l'après-midi** (/la.pʁɛ.mi.di/ — (lah-preh-mee-DEE)) — in the afternoon
 - **le soir** (/lə swaʁ/ — (luh SWAHR)) — in the evening
@@ -219,7 +219,7 @@ In TCF Canada Writing Task 1, you have 60 minutes to complete three tasks, and y
    - *terminer* (/tɛʁ.mi.ne/ — (tehr-mee-NAY)) — to finish
    - *toujours* (/tu.ʒuʁ/ — (too-ZHOOR)) — always
    - *souvent* (/su.vɑ̃/ — (soo-VAHN)) — often
-   - *le matin* (/lə ma.tɛ̃/ — (luh mah-TAN)) — in the morning
+   - *le matin* (/lə ma.tɛ̃/ — (luh mah-TEHN)) — in the morning
    - *le soir* (/lə swaʁ/ — (luh SWAHR)) — in the evening
 
 3. **Receptive Listening Task**  
