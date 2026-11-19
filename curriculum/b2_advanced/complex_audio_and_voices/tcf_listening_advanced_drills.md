@@ -80,9 +80,9 @@ IN ADVANCED TCF AUDIO       │
 
 #### 1. Acoustic Density and Conversational Reductions
 In advanced recordings, native speakers omit schwas (*e* caduc), drop liquid consonants (*l* and *r*), and contract grammatical function words:
-- *« Je ne sais pas »* → `[ʃe.pa]` (*ch'sais pas*)
-- *« Il n'y a plus de »* → `[ja.py.d]` (*y a pu d'*)
-- *« C'est parce que »* → `[s‿pas.kə]` (*spaske*)
+- *« Je ne sais pas »* — /ʒən sɛ pa/ → `[ʃe.pa]` (*sheh-pah*) (*« ch'sais pas »*)
+- *« Il n'y a plus de »* — /il n‿j‿a ply də/ → `[ja.py.d]` (*yah-pew-duh*) (*« y a pu d' »*)
+- *« C'est parce que »* — /s‿ɛ paʁs kə/ → `[s‿pas.kə]` (*spahs-kuh*) (*« spaske »*)
 
 In Canadian recordings, dental affrication (`[ts]`, `[dz]`) and high-vowel laxing (`[ɪ]`, `[ʏ]`, `[ʊ]`) are layered on top of conversational speed. You cannot wait for textbook articulation; you must process meaning from reduced phonetic streams.
 
@@ -106,9 +106,9 @@ The correct answer option will read:
 
 #### 4. Stance Modulation and Rhetorical Nuance
 Speakers frequently express nuanced, non-binary stances using modal verbs, conditional forms, and subtle discourse markers:
-- *« On pourrait imaginer que... »* (Hypothetical, not endorsed)
-- *« Certes, les résultats sont encourageants, mais il ne faudrait pas crier victoire prématurément. »* (Prudent skepticism, not total approval)
-- *« Il est pour le moins singulier que le ministère refuse de divulguer ces chiffres. »* (Veiled criticism / irony)
+- *« On pourrait imaginer que... »* — /ɔ̃ pu.ʁɛ t‿i.ma.ʒi.ne kə/ (*ohn poor-eh-tee-mah-zhee-NAY kuh*) (Hypothetical, not endorsed)
+- *« Certes, les résultats sont encourageants, mais il ne faudrait pas crier victoire prématurément. »* — /sɛʁt le ʁe.zyl.ta sɔ̃.t‿ɑ̃.ku.ʁa.ʒɑ̃ mɛ il nə fo.dʁɛ pa kʁi.je vik.twaʁ pʁe.ma.ty.ʁe.mɑ̃/ (*sehrt, lay ray-zewl-TAH sohhn-tahn-koo-rah-ZHAHN, meh eel nuh foh-DREH pah kree-YAY veek-TWAHR pray-mah-tew-ray-MAHN*) (Prudent skepticism, not total approval)
+- *« Il est pour le moins singulier que le ministère refuse de divulguer ces chiffres. »* — /il ɛ puʁ lə mwɛ̃ sɛ̃.gy.lje kə lə mi.nis.tɛʁ ʁə.fyz də di.vyl.ge se ʃifʁ/ (*eel eh poor luh mwehn sehn-gew-LYAY kuh luh mee-nees-TEHR ruh-FEWZ duh dee-vewl-GAY say SHEE-fruh*) (Veiled criticism / irony)
 
 ---
 
