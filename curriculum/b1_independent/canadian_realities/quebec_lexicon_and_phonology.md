@@ -18,39 +18,39 @@ Unlike European French, which frequently adopts English loanwords directly (*le 
 
 #### 1. Daily Life and Consumer Transactions
 
-| Canadian French Term | IPA Transcription | European Equivalent | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **le courriel** | /lə ku.ʁjɛl/ | l'e-mail / le mél | email | *Je vous ai transmis les documents requis par courriel.* |
-| **la fin de semaine** | /la fɛ̃ də s(ə).mɛn/ | le week-end | weekend | *Que prévoyez-vous faire durant la fin de semaine ?* |
-| **le stationnement** | /lə sta.sjɔn.mɑ̃/ | le parking | parking / parking lot | *Le stationnement souterrain est réservé aux employés.* |
-| **magasiner** | /ma.ga.zi.ne/ | faire les magasins / du shopping | to shop | *Elle est allée magasiner des vêtements d'hiver au centre commercial.* |
-| **un char** (fam.) | /œ̃ ʃaʁ/ | une voiture / une bagnole | a car | *Il a acheté un char d'occasion pour se déplacer en région.* |
-| **le breuvage** (fam., QC; the OQLF advises *boisson*) | /lə bʁœ.vaʒ/ | la boisson | beverage / drink | *Quel breuvage désirez-vous avec votre repas ?* (standard: *Quelle boisson désirez-vous… ?*) |
-| **une liqueur** (fam., QC; the OQLF advises *boisson gazeuse*) | /yn li.kœʁ/ | un soda / une boisson gazeuse | soft drink / soda | *Les enfants commandent une liqueur à l'orange.* (standard: *une boisson gazeuse à l'orange*) |
-| **la facture** | /la fak.tyʁ/ | l'addition (restaurant; *l'addition* is also normal in Québec) | restaurant bill / check | *Pouvons-nous avoir la facture s'il vous plaît ?* |
-| **le pourboire** (same word everywhere) | /lə puʁ.bwaʁ/ | le pourboire (in France, *service compris*: the tip is optional) | tip / gratuity | *Au Canada, le pourboire n'est pas inclus dans la facture.* |
+| Canadian French Term | IPA Transcription | Phonetic Respelling | European Equivalent | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **le courriel** | /lə ku.ʁjɛl/ | (luh koor-YEHL) | l'e-mail / le mél | email | *Je vous ai transmis les documents requis par courriel.* |
+| **la fin de semaine** | /la fɛ̃ də s(ə).mɛn/ | (lah fehn duh SMEHN) | le week-end | weekend | *Que prévoyez-vous faire durant la fin de semaine ?* |
+| **le stationnement** | /lə sta.sjɔn.mɑ̃/ | (luh stah-syohn-MAHN) | le parking | parking / parking lot | *Le stationnement souterrain est réservé aux employés.* |
+| **magasiner** | /ma.ga.zi.ne/ | (mah-gah-zee-NAY) | faire les magasins / du shopping | to shop | *Elle est allée magasiner des vêtements d'hiver au centre commercial.* |
+| **un char** (fam.) | /œ̃ ʃaʁ/ | (uhn SHAHR) | une voiture / une bagnole | a car | *Il a acheté un char d'occasion pour se déplacer en région.* |
+| **le breuvage** (fam., QC; the OQLF advises *boisson*) | /lə bʁœ.vaʒ/ | (luh bruh-VAHZH) | la boisson | beverage / drink | *Quel breuvage désirez-vous avec votre repas ?* (standard: *Quelle boisson désirez-vous… ?*) |
+| **une liqueur** (fam., QC; the OQLF advises *boisson gazeuse*) | /yn li.kœʁ/ | (ewn lee-KUHR) | un soda / une boisson gazeuse | soft drink / soda | *Les enfants commandent une liqueur à l'orange.* (standard: *une boisson gazeuse à l'orange*) |
+| **la facture** | /la fak.tyʁ/ | (lah fahk-TEWR) | l'addition (restaurant; *l'addition* is also normal in Québec) | restaurant bill / check | *Pouvons-nous avoir la facture s'il vous plaît ?* |
+| **le pourboire** (same word everywhere) | /lə puʁ.bwaʁ/ | (luh poor-BWAHR) | le pourboire (in France, *service compris*: the tip is optional) | tip / gratuity | *Au Canada, le pourboire n'est pas inclus dans la facture.* |
 
 #### 2. Meals of the Day: The Historical French System
 In Quebec and parts of Belgium and Switzerland, the naming of meals preserves the historical 17th-century French system, differing from modern Parisian usage:
 
 | Meal Time | Canadian French | European French | Meaning |
 | :--- | :--- | :--- | :--- |
-| Morning (7:00–9:00) | **le déjeuner** (/lə de.ʒœ.ne/) | le petit-déjeuner | breakfast |
-| Midday (12:00–13:30) | **le dîner** (/lə di.ne/) | le déjeuner | lunch |
-| Evening (18:00–20:00) | **le souper** (/lə su.pe/) | le dîner | dinner |
+| Morning (7:00–9:00) | **le déjeuner** (/lə de.ʒœ.ne/ — (luh day-zhuh-NAY)) | le petit-déjeuner | breakfast |
+| Midday (12:00–13:30) | **le dîner** (/lə di.ne/ — (luh dee-NAY)) | le déjeuner | lunch |
+| Evening (18:00–20:00) | **le souper** (/lə su.pe/ — (luh soo-PAY)) | le dîner | dinner |
 
 > [!TIP]
 > **Exam Trap in TCF Listening!**
 > If a dialogue mentions *« On se retrouve pour le dîner à midi »*, a candidate expecting European French might think of dinner at night. In Canadian French, **le dîner** is lunch at noon!
 
 #### 3. Relationships and Social Life
-* **un chum** (/œ̃ tʃɔm/) — *boyfriend* or *male friend* (colloquial):  
+* **un chum** (/œ̃ tʃɔm/ — (uhn TCHOHM)) — *boyfriend* or *male friend* (colloquial):  
   * *Mon chum et moi cherchons un appartement à louer.*
-* **une blonde** (/yn blɔ̃d/) — *girlfriend* (regardless of actual hair color):  
+* **une blonde** (/yn blɔ̃d/ — (ewn BLOHND)) — *girlfriend* (regardless of actual hair color):  
   * *Sa blonde travaille comme infirmière à l'hôpital général.*
-* **un dépanneur** (/œ̃ de.pa.nœʁ/) — *corner convenience store* (equivalent to European *supérette / épicerie de quartier*):  
+* **un dépanneur** (/œ̃ de.pa.nœʁ/ — (uhn day-pah-NUHR)) — *corner convenience store* (equivalent to European *supérette / épicerie de quartier*):  
   * *Je vais au dépanneur acheter du lait et du pain.*
-* **c'est le fun** (/s‿ɛ lə fɔn/) — *it's fun / enjoyable* (informal):  
+* **c'est le fun** (/s‿ɛ lə fɔn/ — (seh luh FUHN)) — *it's fun / enjoyable* (informal):  
   * *Cette activité d'intégration était vraiment le fun !*
 
 ---
@@ -76,13 +76,13 @@ QUEBEC PHONOLOGY FEATURES ───┤    - "vite" -> [vɪt], "lune" -> [lʏn], 
 #### 1. Affrication of /t/ and /d/ (*L'affrication*)
 This is the most recognizable signature of Quebec French. When the dental stop consonants **/t/** or **/d/** occur immediately before a high front vowel—**/i/**, **/y/** (spelled *u*), or semivowels **/j/**, **/ɥ/**—they receive an affricate release:
 * **/t/** becomes **[ts]**:
-  * **tu** (/ty/) is pronounced **[tsy]**
-  * **petit** (/pə.ti/) is pronounced **[pə.tsi]**
-  * **partir** (/paʁ.tiʁ/) is pronounced **[paʁ.tsiʁ]**
+  * **tu** (/ty/) is pronounced **[tsy]** (*tsew*)
+  * **petit** (/pə.ti/) is pronounced **[pə.tsi]** (*puh-TSEE*)
+  * **partir** (/paʁ.tiʁ/) is pronounced **[paʁ.tsiʁ]** (*pahr-TSEER*)
 * **/d/** becomes **[dz]**:
-  * **dire** (/diʁ/) is pronounced **[dziʁ]**
-  * **dimanche** (/di.mɑ̃ʃ/) is pronounced **[dzi.mɑ̃ʃ]**
-  * **du** (/dy/) is pronounced **[dzy]**
+  * **dire** (/diʁ/) is pronounced **[dziʁ]** (*DZEER*)
+  * **dimanche** (/di.mɑ̃ʃ/) is pronounced **[dzi.mɑ̃ʃ]** (*dzee-MAHNSH*)
+  * **du** (/dy/) is pronounced **[dzy]** (*dzew*)
 
 *Affrication does not occur before back vowels or open vowels:*
 * *table* remains [tabl] (not *[tsabl]*).
@@ -91,26 +91,26 @@ This is the most recognizable signature of Quebec French. When the dental stop c
 #### 2. Lax Vowels in Closed Final Syllables (*Le relâchement des voyelles hautes*)
 In standard European French, high vowels (/i/, /y/, /u/) remain tense and closed in all positions. In Quebec French, when these vowels appear in a closed syllable ending in a consonant, they become lax:
 * **/i/** becomes **[ɪ]** (similar to English *bit*):
-  * **vite** (/vit/) → **[vɪt]**
-  * **musique** (/my.zik/) → **[my.zɪk]**
+  * **vite** (/vit/) → **[vɪt]** (*VIHT*)
+  * **musique** (/my.zik/) → **[my.zɪk]** (*mew-ZIHK*)
 * **/y/** becomes **[ʏ]** (German *ü* in *fünf*):
-  * **lune** (/lyn/) → **[lʏn]**
-  * **sud** (/syd/) → **[sʏd]**
+  * **lune** (/lyn/) → **[lʏn]** (*LEWN*)
+  * **sud** (/syd/) → **[sʏd]** (*SEWD*)
 * **/u/** becomes **[ʊ]** (English *put*):
-  * **toute** (/tut/) → **[tʊt]**
-  * **bouche** (/buʃ/) → **[bʊʃ]**
+  * **toute** (/tut/) → **[tʊt]** (*TOOT*)
+  * **bouche** (/buʃ/) → **[bʊʃ]** (*BOOSH*)
 
 #### 3. Diphthongization of Long Vowels (*La diphtongaison*)
 When a long vowel or circumflex vowel appears in an accented syllable, informal and popular Quebec speech tends to pronounce it as a diphthong:
-* **fête** (/fɛt/) → **[faɛ̯t]**
-* **père** (/pɛʁ/) → **[paɛ̯ʁ]**
-* **pâte** (/pat/) → **[pɑɔ̯t]**
+* **fête** (/fɛt/) → **[faɛ̯t]** (*fah-EHT*)
+* **père** (/pɛʁ/) → **[paɛ̯ʁ]** (*pah-EHR*)
+* **pâte** (/pat/) → **[pɑɔ̯t]** (*pah-AWT*)
 
 *In formal settings (such as a news broadcast on Radio-Canada or a TCF interview), educated speakers avoid excessive diphthongization, but affrication remains natural and present across all social registers.*
 
 #### 4. Preservation of the Four Nasal Vowels
 While modern Parisian French has merged the nasal vowel **/œ̃/** (spelled *un, parfum*) into **/ɛ̃/** (spelled *in, pain*), Canadian French rigorously maintains the distinction:
-* **brin** (/bʁɛ̃/, *blade of grass*) vs **brun** (/bʁœ̃/, *brown*) are completely distinct sounds in Quebec!
+* **brin** (/bʁɛ̃/ — (BREHN), *blade of grass*) vs **brun** (/bʁœ̃/ — (BRUHN), *brown*) are completely distinct sounds in Quebec!
 
 ---
 
@@ -125,9 +125,9 @@ In conversational Canadian French, several phonological contractions occur routi
 * **elle** contracts to *a* or *al*:  
   * *A dit qu'a part à midi* instead of *Elle dit qu'elle part à midi.*
 * **tu** elides to **t'** before a vowel informally:  
-  * *T'es où ?* (/t‿ɛ u/) — *Where are you?*
+  * *T'es où ?* (/t‿ɛ u/ — *teh OO*) — *Where are you?*
 * **je suis** contracts to **chuis** or **chu**:  
-  * *Chu fatigué ce soir* (/ʃy fa.tsi.ge sə swaʁ/) — *I'm tired tonight.*
+  * *Chu fatigué ce soir* (/ʃy fa.tsi.ge sə swaʁ/ — *shew fah-tsee-GAY suh SWAHR*) — *I'm tired tonight.*
 
 #### 2. Interrogative Particle "-tu"
 In informal Quebec French, the particle **-tu** is placed after a conjugated verb to turn a statement into a yes/no question. This *-tu* is not the pronoun *tu* (you); it functions as an invariant interrogative marker applicable to all grammatical persons:
@@ -193,10 +193,10 @@ Keep this mental conversion chart active:
 
 #### Tactic 3: Filtering Conversational Discourse Markers
 Canadian speakers frequently pepper spontaneous remarks with regional discourse markers:
-* **tsé** (/tse/, from *tu sais* / *you know*).
-* **fait que** (/fɛk/, meaning *donc / par conséquent / so*):  
+* **tsé** (/tse/ — (TSAY), from *tu sais* / *you know*).
+* **fait que** (/fɛk/ — (FEHK), meaning *donc / par conséquent / so*):  
   * *« Y faisait froid, fait qu'on est restés en dedans. »* (Standard: *Il faisait froid, donc nous sommes restés à l'intérieur.*)
-* **là** (/la/, used as an emphatic rhythm marker at the end of sentences):  
+* **là** (/la/ — (LAH), used as an emphatic rhythm marker at the end of sentences):  
   * *« C'est ça là ! »* (Standard: *C'est exactement cela.*)
 
 ---
@@ -227,10 +227,10 @@ Replace the Canadian French term in italics with its standard European French eq
 #### Drill 2: Phonological Decoding
 Transcribe the phonetic transcription into standard written French:
 
-1. /[ʒə dwa paʁ.tsiʁ tut də sɥit]/
-2. /[il dziz k‿il va və.niʁ la fɛ̃ də smɛn]/
-3. /[nu.z‿a.vɔ̃ ma.ga.zi.ne dɑ̃ lə sɑ̃tʁ yʁ.bɛ̃]/
-4. /[s‿ɛ t‿œ̃ pə.tsi sta.sjɔn.mɑ̃ gʁa.tsɥi]/
+1. /[ʒə dwa paʁ.tsiʁ tut də sɥit]/ (*zhuh dwah pahr-TSEER toot duh SWEET*)
+2. /[il dziz k‿il va və.niʁ la fɛ̃ də smɛn]/ (*eel DZEEZ keel vah vuh-NEER lah fehn duh SMEHN*)
+3. /[nu.z‿a.vɔ̃ ma.ga.zi.ne dɑ̃ lə sɑ̃tʁ yʁ.bɛ̃]/ (*noo-zah-vohn mah-gah-zee-NAY dahn luh sahn-tr ewr-BEHN*)
+4. /[s‿ɛ t‿œ̃ pə.tsi sta.sjɔn.mɑ̃ gʁa.tsɥi]/ (*seh tuhn puh-TSEE stah-syohn-MAHN grah-TSWEE*)
 
 <details>
 <summary>View Drill 2 Solutions and Explanations</summary>
