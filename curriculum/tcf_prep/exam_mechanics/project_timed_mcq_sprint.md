@@ -54,12 +54,12 @@ Items get progressively harder; FEI publishes no item-number→level map, so the
 
 1. **Phase 1: Early, easier items**:
    - Identify the communicative setting within the first two seconds (*gare, magasin, restaurant, bureau, message téléphonique*).
-   - Beware of acoustic trap words: when the question asks about *le train pour Lyon*, do not click an option simply because you heard the word *Lyon* if the speaker said **« Le train en provenance de Lyon a dix minutes de retard »** — /lə tʁɛ̃ ɑ̃ pʁɔv.nɑ̃s də ljɔ̃ a di mi.nyt də ʁə.taʁ/ (*The train arriving from Lyon is ten minutes late*).
+   - Beware of acoustic trap words: when the question asks about *le train pour Lyon*, do not click an option simply because you heard the word *Lyon* if the speaker said **« Le train en provenance de Lyon a dix minutes de retard »** — /lə tʁɛ̃ ɑ̃ pʁɔv.nɑ̃s də ljɔ̃ a di mi.nyt də ʁə.taʁ/ (*luh trehn ahn prohv-NAHNS duh lyohn ah dee mee-NEWT duh ruh-TAHR*) (*The train arriving from Lyon is ten minutes late*).
    - Answer as soon as the audio ends and lock your attention onto the next item immediately.
 
 2. **Phase 2: Middle items**:
    - Apply the **Eye Sweep**: identify the grammatical subject and main verb of all four choices before the audio starts.
-   - Watch for explicit negations and nuance markers: **« Ce n'est pas tout à fait ce qui était convenu »** — /sə nɛ pa tu.t‿a fɛ sə ki e.tɛ kɔ̃v.ny/ (*That is not quite what was agreed upon*).
+   - Watch for explicit negations and nuance markers: **« Ce n'est pas tout à fait ce qui était convenu »** — /sə nɛ pa tu.t‿a fɛ sə ki e.tɛ kɔ̃v.ny/ (*suh neh pah too-tah FEH suh kee ay-teh kohnv-NEW*) (*That is not quite what was agreed upon*).
    - If an answer is not obvious after listening, eliminate the two most blatant distractors, make an educated guess between the remaining two, and move forward.
 
 3. **Phase 3: Later, hardest items**:
