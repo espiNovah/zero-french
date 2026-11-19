@@ -44,12 +44,12 @@ Structure 1 expresses conditions that are **real, possible, and likely to occur*
 
 $$\mathbf{\text{Si}} + \mathbf{\text{Présent de l'indicatif}} \longrightarrow \mathbf{\text{Futur simple}}$$
 
-| Condition Clause (*Si + Présent*) | Result Clause (*Futur Simple*) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **S'il fait beau samedi,** | **nous irons au parc.** | /s‿il fɛ bo sam.di nu z‿i.ʁɔ̃ o paʁk/ | *If the weather is nice Saturday, we will go to the park.* |
-| **Si vous signez ce contrat,** | **vous commencerez lundi.** | /si vu si.ɲe sə kɔ̃.tʁa vu kɔ.mɑ̃.sə.ʁe lœ̃.di/ | *If you sign this contract, you will start on Monday.* |
-| **Si nous travaillons ensemble,** | **nous réussirons le projet.** | /si nu tʁa.va.jɔ̃ ɑ̃.sɑ̃bl nu ʁe.y.si.ʁɔ̃ lə pʁɔ.ʒɛ/ | *If we work together, we will succeed on the project.* |
-| **Si j'ai le temps ce soir,** | **je t'enverrai le document.** | /si ʒ‿e lə tɑ̃ sə swaʁ ʒə t‿ɑ̃.vɛ.ʁe lə dɔ.ky.mɑ̃/ | *If I have time this evening, I will send you the document.* |
+| Condition Clause (*Si + Présent*) | Result Clause (*Futur Simple*) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **S'il fait beau samedi,** | **nous irons au parc.** | /s‿il fɛ bo sam.di nu z‿i.ʁɔ̃ o paʁk/ | (seel feh boh sahm-DEE, noo-zee-rohn oh PAHRK) | *If the weather is nice Saturday, we will go to the park.* |
+| **Si vous signez ce contrat,** | **vous commencerez lundi.** | /si vu si.ɲe sə kɔ̃.tʁa vu kɔ.mɑ̃.sə.ʁe lœ̃.di/ | (see voo seen-YAY suh kohn-TRAH, voo koh-mahn-suh-RAY luhn-DEE) | *If you sign this contract, you will start on Monday.* |
+| **Si nous travaillons ensemble,** | **nous réussirons le projet.** | /si nu tʁa.va.jɔ̃ ɑ̃.sɑ̃bl nu ʁe.y.si.ʁɔ̃ lə pʁɔ.ʒɛ/ | (see noo trah-vah-YOHN ahn-SAHN-bluh, noo ray-ew-see-ROHN luh proh-ZHEH) | *If we work together, we will succeed on the project.* |
+| **Si j'ai le temps ce soir,** | **je t'enverrai le document.** | /si ʒ‿e lə tɑ̃ sə swaʁ ʒə t‿ɑ̃.vɛ.ʁe lə dɔ.ky.mɑ̃/ | (see zhay luh tahn suh SWAHR, zhuh tahn-veh-RAY luh doh-kew-MAHN) | *If I have time this evening, I will send you the document.* |
 
 #### 2. Functional variants: Futur Proche and Impératif
 
@@ -72,12 +72,12 @@ Structure 2 shifts away from tangible likelihood into the realm of **imagination
 
 $$\mathbf{\text{Si}} + \mathbf{\text{Imparfait}} \longrightarrow \mathbf{\text{Conditionnel présent}}$$
 
-| Condition Clause (*Si + Imparfait*) | Result Clause (*Conditionnel Présent*) | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **Si j'avais plus de temps libre,** | **j'apprendrais une autre langue.** | /si ʒ‿a.vɛ ply də tɑ̃ libʁ ʒ‿a.pʁɑ̃.dʁɛ yn otʁ lɑ̃ɡ/ | *If I had more free time, I would learn another language.* |
-| **Si nous habitions à Montréal,** | **nous prendrions le métro.** | /si nu z‿a.bi.tjɔ̃ a mɔ̃.ʁe.al nu pʁɑ̃.dʁi.jɔ̃ lə me.tʁo/ | *If we lived in Montreal, we would take the metro.* |
-| **Si tu faisais plus de sport,** | **tu te sentirais beaucoup mieux.** | /si ty fə.zɛ ply də spɔʁ ty tə sɑ̃.ti.ʁɛ bo.ku mjø/ | *If you did more sports, you would feel much better.* |
-| **Si le loyer était moins cher,** | **ils loueraient cet appartement.** | /si lə lwa.je e.tɛ mwɛ̃ ʃɛʁ il lwe.ʁɛ sɛt a.paʁ.tə.mɑ̃/ | *If the rent were cheaper, they would rent this apartment.* |
+| Condition Clause (*Si + Imparfait*) | Result Clause (*Conditionnel Présent*) | IPA Pronunciation | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **Si j'avais plus de temps libre,** | **j'apprendrais une autre langue.** | /si ʒ‿a.vɛ ply də tɑ̃ libʁ ʒ‿a.pʁɑ̃.dʁɛ yn otʁ lɑ̃ɡ/ | (see zhah-VEH plew duh tahn LEE-bruh, zhah-prahn-DREH ewn OH-truh LAHNG) | *If I had more free time, I would learn another language.* |
+| **Si nous habitions à Montréal,** | **nous prendrions le métro.** | /si nu z‿a.bi.tjɔ̃ a mɔ̃.ʁe.al nu pʁɑ̃.dʁi.jɔ̃ lə me.tʁo/ | (see noo-zah-bee-TYOHN ah mohn-ray-AHL, noo prahn-dree-YOHN luh may-TROH) | *If we lived in Montreal, we would take the metro.* |
+| **Si tu faisais plus de sport,** | **tu te sentirais beaucoup mieux.** | /si ty fə.zɛ ply də spɔʁ ty tə sɑ̃.ti.ʁɛ bo.ku mjø/ | (see tew fuh-ZEH plew duh SPOR, tew tuh sahn-tee-REH boh-koo MYEUH) | *If you did more sports, you would feel much better.* |
+| **Si le loyer était moins cher,** | **ils loueraient cet appartement.** | /si lə lwa.je e.tɛ mwɛ̃ ʃɛʁ il lwe.ʁɛ sɛt a.paʁ.tə.mɑ̃/ | (see luh lwah-YAY ay-TEH mwen SHEHR, eel lway-REH seht ah-pahr-tuh-MAHN) | *If the rent were cheaper, they would rent this apartment.* |
 
 #### 2. Interpreting the reality of Structure 2
 
@@ -113,9 +113,9 @@ The order of the two clauses in a hypothetical sentence is completely flexible:
 
 Pay careful attention to vowel elision when **si** encounters subject pronouns:
 - **Si + il** -> **S'il** (*mandatory elision*):  
-  *S'il pleut demain...* (/s‿il plø də.mɛ̃/)
+  *S'il pleut demain...* (/s‿il plø də.mɛ̃/ — *seel pleu duh-MEHN*)
 - **Si + ils** -> **S'ils** (*mandatory elision*):  
-  *S'ils acceptent notre proposition...* (/s‿il z‿ak.sɛpt/)
+  *S'ils acceptent notre proposition...* (/s‿il z‿ak.sɛpt/ — *seel zahk-SEHPT*)
 - **Si + elle / elles** -> **Si elle / Si elles** (*NEVER elide!*):  
   *« Si elle vient... »* (Not: *S'elle vient* — incorrect!).
 - **Si + on** -> **Si on** (in spoken French) or **Si l'on** (in formal and written French):  
