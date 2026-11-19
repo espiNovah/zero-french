@@ -28,30 +28,30 @@ Before beginning your recording session, ensure you have the following setup pre
    The text below is specifically engineered to test the five most high-frequency phonetic pitfalls for English speakers on the TCF Canada:
 
    > **Partie 1 : Voyelles orales et paires minimales (/y/ vs /u/, /e/ vs /ɛ/)**  
-   > 1. *Tu as tout lu.* — /ty a tu ly/ — (You read everything.)  
-   > 2. *Il a bu un café sous la tente.* — /i.l‿a by œ̃ ka.fe su la tɑ̃t/ — (He drank a coffee under the tent.)  
-   > 3. *J'ai répété les règles après la fête.* — /ʒe ʁe.pe.te le ʁɛ.ɡl‿a.pʁɛ la fɛt/ — (I repeated the rules after the party.)  
-   > 4. *Le dessert était sur la table du chef.* — /lə de.sɛʁ e.tɛ syʁ la tabl dy ʃɛf/ — (The dessert was on the chef's table.)  
+   > 1. *Tu as tout lu.* — /ty a tu ly/ (tew ah too LEW) — *(You read everything.)*  
+   > 2. *Il a bu un café sous la tente.* — /i.l‿a by œ̃ ka.fe su la tɑ̃t/ (eel-ah bew uhn kah-fay soo lah TAHNT) — *(He drank a coffee under the tent.)*  
+   > 3. *J'ai répété les règles après la fête.* — /ʒe ʁe.pe.te le ʁɛ.ɡl‿a.pʁɛ la fɛt/ (zhay ray-pay-tay lay reh-glah-preh lah FEHT) — *(I repeated the rules after the party.)*  
+   > 4. *Le dessert était sur la table du chef.* — /lə de.sɛʁ e.tɛ syʁ la tabl dy ʃɛf/ (luh day-sehr ay-teh sewr lah tah-bluh dew SHEF) — *(The dessert was on the chef's table.)*  
    > 
    > **Partie 2 : Voyelles nasales en contraste (/ɑ̃/, /ɔ̃/, /ɛ̃/)**  
-   > 5. *Mon grand cousin blond mange du bon pain blanc.* — /mɔ̃ ɡʁɑ̃ ku.zɛ̃ blɔ̃ mɑ̃ʒ dy bɔ̃ pɛ̃ blɑ̃/ — (My tall blond cousin eats good white bread.)  
-   > 6. *En automne, cent Canadiens dansent dans un grand restaurant.* — /ɑ̃.n‿o.tɔn sɑ̃ ka.na.djɛ̃ dɑ̃s dɑ̃.z‿œ̃ ɡʁɑ̃ ʁɛs.to.ʁɑ̃/ — (In autumn, one hundred Canadians dance in a big restaurant.)  
-   > 7. *Ce bon vin blanc vient de la région du mont Saint-Michel.* — /sə bɔ̃ vɛ̃ blɑ̃ vjɛ̃ də la ʁe.ʒjɔ̃ dy mɔ̃ sɛ̃ mi.ʃɛl/ — (This good white wine comes from the Mount Saint-Michel region.)  
+   > 5. *Mon grand cousin blond mange du bon pain blanc.* — /mɔ̃ ɡʁɑ̃ ku.zɛ̃ blɔ̃ mɑ̃ʒ dy bɔ̃ pɛ̃ blɑ̃/ (mohn grahn koo-zan blohn mahnzh dew bohn pan BLAHN) — *(My tall blond cousin eats good white bread.)*  
+   > 6. *En automne, cent Canadiens dansent dans un grand restaurant.* — /ɑ̃.n‿o.tɔn sɑ̃ ka.na.djɛ̃ dɑ̃s dɑ̃.z‿œ̃ ɡʁɑ̃ ʁɛs.to.ʁɑ̃/ (ahn-noh-tawn, sahn kah-nah-dyan dahns dahn-zuhn grahn res-toh-RAHN) — *(In autumn, one hundred Canadians dance in a big restaurant.)*  
+   > 7. *Ce bon vin blanc vient de la région du mont Saint-Michel.* — /sə bɔ̃ vɛ̃ blɑ̃ vjɛ̃ də la ʁe.ʒjɔ̃ dy mɔ̃ sɛ̃ mi.ʃɛl/ (suh bohn van blahn vyan duh lah ray-zhyohn dew mohn san-mee-SHEL) — *(This good white wine comes from the Mount Saint-Michel region.)*  
    > 
    > **Partie 3 : Lettres muettes et règle CaReFuL**  
-   > 8. *Le loup gris dort près du grand lit vert.* — /lə lu ɡʁi dɔʁ pʁɛ dy ɡʁɑ̃ li vɛʁ/ — (The grey wolf sleeps near the big green bed.)  
-   > 9. *Ils parlent, ils mangent et ils regardent souvent.* — /il paʁl il mɑ̃ʒ e il ʁə.ɡaʁd su.vɑ̃/ — (They speak, they eat, and they watch often.)  
-   > 10. *Le chef et le serveur ont fini le chocolat noir.* — /lə ʃɛf e lə sɛʁ.vœʁ ɔ̃ fi.ni lə ʃɔ.kɔ.la nwaʁ/ — (The chef and the waiter finished the dark chocolate.)  
+   > 8. *Le loup gris dort près du grand lit vert.* — /lə lu ɡʁi dɔʁ pʁɛ dy ɡʁɑ̃ li vɛʁ/ (luh loo gree dohr preh dew grahn lee VEHR) — *(The grey wolf sleeps near the big green bed.)*  
+   > 9. *Ils parlent, ils mangent et ils regardent souvent.* — /il paʁl il mɑ̃ʒ e il ʁə.ɡaʁd su.vɑ̃/ (eel parl, eel mahnzh ay eel ruh-gard soo-VAHN) — *(They speak, they eat, and they watch often.)*  
+   > 10. *Le chef et le serveur ont fini le chocolat noir.* — /lə ʃɛf e lə sɛʁ.vœʁ ɔ̃ fi.ni lə ʃɔ.kɔ.la nwaʁ/ (luh shef ay luh sehr-veuhr ohn fee-nee luh shoh-koh-lah NWAHR) — *(The chef and the waiter finished the dark chocolate.)*  
    > 
    > **Partie 4 : Liaisons obligatoires et élisions**  
-   > 11. *Les‿enfants ont‿un grand‿ami en‿Afrique.* — /le.z‿ɑ̃.fɑ̃ ɔ̃.t‿œ̃ ɡʁɑ̃.t‿a.mi ɑ̃.n‿a.fʁik/ — (The children have a great friend in Africa. Note: *ont‿un* is an optional liaison; the other three are mandatory.)  
-   > 12. *Nous‿avons deux‿ordinateurs et trois‿armoires.* — /nu.z‿a.vɔ̃ dø.z‿ɔʁ.di.na.tœʁ e tʁwa.z‿aʁ.mwaʁ/ — (We have two computers and three wardrobes.)  
-   > 13. *Quand‿il arrive, on‿écoute son‿histoire.* — /kɑ̃.t‿i.l‿a.ʁiv ɔ̃.n‿e.kut sɔ̃.n‿is.twaʁ/ — (When he arrives, we listen to his story.)  
+   > 11. *Les‿enfants ont‿un grand‿ami en‿Afrique.* — /le.z‿ɑ̃.fɑ̃ ɔ̃.t‿œ̃ ɡʁɑ̃.t‿a.mi ɑ̃.n‿a.fʁik/ (lay-zahn-FAHN ohn-tuhn grahn-tah-mee ahn-nah-FREEK) — *(The children have a great friend in Africa. Note: ont‿un is an optional liaison; the other three are mandatory.)*  
+   > 12. *Nous‿avons deux‿ordinateurs et trois‿armoires.* — /nu.z‿a.vɔ̃ dø.z‿ɔʁ.di.na.tœʁ e tʁwa.z‿aʁ.mwaʁ/ (noo-zah-VOHN deuh-zor-dee-nah-teur ay trwah-zahr-MWAHR) — *(We have two computers and three wardrobes.)*  
+   > 13. *Quand‿il arrive, on‿écoute son‿histoire.* — /kɑ̃.t‿i.l‿a.ʁiv ɔ̃.n‿e.kut sɔ̃.n‿is.twaʁ/ (kahn-tee-lah-REEV, ohn-nay-koot soh-nees-TWAHR) — *(When he arrives, we listen to his story.)*  
    > 
    > **Partie 5 : Nombres, indicatifs et codes postaux canadiens**  
-   > 14. *Le prix est de soixante-dix-neuf dollars et quatre-vingt-onze cents.* — /lə pʁi ɛ də swa.sɑ̃t.diz.nœf dɔ.laʁ e katʁ.vɛ̃.ɔ̃z sɛnt/ — (The price is seventy-nine dollars and ninety-one cents.)  
-   > 15. *Composez le 514-872-0391 (cinq-un-quatre, huit-sept-deux, zéro-trois-neuf-un).* — /sɛ̃k œ̃ katʁ | ɥit sɛt dø | ze.ʁo tʁwa nœf œ̃/ — (Dial 514-872-0391.)  
-   > 16. *Mon code postal à Gatineau est J8X 3V7 (J-huit-X, trois-V-sept).* — /ʒi ɥit iks | tʁwa ve sɛt/ — (My postal code in Gatineau is J8X 3V7.)
+   > 14. *Le prix est de soixante-dix-neuf dollars et quatre-vingt-onze cents.* — /lə pʁi ɛ də swa.sɑ̃t.diz.nœf dɔ.laʁ e katʁ.vɛ̃.ɔ̃z sɛnt/ (luh pree eh duh swah-sahnt-deez-NEUF doh-lahr ay kah-truh-van-OHNZ sent) — *(The price is seventy-nine dollars and ninety-one cents.)*  
+   > 15. *Composez le 514-872-0391 (cinq-un-quatre, huit-sept-deux, zéro-trois-neuf-un).* — /sɛ̃k œ̃ katʁ \| ɥit sɛt dø \| ze.ʁo tʁwa nœf œ̃/ (sank uhn KAH-truh \| weet set DEUH \| zay-roh trwah neuf UHN) — *(Dial 514-872-0391.)*  
+   > 16. *Mon code postal à Gatineau est J8X 3V7 (J-huit-X, trois-V-sept).* — /ʒi ɥit iks \| tʁwa ve sɛt/ (zhee weet EEKS \| trwah vay SET) — *(My postal code in Gatineau is J8X 3V7.)*
 
 2. **Step 2: Continuous 3-Minute Audio Take**  
    Start your timer and activate your recorder. Read the 16 sentences aloud in order from sentence 1 to sentence 16.
