@@ -107,11 +107,11 @@ The prompt will always specify your recipient. You must establish the appropriat
 
 | Dimension | Informal Register (*Ami, Proche, Collègue familier*) | Semi-Formal / Formal Register (*Propriétaire, Responsable, Voisin inconnu*) |
 | :--- | :--- | :--- |
-| **Salutation** | *Salut Lucas,* / *Chère Camille,* | *Bonjour Monsieur Tremblay,* / *Chère Madame Roy,* |
-| **Opening Hook** | *J'espère que tu vas bien.* / *Comment vas-tu ?* | *J'espère que vous vous portez bien.* / *Je vous contacte au sujet de...* |
+| **Salutation** | *Salut Lucas,* — /sa.ly ly.ka/ (*sah-LEW lew-KAH*) / *Chère Camille,* | *Bonjour Monsieur Tremblay,* — /bɔ̃.ʒuʁ mə.sjø tʁɑ̃.blɛ/ (*bohhn-ZHOOR muh-syuh trahn-BLEH*) / *Chère Madame Roy,* |
+| **Opening Hook** | *J'espère que tu vas bien.* — /ʒ‿ɛs.pɛʁ kə ty va bjɛ̃/ (*zheh-spehr kuh tsew vah BYEN*) | *J'espère que vous vous portez bien.* — /ʒ‿ɛs.pɛʁ kə vu vu pɔʁ.te bjɛ̃/ (*zheh-spehr kuh voo voo pohr-tay BYEN*) |
 | **Pronoun System** | **Strict Tu / Ton / Ta / Tes** | **Strict Vous / Votre / Vos** |
 | **Verb Inversion** | *As-tu envie de... ?* / *Tu viens quand ?* | *Auriez-vous l'amabilité de... ?* / *Seriez-vous disponible... ?* |
-| **Closing Sign-Off** | *À très bientôt,* / *Je t'embrasse,* / *Amitiés,* | *Cordialement,* / *Bien à vous,* / *Sincères salutations,* |
+| **Closing Sign-Off** | *À très bientôt,* — /a tʁɛ bjɛ̃.to/ (*ah treh byen-TOH*) / *Amitiés,* | *Cordialement,* — /kɔʁ.djal.mɑ̃/ (*kohr-dyahl-MAHN*) / *Sincères salutations,* — /sɛ̃.sɛʁ sa.ly.ta.sjɔ̃/ (*sehn-sehr sah-lew-tah-SYOHN*) |
 | **Signature** | *Prénom seul (Marc)* | *Prénom + Nom (Marc Beaulieu)* |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
