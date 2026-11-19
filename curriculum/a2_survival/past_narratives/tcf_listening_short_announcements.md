@@ -48,28 +48,28 @@ Public transit is a very common setting for A2-level listening practice. Transit
 
 Announcements always open with an auditory signal (a melodic chime or tone) followed by a formal attention formula:
 
-- **Votre attention s'il vous plaît** (/vɔ.tʁə a.tɑ̃.sjɔ̃ s‿il vu plɛ/) — *May I have your attention please*
-- **Mesdames et messieurs** (/me.dam.z‿e me.sjø/) — *Ladies and gentlemen*
-- **Avis aux voyageurs / passagers** (/a.vi o vwa.ja.ʒœʁ / pa.sa.ʒe/) — *Notice to travelers / passengers*
+- **Votre attention s'il vous plaît** (/vɔ.tʁə a.tɑ̃.sjɔ̃ s‿il vu plɛ/ — *voh-truh ah-tahn-SYOHN seel voo PLEH*) — *May I have your attention please*
+- **Mesdames et messieurs** (/me.dam.z‿e me.sjø/ — *may-dahm-zay may-SYUH*) — *Ladies and gentlemen*
+- **Avis aux voyageurs / passagers** (/a.vi o vwa.ja.ʒœʁ / pa.sa.ʒe/ — *ah-vee oh vwah-yah-ZHEUHR / pah-sah-ZHAY*) — *Notice to travelers / passengers*
 
-> **Votre attention s'il vous plaît. Le train en provenance de Québec entrera en gare voie 4.** — /vɔ.tʁə a.tɑ̃.sjɔ̃ s‿il vu plɛ. lə tʁɛ̃ ɑ̃ pʁɔv.nɑ̃s də ke.bɛk ɑ̃.tʁə.ʁa ɑ̃ ɡaʁ vwa katʁ/  
+> **Votre attention s'il vous plaît. Le train en provenance de Québec entrera en gare voie 4.** — /vɔ.tʁə a.tɑ̃.sjɔ̃ s‿il vu plɛ. lə tʁɛ̃ ɑ̃ pʁɔv.nɑ̃s də ke.bɛk ɑ̃.tʁə.ʁa ɑ̃ ɡaʁ vwa katʁ/ (voh-truh ah-tahn-SYOHN seel voo PLEH. luh tren ahn prohv-NAHNS duh kay-BEHK ahn-truh-RAH ahn GAHR vwah KAHT-ruh)  
 > *Attention please. The train arriving from Quebec City will arrive on track 4.*
 
 #### 2. Key Transportation Terminology
 
-| French Term | IPA Pronunciation | English Meaning | Typical Context |
-| :--- | :--- | :--- | :--- |
-| **la voie** | /la vwa/ | track (railway) | *Le train partira voie C.* |
-| **le quai** | /lə ke/ | platform | *Veuillez vous éloigner du bord du quai.* |
-| **le retard** | /lə ʁə.taʁ/ | delay | *Ce train aura un retard d'environ 15 minutes.* |
-| **la provenance** | /la pʁɔv.nɑ̃s/ | origin (arriving from) | *En provenance de Montréal.* |
-| **la destination** | /la dɛs.ti.na.sjɔ̃/ | destination (going to) | *À destination d'Ottawa.* |
-| **la correspondance** | /la kɔ.ʁɛs.pɔ̃.dɑ̃s/ | connection / transfer | *Assurez votre correspondance quai numéro 2.* |
-| **la porte d'embarquement** | /la pɔʁt d‿ɑ̃.baʁ.kə.mɑ̃/ | boarding gate (airport) | *Embarquement immédiat porte 12.* |
-| **le vol** | /lə vɔl/ | flight | *Les passagers du vol AC 870.* |
-| **annulé / supprimé** | /a.ny.le / sy.pʁi.me/ | cancelled | *Le départ de 18 h 30 est annulé.* |
+| French Term | IPA Pronunciation | Phonetic Respelling | English Meaning | Typical Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **la voie** | /la vwa/ | (lah VWAH) | track (railway) | *Le train partira voie C.* |
+| **le quai** | /lə ke/ | (luh KAY) | platform | *Veuillez vous éloigner du bord du quai.* |
+| **le retard** | /lə ʁə.taʁ/ | (luh ruh-TAHR) | delay | *Ce train aura un retard d'environ 15 minutes.* |
+| **la provenance** | /la pʁɔv.nɑ̃s/ | (lah prohv-NAHNS) | origin (arriving from) | *En provenance de Montréal.* |
+| **la destination** | /la dɛs.ti.na.sjɔ̃/ | (lah dehs-tee-nah-SYOHN) | destination (going to) | *À destination d'Ottawa.* |
+| **la correspondance** | /la kɔ.ʁɛs.pɔ̃.dɑ̃s/ | (lah koh-rehs-pohn-DAHNS) | connection / transfer | *Assurez votre correspondance quai numéro 2.* |
+| **la porte d'embarquement** | /la pɔʁt d‿ɑ̃.baʁ.kə.mɑ̃/ | (lah pohrt dahn-bahr-kuh-MAHN) | boarding gate (airport) | *Embarquement immédiat porte 12.* |
+| **le vol** | /lə vɔl/ | (luh VOHL) | flight | *Les passagers du vol AC 870.* |
+| **annulé / supprimé** | /a.ny.le / sy.pʁi.me/ | (ah-new-LAY / sew-pree-MAY) | cancelled | *Le départ de 18 h 30 est annulé.* |
 
-> **En raison d'un problème technique, la circulation des métros est temporairement interrompue sur la ligne orange.** — /ɑ̃ ʁɛ.zɔ̃ d‿œ̃ pʁɔ.blɛm tɛk.nik, la siʁ.ky.la.sjɔ̃ de me.tʁo ɛ tɑ̃.pɔ.ʁɛʁ.mɑ̃ ɛ̃.tə.ʁɔ̃.py syʁ la liɲ ɔ.ʁɑ̃ʒ/  
+> **En raison d'un problème technique, la circulation des métros est temporairement interrompue sur la ligne orange.** — /ɑ̃ ʁɛ.zɔ̃ d‿œ̃ pʁɔ.blɛm tɛk.nik, la siʁ.ky.la.sjɔ̃ de me.tʁo ɛ tɑ̃.pɔ.ʁɛʁ.mɑ̃ ɛ̃.tə.ʁɔ̃.py syʁ la liɲ ɔ.ʁɑ̃ʒ/ (ahn ray-ZOHN duhn proh-BLEHM tehk-NEEK, lah seer-kew-lah-SYOHN day may-TROH eh tahn-poh-rehr-MAHN en-tuh-rohn-PEW sewr lah leen-yuh oh-RAHNZH)  
 > *Due to a technical issue, subway service is temporarily suspended on the orange line.*
 
 ### Decoding store announcements and administrative voicemails
@@ -80,9 +80,9 @@ Beyond transit hubs, A2 listening items simulate routine commercial and telephon
 
 Commercial audio prompts typically announce discounts, store closings, or lost items:
 
-- **La fermeture exceptionnelle** (/la fɛʁ.mə.tyʁ ɛk.sɛp.sjɔ.nɛl/) — *Exceptional / early closing*
-- **Chers clients, votre magasin fermera ses portes dans dix minutes.** — /ʃɛʁ kli.jɑ̃, vɔ.tʁə ma.ɡa.zɛ̃ fɛʁ.mə.ʁa se pɔʁt dɑ̃ di mi.nyt/ — *Dear customers, your store will close its doors in ten minutes.*
-- **Une réduction de 30 % au rayon boulangerie.** — /yn ʁe.dyk.sjɔ̃ də tʁɑ̃t puʁ sɑ̃ o ʁɛ.jɔ̃ bu.lɑ̃.ʒʁi/ — *A 30% discount in the bakery section.*
+- **La fermeture exceptionnelle** (/la fɛʁ.mə.tyʁ ɛk.sɛp.sjɔ.nɛl/ — *lah fehr-muh-TEWR ehk-sehp-syoh-NEHL*) — *Exceptional / early closing*
+- **Chers clients, votre magasin fermera ses portes dans dix minutes.** — /ʃɛʁ kli.jɑ̃, vɔ.tʁə ma.ɡa.zɛ̃ fɛʁ.mə.ʁa se pɔʁt dɑ̃ di mi.nyt/ (shehr klee-YAHN, voh-truh mah-gah-ZEN fehr-muh-RAH say POHRT dahn dee mee-NEWT) — *Dear customers, your store will close its doors in ten minutes.*
+- **Une réduction de 30 % au rayon boulangerie.** — /yn ʁe.dyk.sjɔ̃ də tʁɑ̃t puʁ sɑ̃ o ʁɛ.jɔ̃ bu.lɑ̃.ʒʁi/ (ewn ray-dewk-SYOHN duh trahnt poor sahn oh ray-YOHN boo-lahn-zhuh-REE) — *A 30% discount in the bakery section.*
 
 #### 2. Voicemail Messages and Answering Machines (*La boîte vocale*)
 
@@ -92,23 +92,23 @@ Voicemail prompts follow a distinct opening, identification, reason for calling,
 [Bip sonore] → [Identification de l'appelant] → [Motif de l'appel] → [Consigne de rappel]
 ```
 
-> **Bonjour, ici le secrétariat de la clinique médicale.** (/bɔ̃.ʒuʁ, i.si lə sə.kʁe.ta.ʁja də la kli.nik me.di.kal/)  
+> **Bonjour, ici le secrétariat de la clinique médicale.** (/bɔ̃.ʒuʁ, i.si lə sə.kʁe.ta.ʁja də la kli.nik me.di.kal/ — *bohn-ZHOOR, ee-SEE luh suh-kray-tah-RYAH duh lah klee-NEEK may-dee-KAHL*)  
 > *Hello, this is the medical clinic reception desk.*  
-> **Je vous appelle au sujet de votre rendez-vous de demain.** (/ʒə vu.z‿a.pɛl o sy.ʒɛ də vɔ.tʁə ʁɑ̃.de vu də də.mɛ̃/)  
+> **Je vous appelle au sujet de votre rendez-vous de demain.** (/ʒə vu.z‿a.pɛl o sy.ʒɛ də vɔ.tʁə ʁɑ̃.de vu də də.mɛ̃/ — *zhuh voo-zah-PEHL oh sew-ZHEH duh voh-truh rahn-day-VOO duh duh-MEHN*)  
 > *I am calling regarding your appointment tomorrow.*  
-> **Le docteur Martin ne sera pas disponible. Veuillez nous rappeler au 514-555-0199 pour reporter votre visite.** (/lə dɔk.tœʁ maʁ.tɛ̃ nə sə.ʁa pa dis.pɔ.nibl. vœ.je nu ʁa.ple o.../)  
+> **Le docteur Martin ne sera pas disponible. Veuillez nous rappeler au 514-555-0199 pour reporter votre visite.** (/lə dɔk.tœʁ maʁ.tɛ̃ nə sə.ʁa pa dis.pɔ.nibl. vœ.je nu ʁa.ple o.../ — *luh dohk-TEUHR mahr-TEHN nuh suh-RAH pah dees-poh-NEE-bluh. vuh-YAY noo rah-play oh...*)  
 > *Doctor Martin will not be available. Please call us back at 514-555-0199 to reschedule your visit.*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Grammar Trap: "Veuillez" + Infinitive
 
-You will hear the word **veuillez** (/vœ.je/) in almost every formal announcement.
+You will hear the word **veuillez** (/vœ.je/ — *vuh-YAY*) in almost every formal announcement.
 
 **Veuillez** is the formal imperative of the verb *vouloir* (literally: "be willing to"). It is the standard polite formula for giving an official instruction or command:
-- **Veuillez patienter** = *Please wait.*
-- **Veuillez vous présenter à l'accueil** = *Please report to the reception desk.*
-- **Veuillez attacher votre ceinture** = *Please fasten your seatbelt.*
+- **Veuillez patienter** (/vœ.je pa.sjɑ̃.te/ — *vuh-YAY pah-syahn-TAY*) = *Please wait.*
+- **Veuillez vous présenter à l'accueil** (/vœ.je vu pʁe.zɑ̃.te a l‿a.kœj/ — *vuh-YAY voo pray-zahn-TAY ah lah-KUHY*) = *Please report to the reception desk.*
+- **Veuillez attacher votre ceinture** (/vœ.je a.ta.ʃe vɔ.tʁə sɛ̃.tyʁ/ — *vuh-YAY ah-tah-SHAY voh-truh sen-TEWR*) = *Please fasten your seatbelt.*
 
 Whenever you hear *veuillez*, the verb that follows directly tells you the answer to the TCF question: *« Que doit faire l'auditeur ? »*!
 
@@ -120,10 +120,10 @@ Whenever you hear *veuillez*, the verb that follows directly tells you the answe
 
 In Québec, transit and public announcements feature Canadian civic terminology:
 - **La STM (Société de transport de Montréal)**: You will frequently hear announcements about *la station Berri-UQAM*, *la ligne verte*, or *la ligne orange*.
-- **Le débarcadère** (/de.baʁ.ka.dɛʁ/): In Québec airports and train stations, the passenger drop-off/pick-up area is called *le débarcadère* **(QC)** (in France: *la zone dépose-minute*).
-- **L'abribus** (/a.bʁi.bys/): Bus shelter.
-- **La boîte vocale** (/bwat vɔ.kal/): Voicemail. This is not a Québec-only term: it is used in both Canada and France (France also says *la messagerie vocale*), and *le répondeur* (answering machine) is understood everywhere.
-- **Le courriel** (/ku.ʁjɛl/): The standard Canadian term for email, which you will hear on Canadian voicemails.
+- **Le débarcadère** (/de.baʁ.ka.dɛʁ/ — *day-bahr-kah-DEHR*): In Québec airports and train stations, the passenger drop-off/pick-up area is called *le débarcadère* **(QC)** (in France: *la zone dépose-minute*).
+- **L'abribus** (/a.bʁi.bys/ — *ah-bree-BEWS*): Bus shelter.
+- **La boîte vocale** (/bwat vɔ.kal/ — *bwaht voh-KAHL*): Voicemail. This is not a Québec-only term: it is used in both Canada and France (France also says *la messagerie vocale*), and *le répondeur* (answering machine) is understood everywhere.
+- **Le courriel** (/ku.ʁjɛl/ — *koo-RYEHL*): The standard Canadian term for email, which you will hear on Canadian voicemails.
 
 Understanding these Canadian terms prevents hesitation when listening to Montreal-based audio items on the TCF Canada!
 
@@ -188,20 +188,20 @@ Because the audio is played **only once**, your success on TCF Listening depends
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 14 essential announcement terms with IPA and translations to your personal Anki flashcard deck:
-   - *en raison de* (/ɑ̃ ʁɛ.zɔ̃ də/) — due to / because of
-   - *veuillez* (/vœ.je/) — please / kindly (imperative)
-   - *le retard* (/lə ʁə.taʁ/) — delay
-   - *la voie* (/la vwa/) — track (railway)
-   - *le quai* (/lə ke/) — platform
-   - *la porte d'embarquement* (/la pɔʁt d‿ɑ̃.baʁ.kə.mɑ̃/) — boarding gate
-   - *la correspondance* (/la kɔ.ʁɛs.pɔ̃.dɑ̃s/ ) — connection / transfer
-   - *la fermeture* (/la fɛʁ.mə.tyʁ/) — closing
-   - *hors service* (/ɔʁ sɛʁ.vis/) — out of order / out of service
-   - *régler* (/ʁe.ɡle/) — to pay / settle a bill
-   - *le rendez-vous* (/lə ʁɑ̃.de vu/) — appointment
-   - *le vol* (/lə vɔl/) — flight
-   - *la boîte vocale* (/la bwat vɔ.kal/) — voicemail
-   - *le débarcadère* **(QC)** (/lə de.baʁ.ka.dɛʁ/) — passenger drop-off area
+   - *en raison de* (/ɑ̃ ʁɛ.zɔ̃ də/ — *ahn ray-ZOHN duh*) — due to / because of
+   - *veuillez* (/vœ.je/ — *vuh-YAY*) — please / kindly (imperative)
+   - *le retard* (/lə ʁə.taʁ/ — *luh ruh-TAHR*) — delay
+   - *la voie* (/la vwa/ — *lah VWAH*) — track (railway)
+   - *le quai* (/lə ke/ — *luh KAY*) — platform
+   - *la porte d'embarquement* (/la pɔʁt d‿ɑ̃.baʁ.kə.mɑ̃/ — *lah pohrt dahn-bahr-kuh-MAHN*) — boarding gate
+   - *la correspondance* (/la kɔ.ʁɛs.pɔ̃.dɑ̃s/ — *lah koh-rehs-pohn-DAHNS*) — connection / transfer
+   - *la fermeture* (/la fɛʁ.mə.tyʁ/ — *lah fehr-muh-TEWR*) — closing
+   - *hors service* (/ɔʁ sɛʁ.vis/ — *ohr sehr-VEESS*) — out of order / out of service
+   - *régler* (/ʁe.ɡle/ — *ray-GLAY*) — to pay / settle a bill
+   - *le rendez-vous* (/lə ʁɑ̃.de vu/ — *luh rahn-day-VOO*) — appointment
+   - *le vol* (/lə vɔl/ — *luh VOHL*) — flight
+   - *la boîte vocale* (/la bwat vɔ.kal/ — *lah bwaht voh-KAHL*) — voicemail
+   - *le débarcadère* **(QC)** (/lə de.baʁ.ka.dɛʁ/ — *luh day-bahr-kah-DEHR*) — passenger drop-off area
 
 3. **Step 3: Receptive Audio Training**  
    Listen to authentic French announcements on [TV5Monde — Compréhension orale A2](https://apprendre.tv5monde.com/fr/exercices/a2-intermediaire).  
