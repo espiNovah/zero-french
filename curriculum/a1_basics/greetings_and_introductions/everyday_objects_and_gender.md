@@ -34,7 +34,7 @@ Because gender is an inseparable property of each noun, you must adopt the golde
 
 Observe how native speakers introduce and identify objects:
 
-> **C'est un livre intéressant.** — /sɛ.t‿œ̃ livʁ ɛ̃.te.ʁɛ.sɑ̃/ (seh-tuhn LEEV-ruh an-tay-reh-SAHN)  
+> **C'est un livre intéressant.** — /sɛ.t‿œ̃ livʁ ɛ̃.te.ʁɛ.sɑ̃/ (seh-tuhn LEEV-ruh ehn-tay-reh-SAHN)  
 > *It is an interesting book. (Masculine noun with "un")*
 
 > **C'est une table moderne.** — /sɛ.t‿yn tabl mɔ.dɛʁn/ (seh-tewn TAH-bluh moh-DEHRN)  
