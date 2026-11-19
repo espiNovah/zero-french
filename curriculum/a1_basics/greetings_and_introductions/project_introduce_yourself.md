@@ -23,10 +23,10 @@ Before recording, ensure you have the necessary setup ready:
    In the real exam, you do not have notes. For this first benchmark, you may write an outline of 6–8 bullet points on paper. Do not write full sentences to memorize; use prompt keywords:
    - Salutation and formal greeting (*Bonjour, monsieur / madame* — "bohn-ZHOOR, muh-SYEUH / mah-DAHM")
    - Full name (*Je m'appelle...* — "zhuh mah-PEL...")
-   - Country of origin and nationality (*Je viens de... / Je suis...* — "zhuh vyan duh... / zhuh SWEE...")
+   - Country of origin and nationality (*Je viens de... / Je suis...* — "zhuh vyen duh... / zhuh SWEE...")
    - Current city of residence (*J'habite à...* — "zhah-beet AH...")
-   - Occupation or field of study (*Je suis ingénieur / J'étudie l'informatique* — "zhuh swee-zan-zhay-NYEUR / zhay-tew-dee lan-for-mah-TEEK")
-   - Languages spoken (*Je parle anglais et j'apprends le français* — "zhuh pahrl ahn-GLEH ay zhah-prahn luh frahn-SEH")
+   - Occupation or field of study (*Je suis ingénieur / J'étudie l'informatique* — "zhuh swee-zehn-zhay-NYEUR / zhay-tew-dee lehn-for-mah-TEEK")
+   - Languages spoken (*Je parle anglais et j'apprends le français* — "zhuh pahrl ahn-GLEH ay zhah-PRAHN luh frahn-SEH")
    - One personal passion or weekend activity (*J'aime la musique / le sport* — "zhehm lah mew-ZEEK / luh SPOHR")
    - Polite closing and thank-you (*Merci beaucoup pour votre écoute, bonne journée* — "mehr-SEE boh-KOO poor voht-ruh ay-KOOT, buhn zhoor-NAY")
 
