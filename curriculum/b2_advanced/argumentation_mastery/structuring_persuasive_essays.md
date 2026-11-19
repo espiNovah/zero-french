@@ -49,13 +49,13 @@ At Level B2, an essay should never simply repeat the prompt as a flat yes/no que
   * **B1 Formula**: *Je vais expliquer pourquoi il faut interdire les voitures.* (Too simplistic)
   * **B2 Problématique**:  
     **Dans quelle mesure la piétonnisation des centres urbains peut-elle concilier transition écologique et accessibilité économique pour les résidents des périphéries ?**  
-    /dɑ̃ kɛl mə.zyʁ la pje.tɔ.ni.za.sjɔ̃ de sɑ̃tʁ yʁ.bɛ̃ pø.t‿ɛl kɔ̃.si.lje tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik e ak.sɛ.si.bi.li.te e.kɔ.nɔ.mik puʁ le ʁe.zi.dɑ̃ de pe.ʁi.fe.ʁi/  
+    /dɑ̃ kɛl mə.zyʁ la pje.tɔ.ni.za.sjɔ̃ de sɑ̃tʁ yʁ.bɛ̃ pø.t‿ɛl kɔ̃.si.lje tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik e ak.sɛ.si.bi.li.te e.kɔ.nɔ.mik puʁ le ʁe.zi.dɑ̃ de pe.ʁi.fe.ʁi/ (*dahn kehl muh-ZEWR lah pyeh-toh-nee-zah-SYOHN day sahn-tr ewr-BEHN peuh-tehl kohn-see-LYAY trahn-zee-SYOHN ay-koh-loh-ZHEEK ay ahk-seh-see-bee-lee-TAY ay-koh-noh-MEEK poor lay ray-zee-DAHN day pay-ree-fay-REE*)  
     *To what extent can urban pedestrianization reconcile ecological transition with economic accessibility for suburban commuters?*
 
 * **Raw Prompt**: *L'intelligence artificielle doit-elle être intégrée dans les écoles ?*
   * **B2 Problématique**:  
     **Comment les institutions éducatives peuvent-elles exploiter le potentiel pédagogique de l'intelligence artificielle sans compromettre le développement de l'esprit critique chez les apprenants ?**  
-    /kɔ.mɑ̃ le.z‿ɛ̃s.ti.ty.sjɔ̃ e.dy.ka.tiv pœv.t‿ɛl ɛks.plwa.te lə pɔ.tɑ̃.sjɛl pe.da.gɔ.ʒik də l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.tsi.fi.sjɛl sɑ̃ kɔ̃.pʁɔ.mɛtʁ lə de.vlɔp.mɑ̃ də l‿ɛs.pʁi kʁi.tsik ʃe le.z‿a.pʁə.nɑ̃/  
+    /kɔ.mɑ̃ le.z‿ɛ̃s.ti.ty.sjɔ̃ e.dy.ka.tiv pœv.t‿ɛl ɛks.plwa.te lə pɔ.tɑ̃.sjɛl pe.da.gɔ.ʒik də l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.tsi.fi.sjɛl sɑ̃ kɔ̃.pʁɔ.mɛtʁ lə de.vlɔp.mɑ̃ də l‿ɛs.pʁi kʁi.tsik ʃe le.z‿a.pʁə.nɑ̃/ (*koh-MAHN lay-zehn-stee-tew-SYOHN ay-dew-kah-TEEV puhv-tehl ehks-plwah-TAY luh poh-tahn-SYEHL pay-dah-goh-ZHEEK duh lehn-tay-lee-ZHAHNS ar-tee-fee-SYEHL sahn kohn-proh-MEH-truh luh day-vlohp-MAHN duh lehs-PREE kree-TEEK shay lay-zah-pruh-NAHN*)  
     *How can educational institutions harness the pedagogical potential of artificial intelligence without compromising the development of critical thinking among learners?*
 
 ---
@@ -71,7 +71,7 @@ Acknowledge the partial truth of an objection before exposing its structural lim
   * *« Certes, les opposants soulignent à juste titre que [objection] ; toutefois, cet argument néglige le fait que [counterargument]. »*
 * **Example**:
   * **S'il est indéniable que la transition énergétique entraîne des coûts initiaux élevés pour les contribuables, il n'en demeure pas moins que l'inaction climatique engendrera des catastrophes financières bien plus dévastatrices.**
-    /s‿il ɛ t‿ɛ̃.de.njabl kə la tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik ɑ̃.tʁɛn de ku i.ni.sjo e.l(ə).ve puʁ le kɔ̃.tʁi.bɥabl, il n‿ɑ̃ də.mœʁ pa mwɛ̃ kə l‿i.nak.sjɔ̃ kli.ma.tsik ɑ̃.ʒɑ̃.dʁə.ʁa de ka.tas.tʁɔf fi.nɑ̃.sjɛʁ bjɛ̃ plys de.vas.tʁa.tsis/
+    /s‿il ɛ t‿ɛ̃.de.njabl kə la tʁɑ̃.zi.sjɔ̃ e.nɛʁ.ʒe.tik ɑ̃.tʁɛn de ku i.ni.sjo e.l(ə).ve puʁ le kɔ̃.tʁi.bɥabl, il n‿ɑ̃ də.mœʁ pa mwɛ̃ kə l‿i.nak.sjɔ̃ kli.ma.tsik ɑ̃.ʒɑ̃.dʁə.ʁa de ka.tas.tʁɔf fi.nɑ̃.sjɛʁ bjɛ̃ plys de.vas.tʁa.tsis/ (*seel eh tehn-day-NYAH-bluh kuh lah trahn-zee-SYOHN ay-nehr-zhay-TEEK ahn-TREHN day KOO ee-nee-SYOH ay-luh-VAY poor lay kohn-tree-BWAH-bluh, eel nahn duh-MUHR pah MWEN kuh lee-nahk-SYOHN klee-mah-TEEK ahn-zhahn-druh-RAH day kah-tahs-TROHF fee-nahn-SYEHR byen plewss day-vahs-trah-TREESS*)
     *While it is undeniable that the energy transition entails high initial costs for taxpayers, it remains nonetheless true that climate inaction will generate far more devastating financial catastrophes.*
 
 #### Technique 2: Distinguishing Appearances from Underlying Realities
@@ -88,14 +88,14 @@ Expose that an argument is superficial or addresses symptoms rather than root ca
 
 Vary your stance markers (*les modalisateurs d'opinion*) to convey academic objectivity and intellectual precision:
 
-| Rhetorical Function | Common B1 Phrasing | Elevated B2 Formulation | IPA Transcription |
-| :--- | :--- | :--- | :--- |
-| **Introducing an Argument** | *Il faut dire que...* | **Il convient d'observer que...** | /il kɔ̃.vjɛ̃ d‿ɔb.sɛʁ.ve kə/ |
-| **Emphasizing Evidence** | *C'est clair que...* | **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ |
-| **Expressing Nuance** | *Ce n'est pas sûr...* | **Il convient de relativiser cette affirmation...** | /il kɔ̃.vjɛ̃ də ʁə.la.tsi.vi.ze sɛt a.fiʁ.ma.sjɔ̃/ |
-| **Highlighting Paradox** | *C'est bizarre que...* | **Il est paradoxal de constater que...** | /il ɛ pa.ʁa.dɔk.sal də kɔ̃s.ta.te kə/ |
-| **Asserting Necessity** | *On doit faire attention...* | **Il est impératif d'adopter une démarche prudente...** | /il ɛ t‿ɛ̃.pe.ʁa.tsif d‿a.dɔp.te yn de.maʁʃ pʁy.dɑ̃t/ |
-| **Concluding a Thesis** | *Pour finir, je pense que...* | **En définitive, l'enjeu primordial réside dans...** | /ɑ̃ de.fi.ni.tsiv, l‿ɑ̃.ʒø pʁi.mɔʁ.djal ʁe.zid dɑ̃/ |
+| Rhetorical Function | Common B1 Phrasing | Elevated B2 Formulation | IPA Transcription | Phonetic Respelling |
+| :--- | :--- | :--- | :--- | :--- |
+| **Introducing an Argument** | *Il faut dire que...* | **Il convient d'observer que...** | /il kɔ̃.vjɛ̃ d‿ɔb.sɛʁ.ve kə/ | (eel kohn-VYEN dohb-sehr-VAY kuh) |
+| **Emphasizing Evidence** | *C'est clair que...* | **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ | (FORSS eh duh kohn-stah-TAY kuh) |
+| **Expressing Nuance** | *Ce n'est pas sûr...* | **Il convient de relativiser cette affirmation...** | /il kɔ̃.vjɛ̃ də ʁə.la.tsi.vi.ze sɛt a.fiʁ.ma.sjɔ̃/ | (eel kohn-VYEN duh ruh-lah-tee-vee-ZAY seht ah-feer-mah-SYOHN) |
+| **Highlighting Paradox** | *C'est bizarre que...* | **Il est paradoxal de constater que...** | /il ɛ pa.ʁa.dɔk.sal də kɔ̃s.ta.te kə/ | (eel eh pah-rah-dohk-SAHL duh kohn-stah-TAY kuh) |
+| **Asserting Necessity** | *On doit faire attention...* | **Il est impératif d'adopter une démarche prudente...** | /il ɛ t‿ɛ̃.pe.ʁa.tsif d‿a.dɔp.te yn de.maʁʃ pʁy.dɑ̃t/ | (eel eh tehn-pay-rah-TEEF dah-dohp-TAY ewn day-MARSH prew-DAHNT) |
+| **Concluding a Thesis** | *Pour finir, je pense que...* | **En définitive, l'enjeu primordial réside dans...** | /ɑ̃ de.fi.ni.tsiv, l‿ɑ̃.ʒø pʁi.mɔʁ.djal ʁe.zid dɑ̃/ | (ahn day-fee-nee-TEEV, lahn-ZHEUH pree-mor-DYAHL ray-ZEED dahn) |
 
 ---
 
