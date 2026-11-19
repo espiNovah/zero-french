@@ -54,10 +54,10 @@ You must classify every lost point into one of four failure modes:
 #### 1. The Linguistic Void (Lacune Lexicale ou Grammaticale)
 - **Manifestation**: You read a B2 text discussing **« l'engouement suscité par les énergies renouvelables »** and could not determine whether *l'engouement* meant *distrust*, *enthusiasm*, or *indifference*.
 - **Remediation**: Passive vocabulary flashcards will not suffice. You must build an **Anki Context Sentence Deck** containing the target word embedded in an authentic journalistic sentence with its phonetic transcription:
-  **« L'engouement du public pour ce projet ne faiblit pas. »** — /l‿ɑ̃.ɡu.mɑ̃ dy py.blik puʁ sə pʁɔ.ʒɛ nə fɛ.bli pa/ (*The public's enthusiasm for this project is not weakening.*)
+  **« L'engouement du public pour ce projet ne faiblit pas. »** — /l‿ɑ̃.ɡu.mɑ̃ dy py.blik puʁ sə pʁɔ.ʒɛ nə fɛ.bli pa/ (lahn-goo-MAHN dew pew-BLEEK poor suh proh-ZHEH nuh feh-BLEE PAH) (*The public's enthusiasm for this project is not weakening.*)
 
 #### 2. The Distractor Trap (Le Piège Psychométrique)
-- **Manifestation**: In Listening, the speaker stated: **« Nous n'avons guère de doutes quant à la réussite de ce programme »** — /nu n‿a.vɔ̃ ɡɛʁ də dut kɑ̃.t‿a la ʁe.y.sit də sə pʁɔ.ɡʁam/ (*We have hardly any doubts regarding the success of this program*). You heard the word *doutes* and selected the distractor stating that the speaker was skeptical.
+- **Manifestation**: In Listening, the speaker stated: **« Nous n'avons guère de doutes quant à la réussite de ce programme »** — /nu n‿a.vɔ̃ ɡɛʁ də dut kɑ̃.t‿a la ʁe.y.sit də sə pʁɔ.ɡʁam/ (noo nah-VOHN GEHR duh DOOT kahn-tah lah ray-ew-SEET duh suh proh-GRAHM) (*We have hardly any doubts regarding the success of this program*). You heard the word *doutes* and selected the distractor stating that the speaker was skeptical.
 - **Remediation**: The error was caused by misinterpreting the restrictive negation **ne... guère** (*hardly / scarcely*). You must drill the **Reversed Polarity Checklist** to neutralize deceptive negative adverbs (*à peine, nullement, ne… guère, ne… point*).
 
 #### 3. The Pacing Deficit (Le Déficit Chronométrique)
@@ -116,7 +116,7 @@ If you stalled in Speaking Task 3 before the 4:15 mark:
 - Set a timer for **4 minutes and 30 seconds**. Speak continuously.
 - When you finish an argument, do not pause: immediately deploy a high-register thinking filler:
   **« Cela étant posé, il convient d'élargir l'analyse à une dimension plus humaine... »**  
-  — /sə.la e.tɑ̃ po.ze il kɔ̃.vjɛ̃ d‿e.laʁ.ʒiʁ l‿a.na.liz a yn di.mɑ̃.sjɔ̃ ply.z‿y.mɛn/
+  — /sə.la e.tɑ̃ po.ze il kɔ̃.vjɛ̃ d‿e.laʁ.ʒiʁ l‿a.na.liz a yn di.mɑ̃.sjɔ̃ ply.z‿y.mɛn/ (suh-lah ay-TAHN poh-ZAY, eel kohn-VYEHN day-lahr-ZHEER lah-nah-LEEZ ah ewn dee-mahn-SYOHN plew-zew-MEHN)
 
 ---
 
@@ -185,7 +185,7 @@ Read the three candidate error scenarios below. Identify:
 > In Compréhension écrite, candidate Elena answered Items 1 to 28 with 92% accuracy. On Items 29 to 39, her accuracy plummeted to 25%. Her notes show she spent 8 minutes rereading a mid-section text on Item 19 because she wanted to be 100% certain of her answer.
 
 **Scenario B**:
-> In Compréhension orale, candidate Youssef listened to an interview where a Canadian official stated: **« Il n'est pas question d'annuler les subventions »** — /il n‿ɛ pa kɛs.tjɔ̃ d‿a.ny.le le syb.vɑ̃.sjɔ̃/ (*There is no question of canceling subsidies*). Youssef selected choice C: *« Les subventions vont être supprimées »*.
+> In Compréhension orale, candidate Youssef listened to an interview where a Canadian official stated: **« Il n'est pas question d'annuler les subventions »** — /il n‿ɛ pa kɛs.tjɔ̃ d‿a.ny.le le syb.vɑ̃.sjɔ̃/ (eel neh pah kehs-TYOHN dah-new-LAY lay sewb-vahn-SYOHN) (*There is no question of canceling subsidies*). Youssef selected choice C: *« Les subventions vont être supprimées »*.
 
 **Scenario C**:
 > In a practice Expression écrite, candidate Mei wrote strong texts for Task 1 and Task 2. On Task 3, she copied three sentences directly from Document 1: 38 of her 146 words were lifted, so only 108 words were her own. Her tutor's unofficial self-assessment rubric rated Task 3 very low for task completion.
@@ -213,20 +213,20 @@ Read the three candidate error scenarios below. Identify:
 
 Master these 12 formal terms defining test-triage and diagnostic remediation:
 
-| French Term | IPA Transcription | English Translation | Pedagogical Function |
-| :--- | :--- | :--- | :--- |
-| **Le diagnostic différentiel** | /lə djaɡ.nɔs.tik di.fe.ʁɑ̃.sjɛl/ | Differential diagnosis | Distinguishing error causes |
-| **Le piège de la reformulation** | /lə pjɛʒ də la ʁə.fɔʁ.my.la.sjɔ̃/ | Paraphrase trap | Subtle distractor wording |
-| **La dérive chronométrique** | /la de.ʁiv kʁɔ.nɔ.me.tʁik/ | Pacing drift | Losing track of the timer |
-| **Le décrochage d'attention** | /lə de.kʁɔ.ʃaʒ d‿a.tɑ̃.sjɔ̃/ | Attention lapse | Cognitive fatigue drop-off |
-| **La grille d'audit des erreurs** | /la ɡʁij d‿o.dit de.z‿e.ʁœʁ/ | Error audit log | Standardized review table |
-| **Un point de bascule** | /œ̃ pwɛ̃ də bas.kyl/ | Tipping point | The item where stamina collapsed |
-| **La reformulation substantielle**| /la ʁə.fɔʁ.my.la.sjɔ̃ syb.stɑ̃.sjɛl/ | Substantive paraphrasing | Complete non-verbatim rewrite |
-| **Un automatisme réflexe** | /œ̃n‿o.tɔ.ma.tism ʁe.flɛks/ | Automated reflex | Subconscious test execution |
-| **La zone de confort illusoire** | /la zon də kɔ̃.fɔʁ i.ly.zwaʁ/ | False comfort zone | Rereading easy texts |
-| **Le non-respect du nombre de mots** | /lə nɔ̃.ʁɛs.pɛ dy nɔ̃bʁ də mo/ | Failure to respect the word count | Writing outside the required range |
-| **La restitution fidèle** | /la ʁɛs.ti.ty.sjɔ̃ fi.dɛl/ | Accurate reproduction | Conveying meaning without copying |
-| **L'inoculation au stress** | /l‿i.nɔ.ky.la.sjɔ̃ o stʁɛs/ | Stress inoculation | Building mental exam resilience |
+| French Term | IPA Transcription | Phonetic Respelling | English Translation | Pedagogical Function |
+| :--- | :--- | :--- | :--- | :--- |
+| **Le diagnostic différentiel** | /lə djaɡ.nɔs.tik di.fe.ʁɑ̃.sjɛl/ | (luh dyahg-nohs-TEEK dee-fay-rahn-SYEHL) | Differential diagnosis | Distinguishing error causes |
+| **Le piège de la reformulation** | /lə pjɛʒ də la ʁə.fɔʁ.my.la.sjɔ̃/ | (luh PYEHZH duh lah ruh-fohr-mew-lah-SYOHN) | Paraphrase trap | Subtle distractor wording |
+| **La dérive chronométrique** | /la de.ʁiv kʁɔ.nɔ.me.tʁik/ | (lah day-REEV kroh-noh-may-TREEK) | Pacing drift | Losing track of the timer |
+| **Le décrochage d'attention** | /lə de.kʁɔ.ʃaʒ d‿a.tɑ̃.sjɔ̃/ | (luh day-kroh-SHAHZH dah-tahn-SYOHN) | Attention lapse | Cognitive fatigue drop-off |
+| **La grille d'audit des erreurs** | /la ɡʁij d‿o.dit de.z‿e.ʁœʁ/ | (lah GREE doh-DEET day-zeh-RUHR) | Error audit log | Standardized review table |
+| **Un point de bascule** | /œ̃ pwɛ̃ də bas.kyl/ | (uhn PWEHN duh bahs-KEWL) | Tipping point | The item where stamina collapsed |
+| **La reformulation substantielle**| /la ʁə.fɔʁ.my.la.sjɔ̃ syb.stɑ̃.sjɛl/ | (lah ruh-fohr-mew-lah-SYOHN sewb-stahn-SYEHL) | Substantive paraphrasing | Complete non-verbatim rewrite |
+| **Un automatisme réflexe** | /œ̃n‿o.tɔ.ma.tism ʁe.flɛks/ | (uhn-noh-toh-mah-TEES-muh ray-FLEHKS) | Automated reflex | Subconscious test execution |
+| **La zone de confort illusoire** | /la zon də kɔ̃.fɔʁ i.ly.zwaʁ/ | (lah ZOHN duh kohn-FOHR ee-lew-ZWAHR) | False comfort zone | Rereading easy texts |
+| **Le non-respect du nombre de mots** | /lə nɔ̃.ʁɛs.pɛ dy nɔ̃bʁ də mo/ | (luh nohn-rehs-PEH dew nohn-bruh duh MOH) | Failure to respect the word count | Writing outside the required range |
+| **La restitution fidèle** | /la ʁɛs.ti.ty.sjɔ̃ fi.dɛl/ | (lah rehs-tee-tew-SYOHN fee-DEHL) | Accurate reproduction | Conveying meaning without copying |
+| **L'inoculation au stress** | /l‿i.nɔ.ky.la.sjɔ̃ o stʁɛs/ | (lee-noh-kew-lah-SYOHN oh STREHS) | Stress inoculation | Building mental exam resilience |
 
 ---
 
