@@ -7,7 +7,7 @@ In everyday conversation, beginner learners rely on clumsy direct quotations:
 
 At CEFR B1, however, sophisticated language requires **reported speech** (*le discours rapporté* or *le discours indirect*). Instead of reproducing verbatim speech in quotation marks, you integrate the speaker's statement into a subordinate clause:
 * **Le directeur m'indique que je dois finaliser le rapport avant vendredi.**
-  /lə di.ʁɛk.tœʁ m‿ɛ̃.dik kə ʒə dwa fi.na.li.ze lə ʁa.pɔʁ a.vɑ̃ vɑ̃.dʁə.di/
+  /lə di.ʁɛk.tœʁ m‿ɛ̃.dik kə ʒə dwa fi.na.li.ze lə ʁa.pɔʁ a.vɑ̃ vɑ̃.dʁə.di/ (*luh dee-rehk-TUHR mehn-DEEK kuh zhuh dwah fee-nah-lee-ZAY luh rah-POR ah-VAHN vahn-druh-DEE*)
   *The director indicates to me that I must finalize the report before Friday.*
 
 When the introductory verb is in the **present tense** (*il dit*, *le ministre affirme*, *la presse annonce*), reported speech is remarkably accessible: **the verb tenses in the reported clause do NOT undergo tense shifts** (*pas de concordance des temps au passé*). A present tense remains in the present, a future remains in the future, and a passé composé remains in the passé composé.
@@ -41,11 +41,11 @@ The exact connector you choose depends entirely on the syntactic type of the ori
 * **Rule**: Connect with **que** (or **qu'** before a vowel or mute *h*).
 * Direct: *La porte-parole annonce : « Les négociations reprennent immédiatement. »*
 * Indirect: **La porte-parole annonce que les négociations reprennent immédiatement.**
-  /la pɔʁt.pa.ʁɔl a.nɔ̃s kə le ne.gɔ.sja.sjɔ̃ ʁə.pʁɛn i.me.djat.mɑ̃/
+  /la pɔʁt.pa.ʁɔl a.nɔ̃s kə le ne.gɔ.sja.sjɔ̃ ʁə.pʁɛn i.me.djat.mɑ̃/ (*lah port-pah-ROHL ah-NOHNS kuh lay nay-goh-syah-SYOHN ruh-PREHN ee-may-dyaht-MAHN*)
   *The spokesperson announces that negotiations are resuming immediately.*
 * Direct: *Le ministre assure : « Il n'y aura aucune augmentation d'impôts. »*
 * Indirect: **Le ministre assure qu'il n'y aura aucune augmentation d'impôts.**
-  /lə mi.nistʁ a.syʁ k‿il n‿j‿o.ʁa o.kyn og.mɑ̃.ta.sjɔ̃ d‿ɛ̃.po/
+  /lə mi.nistʁ a.syʁ k‿il n‿j‿o.ʁa o.kyn og.mɑ̃.ta.sjɔ̃ d‿ɛ̃.po/ (*luh mee-NEEST-ruh ah-SEWR keel nyoh-RAH oh-KEWN ohg-mahn-tah-SYOHN dehn-POH*)
   *The minister assures that there will be no tax increase.*
 
 #### 2. Yes/No Questions (*L'interrogation totale*)
@@ -53,11 +53,11 @@ When a question can be answered simply with *oui* or *non* (whether formulated w
 * **Rule**: Connect with **si** (or **s'** before *il* and *ils* ONLY).
 * Direct: *Le journaliste demande : « Le gouvernement va-t-il intervenir ? »*
 * Indirect: **Le journaliste demande si le gouvernement va intervenir.**
-  /lə ʒuʁ.na.list də.mɑ̃d si lə gu.vɛʁ.nə.mɑ̃ va ɛ̃.tɛʁ.və.niʁ/
+  /lə ʒuʁ.na.list də.mɑ̃d si lə gu.vɛʁ.nə.mɑ̃ va ɛ̃.tɛʁ.və.niʁ/ (*luh zhoor-nah-LEEST duh-MAHND see luh goo-vehr-nuh-MAHN vah ehn-tehr-vuh-NEER*)
   *The journalist asks if the government is going to intervene.*
 * Direct: *L'animatrice demande : « Est-ce qu'ils soutiennent cette mesure ? »*
 * Indirect: **L'animatrice demande s'ils soutiennent cette mesure.**
-  /l‿a.ni.ma.tʁis də.mɑ̃d s‿il su.tjɛn sɛt mə.zyʁ/
+  /l‿a.ni.ma.tʁis də.mɑ̃d s‿il su.tjɛn sɛt mə.zyʁ/ (*lah-nee-mah-TREESS duh-MAHND seel soo-TYEHN seht muh-ZEWR*)
   *The host asks if they support this measure.*
 
 > [!WARNING]
@@ -73,11 +73,11 @@ When a question begins with an interrogative adverb or adjective (*où, quand, c
 * **Rule**: Keep the interrogative word exactly as it is, but **restore standard subject-verb order** (no inversion and no *est-ce que*).
 * Direct: *L'inspecteur demande : « Où avez-vous trouvé ce document ? »*
 * Indirect: **L'inspecteur demande où vous avez trouvé ce document.**
-  /l‿ɛ̃s.pɛk.tœʁ də.mɑ̃d u vu.z‿a.ve tʁu.ve sə dɔ.ky.mɑ̃/
+  /l‿ɛ̃s.pɛk.tœʁ də.mɑ̃d u vu.z‿a.ve tʁu.ve sə dɔ.ky.mɑ̃/ (*lehn-spehk-TUHR duh-MAHND oo voo-zah-VAY troo-VAY suh doh-kew-MAHN*)
   *The inspector asks where you found this document.*
 * Direct: *Le citoyen s'interroge : « Pourquoi le budget est-il déficitaire ? »*
 * Indirect: **Le citoyen s'interroge sur la raison pour laquelle le budget est déficitaire.** (Or: **Le citoyen demande pourquoi le budget est déficitaire.**)
-  /lə si.twa.jɛ̃ də.mɑ̃d puʁ.kwa lə byd.ʒɛ ɛ de.fi.si.tɛʁ/
+  /lə si.twa.jɛ̃ də.mɑ̃d puʁ.kwa lə byd.ʒɛ ɛ de.fi.si.tɛʁ/ (*luh see-twah-YEN duh-MAHND poor-KWAH luh bewd-ZHEH eh day-fee-see-TEHR*)
   *The citizen asks why the budget is running a deficit.*
 
 #### 4. Questions with "Que" or "Qu'est-ce que" (*L'interrogation sur l'objet*)
@@ -85,7 +85,7 @@ This is the single most common grammatical trap for English speakers:
 * Direct: *« Que voulez-vous ? »* or *« Qu'est-ce que vous voulez ? »*
 * **Rule**: Transforms into **ce que** (or **ce qu'** before a vowel).
 * Indirect: **Le médiateur demande ce que vous souhaitez obtenir.**
-  /lə me.dja.tœʁ də.mɑ̃d sə kə vu swɛ.te ɔb.tə.niʁ/
+  /lə me.dja.tœʁ də.mɑ̃d sə kə vu swɛ.te ɔb.tə.niʁ/ (*luh may-dyah-TUHR duh-MAHND suh kuh voo sweh-TAY ohb-tuh-NEER*)
   *The mediator asks what you wish to obtain.*
 * *Never say: "Le médiateur demande qu'est-ce que vous voulez."* ❌
 
@@ -93,7 +93,7 @@ This is the single most common grammatical trap for English speakers:
 * Direct: *« Qu'est-ce qui provoque cette panne ? »*
 * **Rule**: Transforms into **ce qui** (followed immediately by the verb).
 * Indirect: **Le technicien explique ce qui provoque cette panne technique.**
-  /lə tɛk.ni.sjɛ̃ ɛks.plik sə ki pʁɔ.vɔk sɛt pan tɛk.nik/
+  /lə tɛk.ni.sjɛ̃ ɛks.plik sə ki pʁɔ.vɔk sɛt pan tɛk.nik/ (*luh tehk-nee-SYEN ehks-PLEEK suh kee proh-VOHK seht PAHN tehk-NEEK*)
   *The technician explains what is causing this technical breakdown.*
 
 #### 6. Imperatives and Commands (*L'ordre et la consigne*)
@@ -101,11 +101,11 @@ When reporting an instruction, command, or prohibition:
 * **Rule**: Replace the imperative verb with **de + infinitif** (or **de ne pas + infinitif** for negative commands).
 * Direct: *La consigne précise : « Éteignez vos téléphones portables. »*
 * Indirect: **La consigne précise d'éteindre les téléphones portables.**
-  /la kɔ̃.siɲ pʁe.siz d‿e.tɛ̃dʁ le te.le.fɔn pɔʁ.tabl/
+  /la kɔ̃.siɲ pʁe.siz d‿e.tɛ̃dʁ le te.le.fɔn pɔʁ.tabl/ (*lah kohn-SEEN-yuh pray-SEEZ day-TEHN-druh lay tay-lay-FOHN por-TAH-bluh*)
   *The instruction specifies to turn off mobile phones.*
 * Direct: *L'officier ordonne : « Ne franchissez pas cette ligne. »*
 * Indirect: **L'officier ordonne de ne pas franchir cette ligne de sécurité.**
-  /l‿ɔ.fi.sje ɔʁ.dɔn də nə pa fʁɑ̃.ʃiʁ sɛt liɲ də se.ky.ʁi.te/
+  /l‿ɔ.fi.sje ɔʁ.dɔn də nə pa fʁɑ̃.ʃiʁ sɛt liɲ də se.ky.ʁi.te/ (*loh-fee-SYAY or-DOHN duh nuh pah frahn-SHEER seht LEEN-yuh duh say-kew-ree-TAY*)
   *The officer orders not to cross this security line.*
 
 ---
@@ -142,27 +142,27 @@ VERBES INTRODUCTEURS ─┼─── Revealing/Investigative : révéler, divulg
 ```
 
 #### 1. Neutral Assertion and Clarification
-* **affirmer que** (/a.fiʁ.me kə/) — to assert / claim firmly:
+* **affirmer que** (/a.fiʁ.me kə/ — (ah-feer-MAY kuh)) — to assert / claim firmly:
   * *Le premier ministre **affirme que** la croissance économique reste solide.*
-* **préciser que** (/pʁe.si.ze kə/) — to specify / clarify:
+* **préciser que** (/pʁe.si.ze kə/ — (pray-see-ZAY kuh)) — to specify / clarify:
   * *Le comité organisateur **précise que** l'accès au site demeure entièrement gratuit.*
-* **déclarer que** (/de.kla.ʁe kə/) — to declare / state publicly:
+* **déclarer que** (/de.kla.ʁe kə/ — (day-klah-RAY kuh)) — to declare / state publicly:
   * *Les représentants syndicaux **déclarent qu'**une entente de principe a été conclue.*
 
 #### 2. Nuanced Stance and Critical Distance
-* **prétendre que** (/pʁe.tɑ̃dʁ kə/) — to claim (often with skepticism / without proof):
+* **prétendre que** (/pʁe.tɑ̃dʁ kə/ — (pray-TAHN-druh kuh)) — to claim (often with skepticism / without proof):
   * *L'opposition **prétend que** le gouvernement dissimule le véritable coût des travaux.*
-* **estimer que** (/ɛs.ti.me kə/) — to consider / deem / assess:
+* **estimer que** (/ɛs.ti.me kə/ — (ehs-tee-MAY kuh)) — to consider / deem / assess:
   * *Les économistes **estiment que** la baisse des taux directeurs stimulera l'investissement.*
-* **reconnaître que** (/ʁə.kɔ.nɛtʁ kə/) — to acknowledge / concede:
+* **reconnaître que** (/ʁə.kɔ.nɛtʁ kə/ — (ruh-koh-NEH-truh kuh)) — to acknowledge / concede:
   * *L'administration **reconnaît que** des retards administratifs persistent dans le traitement des dossiers.*
 
 #### 3. Warning, Caution, and Revelation
-* **rappeler que** (/ʁa.pə.le kə/) — to remind that:
+* **rappeler que** (/ʁa.pə.le kə/ — (rah-puh-LAY kuh)) — to remind that:
   * *La santé publique **rappelle qu'**il est essentiel de se faire vacciner avant l'hiver.*
-* **révéler que** (/ʁe.ve.le kə/) — to disclose / reveal:
+* **révéler que** (/ʁe.ve.le kə/ — (ray-vay-LAY kuh)) — to disclose / reveal:
   * *Une enquête indépendante **révèle que** des failles informatiques majeures existent.*
-* **souligner que** (/su.li.ɲe kə/) — to emphasize / highlight:
+* **souligner que** (/su.li.ɲe kə/ — (soo-leen-YAY kuh)) — to emphasize / highlight:
   * *L'éditorialiste **souligne qu'**aucune solution durable ne sera possible sans concertation citoyenne.*
 
 ---
@@ -179,7 +179,7 @@ When transposing direct quotes into indirect speech, all typographical markers o
   * *La journaliste lui demande : « Pourquoi refusez-vous de signer cette entente ? »*
 * Indirect Transposition:
   * **La journaliste lui demande pourquoi il refuse de signer cette entente.**
-  /la ʒuʁ.na.list lɥi də.mɑ̃d puʁ.kwa il ʁə.fyz də si.ɲe sɛt ɑ̃.tɑ̃t/
+  /la ʒuʁ.na.list lɥi də.mɑ̃d puʁ.kwa il ʁə.fyz də si.ɲe sɛt ɑ̃.tɑ̃t/ (*lah zhoor-nah-LEEST lwee duh-MAHND poor-KWAH eel ruh-FEWZ duh seen-YAY seht ahn-TAHNT*)
   *(Notice: no colon, no quotation marks, no question mark, subject precedes verb).*
 
 ---
@@ -193,7 +193,7 @@ In Writing Task 3, you are given two short press excerpts presenting differing o
 * To achieve B1/B2, you cannot copy direct quotes from the prompt.
 * You must synthesize:
   * **Tandis que le premier document affirme que le télétravail augmente la productivité, l'auteur du second texte rappelle que l'isolement social fragilise la cohésion d'équipe.**
-  /tɑ̃.di kə lə pʁə.mje dɔ.ky.mɑ̃ a.fiʁm kə lə te.le.tʁa.vaj og.mɑ̃t la pʁɔ.dyk.ti.vi.te, l‿o.tœʁ dy sə.gɔ̃ tɛkst ʁa.pɛl kə l‿i.zɔl.mɑ̃ sɔ.sjal fʁa.ʒi.liz la kɔ.e.zjɔ̃ d‿e.kip/
+  /tɑ̃.di kə lə pʁə.mje dɔ.ky.mɑ̃ a.fiʁm kə lə te.le.tʁa.vaj og.mɑ̃t la pʁɔ.dyk.ti.vi.te, l‿o.tœʁ dy sə.gɔ̃ tɛkst ʁa.pɛl kə l‿i.zɔl.mɑ̃ sɔ.sjal fʁa.ʒi.liz la kɔ.e.zjɔ̃ d‿e.kip/ (*tahn-dee kuh luh pruh-MYAY doh-kew-MAHN ah-FEERM kuh luh tay-lay-trah-VY ohg-MAHNT lah proh-dewk-tee-vee-TAY, loh-TUHR dew suh-GOHN TEHKST rah-PEHL kuh lee-zohl-MAHN soh-SYAHL frah-zhee-LEEZ lah koh-ay-ZYOHN day-KEEP*)
 
 #### 2. Speaking Task 3 (Expressing a Viewpoint on a Topic)
 When responding to a debate prompt in Speaking Task 3, attributing arguments to external authorities lends weight and maturity to your discourse:
