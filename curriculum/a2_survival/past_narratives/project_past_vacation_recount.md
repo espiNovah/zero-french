@@ -4,7 +4,7 @@ In this project, you will combine all the skills mastered across the *Past Narra
 
 This project mirrors the dual demands of the **TCF Canada examination**:
 1. **Written Production (*Expression écrite*)**: An **80 to 120-word email or blog post** recounting a past journey under simulated test conditions (typed, 15 minutes, no autocorrect). The real Writing Task 1 asks for 60–120 words; this project sets a slightly higher floor as a stretch target. This exercises the *passé composé with avoir and être*, narrative chronology markers (*d'abord, ensuite, soudain, finalement*), and subject-participle agreements.
-2. **Oral Production (*Expression orale*)**: A **2-minute recorded unscripted oral recount** responding to the classic examiner question: *« Racontez-moi un voyage ou un week-end mémorable que vous avez fait récemment »* (mirroring the kind of personal question you may be asked in Speaking Task 1, the *entretien dirigé*).
+2. **Oral Production (*Expression orale*)**: A **2-minute recorded unscripted oral recount** responding to the classic examiner question: *« Racontez-moi un voyage ou un week-end mémorable que vous avez fait récemment »* (/ʁa.kɔ̃.te mwa œ̃ vwa.jaʒ u œ̃ wi.kɛnd me.mɔ.ʁabl kə vu.z‿a.ve fɛ ʁe.sa.mɑ̃/ — *rah-kohn-TAY MWAH uhn vwah-YAHZH oo uhn week-EHND may-moh-RAH-bluh kuh voo-zah-VAY FEH ray-sah-MAHN*) (mirroring the kind of personal question you may be asked in Speaking Task 1, the *entretien dirigé*).
 
 Completing this project will provide tangible, verifiable evidence in your portfolio that your ability to narrate completed past events has stabilized at **CEFR A2 level**.
 
@@ -48,7 +48,7 @@ Before starting your writing and recording session, set up your physical and dig
    **Close your text editor completely** and start right away: Speaking Task 1 has no preparation time.  
    - Start your audio recording device.
    - Speak for **1 minute 45 seconds to 2 minutes** recounting your trip spontaneously. Do not read from your screen or notes!
-   - Concentrate on clear vowel sounds, correct auxiliary pronunciation (*j'ai* /ʒe/, *je suis* /ʒə sɥi/), and smooth liaisons (*nous‿avons voyagé* /nu.z‿a.vɔ̃ vwa.ja.ʒe/, *ils‿ont‿aimé* /il.z‿ɔ̃.t‿e.me/).
+   - Concentrate on clear vowel sounds, correct auxiliary pronunciation (*j'ai* /ʒe/ — *zhay*, *je suis* /ʒə sɥi/ — *zhuh swee*), and smooth liaisons (*nous‿avons voyagé* /nu.z‿a.vɔ̃ vwa.ja.ʒe/ — *noo-zah-VOHN vwah-yah-ZHAY*, *ils‿ont‿aimé* /il.z‿ɔ̃.t‿e.me/ — *eel-zohn-tay-MAY*).
 
 #### Evidence
 
@@ -107,8 +107,8 @@ Be rigorous and objective.
 
 #### Extra credit
 
-- **Incorporate a Dual-Auxiliary Verb**: Use one of the 6 dual-auxiliary verbs (*monter*, *descendre*, *sortir*, *rentrer*, *retourner*, *passer*) transitively with *avoir* to describe moving an object (*J'ai monté mes valises dans la chambre d'hôtel*).
-- **Add Weather Conditions**: Describe what the weather was like during the trip using impersonal weather expressions in the past (*Il a fait un soleil magnifique le premier jour, mais il a neigé le lendemain*).
+- **Incorporate a Dual-Auxiliary Verb**: Use one of the 6 dual-auxiliary verbs (*monter*, *descendre*, *sortir*, *rentrer*, *retourner*, *passer*) transitively with *avoir* to describe moving an object (*J'ai monté mes valises dans la chambre d'hôtel* — /ʒ‿e mɔ̃.te me va.liz dɑ̃ la ʃɑ̃bʁ d‿o.tɛl/ — *zhay mohn-TAY may vah-LEEZ dahn lah SHAHN-bruh doh-TEHL*).
+- **Add Weather Conditions**: Describe what the weather was like during the trip using impersonal weather expressions in the past (*Il a fait un soleil magnifique le premier jour, mais il a neigé le lendemain* — /i.l‿a fɛ œ̃ sɔ.lɛj ma.ɲi.fik lə pʁə.mje ʒuʁ, mɛ i.l‿a ne.ʒe lə lɑ̃d.mɛ̃/ — *eel ah FEH uhn soh-LEHY mahn-yee-FEEK luh pruh-MYAY ZHOOR, meh eel ah nay-ZHAY luh lahnd-MEHN*).
 
 </div>
 
