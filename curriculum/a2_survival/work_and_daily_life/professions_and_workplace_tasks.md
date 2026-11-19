@@ -26,25 +26,25 @@ In French, professional titles reflect grammatical gender. While European French
 
 On the TCF Canada exam, using the correct feminine title when it applies to you is natural and expected in modern French:
 
-| Masculine Title | Feminine Title | IPA (Masc. / Fem.) | English Meaning |
-| :--- | :--- | :--- | :--- |
-| **un ingénieur** | **une ingénieure** | /œ̃.n‿ɛ̃.ʒe.njœʁ / yn ɛ̃.ʒe.njœʁ/ | engineer |
-| **un gestionnaire** | **une gestionnaire** | /œ̃ ʒɛs.tjɔ.nɛʁ / yn ʒɛs.tjɔ.nɛʁ/ | manager / administrator |
-| **un informaticien** | **une informaticienne** | /œ̃.n‿ɛ̃.fɔʁ.ma.ti.sjɛ̃ / yn ɛ̃.fɔʁ.ma.ti.sjɛn/ | IT specialist / software dev |
-| **un enseignant** | **une enseignante** | /œ̃.n‿ɑ̃.sɛ.ɲɑ̃ / yn ɑ̃.sɛ.ɲɑ̃t/ | teacher / instructor |
-| **un médecin** | **une médecin** (or *docteure*) | /œ̃ med.sɛ̃ / yn med.sɛ̃/ | doctor / physician |
-| **un infirmier** | **une infirmière** | /œ̃.n‿ɛ̃.fiʁ.mje / yn ɛ̃.fiʁ.mjɛʁ/ | nurse |
-| **un avocat** | **une avocate** | /œ̃.n‿a.vɔ.ka / yn a.vɔ.kat/ | lawyer / attorney |
-| **un comptable** | **une comptable** | /œ̃ kɔ̃.tabl / yn kɔ̃.tabl/ | accountant |
-| **un commis** | **une commis** | /œ̃ kɔ.mi / yn kɔ.mi/ | clerk / associate |
-| **un agent** | **une agente** | /œ̃.n‿a.ʒɑ̃ / yn a.ʒɑ̃t/ | agent / officer |
+| Masculine Title | Feminine Title | IPA (Masc. / Fem.) | Phonetic Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **un ingénieur** | **une ingénieure** | /œ̃.n‿ɛ̃.ʒe.njœʁ / yn ɛ̃.ʒe.njœʁ/ | (uhn-nen-zhay-NYEUHR / ewn en-zhay-NYEUHR) | engineer |
+| **un gestionnaire** | **une gestionnaire** | /œ̃ ʒɛs.tjɔ.nɛʁ / yn ʒɛs.tjɔ.nɛʁ/ | (uhn zhehs-tyoh-NEHR / ewn zhehs-tyoh-NEHR) | manager / administrator |
+| **un informaticien** | **une informaticienne** | /œ̃.n‿ɛ̃.fɔʁ.ma.ti.sjɛ̃ / yn ɛ̃.fɔʁ.ma.ti.sjɛn/ | (uhn-nen-fohr-mah-tee-SYEN / ewn en-fohr-mah-tee-SYEHN) | IT specialist / software dev |
+| **un enseignant** | **une enseignante** | /œ̃.n‿ɑ̃.sɛ.ɲɑ̃ / yn ɑ̃.sɛ.ɲɑ̃t/ | (uhn-nahn-seh-NYAHN / ewn ahn-seh-NYAHNT) | teacher / instructor |
+| **un médecin** | **une médecin** (or *docteure*) | /œ̃ med.sɛ̃ / yn med.sɛ̃/ | (uhn mayd-SEHN / ewn mayd-SEHN) | doctor / physician |
+| **un infirmier** | **une infirmière** | /œ̃.n‿ɛ̃.fiʁ.mje / yn ɛ̃.fiʁ.mjɛʁ/ | (uhn-nen-feer-MYAY / ewn en-feer-MYEHR) | nurse |
+| **un avocat** | **une avocate** | /œ̃.n‿a.vɔ.ka / yn a.vɔ.kat/ | (uhn-nah-voh-KAH / ewn ah-voh-KAHT) | lawyer / attorney |
+| **un comptable** | **une comptable** | /œ̃ kɔ̃.tabl / yn kɔ̃.tabl/ | (uhn kohn-TAH-bluh / ewn kohn-TAH-bluh) | accountant |
+| **un commis** | **une commis** | /œ̃ kɔ.mi / yn kɔ.mi/ | (uhn koh-MEE / ewn koh-MEE) | clerk / associate |
+| **un agent** | **une agente** | /œ̃.n‿a.ʒɑ̃ / yn a.ʒɑ̃t/ | (uhn-nah-ZHAHN / ewn ah-ZHAHNT) | agent / officer |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Rule: No Indefinite Article with Être + Profession!
 
 Remember the fundamental grammatical rule introduced in A1: when stating your profession directly after the verb **être**, **do not use an article** (*un* or *une*):
-- **Correct**: *Je suis ingénieure.* (/ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/)
+- **Correct**: *Je suis ingénieure.* (/ʒə sɥi.z‿ɛ̃.ʒe.njœʁ/ — *zhuh swee-zen-zhay-NYEUHR*)
 - **Incorrect**: *"Je suis une ingénieure."* (Only use *une* if you add an adjective: *Je suis une excellente ingénieure*).
 
 </div>
@@ -53,19 +53,19 @@ Remember the fundamental grammatical rule introduced in A1: when stating your pr
 
 To describe what you actually do throughout your workday, you need active transitive verbs. These verbs allow you to build dynamic, professional sentences:
 
-| Action Verb | IPA Pronunciation | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- |
-| **gérer** | /ʒe.ʁe/ | to manage / handle | *Je gère une équipe de six personnes.* |
-| **rédiger** | /ʁe.di.ʒe/ | to write / draft | *Elle rédige des rapports financiers hebdomadaires.* |
-| **traiter** | /tʁe.te/ | to process / treat | *Nous traitons les dossiers des nouveaux clients.* |
-| **animer** | /a.ni.me/ | to facilitate / lead | *J'anime la réunion d'équipe tous les lundis.* |
-| **coordonner** | /kɔ.ɔʁ.dɔ.ne/ | to coordinate | *Il coordonne les projets avec nos partenaires.* |
-| **concevoir** | /kɔ̃.sə.vwaʁ/ | to design / develop | *Mon équipe conçoit des applications mobiles.* |
-| **analyser** | /a.na.li.ze/ | to analyze | *J'analyse des bases de données complexes.* |
-| **planifier** | /pla.ni.fje/ | to schedule / plan | *Nous planifions les étapes du projet.* |
-| **conseiller** | /kɔ̃.se.je/ | to advise | *Elle conseille la clientèle sur les produits.* |
+| Action Verb | IPA Pronunciation | Phonetic Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **gérer** | /ʒe.ʁe/ | (zhay-RAY) | to manage / handle | *Je gère une équipe de six personnes.* |
+| **rédiger** | /ʁe.di.ʒe/ | (ray-dee-ZHAY) | to write / draft | *Elle rédige des rapports financiers hebdomadaires.* |
+| **traiter** | /tʁe.te/ | (treh-TAY) | to process / treat | *Nous traitons les dossiers des nouveaux clients.* |
+| **animer** | /a.ni.me/ | (ah-nee-MAY) | to facilitate / lead | *J'anime la réunion d'équipe tous les lundis.* |
+| **coordonner** | /kɔ.ɔʁ.dɔ.ne/ | (koh-ohr-doh-NAY) | to coordinate | *Il coordonne les projets avec nos partenaires.* |
+| **concevoir** | /kɔ̃.sə.vwaʁ/ | (kohn-suh-VWAHR) | to design / develop | *Mon équipe conçoit des applications mobiles.* |
+| **analyser** | /a.na.li.ze/ | (ah-nah-lee-ZAY) | to analyze | *J'analyse des bases de données complexes.* |
+| **planifier** | /pla.ni.fje/ | (plah-nee-FYAY) | to schedule / plan | *Nous planifions les étapes du projet.* |
+| **conseiller** | /kɔ̃.se.je/ | (kohn-seh-YAY) | to advise | *Elle conseille la clientèle sur les produits.* |
 
-> **En tant que chef de projet, je coordonne les activités et j'anime les réunions hebdomadaires.** — /ɑ̃ tɑ̃ kə ʃɛf də pʁɔ.ʒɛ, ʒə kɔ.ɔʁ.dɔn le.z‿ak.ti.vi.te e ʒ‿a.nim le ʁe.y.njɔ̃ ɛb.dɔ.ma.dɛʁ/  
+> **En tant que chef de projet, je coordonne les activités et j'anime les réunions hebdomadaires.** — /ɑ̃ tɑ̃ kə ʃɛf də pʁɔ.ʒɛ, ʒə kɔ.ɔʁ.dɔn le.z‿ak.ti.vi.te e ʒ‿a.nim le ʁe.y.njɔ̃ ɛb.dɔ.ma.dɛʁ/ (ahn tahn kuh shehf duh proh-ZHEH, zhuh koh-ohr-DOHN lay-zahk-tee-vee-TAY ay zhah-NEEM lay ray-ew-NYOHN ehb-doh-mah-DEHR)  
 > *As a project manager, I coordinate activities and facilitate weekly meetings.*
 
 ### Work schedules, employment conditions, and telework
@@ -74,21 +74,21 @@ Modern Canadian workplaces operate with flexible work arrangements, hybrid model
 
 #### 1. Employment Types
 
-- **Un emploi à temps plein** (/œ̃.n‿ɑ̃.plwa a tɑ̃ plɛ̃/) — *Full-time job* (typically 35 to 40 hours per week in Canada).
-- **Un emploi à temps partiel** (/œ̃.n‿ɑ̃.plwa a tɑ̃ paʁ.sjɛl/) — *Part-time job*.
+- **Un emploi à temps plein** (/œ̃.n‿ɑ̃.plwa a tɑ̃ plɛ̃/ — *uhn-nahn-PLWAH ah tahn PLEHN*) — *Full-time job* (typically 35 to 40 hours per week in Canada).
+- **Un emploi à temps partiel** (/œ̃.n‿ɑ̃.plwa a tɑ̃ paʁ.sjɛl/ — *uhn-nahn-PLWAH ah tahn pahr-SYEHL*) — *Part-time job*.
 - **Un contrat à durée indéterminée (CDI)** / **Poste permanent** **(QC)** — *Permanent position*.
 - **Un contrat temporaire** / **Poste contractuel** **(QC)** — *Temporary / contract position*.
-- **Le travailleur autonome** **(QC)** (/lə tʁa.va.jœʁ o.tɔ.nɔm/) — *Self-employed person / freelancer*.
+- **Le travailleur autonome** **(QC)** (/lə tʁa.va.jœʁ o.tɔ.nɔm/ — *luh trah-vah-YEUHR oh-toh-NOHM*) — *Self-employed person / freelancer*.
 
 #### 2. Schedules, Overtime, and Remote Work
 
-- **Les heures supplémentaires** (/le.z‿œʁ sy.ple.mɑ̃.tɛʁ/) — *Overtime hours*.
-- **Une échéance** (/yn e.ʃe.ɑ̃s/) — *A deadline*.
-- **Le télétravail** (/lə te.le.tʁa.vaj/) — *Telework / working from home*.
-- **Le mode hybride** (/lə mɔd i.bʁid/) — *Hybrid model* (e.g. 3 days at home, 2 days in office).
-- **Le congé payé** (/lə kɔ̃.ʒe pe.je/) — *Paid vacation / leave*.
+- **Les heures supplémentaires** (/le.z‿œʁ sy.ple.mɑ̃.tɛʁ/ — *lay-zeuhr sew-play-mahn-TEHR*) — *Overtime hours*.
+- **Une échéance** (/yn e.ʃe.ɑ̃s/ — *ewn ay-shay-AHNS*) — *A deadline*.
+- **Le télétravail** (/lə te.le.tʁa.vaj/ — *luh tay-lay-trah-VEHY*) — *Telework / working from home*.
+- **Le mode hybride** (/lə mɔd i.bʁid/ — *luh mohd ee-BREED*) — *Hybrid model* (e.g. 3 days at home, 2 days in office).
+- **Le congé payé** (/lə kɔ̃.ʒe pe.je/ — *luh kohn-ZHAY pay-YAY*) — *Paid vacation / leave*.
 
-> **Je travaille en mode hybride : trois jours en télétravail et deux jours au bureau.** — /ʒə tʁa.vaj ɑ̃ mɔd i.bʁid : tʁwa ʒuʁ ɑ̃ te.le.tʁa.vaj e dø ʒuʁ o by.ʁo/  
+> **Je travaille en mode hybride : trois jours en télétravail et deux jours au bureau.** — /ʒə tʁa.vaj ɑ̃ mɔd i.bʁid : tʁwa ʒuʁ ɑ̃ te.le.tʁa.vaj e dø ʒuʁ o by.ʁo/ (zhuh trah-VEHY ahn mohd ee-BREED : trwah zhoor ahn tay-lay-trah-VEHY ay duh zhoor oh bew-ROH)  
 > *I work in hybrid mode: three days teleworking and two days at the office.*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -96,10 +96,10 @@ Modern Canadian workplaces operate with flexible work arrangements, hybrid model
 #### Québec vs France: Workplace Lexicon
 
 Canadian workplaces have distinct linguistic terms protected by the OQLF:
-- **Le courriel** **(QC)** (/ku.ʁjɛl/): In Canada, *un courriel* is the recommended term for an email (OQLF), and it is the safe choice in formal writing. You will still hear *un mail* or *un email* in informal speech, and these are common in France.
-- **Le gestionnaire** **(QC)** (/ʒɛs.tjɔ.nɛʁ/): Manager or supervisor (in France: *le manager* or *le chef de service*).
-- **Le 5 à 7** **(QC)** (/lə sɛ̃k a sɛt/): Informal after-work drinks with colleagues between 5:00 PM and 7:00 PM (Canadian happy hour).
-- **Le C.V. (curriculum vitae)**: In Canadian French, resumes are universally referred to as *le CV* (/se.ve/).
+- **Le courriel** **(QC)** (/ku.ʁjɛl/ — *koo-RYEHL*): In Canada, *un courriel* is the recommended term for an email (OQLF), and it is the safe choice in formal writing. You will still hear *un mail* or *un email* in informal speech, and these are common in France.
+- **Le gestionnaire** **(QC)** (/ʒɛs.tjɔ.nɛʁ/ — *zhehs-tyoh-NEHR*): Manager or supervisor (in France: *le manager* or *le chef de service*).
+- **Le 5 à 7** **(QC)** (/lə sɛ̃k a sɛt/ — *luh senk ah SEHT*): Informal after-work drinks with colleagues between 5:00 PM and 7:00 PM (Canadian happy hour).
+- **Le C.V. (curriculum vitae)**: In Canadian French, resumes are universally referred to as *le CV* (/se.ve/ — *seh-VAY*).
 
 Using terms like *courriel*, *gestionnaire*, and *télétravail* demonstrates natural alignment with Canadian Francophone corporate culture.
 
@@ -147,20 +147,20 @@ This structured answer takes 45 seconds, exhibits professional vocabulary, uses 
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 14 essential workplace and career terms with IPA to your personal Anki flashcard deck:
-   - *le gestionnaire / la gestionnaire* **(QC)** (/ʒɛs.tjɔ.nɛʁ/) — manager / supervisor
-   - *gérer une équipe* (/ʒe.ʁe yn e.kip/) — to manage a team
-   - *rédiger un rapport* (/ʁe.di.ʒe œ̃ ʁa.pɔʁ/) — to write a report
-   - *animer une réunion* (/a.ni.me yn ʁe.y.njɔ̃/) — to lead a meeting
-   - *traiter les dossiers* (/tʁe.te le dɔ.sje/) — to process files
-   - *à temps plein* (/a tɑ̃ plɛ̃/) — full-time
-   - *à temps partiel* (/a tɑ̃ paʁ.sjɛl/) — part-time
-   - *le télétravail* (/lə te.le.tʁa.vaj/) — telework / remote work
-   - *en mode hybride* (/ɑ̃ mɔd i.bʁid/) — hybrid mode
-   - *une échéance* (/yn e.ʃe.ɑ̃s/) — deadline
-   - *le courriel professionnel* **(QC)** (/lə ku.ʁjɛl pʁɔ.fɛ.sjɔ.nɛl/) — work email
-   - *les heures supplémentaires* (/le.z‿œʁ sy.ple.mɑ̃.tɛʁ/) — overtime hours
-   - *le poste permanent* **(QC)** (/lə pɔst pɛʁ.ma.nɑ̃/) — permanent position
-   - *un environnement francophone* (/œ̃.n‿ɑ̃.vi.ʁɔn.mɑ̃ fʁɑ̃.kɔ.fɔn/) — Francophone environment
+   - *le gestionnaire / la gestionnaire* **(QC)** (/ʒɛs.tjɔ.nɛʁ/ — *zhehs-tyoh-NEHR*) — manager / supervisor
+   - *gérer une équipe* (/ʒe.ʁe yn e.kip/ — *zhay-RAY ewn ay-KEEP*) — to manage a team
+   - *rédiger un rapport* (/ʁe.di.ʒe œ̃ ʁa.pɔʁ/ — *ray-dee-ZHAY uhn rah-POHR*) — to write a report
+   - *animer une réunion* (/a.ni.me yn ʁe.y.njɔ̃/ — *ah-nee-MAY ewn ray-ew-NYOHN*) — to lead a meeting
+   - *traiter les dossiers* (/tʁe.te le dɔ.sje/ — *treh-TAY lay doh-SYAY*) — to process files
+   - *à temps plein* (/a tɑ̃ plɛ̃/ — *ah tahn PLEHN*) — full-time
+   - *à temps partiel* (/a tɑ̃ paʁ.sjɛl/ — *ah tahn pahr-SYEHL*) — part-time
+   - *le télétravail* (/lə te.le.tʁa.vaj/ — *luh tay-lay-trah-VEHY*) — telework / remote work
+   - *en mode hybride* (/ɑ̃ mɔd i.bʁid/ — *ahn mohd ee-BREED*) — hybrid mode
+   - *une échéance* (/yn e.ʃe.ɑ̃s/ — *ewn ay-shay-AHNS*) — deadline
+   - *le courriel professionnel* **(QC)** (/lə ku.ʁjɛl pʁɔ.fɛ.sjɔ.nɛl/ — *luh koo-RYEHL proh-feh-syoh-NEHL*) — work email
+   - *les heures supplémentaires* (/le.z‿œʁ sy.ple.mɑ̃.tɛʁ/ — *lay-zeuhr sew-play-mahn-TEHR*) — overtime hours
+   - *le poste permanent* **(QC)** (/lə pɔst pɛʁ.ma.nɑ̃/ — *luh pohst pehr-mah-NAHN*) — permanent position
+   - *un environnement francophone* (/œ̃.n‿ɑ̃.vi.ʁɔn.mɑ̃ fʁɑ̃.kɔ.fɔn/ — *uhn-nahn-vee-rohn-MAHN frahn-koh-FOHN*) — Francophone environment
 
 3. **Step 3: Receptive Reading Practice**  
    Read a Canadian job posting on [Radio-Canada — Carrières et emploi](https://ici.radio-canada.ca/).  
