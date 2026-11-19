@@ -36,33 +36,33 @@ Because the preposition **à** contracts with masculine and plural definite arti
 - **à + l' = à l'** (singular before a vowel or mute *h*)
 - **à + les = aux** (plural)
 
-| Structure | French Anatomy | IPA | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **au** (+ masc.) | **le dos** | /lə do/ | the back | **J'ai mal au dos depuis hier.** (*My back has been hurting since yesterday.*) |
-| **au** (+ masc.) | **le ventre** | /lə vɑ̃tʁ/ | the stomach / belly | **L'enfant a mal au ventre après le repas.** (*The child has a stomachache after the meal.*) |
-| **au** (+ masc.) | **le bras** | /lə bʁa/ | the arm | **Il a mal au bras gauche.** (*His left arm hurts.*) |
-| **au** (+ masc.) | **le genou** | /lə ʒnu/ | the knee | **Avez-vous mal au genou quand vous marchez ?** (*Does your knee hurt when you walk?*) |
-| **au** (+ masc.) | **le pied** | /lə pje/ | the foot | **J'ai mal au pied droit.** (*My right foot hurts.*) |
-| **au** (+ masc.) | **le cou** | /lə ku/ | the neck | **Elle a mal au cou après une longue journée d'écran.** (*Her neck hurts after a long screen day.*) |
-| **à la** (+ fém.) | **la tête** | /la tɛt/ | the head | **J'ai mal à la tête depuis ce matin.** (*I have a headache since this morning.*) |
-| **à la** (+ fém.) | **la gorge** | /la ɡɔʁʒ/ | the throat | **Nous avons mal à la gorge en hiver.** (*We have a sore throat in winter.*) |
-| **à la** (+ fém.) | **la jambe** | /la ʒɑ̃b/ | the leg | **Elle a mal à la jambe droite.** (*Her right leg hurts.*) |
-| **à la** (+ fém.) | **la poitrine** | /la pwa.tʁin/ | the chest | **Le patient a mal à la poitrine.** (*The patient has chest pain.*) |
-| **à la** (+ fém.) | **la cheville** | /la ʃvij/ | the ankle | **Il s'est foulé la cheville et a mal à la cheville.** (*He sprained his ankle and his ankle hurts.*) |
-| **à l'** (+ voyelle) | **l'estomac** (m.) | /l‿ɛs.tɔ.ma/ | the stomach (organ) | **J'ai mal à l'estomac après le café.** (*My stomach hurts after coffee.*) |
-| **à l'** (+ voyelle) | **l'oreille** (f.) | /l‿ɔ.ʁɛj/ | the ear | **Le bébé a mal à l'oreille.** (*The baby has an earache.*) |
-| **à l'** (+ voyelle) | **l'épaule** (f.) | /l‿e.pol/ | the shoulder | **J'ai mal à l'épaule droite.** (*My right shoulder hurts.*) |
-| **à l'** (+ voyelle) | **l'œil** (m.) | /l‿œj/ | the eye | **J'ai mal à l'œil gauche.** (*My left eye hurts.*) |
-| **aux** (+ pluriel) | **les dents** (f.) | /le dɑ̃/ | the teeth | **J'ai mal aux dents, je dois voir un dentiste.** (*I have a toothache, I must see a dentist.*) |
-| **aux** (+ pluriel) | **les yeux** (m.) | /le z‿jø/ | the eyes | **Vous avez mal aux yeux à cause du soleil.** (*Your eyes hurt because of the sun.*) |
-| **aux** (+ pluriel) | **les oreilles** (f.) | /le z‿ɔ.ʁɛj/ | the ears | **Elle a mal aux oreilles en avion.** (*Her ears hurt on the plane.*) |
+| Structure | French Anatomy | IPA | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **au** (+ masc.) | **le dos** | /lə do/ | (luh DOH) | the back | **J'ai mal au dos depuis hier.** (*My back has been hurting since yesterday.*) |
+| **au** (+ masc.) | **le ventre** | /lə vɑ̃tʁ/ | (luh VAHN-truh) | the stomach / belly | **L'enfant a mal au ventre après le repas.** (*The child has a stomachache after the meal.*) |
+| **au** (+ masc.) | **le bras** | /lə bʁa/ | (luh BRAH) | the arm | **Il a mal au bras gauche.** (*His left arm hurts.*) |
+| **au** (+ masc.) | **le genou** | /lə ʒnu/ | (luh zhuh-NOO) | the knee | **Avez-vous mal au genou quand vous marchez ?** (*Does your knee hurt when you walk?*) |
+| **au** (+ masc.) | **le pied** | /lə pje/ | (luh PYAY) | the foot | **J'ai mal au pied droit.** (*My right foot hurts.*) |
+| **au** (+ masc.) | **le cou** | /lə ku/ | (luh KOO) | the neck | **Elle a mal au cou après une longue journée d'écran.** (*Her neck hurts after a long screen day.*) |
+| **à la** (+ fém.) | **la tête** | /la tɛt/ | (lah TEHT) | the head | **J'ai mal à la tête depuis ce matin.** (*I have a headache since this morning.*) |
+| **à la** (+ fém.) | **la gorge** | /la ɡɔʁʒ/ | (lah GOHRZH) | the throat | **Nous avons mal à la gorge en hiver.** (*We have a sore throat in winter.*) |
+| **à la** (+ fém.) | **la jambe** | /la ʒɑ̃b/ | (lah ZHAHNB) | the leg | **Elle a mal à la jambe droite.** (*Her right leg hurts.*) |
+| **à la** (+ fém.) | **la poitrine** | /la pwa.tʁin/ | (lah pwah-TREEN) | the chest | **Le patient a mal à la poitrine.** (*The patient has chest pain.*) |
+| **à la** (+ fém.) | **la cheville** | /la ʃvij/ | (lah shuh-VEEY) | the ankle | **Il s'est foulé la cheville et a mal à la cheville.** (*He sprained his ankle and his ankle hurts.*) |
+| **à l'** (+ voyelle) | **l'estomac** (m.) | /l‿ɛs.tɔ.ma/ | (leh-stoh-MAH) | the stomach (organ) | **J'ai mal à l'estomac après le café.** (*My stomach hurts after coffee.*) |
+| **à l'** (+ voyelle) | **l'oreille** (f.) | /l‿ɔ.ʁɛj/ | (loh-REHY) | the ear | **Le bébé a mal à l'oreille.** (*The baby has an earache.*) |
+| **à l'** (+ voyelle) | **l'épaule** (f.) | /l‿e.pol/ | (lay-POHL) | the shoulder | **J'ai mal à l'épaule droite.** (*My right shoulder hurts.*) |
+| **à l'** (+ voyelle) | **l'œil** (m.) | /l‿œj/ | (LUHY) | the eye | **J'ai mal à l'œil gauche.** (*My left eye hurts.*) |
+| **aux** (+ pluriel) | **les dents** (f.) | /le dɑ̃/ | (lay DAHN) | the teeth | **J'ai mal aux dents, je dois voir un dentiste.** (*I have a toothache, I must see a dentist.*) |
+| **aux** (+ pluriel) | **les yeux** (m.) | /le z‿jø/ | (lay ZYUH) | the eyes | **Vous avez mal aux yeux à cause du soleil.** (*Your eyes hurt because of the sun.*) |
+| **aux** (+ pluriel) | **les oreilles** (f.) | /le z‿ɔ.ʁɛj/ | (lay zoh-REHY) | the ears | **Elle a mal aux oreilles en avion.** (*Her ears hurt on the plane.*) |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 **Pronunciation alert: l'œil vs les yeux**  
 Pay careful attention to the singular and plural forms of the eye:
-- Singular: **l'œil** /l‿œj/ -> **avoir mal à l'œil** /a.vwaʁ mal a l‿œj/
-- Plural: **les yeux** /le z‿jø/ -> **avoir mal aux yeux** /a.vwaʁ mal o z‿jø/ (always pronounce the liaison consonant /z/).
+- Singular: **l'œil** /l‿œj/ (LUHY) -> **avoir mal à l'œil** /a.vwaʁ mal a l‿œj/ (ah-VWAHR mahl ah LUHY)
+- Plural: **les yeux** /le z‿jø/ (lay ZYUH) -> **avoir mal aux yeux** /a.vwaʁ mal o z‿jø/ (ah-VWAHR mahl oh ZYUH) (always pronounce the liaison consonant /z/).
 
 </div>
 
@@ -74,39 +74,39 @@ Beyond localized anatomical pain (*avoir mal à*), French distinguishes between 
 
 In French, many physical conditions that English describes with the adjective *to be* (e.g., *to be feverish, to be dizzy*) require the auxiliary **avoir** followed by a noun:
 
-- **Avoir de la fièvre** /a.vwaʁ də la fjɛvʁ/ : *To have a fever*  
+- **Avoir de la fièvre** /a.vwaʁ də la fjɛvʁ/ (ah-VWAHR duh lah FYEH-vruh) : *To have a fever*  
   **Le médecin constate que le patient a 38,5 de fièvre.** (*The doctor notes that the patient has a 38.5°C fever.*)
-- **Avoir des vertiges** /a.vwaʁ de vɛʁ.tiʒ/ : *To feel dizzy / have dizziness*  
+- **Avoir des vertiges** /a.vwaʁ de vɛʁ.tiʒ/ (ah-VWAHR day vehr-TEEZH) : *To feel dizzy / have dizziness*  
   **Quand je me lève brusquement, j'ai des vertiges.** (*When I stand up suddenly, I feel dizzy.*)
-- **Avoir des nausées** /a.vwaʁ de no.ze/ : *To feel nauseated / have nausea*  
+- **Avoir des nausées** /a.vwaʁ de no.ze/ (ah-VWAHR day noh-ZAY) : *To feel nauseated / have nausea*  
   **Elle a des nausées depuis ce matin.** (*She has had nausea since this morning.*)
-- **Avoir des frissons** /a.vwaʁ de fʁi.sɔ̃/ : *To have chills / shivers*  
+- **Avoir des frissons** /a.vwaʁ de fʁi.sɔ̃/ (ah-VWAHR day free-SOHN) : *To have chills / shivers*  
   **J'ai froid et j'ai des frissons partout.** (*I am cold and I have chills all over.*)
-- **Avoir le nez qui coule** /a.vwaʁ lə ne ki kul/ : *To have a runny nose*  
+- **Avoir le nez qui coule** /a.vwaʁ lə ne ki kul/ (ah-VWAHR luh NAY kee KOOL) : *To have a runny nose*  
   **Pendant le printemps, j'ai le nez qui coule à cause des allergies.** (*During spring, I have a runny nose due to allergies.*)
-- **Avoir le nez bouché** /a.vwaʁ lə ne bu.ʃe/ : *To have a stuffy / congested nose*  
+- **Avoir le nez bouché** /a.vwaʁ lə ne bu.ʃe/ (ah-VWAHR luh NAY boo-SHAY) : *To have a stuffy / congested nose*  
   **Je ne peux pas bien respirer parce que j'ai le nez bouché.** (*I cannot breathe well because I have a congested nose.*)
-- **Avoir du mal à + infinitif** /a.vwaʁ dy mal a/ : *To have difficulty doing something*  
+- **Avoir du mal à + infinitif** /a.vwaʁ dy mal a/ (ah-VWAHR dew MAHL ah) : *To have difficulty doing something*  
   **J'ai du mal à avaler ma salive.** (*I have difficulty swallowing my saliva.*)  
   **Il a du mal à respirer.** (*He has difficulty breathing.*)
 
 #### States expressed with etre and reflexive verbs
 
-- **Être enrhumé(e)** /ɛtʁ ɑ̃.ʁy.me/ : *To have a cold / be congested*  
+- **Être enrhumé(e)** /ɛtʁ ɑ̃.ʁy.me/ (EH-truh ahn-rew-MAY) : *To have a cold / be congested*  
   **Je suis enrhumée depuis trois jours.** (*I have had a cold for three days.*)
-- **Être fatigué(e) / épuisé(e)** /ɛtʁ fa.ti.ɡe / e.pɥi.ze/ : *To be tired / exhausted*  
+- **Être fatigué(e) / épuisé(e)** /ɛtʁ fa.ti.ɡe / e.pɥi.ze/ (EH-truh fah-tee-GAY / ay-pwee-ZAY) : *To be tired / exhausted*  
   **Le travail m'épuise, je suis totalement épuisé.** (*Work is wearing me out, I am totally exhausted.*)
-- **Être allergique à** /ɛtʁ a.lɛʁ.ʒik a/ : *To be allergic to*  
+- **Être allergique à** /ɛtʁ a.lɛʁ.ʒik a/ (EH-truh ah-lehr-ZHEEK ah) : *To be allergic to*  
   **Êtes-vous allergique à la pénicilline ou aux arachides ?** (*Are you allergic to penicillin or peanuts?*)
-- **Tousser** /tu.se/ : *To cough*  
+- **Tousser** /tu.se/ (too-SAY) : *To cough*  
   **Il tousse beaucoup pendant la nuit.** (*He coughs a lot during the night.*)
-- **Éternuer** /e.tɛʁ.nye/ : *To sneeze*  
+- **Éternuer** /e.tɛʁ.nye/ (ay-tehr-new-AY) : *To sneeze*  
   **Je n'arrête pas d'éternuer.** (*I cannot stop sneezing.*)
-- **Se blesser (à)** /sə blɛ.se/ : *To injure oneself / hurt oneself*  
+- **Se blesser (à)** /sə blɛ.se/ (suh bleh-SAY) : *To injure oneself / hurt oneself*  
   **Je me suis blessé au poignet pendant le match de soccer.** (*I injured my wrist during the soccer game.*)
-- **Se couper** /sə ku.pe/ : *To cut oneself*  
+- **Se couper** /sə ku.pe/ (suh koo-PAY) : *To cut oneself*  
   **Elle s'est coupée au doigt avec un couteau de cuisine.** (*She cut her finger with a kitchen knife.*)
-- **Se fouler** /sə fu.le/ : *To sprain*  
+- **Se fouler** /sə fu.le/ (suh foo-LAY) : *To sprain*  
   **Le randonneur s'est foulé la cheville dans la montagne.** (*The hiker sprained his ankle on the mountain.*)
 
 <div class="lesson-note lesson-note--info" markdown="1">
@@ -125,16 +125,16 @@ Seeking medical care in a French-speaking country requires familiarity with inst
 
 #### France vs Quebec healthcare terms
 
-| Healthcare Concept | Metropolitan France | Quebec / Canadian French | IPA & Meaning |
-| :--- | :--- | :--- | :--- |
-| **Walk-in clinic** | **Le centre de soins non programmés / La maison médicale de garde** | **La clinique sans rendez-vous** | /kli.nik sɑ̃ ʁɑ̃.de.vu/ (Facility providing immediate non-emergency consultation) |
-| **Health insurance card** | **La carte Vitale** | **La carte d'assurance maladie (la carte soleil)** | /kaʁt d‿a.sy.ʁɑ̃s ma.la.di/ (Provincial health insurance card issued by the RAMQ) |
-| **Community health center** | **Le centre de santé municipal** | **Le CLSC** (Centre local de services communautaires) | /se ɛl ɛs se/ (Public integrated frontline health & social clinic) |
-| **Family doctor** | **Le médecin traitant** | **Le médecin de famille** | /med.sɛ̃ də fa.mij/ (Primary registered physician) |
-| **Emergency room** | **Les urgences (f. pl.)** | **L'urgence (f. sing.)** | /yʁ.ʒɑ̃s/ (Hospital acute care ward) |
-| **Doctor's prescription** | **L'ordonnance (f.)** | **L'ordonnance (f.) / La prescription** | /ɔʁ.dɔ.nɑ̃s/ (Written order for medication) |
-| **Medication / Drug** | **Le médicament** | **Le médicament / Le remède** | /me.di.ka.mɑ̃/ (Pharmaceutical remedy) |
-| **Pharmacist** | **Le pharmacien / La pharmacienne** | **Le pharmacien / La pharmacienne** | /faʁ.ma.sjɛ̃ / faʁ.ma.sjɛn/ (Dispensing chemist) |
+| Healthcare Concept | Metropolitan France | Quebec / Canadian French | IPA & Meaning | Phonetic Respelling |
+| :--- | :--- | :--- | :--- | :--- |
+| **Walk-in clinic** | **Le centre de soins non programmés / La maison médicale de garde** | **La clinique sans rendez-vous** | /kli.nik sɑ̃ ʁɑ̃.de.vu/ (Facility providing immediate non-emergency consultation) | (lah klee-NEEK sahn rahn-day-VOO) |
+| **Health insurance card** | **La carte Vitale** | **La carte d'assurance maladie (la carte soleil)** | /kaʁt d‿a.sy.ʁɑ̃s ma.la.di/ (Provincial health insurance card issued by the RAMQ) | (lah kahrt dah-sew-RAHNS mah-lah-DEE) |
+| **Community health center** | **Le centre de santé municipal** | **Le CLSC** (Centre local de services communautaires) | /se ɛl ɛs se/ (Public integrated frontline health & social clinic) | (seh ehl ehss seh) |
+| **Family doctor** | **Le médecin traitant** | **Le médecin de famille** | /med.sɛ̃ də fa.mij/ (Primary registered physician) | (luh mayd-SEHN duh fah-MEEY) |
+| **Emergency room** | **Les urgences (f. pl.)** | **L'urgence (f. sing.)** | /yʁ.ʒɑ̃s/ (Hospital acute care ward) | (lewr-ZHAHNS) |
+| **Doctor's prescription** | **L'ordonnance (f.)** | **L'ordonnance (f.) / La prescription** | /ɔʁ.dɔ.nɑ̃s/ (Written order for medication) | (lohr-doh-NAHNS) |
+| **Medication / Drug** | **Le médicament** | **Le médicament / Le remède** | /me.di.ka.mɑ̃/ (Pharmaceutical remedy) | (luh may-dee-kah-MAHN) |
+| **Pharmacist** | **Le pharmacien / La pharmacienne** | **Le pharmacien / La pharmacienne** | /faʁ.ma.sjɛ̃ / faʁ.ma.sjɛn/ (Dispensing chemist) | (luh fahr-mah-SYEN / lah fahr-mah-SYEHN) |
 
 #### Realistic dialogue at the pharmacy counter
 
@@ -163,17 +163,17 @@ Because healthcare professionals interact with adult patients using the formal r
 
 $$\text{Verbe à l'impératif (forme vous)} + \text{complément}$$
 
-| Base Verb | Imperative Form (*Vous*) | IPA | Medical Command Example |
-| :--- | :--- | :--- | :--- |
-| **Prendre** | **Prenez** | /pʁə.ne/ | **Prenez deux comprimés matin et soir avant le repas.** (*Take two tablets morning and evening before meals.*) |
-| **Boire** | **Buvez** | /by.ve/ | **Buvez beaucoup d'eau tiède et de tisane.** (*Drink plenty of warm water and herbal tea.*) |
-| **Respirer** | **Respirez** | /ʁɛs.pi.ʁe/ | **Respirez profondément par le nez.** (*Breathe deeply through your nose.*) |
-| **Ouvrir** | **Ouvrez** | /u.vʁe/ | **Ouvrez grand la bouche et tirez la langue.** (*Open your mouth wide and stick out your tongue.*) |
-| **Se reposer** | **Reposez-vous** | /ʁə.po.ze vu/ | **Reposez-vous pendant au moins trois jours complets.** (*Rest for at least three full days.*) |
-| **S'allonger** | **Allongez-vous** | /a.lɔ̃.ʒe vu/ | **Allongez-vous sur la table d'examen.** (*Lie down on the examination table.*) |
-| **Éviter** | **Évitez** | /e.vi.te/ | **Évitez les efforts physiques intenses et l'alcool.** (*Avoid intense physical exertion and alcohol.*) |
-| **Appliquer** | **Appliquez** | /a.pli.ke/ | **Appliquez cette pommade sur la blessure deux fois par jour.** (*Apply this ointment to the wound twice daily.*) |
-| **Garder** | **Gardez** | /ɡaʁ.de/ | **Gardez ce pansement propre et sec.** (*Keep this dressing clean and dry.*) |
+| Base Verb | Imperative Form (*Vous*) | IPA | Phonetic Respelling | Medical Command Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **Prendre** | **Prenez** | /pʁə.ne/ | (pruh-NAY) | **Prenez deux comprimés matin et soir avant le repas.** (*Take two tablets morning and evening before meals.*) |
+| **Boire** | **Buvez** | /by.ve/ | (bew-VAY) | **Buvez beaucoup d'eau tiède et de tisane.** (*Drink plenty of warm water and herbal tea.*) |
+| **Respirer** | **Respirez** | /ʁɛs.pi.ʁe/ | (rehs-pee-RAY) | **Respirez profondément par le nez.** (*Breathe deeply through your nose.*) |
+| **Ouvrir** | **Ouvrez** | /u.vʁe/ | (oo-VRAY) | **Ouvrez grand la bouche et tirez la langue.** (*Open your mouth wide and stick out your tongue.*) |
+| **Se reposer** | **Reposez-vous** | /ʁə.po.ze vu/ | (ruh-poh-zay-VOO) | **Reposez-vous pendant au moins trois jours complets.** (*Rest for at least three full days.*) |
+| **S'allonger** | **Allongez-vous** | /a.lɔ̃.ʒe vu/ | (ah-lohn-zhay-VOO) | **Allongez-vous sur la table d'examen.** (*Lie down on the examination table.*) |
+| **Éviter** | **Évitez** | /e.vi.te/ | (ay-vee-TAY) | **Évitez les efforts physiques intenses et l'alcool.** (*Avoid intense physical exertion and alcohol.*) |
+| **Appliquer** | **Appliquez** | /a.pli.ke/ | (ah-plee-KAY) | **Appliquez cette pommade sur la blessure deux fois par jour.** (*Apply this ointment to the wound twice daily.*) |
+| **Garder** | **Gardez** | /ɡaʁ.de/ | (gahr-DAY) | **Gardez ce pansement propre et sec.** (*Keep this dressing clean and dry.*) |
 
 #### Negative imperative for medical warnings
 
@@ -267,20 +267,20 @@ Medical and health themes regularly appear on the TCF Canada exam across both re
 
 3. **Step 3: Medical Vocabulary & Anki Deck Expansion**  
    Add these 14 health and symptom terms with IPA to your personal Anki flashcard deck:
-   - *avoir mal à* (/a.vwaʁ mal a/) — to have pain in / hurt
-   - *avoir de la fièvre* (/a.vwaʁ də la fjɛvʁ/) — to have a fever
-   - *avoir des vertiges* (/a.vwaʁ de vɛʁ.tiʒ/) — to feel dizzy
-   - *avoir des nausées* (/a.vwaʁ de no.ze/) — to feel nauseous
-   - *avoir le nez qui coule* (/a.vwaʁ lə ne ki kul/) — to have a runny nose
-   - *avoir le nez bouché* (/a.vwaʁ lə ne bu.ʃe/) — to have a congested nose
-   - *être enrhumé(e)* (/ɛtʁ ɑ̃.ʁy.me/) — to have a cold
-   - *tousser* (/tu.se/) — to cough
-   - *éternuer* (/e.tɛʁ.nye/) — to sneeze
-   - *se fouler la cheville* (/sə fu.le la ʃvij/) — to sprain one's ankle
-   - *une clinique sans rendez-vous* (/yn kli.nik sɑ̃ ʁɑ̃.de.vu/) — walk-in clinic
-   - *une ordonnance* (/yn ɔʁ.dɔ.nɑ̃s/) — prescription
-   - *un arrêt de travail* (/œ̃ n‿a.ʁɛ də tʁa.vaj/) — medical leave certificate
-   - *la carte d'assurance maladie* (/la kaʁt d‿a.sy.ʁɑ̃s ma.la.di/) — provincial health card
+   - *avoir mal à* (/a.vwaʁ mal a/ — *ah-VWAHR mahl ah*) — to have pain in / hurt
+   - *avoir de la fièvre* (/a.vwaʁ də la fjɛvʁ/ — *ah-VWAHR duh lah FYEH-vruh*) — to have a fever
+   - *avoir des vertiges* (/a.vwaʁ de vɛʁ.tiʒ/ — *ah-VWAHR day vehr-TEEZH*) — to feel dizzy
+   - *avoir des nausées* (/a.vwaʁ de no.ze/ — *ah-VWAHR day noh-ZAY*) — to feel nauseous
+   - *avoir le nez qui coule* (/a.vwaʁ lə ne ki kul/ — *ah-VWAHR luh NAY kee KOOL*) — to have a runny nose
+   - *avoir le nez bouché* (/a.vwaʁ lə ne bu.ʃe/ — *ah-VWAHR luh NAY boo-SHAY*) — to have a congested nose
+   - *être enrhumé(e)* (/ɛtʁ ɑ̃.ʁy.me/ — *EH-truh ahn-rew-MAY*) — to have a cold
+   - *tousser* (/tu.se/ — *too-SAY*) — to cough
+   - *éternuer* (/e.tɛʁ.nye/ — *ay-tehr-new-AY*) — to sneeze
+   - *se fouler la cheville* (/sə fu.le la ʃvij/ — *suh foo-LAY lah shuh-VEEY*) — to sprain one's ankle
+   - *une clinique sans rendez-vous* (/yn kli.nik sɑ̃ ʁɑ̃.de.vu/ — *ewn klee-NEEK sahn rahn-day-VOO*) — walk-in clinic
+   - *une ordonnance* (/yn ɔʁ.dɔ.nɑ̃s/ — *ewn ohr-doh-NAHNS*) — prescription
+   - *un arrêt de travail* (/œ̃ n‿a.ʁɛ də tʁa.vaj/ — *uhn-nah-REH duh trah-VEHY*) — medical leave certificate
+   - *la carte d'assurance maladie* (/la kaʁt d‿a.sy.ʁɑ̃s ma.la.di/ — *lah kahrt dah-sew-RAHNS mah-lah-DEE*) — provincial health card
 
 4. **Step 4: TCF Canada Writing Simulation (Absence Notification)**  
    Write a short formal email (60–80 words) to your supervisor or teacher explaining your absence due to an acute illness:
