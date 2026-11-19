@@ -4,7 +4,7 @@ In the **Expression orale** section of the TCF Canada, **Task 3 is the ultimate 
 
 You are given a thought-provoking question on a contemporary societal issue, such as:
 > **« Pensez-vous que le télétravail doive devenir un droit inconditionnel pour tous les salariés ? »**  
-> — /pɑ̃.se vu kə lə te.le.tʁa.vaj dwav dəv.niʁ œ̃ dʁwa ɛ̃.kɔ̃.di.sjɔ.nɛl puʁ tu le sa.la.ʁje/  
+> — /pɑ̃.se vu kə lə te.le.tʁa.vaj dwav dəv.niʁ œ̃ dʁwa ɛ̃.kɔ̃.di.sjɔ.nɛl puʁ tu le sa.la.ʁje/ (pahn-say-VOO kuh luh tay-lay-trah-VY DWAHV dehv-NEER uhn drwah ehn-kohn-dee-syoh-NEHL poor too lay sah-lah-RYAY ?)  
 > *Do you think teleworking should become an unconditional right for all employees?*
 
 There is no preparation time, so you need to start building your answer almost immediately. For candidates unprepared for this endurance trial, the experience is terrifying:
@@ -94,27 +94,27 @@ Let us demonstrate how this works on a typical Task 3-style question:
 #### Phase 1: The Hook, Reformulation & Plan (0:00 – 0:45)
 Never start with *« Moi, je pense que... »*. Begin by framing the broad societal dilemma and announcing your roadmap:
 > **« C'est une question d'une brûlante actualité qui suscite de vifs débats au sein de nos sociétés globalisées. D'un côté, la démocratisation des voyages représente un vecteur puissant de désenclavement et d'enrichissement économique pour de nombreuses régions du monde. D'un autre côté, la saturation des infrastructures et la dégradation environnementale soulèvent des inquiétudes tout à fait légitimes. Pour aborder cette problématique complexe, j'analyserai dans un premier temps les retombées économiques indéniables de cette industrie, avant de mettre en lumière ses impacts écologiques et culturels délétères, pour enfin proposer les voies d'un tourisme raisonné et durable. »**  
-> — /s‿ɛt‿yn kɛs.tjɔ̃ d‿yn bʁy.lɑ̃t ak.tɥa.li.te ki sy.sit də vif de.ba o swɛ̃ də no sɔ.sje.te ɡlɔ.ba.li.ze/
+> — /s‿ɛt‿yn kɛs.tjɔ̃ d‿yn bʁy.lɑ̃t ak.tɥa.li.te ki sy.sit də vif de.ba o swɛ̃ də no sɔ.sje.te ɡlɔ.ba.li.ze/ (seh-tewn kehs-TYOHN dewn brew-LAHNT ahk-twah-lee-TAY kee sew-SEET duh veef day-BAH oh swehn duh noh soh-syay-TAY gloh-bah-lee-ZAY)
 
 #### Phase 2: Pillar 1 — The Pragmatic / Economic Dimension (0:45 – 1:45)
 Present the primary positive or operational argument:
 > **« En premier lieu, force est de constater que le tourisme de masse constitue un formidable moteur de vitalité financière. Pour de nombreuses communautés, notamment dans les pays émergents ou les territoires insulaires, cette manne économique permet la création directe de millions d'emplois non délocalisables dans l'hôtellerie, la restauration et l'artisanat. De plus, les devises étrangères injectées par les visiteurs stimulent la modernisation des infrastructures publiques telles que les aéroports, les routes et les réseaux de télécommunication. On ne saurait donc balayer d'un revers de main cet apport capital à la résilience économique de nombreux territoires. »**  
-> — /ɑ̃ pʁə.mje ljø fɔʁs ɛ də kɔ̃s.ta.te kə lə tu.ʁism də mas kɔ̃s.ti.tɥi œ̃ fɔʁ.mi.dabl mɔ.tœʁ də vi.ta.li.te fi.nɑ̃.sjɛʁ/
+> — /ɑ̃ pʁə.mje ljø fɔʁs ɛ də kɔ̃s.ta.te kə lə tu.ʁism də mas kɔ̃s.ti.tɥi œ̃ fɔʁ.mi.dabl mɔ.tœʁ də vi.ta.li.te fi.nɑ̃.sjɛʁ/ (ahn pruh-MYAY LYEUH fohrs eh duh kohns-tah-TAY kuh luh too-REEZ-muh duh MAHS kohns-tee-TWEE uhn fohr-mee-DAH-bluh moh-TUHR duh vee-tah-lee-TAY fee-nahn-SYEHR)
 
 #### Phase 3: Pillar 2 — The Human / Psychological / Cultural Dimension (1:45 – 2:45)
 Shift the lens to personal identity, cultural exchange, and human relationships:
 > **« Au-delà de ces considérations purement pécuniaires, il convient de souligner la dimension humaniste du voyage. La rencontre avec l'autre favorise l'ouverture d'esprit, combat les stéréotypes xénophobes et nourrit un dialogue interculturel indispensable à la paix mondiale. Lorsqu'un citoyen s'immerge dans une culture différente, il développe une empathie renouvelée à l'égard de l'altérité. Toutefois, ce tableau idyllique est assombri par une marchandisation outrancière : lorsque les traditions locales sont réduites à des attractions folkloriques standardisées pour satisfaire une clientèle pressée, c'est l'authenticité même de l'héritage immatériel qui se trouve dénaturée. »**  
-> — /o.də.la də se kɔ̃.si.de.ʁa.sjɔ̃ pyʁ.mɑ̃ pe.ky.njɛʁ il kɔ̃.vjɛ̃ də su.li.ɲe la di.mɑ̃.sjɔ̃ y.ma.nist dy vwa.jaʒ/
+> — /o.də.la də se kɔ̃.si.de.ʁa.sjɔ̃ pyʁ.mɑ̃ pe.ky.njɛʁ il kɔ̃.vjɛ̃ də su.li.ɲe la di.mɑ̃.sjɔ̃ y.ma.nist dy vwa.jaʒ/ (oh-duh-LAH duh say kohn-see-day-rah-SYOHN pewr-mahn pay-kew-NYEHR eel kohn-VYEHN duh soo-lee-NYAY lah dee-mahn-SYOHN ew-mah-NEEST dew vwah-YAHZH)
 
 #### Phase 4: Pillar 3 — The Environmental & Societal Nuance (2:45 – 3:45)
 Introduce systemic challenges, environmental pressure, and regulatory dilemmas:
 > **« Cela m'amène à évoquer le revers le plus préoccupant de ce phénomène : l'empreinte écologique catastrophique du surtourisme. La prolifération des vols long-courriers à bas coût et la surfréquentation de sites naturels fragiles entraînent une pollution massive et l'érosion irrémédiable de la biodiversité. Sur le plan civique, la prolifération des locations touristiques de courte durée engendre une spéculation immobilière féroce, chassant les résidents locaux des centres historiques de métropoles comme Barcelone, Venise ou même Montréal. Il apparaît dès lors évident qu'une liberté totale accordée au marché menace directement le vivre-ensemble. »**  
-> — /sə.la m‿a.mɛn a e.vɔ.ke lə ʁə.vɛʁ lə ply pʁe.ɔ.ky.pɑ̃ də sə fe.nɔ.mɛn l‿ɑ̃.pʁɛ̃t e.kɔ.lɔ.ʒik ka.tas.tʁɔ.fik/
+> — /sə.la m‿a.mɛn a e.vɔ.ke lə ʁə.vɛʁ lə ply pʁe.ɔ.ky.pɑ̃ də sə fe.nɔ.mɛn l‿ɑ̃.pʁɛ̃t e.kɔ.lɔ.ʒik ka.tas.tʁɔ.fik/ (suh-lah mah-MEHN ah ay-voh-KAY luh ruh-VEHR luh plew pray-oh-kew-PAHN duh suh fay-noh-MEHN lahn-PREHNT ay-koh-loh-ZHEEK kah-tahs-troh-FEEK)
 
 #### Phase 5: Synthesis, Verdict & Future Horizon (3:45 – 4:30)
 Synthesize your findings, deliver your definitive balanced judgment, and propose a forward-looking perspective:
 > **« En conclusion, si l'on ne saurait nier les bénéfices indéniables du tourisme en matière d'émancipation et d'essor économique, son modèle actuel de consommation prédatrice s'avère manifestement intenable. Pour ma part, je suis convaincu que la solution réside dans l'instauration de quotas stricts, de taxes de séjour dissuasives et dans la valorisation d'un écotourisme de proximité. En dernière analyse, voyager ne doit plus être perçu comme un bien de consommation jetable, mais comme un privilège responsable impliquant le respect absolu des territoires d'accueil. »**  
-> — /ɑ̃ kɔ̃.kly.zjɔ̃ si l‿ɔ̃ nə so.ʁɛ nje le be.ne.fis ɛ̃.de.nja.bl dy tu.ʁism/
+> — /ɑ̃ kɔ̃.kly.zjɔ̃ si l‿ɔ̃ nə so.ʁɛ nje le be.ne.fis ɛ̃.de.nja.bl dy tu.ʁism/ (ahn kohn-klew-ZYOHN see lohn nuh soh-REH NYAY lay bay-nay-FEES ehn-day-nyah-BLUH dew too-REEZ-muh)
 
 ---
 
@@ -136,9 +136,9 @@ A candidate who speaks purely in abstract generalities will struggle to show B2/
 #### High-Register Stance Articulators
 
 Weave these transitional formulas into your delivery to make your progression sound effortless:
-- **Pour nuancer**: **« Tout est une question de juste mesure... »** — /tut‿ɛt‿yn kɛs.tjɔ̃ də ʒyst mə.zyʁ/ (*It is all a matter of right balance...*)
-- **Pour concéder**: **« Bien qu'il faille reconnaître la légitimité de... »** — /bjɛ̃ k‿il faj ʁə.kɔ.nɛtʁ la le.ʒi.ti.mi.te də/ (*Although one must acknowledge the legitimacy of...*)
-- **Pour introduire un exemple**: **« Cette dynamique s'observe de manière frappante dans... »** — /sɛt di.na.mik s‿ɔb.sɛʁv də ma.njɛʁ fʁa.pɑ̃t dɑ̃/ (*This dynamic is strikingly observed in...*)
+- **Pour nuancer**: **« Tout est une question de juste mesure... »** — /tut‿ɛt‿yn kɛs.tjɔ̃ də ʒyst mə.zyʁ/ (too-teh-tewn kehs-TYOHN duh zhewst muh-ZEWR) (*It is all a matter of right balance...*)
+- **Pour concéder**: **« Bien qu'il faille reconnaître la légitimité de... »** — /bjɛ̃ k‿il faj ʁə.kɔ.nɛtʁ la le.ʒi.ti.mi.te də/ (byen keel FY-yuh ruh-koh-NEH-truh lah lay-zhee-tee-mee-TAY duh...) (*Although one must acknowledge the legitimacy of...*)
+- **Pour introduire un exemple**: **« Cette dynamique s'observe de manière frappante dans... »** — /sɛt di.na.mik s‿ɔb.sɛʁv də ma.njɛʁ fʁa.pɑ̃t dɑ̃/ (seht dee-nah-MEEK sohb-SEHRV duh mah-NYEHR frah-PAHNT dahn...) (*This dynamic is strikingly observed in...*)
 
 </div>
 
@@ -195,20 +195,20 @@ Train your brain to instantly decompose controversial questions into the Tri-Len
 
 Master these 12 indispensable rhetorical connectors for sustaining your spoken argument:
 
-| Expression | IPA Transcription | English Meaning | Structural Function |
-| :--- | :--- | :--- | :--- |
-| **C'est une question d'une brûlante actualité** | /s‿ɛt‿yn kɛs.tjɔ̃ d‿yn bʁy.lɑ̃t ak.tɥa.li.te/ | *It is a matter of burning relevance* | Phase 1 opening hook |
-| **Il convient d'opérer une distinction entre...** | /il kɔ̃.vjɛ̃ d‿ɔ.pe.ʁe yn dis.tɛ̃k.sjɔ̃ ɑ̃tʁ/ | *It is appropriate to distinguish between...* | Refining definitions |
-| **Force est de reconnaître que...** | /fɔʁs ɛ də ʁə.kɔ.nɛtʁ kə/ | *One must acknowledge that...* | Objective concession |
-| **On ne saurait occulter le fait que...** | /ɔ̃ nə so.ʁɛ ɔ.kyl.te lə fɛ kə/ | *One cannot conceal the fact that...* | Introducing uncomfortable evidence |
-| **Cette situation met en exergue...** | /sɛt si.tɥa.sjɔ̃ mɛ.t‿ɑ̃n‿ɛɡ.zɛʁɡ/ | *This situation highlights / brings to light...* | High-register analytical verb |
-| **Sur le plan sociétal, il s'avère indéniable...** | /syʁ lə plɑ̃ sɔ.sje.tal il s‿a.vɛʁ ɛ̃.de.nja.bl/ | *On a societal level, it proves undeniable...* | Transitioning to Pillar 3 |
-| **Il ne faut pas verser dans l'angélisme** | /il nə fo pa vɛʁ.se dɑ̃ l‿ɑ̃.ʒe.lism/ | *One must not fall into naive idealism* | Critical rhetorical counter |
-| **À l'inverse, force est de déplorer...** | /a l‿ɛ̃.vɛʁs fɔʁs ɛ də de.plɔ.ʁe/ | *Conversely, it is regrettable that...* | Shifting polarity |
-| **C'est un arbitrage délicat entre...** | /s‿ɛt‿œ̃n‿aʁ.bi.tʁaʒ de.li.ka ɑ̃tʁ/ | *It is a delicate trade-off between...* | Framing complex policy choices |
-| **À titre d'illustration concrète...** | /a titʁ d‿i.ly.stʁa.sjɔ̃ kɔ̃.kʁɛt/ | *By way of concrete illustration...* | Introducing evidence |
-| **En dernière analyse, j'estime que...** | /ɑ̃ dɛʁ.njɛʁ a.na.liz ʒ‿ɛs.tim kə/ | *In the final analysis, I consider that...* | Concluding verdict |
-| **La solution réside sans doute dans...** | /la sɔ.ly.sjɔ̃ ʁe.zid sɑ̃ dut dɑ̃/ | *The solution undoubtedly lies in...* | Forward-looking closure |
+| Expression | IPA Transcription | Phonetic Respelling | English Meaning | Structural Function |
+| :--- | :--- | :--- | :--- | :--- |
+| **C'est une question d'une brûlante actualité** | /s‿ɛt‿yn kɛs.tjɔ̃ d‿yn bʁy.lɑ̃t ak.tɥa.li.te/ | (seh-tewn kehs-TYOHN dewn brew-LAHNT ahk-twah-lee-TAY) | *It is a matter of burning relevance* | Phase 1 opening hook |
+| **Il convient d'opérer une distinction entre...** | /il kɔ̃.vjɛ̃ d‿ɔ.pe.ʁe yn dis.tɛ̃k.sjɔ̃ ɑ̃tʁ/ | (eel kohn-VYEHN doh-pay-RAY ewn dees-tehnk-SYOHN AHN-truh) | *It is appropriate to distinguish between...* | Refining definitions |
+| **Force est de reconnaître que...** | /fɔʁs ɛ də ʁə.kɔ.nɛtʁ kə/ | (fohrs eh duh ruh-koh-NEH-truh kuh) | *One must acknowledge that...* | Objective concession |
+| **On ne saurait occulter le fait que...** | /ɔ̃ nə so.ʁɛ ɔ.kyl.te lə fɛ kə/ | (ohn nuh soh-REH oh-kewl-TAY luh FEH kuh) | *One cannot conceal the fact that...* | Introducing uncomfortable evidence |
+| **Cette situation met en exergue...** | /sɛt si.tɥa.sjɔ̃ mɛ.t‿ɑ̃n‿ɛɡ.zɛʁɡ/ | (seht see-twah-SYOHN meh-tahn-nehg-ZEHRG) | *This situation highlights / brings to light...* | High-register analytical verb |
+| **Sur le plan sociétal, il s'avère indéniable...** | /syʁ lə plɑ̃ sɔ.sje.tal il s‿a.vɛʁ ɛ̃.de.nja.bl/ | (sewr luh plahn soh-syay-TAHL eel sah-VEHR ehn-day-NYAH-bluh) | *On a societal level, it proves undeniable...* | Transitioning to Pillar 3 |
+| **Il ne faut pas verser dans l'angélisme** | /il nə fo pa vɛʁ.se dɑ̃ l‿ɑ̃.ʒe.lism/ | (eel nuh foh pah vehr-SAY dahn lahn-zhay-LEEZ-muh) | *One must not fall into naive idealism* | Critical rhetorical counter |
+| **À l'inverse, force est de déplorer...** | /a l‿ɛ̃.vɛʁs fɔʁs ɛ də de.plɔ.ʁe/ | (ah lehn-VEHRS fohrs eh duh day-ploh-RAY) | *Conversely, it is regrettable that...* | Shifting polarity |
+| **C'est un arbitrage délicat entre...** | /s‿ɛt‿œ̃n‿aʁ.bi.tʁaʒ de.li.ka ɑ̃tʁ/ | (seh-tuhn-nahr-bee-TRAHZH day-lee-KAH AHN-truh) | *It is a delicate trade-off between...* | Framing complex policy choices |
+| **À titre d'illustration concrète...** | /a titʁ d‿i.ly.stʁa.sjɔ̃ kɔ̃.kʁɛt/ | (ah tee-truh dee-lew-strah-SYOHN kohn-KREHT) | *By way of concrete illustration...* | Introducing evidence |
+| **En dernière analyse, j'estime que...** | /ɑ̃ dɛʁ.njɛʁ a.na.liz ʒ‿ɛs.tim kə/ | (ahn dehr-NYEHR ah-nah-LEEZ zhehs-TEEM kuh) | *In the final analysis, I consider that...* | Concluding verdict |
+| **La solution réside sans doute dans...** | /la sɔ.ly.sjɔ̃ ʁe.zid sɑ̃ dut dɑ̃/ | (lah soh-lew-SYOHN ray-ZEED sahn DOOT dahn) | *The solution undoubtedly lies in...* | Forward-looking closure |
 
 ---
 
