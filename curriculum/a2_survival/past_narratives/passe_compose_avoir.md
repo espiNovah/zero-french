@@ -37,24 +37,24 @@ The name **passé composé** literally translates to "compound past." It is call
 
 Let us review the present tense conjugation of **avoir**, which you must be able to produce instantaneously:
 
-| Subject Pronoun | Auxiliary Form (Avoir) | IPA Pronunciation | Example with *travailler* | English Translation |
-| :--- | :--- | :--- | :--- | :--- |
-| **J'** | **ai** | /e/ | **J'ai travaillé.** | I worked / I have worked. |
-| **Tu** | **as** | /a/ | **Tu as travaillé.** | You worked / You have worked. |
-| **Il / Elle / On** | **a** | /a/ | **Il a travaillé.** | He / She / One worked. |
-| **Nous** | **avons** | /a.vɔ̃/ | **Nous avons travaillé.** | We worked / We have worked. |
-| **Vous** | **avez** | /a.ve/ | **Vous avez travaillé.** | You worked / You have worked. |
-| **Ils / Elles** | **ont** | /ɔ̃/ | **Ils ont travaillé.** | They worked / They have worked. |
+| Subject Pronoun | Auxiliary Form (Avoir) | IPA Pronunciation | Phonetic Respelling | Example with *travailler* | English Translation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **J'** | **ai** | /e/ | (ay) | **J'ai travaillé.** | I worked / I have worked. |
+| **Tu** | **as** | /a/ | (ah) | **Tu as travaillé.** | You worked / You have worked. |
+| **Il / Elle / On** | **a** | /a/ | (ah) | **Il a travaillé.** | He / She / One worked. |
+| **Nous** | **avons** | /a.vɔ̃/ | (ah-VOHN) | **Nous avons travaillé.** | We worked / We have worked. |
+| **Vous** | **avez** | /a.ve/ | (ah-VAY) | **Vous avez travaillé.** | You worked / You have worked. |
+| **Ils / Elles** | **ont** | /ɔ̃/ | (ohn) | **Ils ont travaillé.** | They worked / They have worked. |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Phonetic Trap: "Ils ont" vs "Ils sont"
 
 Take extreme care with oral pronunciation and auditory comprehension on the TCF:
-- **Ils ont parlé** (/il.z‿ɔ̃ paʁ.le/) uses a voiced **/z/** liaison: the sound is **/il.z‿ɔ̃/**. This means *They have spoken*.
-- **Ils sont partis** (/il sɔ̃ paʁ.ti/) uses an unvoiced **/s/**: the sound is **/il sɔ̃/**. This means *They have left*.
+- **Ils ont parlé** (/il.z‿ɔ̃ paʁ.le/ — *eel-zohn pahr-LAY*) uses a voiced **/z/** liaison: the sound is **/il.z‿ɔ̃/** (eel-ZOHN). This means *They have spoken*.
+- **Ils sont partis** (/il sɔ̃ paʁ.ti/ — *eel sohn pahr-TEE*) uses an unvoiced **/s/**: the sound is **/il sɔ̃/** (eel SOHN). This means *They have left*.
 
-Conflating the nasal auxiliary **/ɔ̃/** (*ont*) with **/sɔ̃/** (*sont*) is a classic listening trap!
+Conflating the nasal auxiliary **/ɔ̃/** (*ont* — *ohn*) with **/sɔ̃/** (*sont* — *sohn*) is a classic listening trap!
 
 </div>
 
@@ -72,83 +72,83 @@ For all regular French verbs, forming the past participle follows three dependab
 
 Every single verb ending in *-er* (including irregular *aller*) forms its past participle by replacing *-er* with **-é**:
 
-- **parler** (to speak) → **parlé** (/paʁ.le/)
-- **manger** (to eat) → **mangé** (/mɑ̃.ʒe/)
-- **habiter** (to live) → **habité** (/a.bi.te/)
-- **commencer** (to begin) → **commencé** (/kɔ.mɑ̃.se/)
-- **étudier** (to study) → **étudié** (/e.ty.dje/)
+- **parler** (to speak) → **parlé** (/paʁ.le/ — *pahr-LAY*)
+- **manger** (to eat) → **mangé** (/mɑ̃.ʒe/ — *mahn-ZHAY*)
+- **habiter** (to live) → **habité** (/a.bi.te/ — *ah-bee-TAY*)
+- **commencer** (to begin) → **commencé** (/kɔ.mɑ̃.se/ — *koh-mahn-SAY*)
+- **étudier** (to study) → **étudié** (/e.ty.dje/ — *ay-tew-DYAY*)
 
-Notice an essential phonetic reality: the infinitive (*parler*), the present tense *vous* form (*parlez*), and the past participle (*parlé*) **sound identical in spoken French**: /paʁ.le/. Context and the presence of the auxiliary verb *ai / as / a* tell your ear that the sentence is in the past:
+Notice an essential phonetic reality: the infinitive (*parler*), the present tense *vous* form (*parlez*), and the past participle (*parlé*) **sound identical in spoken French**: /paʁ.le/ (pahr-LAY). Context and the presence of the auxiliary verb *ai / as / a* tell your ear that the sentence is in the past:
 
-> **Hier, j'ai mangé dans un restaurant canadien.** — /jɛʁ, ʒ‿e mɑ̃.ʒe dɑ̃.z‿œ̃ ʁɛs.to.ʁɑ̃ ka.na.djɛ̃/  
+> **Hier, j'ai mangé dans un restaurant canadien.** — /jɛʁ, ʒ‿e mɑ̃.ʒe dɑ̃.z‿œ̃ ʁɛs.to.ʁɑ̃ ka.na.djɛ̃/ (yehr, zhay mahn-ZHAY dahn-zuhn rehs-toh-RAHN kah-nah-DYEN)  
 > *Yesterday, I ate at a Canadian restaurant.*
 
-> **Elle a étudié le français pendant six mois.** — /ɛ.l‿a e.ty.dje lə fʁɑ̃.sɛ pɑ̃.dɑ̃ si mwa/  
+> **Elle a étudié le français pendant six mois.** — /ɛ.l‿a e.ty.dje lə fʁɑ̃.sɛ pɑ̃.dɑ̃ si mwa/ (ehl ah ay-tew-DYAY luh frahn-SEH pahn-DAHN see MWAH)  
 > *She studied French for six months.*
 
 #### 2. Regular -ir Verbs (Second Group)
 
 Regular verbs of the second conjugation (*finir*, *choisir*, *réussir*) form their past participle by dropping the final *-r*, leaving **-i**:
 
-- **finir** (to finish) → **fini** (/fi.ni/)
-- **choisir** (to choose) → **choisi** (/ʃwa.zi/)
-- **réussir** (to succeed / pass) → **réussi** (/ʁe.y.si/)
-- **remplir** (to fill out) → **rempli** (/ʁɑ̃.pli/)
+- **finir** (to finish) → **fini** (/fi.ni/ — *fee-NEE*)
+- **choisir** (to choose) → **choisi** (/ʃwa.zi/ — *shwah-ZEE*)
+- **réussir** (to succeed / pass) → **réussi** (/ʁe.y.si/ — *ray-ew-SEE*)
+- **remplir** (to fill out) → **rempli** (/ʁɑ̃.pli/ — *rahn-PLEE*)
 
-> **Nous avons fini notre rapport ce matin.** — /nu.z‿a.vɔ̃ fi.ni nɔ.tʁə ʁa.pɔʁ sə ma.tɛ̃/  
+> **Nous avons fini notre rapport ce matin.** — /nu.z‿a.vɔ̃ fi.ni nɔ.tʁə ʁa.pɔʁ sə ma.tɛ̃/ (noo-zah-VOHN fee-NEE NOH-truh rah-POHR suh mah-TEHN)  
 > *We finished our report this morning.*
 
-> **Tu as réussi ton examen du TCF !** — /ty a ʁe.y.si tɔ̃.n‿ɛɡ.za.mɛ̃ dy te.se.ɛf/  
+> **Tu as réussi ton examen du TCF !** — /ty a ʁe.y.si tɔ̃.n‿ɛɡ.za.mɛ̃ dy te.se.ɛf/ (tew ah ray-ew-SEE tohn-neg-zah-MEHN dew tay-seh-EFF!)  
 > *You passed your TCF exam!*
 
 #### 3. Regular -re Verbs (Third Group)
 
 Regular verbs ending in *-re* whose stems end in *-d* (*vendre*, *attendre*, *perdre*, *entendre*, *répondre*) replace *-re* with **-u**:
 
-- **attendre** (to wait) → **attendu** (/a.tɑ̃.dy/)
-- **entendre** (to hear) → **entendu** (/ɑ̃.tɑ̃.dy/)
-- **perdre** (to lose) → **perdu** (/pɛʁ.dy/)
-- **répondre** (to answer / reply) → **répondu** (/ʁe.pɔ̃.dy/)
-- **vendre** (to sell) → **vendu** (/vɑ̃.dy/)
+- **attendre** (to wait) → **attendu** (/a.tɑ̃.dy/ — *ah-tahn-DEW*)
+- **entendre** (to hear) → **entendu** (/ɑ̃.tɑ̃.dy/ — *ahn-tahn-DEW*)
+- **perdre** (to lose) → **perdu** (/pɛʁ.dy/ — *pehr-DEW*)
+- **répondre** (to answer / reply) → **répondu** (/ʁe.pɔ̃.dy/ — *ray-pohn-DEW*)
+- **vendre** (to sell) → **vendu** (/vɑ̃.dy/ — *vahn-DEW*)
 
-> **J'ai attendu l'autobus pendant vingt minutes.** — /ʒ‿e a.tɑ̃.dy l‿o.to.bys pɑ̃.dɑ̃ vɛ̃ mi.nyt/  
+> **J'ai attendu l'autobus pendant vingt minutes.** — /ʒ‿e a.tɑ̃.dy l‿o.to.bys pɑ̃.dɑ̃ vɛ̃ mi.nyt/ (zhay ah-tahn-DEW loh-toh-BEWS pahn-DAHN ven mee-NEWT)  
 > *I waited for the bus for twenty minutes.*
 
-> **Il a répondu au courriel de l'agent d'immigration.** — /i.l‿a ʁe.pɔ̃.dy o ku.ʁjɛl də l‿a.ʒɑ̃ d‿i.mi.ɡʁa.sjɔ̃/  
+> **Il a répondu au courriel de l'agent d'immigration.** — /i.l‿a ʁe.pɔ̃.dy o ku.ʁjɛl də l‿a.ʒɑ̃ d‿i.mi.ɡʁa.sjɔ̃/ (eel ah ray-pohn-DEW oh koo-RYEHL duh lah-ZHAHN dee-mee-grah-SYOHN)  
 > *He replied to the immigration officer's email.*
 
 ### High-frequency irregular past participles and memory families
 
 Many of the most common verbs in daily French are irregular in the past participle. Rather than memorizing an unorganized list of hundreds of forms, smart language learners categorize irregular participles into **phonetic families**:
 
-| Infinitive Verb | Past Participle | IPA | English Meaning | Exemplary Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **avoir** | **eu** | /y/ | had | *J'ai eu un rendez-vous important hier.* |
-| **être** | **été** | /e.te/ | been | *Elle a été malade toute la semaine.* |
-| **faire** | **fait** | /fɛ/ | done / made | *Nous avons fait les courses au supermarché.* |
-| **voir** | **vu** | /vy/ | seen | *Tu as vu cette annonce de logement ?* |
-| **boire** | **bu** | /by/ | drunk | *J'ai bu un grand café ce matin.* |
-| **lire** | **lu** | /ly/ | read | *Il a lu l'article dans le journal.* |
-| **pouvoir** | **pu** | /py/ | been able (could) | *Je n'ai pas pu venir à la réunion.* |
-| **vouloir** | **voulu** | /vu.ly/ | wanted | *Elle a voulu changer d'appartement.* |
-| **devoir** | **dû** | /dy/ | had to / must have | *Nous avons dû payer les frais de dossier.* |
-| **savoir** | **su** | /sy/ | known / found out | *J'ai su la nouvelle hier soir.* |
-| **connaître** | **connu** | /kɔ.ny/ | known / met | *Il a connu mon frère à Montréal.* |
-| **prendre** | **pris** | /pʁi/ | taken | *J'ai pris le métro à huit heures.* |
-| **comprendre** | **compris** | /kɔ̃.pʁi/ | understood | *Avez-vous compris les consignes du test ?* |
-| **apprendre** | **appris** | /a.pʁi/ | learned | *Elle a appris le français à Québec.* |
-| **mettre** | **mis** | /mi/ | put / placed / worn | *Il a mis son manteau d'hiver.* |
-| **dire** | **dit** | /di/ | said / told | *Qu'est-ce qu'il a dit ?* |
-| **écrire** | **écrit** | /e.kʁi/ | written | *J'ai écrit une lettre formelle.* |
-| **ouvrir** | **ouvert** | /u.vɛʁ/ | opened | *Le magasin a ouvert à neuf heures.* |
-| **offrir** | **offert** | /ɔ.fɛʁ/ | offered / gifted | *Ils ont offert un cadeau de bienvenue.* |
+| Infinitive Verb | Past Participle | IPA | Phonetic Respelling | English Meaning | Exemplary Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **avoir** | **eu** | /y/ | (EW) | had | *J'ai eu un rendez-vous important hier.* |
+| **être** | **été** | /e.te/ | (ay-TAY) | been | *Elle a été malade toute la semaine.* |
+| **faire** | **fait** | /fɛ/ | (FEH) | done / made | *Nous avons fait les courses au supermarché.* |
+| **voir** | **vu** | /vy/ | (VEW) | seen | *Tu as vu cette annonce de logement ?* |
+| **boire** | **bu** | /by/ | (BEW) | drunk | *J'ai bu un grand café ce matin.* |
+| **lire** | **lu** | /ly/ | (LEW) | read | *Il a lu l'article dans le journal.* |
+| **pouvoir** | **pu** | /py/ | (PEW) | been able (could) | *Je n'ai pas pu venir à la réunion.* |
+| **vouloir** | **voulu** | /vu.ly/ | (voo-LEW) | wanted | *Elle a voulu changer d'appartement.* |
+| **devoir** | **dû** | /dy/ | (DEW) | had to / must have | *Nous avons dû payer les frais de dossier.* |
+| **savoir** | **su** | /sy/ | (SEW) | known / found out | *J'ai su la nouvelle hier soir.* |
+| **connaître** | **connu** | /kɔ.ny/ | (koh-NEW) | known / met | *Il a connu mon frère à Montréal.* |
+| **prendre** | **pris** | /pʁi/ | (PREE) | taken | *J'ai pris le métro à huit heures.* |
+| **comprendre** | **compris** | /kɔ̃.pʁi/ | (kohn-PREE) | understood | *Avez-vous compris les consignes du test ?* |
+| **apprendre** | **appris** | /a.pʁi/ | (ah-PREE) | learned | *Elle a appris le français à Québec.* |
+| **mettre** | **mis** | /mi/ | (MEE) | put / placed / worn | *Il a mis son manteau d'hiver.* |
+| **dire** | **dit** | /di/ | (DEE) | said / told | *Qu'est-ce qu'il a dit ?* |
+| **écrire** | **écrit** | /e.kʁi/ | (ay-KREE) | written | *J'ai écrit une lettre formelle.* |
+| **ouvrir** | **ouvert** | /u.vɛʁ/ | (oo-VEHR) | opened | *Le magasin a ouvert à neuf heures.* |
+| **offrir** | **offert** | /ɔ.fɛʁ/ | (oh-FEHR) | offered / gifted | *Ils ont offert un cadeau de bienvenue.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Québec vs France
 
-The Québec verb **magasiner** **(QC)** is a regular -er verb: its participle is **magasiné** (/ma.ɡa.zi.ne/). In Québec conversations, you will hear:
-> **J'ai magasiné tout l'après-midi au centre-ville.** — /ʒ‿e ma.ɡa.zi.ne tu l‿a.pʁɛ.mi.di o sɑ̃.tʁə.vil/  
+The Québec verb **magasiner** **(QC)** is a regular -er verb: its participle is **magasiné** (/ma.ɡa.zi.ne/ — *mah-gah-zee-NAY*). In Québec conversations, you will hear:
+> **J'ai magasiné tout l'après-midi au centre-ville.** — /ʒ‿e ma.ɡa.zi.ne tu l‿a.pʁɛ.mi.di o sɑ̃.tʁə.vil/ (zhay mah-gah-zee-NAY too lah-preh-mee-DEE oh sahn-truh-VEEL)  
 > *I shopped all afternoon downtown.*
 
 In European French, a speaker would say: *« J'ai fait du shopping »* or *« J'ai fait les magasins »*.
@@ -174,32 +174,32 @@ In the passé composé, **ne ... pas wraps around the auxiliary verb only**. The
 [Subject] + ne/n' + [Auxiliary Avoir] + pas + [Past Participle]
 ```
 
-> **Je n'ai pas compris la question.** — /ʒə n‿e pa kɔ̃.pʁi la kɛs.tjɔ̃/  
+> **Je n'ai pas compris la question.** — /ʒə n‿e pa kɔ̃.pʁi la kɛs.tjɔ̃/ (zhuh nay pah kohn-PREE lah kes-TYOHN)  
 > *I did not understand the question.*
 
-> **Il n'a pas reçu le document officiel.** — /il n‿a pa ʁə.sy lə dɔ.ky.mɑ̃ ɔ.fi.sjɛl/  
+> **Il n'a pas reçu le document officiel.** — /il n‿a pa ʁə.sy lə dɔ.ky.mɑ̃ ɔ.fi.sjɛl/ (eel nah pah ruh-SEW luh doh-kew-MAHN oh-fee-SYEHL)  
 > *He did not receive the official document.*
 
-> **Nous n'avons pas trouvé d'appartement.** — /nu n‿a.vɔ̃ pa tʁu.ve d‿a.paʁ.tə.mɑ̃/  
+> **Nous n'avons pas trouvé d'appartement.** — /nu n‿a.vɔ̃ pa tʁu.ve d‿a.paʁ.tə.mɑ̃/ (noo nah-VOHN pah troo-VAY dah-pahr-tuh-MAHN)  
 > *We did not find an apartment.*
 
 This rule applies equally to other negative expressions:
-- **ne ... jamais** (never): *Je n'ai jamais visité Vancouver.* (/ʒə n‿e ʒa.mɛ vi.zi.te vɑ̃.ku.vœʁ/ — *I have never visited Vancouver.*)
-- **ne ... rien** (nothing): *Il n'a rien dit.* (/il n‿a ʁjɛ̃ di/ — *He said nothing.*)
-- **ne ... plus** (no longer / not anymore): *Nous n'avons plus attendu.* (/nu n‿a.vɔ̃ ply a.tɑ̃.dy/ — *We waited no longer.*)
+- **ne ... jamais** (never): *Je n'ai jamais visité Vancouver.* (/ʒə n‿e ʒa.mɛ vi.zi.te vɑ̃.ku.vœʁ/ — *zhuh nay zhah-MEH vee-zee-TAY vahn-koo-VEUHR* — *I have never visited Vancouver.*)
+- **ne ... rien** (nothing): *Il n'a rien dit.* (/il n‿a ʁjɛ̃ di/ — *eel nah RYEHN dee* — *He said nothing.*)
+- **ne ... plus** (no longer / not anymore): *Nous n'avons plus attendu.* (/nu n‿a.vɔ̃ ply a.tɑ̃.dy/ — *noo nah-VOHN plew ah-tahn-DEW* — *We waited no longer.*)
 
 #### 2. Adverb Placement: The Mid-Verb Sandwich
 
 In English, adverbs can appear in various positions (*"I slept well"*, *"I already finished"*). In French, short, high-frequency adverbs of manner, quantity, and time **must be placed between the auxiliary verb and the past participle**:
 
-| Adverb | Meaning | Example in Passé Composé | Translation |
-| :--- | :--- | :--- | :--- |
-| **bien** | well | *J'ai **bien** dormi.* | I slept well. |
-| **mal** | poorly / badly | *Il a **mal** compris.* | He misunderstood. |
-| **beaucoup** | a lot / much | *Nous avons **beaucoup** travaillé.* | We worked a lot. |
-| **déjà** | already | *Elle a **déjà** signé le bail.* | She has already signed the lease. |
-| **souvent** | often | *Tu as **souvent** voyagé.* | You often traveled. |
-| **un peu** | a little | *J'ai **un peu** hésité.* | I hesitated a little. |
+| Adverb | Meaning | Phonetic Respelling | Example in Passé Composé | Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| **bien** | well | (BYEN) | *J'ai **bien** dormi.* (zhay byen dohr-MEE) | I slept well. |
+| **mal** | poorly / badly | (MAHL) | *Il a **mal** compris.* (eel ah mahl kohn-PREE) | He misunderstood. |
+| **beaucoup** | a lot / much | (boh-KOO) | *Nous avons **beaucoup** travaillé.* (noo-zah-vohn boh-koo trah-vah-YAY) | We worked a lot. |
+| **déjà** | already | (day-ZHAH) | *Elle a **déjà** signé le bail.* (ehl ah day-zhah seen-YAY luh BEHY) | She has already signed the lease. |
+| **souvent** | often | (soo-VAHN) | *Tu as **souvent** voyagé.* (tew ah soo-vahn vwah-yah-ZHAY) | You often traveled. |
+| **un peu** | a little | (uhn PUH) | *J'ai **un peu** hésité.* (zhay uhn puh ay-zee-TAY) | I hesitated a little. |
 
 > **Position Formula**:  
 > **[Sujet]** + **[Auxiliaire]** + **[Adverbe court]** + **[Participe Passé]**
@@ -211,12 +211,12 @@ Long adverbs ending in *-ment* (such as *lentement*, *rapidement*, *heureusement
 You can formulate questions in the passé composé using the three registers introduced in A1:
 
 1. **Intonation (Informal)**: Keep normal declarative word order and raise your pitch at the end:
-   > **Tu as trouvé un emploi ?** — /ty a tʁu.ve œ̃.n‿ɑ̃.plwa/ — *You found a job?*
+   > **Tu as trouvé un emploi ?** — /ty a tʁu.ve œ̃.n‿ɑ̃.plwa/ (tew ah troo-VAY uhn-nahn-PLWAH?) — *You found a job?*
 2. **Est-ce que (Standard / Neutral)**: Place *est-ce que* in front of the declarative sentence:
-   > **Est-ce que vous avez reçu mon message ?** — /ɛs.kə vu.z‿a.ve ʁə.sy mɔ̃ mɛ.saʒ/ — *Did you receive my message?*
+   > **Est-ce que vous avez reçu mon message ?** — /ɛs.kə vu.z‿a.ve ʁə.sy mɔ̃ mɛ.saʒ/ (ess-kuh voo-zah-VAY ruh-SEW mohn meh-SAHZH?) — *Did you receive my message?*
 3. **Inversion (Formal / Writing & TCF Speaking Task 2)**: Invert the **subject pronoun and the auxiliary verb only**, joining them with a hyphen:
-   > **Avez-vous complété le formulaire ?** — /a.ve vu kɔ̃.ple.te lə fɔʁ.my.lɛʁ/ — *Have you completed the form?*  
-   > **Qu'as-tu fait hier soir ?** — /k‿a ty fɛ jɛʁ swaʁ/ — *What did you do yesterday evening?*
+   > **Avez-vous complété le formulaire ?** — /a.ve vu kɔ̃.ple.te lə fɔʁ.my.lɛʁ/ (ah-vay-VOO kohn-play-TAY luh fohr-mew-LEHR?) — *Have you completed the form?*  
+   > **Qu'as-tu fait hier soir ?** — /k‿a ty fɛ jɛʁ swaʁ/ (kah-tew FEH yehr SWAHR?) — *What did you do yesterday evening?*
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
@@ -225,8 +225,8 @@ You can formulate questions in the passé composé using the three registers int
 On the **TCF Speaking Task 2**, you will have 2 minutes to prepare and 3.5 minutes to ask the examiner questions about a real-world scenario (e.g., asking about an apartment rental, inquiring about a fitness membership, or asking about a job offer).
 
 If the scenario involves past events (e.g. asking a former tenant about their experience in the apartment, or asking an employer when the position opened), using formal inversion with the passé composé demonstrates immediate A2/B1 grammatical mastery:
-- *« Pendant combien d'années avez-vous habité dans cet appartement ? »* (/pɑ̃.dɑ̃ kɔ̃.bjɛ̃ d‿a.ne a.ve vu a.bi.te dɑ̃ sɛ.t‿a.paʁ.tə.mɑ̃/ — *For how many years did you live in this apartment?*)
-- *« Avez-vous rencontré des problèmes avec le propriétaire ? »* (/a.ve vu ʁɑ̃.kɔ̃.tʁe de pʁɔ.blɛm a.vɛk lə pʁɔ.pʁi.je.tɛʁ/ — *Did you encounter problems with the landlord?*)
+- *« Pendant combien d'années avez-vous habité dans cet appartement ? »* (/pɑ̃.dɑ̃ kɔ̃.bjɛ̃ d‿a.ne a.ve vu a.bi.te dɑ̃ sɛ.t‿a.paʁ.tə.mɑ̃/ — *pahn-DAHN kohn-BYEN dah-NAY ah-vay-VOO ah-bee-TAY dahn seh-tah-pahr-tuh-MAHN?* — *For how many years did you live in this apartment?*)
+- *« Avez-vous rencontré des problèmes avec le propriétaire ? »* (/a.ve vu ʁɑ̃.kɔ̃.tʁe de pʁɔ.blɛm a.vɛk lə pʁɔ.pʁi.je.tɛʁ/ — *ah-vay-VOO rahn-kohn-TRAY day proh-BLEHM ah-VEHK luh proh-pree-ay-TEHR?* — *Did you encounter problems with the landlord?*)
 
 Correctly inverting compound tenses shows the examiner solid grammatical control!
 
@@ -278,28 +278,28 @@ Whether the subject is masculine, feminine, singular, or plural, the past partic
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 16 essential past participles with IPA and example sentences to your personal Anki flashcard deck:
-   - *avoir* → **eu** (/y/) — had
-   - *être* → **été** (/e.te/) — been
-   - *faire* → **fait** (/fɛ/) — done / made
-   - *prendre* → **pris** (/pʁi/) — taken
-   - *mettre* → **mis** (/mi/) — put / placed
-   - *dire* → **dit** (/di/) — said / told
-   - *écrire* → **écrit** (/e.kʁi/) — written
-   - *lire* → **lu** (/ly/) — read
-   - *boire* → **bu** (/by/) — drunk
-   - *voir* → **vu** (/vy/) — seen
-   - *pouvoir* → **pu** (/py/) — been able
-   - *vouloir* → **voulu** (/vu.ly/) — wanted
-   - *devoir* → **dû** (/dy/) — had to
-   - *savoir* → **su** (/sy/) — known / found out
-   - *comprendre* → **compris** (/kɔ̃.pʁi/) — understood
-   - *apprendre* → **appris** (/a.pʁi/) — learned
+   - *avoir* → **eu** (/y/ — *EW*) — had
+   - *être* → **été** (/e.te/ — *ay-TAY*) — been
+   - *faire* → **fait** (/fɛ/ — *FEH*) — done / made
+   - *prendre* → **pris** (/pʁi/ — *PREE*) — taken
+   - *mettre* → **mis** (/mi/ — *MEE*) — put / placed
+   - *dire* → **dit** (/di/ — *DEE*) — said / told
+   - *écrire* → **écrit** (/e.kʁi/ — *ay-KREE*) — written
+   - *lire* → **lu** (/ly/ — *LEW*) — read
+   - *boire* → **bu** (/by/ — *BEW*) — drunk
+   - *voir* → **vu** (/vy/ — *VEW*) — seen
+   - *pouvoir* → **pu** (/py/ — *PEW*) — been able
+   - *vouloir* → **voulu** (/vu.ly/ — *voo-LEW*) — wanted
+   - *devoir* → **dû** (/dy/ — *DEW*) — had to
+   - *savoir* → **su** (/sy/ — *SEW*) — known / found out
+   - *comprendre* → **compris** (/kɔ̃.pʁi/ — *kohn-PREE*) — understood
+   - *apprendre* → **appris** (/a.pʁi/ — *ah-PREE*) — learned
 
 3. **Step 3: Receptive Listening & Pronunciation Drill**  
    Listen to the audio lesson on [Podcast Français Facile — Le passé composé avec avoir](https://www.podcastfrancaisfacile.com/podcast/passe-compose-avec-avoir.html).  
    - Listen to the dialogue twice without reading the transcript.
    - Note down every auxiliary verb and past participle you hear.
-   - Read the dialogue aloud, focusing on clean liaisons between *ont* and vowels (*Ils ont‿attendu* /il.z‿ɔ̃.t‿a.tɑ̃.dy/).
+   - Read the dialogue aloud, focusing on clean liaisons between *ont* and vowels (*Ils ont‿attendu* /il.z‿ɔ̃.t‿a.tɑ̃.dy/ — *eel-zohn-tah-tahn-DEW*).
 
 4. **Step 4: Productive Writing Task (Simulated TCF Writing Task 1)**  
    Imagine an immigration officer or potential employer in Canada emails you asking what professional or academic activities you completed last week. Write an **80-word email** in French under timed conditions (12 minutes, typed without autocorrect):
