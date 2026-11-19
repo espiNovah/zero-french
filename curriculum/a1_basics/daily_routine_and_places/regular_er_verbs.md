@@ -22,11 +22,11 @@ This section contains a general overview of topics that you will learn in this l
 
 An infinitive is the base, unconjugated form of a verb—the form you find in a dictionary (equivalent to English "to speak", "to work", "to eat"). In French, all verbs of the first group end in the letters **-er**:
 
-> **parler** (/paʁ.le/) — *to speak*  
-> **travailler** (/tʁa.va.je/) — *to work*  
-> **habiter** (/a.bi.te/) — *to live (reside)*  
-> **écouter** (/e.ku.te/) — *to listen*  
-> **regarder** (/ʁə.ɡaʁ.de/) — *to watch / look at*
+> **parler** (/paʁ.le/ — (par-LAY)) — *to speak*  
+> **travailler** (/tʁa.va.je/ — (trah-vah-YAY)) — *to work*  
+> **habiter** (/a.bi.te/ — (ah-bee-TAY)) — *to live (reside)*  
+> **écouter** (/e.ku.te/ — (ay-koo-TAY)) — *to listen*  
+> **regarder** (/ʁə.ɡaʁ.de/ — (ruh-gar-DAY)) — *to watch / look at*
 
 To conjugate any regular *-er* verb in the present tense, follow a simple two-step formula:
 
@@ -45,43 +45,43 @@ To conjugate any regular *-er* verb in the present tense, follow a simple two-st
 
 Observe how the verb **parler** (to speak) is formed:
 
-| Subject Pronoun | Stem | Ending | Complete Conjugated Form | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Je** | parl- | **-e** | **parle** | /paʁl/ | I speak |
-| **Tu** | parl- | **-es** | **parles** | /paʁl/ | You speak (informal) |
-| **Il / Elle / On** | parl- | **-e** | **parle** | /paʁl/ | He / She / One speaks |
-| **Nous** | parl- | **-ons** | **parlons** | /paʁ.lɔ̃/ | We speak |
-| **Vous** | parl- | **-ez** | **parlez** | /paʁ.le/ | You speak (formal/plural) |
-| **Ils / Elles** | parl- | **-ent** | **parlent** | /paʁl/ | They speak |
+| Subject Pronoun | Stem | Ending | Complete Conjugated Form | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Je** | parl- | **-e** | **parle** | /paʁl/ | **PARL** | I speak |
+| **Tu** | parl- | **-es** | **parles** | /paʁl/ | **PARL** | You speak (informal) |
+| **Il / Elle / On** | parl- | **-e** | **parle** | /paʁl/ | **PARL** | He / She / One speaks |
+| **Nous** | parl- | **-ons** | **parlons** | /paʁ.lɔ̃/ | **par-LOHN** | We speak |
+| **Vous** | parl- | **-ez** | **parlez** | /paʁ.le/ | **par-LAY** | You speak (formal/plural) |
+| **Ils / Elles** | parl- | **-ent** | **parlent** | /paʁl/ | **PARL** | They speak |
 
 ### The six endings and the silent pronunciation rule
 
 Look carefully at the pronunciation column in the table above. This reveals the single most important secret of French verb phonetics:
 
 > **Four of the six conjugated forms sound exactly the same!**  
-> `parle` (je) = `/paʁl/`  
-> `parles` (tu) = `/paʁl/`  
-> `parle` (il/elle) = `/paʁl/`  
-> `parlent` (ils/elles) = `/paʁl/`
+> `parle` (je) = `/paʁl/` (PARL)  
+> `parles` (tu) = `/paʁl/` (PARL)  
+> `parle` (il/elle) = `/paʁl/` (PARL)  
+> `parlent` (ils/elles) = `/paʁl/` (PARL)
 
 Even though they are spelled differently (*-e*, *-es*, *-ent*), the letters **-e**, **-es**, and **-ent** are completely **silent** at the end of a conjugated verb. 
 
 English speakers frequently make the error of pronouncing the *-ent* ending in *ils parlent* as if it were English "par-lent". In French, the 3rd person plural verb ending **-ent** is **always silent**:
-- *ils parlent* is pronounced `/il paʁl/` (never `/il paʁ.lɑ̃/` or `/il paʁ.lɛnt/`).
-- *elles travaillent* is pronounced `/ɛl tʁa.vaj/`.
-- *ils habitent* is pronounced `/il.z‿a.bit/`.
+- *ils parlent* is pronounced `/il paʁl/` (eel PARL) (never `/il paʁ.lɑ̃/` or `/il paʁ.lɛnt/`).
+- *elles travaillent* is pronounced `/ɛl tʁa.vaj/` (el trah-VYE).
+- *ils habitent* is pronounced `/il.z‿a.bit/` (eel-zah-BEET).
 
 Only two endings are pronounced with distinct vowel sounds:
-- **nous parlons** ends in the nasal vowel sound **/ɔ̃/** (*-ons*).
-- **vous parlez** ends in the closed vowel sound **/e/** (*-ez*), sounding identical to the infinitive *parler* (/paʁ.le/).
+- **nous parlons** ends in the nasal vowel sound **/ɔ̃/** (*-ons*) — /paʁ.lɔ̃/ (par-LOHN).
+- **vous parlez** ends in the closed vowel sound **/e/** (*-ez*) — /paʁ.le/ (par-LAY), sounding identical to the infinitive *parler*.
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
 #### Critical Phonetic Rule: The Verb Ending -ent
 
 Do not confuse the noun ending *-ment* (which is nasal, like *le gouvernement* /lə ɡu.vɛʁ.nə.mɑ̃/) with the 3rd person plural verb ending **-ent**! On a verb, **-ent is 100% silent**:
-- *Ils regardent* = `/il ʁə.ɡaʁd/`
-- *Elles écoutent* = `/ɛl.z‿e.kut/`
+- *Ils regardent* = `/il ʁə.ɡaʁd/` (eel ruh-GARD)
+- *Elles écoutent* = `/ɛl.z‿e.kut/` (el-zay-KOOT)
 
 Pronouncing the *-ent* on a verb is an immediate beginner error that makes your speech harder to understand.
 
@@ -91,24 +91,24 @@ Pronouncing the *-ent* on a verb is an immediate beginner error that makes your 
 
 Here are the most common regular *-er* verbs you need to describe your daily life, work tasks, and habits:
 
-| Infinitive Verb | IPA Pronunciation | English Meaning | Example in Context |
-| :--- | :--- | :--- | :--- |
-| **travailler** | /tʁa.va.je/ | to work | *Je travaille de 9h à 17h.* (I work from 9 to 5.) |
-| **habiter** | /a.bi.te/ | to live / reside | *J'habite à Montréal.* (I live in Montreal.) |
-| **étudier** | /e.ty.dje/ | to study | *Nous étudions le français.* (We study French.) |
-| **écouter** | /e.ku.te/ | to listen to | *J'écoute la radio le matin.* (I listen to the radio in the morning.) |
-| **regarder** | /ʁə.ɡaʁ.de/ | to watch | *Tu regardes un film le soir.* (You watch a movie in the evening.) |
-| **préparer** | /pʁe.pa.ʁe/ | to prepare | *Elle prépare le repas.* (She prepares the meal.) |
-| **cuisiner** | /kɥi.zi.ne/ | to cook | *Mon mari cuisine très bien.* (My husband cooks very well.) |
-| **commencer** | /kɔ.mɑ̃.se/ | to start / begin | *Le travail commence à 8h30.* (Work starts at 8:30.) |
-| **terminer** | /tɛʁ.mi.ne/ | to finish / end | *Je termine vers 18h.* (I finish around 6 pm.) |
-| **aimer** | /e.me/ | to like / to love | *J'aime mon travail.* (I like my job.) |
-| **détester** | /de.tɛs.te/ | to hate | *Il déteste les embouteillages.* (He hates traffic jams.) |
+| Infinitive Verb | IPA Pronunciation | English Respelling | English Meaning | Example in Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **travailler** | /tʁa.va.je/ | **trah-vah-YAY** | to work | *Je travaille de 9h à 17h.* (I work from 9 to 5.) |
+| **habiter** | /a.bi.te/ | **ah-bee-TAY** | to live / reside | *J'habite à Montréal.* (I live in Montreal.) |
+| **étudier** | /e.ty.dje/ | **ay-tew-DYAY** | to study | *Nous étudions le français.* (We study French.) |
+| **écouter** | /e.ku.te/ | **ay-koo-TAY** | to listen to | *J'écoute la radio le matin.* (I listen to the radio in the morning.) |
+| **regarder** | /ʁə.ɡaʁ.de/ | **ruh-gar-DAY** | to watch | *Tu regardes un film le soir.* (You watch a movie in the evening.) |
+| **préparer** | /pʁe.pa.ʁe/ | **pray-pah-RAY** | to prepare | *Elle prépare le repas.* (She prepares the meal.) |
+| **cuisiner** | /kɥi.zi.ne/ | **kwee-zee-NAY** | to cook | *Mon mari cuisine très bien.* (My husband cooks very well.) |
+| **commencer** | /kɔ.mɑ̃.se/ | **kaw-mahn-SAY** | to start / begin | *Le travail commence à 8h30.* (Work starts at 8:30.) |
+| **terminer** | /tɛʁ.mi.ne/ | **tehr-mee-NAY** | to finish / end | *Je termine vers 18h.* (I finish around 6 pm.) |
+| **aimer** | /e.me/ | **ay-MAY** | to like / to love | *J'aime mon travail.* (I like my job.) |
+| **détester** | /de.tɛs.te/ | **day-tes-TAY** | to hate | *Il déteste les embouteillages.* (He hates traffic jams.) |
 
 Notice the elision with verbs starting with a vowel sound (*habiter*, *étudier*, *écouter*, *aimer*):
-- *Je + habite* → **J'habite** (/ʒa.bit/)
-- *Je + écoute* → **J'écoute** (/ʒe.kut/)
-- *Je + aime* → **J'aime** (/ʒɛm/)
+- *Je + habite* → **J'habite** (/ʒa.bit/ — (zhah-BEET))
+- *Je + écoute* → **J'écoute** (/ʒe.kut/ — (zhay-KOOT))
+- *Je + aime* → **J'aime** (/ʒɛm/ — (ZHEHM))
 
 ### Frequency adverbs and structuring routine schedules
 
@@ -117,31 +117,31 @@ When speaking or writing about your routine, you need connectors and adverbs to 
 #### Frequency Adverbs
 In French, adverbs of frequency are usually placed **immediately after the conjugated verb**:
 
-> **Je travaille toujours le lundi.** — /ʒə tʁa.vaj tu.ʒuʁ lə lœ̃.di/  
+> **Je travaille toujours le lundi.** — /ʒə tʁa.vaj tu.ʒuʁ lə lœ̃.di/ (zhuh trah-VYE too-ZHOOR luh luhn-DEE)  
 > *I always work on Mondays.*
 
-> **Nous mangeons souvent au restaurant.** — /nu mɑ̃.ʒɔ̃ su.vɑ̃ o ʁɛs.to.ʁɑ̃/  
+> **Nous mangeons souvent au restaurant.** — /nu mɑ̃.ʒɔ̃ su.vɑ̃ o ʁɛs.to.ʁɑ̃/ (noo mahn-ZHOHN soo-VAHN oh res-toh-RAHN)  
 > *We often eat at a restaurant.*
 
-> **Elle regarde rarement la télévision.** — /ɛl ʁə.ɡaʁd ʁaʁ.mɑ̃ la te.le.vi.zjɔ̃/  
+> **Elle regarde rarement la télévision.** — /ɛl ʁə.ɡaʁd ʁaʁ.mɑ̃ la te.le.vi.zjɔ̃/ (el ruh-GARD rar-MAHN lah tay-lay-vee-ZYOHN)  
 > *She rarely watches television.*
 
-| Frequency Adverb | IPA Pronunciation | English Meaning |
-| :--- | :--- | :--- |
-| **toujours** | /tu.ʒuʁ/ | always |
-| **souvent** | /su.vɑ̃/ | often |
-| **parfois / quelquefois** | /paʁ.fwa/, /kɛl.kə.fwa/ | sometimes |
-| **rarement** | /ʁaʁ.mɑ̃/ | rarely |
-| **ne... jamais** | /nə... ʒa.mɛ/ | never (*Je ne regarde jamais...*) |
+| Frequency Adverb | IPA Pronunciation | English Respelling | English Meaning |
+| :--- | :--- | :--- | :--- |
+| **toujours** | /tu.ʒuʁ/ | **too-ZHOOR** | always |
+| **souvent** | /su.vɑ̃/ | **soo-VAHN** | often |
+| **parfois / quelquefois** | /paʁ.fwa/, /kɛl.kə.fwa/ | **par-FWAH / kel-kuh-FWAH** | sometimes |
+| **rarement** | /ʁaʁ.mɑ̃/ | **rar-MAHN** | rarely |
+| **ne... jamais** | /nə... ʒa.mɛ/ | **nuh... zhah-MEH** | never (*Je ne regarde jamais...*) |
 
 #### Time-of-Day Markers
 To anchor your routine chronologically, use these everyday temporal expressions:
-- **le matin** (/lə ma.tɛ̃/) — in the morning
-- **à midi** (/a mi.di/) — at noon
-- **l'après-midi** (/la.pʁɛ.mi.di/) — in the afternoon
-- **le soir** (/lə swaʁ/) — in the evening
-- **tous les jours** (/tu le ʒuʁ/) — every day
-- **le week-end / la fin de semaine** — on weekends
+- **le matin** (/lə ma.tɛ̃/ — (luh mah-TAN)) — in the morning
+- **à midi** (/a mi.di/ — (ah mee-DEE)) — at noon
+- **l'après-midi** (/la.pʁɛ.mi.di/ — (lah-preh-mee-DEE)) — in the afternoon
+- **le soir** (/lə swaʁ/ — (luh SWAHR)) — in the evening
+- **tous les jours** (/tu le ʒuʁ/ — (too lay ZHOOR)) — every day
+- **le week-end / la fin de semaine** (/lə wi.kɛnd / la fɛ̃ də s(ə)mɛn/ — (luh week-END / lah fan duh smen)) — on weekends
 
 ### Mealtime terminology: Quebec vs France conventions
 
@@ -151,9 +151,9 @@ Observe how meal names differ between European French and Canadian French:
 
 | Meal Time | Québec / Canadian French **(QC)** | France / European French | English Meaning |
 | :--- | :--- | :--- | :--- |
-| Morning (~7:00 am) | **le déjeuner** (/lə de.ʒœ.ne/) | **le petit-déjeuner** (/lə pə.ti de.ʒœ.ne/) | Breakfast |
-| Midday (~12:00 pm) | **le dîner** (/lə di.ne/) | **le déjeuner** (/lə de.ʒœ.ne/) | Lunch |
-| Evening (~6:30 pm) | **le souper** (/lə su.pe/) | **le dîner** (/lə di.ne/) | Dinner / Supper |
+| Morning (~7:00 am) | **le déjeuner** (/lə de.ʒœ.ne/ — (luh day-zhuh-NAY)) | **le petit-déjeuner** (/lə pə.ti de.ʒœ.ne/ — (luh puh-tee-day-zhuh-NAY)) | Breakfast |
+| Midday (~12:00 pm) | **le dîner** (/lə di.ne/ — (luh dee-NAY)) | **le déjeuner** (/lə de.ʒœ.ne/ — (luh day-zhuh-NAY)) | Lunch |
+| Evening (~6:30 pm) | **le souper** (/lə su.pe/ — (luh soo-PAY)) | **le dîner** (/lə di.ne/ — (luh dee-NAY)) | Dinner / Supper |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -206,21 +206,21 @@ In TCF Canada Writing Task 1, you have 60 minutes to complete three tasks, and y
    </details>
 
 2. **Vocabulary & Anki Deck Expansion**  
-   Add these 14 regular *-er* action verbs and routine markers with IPA to your Anki deck:
-   - *parler* (/paʁ.le/) — to speak
-   - *travailler* (/tʁa.va.je/) — to work
-   - *habiter* (/a.bi.te/) — to live / reside
-   - *écouter* (/e.ku.te/) — to listen to
-   - *regarder* (/ʁə.ɡaʁ.de/) — to watch
-   - *étudier* (/e.ty.dje/) — to study
-   - *préparer* (/pʁe.pa.ʁe/) — to prepare
-   - *cuisiner* (/kɥi.zi.ne/) — to cook
-   - *commencer* (/kɔ.mɑ̃.se/) — to start
-   - *terminer* (/tɛʁ.mi.ne/) — to finish
-   - *toujours* (/tu.ʒuʁ/) — always
-   - *souvent* (/su.vɑ̃/) — often
-   - *le matin* (/lə ma.tɛ̃/) — in the morning
-   - *le soir* (/lə swaʁ/) — in the evening
+   Add these 14 regular *-er* action verbs and routine markers with IPA and English phonetic respelling to your Anki deck:
+   - *parler* (/paʁ.le/ — (par-LAY)) — to speak
+   - *travailler* (/tʁa.va.je/ — (trah-vah-YAY)) — to work
+   - *habiter* (/a.bi.te/ — (ah-bee-TAY)) — to live / reside
+   - *écouter* (/e.ku.te/ — (ay-koo-TAY)) — to listen to
+   - *regarder* (/ʁə.ɡaʁ.de/ — (ruh-gar-DAY)) — to watch
+   - *étudier* (/e.ty.dje/ — (ay-tew-DYAY)) — to study
+   - *préparer* (/pʁe.pa.ʁe/ — (pray-pah-RAY)) — to prepare
+   - *cuisiner* (/kɥi.zi.ne/ — (kwee-zee-NAY)) — to cook
+   - *commencer* (/kɔ.mɑ̃.se/ — (kaw-mahn-SAY)) — to start
+   - *terminer* (/tɛʁ.mi.ne/ — (tehr-mee-NAY)) — to finish
+   - *toujours* (/tu.ʒuʁ/ — (too-ZHOOR)) — always
+   - *souvent* (/su.vɑ̃/ — (soo-VAHN)) — often
+   - *le matin* (/lə ma.tɛ̃/ — (luh mah-TAN)) — in the morning
+   - *le soir* (/lə swaʁ/ — (luh SWAHR)) — in the evening
 
 3. **Receptive Listening Task**  
    Listen to the short dialogue on daily routine from [RFI Savoirs — Parler de sa journée quotidienne](https://francaisfacile.rfi.fr/fr/).  
