@@ -51,7 +51,7 @@ When you state your belief affirmatively, you are asserting an idea that your mi
 
 $$\mathbf{\text{Sujet}} + \mathbf{\text{Penser / Croire (affirmatif)}} + \mathbf{\text{que}} + \mathbf{\text{Indicatif}}$$
 
-- *« Je pense qu'il **a** raison. »* (/ʒə pɑ̃s k‿il a ʁɛ.zɔ̃/ — Indicatif présent).
+- *« Je pense qu'il **a** raison. »* (/ʒə pɑ̃s k‿il a ʁɛ.zɔ̃/ — *zhuh PAHNSS keel ah reh-ZOHN* — Indicatif présent).
 - *« Nous croyons que cette mesure **améliorera** la situation. »* (*améliorera* — Futur simple).
 - *« Je trouve que ce logement **est** trop cher pour sa superficie. »* (*est* — Indicatif présent).
 - *« Le gestionnaire estime que les objectifs **ont été** atteints. »* (*ont été* — Passé composé).
@@ -62,7 +62,7 @@ When you negate an opinion verb, certainty collapses into **doubt, skepticism, o
 
 $$\mathbf{\text{Sujet}} + \mathbf{\text{ne}} + \mathbf{\text{Penser / Croire}} + \mathbf{\text{pas que}} + \mathbf{\text{Subjonctif}}$$
 
-- *« Je ne pense pas qu'il **ait** raison. »* (/ʒə nə pɑ̃s pa k‿il ɛ ʁɛ.zɔ̃/ — Subjonctif de *avoir*).
+- *« Je ne pense pas qu'il **ait** raison. »* (/ʒə nə pɑ̃s pa k‿il ɛ ʁɛ.zɔ̃/ — *zhuh nuh PAHNSS pah keel eh reh-ZOHN* — Subjonctif de *avoir*).
 - *« Nous ne croyons pas que cette mesure **puisse** régler la crise. »* (*puisse* — Subjonctif de *pouvoir*).
 - *« Je ne trouve pas que ce candidat **soit** qualifié pour ce mandat. »* (*soit* — Subjonctif de *être*).
 - *« Elle n'estime pas que ce projet **vaille** la peine d'investir. »* (*vaille* — Subjonctif de *valoir*).
@@ -147,7 +147,7 @@ Test creators at France Éducation international deliberately target the four mo
 Because *espérer* expresses hope, many learners assume it requires the subjunctive like *souhaiter*.  
 **This is completely false!** In standard French grammar, hope is oriented toward a positive future certainty and **strictly takes the indicative (usually the futur simple or present)**:
 - **INCORRECT**: *J'espère que vous veniez demain.*
-- **CORRECT**: **J'espère que vous viendrez demain.** (/ʒ‿ɛs.pɛʁ kə vu vjɛ̃.dʁe/ — Futur simple).
+- **CORRECT**: **J'espère que vous viendrez demain.** (/ʒ‿ɛs.pɛʁ kə vu vjɛ̃.dʁe/ — *zhehs-PEHR kuh voo vyen-DRAY* — Futur simple).
 - **CORRECT**: **J'espère qu'il fait beau à Québec.** (Indicatif présent).
 
 #### 2. Trap 2: Après que (Strictly Indicative!)
