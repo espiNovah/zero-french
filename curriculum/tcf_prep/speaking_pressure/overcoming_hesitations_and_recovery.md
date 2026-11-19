@@ -77,28 +77,28 @@ Rhetorical fillers (*les marqueurs discursifs d'appui*) are linguistic shock abs
 #### Category 1: Buying Time to Structure an Argument
 When you need three seconds to think of a second argument in Task 3:
 - **« À bien y regarder, la problématique présente une double facette... »**  
-  — /a bjɛ̃.n‿i ʁə.ɡaʁ.de la pʁɔ.ble.ma.tik pʁe.zɑ̃t yn dubl fa.sɛt/  
+  — /a bjɛ̃.n‿i ʁə.ɡaʁ.de la pʁɔ.ble.ma.tik pʁe.zɑ̃t yn dubl fa.sɛt/ (ah byen-nee ruh-gahr-DAY, lah proh-blay-mah-TEEK pray-ZAHNT ewn DOO-bluh fah-SEHT)  
   *(Looking closely at it, the issue presents a dual facet...)*
 - **« C'est un phénomène complexe qui ne saurait être appréhendé de façon manichéenne... »**  
-  — /s‿ɛt‿œ̃ fe.nɔ.mɛn kɔ̃.plɛks ki nə so.ʁɛ ɛtʁ a.pʁe.ɑ̃.de də fa.sɔ̃ ma.ni.ke.ɛn/  
+  — /s‿ɛt‿œ̃ fe.nɔ.mɛn kɔ̃.plɛks ki nə so.ʁɛ ɛtʁ a.pʁe.ɑ̃.de də fa.sɔ̃ ma.ni.ke.ɛn/ (seh-tuhn fay-noh-MEHN kohn-PLEHKS kee nuh soh-REH EH-truh ah-pray-ahn-DAY duh fah-SOHN mah-nee-kay-EHN)  
   *(It is a complex phenomenon that cannot be grasped in a black-and-white manner...)*
 
 #### Category 2: Reinforcing an Existing Idea
 When you run out of things to say and need to expand the current point:
 - **« D'ailleurs, les récentes évolutions socio-économiques viennent corroborer ce constat... »**  
-  — /d‿a.jœʁ le ʁe.sɑ̃t.z‿e.vɔ.ly.sjɔ̃ sɔ.sjo.e.kɔ.nɔ.mik vjɛn kɔ.ʁɔ.bɔ.ʁe sə kɔ̃s.ta/  
+  — /d‿a.jœʁ le ʁe.sɑ̃t.z‿e.vɔ.ly.sjɔ̃ sɔ.sjo.e.kɔ.nɔ.mik vjɛn kɔ.ʁɔ.bɔ.ʁe sə kɔ̃s.ta/ (dah-YUR lay ray-sahnt-zay-voh-lew-SYOHN soh-syoh-ay-koh-noh-MEEK vyehn koh-roh-boh-RAY suh kohns-TAH)  
   *(Moreover, recent socio-economic developments corroborate this finding...)*
 - **« En effet, on observe une convergence frappante entre ces différents facteurs... »**  
-  — /ɑ̃n‿e.fɛ ɔ̃n‿ɔb.sɛʁv yn kɔ̃.vɛʁ.ʒɑ̃s fʁa.pɑ̃t ɑ̃tʁ se di.fe.ʁɑ̃ fak.tœʁ/  
+  — /ɑ̃n‿e.fɛ ɔ̃n‿ɔb.sɛʁv yn kɔ̃.vɛʁ.ʒɑ̃s fʁa.pɑ̃t ɑ̃tʁ se di.fe.ʁɑ̃ fak.tœʁ/ (ahn-nay-FEH ohn-ohb-SEHRV ewn kohn-vehr-ZHAHNS frah-PAHNT ahn-truh say dee-fay-RAHN fahk-TUHR)  
   *(Indeed, one observes a striking convergence between these different factors...)*
 
 #### Category 3: Pivoting Away from an Argumentative Dead-End
 When you realize the argument you just started making makes no sense:
 - **« Cela étant dit, il serait excessif de s'en tenir à cette seule explication... »**  
-  — /sə.la e.tɑ̃ di il sə.ʁɛ ɛk.se.sif də s‿ɑ̃ tə.niʁ a sɛt sœl ɛks.pli.ka.sjɔ̃/  
+  — /sə.la e.tɑ̃ di il sə.ʁɛ ɛk.se.sif də s‿ɑ̃ tə.niʁ a sɛt sœl ɛks.pli.ka.sjɔ̃/ (suh-lah ay-TAHN DEE, eel suh-REH ehk-seh-SEEF duh sahn tuh-NEER ah seht suhl ehk-splee-kah-SYOHN)  
   *(That being said, it would be excessive to stop at this single explanation...)*
 - **« Il convient toutefois de nuancer ce tableau en considérant l'envers de la médaille... »**  
-  — /il kɔ̃.vjɛ̃ tu.tə.fwa də nɥɑ̃.se sə ta.blo ɑ̃ kɔ̃.si.de.ʁɑ̃ l‿ɑ̃.vɛʁ də la me.daj/  
+  — /il kɔ̃.vjɛ̃ tu.tə.fwa də nɥɑ̃.se sə ta.blo ɑ̃ kɔ̃.si.de.ʁɑ̃ l‿ɑ̃.vɛʁ də la me.daj/ (eel kohn-VYEHN too-tuh-FWAH duh nwahn-SAY suh tah-BLOH ahn kohn-see-day-RAHN lahn-VEHR duh lah may-DY)  
   *(It is advisable, however, to nuance this picture by considering the reverse of the coin...)*
 
 ---
@@ -111,9 +111,9 @@ Even C2-level speakers make speech slips (*lapsus linguae*). Self-correction is 
 
 1. **Never Apologize**: Never say *« Excusez-moi »* or *« Pardon »* for a grammatical slip. Apologies draw the examiner's attention to the mistake.
 2. **Use Micro-Repair Connectors**: Use brief transitional adverbs to swap the erroneous token for the correct one:
-   - **« ou plutôt »** — /u ply.to/ (*or rather*)
-   - **« plus exactement »** — /ply.z‿ɛɡ.zak.tə.mɑ̃/ (*more accurately*)
-   - **« pour mieux dire »** — /puʁ mjø diʁ/ (*to put it better*)
+   - **« ou plutôt »** — /u ply.to/ (oo plew-TOH) (*or rather*)
+   - **« plus exactement »** — /ply.z‿ɛɡ.zak.tə.mɑ̃/ (plew-zehg-zahk-tuh-MAHN) (*more accurately*)
+   - **« pour mieux dire »** — /puʁ mjø diʁ/ (poor myuh DEER) (*to put it better*)
 3. **Repair the Minimal Token**: Do not repeat the entire paragraph. Replace only the faulty word:
    - *Incorrect slip*: « C'est un belle opportunité... »
    - *Surgical repair*: **« C'est une belle opportunité, ou plutôt une occasion unique... »** (seamlessly upgrades the vocabulary while fixing gender!).
@@ -147,12 +147,12 @@ Let us examine examples of the Circumlocution Ladder in action:
 
 1. **Forgotten word**: *Le covoiturage* (*carpooling*)
    - *Ladder deployment*: **« Ce système où plusieurs collègues partagent le même véhicule privé pour se rendre sur leur lieu de travail afin de réduire les coûts et l'empreinte carbone... »**  
-   — /sə sis.tɛm u ply.zjœʁ kɔ.lɛɡ paʁ.taʒ lə mɛm ve.i.kyl pʁi.ve/
+   — /sə sis.tɛm u ply.zjœʁ kɔ.lɛɡ paʁ.taʒ lə mɛm ve.i.kyl pʁi.ve/ (suh sees-TEHM oo plew-ZYEUR koh-LEHG pahr-TAHZH luh mehm vay-ee-KEWL pree-VAY)
    - *Examiner evaluation*: The candidate demonstrated higher-level language explaining the concept than if they had merely uttered the single noun *covoiturage*!
 
 2. **Forgotten word**: *Le congé parental* (*parental leave*)
    - *Ladder deployment*: **« Cette période de repos rémunérée accordée légalement aux nouveaux parents pour leur permettre d'accueillir leur nouveau-né sans perdre leur emploi... »**  
-   — /sɛt pe.ʁjɔd də ʁə.po ʁe.my.ne.ʁe a.kɔʁ.de le.ɡal.mɑ̃ o nu.vo pa.ʁɑ̃/
+   — /sɛt pe.ʁjɔd də ʁə.po ʁe.my.ne.ʁe a.kɔʁ.de le.ɡal.mɑ̃ o nu.vo pa.ʁɑ̃/ (seht pay-RYOHD duh ruh-POH ray-mew-nay-RAY ah-kohr-DAY lay-gahl-MAHN oh noo-voh pah-RAHN)
    - *Examiner evaluation*: Fluent, precise sociological description. Flawless B2/C1 execution.
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -202,20 +202,20 @@ Read the 6 target words below. Imagine that under exam pressure your mind blanks
 
 Commit these 12 strategic spoken markers to memory:
 
-| French Marker | IPA Transcription | English Meaning | Conversational Role |
-| :--- | :--- | :--- | :--- |
-| **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ | *One cannot help but notice that...* | 2-second thinking bridge |
-| **À vrai dire...** | /a vʁe diʁ/ | *To tell the truth / honestly...* | Resetting tone |
-| **Pour ainsi dire...** | /puʁ ɛ̃.si diʁ/ | *So to speak...* | Nuancing a metaphor |
-| **Ou plutôt...** | /u ply.to/ | *Or rather...* | Minimal token self-repair |
-| **Plus exactement...** | /ply.z‿ɛɡ.zak.tə.mɑ̃/ | *More accurately...* | Polishing a definition |
-| **À bien y réfléchir...** | /a bjɛ̃.n‿i ʁe.fle.ʃiʁ/ | *Upon deeper reflection...* | Pivoting to a new angle |
-| **Dans cette perspective...** | /dɑ̃ sɛt pɛʁ.spɛk.tiv/ | *In this perspective...* | Seamlessly resuming floor |
-| **Il ne faut pas perdre de vue que...** | /il nə fo pa pɛʁdʁ də vy kə/ | *One must not lose sight of...* | Introducing counter-evidence |
-| **Autrement dit...** | /o.tʁə.mɑ̃ di/ | *In other words...* | Immediate paraphrasing |
-| **Ce que je cherche à exprimer, c'est...** | /sə kə ʒə ʃɛʁʃ a ɛks.pʁi.me s‿ɛ/ | *What I am trying to express is...* | Recovering from a syntax knot |
-| **Toute la nuance réside dans...** | /tut la nɥɑ̃s ʁe.zid dɑ̃/ | *The entire nuance lies in...* | Sophisticated stall formula |
-| **En d'autres termes...** | /ɑ̃ d‿otʁ tɛʁm/ | *In other terms...* | Clarifying an abstract point |
+| French Marker | IPA Transcription | Phonetic Respelling | English Meaning | Conversational Role |
+| :--- | :--- | :--- | :--- | :--- |
+| **Force est de constater que...** | /fɔʁs ɛ də kɔ̃s.ta.te kə/ | (fohrs eh duh kohns-tah-TAY kuh) | *One cannot help but notice that...* | 2-second thinking bridge |
+| **À vrai dire...** | /a vʁe diʁ/ | (ah vreh DEER) | *To tell the truth / honestly...* | Resetting tone |
+| **Pour ainsi dire...** | /puʁ ɛ̃.si diʁ/ | (poor ehn-see DEER) | *So to speak...* | Nuancing a metaphor |
+| **Ou plutôt...** | /u ply.to/ | (oo plew-TOH) | *Or rather...* | Minimal token self-repair |
+| **Plus exactement...** | /ply.z‿ɛɡ.zak.tə.mɑ̃/ | (plew-zehg-zahk-tuh-MAHN) | *More accurately...* | Polishing a definition |
+| **À bien y réfléchir...** | /a bjɛ̃.n‿i ʁe.fle.ʃiʁ/ | (ah byen-nee ray-flay-SHEER) | *Upon deeper reflection...* | Pivoting to a new angle |
+| **Dans cette perspective...** | /dɑ̃ sɛt pɛʁ.spɛk.tiv/ | (dahn seht pehr-spehk-TEEV) | *In this perspective...* | Seamlessly resuming floor |
+| **Il ne faut pas perdre de vue que...** | /il nə fo pa pɛʁdʁ də vy kə/ | (eel nuh foh pah pehr-druh duh VOO kuh) | *One must not lose sight of...* | Introducing counter-evidence |
+| **Autrement dit...** | /o.tʁə.mɑ̃ di/ | (oh-truh-mahn DEE) | *In other words...* | Immediate paraphrasing |
+| **Ce que je cherche à exprimer, c'est...** | /sə kə ʒə ʃɛʁʃ a ɛks.pʁi.me s‿ɛ/ | (suh kuh zhuh shehrsh ah ehk-spree-MAY, seh...) | *What I am trying to express is...* | Recovering from a syntax knot |
+| **Toute la nuance réside dans...** | /tut la nɥɑ̃s ʁe.zid dɑ̃/ | (toot lah nwahns ray-ZEED dahn...) | *The entire nuance lies in...* | Sophisticated stall formula |
+| **En d'autres termes...** | /ɑ̃ d‿otʁ tɛʁm/ | (ahn doh-truh TEHRM) | *In other terms...* | Clarifying an abstract point |
 
 ---
 
