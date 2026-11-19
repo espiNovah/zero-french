@@ -191,9 +191,9 @@ Both texts below are fictional practice texts written in the style of TCF Canada
 #### Québec vs France
 
 In Canadian editorial texts dealing with urban planning and transportation, watch for specific Canadian lexical conventions:
-- *le transport collectif*: Frequent in Québec institutional texts alongside *le transport en commun*. Both terms exist in France too, so this is a difference of frequency, not a Québec-only word.
-- *l'achalandage* **(QC)**: Refers to passenger volume, foot traffic, or ridership (*un achalandage accru aux heures de pointe* vs France *la fréquentation*).
-- *le navettage* **(QC)**: Daily suburban-urban commuting (*les déplacements pendulaires* in France).
+- *le transport collectif* — /lə tʁɑ̃s.pɔʁ kɔ.lɛk.tif/ (*luh trahns-pohr koh-lehk-TEEF*): Frequent in Québec institutional texts alongside *le transport en commun*. Both terms exist in France too, so this is a difference of frequency, not a Québec-only word.
+- *l'achalandage* **(QC)** — /l‿a.ʃa.lɑ̃.daʒ/ (*lah-shah-lahn-DAHZH*): Refers to passenger volume, foot traffic, or ridership (*un achalandage accru aux heures de pointe* vs France *la fréquentation*).
+- *le navettage* **(QC)** — /lə na.vɛ.taʒ/ (*luh nah-veh-TAHZH*): Daily suburban-urban commuting (*les déplacements pendulaires* in France).
 
 </div>
 
