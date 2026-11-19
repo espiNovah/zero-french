@@ -4,7 +4,7 @@ In the **Expression orale** section of the TCF Canada, you sit face to face with
 
 The official parameters of Task 1 (*entretien dirigé*) appear straightforward: a guided conversation of **two minutes, with no preparation**. The examiner may open by inviting you to introduce yourself, for example:
 > **« Bonjour, installez-vous. Pour commencer, pouvez-vous vous présenter, me parler de vous, de votre parcours et de vos centres d'intérêt ? »**  
-> — /bɔ̃.ʒuʁ ɛ̃s.ta.le vu. puʁ kɔ.mɑ̃.se pu.ve vu vu pʁe.zɑ̃.te mə paʁ.le də vu də vɔtʁ paʁ.kuʁ e də vo sɑ̃tʁ d‿ɛ̃.te.ʁɛ/  
+> — /bɔ̃.ʒuʁ ɛ̃s.ta.le vu. puʁ kɔ.mɑ̃.se pu.ve vu vu pʁe.zɑ̃.te mə paʁ.le də vu də vɔtʁ paʁ.kuʁ e də vo sɑ̃tʁ d‿ɛ̃.te.ʁɛ/ (bohn-ZHOOR, ehn-stah-lay VOO. poor koh-mahn-SAY, poo-vay-voo voo pray-zahn-TAY, muh pahr-LAY duh voo, duh voh-truh pahr-KOOR ay duh voh sahn-truh dehn-tay-REH ?)  
 > *Hello, please sit down. To begin, could you introduce yourself, tell me about yourself, your background, and your interests?*
 
 Untrained candidates fall into one of two crippling traps:
@@ -63,7 +63,7 @@ Notice how the same biographical facts can be expressed at an elementary A2 leve
 
 - **Advanced B2 Modular Profile**:
   > **« Je m'appelle Karim, j'ai 32 ans et je suis originaire de Tunis, où j'exerce en tant qu'ingénieur logiciel depuis près d'une décennie. Passionné par les systèmes distribués, j'ai eu l'opportunité de piloter plusieurs projets d'envergure internationale dans le secteur financier. Parallèlement à mes engagements professionnels, je consacre une grande partie de mon temps libre à l'encadrement bénévole de jeunes développeurs. Aujourd'hui, mon ambition est de m'établir au Canada afin de mettre mon expertise au service de l'écosystème technologique québécois. »**  
-  > — /ʒə m‿a.pɛl ka.ʁim ʒ‿e tʁɑ̃t.dø.z‿ɑ̃ e ʒə sɥi ɔ.ʁi.ʒi.nɛʁ də ty.nis u ʒ‿ɛɡ.zɛʁs ɑ̃ tɑ̃ k‿ɛ̃.ʒe.njœʁ lɔ.ʒi.sjɛl də.pɥi pʁɛ d‿yn de.se.ni/
+  > — /ʒə m‿a.pɛl ka.ʁim ʒ‿e tʁɑ̃t.dø.z‿ɑ̃ e ʒə sɥi ɔ.ʁi.ʒi.nɛʁ də ty.nis u ʒ‿ɛɡ.zɛʁs ɑ̃ tɑ̃ k‿ɛ̃.ʒe.njœʁ lɔ.ʒi.sjɛl də.pɥi pʁɛ d‿yn de.se.ni/ (zhuh mah-PEHL kah-REEM, zhay trahnt-duh-ZAHN ay zhuh sweez oh-ree-zhee-NEHR duh tew-NEES, oo zhehg-ZEHRS ahn tahn kehn-zhay-NYUHR loh-zhee-SYEHL duh-pwee preh dewn day-say-NEE)  
   > *Score impact*: Relative pronoun *où*, nominalization (*l'encadrement bénévole*), complex temporal marker (*depuis près d'une décennie*), professional purpose. A strong B2-level first impression.
 
 ---
@@ -110,30 +110,30 @@ The Four-Module Framework breaks your presentation into four autonomous 20- to 2
 #### Module 1: Identity & Specialization (20–25 Seconds)
 State your name, background, and professional identity with elegance:
 - **Formulas**:
-  - **« Je suis originaire de... et j'évolue actuellement dans le secteur de... »** — /ʒə sɥi ɔ.ʁi.ʒi.nɛʁ də e ʒ‿e.vɔ.ly ak.tɥɛl.mɑ̃ dɑ̃ lə sɛk.tœʁ də/ (*I am originally from... and I currently work in the field of...*)
-  - **« Titulaire d'un master en gestion de projets, j'occupe les fonctions de... »** — /ti.ty.lɛʁ d‿œ̃ mas.tœʁ ɑ̃ ʒɛs.tjɔ̃ də pʁɔ.ʒɛ ʒ‿ɔ.kyp le fɔ̃k.sjɔ̃ də/ (*Holding a master's in project management, I serve as...*)
-  - **« Depuis maintenant sept ans, je me spécialise dans... »** — /də.pɥi mɛ̃t.nɑ̃ sɛ.t‿ɑ̃ ʒə mə spe.sja.liz dɑ̃/ (*For seven years now, I have specialized in...*)
+  - **« Je suis originaire de... et j'évolue actuellement dans le secteur de... »** — /ʒə sɥi ɔ.ʁi.ʒi.nɛʁ də e ʒ‿e.vɔ.ly ak.tɥɛl.mɑ̃ dɑ̃ lə sɛk.tœʁ də/ (zhuh sweez oh-ree-zhee-NEHR duh... ay zhay-voh-LEW ahk-twehl-MAHN dahn luh sehk-TUHR duh...) (*I am originally from... and I currently work in the field of...*)
+  - **« Titulaire d'un master en gestion de projets, j'occupe les fonctions de... »** — /ti.ty.lɛʁ d‿œ̃ mas.tœʁ ɑ̃ ʒɛs.tjɔ̃ də pʁɔ.ʒɛ ʒ‿ɔ.kyp le fɔ̃k.sjɔ̃ də/ (tee-tew-LEHR duhn mahs-TEUR ahn zhehs-TYOHN duh proh-ZHEH, zhoh-KEWP lay fohnk-SYOHN duh...) (*Holding a master's in project management, I serve as...*)
+  - **« Depuis maintenant sept ans, je me spécialise dans... »** — /də.pɥi mɛ̃t.nɑ̃ sɛ.t‿ɑ̃ ʒə mə spe.sja.liz dɑ̃/ (duh-PWEE mehnt-NAHN seh-TAHN, zhuh muh spay-syah-LEEZ dahn...) (*For seven years now, I have specialized in...*)
 
 #### Module 2: Trajectory & Core Achievements (25–30 Seconds)
 Avoid listing every job you ever had. Highlight a single career accomplishment or pedagogical milestone using the *passé composé* balanced with the *imparfait*:
 - **Formulas**:
-  - **« Au cours de mon parcours, j'ai eu l'opportunité de superviser... »** — /o kuʁ də mɔ̃ paʁ.kuʁ ʒe y l‿ɔ.pɔʁ.ty.ni.te də sy.pɛʁ.vi.ze/ (*Over the course of my career, I had the opportunity to oversee...*)
-  - **« Ce qui me motive au quotidien, c'est de concevoir des solutions durables pour... »** — /sə ki mə mɔ.tiv o kɔ.ti.djɛ̃ s‿ɛ də kɔ̃s.vwaʁ de sɔ.ly.sjɔ̃ dy.ʁabl puʁ/ (*What motivates me daily is designing sustainable solutions for...*)
-  - **« Cette expérience m'a permis de développer une réelle agilité dans la gestion des imprévus. »** — /sɛt ɛks.pe.ʁjɑ̃s ma pɛʁ.mi də de.vlɔ.pe yn ʁe.ɛl a.ʒi.li.te dɑ̃ la ʒɛs.tjɔ̃ de.z‿ɛ̃.pʁe.vy/ (*This experience allowed me to develop real agility in managing unexpected issues.*)
+  - **« Au cours de mon parcours, j'ai eu l'opportunité de superviser... »** — /o kuʁ də mɔ̃ paʁ.kuʁ ʒe y l‿ɔ.pɔʁ.ty.ni.te də sy.pɛʁ.vi.ze/ (oh koor duh mohn pahr-KOOR, zhay ew loh-pohr-tew-nee-TAY duh sew-pehr-vee-ZAY...) (*Over the course of my career, I had the opportunity to oversee...*)
+  - **« Ce qui me motive au quotidien, c'est de concevoir des solutions durables pour... »** — /sə ki mə mɔ.tiv o kɔ.ti.djɛ̃ s‿ɛ də kɔ̃s.vwaʁ de sɔ.ly.sjɔ̃ dy.ʁabl puʁ/ (suh kee muh moh-TEEV oh koh-tee-DYEHN, seh duh kohns-VWAHR day soh-lew-SYOHN dew-RAH-bluh poor...) (*What motivates me daily is designing sustainable solutions for...*)
+  - **« Cette expérience m'a permis de développer une réelle agilité dans la gestion des imprévus. »** — /sɛt ɛks.pe.ʁjɑ̃s ma pɛʁ.mi də de.vlɔ.pe yn ʁe.ɛl a.ʒi.li.te dɑ̃ la ʒɛs.tjɔ̃ de.z‿ɛ̃.pʁe.vy/ (seht ehk-spay-RYAHNS mah pehr-MEE duh dayv-loh-PAY ewn ray-EHL ah-zhee-lee-TAY dahn lah zhehs-TYOHN day-zehn-pray-VEW.) (*This experience allowed me to develop real agility in managing unexpected issues.*)
 
 #### Module 3: Passions & Personal Balance (20–25 Seconds)
 Examiners want to see that you can speak about topics outside your resume. Choose a hobby that allows you to demonstrate active sensory and emotional vocabulary:
 - **Formulas**:
-  - **« En dehors de ma vie professionnelle, je suis un passionné de course à pied et d'activités en plein air. »** — /ɑ̃ də.ɔʁ də ma vi pʁɔ.fɛ.sjɔ.nɛl ʒə sɥi œ̃ pa.sjɔ.ne də kuʁs a pje e d‿ak.ti.vi.te ɑ̃ plɛ.n‿ɛʁ/ (*Outside my professional life, I am passionate about running and outdoor activities.*)
-  - **« Cette discipline sportive m'aide à canaliser mon énergie et à cultiver la persévérance. »** — /sɛt di.si.plin spɔʁ.tiv m‿ɛd a ka.na.li.ze mɔ̃n‿e.nɛʁ.ʒi e a kyl.ti.ve la pɛʁ.se.ve.ʁɑ̃s/ (*This athletic discipline helps me channel my energy and cultivate perseverance.*)
-  - **« Je m'investis également dans une association locale visant à... »** — /ʒə m‿ɛ̃.vɛs.ti e.ɡal.mɑ̃ dɑ̃.z‿yn a.sɔ.sja.sjɔ̃ lɔ.kal vi.zɑ̃ a/ (*I am also invested in a local association aimed at...*)
+  - **« En dehors de ma vie professionnelle, je suis un passionné de course à pied et d'activités en plein air. »** — /ɑ̃ də.ɔʁ də ma vi pʁɔ.fɛ.sjɔ.nɛl ʒə sɥi œ̃ pa.sjɔ.ne də kuʁs a pje e d‿ak.ti.vi.te ɑ̃ plɛ.n‿ɛʁ/ (ahn duh-OHR duh mah vee proh-feh-syoh-NEHL, zhuh sweez uhn pah-syoh-NAY duh koors ah PYEH ay dahk-tee-vee-TAY ahn plehn-EHR.) (*Outside my professional life, I am passionate about running and outdoor activities.*)
+  - **« Cette discipline sportive m'aide à canaliser mon énergie et à cultiver la persévérance. »** — /sɛt di.si.plin spɔʁ.tiv m‿ɛd a ka.na.li.ze mɔ̃n‿e.nɛʁ.ʒi e a kyl.ti.ve la pɛʁ.se.ve.ʁɑ̃s/ (seht dee-see-PLEEN spohr-TEEV mehd ah kah-nah-lee-ZAY mohn-nay-nehr-ZHEE ay ah kewl-tee-VAY lah pehr-say-vay-RAHNS.) (*This athletic discipline helps me channel my energy and cultivate perseverance.*)
+  - **« Je m'investis également dans une association locale visant à... »** — /ʒə m‿ɛ̃.vɛs.ti e.ɡal.mɑ̃ dɑ̃.z‿yn a.sɔ.sja.sjɔ̃ lɔ.kal vi.zɑ̃ a/ (zhuh mehn-vehs-TEE ay-gahl-MAHN dahn-zewn ah-soh-syah-SYOHN loh-KAHL vee-ZAHN ah...) (*I am also invested in a local association aimed at...*)
 
 #### Module 4: The Canadian Immigration Horizon (20–25 Seconds)
 Conclude by stating why you are taking the TCF Canada and how your profile fits into the Canadian fabric:
 - **Formulas**:
-  - **« Mon objectif aujourd'hui est de m'établir au Canada dans le cadre de mon projet d'immigration. »** — /mɔ̃n‿ɔb.ʒɛk.tif o.ʒuʁ.dɥi ɛ də m‿e.ta.bliʁ o ka.na.da dɑ̃ lə ka.dʁə də mɔ̃ pʁɔ.ʒɛ d‿i.mi.ɡʁa.sjɔ̃/ (*My goal today is to settle in Canada as part of my immigration project.*)
-  - **« Je suis particulièrement séduit par les valeurs d'inclusivité et le dynamisme économique du pays. »** — /ʒə sɥi paʁ.ti.ky.ljɛʁ.mɑ̃ se.dɥi paʁ le va.lœʁ d‿ɛ̃.kly.zi.vi.te e lə di.na.mism e.kɔ.nɔ.mik dy pe.i/ (*I am particularly drawn by the values of inclusivity and the economic dynamism of the country.*)
-  - **« Je souhaite ardemment participer à la vitalité des communautés francophones. »** — /ʒə swɛ.t‿aʁ.da.mɑ̃ paʁ.ti.si.pe a la vi.ta.li.te de kɔ.my.no.te fʁɑ̃.kɔ.fɔn/ (*I ardently wish to participate in the vitality of Francophone communities.*)
+  - **« Mon objectif aujourd'hui est de m'établir au Canada dans le cadre de mon projet d'immigration. »** — /mɔ̃n‿ɔb.ʒɛk.tif o.ʒuʁ.dɥi ɛ də m‿e.ta.bliʁ o ka.na.da dɑ̃ lə ka.dʁə də mɔ̃ pʁɔ.ʒɛ d‿i.mi.ɡʁa.sjɔ̃/ (moh-nohb-zhehk-TEEF oh-zhoor-DWEE eh duh may-tah-BLEER oh kah-nah-DAH dahn luh KAH-druh duh mohn proh-ZHEH dee-mee-grah-SYOHN.) (*My goal today is to settle in Canada as part of my immigration project.*)
+  - **« Je suis particulièrement séduit par les valeurs d'inclusivité et le dynamisme économique du pays. »** — /ʒə sɥi paʁ.ti.ky.ljɛʁ.mɑ̃ se.dɥi paʁ le va.lœʁ d‿ɛ̃.kly.zi.vi.te e lə di.na.mism e.kɔ.nɔ.mik dy pe.i/ (zhuh swee pahr-tee-kew-lyehr-MAHN say-DWEE pahr lay vah-LUHR dehn-klew-zee-vee-TAY ay luh dee-nah-MEEZ-muh ay-koh-noh-MEEK dew pay-EE.) (*I am particularly drawn by the values of inclusivity and the economic dynamism of the country.*)
+  - **« Je souhaite ardemment participer à la vitalité des communautés francophones. »** — /ʒə swɛ.t‿aʁ.da.mɑ̃ paʁ.ti.si.pe a la vi.ta.li.te de kɔ.my.no.te fʁɑ̃.kɔ.fɔn/ (zhuh sweh-tahr-dah-MAHN pahr-tee-see-PAY ah lah vee-tah-lee-TAY day koh-mew-noh-TAY frahn-koh-FOHN.) (*I ardently wish to participate in the vitality of Francophone communities.*)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -176,28 +176,28 @@ When the examiner asks a follow-up, it often falls into one of three broad categ
 - **Examiner**: *« Vous mentionnez le Canada... mais vous vivez dans un pays chaud. Comment pensez-vous vous adapter à l'hiver canadien ? »*
 - **High-Scoring Response Formula**:
   > **« C'est une question tout à fait légitime. Bien que le climat représente indéniablement un choc thermique au départ, j'estime que c'est avant tout une question d'anticipation et d'équipement adéquat. D'ailleurs, j'ai hâte de découvrir les sports d'hiver comme le patinage ou la raquette, qui font partie intégrante de la culture québécoise. »**  
-  > — /s‿ɛt‿yn kɛs.tjɔ̃ tu.t‿a fɛ le.ʒi.tim. bjɛ̃ kə lə kli.ma ʁə.pʁe.zɑ̃t ɛ̃.de.nja.blə.mɑ̃ œ̃ ʃɔk tɛʁ.mik o de.paʁ/
+  > — /s‿ɛt‿yn kɛs.tjɔ̃ tu.t‿a fɛ le.ʒi.tim. bjɛ̃ kə lə kli.ma ʁə.pʁe.zɑ̃t ɛ̃.de.nja.blə.mɑ̃ œ̃ ʃɔk tɛʁ.mik o de.paʁ/ (seh-tewn kehs-TYOHN too-tah FEH lay-zhee-TEEM. byen kuh luh klee-MAH ruh-pray-ZAHNT ehn-day-nyah-bluh-MAHN uhn shohk tehr-MEEK oh day-PAHR)
 
 #### Category 2: The Career Anecdote
 - **Examiner**: *« Vous travaillez dans la finance. Pouvez-vous me parler d'un défi récent auquel vous avez fait face ? »*
 - **High-Scoring Response Formula**:
   > **« Tout à fait. L'année dernière, nous avons dû déployer un nouveau logiciel comptable dans un délai très serré de trois mois. Face à la réticence initiale de certains collaborateurs, j'ai organisé des ateliers hebdomadaires de formation personnalisée. Cette approche collaborative nous a permis de respecter l'échéance sans la moindre interruption de service. »**  
-  > — /tu.t‿a fɛ. l‿a.ne dɛʁ.njɛʁ nu.z‿a.vɔ̃ dy de.plwa.je œ̃ nu.vo lɔ.ʒi.sjɛl kɔ̃p.tabl/
+  > — /tu.t‿a fɛ. l‿a.ne dɛʁ.njɛʁ nu.z‿a.vɔ̃ dy de.plwa.je œ̃ nu.vo lɔ.ʒi.sjɛl kɔ̃p.tabl/ (too-tah FEH. lah-nay dehr-NYEHR noo-zah-VOHN dew day-plwah-YAY uhn noo-VOH loh-zhee-SYEHL kohnp-TAH-bluh)
 
 #### Category 3: The Country Comparison
 - **Examiner**: *« Pourquoi immigrer au Canada et non pas en France ou en Belgique ? »*
 - **High-Scoring Response Formula**:
   > **« Mon choix s'est naturellement porté sur le Canada pour deux raisons fondamentales. D'une part, le modèle d'immigration économique valorise pleinement la double compétence linguistique anglais-français, ce qui correspond parfaitement à mon profil. D'autre part, la culture d'entreprise nord-américaine offre une méritocratie et des opportunités d'évolution rapide que je trouve particulièrement stimulantes. »**  
-  > — /mɔ̃ ʃwa s‿ɛ na.ty.ʁɛl.mɑ̃ pɔʁ.te syʁ lə ka.na.da puʁ dø ʁɛ.zɔ̃ fɔ̃.da.mɑ̃.tal/
+  > — /mɔ̃ ʃwa s‿ɛ na.ty.ʁɛl.mɑ̃ pɔʁ.te syʁ lə ka.na.da puʁ dø ʁɛ.zɔ̃ fɔ̃.da.mɑ̃.tal/ (mohn shwah seh nah-tew-rehl-MAHN pohr-TAY sewr luh kah-nah-DAH poor duh ray-ZOHN fohn-dah-mahn-TAHL)
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
 #### Tactical Fillers that Buy 3 Seconds of Thinking Time
 
 If you are caught off guard by an examiner's question, **never say « Euh... »**. Deploy one of these high-register conversational bridge formulas to gather your thoughts:
-- **« C'est un aspect très pertinent que vous soulevez là... »** — /s‿ɛt‿œ̃n‿as.pɛ tʁɛ pɛʁ.ti.nɑ̃ kə vu su.lə.ve la/ (*That is a very relevant aspect you raise there...*)
-- **« Pour être tout à fait honnête avec vous... »** — /puʁ ɛtʁ tu.t‿a fɛt‿ɔ.nɛt a.vɛk vu/ (*To be completely honest with you...*)
-- **« Si je devais isoler un facteur déterminant, je dirais que... »** — /si ʒə də.vɛ.z‿i.zɔ.le œ̃ fak.tœʁ de.tɛʁ.mi.nɑ̃ ʒə di.ʁɛ kə/ (*If I had to isolate a determining factor, I would say that...*)
+- **« C'est un aspect très pertinent que vous soulevez là... »** — /s‿ɛt‿œ̃n‿as.pɛ tʁɛ pɛʁ.ti.nɑ̃ kə vu su.lə.ve la/ (seh-tuhn-nahs-PEH treh pehr-tee-NAHN kuh voo soo-luh-VAY LAH...) (*That is a very relevant aspect you raise there...*)
+- **« Pour être tout à fait honnête avec vous... »** — /puʁ ɛtʁ tu.t‿a fɛt‿ɔ.nɛt a.vɛk vu/ (poor EH-truh too-tah feh-toh-NEHT ah-VEHK VOO...) (*To be completely honest with you...*)
+- **« Si je devais isoler un facteur déterminant, je dirais que... »** — /si ʒə də.vɛ.z‿i.zɔ.le œ̃ fak.tœʁ de.tɛʁ.mi.nɑ̃ ʒə di.ʁɛ kə/ (see zhuh duh-veh-zee-zoh-LAY uhn fahk-TUHR day-tehr-mee-NAHN, zhuh dee-REH kuh...) (*If I had to isolate a determining factor, I would say that...*)
 
 </div>
 
@@ -238,20 +238,20 @@ Record your voice note covering:
 
 Commit these 12 formal self-presentation units to memory:
 
-| French Formula | IPA Transcription | English Translation | Syntactic Use |
-| :--- | :--- | :--- | :--- |
-| **Évoluer dans le secteur de...** | /e.vɔ.ly.e dɑ̃ lə sɛk.tœʁ də/ | *To work/grow in the field of...* | Followed by noun field |
-| **Occuper les fonctions de...** | /ɔ.ky.pe le fɔ̃k.sjɔ̃ də/ | *To hold the position of...* | High-register alternative to *être* |
-| **Être titulaire d'un diplôme** | /ɛtʁ ti.ty.lɛʁ d‿œ̃ di.plom/ | *To hold a degree* | Academic background |
-| **Mener à bien un projet** | /mə.ne a bjɛ̃ œ̃ pʁɔ.ʒɛ/ | *To bring a project to fruition* | Career achievement marker |
-| **Faire preuve d'adaptabilité** | /fɛʁ pʁœv d‿a.dap.ta.bi.li.te/ | *To demonstrate adaptability* | Soft skill assertion |
-| **Accorder une grande valeur à...** | /a.kɔʁ.de yn ɡʁɑ̃d va.lœʁ a/ | *To place great value on...* | Introducing personal ethics |
-| **Canaliser son énergie** | /ka.na.li.ze sɔ̃n‿e.nɛʁ.ʒi/ | *To channel one's energy* | Explaining sports/hobbies |
-| **Un cadre de vie stimulant** | /œ̃ ka.dʁə də vi sti.my.lɑ̃/ | *A stimulating living environment* | Immigration motivation |
-| **Contribuer à l'essor de...** | /kɔ̃.tʁi.bɥe a l‿e.sɔʁ də/ | *To contribute to the rise of...* | Canadian economic integration |
-| **Un défi des plus formateurs** | /œ̃ de.fi de ply fɔʁ.ma.tœʁ/ | *A most enriching/educational challenge* | Describing past hardship |
-| **Être séduit par les valeurs de...** | /ɛtʁ se.dɥi paʁ le va.lœʁ də/ | *To be captivated by the values of...* | Explaining cultural draw |
-| **S'investir pleinement** | /s‿ɛ̃.vɛs.tiʁ plɛn.mɑ̃/ | *To invest oneself fully* | Concluding commitment |
+| French Formula | IPA Transcription | Phonetic Respelling | English Translation | Syntactic Use |
+| :--- | :--- | :--- | :--- | :--- |
+| **Évoluer dans le secteur de...** | /e.vɔ.ly.e dɑ̃ lə sɛk.tœʁ də/ | (ay-voh-LEW-ay dahn luh sehk-TUHR duh) | *To work/grow in the field of...* | Followed by noun field |
+| **Occuper les fonctions de...** | /ɔ.ky.pe le fɔ̃k.sjɔ̃ də/ | (oh-kew-PAY lay fohnk-SYOHN duh) | *To hold the position of...* | High-register alternative to *être* |
+| **Être titulaire d'un diplôme** | /ɛtʁ ti.ty.lɛʁ d‿œ̃ di.plom/ | (EH-truh tee-tew-LEHR duhn dee-PLOHM) | *To hold a degree* | Academic background |
+| **Mener à bien un projet** | /mə.ne a bjɛ̃ œ̃ pʁɔ.ʒɛ/ | (muh-NAY ah BYEHN uhn proh-ZHEH) | *To bring a project to fruition* | Career achievement marker |
+| **Faire preuve d'adaptabilité** | /fɛʁ pʁœv d‿a.dap.ta.bi.li.te/ | (fehr pruhv dah-dahp-tah-bee-lee-TAY) | *To demonstrate adaptability* | Soft skill assertion |
+| **Accorder une grande valeur à...** | /a.kɔʁ.de yn ɡʁɑ̃d va.lœʁ a/ | (ah-kohr-DAY ewn grahnd vah-LUHR ah) | *To place great value on...* | Introducing personal ethics |
+| **Canaliser son énergie** | /ka.na.li.ze sɔ̃n‿e.nɛʁ.ʒi/ | (kah-nah-lee-ZAY soh-nay-nehr-ZHEE) | *To channel one's energy* | Explaining sports/hobbies |
+| **Un cadre de vie stimulant** | /œ̃ ka.dʁə də vi sti.my.lɑ̃/ | (uhn KAH-druh duh vee stee-mew-LAHN) | *A stimulating living environment* | Immigration motivation |
+| **Contribuer à l'essor de...** | /kɔ̃.tʁi.bɥe a l‿e.sɔʁ də/ | (kohn-tree-BWEH ah leh-SOHR duh) | *To contribute to the rise of...* | Canadian economic integration |
+| **Un défi des plus formateurs** | /œ̃ de.fi de ply fɔʁ.ma.tœʁ/ | (uhn day-FEE day plew fohr-mah-TUHR) | *A most enriching/educational challenge* | Describing past hardship |
+| **Être séduit par les valeurs de...** | /ɛtʁ se.dɥi paʁ le va.lœʁ də/ | (EH-truh say-DWEE pahr lay vah-LUHR duh) | *To be captivated by the values of...* | Explaining cultural draw |
+| **S'investir pleinement** | /s‿ɛ̃.vɛs.tiʁ plɛn.mɑ̃/ | (sehn-vehs-TEER plehn-MAHN) | *To invest oneself fully* | Concluding commitment |
 
 ---
 
