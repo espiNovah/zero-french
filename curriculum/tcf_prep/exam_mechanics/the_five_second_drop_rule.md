@@ -139,7 +139,8 @@ To instantly reboot your nervous system at the computer desk:
 
 In Canadian test centers (in Montreal, Quebec City, or Toronto), the computer lab acoustic environments vary:
 - Some centers provide over-ear noise-cancelling headsets; others provide standard lightweight office headphones.
-- In street interview recordings (*micro-trottoirs*), you will hear Canadian urban background noise (Montreal traffic, snowplows, café murmur).
+- In street interview recordings (*micro-trottoirs* — /mi.kʁo tʁɔ.twaʁ/ (*mee-kroh-troh-TWAHR*)), you will hear Canadian urban background noise (Montreal traffic, snowplows, café murmur).
+- Spoken markers to anticipate include *nids-de-poule* — /ni d‿pul/ (*nee dpool* — potholes), *pis* — /pi/ (*pee* — and then), and *pas une cenne* — /pɑ yn sɛn/ (*pah ewn SEHN* — not a penny).
 - Expecting acoustic imperfection prevents sensory surprise. Treat ambient noise as an authentic part of the Canadian linguistic landscape, not as a technical flaw!
 
 </div>
