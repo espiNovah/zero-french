@@ -52,16 +52,16 @@ STRUCTURE OF A BROADCAST ─┼─── 3. L'Entretien d'Approfondissement : Pr
 
 To follow Canadian broadcast analysis fluidly, you must master the specialized institutional vocabulary used daily on *Midi info* and *Radio-Canada*:
 
-| Canadian French Term | IPA Transcription | Meaning | Contextual Example |
-| :--- | :--- | :--- | :--- |
-| **un palier de gouvernement** | /œ̃ pa.lje də gu.vɛʁ.nə.mɑ̃/ | level of government (federal/provincial/municipal) | *Les trois paliers de gouvernement doivent coordonner leurs investissements dans le logement.* |
-| **une société d'État** | /yn sɔ.sje.te d‿e.ta/ | Crown corporation / state-owned enterprise | *Hydro-Québec et Loto-Québec sont des sociétés d'État majeures.* |
-| **un projet de loi** | /œ̃ pʁɔ.ʒɛ də lwa/ | legislative bill | *Le ministre a déposé un projet de loi visant à encadrer l'intelligence artificielle.* |
-| **la consultation publique** | /la kɔ̃.syl.ta.sjɔ̃ py.blik/ | public hearings / community consultation | *Des consultations publiques se tiendront dans les arrondissements pour entendre les citoyens.* |
-| **le diffuseur public** | /lə di.fy.zœʁ py.blik/ | public broadcaster | *Radio-Canada remplit une mission éducative essentielle en tant que diffuseur public national.* |
-| **la péréquation** | /la pe.ʁe.kwa.sjɔ̃/ | equalization payments | *Le système fédéral de péréquation redistribue les richesses pour garantir des services publics équitables.* |
-| **le député / la députée** | /lə de.py.te / la de.py.te/ | member of parliament / member of the National Assembly | *Les députés débattent en commission parlementaire sur les crédits budgétaires.* |
-| **le tissu économique** | /lə ti.sy e.kɔ.nɔ.mik/ | economic fabric / business community | *La fermeture de cette usine fragilise l'ensemble du tissu économique régional.* |
+| Canadian French Term | IPA Transcription | Phonetic Respelling | Meaning | Contextual Example |
+| :--- | :--- | :--- | :--- | :--- |
+| **un palier de gouvernement** | /œ̃ pa.lje də gu.vɛʁ.nə.mɑ̃/ | (uhn pah-lyay duh goo-vehr-nuh-MAHN) | level of government (federal/provincial/municipal) | *Les trois paliers de gouvernement doivent coordonner leurs investissements dans le logement.* |
+| **une société d'État** | /yn sɔ.sje.te d‿e.ta/ | (ewn soh-syay-tay day-TAH) | Crown corporation / state-owned enterprise | *Hydro-Québec et Loto-Québec sont des sociétés d'État majeures.* |
+| **un projet de loi** | /œ̃ pʁɔ.ʒɛ də lwa/ | (uhn proh-zheh duh LWAH) | legislative bill | *Le ministre a déposé un projet de loi visant à encadrer l'intelligence artificielle.* |
+| **la consultation publique** | /la kɔ̃.syl.ta.sjɔ̃ py.blik/ | (lah kohn-sewl-tah-syohn pew-BLEEK) | public hearings / community consultation | *Des consultations publiques se tiendront dans les arrondissements pour entendre les citoyens.* |
+| **le diffuseur public** | /lə di.fy.zœʁ py.blik/ | (luh dee-few-ZUHR pew-BLEEK) | public broadcaster | *Radio-Canada remplit une mission éducative essentielle en tant que diffuseur public national.* |
+| **la péréquation** | /la pe.ʁe.kwa.sjɔ̃/ | (lah pay-ray-kwah-SYOHN) | equalization payments | *Le système fédéral de péréquation redistribue les richesses pour garantir des services publics équitables.* |
+| **le député / la députée** | /lə de.py.te / la de.py.te/ | (luh day-pew-TAY / lah day-pew-TAY) | member of parliament / member of the National Assembly | *Les députés débattent en commission parlementaire sur les crédits budgétaires.* |
+| **le tissu économique** | /lə ti.sy e.kɔ.nɔ.mik/ | (luh tee-sew ay-koh-noh-MEEK) | economic fabric / business community | *La fermeture de cette usine fragilise l'ensemble du tissu économique régional.* |
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -78,15 +78,15 @@ In France, public debate terminology often refers to *les collectivités territo
 When listening to a 4-minute interview, trying to memorize every word causes cognitive exhaustion. Instead, use **thematic pivot markers** to segment the audio into mental chapters:
 
 #### 1. Transitioning to New Angles
-* **« Tournons-nous maintenant vers... »** (/tuʁ.nɔ̃ nu mɛ̃t.nɑ̃ vɛʁ/) — *Let us now turn to...*: Signals a shift from cause to consequence or to an international comparison.
-* **« Venons-en à la question cruciale de... »** (/və.nɔ̃.z‿ɑ̃ a la kɛs.tjɔ̃ kʁy.sjal də/) — *Let us come to the crucial question of...*: Announces the central thesis of the interview.
-* **« Au-delà des chiffres, sur le terrain... »** (/o.d(ə).la de ʃifʁ, syʁ lə tɛ.ʁɛ̃/) — *Beyond the figures, on the ground...*: Shifts from theoretical statistics to concrete human impacts.
+* **« Tournons-nous maintenant vers... »** (/tuʁ.nɔ̃ nu mɛ̃t.nɑ̃ vɛʁ/ — *toor-nohn-noo mehnt-nahn VEHR*) — *Let us now turn to...*: Signals a shift from cause to consequence or to an international comparison.
+* **« Venons-en à la question cruciale de... »** (/və.nɔ̃.z‿ɑ̃ a la kɛs.tjɔ̃ kʁy.sjal də/ — *vuh-nohn-zahn ah lah kehs-tyohn krew-SYAHL duh*) — *Let us come to the crucial question of...*: Announces the central thesis of the interview.
+* **« Au-delà des chiffres, sur le terrain... »** (/o.d(ə).la de ʃifʁ, syʁ lə tɛ.ʁɛ̃/ — *oh-duh-lah day SHEE-fruh, sewr luh teh-REHN*) — *Beyond the figures, on the ground...*: Shifts from theoretical statistics to concrete human impacts.
 
 #### 2. Host Skepticism and Socratic Pushback
 Journalists on *Midi info* rarely agree passively with their guests. They test hypotheses using calibrated challenge markers:
-* **« Vous dites cela, mais n'est-il pas vrai que... »** (/vu dit s(ə).la, mɛ n‿ɛ.t‿il pa vʁɛ kə/): Directly confronts the guest with conflicting evidence.
-* **« N'y a-t-il pas là une certaine contradiction ? »** (/n‿j‿a.t‿il pa la yn sɛʁ.tɛn kɔ̃.tʁa.dik.sjɔ̃/): Asks the guest to resolve an apparent paradox.
-* **« D'aucuns pourraient objecter que... »** (/d‿o.kœ̃ pu.ʁɛ t‿ɔb.ʒɛk.te kə/): Quotes external critics to force the guest to defend their stance.
+* **« Vous dites cela, mais n'est-il pas vrai que... »** (/vu dit s(ə).la, mɛ n‿ɛ.t‿il pa vʁɛ kə/ — *voo deet suh-LAH, meh neh-teel pah vreh KUH*): Directly confronts the guest with conflicting evidence.
+* **« N'y a-t-il pas là une certaine contradiction ? »** (/n‿j‿a.t‿il pa la yn sɛʁ.tɛn kɔ̃.tʁa.dik.sjɔ̃/ — *nyah-teel pah lah ewn sehr-tehn kohn-trah-deek-SYOHN*): Asks the guest to resolve an apparent paradox.
+* **« D'aucuns pourraient objecter que... »** (/d‿o.kœ̃ pu.ʁɛ t‿ɔb.ʒɛk.te kə/ — *doh-kuhn poor-eht-ohb-zhehk-TAY kuh*): Quotes external critics to force the guest to defend their stance.
 
 ---
 
@@ -106,10 +106,10 @@ BROADCAST PHONETIC SHIFTS ──┼─── Diphthongization of long /ɛː/ in 
 ```
 
 #### Recognizing Affrication in Formal Political Vocabulary
-* **la constitution** → pronounced **[la kɔ̃s.tsi.tsy.sjɔ̃]** (affrication on *-ti-* and *-tu-*).
-* **la politique** → pronounced **[la pɔ.li.tsɪk]** (affrication on *-ti-*).
-* **l'actualité** → pronounced **[l‿ak.tsɥa.li.te]** (affrication on *-tu-* before /ɥ/; *-té* stays [te]).
-* **un produit** → pronounced **[œ̃ pʁɔ.dzɥi]** (affrication of /d/ before /ɥ/).
+* **la constitution** → pronounced **[la kɔ̃s.tsi.tsy.sjɔ̃]** (*lah kohns-tsee-tsew-SYOHN*) (affrication on *-ti-* and *-tu-*).
+* **la politique** → pronounced **[la pɔ.li.tsɪk]** (*lah poh-lee-TSEEK*) (affrication on *-ti-*).
+* **l'actualité** → pronounced **[l‿ak.tsɥa.li.te]** (*lahk-tswah-lee-TAY*) (affrication on *-tu-* before /ɥ/; *-té* stays [te]).
+* **un produit** → pronounced **[œ̃ pʁɔ.dzɥi]** (*uhn proh-DZWWEE*) (affrication of /d/ before /ɥ/).
 
 Words like *député*, *déficitaire* or *équipe* are **not** affricated: their /t/ and /d/ are followed by /e/, not by /i, y, j, ɥ/.
 
@@ -173,10 +173,10 @@ Test your macro-listening inference and Canadian institutional lexicon mastery.
 #### Drill 1: Canadian Institutional Lexicon Matching
 Match the political/civic term on the left with its operational definition on the right:
 
-1. **La société d'État**
-2. **Le palier municipal**
-3. **La commission parlementaire**
-4. **La consultation publique**
+1. **La société d'État** — /la sɔ.sje.te d‿e.ta/ (*lah soh-syay-tay day-TAH*)
+2. **Le palier municipal** — /lə pa.lje my.ni.si.pal/ (*luh pah-lyay mew-nee-see-PAHL*)
+3. **La commission parlementaire** — /la kɔ.mi.sjɔ̃ paʁ.lə.mɑ̃.tɛʁ/ (*lah koh-mee-syohn pahr-luh-mahn-TEHR*)
+4. **La consultation publique** — /la kɔ̃.syl.ta.sjɔ̃ py.blik/ (*lah kohn-sewl-tah-syohn pew-BLEEK*)
 
 * **A**: Groupe d'élus chargé d'examiner en détail les projets de loi et d'entendre les experts.
 * **B**: Entité commerciale appartenant au gouvernement et gérant un bien ou un service public.
