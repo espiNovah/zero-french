@@ -41,27 +41,27 @@ SPOKEN PHONETIC REDUCTIONS ─┼─── Negative Particle Deletion : "je croi
 
 #### 1. The Disappearance of Unstable /ə/ and Consonant Assimilation
 When the neutral vowel **/ə/** (spelled *e*) drops in common pronoun clusters, adjacent consonants assimilate to share voicing features:
-* **je sais** (/ʒə sɛ/) undergoes /ə/ deletion to /ʒsɛ/. Because /s/ is voiceless, the voiced fricative /ʒ/ assimilates into its voiceless pair **/ʃ/**:  
-  * Pronounced: **[ʃɛ]** (*« Ch'sais bien »*).
-* **je ne sais pas** (/ʒən sɛ pa/) drops the negative particle *ne* and the vowel /ə/:  
-  * Pronounced: **[ʃɛ.pa]** (*« Ch'sais pas »*).
-* **je suis** (/ʒə sɥi/) undergoes identical assimilation:  
-  * Pronounced: **[ʃɥi]** (*« Ch'suis fatigué »*).
+* **je sais** (/ʒə sɛ/ — *zhuh SEH*) undergoes /ə/ deletion to /ʒsɛ/. Because /s/ is voiceless, the voiced fricative /ʒ/ assimilates into its voiceless pair **/ʃ/**:  
+  * Pronounced: **[ʃɛ]** (*SHEH*) (*« Ch'sais bien »*).
+* **je ne sais pas** (/ʒən sɛ pa/ — *zhuhn seh PAH*) drops the negative particle *ne* and the vowel /ə/:  
+  * Pronounced: **[ʃɛ.pa]** (*sheh-PAH*) (*« Ch'sais pas »*).
+* **je suis** (/ʒə sɥi/ — *zhuh SWEE*) undergoes identical assimilation:  
+  * Pronounced: **[ʃɥi]** (*SHWEE*) (*« Ch'suis fatigué »*).
 
 #### 2. Pronoun Contractions and Consonant Drops
 * **il / ils** drop the liquid /l/ before a consonant:  
-  * *Il part à huit heures* → **[i.paʁ a ɥi.t‿œʁ]** (*« Y part à huit heures »*).  
-  * *Qu'est-ce qu'ils disent ?* → **[kɛs.k‿i diz]** (*« Qu'est-ce qu'y disent ? »*).
+  * *Il part à huit heures* → **[i.paʁ a ɥi.t‿œʁ]** (*ee pahr ah weet-UHR*) (*« Y part à huit heures »*).  
+  * *Qu'est-ce qu'ils disent ?* → **[kɛs.k‿i diz]** (*kehs-kee DEEZ*) (*« Qu'est-ce qu'y disent ? »*).
 * **elle / elles** contract to /a/ or /al/ in informal contexts:  
-  * *Elle a dit qu'elle venait* → **[a dzi k‿al və.nɛ]** (*« A dit qu'a venait »*).
+  * *Elle a dit qu'elle venait* → **[a dzi k‿al və.nɛ]** (*ah dzee kahl vuh-NEH*) (*« A dit qu'a venait »*).
 * **il y a** compresses into a single monosyllabic glide:  
-  * *Il y a beaucoup de monde* → **[ja bo.ku d‿mɔ̃d]** (*« Y a beaucoup d'monde »*).
+  * *Il y a beaucoup de monde* → **[ja bo.ku d‿mɔ̃d]** (*yah boh-koo dmohnd*) (*« Y a beaucoup d'monde »*).
 
 #### 3. Dropping Final Liquids (/l/ and /ʁ/)
 In informal and rapid speech, word-final consonant clusters ending in **/l/** or **/ʁ/** (such as *-ble, -tre, -bre, -vre*) drop the final liquid before a following consonant:
-* **notre projet** (/nɔtʁ pʁɔ.ʒɛ/) → **[nɔt pʁɔ.ʒɛ]** (*« not' projet »*).
-* **une table ronde** (/yn tabl ʁɔ̃d/) → **[yn tab ʁɔ̃d]** (*« une tab' ronde »*).
-* **pauvre gars** (/povʁ ga/) → **[pov ga]** (*« pauv' gars »*).
+* **notre projet** (/nɔtʁ pʁɔ.ʒɛ/ — *noh-truh proh-ZHEH*) → **[nɔt pʁɔ.ʒɛ]** (*noht proh-ZHEH*) (*« not' projet »*).
+* **une table ronde** (/yn tabl ʁɔ̃d/ — *ewn TAH-bluh rohnd*) → **[yn tab ʁɔ̃d]** (*ewn tahb ROHND*) (*« une tab' ronde »*).
+* **pauvre gars** (/povʁ ga/ — *poh-vruh GAH*) → **[pov ga]** (*pohv GAH*) (*« pauv' gars »*).
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -77,14 +77,14 @@ In spoken European French, the negative *ne* is dropped almost universally (*« 
 
 In unscripted discussions on **Radio-Canada**, **RFI**, or France Inter, speakers manage the conversational flow using verbal markers called **les marqueurs discursifs** (*discourse particles*). These markers indicate hesitation, agreement, contradiction, or thematic pivots:
 
-| Conversational Marker | IPA Transcription | Communicative Function | Contextual Meaning |
-| :--- | :--- | :--- | :--- |
-| **en fait** | /ɑ̃ fɛt/ | Rectification / Contradiction | *Actually / In reality (corrects previous statement)* |
-| **cela dit / ceci dit** | /s(ə).la di/ | Pivot / Nuanced concession | *Having said that / Mind you (pivots to contrast)* |
-| **n'empêche que** | /n‿ɑ̃.pɛʃ kə/ | Resolute objection | *Still / Nonetheless (maintains point despite objection)* |
-| **tout de même** | /tu d‿mɛm/ | Mild protest or surprise | *All the same / Even so* |
-| **disons que** | /di.zɔ̃ kə/ | Hesitant approximation | *Let's say that / Put it this way* |
-| **figurez-vous que** | /fi.gy.ʁe vu kə/ | Introducing surprising fact | *Would you believe that / Imagine that* |
+| Conversational Marker | IPA Transcription | Phonetic Respelling | Communicative Function | Contextual Meaning |
+| :--- | :--- | :--- | :--- | :--- |
+| **en fait** | /ɑ̃ fɛt/ | (ahn FEHT) | Rectification / Contradiction | *Actually / In reality (corrects previous statement)* |
+| **cela dit / ceci dit** | /s(ə).la di/ | (suh-lah DEE / suh-see DEE) | Pivot / Nuanced concession | *Having said that / Mind you (pivots to contrast)* |
+| **n'empêche que** | /n‿ɑ̃.pɛʃ kə/ | (nahn-pehsh KUH) | Resolute objection | *Still / Nonetheless (maintains point despite objection)* |
+| **tout de même** | /tu d‿mɛm/ | (too dmehm) | Mild protest or surprise | *All the same / Even so* |
+| **disons que** | /di.zɔ̃ kə/ | (dee-zohn KUH) | Hesitant approximation | *Let's say that / Put it this way* |
+| **figurez-vous que** | /fi.gy.ʁe vu kə/ | (fee-gew-ray-VOO kuh) | Introducing surprising fact | *Would you believe that / Imagine that* |
 
 #### Analyzing Rapid Turn-Taking Dynamics
 In multi-speaker listening items, you must determine whether Speaker B agrees, partially concedes, or outright refutes Speaker A. Listen for the **conversational pivot words**:
@@ -160,18 +160,18 @@ Test your ability to decode rapid phonetic reductions and conversational markers
 #### Drill 1: Transcribing Phonetic Reductions into Standard Written French
 Restore each phonetically reduced oral phrase into standard written French:
 
-1. *[ʃɛ.pa s‿i va və.niʁ]*
-2. *[ja ply d‿plas dɑ̃ lə sta.sjɔn.mɑ̃]*
-3. *[ʃɥi a.le ma.ga.zi.ne a.vɛk ma blɔ̃d]*
-4. *[fo pa k‿i kʁwa k‿a va a.sɛp.te]*
+1. *[ʃɛ.pa s‿i va və.niʁ]* (*sheh-pah see vah vuh-NEER*)
+2. *[ja ply d‿plas dɑ̃ lə sta.sjɔn.mɑ̃]* (*yah plew dplahs dahn luh stah-syohn-MAHN*)
+3. *[ʃɥi a.le ma.ga.zi.ne a.vɛk ma blɔ̃d]* (*shwee ah-lay mah-gah-zee-NAY ah-vehk mah BLOHND*)
+4. *[fo pa k‿i kʁwa k‿a va a.sɛp.te]* (*foh pah kee krwah kah vah ahk-sehp-TAY*)
 
 <details>
 <summary>View Drill 1 Solutions</summary>
 
-1. **Je ne sais pas s'il va venir.**
-2. **Il n'y a plus de place dans le stationnement.**
-3. **Je suis allé magasiner avec ma blonde.**
-4. **Il ne faut pas qu'il croie qu'elle va accepter.**
+1. **Je ne sais pas s'il va venir.** — /ʒən sɛ pa s‿il va və.niʁ/ (*zhuhn seh pah seel vah vuh-NEER*)
+2. **Il n'y a plus de place dans le stationnement.** — /il n‿j‿a ply də plas dɑ̃ lə sta.sjɔn.mɑ̃/ (*eel nyah plew duh plahs dahn luh stah-syohn-MAHN*)
+3. **Je suis allé magasiner avec ma blonde.** — /ʒə sɥi.z‿a.le ma.ga.zi.ne a.vɛk ma blɔ̃d/ (*zhuh swee-zah-LAY mah-gah-zee-NAY ah-vehk mah BLOHND*)
+4. **Il ne faut pas qu'il croie qu'elle va accepter.** — /il nə fo pa k‿il kʁwa k‿ɛl va ak.sɛp.te/ (*eel nuh foh pah keel krwah kehl vah ahk-sehp-TAY*)
 </details>
 
 #### Drill 2: Interpreting Conversational Stance
