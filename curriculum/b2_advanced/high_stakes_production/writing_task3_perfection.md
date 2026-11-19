@@ -184,9 +184,9 @@ In the 60-minute writing session, Task 3 requires exactly **28 minutes**:
 #### Québec vs France
 
 In Canadian public policy and civic discourse, Writing Task 3 frequently addresses themes grounded in North American realities:
-- *la densification urbaine*: High-density development in transit corridors versus low-density zoning.
-- *la conciliation travail-famille* **(QC)**: The standard institutional term in Québec for work-life balance (*l'équilibre vie privée-vie professionnelle* in France).
-- *la transition juste*: Ensuring ecological policies do not unfairly penalize resource-dependent or vulnerable communities.
+- *la densification urbaine* — /la dɑ̃.si.fi.ka.sjɔ̃ yʁ.bɛn/ (*lah dahn-see-fee-kah-syohn ewr-BEHN*): High-density development in transit corridors versus low-density zoning.
+- *la conciliation travail-famille* **(QC)** — /la kɔ̃.si.lja.sjɔ̃ tʁa.vaj fa.mij/ (*lah kohn-see-lyah-syohn trah-vye fah-MEE-yuh*): The standard institutional term in Québec for work-life balance (*l'équilibre vie privée-vie professionnelle* in France).
+- *la transition juste* — /la tʁɑ̃.zi.sjɔ̃ ʒyst/ (*lah trahn-zee-syohn ZHEWST*): Ensuring ecological policies do not unfairly penalize resource-dependent or vulnerable communities.
 
 </div>
 
