@@ -1,6 +1,6 @@
 ### Introduction
 
-At CEFR Level B2 (Canadian NCLC 7+), standard intermediate connectors like *de plus* (/də plys/, furthermore) and *par conséquent* (/paʁ kɔ̃.se.kɑ̃/, therefore) are no longer sufficient to secure top-tier marks on standardized exams like the **TCF Canada** and **TEF Canada**. 
+At CEFR Level B2 (Canadian NCLC 7+), standard intermediate connectors like *de plus* (/də plys/ — (duh PLEWSS), furthermore) and *par conséquent* (/paʁ kɔ̃.se.kɑ̃/ — (pahr kohn-say-KAHN), therefore) are no longer sufficient to secure top-tier marks on standardized exams like the **TCF Canada** and **TEF Canada**. 
 
 Examiners evaluating **Writing Task 3 (*Expression écrite — Tâche 3*)** and **Speaking Task 3 (*Expression orale — Tâche 3*)** look for **advanced logical articulators (*les articulateurs logiques avancés*)**. These sophisticated grammatical linkers allow candidates to express complex semantic relationships: proportional causality (*d'autant plus que*), high-register concessive opposition (*nonobstant*), hypothetical concessions (*quand bien même*), conditional prerequisites (*pourvu que*), and calculated risks (*quitte à*).
 
@@ -24,7 +24,7 @@ By the end of this lesson, you will be able to:
 
 ### Proportional Causality and Reinforcement: Dautant plus que
 
-When reinforcing an existing argument by introducing a compounding factor, intermediate speakers frequently string together basic sentences with *et aussi* or *parce que*. At B2, the high-yield structure is **d'autant plus... que** (/d‿o.tɑ̃ plys... kə/, *all the more so as / especially since*).
+When reinforcing an existing argument by introducing a compounding factor, intermediate speakers frequently string together basic sentences with *et aussi* or *parce que*. At B2, the high-yield structure is **d'autant plus... que** (/d‿o.tɑ̃ plys... kə/ — (doh-TAHN PLEWSS... kuh), *all the more so as / especially since*).
 
 ```
 [Main Proposition] + d'autant plus + [Adjective / Adverb] + que + [Compounding Factor in Indicative]
@@ -33,17 +33,17 @@ When reinforcing an existing argument by introducing a compounding factor, inter
 #### Key Mechanics
 1. **Governed Mood**: **D'autant plus que** is followed by the **indicative mood (*l'indicatif*)**, never the subjunctive.
 2. **Splitting the Locution**: The phrase can appear together as a conjunction (*d'autant plus que*) or split around an adjective or adverb (*d'autant plus frappant que...*).
-3. **Negative Alternative**: The negative counterpart is **d'autant moins que** (/d‿o.tɑ̃ mwɛ̃ kə/, *all the less so as*).
+3. **Negative Alternative**: The negative counterpart is **d'autant moins que** (/d‿o.tɑ̃ mwɛ̃ kə/ — (doh-TAHN MWEN kuh), *all the less so as*).
 
 #### Authentic Examples
 * **La pénurie de logements est d'autant plus alarmante qu'elle frappe d'abord les familles vulnérables.**  
-  /la pe.ny.ʁi də lɔʒ.mɑ̃ ɛ d‿o.tɑ̃ plys a.laʁ.mɑ̃t k‿ɛl fʁap d‿a.bɔʁ le fa.mij vyl.ne.ʁabl/  
+  /la pe.ny.ʁi də lɔʒ.mɑ̃ ɛ d‿o.tɑ̃ plys a.laʁ.mɑ̃t k‿ɛl fʁap d‿a.bɔʁ le fa.mij vyl.ne.ʁabl/ (*lah pay-new-REE duh lohzh-MAHN eh doh-TAHN PLEWSS ah-lar-MAHNT kehl FRAHP dah-BOR lay fah-MEEY vewl-nay-RAH-bluh*)  
   *The housing crisis is all the more alarming as it primarily strikes vulnerable families.*
 * **Cette réforme suscite la controverse, d'autant plus que les syndicats n'ont pas été consultés lors des négociations préliminaires.**  
-  /sɛt ʁe.fɔʁm sys.sit la kɔ̃.tʁɔ.vɛʁs, d‿o.tɑ̃ plys kə le sɛ̃.dzi.ka n‿ɔ̃ pa.z‿e.te kɔ̃.syl.te lɔʁ de ne.gɔ.sja.sjɔ̃ pʁe.li.mi.nɛʁ/  
+  /sɛt ʁe.fɔʁm sys.sit la kɔ̃.tʁɔ.vɛʁs, d‿o.tɑ̃ plys kə le sɛ̃.dzi.ka n‿ɔ̃ pa.z‿e.te kɔ̃.syl.te lɔʁ de ne.gɔ.sja.sjɔ̃ pʁe.li.mi.nɛʁ/ (*seht ray-FORM sew-SEET lah kohn-troh-VEHRS, doh-TAHN PLEWSS kuh lay sehn-dee-KAH nohn pah-zay-TAY kohn-sewl-TAY lor day nay-goh-syah-SYOHN pray-lee-mee-NEHR*)  
   *This reform sparks controversy, especially since the unions were not consulted during preliminary negotiations.*
 * **Le projet semble d'autant moins viable que les taux d'intérêt demeurent élevés.**  
-  /lə pʁɔ.ʒɛ sɑ̃bl d‿o.tɑ̃ mwɛ̃ vja.bl kə le to d‿ɛ̃.te.ʁɛ də.mœʁ.t‿e.l(ə).ve/  
+  /lə pʁɔ.ʒɛ sɑ̃bl d‿o.tɑ̃ mwɛ̃ vja.bl kə le to d‿ɛ̃.te.ʁɛ də.mœʁ.t‿e.l(ə).ve/ (*luh proh-ZHEH SAHM-bluh doh-TAHN MWEN VYAH-bluh kuh lay TOH dehn-tay-REH duh-muhr-tehl-VAY*)  
   *The project seems all the less viable as interest rates remain elevated.*
 
 ---
@@ -52,10 +52,10 @@ When reinforcing an existing argument by introducing a compounding factor, inter
 
 In standard speech, concession is handled by *mais* or *malgré*. In administrative, legal, and academic French, stylistic elegance is achieved through **nonobstant** and **en dépit de**.
 
-| Prepositional Connector | IPA Transcription | Followed By | Register / Context | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **nonobstant** | /nɔ.nɔb.stɑ̃/ | Noun Phrase (*+ nom*) | High academic / Legal / Administrative | **Nonobstant les réticences initiales, l'entente a été ratifiée.** (*Notwithstanding initial reluctance, the agreement was ratified.*) |
-| **en dépit de** | /ɑ̃ de.pi də/ | Noun Phrase (*+ nom*) | Formal written journalistic | **En dépit d'une conjoncture défavorable, l'entreprise maintient ses investissements.** (*Despite unfavorable economic conditions, the company maintains its investments.*) |
+| Prepositional Connector | IPA Transcription | Phonetic Respelling | Followed By | Register / Context | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **nonobstant** | /nɔ.nɔb.stɑ̃/ | (noh-nohb-STAHN) | Noun Phrase (*+ nom*) | High academic / Legal / Administrative | **Nonobstant les réticences initiales, l'entente a été ratifiée.** (*Notwithstanding initial reluctance, the agreement was ratified.*) |
+| **en dépit de** | /ɑ̃ de.pi də/ | (ahn day-PEE duh) | Noun Phrase (*+ nom*) | Formal written journalistic | **En dépit d'une conjoncture défavorable, l'entreprise maintient ses investissements.** (*Despite unfavorable economic conditions, the company maintains its investments.*) |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -77,7 +77,7 @@ On TCF Writing Task 3, examiners look specifically for syntactic variety and moo
 
 ### Hypothetical Concession: Quand bien meme and Conditionnel
 
-One of the most prestigious rhetorical constructions in French argumentation is **quand bien même** (/kɑ̃ bjɛ̃ mɛm/, *even if / even though / even assuming that*).
+One of the most prestigious rhetorical constructions in French argumentation is **quand bien même** (/kɑ̃ bjɛ̃ mɛm/ — (kahn byen MEHM), *even if / even though / even assuming that*).
 
 #### The Mandatory Mood Rule
 Unlike *même si* (which strictly requires the indicative: *même si c'est vrai*), **quand bien même MANDATORILY governs the conditional mood (*le conditionnel*)** in both the subordinate clause and the principal clause:
@@ -90,11 +90,11 @@ Quand bien même + [Verbe au Conditionnel] , [Proposition Principale au Conditio
 * **B1 (Basic)**: *Même si le gouvernement investissait des milliards, le problème ne serait pas résolu.*
 * **B2 (Prestigious)**:  
   **Quand bien même le gouvernement investirait des milliards, le problème structurel ne saurait être résolu sans une refonte globale.**  
-  /kɑ̃ bjɛ̃ mɛm lə gu.vɛʁ.nə.mɑ̃ ɛ̃.vɛs.tsi.ʁɛ de mi.ljaʁ, lə pʁɔ.blɛm stʁyk.ty.ʁɛl nə so.ʁɛ t‿ɛtʁ ʁe.zɔ.ly sɑ̃.z‿yn ʁə.fɔ̃t glɔ.bal/  
+  /kɑ̃ bjɛ̃ mɛm lə gu.vɛʁ.nə.mɑ̃ ɛ̃.vɛs.tsi.ʁɛ de mi.ljaʁ, lə pʁɔ.blɛm stʁyk.ty.ʁɛl nə so.ʁɛ t‿ɛtʁ ʁe.zɔ.ly sɑ̃.z‿yn ʁə.fɔ̃t glɔ.bal/ (*kahn byen MEHM luh goo-vehr-nuh-MAHN ehn-vehs-tee-REH day meel-YAHR, luh proh-BLEHM strewk-tew-REHL nuh soh-REH TEH-truh ray-zoh-LEW sahn-zewn ruh-FOHNT gloh-BAHL*)  
   *Even if the government were to invest billions, the structural problem could not be resolved without a comprehensive overhaul.*
 
 * **Quand bien même les coûts doubleraient, la transition écologique demeurerait un impératif moral absolu.**  
-  /kɑ̃ bjɛ̃ mɛm le ku du.blə.ʁɛ, la tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik də.mœ.ʁə.ʁɛ t‿œ̃.n‿ɛ̃.pe.ʁa.tsif mɔ.ʁal ab.sɔ.ly/  
+  /kɑ̃ bjɛ̃ mɛm le ku du.blə.ʁɛ, la tʁɑ̃.zi.sjɔ̃ e.kɔ.lɔ.ʒik də.mœ.ʁə.ʁɛ t‿œ̃.n‿ɛ̃.pe.ʁa.tsif mɔ.ʁal ab.sɔ.ly/ (*kahn byen MEHM lay KOO doo-bluh-REH, lah trahn-zee-SYOHN ay-koh-loh-ZHEEK duh-muh-ruh-REH tuhn-nehn-pay-rah-TEEF moh-RAHL ahb-soh-LEW*)  
   *Even assuming costs were to double, the ecological transition would remain an absolute moral imperative.*
 
 ---
@@ -104,22 +104,22 @@ Quand bien même + [Verbe au Conditionnel] , [Proposition Principale au Conditio
 When setting a non-negotiable prerequisite for a hypothesis, B2 candidates deploy connectors governing the **subjunctive mood (*le subjonctif*)**.
 
 #### 1. Pourvu que (+ Subjonctif)
-Conveys a vital condition accompanied by a strong wish or hope (/puʁ.vy kə/, *provided that / as long as*):
+Conveys a vital condition accompanied by a strong wish or hope (/puʁ.vy kə/ — (poor-VEW kuh), *provided that / as long as*):
 * **Cette politique de télétravail s'avère bénéfique, pourvu que les gestionnaires préservent** (subjonctif) **la cohésion d'équipe.**  
-  /sɛt pɔ.li.tik də te.le.tʁa.vaj s‿a.vɛʁ be.ne.fik, puʁ.vy kə le ʒɛs.tjɔ.nɛʁ pʁe.zɛʁv la kɔ.e.zjɔ̃ d‿e.kip/  
+  /sɛt pɔ.li.tik də te.le.tʁa.vaj s‿a.vɛʁ be.ne.fik, puʁ.vy kə le ʒɛs.tjɔ.nɛʁ pʁe.zɛʁv la kɔ.e.zjɔ̃ d‿e.kip/ (*seht poh-lee-TEEK duh tay-lay-trah-VY sah-VEHR bay-nay-FEEK, poor-VEW kuh lay zhehs-tyoh-NEHR pray-ZEHRV lah koh-ay-ZYOHN day-KEEP*)  
   *This telework policy proves beneficial, provided that managers preserve team cohesion.*
 
 #### 2. À supposer que (+ Subjonctif)
-Used in dialectical debate to introduce an intellectual thought experiment or temporary concession (/a sy.po.ze kə/, *assuming that / supposing that*):
+Used in dialectical debate to introduce an intellectual thought experiment or temporary concession (/a sy.po.ze kə/ — (ah sew-poh-ZAY kuh), *assuming that / supposing that*):
 * **À supposer que cette mesure soit** (subjonctif) **adoptée, ses effets ne se feront sentir que dans une décennie.**  
-  /a sy.po.ze kə sɛt mə.zyʁ swa t‿a.dɔp.te, se.z‿e.fɛ nə sə fə.ʁɔ̃ sɑ̃.tsiʁ kə dɑ̃.z‿yn de.se.ni/  
+  /a sy.po.ze kə sɛt mə.zyʁ swa t‿a.dɔp.te, se.z‿e.fɛ nə sə fə.ʁɔ̃ sɑ̃.tsiʁ kə dɑ̃.z‿yn de.se.ni/ (*ah sew-poh-ZAY kuh seht muh-ZEWR swah tah-dohp-TAY, say-zay-FEH nuh suh fuh-ROHN sahn-TEER kuh dahn-zewn day-seh-NEE*)  
   *Assuming that this measure is adopted, its effects will only be felt in a decade.*
 
 ---
 
 ### Calculated Risk and Ultimate Concession: Quitte a and Infinitif
 
-In workplace deliberations and societal debates, an argument often involves accepting a secondary negative consequence to achieve a paramount objective. The idiom **quitte à** (/kit a/, *even if it means / at the risk of*) fulfills this role concisely.
+In workplace deliberations and societal debates, an argument often involves accepting a secondary negative consequence to achieve a paramount objective. The idiom **quitte à** (/kit a/ — (keet AH), *even if it means / at the risk of*) fulfills this role concisely.
 
 #### Key Mechanics
 1. **Followed by the Infinitive**: **Quitte à** is constructed with the **infinitif présent**:
@@ -128,10 +128,10 @@ In workplace deliberations and societal debates, an argument often involves acce
 ```
 2. **Contextual Examples**:
    * **Il convient de moderniser le réseau ferroviaire sans délai, quitte à perturber la circulation urbaine durant les travaux.**  
-     /il kɔ̃.vjɛ̃ də mɔ.dɛʁ.ni.ze lə ʁe.zo fɛ.ʁɔ.vjɛʁ sɑ̃ de.lɛ, kit a pɛʁ.tyʁ.be la siʁ.ky.la.sjɔ̃ yʁ.bɛn dy.ʁɑ̃ le tʁa.vo/  
+     /il kɔ̃.vjɛ̃ də mɔ.dɛʁ.ni.ze lə ʁe.zo fɛ.ʁɔ.vjɛʁ sɑ̃ de.lɛ, kit a pɛʁ.tyʁ.be la siʁ.ky.la.sjɔ̃ yʁ.bɛn dy.ʁɑ̃ le tʁa.vo/ (*eel kohn-VYEN duh moh-dehr-nee-ZAY luh ray-ZOH feh-roh-VYEHR sahn day-LEH, keet AH pehr-tewr-BAY lah seer-kew-lah-SYOHN ewr-BEHN dew-RAHN lay trah-VOH*)  
      *The rail network must be modernized without delay, even at the cost of disrupting urban traffic during construction.*
    * **La direction doit privilégier la transparence, quitte à essuyer des critiques virulentes lors de l'assemblée générale.**  
-     /la di.ʁɛk.sjɔ̃ dwa pʁi.vi.le.ʒje la tʁɑ̃s.pa.ʁɑ̃s, kit a e.sɥi.je de kʁi.tsik vi.ʁy.lɑ̃t lɔʁ də l‿a.sɑ̃.ble ʒe.ne.ʁal/  
+     /la di.ʁɛk.sjɔ̃ dwa pʁi.vi.le.ʒje la tʁɑ̃s.pa.ʁɑ̃s, kit a e.sɥi.je de kʁi.tsik vi.ʁy.lɑ̃t lɔʁ də l‿a.sɑ̃.ble ʒe.ne.ʁal/ (*lah dee-rehk-SYOHN dwah pree-vee-lay-ZHYAY lah trahns-pah-RAHNS, keet AH ay-swee-YAY day kree-TEEK vee-rew-LAHNT lor duh lah-sahn-BLAY zhay-nay-RAHL*)  
      *Management must prioritize transparency, even if it means weathering fierce criticism at the general meeting.*
 
 ---
@@ -140,16 +140,16 @@ In workplace deliberations and societal debates, an argument often involves acce
 
 Refined French discourse avoids ambiguous references through targeted idiomatic locutions:
 
-#### 1. En l'occurrence (/ɑ̃ lɔ.ky.ʁɑ̃s/) — *In this specific instance / As it happens*
+#### 1. En l'occurrence (/ɑ̃ lɔ.ky.ʁɑ̃s/ — (ahn loh-kew-RAHNS)) — *In this specific instance / As it happens*
 Used to ground an abstract principle in the concrete scenario under discussion:
 * **Le respect des conventions collectives est fondamental ; en l'occurrence, l'employeur a violé les clauses relatives aux heures supplémentaires.**  
-  /lə ʁɛs.pɛ de kɔ̃.vɑ̃.sjɔ̃ kɔ.lɛk.tsiv ɛ fɔ̃.da.mɑ̃.tal ; ɑ̃ lɔ.ky.ʁɑ̃s, l‿ɑ̃.plwa.jœʁ a vjɔ.le le kloz ʁə.la.tsiv o.z‿œʁ sy.ple.mɑ̃.tɛʁ/  
+  /lə ʁɛs.pɛ de kɔ̃.vɑ̃.sjɔ̃ kɔ.lɛk.tsiv ɛ fɔ̃.da.mɑ̃.tal ; ɑ̃ lɔ.ky.ʁɑ̃s, l‿ɑ̃.plwa.jœʁ a vjɔ.le le kloz ʁə.la.tsiv o.z‿œʁ sy.ple.mɑ̃.tɛʁ/ (*luh reh-SPEH day kohn-vahn-SYOHN koh-lehk-TEEV eh fohn-dah-mahn-TAHL ; ahn loh-kew-RAHNS, lahn-plwah-YUHR ah vyoh-LAY lay KLOHZ ruh-lah-TEEV oh-zuhr sew-play-mahn-TEHR*)  
   *Adherence to collective agreements is fundamental; in this specific instance, the employer violated overtime clauses.*
 
-#### 2. Tant s'en faut (/tɑ̃ s‿ɑ̃ fo/) — *Far from it / Anything but*
+#### 2. Tant s'en faut (/tɑ̃ s‿ɑ̃ fo/ — (tahn sahn FOH)) — *Far from it / Anything but*
 An elevated literary locution used to reject an assertion with absolute rhetorical finality:
 * **L'intelligence artificielle ne résout pas tous les défis éducatifs, tant s'en faut.**  
-  /l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.tsi.fi.sjɛl nə ʁe.zu pa tu le de.fi e.dy.ka.tsif, tɑ̃ s‿ɑ̃ fo/  
+  /l‿ɛ̃.tɛ.li.ʒɑ̃s aʁ.tsi.fi.sjɛl nə ʁe.zu pa tu le de.fi e.dy.ka.tsif, tɑ̃ s‿ɑ̃ fo/ (*lehn-tay-lee-ZHAHNS ar-tee-fee-SYEHL nuh ray-ZOO pah too lay day-FEE ay-dew-kah-TEEF, tahn sahn FOH*)  
   *Artificial intelligence does not solve all educational challenges—far from it.*
 
 ---
@@ -158,15 +158,15 @@ An elevated literary locution used to reject an assertion with absolute rhetoric
 
 To eliminate grammatical mood errors in your essays, reference this comprehensive summary table:
 
-| Connector | Governed Mode | Syntactic Formula | Core Function |
-| :--- | :--- | :--- | :--- |
-| **d'autant plus que** | **Indicatif** | *d'autant plus que + verbe indicatif* | Compounding causality |
-| **quand bien même** | **Conditionnel** | *quand bien même + conditionnel* | Hypothetical concession |
-| **pourvu que** | **Subjonctif** | *pourvu que + verbe subjonctif* | Conditional requirement |
-| **à supposer que** | **Subjonctif** | *à supposer que + verbe subjonctif* | Theoretical hypothesis |
-| **quitte à** | **Infinitif** | *quitte à + verbe infinitif* | Calculated sacrifice/risk |
-| **nonobstant** | **Groupe Nominal** | *nonobstant + nom* | Formal concession |
-| **en dépit de** | **Groupe Nominal** | *en dépit de + nom* | Resolute opposition |
+| Connector | Phonetic Respelling | Governed Mode | Syntactic Formula | Core Function |
+| :--- | :--- | :--- | :--- | :--- |
+| **d'autant plus que** | (doh-TAHN PLEWSS kuh) | **Indicatif** | *d'autant plus que + verbe indicatif* | Compounding causality |
+| **quand bien même** | (kahn byen MEHM) | **Conditionnel** | *quand bien même + conditionnel* | Hypothetical concession |
+| **pourvu que** | (poor-VEW kuh) | **Subjonctif** | *pourvu que + verbe subjonctif* | Conditional requirement |
+| **à supposer que** | (ah sew-poh-ZAY kuh) | **Subjonctif** | *à supposer que + verbe subjonctif* | Theoretical hypothesis |
+| **quitte à** | (keet AH) | **Infinitif** | *quitte à + verbe infinitif* | Calculated sacrifice/risk |
+| **nonobstant** | (noh-nohb-STAHN) | **Groupe Nominal** | *nonobstant + nom* | Formal concession |
+| **en dépit de** | (ahn day-PEE duh) | **Groupe Nominal** | *en dépit de + nom* | Resolute opposition |
 
 ---
 
