@@ -57,14 +57,14 @@ Notice that even notoriously irregular verbs like *faire*, *avoir*, and *boire* 
 
 Regardless of verb group, the six endings are identical for every verb in the language:
 
-| Subject Pronoun | Imparfait Ending | IPA Pronunciation | Example with *habiter* | Meaning |
-| :--- | :--- | :--- | :--- | :--- |
-| **J' / Je** | **-ais** | /ɛ/ | **J'habitais** | I used to live / was living |
-| **Tu** | **-ais** | /ɛ/ | **Tu habitais** | You used to live / were living |
-| **Il / Elle / On** | **-ait** | /ɛ/ | **Il habitait** | He used to live / was living |
-| **Nous** | **-ions** | /jɔ̃/ | **Nous habitions** | We used to live / were living |
-| **Vous** | **-iez** | /je/ | **Vous habitiez** | You used to live / were living |
-| **Ils / Elles** | **-aient** | /ɛ/ | **Ils habitaient** | They used to live / were living |
+| Subject Pronoun | Imparfait Ending | IPA Pronunciation | Phonetic Respelling | Example with *habiter* | Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **J' / Je** | **-ais** | /ɛ/ | **EH** | **J'habitais** (/ʒ‿a.bi.tɛ/ — *zhah-bee-TEH*) | I used to live / was living |
+| **Tu** | **-ais** | /ɛ/ | **EH** | **Tu habitais** (/ty a.bi.tɛ/ — *tew ah-bee-TEH*) | You used to live / were living |
+| **Il / Elle / On** | **-ait** | /ɛ/ | **EH** | **Il habitait** (/il a.bi.tɛ/ — *eel ah-bee-TEH*) | He used to live / was living |
+| **Nous** | **-ions** | /jɔ̃/ | **YOHN** | **Nous habitions** (/nu.z‿a.bi.tjɔ̃/ — *noo-zah-bee-TYOHN*) | We used to live / were living |
+| **Vous** | **-iez** | /je/ | **YAY** | **Vous habitiez** (/vu.z‿a.bi.tje/ — *voo-zah-bee-TYAY*) | You used to live / were living |
+| **Ils / Elles** | **-aient** | /ɛ/ | **EH** | **Ils habitaient** (/il.z‿a.bi.tɛ/ — *eel-zah-bee-TEH*) | They used to live / were living |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -72,10 +72,10 @@ Regardless of verb group, the six endings are identical for every verb in the la
 
 Notice a crucial auditory fact: the endings for **je (-ais)**, **tu (-ais)**, **il/elle/on (-ait)**, and **ils/elles (-aient)** **all sound completely identical**: **/ɛ/** (open "e" as in English *bed* or French *fête*).
 
-- *Je parlais* = /ʒə paʁ.lɛ/
-- *Tu parlais* = /ty paʁ.lɛ/
-- *Il parlait* = /il paʁ.lɛ/
-- *Ils parlaient* = /il paʁ.lɛ/
+- *Je parlais* = /ʒə paʁ.lɛ/ (zhuh pahr-LEH)
+- *Tu parlais* = /ty paʁ.lɛ/ (tew pahr-LEH)
+- *Il parlait* = /il paʁ.lɛ/ (eel pahr-LEH)
+- *Ils parlaient* = /il paʁ.lɛ/ (eel pahr-LEH)
 
 In spoken French and TCF Listening, only the subject pronoun tells you who is performing the action. In written French, however, you must never confuse the singular *-ait* with the third-person plural ending **-aient**!
 
@@ -87,20 +87,20 @@ There is only **one verb** in the entire French language whose stem does not der
 
 The stem for *être* in the imparfait is **ét-** (/et-/), to which you attach the standard endings:
 
-| Subject Pronoun | Conjugated Form | IPA Pronunciation | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **J'** | **étais** | /e.tɛ/ | I was | *J'étais étudiant à l'université.* |
-| **Tu** | **étais** | /e.tɛ/ | you were | *Tu étais toujours ponctuel.* |
-| **Il / Elle / On** | **était** | /e.tɛ/ | he / she / one was | *L'appartement était très spacieux.* |
-| **Nous** | **étions** | /e.tjɔ̃/ | we were | *Nous étions heureux de déménager.* |
-| **Vous** | **étiez** | /e.tje/ | you were | *Vous étiez absents lors de la réunion.* |
-| **Ils / Elles** | **étaient** | /e.tɛ/ | they were | *Les voisins étaient très accueillants.* |
+| Subject Pronoun | Conjugated Form | IPA Pronunciation | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **J'** | **étais** | /e.tɛ/ | **ay-TEH** | I was | *J'étais étudiant à l'université.* |
+| **Tu** | **étais** | /e.tɛ/ | **ay-TEH** | you were | *Tu étais toujours ponctuel.* |
+| **Il / Elle / On** | **était** | /e.tɛ/ | **ay-TEH** | he / she / one was | *L'appartement était très spacieux.* |
+| **Nous** | **étions** | /e.tjɔ̃/ | **ay-TYOHN** | we were | *Nous étions heureux de déménager.* |
+| **Vous** | **étiez** | /e.tje/ | **ay-TYAY** | you were | *Vous étiez absents lors de la réunion.* |
+| **Ils / Elles** | **étaient** | /e.tɛ/ | **ay-TEH** | they were | *Les voisins étaient très accueillants.* |
 
 Notice the mandatory liaisons with vowels:
-- **Nous‿étions** (/nu.z‿e.tjɔ̃/)
-- **Vous‿étiez** (/vu.z‿e.tje/)
-- **Ils‿étaient** (/il.z‿e.tɛ/)
-- **Elles‿étaient** (/ɛl.z‿e.tɛ/)
+- **Nous‿étions** (/nu.z‿e.tjɔ̃/ — (noo-zay-TYOHN))
+- **Vous‿étiez** (/vu.z‿e.tje/ — (voo-zay-TYAY))
+- **Ils‿étaient** (/il.z‿e.tɛ/ — (eel-zay-TEH))
+- **Elles‿étaient** (/ɛl.z‿e.tɛ/ — (ehl-zay-TEH))
 
 ### Core communicative functions: descriptions, states, and weather
 
@@ -110,32 +110,32 @@ Unlike the passé composé, which reports actions with clear start and end point
 
 Use the imparfait to describe the features of an apartment, a city, or a person in the past:
 
-> **Notre premier logement à Montréal était un 4½ au deuxième étage.** — /nɔtʁə pʁə.mje lɔʒ.mɑ̃ a mɔ̃.ʁe.al e.tɛ œ̃ katʁ.e dmi o dø.zjɛm e.taʒ/  
+> **Notre premier logement à Montréal était un 4½ au deuxième étage.** — /nɔtʁə pʁə.mje lɔʒ.mɑ̃ a mɔ̃.ʁe.al e.tɛ œ̃ katʁ.e dmi o dø.zjɛm e.taʒ/ (noh-truh pruh-myay lohzh-mahn ah mohn-ray-ahl ay-teh uhn kah-tray dmee oh deuh-zyem ay-TAHZH)  
 > *Our first apartment in Montreal was a 4½ on the second floor.*
 
-> **Le salon avait de grandes fenêtres et les chambres étaient lumineuses.** — /lə sa.lɔ̃ a.vɛ də ɡʁɑ̃d fə.nɛtʁ e le ʃɑ̃bʁ e.tɛ ly.mi.nøz/  
+> **Le salon avait de grandes fenêtres et les chambres étaient lumineuses.** — /lə sa.lɔ̃ a.vɛ də ɡʁɑ̃d fə.nɛtʁ e le ʃɑ̃bʁ e.tɛ ly.mi.nøz/ (luh sah-lohn ah-veh duh grahnd fuh-neh-truh ay lay shahm-bruh ay-teh lew-mee-NEUHZ)  
 > *The living room had large windows and the bedrooms were bright.*
 
 #### 2. Psychological, Emotional, and Physical States
 
 Mental states, emotions, feelings, and physical sensations that lasted over an indefinite period take the imparfait:
 
-| French Expression | IPA | English Meaning | Context Sentence |
-| :--- | :--- | :--- | :--- |
-| **J'avais faim / soif** | /ʒ‿a.vɛ fɛ̃ / swaf/ | I was hungry / thirsty | *Après le voyage, nous avions très faim.* |
-| **J'avais peur** | /ʒ‿a.vɛ pœʁ/ | I was afraid | *Au début, elle avait peur de l'hiver canadien.* |
-| **Je voulais** | /ʒə vu.lɛ/ | I wanted | *Je voulais trouver un emploi rapidement.* |
-| **Je savais** | /ʒə sa.vɛ/ | I knew | *Nous savions que le coût de la vie était élevé.* |
-| **Je pensais** | /ʒə pɑ̃.sɛ/ | I thought | *Je pensais que la signature du bail était simple.* |
+| French Expression | IPA | Phonetic Respelling | English Meaning | Context Sentence |
+| :--- | :--- | :--- | :--- | :--- |
+| **J'avais faim / soif** | /ʒ‿a.vɛ fɛ̃ / swaf/ | **zhah-veh FEHN / SWAHF** | I was hungry / thirsty | *Après le voyage, nous avions très faim.* |
+| **J'avais peur** | /ʒ‿a.vɛ pœʁ/ | **zhah-veh PEUHR** | I was afraid | *Au début, elle avait peur de l'hiver canadien.* |
+| **Je voulais** | /ʒə vu.lɛ/ | **zhuh voo-LEH** | I wanted | *Je voulais trouver un emploi rapidement.* |
+| **Je savais** | /ʒə sa.vɛ/ | **zhuh sah-VEH** | I knew | *Nous savions que le coût de la vie était élevé.* |
+| **Je pensais** | /ʒə pɑ̃.sɛ/ | **zhuh pahn-SEH** | I thought | *Je pensais que la signature du bail était simple.* |
 
 #### 3. Weather and Environmental Backdrop
 
 Atmospheric conditions ongoing in the past are naturally expressed with the imparfait of impersonal verbs:
 
-> **Il faisait très froid et il neigeait doucement.** — /il fə.zɛ tʁɛ fʁwa e il nɛ.ʒɛ dus.mɑ̃/  
+> **Il faisait très froid et il neigeait doucement.** — /il fə.zɛ tʁɛ fʁwa e il nɛ.ʒɛ dus.mɑ̃/ (eel fuh-zeh treh FRWAH ay eel neh-zheh doos-MAHN)  
 > *It was very cold and it was snowing softly.*
 
-> **Il y avait beaucoup de vent sur le pont Jacques-Cartier.** — /il j‿a.vɛ bo.ku də vɑ̃ syʁ lə pɔ̃ ʒak kaʁ.tje/  
+> **Il y avait beaucoup de vent sur le pont Jacques-Cartier.** — /il j‿a.vɛ bo.ku də vɑ̃ syʁ lə pɔ̃ ʒak kaʁ.tje/ (eel yah-veh boh-koo duh VAHN sewr luh pohn zhahk kahr-TYAY)  
 > *There was a lot of wind on the Jacques Cartier Bridge.*
 
 ### Past habits, routines, and repeated actions
@@ -144,16 +144,16 @@ The second major communicative pillar of the imparfait is expressing **past habi
 
 When describing habits, sentences are frequently anchored by temporal frequency indicators:
 
-| Frequency Marker | IPA Pronunciation | English Meaning | Exemplary Sentence |
-| :--- | :--- | :--- | :--- |
-| **Autrefois** | /o.tʁə.fwa/ | In the past / Formerly | *Autrefois, nous habitions dans une maison.* |
-| **À l'époque** | /a l‿e.pɔk/ | Back then / At that time | *À l'époque, je prenais le métro tous les matins.* |
-| **D'habitude** | /d‿a.bi.tyd/ | Usually | *D'habitude, le propriétaire passait le samedi.* |
-| **Tous les jours** | /tu le ʒuʁ/ | Every day | *Mon colocataire cuisinait tous les soirs.* |
-| **Chaque semaine** | /ʃak səmɛn/ | Every week | *Nous visitions deux appartements chaque semaine.* |
-| **Souvent** | /su.vɑ̃/ | Often | *En hiver, nous allions patiner au parc La Fontaine.* |
+| Frequency Marker | IPA Pronunciation | Phonetic Respelling | English Meaning | Exemplary Sentence |
+| :--- | :--- | :--- | :--- | :--- |
+| **Autrefois** | /o.tʁə.fwa/ | **oh-truh-FWAH** | In the past / Formerly | *Autrefois, nous habitions dans une maison.* |
+| **À l'époque** | /a l‿e.pɔk/ | **ah lay-POHK** | Back then / At that time | *À l'époque, je prenais le métro tous les matins.* |
+| **D'habitude** | /d‿a.bi.tyd/ | **dah-bee-TEWD** | Usually | *D'habitude, le propriétaire passait le samedi.* |
+| **Tous les jours** | /tu le ʒuʁ/ | **too lay ZHOOR** | Every day | *Mon colocataire cuisinait tous les soirs.* |
+| **Chaque semaine** | /ʃak səmɛn/ | **shahk suh-MEHN** | Every week | *Nous visitions deux appartements chaque semaine.* |
+| **Souvent** | /su.vɑ̃/ | **soo-VAHN** | Often | *En hiver, nous allions patiner au parc La Fontaine.* |
 
-> **Quand j'étais adolescent, je jouais au soccer chaque fin de semaine.** — /kɑ̃ ʒ‿e.tɛ.z‿a.dɔ.lɛ.sɑ̃, ʒə ʒwɛ o sɔ.kœʁ ʃak fɛ̃ də səmɛn/  
+> **Quand j'étais adolescent, je jouais au soccer chaque fin de semaine.** — /kɑ̃ ʒ‿e.tɛ.z‿a.dɔ.lɛ.sɑ̃, ʒə ʒwɛ o sɔ.kœʁ ʃak fɛ̃ də səmɛn/ (kahn zhay-teh-zah-doh-leh-SAHN, zhuh zhweh oh soh-keur shahk fehn duh suh-MEHN)  
 > *When I was a teenager, I played soccer every weekend.*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -161,11 +161,11 @@ When describing habits, sentences are frequently anchored by temporal frequency 
 #### Québec vs France
 
 In Québec spoken French, when people talk about past childhood routines or former lifestyles, you will often hear:
-- **Dans l'temps** **(QC)** (/dɑ̃ l‿tɑ̃/): Colloquial Canadian equivalent of *autrefois* or *à l'époque*:
+- **Dans l'temps** **(QC)** (/dɑ̃ l‿tɑ̃/ — (dahn luh TAHN)): Colloquial Canadian equivalent of *autrefois* or *à l'époque*:
   > *« Dans l'temps, on n'avait pas l'air climatisé dans les logements. »* **(QC)**  
   > (Standard French: *« À l'époque, nous n'avions pas la climatisation dans les logements. »*)
-- **Être habitué à** (/ɛtʁ a.bi.tɥe a/): Newcomers to Canada frequently discuss adapting to local climates:
-  > *« Je n'étais pas habitué au froid intense de janvier. »* (/ʒə n‿e.tɛ pa.z‿a.bi.tɥe o fʁwa ɛ̃.tɑ̃s də ʒɑ̃.vje/)  
+- **Être habitué à** (/ɛtʁ a.bi.tɥe a/ — (eh-truh ah-bee-tway AH)): Newcomers to Canada frequently discuss adapting to local climates:
+  > *« Je n'étais pas habitué au froid intense de janvier. »* (/ʒə n‿e.tɛ pa.z‿a.bi.tɥe o fʁwa ɛ̃.tɑ̃s də ʒɑ̃.vje/ — (zhuh nay-teh pah-zah-bee-tway oh frwah ehn-tahns duh zhahn-VYAY))  
   > *I was not used to the intense cold of January.*
 
 On the TCF Canada, using expressions like *« à l'époque »*, *« autrefois »*, and *« j'étais habitué à... »* demonstrates high lexical control on Speaking Task 1!
@@ -178,8 +178,8 @@ On the TCF Canada, using expressions like *« à l'époque »*, *« autrefois »
 
 Listening questions can hinge on the phonetic similarity between the **first-person passé composé** and the **imparfait** of regular *-er* verbs:
 
-- Passé composé: **J'ai parlé** (/ʒ‿e paʁ.le/) → Notice the **/e/** of *j'ai* at the start. Indicates a single completed event (*I spoke*).
-- Imparfait: **Je parlais** (/ʒə paʁ.lɛ/) → Notice the neutral **/ə/** of *je* at the start. Indicates an ongoing state or habit (*I used to speak / was speaking*).
+- Passé composé: **J'ai parlé** (/ʒ‿e paʁ.le/ — (zhay pahr-LAY)) → Notice the **/e/** of *j'ai* at the start. Indicates a single completed event (*I spoke*).
+- Imparfait: **Je parlais** (/ʒə paʁ.lɛ/ — (zhuh pahr-LEH)) → Notice the neutral **/ə/** of *je* at the start. Indicates an ongoing state or habit (*I used to speak / was speaking*).
 
 The final vowels (/e/ vs /ɛ/) are unreliable: many speakers, especially in France, pronounce them almost alike. The dependable cue is the beginning: *j'ai* /ʒe/ versus *je* /ʒə/.
 
@@ -217,19 +217,19 @@ Before each Listening item plays, read the question and check whether the questi
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 12 core descriptive and habitual terms with IPA and example sentences to your personal Anki flashcard deck:
-   - *autrefois* (/o.tʁə.fwa/) — formerly / in the past
-   - *à l'époque* (/a l‿e.pɔk/) — at that time / back then
-   - *d'habitude* (/d‿a.bi.tyd/) — usually
-   - *être habitué à* (/ɛtʁ a.bi.tɥe a/) — to be accustomed to
-   - *le logement était...* (/lə lɔʒ.mɑ̃ e.tɛ/) — the accommodation was...
-   - *il faisait beau/froid* (/il fə.zɛ bo / fʁwa/) — the weather was nice/cold
-   - *il y avait* (/il j‿a.vɛ/) — there was / there were
-   - *j'avais l'intention de...* (/ʒ‿a.vɛ l‿ɛ̃.tɑ̃.sjɔ̃ də/) — I intended to...
-   - *chaque fin de semaine* **(QC)** (/ʃak fɛ̃ də səmɛn/) — every weekend
-   - *les voisins étaient...* (/le vwa.zɛ̃.z‿e.tɛ/) — the neighbors were...
-   - *spacieux / spacieuse* (/spa.sjø / spa.sjøz/) — spacious
-   - *calme et sécurisé* (/kalm e se.ky.ʁi.ze/) — quiet and secure
+   Add these 12 core descriptive and habitual terms with IPA and Phonetic Respelling to your personal Anki flashcard deck:
+   - *autrefois* (/o.tʁə.fwa/ — "oh-truh-FWAH") — formerly / in the past
+   - *à l'époque* (/a l‿e.pɔk/ — "ah lay-POHK") — at that time / back then
+   - *d'habitude* (/d‿a.bi.tyd/ — "dah-bee-TEWD") — usually
+   - *être habitué à* (/ɛtʁ a.bi.tɥe a/ — "eh-truh ah-bee-tway AH") — to be accustomed to
+   - *le logement était...* (/lə lɔʒ.mɑ̃ e.tɛ/ — "luh lohzh-mahn ay-TEH") — the accommodation was...
+   - *il faisait beau/froid* (/il fə.zɛ bo / fʁwa/ — "eel fuh-zeh BOH / FRWAH") — the weather was nice/cold
+   - *il y avait* (/il j‿a.vɛ/ — "eel yah-VEH") — there was / there were
+   - *j'avais l'intention de...* (/ʒ‿a.vɛ l‿ɛ̃.tɑ̃.sjɔ̃ də/ — "zhah-veh lehn-tahn-syohn DUH") — I intended to...
+   - *chaque fin de semaine* **(QC)** (/ʃak fɛ̃ də səmɛn/ — "shahk fehn duh suh-MEHN") — every weekend
+   - *les voisins étaient...* (/le vwa.zɛ̃.z‿e.tɛ/ — "lay vwah-zehn-zay-TEH") — the neighbors were...
+   - *spacieux / spacieuse* (/spa.sjø / spa.sjøz/ — "spah-SYEUH / spah-SYEUHZ") — spacious
+   - *calme et sécurisé* (/kalm e se.ky.ʁi.ze/ — "kahlm ay say-kew-ree-ZAY") — quiet and secure
 
 3. **Step 3: Receptive Reading Practice**  
    Read a short nostalgic or descriptive text on [Podcast Français Facile — L'imparfait en contexte](https://www.podcastfrancaisfacile.com/grammaire/imparfait.html).  
@@ -238,9 +238,9 @@ Before each Listening item plays, read the question and check whether the questi
 
 4. **Step 4: Productive Writing & Speaking Task (Simulated TCF Speaking Task 1)**  
    Prepare an oral response describing what your life was like five years ago compared to today. Write a **100-word draft** in French:
-   - Where you lived and what your accommodation was like (*J'habitais dans... C'était un appartement qui avait...*).
-   - What your daily professional or student schedule was (*Tous les jours, je partais à... Je travaillais comme...*).
-   - What activities you regularly did during weekends (*Le week-end, nous allions souvent...*).
+   - Where you lived and what your accommodation was like (*J'habitais dans... C'était un appartement qui avait...* /ʒ‿a.bi.tɛ dɑ̃... s‿e.tɛ œ̃.n‿a.paʁ.tə.mɑ̃ ki a.vɛ.../ — (zhah-bee-TEH dahn... say-teh uhn-nah-pahr-tuh-mahn kee ah-VEH...)).
+   - What your daily professional or student schedule was (*Tous les jours, je partais à... Je travaillais comme...* /tu le ʒuʁ, ʒə paʁ.tɛ a... ʒə tʁa.va.jɛ kɔm.../ — (too lay ZHOOR, zhuh pahr-teh AH... zhuh trah-vah-yeh KUHM...)).
+   - What activities you regularly did during weekends (*Le week-end, nous allions souvent...* /lə wi.kɛnd, nu.z‿a.ljɔ̃ su.vɑ̃.../ — (luh week-END, noo-zah-lyohn soo-VAHN...)).
    
    After writing, record a **90-second voice note** speaking spontaneously without reading word-for-word. Verify that you used the imparfait for past descriptions and habits!
 
