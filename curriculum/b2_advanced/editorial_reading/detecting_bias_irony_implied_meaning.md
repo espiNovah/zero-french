@@ -61,7 +61,7 @@ When a journalist reports information using the conditional mood (*le conditionn
   → **Meaning**: According to sources, the ministry has released this money, but the information has not been officially confirmed.
 
 > **Le promoteur immobilier promettrait une livraison dans les délais...**  
-> /lə pʁɔ.mɔ.tœʁ i.mɔ.bi.lje pʁɔ.mɛ.tʁɛ yn li.vʁɛ.zɔ̃ dɑ̃ le de.lɛ/  
+> /lə pʁɔ.mɔ.tœʁ i.mɔ.bi.lje pʁɔ.mɛ.tʁɛ yn li.vʁɛ.zɔ̃ dɑ̃ le de.lɛ/ (*luh proh-moh-TUHR ee-moh-bee-LYAY proh-meh-TREH ewn lee-vray-ZOHN dahn lay day-LEH*)  
 > *The developer is reportedly promising delivery on schedule... (unconfirmed report).*
 
 ---
@@ -116,15 +116,15 @@ In Québec media and political discourse, irony often adopts understated turns o
 
 When answering TCF questions about an author's tone (*la tonalité* or *le registre*), candidates must understand the precise shades of meaning of the following exam vocabulary:
 
-| Exam Term | IPA Transcription | Definition in English | Identifying Linguistic Clues in the Text |
-| :--- | :--- | :--- | :--- |
-| **Caustique / Mordant** | /kos.tik/ / /mɔʁ.dɑ̃/ | Scathingly sarcastic / biting | Dark humor, cutting comparisons, antiphrasis, mocking metaphors |
-| **Désabusé / Résigné** | /de.za.by.ze/ / /ʁe.zi.ɲe/ | Disillusioned / weary resignation | Heavy sighs, reminders of past failures, feeling that effort is futile (*quoi qu'on fasse, hélas*) |
-| **Circonspect / Sceptique** | /siʁ.kɔ̃.spɛkt/ / /sɛp.tik/ | Cautious / questioning without anger | Hedged verbs (*sembler*, conditional), interrogative sentences, calls for independent verification |
-| **Polémique / Virulent** | /pɔ.le.mik/ / /vi.ʁy.lɑ̃/ | Combative / attacking aggressively | Accusatory verbs (*trahir, saccager, asservir*), exclamation marks, sharp dichotomies |
-| **Laudateur / Élogieux** | /lo.da.tœʁ/ / /e.lɔ.ʒjø/ | Highly praising / commendatory | Superlatives, celebration of bravery or vision (*prouesse, admirable, exemplaire*) |
-| **Alarmiste / Inquiet** | /a.laʁ.mist/ / /ɛ̃.kjɛ/ | Warning of imminent catastrophe | Urgency adverbs (*imminemment, irréversible*), grim statistics, apocalyptic imagery |
-| **Objectif / Neutre** | /ɔb.ʒɛk.tif/ / /nøtʁ/ | Factual / detached reporting | Complete absence of emotional adjectives; verifiable data, neutral attribution verbs |
+| Exam Term | IPA Transcription | Phonetic Respelling | Definition in English | Identifying Linguistic Clues in the Text |
+| :--- | :--- | :--- | :--- | :--- |
+| **Caustique / Mordant** | /kos.tik/ / /mɔʁ.dɑ̃/ | (kohs-TEEK / mohr-DAHN) | Scathingly sarcastic / biting | Dark humor, cutting comparisons, antiphrasis, mocking metaphors |
+| **Désabusé / Résigné** | /de.za.by.ze/ / /ʁe.zi.ɲe/ | (day-zah-bew-ZAY / ray-zeen-YAY) | Disillusioned / weary resignation | Heavy sighs, reminders of past failures, feeling that effort is futile (*quoi qu'on fasse, hélas*) |
+| **Circonspect / Sceptique** | /siʁ.kɔ̃.spɛkt/ / /sɛp.tik/ | (seer-kohns-PEHKT / sehp-TEEK) | Cautious / questioning without anger | Hedged verbs (*sembler*, conditional), interrogative sentences, calls for independent verification |
+| **Polémique / Virulent** | /pɔ.le.mik/ / /vi.ʁy.lɑ̃/ | (poh-lay-MEEK / vee-rew-LAHN) | Combative / attacking aggressively | Accusatory verbs (*trahir, saccager, asservir*), exclamation marks, sharp dichotomies |
+| **Laudateur / Élogieux** | /lo.da.tœʁ/ / /e.lɔ.ʒjø/ | (loh-dah-TUHR / ay-loh-ZHYEUH) | Highly praising / commendatory | Superlatives, celebration of bravery or vision (*prouesse, admirable, exemplaire*) |
+| **Alarmiste / Inquiet** | /a.laʁ.mist/ / /ɛ̃.kjɛ/ | (ah-lahr-MEEST / ehn-KYEH) | Warning of imminent catastrophe | Urgency adverbs (*imminemment, irréversible*), grim statistics, apocalyptic imagery |
+| **Objectif / Neutre** | /ɔb.ʒɛk.tif/ / /nøtʁ/ | (ohb-zhehk-TEEF / NEUH-truh) | Factual / detached reporting | Complete absence of emotional adjectives; verifiable data, neutral attribution verbs |
 
 <div class="lesson-note lesson-note--warning" markdown="1">
 
