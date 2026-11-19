@@ -73,52 +73,52 @@ Because the TCF Canada is specifically administered for Canadian immigration, re
 Below are the essential Canadian idioms you must master for instant comprehension:
 
 #### 1. Attacher sa tuque (avec de la broche)
-- **IPA Transcription**: [ataʃe sa tyk avɛk də la bʁɔʃ]
+- **IPA Transcription**: [ataʃe sa tyk avɛk də la bʁɔʃ] (ah-tah-SHAY sah TEWK ah-vehk duh lah BROHSH)
 - **Literal Meaning**: To tie down one's knitted winter hat (with wire).
 - **Figurative Civic Meaning**: To prepare oneself courageously for a turbulent, hostile, or extremely difficult ordeal or economic storm.
 - **Journalistic Example**:  
   **« Avec l'inflation persistante et la récession qui se profile, le ministre des Finances a prévenu les ménages qu'ils devront attacher leur tuque cet hiver. »**  
-  [avɛk lɛ̃flasjɔ̃ pɛʁzistɑ̃t e la ʁesesjɔ̃ ki sə pʁɔfil lə ministʁ de finɑ̃s a pʁevny le menaʒ kil dəvʁɔ̃ ataʃe lœʁ tyk sɛt ivɛʁ]  
+  [avɛk lɛ̃flasjɔ̃ pɛʁzistɑ̃t e la ʁesesjɔ̃ ki sə pʁɔfil lə ministʁ de finɑ̃s a pʁevny le menaʒ kil dəvʁɔ̃ ataʃe lœʁ tyk sɛt ivɛʁ] (ah-vehk lehn-flah-SYOHN pehr-zees-TAHNT ay lah ray-say-SYOHN kee suh proh-FEEL, luh mee-NEES-truh day fee-NAHNS ah prayv-NEW lay may-NAHZH keel dohv-ROHN ah-tah-SHAY luhr TEWK seht ee-VEHR.)  
   *With persistent inflation and an looming recession, the Finance Minister warned households that they must brace themselves for tough times this winter.*
 - **Register & Context**: Widely used in Quebec political commentary and radio panels (*Radio-Canada*). While acceptable in spoken debate (Speaking Task 3), prefer *« se préparer à de fortes turbulences »* in formal academic writing.
 
 #### 2. Tourner les coins ronds
-- **IPA Transcription**: [tuʁne le kwɛ̃ ʁɔ̃]
+- **IPA Transcription**: [tuʁne le kwɛ̃ ʁɔ̃] (toor-NAY lay kwehn ROHN)
 - **Literal Meaning**: To turn corners round (instead of cutting a sharp right angle).
 - **Figurative Civic Meaning**: To cut corners, take negligent shortcuts, or bypass safety regulations and institutional protocols to save time or money.
 - **Journalistic Example**:  
   **« Le rapport de la commission d'enquête révèle que le constructeur a tourné les coins ronds pour respecter les échéances budgétaires, compromettant la sécurité structurelle du viaduc. »**  
-  [lə ʁapɔʁ də la kɔmisjɔ̃ dɑ̃kɛt ʁevɛl kə lə kɔ̃stʁyktœʁ a tuʁne le kwɛ̃ ʁɔ̃ puʁ ʁɛspɛkte lez eʃeɑ̃s bydʒetɛʁ kɔ̃pʁɔmɛtɑ̃ la sekyʁite stʁyktyʁɛl dy vjadyk]  
+  [lə ʁapɔʁ də la kɔmisjɔ̃ dɑ̃kɛt ʁevɛl kə lə kɔ̃stʁyktœʁ a tuʁne le kwɛ̃ ʁɔ̃ puʁ ʁɛspɛkte lez eʃeɑ̃s bydʒetɛʁ kɔ̃pʁɔmɛtɑ̃ la sekyʁite stʁyktyʁɛl dy vjadyk] (luh rah-POHR duh lah koh-mee-syohn dahn-KEHT ray-VEHL kuh luh kohn-strewk-TUHR ah toor-NAY lay kwehn ROHN poor rehs-pehk-TAY lay-zay-shay-AHNS bewd-zhay-TEHR...)  
   *The inquiry commission's report reveals that the contractor cut corners to meet budget deadlines, compromising the viaduct's structural safety.*
 - **Register & Context**: Very common in investigative journalism and civil engineering oversight audits.
 
 #### 3. Se serrer les coudes
-- **IPA Transcription**: [sə sɛʁe le kud]
+- **IPA Transcription**: [sə sɛʁe le kud] (suh seh-RAY lay KOOD)
 - **Literal Meaning**: To squeeze elbows together.
 - **Figurative Civic Meaning**: To demonstrate deep social solidarity, mutual assistance, and collective unity during a major societal crisis.
 - **Journalistic Example**:  
   **« Face à cette crise sanitaire sans précédent, les citoyens ont su se serrer les coudes et soutenir le personnel soignant de première ligne. »**  
-  [fas a sɛt kʁiz sanitɛʁ sɑ̃ pʁesedɑ̃ le sitwajɛ̃ ɔ̃ sy sə sɛʁe le kud e sutniʁ lə pɛʁsɔnɛl swaɲɑ̃ də pʁəmjɛʁ liɲ]  
+  [fas a sɛt kʁiz sanitɛʁ sɑ̃ pʁesedɑ̃ le sitwajɛ̃ ɔ̃ sy sə sɛʁe le kud e sutniʁ lə pɛʁsɔnɛl swaɲɑ̃ də pʁəmjɛʁ liɲ] (FAHS ah seht KREEZ sah-nee-TEHR sahn pray-say-DAHN, lay see-twah-YEHN ohn SEW suh seh-RAY lay KOOD ay soot-NEER luh pehr-soh-NEHL swahn-YAHN duh pruh-MYEHR LEEN-yuh.)  
   *Faced with this unprecedented health crisis, citizens were able to band together and support frontline healthcare workers.*
 - **Register & Context**: Pan-Francophone, highly dignified. Perfect for both Writing Task 3 and Speaking Task 3 when proposing collective civic solutions.
 
 #### 4. Avoir le dos large
-- **IPA Transcription**: [avwaʁ lə do laʁʒ]
+- **IPA Transcription**: [avwaʁ lə do laʁʒ] (ah-VWAHR luh doh LAHRZH)
 - **Literal Meaning**: To have a broad back.
 - **Figurative Civic Meaning**: To serve as a convenient scapegoat or bear disproportionate blame for systemic failures created by others.
 - **Journalistic Example**:  
   **« L'immigration a souvent le dos large lorsque les gouvernements cherchent à masquer leurs propres défaillances en matière d'infrastructures et de logement social. »**  
-  [limiɡʁasjɔ̃ a sufɑ̃ lə do laʁʒ lɔʁskə le ɡuvɛʁnəmɑ̃ ʃɛʁʃ a maske lœʁ pʁɔpʁ defajɑ̃s ɑ̃ matjɛʁ dɛ̃fʁastʁyktyʁ e də lɔʒmɑ̃ sɔsjal]  
+  [limiɡʁasjɔ̃ a sufɑ̃ lə do laʁʒ lɔʁskə le ɡuvɛʁnəmɑ̃ ʃɛʁʃ a maske lœʁ pʁɔpʁ defajɑ̃s ɑ̃ matjɛʁ dɛ̃fʁastʁyktyʁ e də lɔʒmɑ̃ sɔsjal] (lee-mee-grah-SYOHN ah soo-VAHN luh doh LAHRZH lohrs-kuh lay goo-vehr-nuh-MAHN SHEHRSH ah mahs-KAY luhr PROH-pruh day-fah-YAHNS...)  
   *Immigration is often a convenient scapegoat when governments seek to conceal their own shortcomings regarding infrastructure and social housing.*
 - **Register & Context**: Standard journalistic editorial language across Canada and France.
 
 #### 5. Mettre la pédale douce
-- **IPA Transcription**: [mɛtʁ la pedal dus]
+- **IPA Transcription**: [mɛtʁ la pedal dus] (MEH-truh lah pay-DAHL DOOS)
 - **Literal Meaning**: To press the soft pedal (music/piano metaphor).
 - **Figurative Civic Meaning**: To tone down rhetoric, proceed more moderately, or slow down aggressive legislative implementation to avoid public outrage.
 - **Journalistic Example**:  
   **« Devant la levée de boucliers des syndicats, le premier ministre a été contraint de mettre la pédale douce sur sa réforme des retraites. »**  
-  [dəvɑ̃ la ləve də buklje de sɛ̃dika lə pʁəmje ministʁ a ete kɔ̃tʁɛ̃ də mɛtʁ la pedal dus syʁ sa ʁefɔʁm de ʁətʁɛt]  
+  [dəvɑ̃ la ləve də buklje de sɛ̃dika lə pʁəmje ministʁ a ete kɔ̃tʁɛ̃ də mɛtʁ la pedal dus syʁ sa ʁefɔʁm de ʁətʁɛt] (duh-VAHN lah luh-VAY duh boo-klyay day sehn-dee-KAH, luh pruh-MYAY mee-NEES-truh ah ay-TAY kohn-TREHN duh MEH-truh lah pay-DAHL DOOS...)  
   *Faced with vehement opposition from the unions, the Prime Minister was forced to dial back his pension reform.*
 
 ---
@@ -127,18 +127,18 @@ Below are the essential Canadian idioms you must master for instant comprehensio
 
 Beyond regional idioms, the French administrative and journalistic traditions utilize a codified inventory of figurative expressions that frequently appear in demanding (C1/C2-level) journalistic texts.
 
-| Idiomatic Expression | Pronunciation (IPA) | Exact Figurative Meaning | Formal Editorial Context |
-| :--- | :--- | :--- | :--- |
-| **Tirer la sonnette d'alarme** | [tiʁe la sɔnɛt dalaʁm] | To issue an urgent warning about an imminent systemic hazard | Climatology, healthcare funding deficits, economic overheating |
-| **Noyer le poisson** | [nwaje lə pwasɔ̃] | To deliberately create confusion or evade direct questions through verbose rhetoric | Parliamentary question periods, press conferences |
-| **Passer l'éponge** | [pase lepɔ̃ʒ] | To forgive, forget, or write off a past grievance or debt | Post-conflict reconciliation, fiscal amnesties |
-| **Faire la part des choses** | [fɛʁ la paʁ de ʃoz] | To objectively differentiate between emotion and fact, or merit and fault | Balanced argumentative evaluation in TCF Task 3 |
-| **Mettre la charrue avant les bœufs** | [mɛtʁ la ʃaʁy avɑ̃ le bø] | To reverse the logical order of operations; act rashly before planning | Premature technological rollouts, hasty urban development |
-| **De la poudre aux yeux** | [də la pudʁ oz jø] | Specious, superficial illusions designed to mislead observers; window dressing | Critique of greenwashing, symbolic non-binding resolutions |
-| **Faire des pieds et des mains** | [fɛʁ de pje e de mɛ̃] | To make desperate, exhaustive efforts utilizing every possible connection | Bureaucratic appeals, securing emergency funding |
-| **Donner un coup d'épée dans l'eau** | [dɔne œ̃ ku depe dɑ̃ lo] | To perform an action that proves completely futile and produces zero tangible results | Counter-productive regulations, symbolic petitions |
-| **Jeter de l'huile sur le feu** | [ʒəte də lɥil syʁ lə fø] | To exacerbate tensions, inflame a delicate conflict, or provoke indignation | Provocative social media campaigns, partisan polemics |
-| **Tenir mordicus à** *(familier)* | [təniʁ mɔʁdiky(s) a] | To cling obstinately and inflexibly to a stance, policy, or dogma | Familiar register: fine in speech or quoted commentary; in a formal essay prefer *tenir obstinément à* |
+| Idiomatic Expression | Pronunciation (IPA) | Phonetic Respelling | Exact Figurative Meaning | Formal Editorial Context |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tirer la sonnette d'alarme** | [tiʁe la sɔnɛt dalaʁm] | (tee-RAY lah soh-NEHT dah-LAHRM) | To issue an urgent warning about an imminent systemic hazard | Climatology, healthcare funding deficits, economic overheating |
+| **Noyer le poisson** | [nwaje lə pwasɔ̃] | (nwah-YAY luh pwah-SOHN) | To deliberately create confusion or evade direct questions through verbose rhetoric | Parliamentary question periods, press conferences |
+| **Passer l'éponge** | [pase lepɔ̃ʒ] | (pah-SAY lay-POHNZH) | To forgive, forget, or write off a past grievance or debt | Post-conflict reconciliation, fiscal amnesties |
+| **Faire la part des choses** | [fɛʁ la paʁ de ʃoz] | (fehr lah PAHR day SHOHZ) | To objectively differentiate between emotion and fact, or merit and fault | Balanced argumentative evaluation in TCF Task 3 |
+| **Mettre la charrue avant les bœufs** | [mɛtʁ la ʃaʁy avɑ̃ le bø] | (MEH-truh lah shah-REW ah-vahn lay BUHF) | To reverse the logical order of operations; act rashly before planning | Premature technological rollouts, hasty urban development |
+| **De la poudre aux yeux** | [də la pudʁ oz jø] | (duh lah POO-druh ohz YEUH) | Specious, superficial illusions designed to mislead observers; window dressing | Critique of greenwashing, symbolic non-binding resolutions |
+| **Faire des pieds et des mains** | [fɛʁ de pje e de mɛ̃] | (fehr day PYEH ay day MEHN) | To make desperate, exhaustive efforts utilizing every possible connection | Bureaucratic appeals, securing emergency funding |
+| **Donner un coup d'épée dans l'eau** | [dɔne œ̃ ku depe dɑ̃ lo] | (doh-NAY uhn koo day-PAY dahn LOH) | To perform an action that proves completely futile and produces zero tangible results | Counter-productive regulations, symbolic petitions |
+| **Jeter de l'huile sur le feu** | [ʒəte də lɥil syʁ lə fø] | (zhuh-TAY duh LWEEL sewr luh FEUH) | To exacerbate tensions, inflame a delicate conflict, or provoke indignation | Provocative social media campaigns, partisan polemics |
+| **Tenir mordicus à** *(familier)* | [təniʁ mɔʁdiky(s) a] | (tuh-NEER mohr-dee-KEWS ah) | To cling obstinately and inflexibly to a stance, policy, or dogma | Familiar register: fine in speech or quoted commentary; in a formal essay prefer *tenir obstinément à* |
 
 #### Detailed Rhetorical Breakdown of Selected Expressions
 
@@ -148,14 +148,14 @@ In the TCF Canada Writing Task 3 (*synthèse et point de vue*) and Speaking Task
 The phrase *« faire la part des choses »* introduces precisely this dialectical synthesis:
 - **Model Usage**:  
   **« S'il est indéniable que l'intelligence artificielle engendre des incertitudes éthiques, il convient de faire la part des choses : rejeter en bloc cette technologie priverait la recherche médicale d'avancées capitales. »**  
-  [sil ɛt ɛ̃denjablə kə lɛ̃tɛliʒɑ̃s aʁtifisjɛl ɑ̃ʒɑ̃dʁ dez ɛ̃sɛʁtityd etik il kɔ̃vjɛ̃ də fɛʁ la paʁ de ʃoz ʁəʒəte ɑ̃ blɔk sɛt tɛknɔlɔʒi pʁivʁɛ la ʁəʃɛʁʃ medikal davɑ̃se kapital]  
+  [sil ɛt ɛ̃denjablə kə lɛ̃tɛliʒɑ̃s aʁtifisjɛl ɑ̃ʒɑ̃dʁ dez ɛ̃sɛʁtityd etik il kɔ̃vjɛ̃ də fɛʁ la paʁ de ʃoz ʁəʒəte ɑ̃ blɔk sɛt tɛknɔlɔʒi pʁivʁɛ la ʁəʃɛʁʃ medikal davɑ̃se kapital] (seel eh-tehn-day-nyah-BLUH kuh lehn-tay-lee-ZHAHNS ahr-tee-fee-SYEHL ahn-ZHAHN-druh day-zehn-sehr-tee-TEWD ay-TEEK, eel kohn-VYEHN duh fehr lah PAHR day SHOHZ...)  
   *While it is undeniable that artificial intelligence generates ethical uncertainties, one must distinguish between legitimate concerns and alarmism: rejecting this technology outright would deprive medical research of vital breakthroughs.*
 
 ##### B. « De la poudre aux yeux »: Unmasking Ineffective Policies
 When analyzing an op-ed in Compréhension écrite, detecting this metaphor immediately alerts you that the author considers the subject to be deceptive or purely cosmetic.
 - **Model Usage**:  
   **« Les annonces ministérielles relatives aux subventions pour les voitures électriques ne sont que de la poudre aux yeux si elles ne s'accompagnent pas d'un développement massif du réseau ferroviaire. »**  
-  [lez anɔ̃s ministɛʁjɛl ʁəlatyv oz sybvɑ̃sjɔ̃ puʁ le vwatyʁ elɛktʁik nə sɔ̃ kə də la pudʁ oz jø si ɛl nə sakɔ̃paɲ pa dœ̃ devlɔpmɑ̃ masif dy ʁezo fɛʁɔvjɛʁ]  
+  [lez anɔ̃s ministɛʁjɛl ʁəlatyv oz sybvɑ̃sjɔ̃ puʁ le vwatyʁ elɛktʁik nə sɔ̃ kə də la pudʁ oz jø si ɛl nə sakɔ̃paɲ pa dœ̃ devlɔpmɑ̃ masif dy ʁezo fɛʁɔvjɛʁ] (lay-zah-NOHNS mee-nees-tay-RYEHL ruh-lah-TEEV oh sewb-vahn-SYOHN poor lay vwah-TEWR ay-lehk-TREEK nuh sohn kuh duh lah POO-druh ohz YEUH...)  
   *The ministerial announcements regarding electric car subsidies are mere window dressing unless accompanied by a massive expansion of the rail network.*
 
 ---
