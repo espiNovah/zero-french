@@ -40,7 +40,7 @@ Before starting your benchmark session, prepare your testing environment to mirr
    > *Vous venez d'arriver au Québec pour l'hiver. Vous vous rendez au comptoir d'accueil d'un centre de plein air (parc national ou centre de ski) à Mont-Tremblant. Vous souhaitez obtenir des informations complètes sur les activités d'hiver pour débutants (raquette, ski de fond, patinage). Posez des questions précises à l'employé(e) du centre concernant : les activités disponibles, les horaires d'ouverture, les tarifs, la location du matériel et des vêtements chauds, les conditions météorologiques du jour et les moyens de paiement acceptés.*
 
    - **Preparation (2 minutes)**: Take 2 minutes with paper and pencil to jot down 8–10 keywords or question starters (e.g. *quelles activités ? horaires ? location raquettes ? température ? prix par carte ?*). **Do not write full sentences to read.**
-   - **Recorded Delivery (3 minutes 30 seconds)**: Start your audio recorder and deliver your continuous inquiry. Greet the clerk formally (*Bonjour monsieur / madame*), introduce your request (*Je voudrais des renseignements...*), ask your 8–10 questions sequentially using varied structures (*Est-ce que... ?*, *Combien coûte... ?*, *Quel est le prix... ?*, *Est-ce que vous louez... ?*), and conclude politely (*Merci beaucoup pour votre aide, bonne journée !*).
+   - **Recorded Delivery (3 minutes 30 seconds)**: Start your audio recorder and deliver your continuous inquiry. Greet the clerk formally (*Bonjour monsieur / madame* /bɔ̃.ʒuʁ mə.sjø / ma.dam/ — (bohn-ZHOOR muh-SYEUH / mah-DAHM)), introduce your request (*Je voudrais des renseignements...* /ʒə vu.dʁɛ de ʁɑ̃.sɛɲ.mɑ̃/ — (zhuh voo-DREH day rahn-sen-yuh-MAHN)), ask your 8–10 questions sequentially using varied structures (*Est-ce que... ?*, *Combien coûte... ?*, *Quel est le prix... ?*, *Est-ce que vous louez... ?*), and conclude politely (*Merci beaucoup pour votre aide, bonne journée !* /mɛʁ.si bo.ku puʁ vɔtʁ ɛd, bɔn ʒuʁ.ne/ — (mehr-SEE boh-KOO poor voht-ruh ED, bon zhoor-NAY !)).
 
 2. **Step 2: Written Production (TCF Writing Task 1 Simulation)**  
    Read the simulated TCF Canada Writing Task 1 prompt below:
@@ -54,11 +54,11 @@ Before starting your benchmark session, prepare your testing environment to mirr
 
    - **15-Minute Unassisted Typing Take**: Start your 15-minute countdown and type your response into your text editor without consulting a dictionary or spellchecker.
    - **Structure**:
-     - Friendly salutation (*Salut Sophie / Cher Marc*).
-     - Today's weather and activity recount using present tense regular and irregular verbs (*Aujourd'hui, il fait beau mais froid (-10 °C). Je fais de la raquette...*).
-     - Required clothing advice using descriptive adjectives (*Prends ton manteau chaud, ta tuque et tes mitaines*).
-     - Weekend invitation and concluding question (*Est-ce que tu es libre samedi prochain ?*).
-     - Warm closing (*À bientôt / Amitiés*).
+     - Friendly salutation (*Salut Sophie* /sa.ly sɔ.fi/ (sah-LEW soh-FEE) / *Cher Marc* /ʃɛʁ maʁk/ (shehr MARK)).
+     - Today's weather and activity recount using present tense regular and irregular verbs (*Aujourd'hui, il fait beau mais froid (-10 °C). Je fais de la raquette...* /o.ʒuʁ.dɥi, il fɛ bo mɛ fʁwa (mwɛ̃ dis də.ɡʁe). ʒə fɛ də la ʁa.kɛt/ — (oh-zhoor-DWEE, eel feh BOH meh FRWAH (mwehn DEES duh-GRAY). zhuh feh duh lah rah-KET)).
+     - Required clothing advice using descriptive adjectives (*Prends ton manteau chaud, ta tuque et tes mitaines* /pʁɑ̃ tɔ̃ mɑ̃.to ʃo, ta tyk e te mi.tɛn/ — (prahn tohn mahn-toh SHOH, tah TEWK ay tay mee-TEN)).
+     - Weekend invitation and concluding question (*Est-ce que tu es libre samedi prochain ?* /ɛs.kə ty ɛ libʁ sam.di pʁɔ.ʃɛ̃/ — (ess-kuh tew eh LEE-bruh sahm-DEE proh-SHEHN ?)).
+     - Warm closing (*À bientôt* /a bjɛ̃.to/ (ah byen-TOH) / *Amitiés* /a.mi.tje/ (ah-mee-TYAY)).
    - **Word Count Audit**: Highlight your text and count every word. A word is any string between two spaces (FEI/DELF convention; confirm in the current TCF Canada candidate guide): *j'habite* = 1 word, *s'il vous plaît* = 3 words. Verify that your total is **between 60 and 80 words** for this project (the real task allows 60–120).
 
 #### Evidence
@@ -131,8 +131,8 @@ Be rigorous, objective, and uninflated.
 
 #### Extra credit
 
-- **Incorporate the Futur Proche**: In your written email, include two sentences using the near future (*aller + infinitif*) describing what you and your friend are going to do after the outdoor activity (*Après le ski, nous allons boire un chocolat chaud dans un café*).
-- **Incorporate the Passé Récent**: Include one sentence using *venir de + infinitif* to state what you just finished doing (*Je viens d'acheter mes billets pour samedi*).
+- **Incorporate the Futur Proche**: In your written email, include two sentences using the near future (*aller + infinitif*) describing what you and your friend are going to do after the outdoor activity (*Après le ski, nous allons boire un chocolat chaud dans un café* /a.pʁɛ lə ski, nu.z‿a.lɔ̃ bwaʁ œ̃ ʃɔ.kɔ.la ʃo dɑ̃.z‿œ̃ ka.fe/ — (ah-PREH luh SKEE, noo-zah-LOHN bwah-ruh uhn shoh-koh-LAH SHOH dahn-zuhn kah-FAY)).
+- **Incorporate the Passé Récent**: Include one sentence using *venir de + infinitif* to state what you just finished doing (*Je viens d'acheter mes billets pour samedi* /ʒə vjɛ̃ d‿aʃ.te me bi.jɛ puʁ sam.di/ — (zhuh vyen dahsh-TAY may bee-YEH poor sahm-DEE)).
 
 </div>
 
