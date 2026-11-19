@@ -24,40 +24,40 @@ When you enter a French or French-Canadian café, you are stepping into a centur
 
 #### 1. Les boissons chaudes (Hot Beverages)
 
-| French Term | IPA Pronunciation | English Description | Cultural Note |
-| :--- | :--- | :--- | :--- |
-| **un café** / **un expresso** | /œ̃ ka.fe/ / /œ̃.n‿ɛks.pʁɛ.so/ | single espresso shot | If you just ask for *"un café"*, you will receive a small, strong black espresso. |
-| **un café au lait** | /œ̃ ka.fe o lɛ/ | brewed coffee with hot milk | Often served in a wide bowl or large cup for breakfast. |
-| **un café crème** (or *un crème*) | /œ̃ ka.fe kʁɛm/ | espresso with steamed milk foam | Standard large milky coffee ordered in European cafés. |
-| **un café allongé** | /œ̃ ka.fe a.lɔ̃.ʒe/ | Americano / diluted espresso | Espresso diluted with hot water. Common in Québec and in France. |
-| **un café filtre** | /œ̃ ka.fe filtʁ/ | drip / filtered coffee | Standard North American style brewed coffee. |
-| **un thé** (noir / vert) | /œ̃ te nwaʁ/ / /œ̃ te vɛʁ/ | tea (black / green) | Served with a small pot of hot water and lemon or milk on the side. |
-| **une tisane** / **une infusion** | /yn ti.zan/ / /yn.n‿ɛ̃.fy.zjɔ̃/ | herbal tea (chamomile, mint) | Caffeine-free, commonly consumed in the late afternoon or evening. |
-| **un chocolat chaud** | /œ̃ ʃɔ.kɔ.la ʃo/ | hot chocolate | Rich melted chocolate or cocoa powder with hot milk. |
+| French Term | IPA Pronunciation | Respelling | English Description | Cultural Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **un café** / **un expresso** | /œ̃ ka.fe/ / /œ̃.n‿ɛks.pʁɛ.so/ | (uhn kah-FAY / uhn-neks-press-OH) | single espresso shot | If you just ask for *"un café"*, you will receive a small, strong black espresso. |
+| **un café au lait** | /œ̃ ka.fe o lɛ/ | (uhn kah-FAY oh LEH) | brewed coffee with hot milk | Often served in a wide bowl or large cup for breakfast. |
+| **un café crème** (or *un crème*) | /œ̃ ka.fe kʁɛm/ | (uhn kah-FAY KREM) | espresso with steamed milk foam | Standard large milky coffee ordered in European cafés. |
+| **un café allongé** | /œ̃ ka.fe a.lɔ̃.ʒe/ | (uhn kah-FAY ah-lohn-ZHAY) | Americano / diluted espresso | Espresso diluted with hot water. Common in Québec and in France. |
+| **un café filtre** | /œ̃ ka.fe filtʁ/ | (uhn kah-FAY FEEL-truh) | drip / filtered coffee | Standard North American style brewed coffee. |
+| **un thé** (noir / vert) | /œ̃ te nwaʁ/ / /œ̃ te vɛʁ/ | (uhn TAY NWAHR / uhn TAY VEHR) | tea (black / green) | Served with a small pot of hot water and lemon or milk on the side. |
+| **une tisane** / **une infusion** | /yn ti.zan/ / /yn.n‿ɛ̃.fy.zjɔ̃/ | (ewn tee-ZAHN / ewn-nehn-few-ZYOHN) | herbal tea (chamomile, mint) | Caffeine-free, commonly consumed in the late afternoon or evening. |
+| **un chocolat chaud** | /œ̃ ʃɔ.kɔ.la ʃo/ | (uhn shoh-koh-LAH SHOH) | hot chocolate | Rich melted chocolate or cocoa powder with hot milk. |
 
 #### 2. Les viennoiseries et en-cas (Pastries & Light Meals)
 
-| French Term | IPA Pronunciation | English Description | Gender |
-| :--- | :--- | :--- | :--- |
-| **un croissant** | /œ̃ kʁwa.sɑ̃/ | all-butter crescent pastry | Masculine |
-| **un pain au chocolat** | /œ̃ pɛ̃ o ʃɔ.kɔ.la/ | chocolate pastry | Masculine (called *une chocolatine* in Québec and SW France) |
-| **une brioche** | /yn bʁi.jɔʃ/ | sweet yeast bread | Feminine |
-| **une tartine** | /yn taʁ.tin/ | sliced baguette with butter and jam | Feminine |
-| **un sandwich jambon-beurre** | /œ̃ sɑ̃d.witʃ ʒɑ̃.bɔ̃ bœʁ/ | classic ham and butter baguette | Masculine |
-| **un croque-monsieur** | /œ̃ kʁɔk.mə.sjø/ | grilled ham and melted Gruyère cheese sandwich | Masculine |
-| **une quiche lorraine** | /yn kiʃ lɔ.ʁɛn/ | egg, cream, and bacon savory tart | Feminine |
-| **une formule** / **un menu** | /yn fɔʁ.myl/ / /œ̃ mə.ny/ | set lunch combo (e.g. sandwich + drink + dessert) | Feminine / Masculine |
+| French Term | IPA Pronunciation | Respelling | English Description | Gender |
+| :--- | :--- | :--- | :--- | :--- |
+| **un croissant** | /œ̃ kʁwa.sɑ̃/ | (uhn krwah-SAHN) | all-butter crescent pastry | Masculine |
+| **un pain au chocolat** | /œ̃ pɛ̃ o ʃɔ.kɔ.la/ | (uhn PEHN oh shoh-koh-LAH) | chocolate pastry | Masculine (called *une chocolatine* in Québec and SW France) |
+| **une brioche** | /yn bʁi.jɔʃ/ | (ewn bree-OSH) | sweet yeast bread | Feminine |
+| **une tartine** | /yn taʁ.tin/ | (ewn tar-TEEN) | sliced baguette with butter and jam | Feminine |
+| **un sandwich jambon-beurre** | /œ̃ sɑ̃d.witʃ ʒɑ̃.bɔ̃ bœʁ/ | (uhn sahnd-WEETCH zhahn-bohn-BEUR) | classic ham and butter baguette | Masculine |
+| **un croque-monsieur** | /œ̃ kʁɔk.mə.sjø/ | (uhn krok-muh-SYEUH) | grilled ham and melted Gruyère cheese sandwich | Masculine |
+| **une quiche lorraine** | /yn kiʃ lɔ.ʁɛn/ | (ewn KEESH loh-REHN) | egg, cream, and bacon savory tart | Feminine |
+| **une formule** / **un menu** | /yn fɔʁ.myl/ / /œ̃ mə.ny/ | (ewn for-MEWL / uhn muh-NEW) | set lunch combo (e.g. sandwich + drink + dessert) | Feminine / Masculine |
 
 #### 3. Les boissons fraîches (Cold Drinks)
 
-| French Term | IPA Pronunciation | English Description | Gender |
-| :--- | :--- | :--- | :--- |
-| **une carafe d'eau** | /yn ka.ʁaf d‿o/ | free tap water pitcher (France) | Feminine |
-| **un verre d'eau** | /œ̃ vɛʁ d‿o/ | a glass of water | Masculine |
-| **de l'eau plate** | /də l‿o plat/ | still bottled water | Feminine |
-| **de l'eau gazeuse** | /də l‿o ɡa.zøz/ | sparkling / carbonated water | Feminine |
-| **un jus d'orange pressé** | /œ̃ ʒy d‿ɔ.ʁɑ̃ʒ pʁe.se/ | fresh-squeezed orange juice | Masculine |
-| **un soda** / **une boisson gazeuse** | /œ̃ so.da/ / /yn bwa.sɔ̃ ɡa.zøz/ | carbonated soft drink | Masculine / Feminine (*liqueur* in Québec) |
+| French Term | IPA Pronunciation | Respelling | English Description | Gender |
+| :--- | :--- | :--- | :--- | :--- |
+| **une carafe d'eau** | /yn ka.ʁaf d‿o/ | (ewn kah-RAHF DOH) | free tap water pitcher (France) | Feminine |
+| **un verre d'eau** | /œ̃ vɛʁ d‿o/ | (uhn VEHR DOH) | a glass of water | Masculine |
+| **de l'eau plate** | /də l‿o plat/ | (duh LOH PLAHT) | still bottled water | Feminine |
+| **de l'eau gazeuse** | /də l‿o ɡa.zøz/ | (duh LOH gah-ZEUHZ) | sparkling / carbonated water | Feminine |
+| **un jus d'orange pressé** | /œ̃ ʒy d‿ɔ.ʁɑ̃ʒ pʁe.se/ | (uhn ZHEW doh-rahnzh pray-SAY) | fresh-squeezed orange juice | Masculine |
+| **un soda** / **une boisson gazeuse** | /œ̃ so.da/ / /yn bwa.sɔ̃ ɡa.zøz/ | (uhn soh-DAH / ewn bwah-SOHN gah-ZEUHZ) | carbonated soft drink | Masculine / Feminine (*liqueur* in Québec) |
 
 ### Polite ordering formulas and the magic of je voudrais
 
@@ -65,39 +65,43 @@ In English-speaking culture, it is common to walk up to a counter and say "I wan
 
 #### The Golden Rule: Never Say "Je veux"
 
-The verb *vouloir* (to want) conjugated in the present tense—**je veux** (/ʒə vø/)—expresses a blunt demand, similar to a demanding child saying "I want!" Adults never use *je veux* when ordering food or service.
+The verb *vouloir* (to want) conjugated in the present tense—**je veux** (/ʒə vø/ — (zhuh VEUH))—expresses a blunt demand, similar to a demanding child saying "I want!" Adults never use *je veux* when ordering food or service.
 
 Instead, French speakers use the **conditional of politeness** (*le conditionnel de politesse*):
 
-> **Je voudrais...** — /ʒə vu.dʁɛ/ — *I would like...*
+> **Je voudrais...** — /ʒə vu.dʁɛ/ (zhuh voo-DREH) — *I would like...*
 
 Compare these interactions:
 
-> **Unacceptable**: *Je veux un café.* (/ʒə vø œ̃ ka.fe/) — Sounds rude and demanding.  
+> **Unacceptable**: *Je veux un café.* (/ʒə vø œ̃ ka.fe/ — (zhuh veuh uhn kah-FAY)) — Sounds rude and demanding.  
 > **Polite**: **Bonjour monsieur, je voudrais un café au lait, s'il vous plaît.**  
 > /bɔ̃.ʒuʁ mə.sjø | ʒə vu.dʁɛ œ̃ ka.fe o lɛ | sil vu plɛ/  
+> (bohn-ZHOOR muh-SYEUH, zhuh voo-DREH uhn kah-FAY oh LEH, seel voo PLEH)  
 > *Hello sir, I would like a coffee with milk, please.*
 
 #### Other Authentic Ordering Phrases
 
 Depending on the setting and your level of formality, here are four other standard ways to place your order:
 
-1. **Pour moi, ce sera...** (/puʁ mwa | sə sə.ʁa/) — *For me, it will be...*  
+1. **Pour moi, ce sera...** (/puʁ mwa | sə sə.ʁa/ — (poor MWAH, suh suh-RAH)) — *For me, it will be...*  
    Extremely natural when ordering at a table or following a dining companion:  
    > **Pour moi, ce sera une quiche lorraine avec une salade verte.**  
+   > /puʁ mwa, sə sə.ʁa yn kiʃ lɔ.ʁɛn a.vɛk yn sa.lad vɛʁt/ (poor MWAH, suh suh-RAH ewn keesh loh-REHN ah-vek ewn sah-lahd VEHRT)  
    > *For me, it will be a quiche lorraine with a green salad.*
 
-2. **Est-ce que je peux avoir... ?** (/ɛs kə ʒə pø.z‿a.vwaʁ/) — *May I have...?*  
+2. **Est-ce que je peux avoir... ?** (/ɛs kə ʒə pø.z‿a.vwaʁ/ — (ess-kuh zhuh peuh-zah-VWAHR)) — *May I have...?*  
    > **Est-ce que je peux avoir un verre d'eau, s'il vous plaît ?**  
+   > /ɛs kə ʒə pø.z‿a.vwaʁ œ̃ vɛʁ d‿o, sil vu plɛ/ (ess-kuh zhuh peuh-zah-VWAHR uhn vehr DOH, seel voo PLEH ?)  
    > *May I have a glass of water, please?*
 
-3. **Je vais prendre...** (/ʒə ve pʁɑ̃dʁ/) — *I am going to take / I'll have...*  
+3. **Je vais prendre...** (/ʒə ve pʁɑ̃dʁ/ — (zhuh vay PRAHN-druh)) — *I am going to take / I'll have...*  
    Using the near future (*futur proche*):  
    > **Bonjour, je vais prendre la formule sandwich à midi.**  
+   > /bɔ̃.ʒuʁ, ʒə vɛ pʁɑ̃dʁ la fɔʁ.myl sɑ̃d.witʃ a mi.di/ (bohn-ZHOOR, zhuh veh PRAHN-druh lah for-mewl sahnd-WEETCH ah mee-DEE)  
    > *Hello, I'll have the sandwich combo at noon.*
 
 4. **S'il vous plaît vs S'il te plaît**:  
-   Always use **s'il vous plaît** (/sil vu plɛ/) with waitstaff, baristas, and cashiers. Using informal *s'il te plaît* with a service worker is an improper breach of social distance.
+   Always use **s'il vous plaît** (/sil vu plɛ/ — (seel voo PLEH)) with waitstaff, baristas, and cashiers. Using informal *s'il te plaît* (/sil tə plɛ/ — (seel tuh PLEH)) with a service worker is an improper breach of social distance.
 
 ### Inquiring about prices and understanding totals
 
@@ -107,39 +111,42 @@ On the TCF Canada exam, asking and understanding prices is a core competency tes
 
 There are three interchangeable questions for asking the cost of an item or service:
 
-1. **C'est combien ?** (/s‿ɛ kɔ̃.bjɛ̃/) — *How much is it?* (Most common in daily spoken French)  
+1. **C'est combien ?** (/s‿ɛ kɔ̃.bjɛ̃/ — (say kohn-BYEN)) — *How much is it?* (Most common in daily spoken French)  
    > **Excusez-moi, c'est combien le croissant aux amandes ?**  
    > /ɛk.sky.ze mwa | s‿ɛ kɔ̃.bjɛ̃ lə kʁwa.sɑ̃ o.z‿a.mɑ̃d/  
+   > (ek-skew-ZAY MWAH, say kohn-BYEN luh krwah-SAHN oh-zah-MAHND ?)  
    > *Excuse me, how much is the almond croissant?*
 
-2. **Ça coûte combien ?** (/sa kut kɔ̃.bjɛ̃/) — *How much does that cost?*  
+2. **Ça coûte combien ?** (/sa kut kɔ̃.bjɛ̃/ — (sah koot kohn-BYEN)) — *How much does that cost?*  
    > **Ça coûte combien pour un grand café et deux brioches ?**  
    > /sa kut kɔ̃.bjɛ̃ puʁ œ̃ ɡʁɑ̃ ka.fe e dø bʁi.jɔʃ/  
+   > (sah koot kohn-BYEN poor uhn grahn kah-FAY ay deuh bree-OSH ?)  
    > *How much does it cost for a large coffee and two brioches?*
 
-3. **Quel est le prix de... ?** (/kɛ.l‿ɛ lə pʁi də/) — *What is the price of...?* (Slightly more formal)  
+3. **Quel est le prix de... ?** (/kɛ.l‿ɛ lə pʁi də/ — (kel-eh luh PREE duh)) — *What is the price of...?* (Slightly more formal)  
    > **Quel est le prix du menu du jour ?**  
    > /kɛ.l‿ɛ lə pʁi dy mə.ny dy ʒuʁ/  
+   > (kel-eh luh PREE dew muh-new dew ZHOOR ?)  
    > *What is the price of the daily special?*
 
 #### How Prices Are Expressed
 
 When the cashier or server gives you the total, they will use one of three structures:
 
-> **Ça fait...** (/sa fɛ/) — *That makes / That comes to...*  
-> **Ça coûte...** (/sa kut/) — *That costs...*  
-> **C'est...** (/s‿ɛ/) — *It is...*
+> **Ça fait...** (/sa fɛ/ — (sah FEH)) — *That makes / That comes to...*  
+> **Ça coûte...** (/sa kut/ — (sah KOOT)) — *That costs...*  
+> **C'est...** (/s‿ɛ/ — (SEH)) — *It is...*
 
 In spoken French, the word for currency (*euros* in Europe, *dollars* in Canada) is often stated, but the word for cents (*centimes* in France, *cents* /sɛnt/ in Canada) is frequently omitted:
 
 - **4,50 €** is pronounced:  
-  *Quatre euros cinquante* (/ka.tʁø.ʁo sɛ̃.kɑ̃t/)  
+  *Quatre euros cinquante* (/ka.tʁø.ʁo sɛ̃.kɑ̃t/ — (kaht-reuh-roh sehn-KAHNT))  
   *(Four euros fifty)*
 - **12,75 $** is pronounced:  
-  *Douze dollars soixante-quinze* (/duz dɔ.laʁ swa.sɑ̃t.kɛ̃z/)  
+  *Douze dollars soixante-quinze* (/duz dɔ.laʁ swa.sɑ̃t.kɛ̃z/ — (dooz doh-lahr swah-sahnt-KEHNZ))  
   *(Twelve dollars seventy-five)*
 - **0,80 €** is pronounced:  
-  *Quatre-vingts centimes* (/katʁ.vɛ̃ sɑ̃.tim/)  
+  *Quatre-vingts centimes* (/katʁ.vɛ̃ sɑ̃.tim/ — (kaht-ruh-vehn sahn-TEEM))  
   *(Eighty cents)*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -161,24 +168,24 @@ Once your order is complete, you must settle the bill. The terminology differs s
 #### 1. Asking for the Bill
 
 - **Everywhere (France, Québec, Canada)**:  
-  > **L'addition, s'il vous plaît !** — /l‿a.di.sjɔ̃ sil vu plɛ/  
+  > **L'addition, s'il vous plaît !** — /l‿a.di.sjɔ̃ sil vu plɛ/ (lah-dee-SYOHN seel voo PLEH !)  
   > *The check / bill, please!*
 - **Also heard in Québec**:  
-  > **La facture, s'il vous plaît !** — /la fak.tyʁ sil vu plɛ/  
+  > **La facture, s'il vous plaît !** — /la fak.tyʁ sil vu plɛ/ (lah fahk-TEWR seel voo PLEH !)  
   > *The bill, please!*
 
 #### 2. Specifying Your Payment Method
 
-The server will ask: *"Comment désirez-vous régler ?"* or *"Vous payez comment ?"* (How are you paying?). Respond with:
+The server will ask: *"Comment désirez-vous régler ?"* (/kɔ.mɑ̃ de.zi.ʁe vu ʁe.ɡle/ — (koh-mahn day-zee-RAY voo ray-GLAY ?)) or *"Vous payez comment ?"* (/vu pe.je kɔ.mɑ̃/ — (voo pay-YAY koh-MAHN ?)) (How are you paying?). Respond with:
 
-- **Par carte (bancaire)** (/paʁ kaʁt bɑ̃.kɛʁ/) — *By debit/credit card.*
-- **Sans contact** (/sɑ̃ kɔ̃.takt/) — *Contactless / Tap.*
-- **En espèces** (/ɑ̃.n‿ɛs.pɛs/) or **En liquide** (/ɑ̃ li.kid/) — *In cash (France).*
-- **En argent comptant** (/ɑ̃.n‿aʁ.ʒɑ̃ kɔ̃.tɑ̃/) — *In cash (Canada).*
+- **Par carte (bancaire)** (/paʁ kaʁt bɑ̃.kɛʁ/ — (par KART bahn-KEHR)) — *By debit/credit card.*
+- **Sans contact** (/sɑ̃ kɔ̃.takt/ — (sahn kohn-TAHKT)) — *Contactless / Tap.*
+- **En espèces** (/ɑ̃.n‿ɛs.pɛs/ — (ahn-ness-PESS)) or **En liquide** (/ɑ̃ li.kid/ — (ahn lee-KEED)) — *In cash (France).*
+- **En argent comptant** (/ɑ̃.n‿aʁ.ʒɑ̃ kɔ̃.tɑ̃/ — (ahn-nar-zhahn kohn-TAHN)) — *In cash (Canada).*
 
 If paying cash and waiting for your change:
-- *La monnaie* (/la mɔ.nɛ/) = *The coins / the change returned*.
-- If you don't need change: **Gardez la monnaie !** (/ɡaʁ.de la mɔ.nɛ/) — *Keep the change!*
+- *La monnaie* (/la mɔ.nɛ/ — (lah moh-NEH)) = *The coins / the change returned*.
+- If you don't need change: **Gardez la monnaie !** (/ɡaʁ.de la mɔ.nɛ/ — (gar-DAY lah moh-NEH !)) — *Keep the change!*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
 
@@ -186,13 +193,13 @@ If paying cash and waiting for your change:
 
 One of the largest cultural shocks between France and Canada involves tipping:
 
-- **In France**: By law, menu prices must include service (**service compris**); no separate service percentage is added to the bill. Leaving a tip is entirely optional and modest: leaving 1 to 2 euros in small change (*un pourboire*) on the table is considered polite for good service, but leaving 0 euros is not an insult.
+- **In France**: By law, menu prices must include service (**service compris**); no separate service percentage is added to the bill. Leaving a tip is entirely optional and modest: leaving 1 to 2 euros in small change (*un pourboire* /œ̃ puʁ.bwaʁ/ — (uhn poor-BWAHR)) on the table is considered polite for good service, but leaving 0 euros is not an insult.
 - **In Québec and Canada**: Service is **not included**. In Québec, tipped employees have a lower minimum wage (Ontario and British Columbia have abolished theirs), and customers across Canada are culturally expected to add a tip (**le pourboire**) of **15% to 20%** before sales tax. When paying by card machine, the payment terminal will explicitly prompt you to select 15%, 18%, or 20%. Failing to tip in Canada is considered a serious breach of social conduct.
 
 Other Canadian terms to remember:
-- **Une chocolatine** **(QC)**: While in Paris you ask for *un pain au chocolat*, in Montreal, Quebec City, and South-West France you must order *une chocolatine* **(QC)**.
-- **Un breuvage** **(QC)**: Some Québec menus head the beverage section *Breuvages* **(QC)**. This is a familiar Québec usage (influenced by English "beverage") that the OQLF advises against; the standard term, in Québec as in France, is **une boisson** (*Boissons*).
-- **La facture** **(QC)**: *L'addition* is perfectly normal in Québec, but you will also hear *la facture* for a restaurant bill.
+- **Une chocolatine** **(QC)** (/yn ʃɔ.kɔ.la.tin/ — (ewn shoh-koh-lah-TEEN)): While in Paris you ask for *un pain au chocolat*, in Montreal, Quebec City, and South-West France you must order *une chocolatine* **(QC)**.
+- **Un breuvage** **(QC)** (/œ̃ bʁœ.vaʒ/ — (uhn breuh-VAHZH)): Some Québec menus head the beverage section *Breuvages* **(QC)**. This is a familiar Québec usage (influenced by English "beverage") that the OQLF advises against; the standard term, in Québec as in France, is **une boisson** (*Boissons*).
+- **La facture** **(QC)** (/la fak.tyʁ/ — (lah fahk-TEWR)): *L'addition* is perfectly normal in Québec, but you will also hear *la facture* for a restaurant bill.
 
 </div>
 
@@ -241,23 +248,23 @@ To make the most of this task:
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 16 core café, beverage, and transaction terms with IPA to your personal Anki flashcard deck:
-   - *un café au lait* (/œ̃ ka.fe o lɛ/) — coffee with milk
-   - *un café allongé* (/œ̃ ka.fe a.lɔ̃.ʒe/) — Americano / diluted espresso
-   - *un pain au chocolat* (/œ̃ pɛ̃ o ʃɔ.kɔ.la/) — chocolate pastry
-   - *une chocolatine* **(QC)** (/yn ʃɔ.kɔ.la.tin/) — chocolate pastry (Canadian/SW French)
-   - *une formule* (/yn fɔʁ.myl/) — set combo menu
-   - *une quiche* (/yn kiʃ/) — savory tart
-   - *je voudrais* (/ʒə vu.dʁɛ/) — I would like (conditional of politeness)
-   - *pour moi, ce sera* (/puʁ mwa | sə sə.ʁa/) — for me, it will be
-   - *c'est combien ?* (/s‿ɛ kɔ̃.bjɛ̃/) — how much is it?
-   - *ça coûte combien ?* (/sa kut kɔ̃.bjɛ̃/) — how much does that cost?
-   - *l'addition* (/l‿a.di.sjɔ̃/) — the restaurant bill (everywhere)
-   - *la facture* **(QC)** (/la fak.tyʁ/) — the bill (also heard in Québec)
-   - *le pourboire* (/lə puʁ.bwaʁ/) — the tip
-   - *par carte* (/paʁ kaʁt/) — by card
-   - *en espèces* (/ɑ̃.n‿ɛs.pɛs/) — in cash (France)
-   - *en argent comptant* **(QC)** (/ɑ̃.n‿aʁ.ʒɑ̃ kɔ̃.tɑ̃/) — in cash (Canada)
+   Add these 16 core café, beverage, and transaction terms with IPA and phonetic respelling to your personal Anki flashcard deck:
+   - *un café au lait* — /œ̃ ka.fe o lɛ/ (uhn kah-FAY oh LEH) — coffee with milk
+   - *un café allongé* — /œ̃ ka.fe a.lɔ̃.ʒe/ (uhn kah-FAY ah-lohn-ZHAY) — Americano / diluted espresso
+   - *un pain au chocolat* — /œ̃ pɛ̃ o ʃɔ.kɔ.la/ (uhn PEHN oh shoh-koh-LAH) — chocolate pastry
+   - *une chocolatine* **(QC)** — /yn ʃɔ.kɔ.la.tin/ (ewn shoh-koh-lah-TEEN) — chocolate pastry (Canadian/SW French)
+   - *une formule* — /yn fɔʁ.myl/ (ewn for-MEWL) — set combo menu
+   - *une quiche* — /yn kiʃ/ (ewn KEESH) — savory tart
+   - *je voudrais* — /ʒə vu.dʁɛ/ (zhuh voo-DREH) — I would like (conditional of politeness)
+   - *pour moi, ce sera* — /puʁ mwa | sə sə.ʁa/ (poor MWAH, suh suh-RAH) — for me, it will be
+   - *c'est combien ?* — /s‿ɛ kɔ̃.bjɛ̃/ (say kohn-BYEN) — how much is it?
+   - *ça coûte combien ?* — /sa kut kɔ̃.bjɛ̃/ (sah koot kohn-BYEN) — how much does that cost?
+   - *l'addition* — /l‿a.di.sjɔ̃/ (lah-dee-SYOHN) — the restaurant bill (everywhere)
+   - *la facture* **(QC)** — /la fak.tyʁ/ (lah fahk-TEWR) — the bill (also heard in Québec)
+   - *le pourboire* — /lə puʁ.bwaʁ/ (luh poor-BWAHR) — the tip
+   - *par carte* — /paʁ kaʁt/ (par KART) — by card
+   - *en espèces* — /ɑ̃.n‿ɛs.pɛs/ (ahn-ness-PESS) — in cash (France)
+   - *en argent comptant* **(QC)** — /ɑ̃.n‿aʁ.ʒɑ̃ kɔ̃.tɑ̃/ (ahn-nar-zhahn kohn-TAHN) — in cash (Canada)
 
 3. **Step 3: Receptive Listening Task**  
    Listen to the short bakery ordering audio clip on [TV5Monde — Commander à la boulangerie](https://apprendre.tv5monde.com/fr/exercices/a1-debutant).  
