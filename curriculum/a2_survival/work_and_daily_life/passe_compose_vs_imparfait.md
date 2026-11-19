@@ -58,7 +58,7 @@ PASSÉ COMPOSÉ (The Event):
 Let us observe this harmony in an authentic workplace scenario:
 
 > **Hier, il était 16 heures et je travaillais tranquillement à mon bureau (imparfait). Soudain, mon gestionnaire est entré et il m'a annoncé une excellente nouvelle (passé composé) !**  
-> — /jɛʁ, i.l‿e.tɛ sɛ.z‿œʁ e ʒə tʁa.va.jɛ tʁɑ̃.kil.mɑ̃ a mɔ̃ by.ʁo. su.dɛ̃, mɔ̃ ʒɛs.tjɔ.nɛʁ ɛ.t‿ɑ̃.tʁe e i.l‿m‿a a.nɔ̃.se yn ɛk.sɛ.lɑ̃t nu.vɛl/  
+> — /jɛʁ, i.l‿e.tɛ sɛ.z‿œʁ e ʒə tʁa.va.jɛ tʁɑ̃.kil.mɑ̃ a mɔ̃ by.ʁo. su.dɛ̃, mɔ̃ ʒɛs.tjɔ.nɛʁ ɛ.t‿ɑ̃.tʁe e i.l‿m‿a a.nɔ̃.se yn ɛk.sɛ.lɑ̃t nu.vɛl/ (yehr, eel ay-TEH say-ZEUHR ay zhuh trah-vah-YEH trahn-keel-MAHN ah mohn bew-ROH. soo-DEHN, mohn zhehs-tyoh-NEHR eh-tahn-TRAY ay eel mah ah-nohn-SAY ewn ehk-seh-LAHNT noo-VEHL!)  
 > *Yesterday, it was 4:00 PM and I was working quietly at my desk (background). Suddenly, my manager came in and announced great news to me (actions)!*
 
 Notice how *il était* and *je travaillais* set the calm environment, while *est entré* and *a annoncé* drive the story forward!
@@ -71,15 +71,15 @@ The most common narrative construction in French combines both tenses in a singl
 [Action in progress in the IMPARFAIT] + quand / lorsque / soudain + [Interruption in the PASSÉ COMPOSÉ]
 ```
 
-> **Je dormais profondément quand le réveil-matin a sonné.** — /ʒə dɔʁ.mɛ pʁɔ.fɔ̃.de.mɑ̃ kɑ̃ lə ʁe.vɛj ma.tɛ̃ a sɔ.ne/  
+> **Je dormais profondément quand le réveil-matin a sonné.** — /ʒə dɔʁ.mɛ pʁɔ.fɔ̃.de.mɑ̃ kɑ̃ lə ʁe.vɛj ma.tɛ̃ a sɔ.ne/ (zhuh dohr-MEH proh-fohn-day-MAHN kahn luh ray-vehy mah-TEHN ah soh-NAY)  
 > *I was sleeping deeply when the alarm clock went off.*  
 > (*Dormais* = ongoing background; *a sonné* = punctual interruption).
 
-> **Nous marchions dans la rue Sainte-Catherine lorsqu'il a commencé à neiger.** — /nu maʁ.ʃjɔ̃ dɑ̃ la ʁy sɛ̃t kat.ʁin lɔʁs.k‿i.l‿a kɔ.mɑ̃.se a ne.ʒe/  
+> **Nous marchions dans la rue Sainte-Catherine lorsqu'il a commencé à neiger.** — /nu maʁ.ʃjɔ̃ dɑ̃ la ʁy sɛ̃t kat.ʁin lɔʁs.k‿i.l‿a kɔ.mɑ̃.se a ne.ʒe/ (noo mahr-SHYOHN dahn lah rew sent kaht-REEN lohrs-keel ah koh-mahn-SAY ah nay-ZHAY)  
 > *We were walking on Sainte-Catherine Street when it began to snow.*  
 > (*Marchions* = ongoing action; *a commencé* = specific start of precipitation).
 
-> **Pendant que je lisais mes courriels, la connexion Internet a été coupée.** — /pɑ̃.dɑ̃ kə ʒə li.zɛ me ku.ʁjɛl, la kɔ.nɛk.sjɔ̃ ɛ̃.tɛʁ.nɛt a e.te ku.pe/  
+> **Pendant que je lisais mes courriels, la connexion Internet a été coupée.** — /pɑ̃.dɑ̃ kə ʒə li.zɛ me ku.ʁjɛl, la kɔ.nɛk.sjɔ̃ ɛ̃.tɛʁ.nɛt a e.te ku.pe/ (pahn-dahn KUH zhuh lee-ZEH may koo-RYEHL, lah koh-nehk-SYOHN en-tehr-NEHT ah ay-TAY koo-PAY)  
 > *While I was reading my emails, the Internet connection was cut off.*  
 > (*Lisais* = background activity; *a été coupée* = sudden disruption).
 
@@ -91,25 +91,25 @@ Certain adverbs and time expressions naturally signal whether the speaker is est
 
 These words point to specific, contained moments in time or chronological sequences:
 
-- **un jour** (/œ̃ ʒuʁ/) — *one day*
-- **soudain / tout à coup** (/su.dɛ̃ / tu.t‿a ku/) — *suddenly / all of a sudden*
-- **hier / hier soir** (/jɛʁ / jɛʁ swaʁ/) — *yesterday / yesterday evening*
-- **mardi dernier** (/maʁ.di dɛʁ.nje/) — *last Tuesday*
-- **à ce moment-là** (/a sə mɔ.mɑ̃ la/) — *at that exact moment*
-- **d'abord, ensuite, puis, enfin** (/d‿a.bɔʁ, ɑ̃.sɥit, pɥi, ɑ̃.fɛ̃/) — *first, then, afterward, finally*
-- **pendant deux heures** (/pɑ̃.dɑ̃ dø.z‿œʁ/) — *for two hours (completed duration)*
+- **un jour** (/œ̃ ʒuʁ/ — *uhn ZHOOR*) — *one day*
+- **soudain / tout à coup** (/su.dɛ̃ / tu.t‿a ku/ — *soo-DEHN / too-tah-KOO*) — *suddenly / all of a sudden*
+- **hier / hier soir** (/jɛʁ / jɛʁ swaʁ/ — *yehr / yehr SWAHR*) — *yesterday / yesterday evening*
+- **mardi dernier** (/maʁ.di dɛʁ.nje/ — *mahr-dee dehr-NYAY*) — *last Tuesday*
+- **à ce moment-là** (/a sə mɔ.mɑ̃ la/ — *ah suh moh-mahn-LAH*) — *at that exact moment*
+- **d'abord, ensuite, puis, enfin** (/d‿a.bɔʁ, ɑ̃.sɥit, pɥi, ɑ̃.fɛ̃/ — *dah-BOHR, ahn-SWEET, pwee, ahn-FEHN*) — *first, then, afterward, finally*
+- **pendant deux heures** (/pɑ̃.dɑ̃ dø.z‿œʁ/ — *pahn-dahn duh-ZEUHR*) — *for two hours (completed duration)*
 
 #### 2. Imparfait Triggers (Habitual, Continuous, Descriptive)
 
 These words indicate recurring actions, ongoing states, or indefinite timeframes:
 
-- **autrefois / à l'époque** (/o.tʁə.fwa / a l‿e.pɔk/) — *formerly / back then*
-- **d'habitude / habituellement** (/d‿a.bi.tyd / a.bi.tɥɛl.mɑ̃/) — *usually / habitually*
-- **toujours** (/tu.ʒuʁ/) — *always (habitual)*
-- **souvent** (/su.vɑ̃/) — *often*
-- **tous les jours / chaque matin** (/tu le ʒuʁ / ʃak ma.tɛ̃/) — *every day / every morning*
-- **le lundi** (/lə lœ̃.di/) — *on Mondays (repetitive habit)*
-- **pendant que** (/pɑ̃.dɑ̃ kə/) — *while (action in progress)*
+- **autrefois / à l'époque** (/o.tʁə.fwa / a l‿e.pɔk/ — *oh-truh-FWAH / ah lay-POHK*) — *formerly / back then*
+- **d'habitude / habituellement** (/d‿a.bi.tyd / a.bi.tɥɛl.mɑ̃/ — *dah-bee-TEWD / ah-bee-twel-MAHN*) — *usually / habitually*
+- **toujours** (/tu.ʒuʁ/ — *too-ZHOOR*) — *always (habitual)*
+- **souvent** (/su.vɑ̃/ — *soo-VAHN*) — *often*
+- **tous les jours / chaque matin** (/tu le ʒuʁ / ʃak ma.tɛ̃/ — *too lay ZHOOR / shahk mah-TEHN*) — *every day / every morning*
+- **le lundi** (/lə lœ̃.di/ — *luh luhn-DEE*) — *on Mondays (repetitive habit)*
+- **pendant que** (/pɑ̃.dɑ̃ kə/ — *pahn-dahn KUH*) — *while (action in progress)*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -127,13 +127,13 @@ Take note of the difference between **pendant** and **pendant que**:
 
 Certain common French verbs express fundamentally different concepts depending on whether they are conjugated in the imparfait or the passé composé. Understanding these shifts is essential for precision on the TCF:
 
-| Verb | Meaning in the IMPARFAIT (State / Condition) | Meaning in the PASSÉ COMPOSÉ (Action / Result) |
-| :--- | :--- | :--- |
-| **savoir** | **knew** (held knowledge over time)<br>*Je savais la vérité.* (I knew the truth.) | **found out / learned** (moment of discovery)<br>*J'ai su la nouvelle hier.* (I found out yesterday.) |
-| **connaître**| **knew / was familiar with**<br>*Je connaissais ce quartier.* (I knew this area.) | **met for the first time**<br>*J'ai connu mon mari à Québec.* (I met my husband in QC.) |
-| **vouloir** | **wanted / wished** (ongoing mental desire)<br>*Je voulais partir tôt.* (I wanted to leave early.) | **tried / decided / refused (with negative)**<br>*J'ai voulu ouvrir la porte.* (I tried to open the door.)<br>*Il n'a pas voulu signer.* (He refused to sign.) |
-| **pouvoir** | **could / was capable of** (general ability)<br>*Je pouvais courir vite.* (I could run fast.) | **managed to / succeeded in** (specific outcome)<br>*J'ai pu obtenir le visa.* (I managed to get the visa.) |
-| **avoir** | **had** (ongoing state)<br>*J'avais un appartement.* (I had an apartment.) | **received / got** (event)<br>*J'ai eu un appel de la banque.* (I got a call from the bank.) |
+| Verb | Meaning in the IMPARFAIT (State / Condition) | Meaning in the PASSÉ COMPOSÉ (Action / Result) | Phonetic Respelling (Imp. / P.C.) |
+| :--- | :--- | :--- | :--- |
+| **savoir** | **knew** (held knowledge over time)<br>*Je savais la vérité.* (I knew the truth.) | **found out / learned** (moment of discovery)<br>*J'ai su la nouvelle hier.* (I found out yesterday.) | (zhuh sah-VEH / zhay SEW) |
+| **connaître**| **knew / was familiar with**<br>*Je connaissais ce quartier.* (I knew this area.) | **met for the first time**<br>*J'ai connu mon mari à Québec.* (I met my husband in QC.) | (zhuh koh-neh-SEH / zhay koh-NEW) |
+| **vouloir** | **wanted / wished** (ongoing mental desire)<br>*Je voulais partir tôt.* (I wanted to leave early.) | **tried / decided / refused (with negative)**<br>*J'ai voulu ouvrir la porte.* (I tried to open the door.)<br>*Il n'a pas voulu signer.* (He refused to sign.) | (zhuh voo-LEH / zhay voo-LEW) |
+| **pouvoir** | **could / was capable of** (general ability)<br>*Je pouvais courir vite.* (I could run fast.) | **managed to / succeeded in** (specific outcome)<br>*J'ai pu obtenir le visa.* (I managed to get the visa.) | (zhuh poo-VEH / zhay PEW) |
+| **avoir** | **had** (ongoing state)<br>*J'avais un appartement.* (I had an apartment.) | **received / got** (event)<br>*J'ai eu un appel de la banque.* (I got a call from the bank.) | (zhah-VEH / zhay EW) |
 
 > **Compare**:  
 > *Je savais parler français.* (I knew how to speak French — ongoing ability).  
@@ -194,18 +194,18 @@ This dual-layer structure creates variety, makes your story easy to follow, and 
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 12 narrative contrast pairs and meaning-shift verbs with IPA to your personal Anki flashcard deck:
-   - *il faisait beau / froid* (/il fə.zɛ bo / fʁwa/) — the weather was nice/cold (imparfait)
-   - *je marchais quand...* (/ʒə maʁ.ʃɛ kɑ̃/) — I was walking when... (imparfait + interruption)
-   - *soudain, le téléphone a sonné* (/su.dɛ̃, lə te.le.fɔn a sɔ.ne/) — suddenly the phone rang (passé composé)
-   - *je savais* (/ʒə sa.vɛ/) — I knew (state)
-   - *j'ai su* (/ʒ‿e sy/) — I found out / realized (event)
-   - *je connaissais* (/ʒə kɔ.nɛ.sɛ/) — I was familiar with (state)
-   - *j'ai connu* (/ʒ‿e kɔ.ny/) — I met for the first time (event)
-   - *je voulais* (/ʒə vu.lɛ/) — I wanted (ongoing desire)
-   - *j'ai voulu* (/ʒ‿e vu.ly/) — I tried / decided to (action)
-   - *je pouvais* (/ʒə pu.vɛ/) — I was capable of (ability)
-   - *j'ai pu* (/ʒ‿e py/) — I managed to / succeeded (achievement)
-   - *pendant que je travaillais* (/pɑ̃.dɑ̃ kə ʒə tʁa.va.jɛ/) — while I was working (backdrop)
+   - *il faisait beau / froid* (/il fə.zɛ bo / fʁwa/ — *eel fuh-ZEH boh / frwah*) — the weather was nice/cold (imparfait)
+   - *je marchais quand...* (/ʒə maʁ.ʃɛ kɑ̃/ — *zhuh mahr-SHEH kahn*) — I was walking when... (imparfait + interruption)
+   - *soudain, le téléphone a sonné* (/su.dɛ̃, lə te.le.fɔn a sɔ.ne/ — *soo-DEHN, luh tay-lay-FOHN ah soh-NAY*) — suddenly the phone rang (passé composé)
+   - *je savais* (/ʒə sa.vɛ/ — *zhuh sah-VEH*) — I knew (state)
+   - *j'ai su* (/ʒ‿e sy/ — *zhay SEW*) — I found out / realized (event)
+   - *je connaissais* (/ʒə kɔ.nɛ.sɛ/ — *zhuh koh-neh-SEH*) — I was familiar with (state)
+   - *j'ai connu* (/ʒ‿e kɔ.ny/ — *zhay koh-NEW*) — I met for the first time (event)
+   - *je voulais* (/ʒə vu.lɛ/ — *zhuh voo-LEH*) — I wanted (ongoing desire)
+   - *j'ai voulu* (/ʒ‿e vu.ly/ — *zhay voo-LEW*) — I tried / decided to (action)
+   - *je pouvais* (/ʒə pu.vɛ/ — *zhuh poo-VEH*) — I was capable of (ability)
+   - *j'ai pu* (/ʒ‿e py/ — *zhay PEW*) — I managed to / succeeded (achievement)
+   - *pendant que je travaillais* (/pɑ̃.dɑ̃ kə ʒə tʁa.va.jɛ/ — *pahn-dahn KUH zhuh trah-vah-YEH*) — while I was working (backdrop)
 
 3. **Step 3: Receptive Reading Practice**  
    Read a short anecdote or immigration story on [Podcast Français Facile — Passé composé et imparfait en contexte](https://www.podcastfrancaisfacile.com/dialogue/passe-compose-imparfait.html).  
