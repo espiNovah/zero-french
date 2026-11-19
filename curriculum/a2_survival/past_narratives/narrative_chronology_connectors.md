@@ -33,13 +33,13 @@ A cohesive narrative does not merely list events in isolation; it establishes a 
 [1. Opening] → [2. Progression] → [3. Simultaneous Events] → [4. Sudden Pivot] → [5. Conclusion]
 ```
 
-| Narrative Phase | Function in Storytelling | Core French Connectors | English Equivalents |
-| :--- | :--- | :--- | :--- |
-| **1. Opening** | Setting the scene and first action | *D'abord, tout d'abord, au début, pour commencer* | First, first of all, at the beginning |
-| **2. Progression** | Continuing the sequence step-by-step | *Ensuite, puis, après, plus tard, le lendemain* | Next, then, afterward, later, the next day |
-| **3. Simultaneity** | Actions happening at the same time | *Pendant que, au même moment, en même temps* | While, at the same moment, at the same time |
-| **4. Sudden Pivot** | Interruptions and unexpected changes | *Soudain, tout à coup, brusquement* | Suddenly, all of a sudden, abruptly |
-| **5. Conclusion** | Final outcome and resolution | *Finalement, enfin, pour finir, en conclusion* | Finally, in the end, at last, to finish |
+| Narrative Phase | Function in Storytelling | Core French Connectors | Phonetic Respelling | English Equivalents |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Opening** | Setting the scene and first action | *D'abord, tout d'abord, au début, pour commencer* | (dah-BOHR, too dah-BOHR, oh day-BEW, poor koh-mahn-SAY) | First, first of all, at the beginning |
+| **2. Progression** | Continuing the sequence step-by-step | *Ensuite, puis, après, plus tard, le lendemain* | (ahn-SWEET, pwee, ah-PREH, plew TAHR, luh lahn-duh-MEHN) | Next, then, afterward, later, the next day |
+| **3. Simultaneity** | Actions happening at the same time | *Pendant que, au même moment, en même temps* | (pahn-dahn KUH, oh mehm moh-MAHN, ahn mehm TAHN) | While, at the same moment, at the same time |
+| **4. Sudden Pivot** | Interruptions and unexpected changes | *Soudain, tout à coup, brusquement* | (soo-DEHN, too-tah-KOO, brewsk-MAHN) | Suddenly, all of a sudden, abruptly |
+| **5. Conclusion** | Final outcome and resolution | *Finalement, enfin, pour finir, en conclusion* | (fee-nahl-MAHN, ahn-FEHN, poor fee-NEER, ahn kohn-klew-ZYOHN) | Finally, in the end, at last, to finish |
 
 In written French, when a chronological connector begins a clause or sentence, it is **almost always followed by a comma**:
 > **D'abord, nous avons visité Montréal.** (Notice the comma after *d'abord*).  
@@ -51,31 +51,31 @@ To introduce the first action of your narrative, avoid jumping directly into the
 
 #### 1. Opening Connectors
 
-- **D'abord** (/d‿a.bɔʁ/) — *First / First of all*:
-  > **D'abord, j'ai envoyé mon dossier à Immigration Canada.** — /d‿a.bɔʁ, ʒ‿e ɑ̃.vwa.je mɔ̃ dɔ.sje a i.mi.ɡʁa.sjɔ̃ ka.na.da/  
+- **D'abord** (/d‿a.bɔʁ/ — *dah-BOHR*) — *First / First of all*:
+  > **D'abord, j'ai envoyé mon dossier à Immigration Canada.** — /d‿a.bɔʁ, ʒ‿e ɑ̃.vwa.je mɔ̃ dɔ.sje a i.mi.ɡʁa.sjɔ̃ ka.na.da/ (dah-BOHR, zhay ahn-vwah-YAY mohn doh-SYAY ah ee-mee-grah-SYOHN kah-nah-DAH)  
   > *First, I sent my file to Immigration Canada.*
-- **Tout d'abord** (/tu d‿a.bɔʁ/) — *First and foremost / To begin with* (slightly more formal, ideal for TCF Writing Task 2):
-  > **Tout d'abord, nous avons réservé notre hébergement temporaire.** — /tu d‿a.bɔʁ, nu.z‿a.vɔ̃ ʁe.zɛʁ.ve nɔ.tʁə e.bɛʁ.ʒə.mɑ̃ tɑ̃.pɔ.ʁɛʁ/  
+- **Tout d'abord** (/tu d‿a.bɔʁ/ — *too dah-BOHR*) — *First and foremost / To begin with* (slightly more formal, ideal for TCF Writing Task 2):
+  > **Tout d'abord, nous avons réservé notre hébergement temporaire.** — /tu d‿a.bɔʁ, nu.z‿a.vɔ̃ ʁe.zɛʁ.ve nɔ.tʁə e.bɛʁ.ʒə.mɑ̃ tɑ̃.pɔ.ʁɛʁ/ (too dah-BOHR, noo-zah-VOHN ray-zehr-VAY noh-truh ay-behr-zhuh-MAHN tahn-poh-REHR)  
   > *First of all, we reserved our temporary accommodation.*
-- **Au début** (/o de.by/) — *At the beginning / Initially*:
-  > **Au début, l'apprentissage de la langue a été difficile.** — /o de.by, l‿a.pʁɑ̃.ti.saʒ də la lɑ̃ɡ a e.te di.fi.sil/  
+- **Au début** (/o de.by/ — *oh day-BEW*) — *At the beginning / Initially*:
+  > **Au début, l'apprentissage de la langue a été difficile.** — /o de.by, l‿a.pʁɑ̃.ti.saʒ də la lɑ̃ɡ a e.te di.fi.sil/ (oh day-BEW, lah-prahn-tee-SAHZH duh lah LAHNGK ah ay-TAY dee-fee-SEEL)  
   > *At the beginning, learning the language was difficult.*
 
 #### 2. Progression Connectors: Puis, Ensuite, and Après
 
 Once the opening action is established, you move forward using progression markers:
 
-- **Ensuite** (/ɑ̃.sɥit/) — *Next / Afterward*: Indicates the direct chronological successor.
-  > **J'ai passé un entretien, ensuite j'ai attendu la réponse.** — /ʒ‿e pa.se œ̃.n‿ɑ̃.tʁə.tjɛ̃, ɑ̃.sɥit ʒ‿e a.tɑ̃.dy la ʁe.pɔ̃s/  
+- **Ensuite** (/ɑ̃.sɥit/ — *ahn-SWEET*) — *Next / Afterward*: Indicates the direct chronological successor.
+  > **J'ai passé un entretien, ensuite j'ai attendu la réponse.** — /ʒ‿e pa.se œ̃.n‿ɑ̃.tʁə.tjɛ̃, ɑ̃.sɥit ʒ‿e a.tɑ̃.dy la ʁe.pɔ̃s/ (zhay pah-SAY uhn-nahn-truh-TYEN, ahn-SWEET zhay ah-tahn-DEW lah ray-POHNS)  
   > *I did an interview, afterward I waited for the response.*
-- **Puis** (/pɥi/) — *Then*: Short, punchy connector linking two actions in immediate sequence.
-  > **Nous avons signé le bail, puis nous avons emménagé.** — /nu.z‿a.vɔ̃ si.ɲe lə baj, pɥi nu.z‿a.vɔ̃.z‿ɑ̃.me.na.ʒe/  
+- **Puis** (/pɥi/ — *PWEE*) — *Then*: Short, punchy connector linking two actions in immediate sequence.
+  > **Nous avons signé le bail, puis nous avons emménagé.** — /nu.z‿a.vɔ̃ si.ɲe lə baj, pɥi nu.z‿a.vɔ̃.z‿ɑ̃.me.na.ʒe/ (noo-zah-VOHN seen-YAY luh BEHY, pwee noo-zah-vohn-zahn-may-nah-ZHAY)  
   > *We signed the lease, then we moved in.*
-- **Après** (/a.pʁɛ/) or **Après cela** (/a.pʁɛ sə.la/) — *After / After that*:
-  > **Après cela, nous sommes allés à la banque pour ouvrir un compte.** — /a.pʁɛ sə.la, nu sɔm.z‿a.le a la bɑ̃k puʁ u.vʁiʁ œ̃ kɔ̃t/  
+- **Après** (/a.pʁɛ/ — *ah-PREH*) or **Après cela** (/a.pʁɛ sə.la/ — *ah-PREH suh-LAH*) — *After / After that*:
+  > **Après cela, nous sommes allés à la banque pour ouvrir un compte.** — /a.pʁɛ sə.la, nu sɔm.z‿a.le a la bɑ̃k puʁ u.vʁiʁ œ̃ kɔ̃t/ (ah-PREH suh-LAH, noo suhm-zah-LAY ah lah BAHNK poor oo-VREER uhn KOHNT)  
   > *After that, we went to the bank to open an account.*
-- **Plus tard** (/ply taʁ/) — *Later / Later on*: Indicates a time jump within the same day or week.
-  > **Plus tard dans la journée, la directrice m'a rappelé.** — /ply taʁ dɑ̃ la ʒuʁ.ne, la di.ʁɛk.tʁis m‿a ʁa.ple/  
+- **Plus tard** (/ply taʁ/ — *plew TAHR*) — *Later / Later on*: Indicates a time jump within the same day or week.
+  > **Plus tard dans la journée, la directrice m'a rappelé.** — /ply taʁ dɑ̃ la ʒuʁ.ne, la di.ʁɛk.tʁis m‿a ʁa.ple/ (plew TAHR dahn lah zhoor-NAY, lah dee-rehk-TREES mah rah-PLAY)  
   > *Later in the day, the manager called me back.*
 
 <div class="lesson-note lesson-note--critical" markdown="1">
@@ -97,44 +97,44 @@ A narrative becomes truly engaging when multiple actions overlap, or when a stea
 
 #### 1. Simultaneity and Duration: Pendant and Pendant que
 
-- **Pendant** (/pɑ̃.dɑ̃/) + Noun: Means *during* or *for* a specified duration:
-  > **J'ai habité à Calgary pendant deux ans.** — /ʒ‿e a.bi.te a kal.ɡa.ʁi pɑ̃.dɑ̃ dø.z‿ɑ̃/  
+- **Pendant** (/pɑ̃.dɑ̃/ — *pahn-DAHN*) + Noun: Means *during* or *for* a specified duration:
+  > **J'ai habité à Calgary pendant deux ans.** — /ʒ‿e a.bi.te a kal.ɡa.ʁi pɑ̃.dɑ̃ dø.z‿ɑ̃/ (zhay ah-bee-TAY ah kahl-gah-REE pahn-DAHN duh-ZAHN)  
   > *I lived in Calgary for two years.*
-  > **Il a neigé pendant toute la nuit.** — /i.l‿a ne.ʒe pɑ̃.dɑ̃ tut la nɥi/  
+  > **Il a neigé pendant toute la nuit.** — /i.l‿a ne.ʒe pɑ̃.dɑ̃ tut la nɥi/ (eel ah nay-ZHAY pahn-DAHN toot lah NWEE)  
   > *It snowed during the whole night.*
 
-- **Pendant que** (/pɑ̃.dɑ̃ kə/) + Clause (Subject + Verb): Means *while*:
-  > **Pendant que nous préparions le dîner, mon fils a terminé ses devoirs.** — /pɑ̃.dɑ̃ kə nu pʁe.pa.ʁjɔ̃ lə di.ne, mɔ̃ fis a tɛʁ.mi.ne se də.vwaʁ/  
+- **Pendant que** (/pɑ̃.dɑ̃ kə/ — *pahn-dahn KUH*) + Clause (Subject + Verb): Means *while*:
+  > **Pendant que nous préparions le dîner, mon fils a terminé ses devoirs.** — /pɑ̃.dɑ̃ kə nu pʁe.pa.ʁjɔ̃ lə di.ne, mɔ̃ fis a tɛʁ.mi.ne se də.vwaʁ/ (pahn-dahn KUH noo pray-pah-RYOHN luh dee-NAY, mohn FEESS ah tehr-mee-NAY say duh-VWAHR)  
   > *While we were preparing dinner, my son finished his homework.*  
   *(Note: Ongoing background actions in progress naturally take the imparfait, e.g. "nous préparions", which you will study in depth in the next section!)*
 
-- **Au même moment** (/o mɛm mɔ.mɑ̃/) — *At the exact same moment*:
-  > **Au même moment, le téléphone a sonné.** — /o mɛm mɔ.mɑ̃, lə te.le.fɔn a sɔ.ne/  
+- **Au même moment** (/o mɛm mɔ.mɑ̃/ — *oh mehm moh-MAHN*) — *At the exact same moment*:
+  > **Au même moment, le téléphone a sonné.** — /o mɛm mɔ.mɑ̃, lə te.le.fɔn a sɔ.ne/ (oh mehm moh-MAHN, luh tay-lay-FOHN ah soh-NAY)  
   > *At the same moment, the telephone rang.*
 
 #### 2. Sudden Disruptions: Soudain and Tout à coup
 
 When recounting an event for the TCF (such as describing a travel delay, a lost item, a traffic accident, or a workplace surprise), you need strong connectors to signal the pivot:
 
-- **Soudain** (/su.dɛ̃/) — *Suddenly*:
-  > **Nous marchions dans le parc, quand soudain il a commencé à neiger.** — /nu maʁ.ʃjɔ̃ dɑ̃ lə paʁk, kɑ̃ su.dɛ̃ i.l‿a kɔ.mɑ̃.se a ne.ʒe/  
+- **Soudain** (/su.dɛ̃/ — *soo-DEHN*) — *Suddenly*:
+  > **Nous marchions dans le parc, quand soudain il a commencé à neiger.** — /nu maʁ.ʃjɔ̃ dɑ̃ lə paʁk, kɑ̃ su.dɛ̃ i.l‿a kɔ.mɑ̃.se a ne.ʒe/ (noo mahr-SHYOHN dahn luh PAHRK, kahn soo-DEHN eel ah koh-mahn-SAY ah nay-ZHAY)  
   > *We were walking in the park, when suddenly it started to snow.*
-- **Tout à coup** (/tu.t‿a ku/) — *All of a sudden*:
-  > **Tout à coup, le courant a été coupé dans tout le quartier.** — /tu.t‿a ku, lə ku.ʁɑ̃ a e.te ku.pe dɑ̃ tu lə kaʁ.tje/  
+- **Tout à coup** (/tu.t‿a ku/ — *too-tah-KOO*) — *All of a sudden*:
+  > **Tout à coup, le courant a été coupé dans tout le quartier.** — /tu.t‿a ku, lə ku.ʁɑ̃ a e.te ku.pe dɑ̃ tu lə kaʁ.tje/ (too-tah-KOO, luh koo-RAHN ah ay-TAY koo-PAY dahn too luh kahr-TYAY)  
   > *All of a sudden, the power was cut in the entire neighborhood.*
 
 ### Concluding the narrative: Enfin and Finalement
 
 How you conclude a recount is just as important as how you begin it.
 
-- **Finalement** (/fi.nal.mɑ̃/) — *Finally / Eventually / In the end*: Implies that the outcome resulted after some waiting, difficulties, or deliberation.
-  > **Après trois mois d'attente, j'ai finalement reçu mon permis de travail.** — /a.pʁɛ tʁwa mwa d‿a.tɑ̃t, ʒ‿e fi.nal.mɑ̃ ʁə.sy mɔ̃ pɛʁ.mi də tʁa.vaj/  
+- **Finalement** (/fi.nal.mɑ̃/ — *fee-nahl-MAHN*) — *Finally / Eventually / In the end*: Implies that the outcome resulted after some waiting, difficulties, or deliberation.
+  > **Après trois mois d'attente, j'ai finalement reçu mon permis de travail.** — /a.pʁɛ tʁwa mwa d‿a.tɑ̃t, ʒ‿e fi.nal.mɑ̃ ʁə.sy mɔ̃ pɛʁ.mi də tʁa.vaj/ (ah-preh trwah mwah dah-TAHNT, zhay fee-nahl-MAHN ruh-SEW mohn pehr-MEE duh trah-VEHY)  
   > *After three months of waiting, I finally received my work permit.*
-- **Enfin** (/ɑ̃.fɛ̃/) — *At last / Finally*: Expresses a sense of relief after a prolonged effort.
-  > **Enfin, l'autobus est arrivé !** — /ɑ̃.fɛ̃, l‿o.to.bys ɛ.t‿a.ʁi.ve/  
+- **Enfin** (/ɑ̃.fɛ̃/ — *ahn-FEHN*) — *At last / Finally*: Expresses a sense of relief after a prolonged effort.
+  > **Enfin, l'autobus est arrivé !** — /ɑ̃.fɛ̃, l‿o.to.bys ɛ.t‿a.ʁi.ve/ (ahn-FEHN, loh-toh-BEWS eh-tah-ree-VAY!)  
   > *At last, the bus arrived!*
-- **Au bout du compte** (/o bu dy kɔ̃t/) — *When all was said and done / Ultimately*:
-  > **Au bout du compte, nous avons adoré notre séjour en Gaspésie.** — /o bu dy kɔ̃t, nu.z‿a.vɔ̃.z‿a.dɔ.ʁe nɔ.tʁə se.ʒuʁ ɑ̃ ɡas.pe.zi/  
+- **Au bout du compte** (/o bu dy kɔ̃t/ — *oh boo dew KOHNT*) — *When all was said and done / Ultimately*:
+  > **Au bout du compte, nous avons adoré notre séjour en Gaspésie.** — /o bu dy kɔ̃t, nu.z‿a.vɔ̃.z‿a.dɔ.ʁe nɔ.tʁə se.ʒuʁ ɑ̃ ɡas.pe.zi/ (oh boo dew KOHNT, noo-zah-vohn-zah-doh-RAY noh-truh say-ZHOOR ahn gahs-pay-ZEE)  
   > *When all was said and done, we loved our stay in Gaspésie.*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -142,10 +142,10 @@ How you conclude a recount is just as important as how you begin it.
 #### Québec vs France
 
 In Québec everyday speech, connectors often carry distinct Canadian flavors:
-- **Tout d'un coup** (/tu d‿œ̃ ku/) is used alongside *tout à coup* everywhere in the francophone world (not a Québec-only form), and you will hear it often in Québec speech.
-- **Fait que...** **(QC)** (/fɛ kə/) is an ubiquitous colloquial Canadian discourse marker meaning "So...", "Consequently...", or "As a result...":
+- **Tout d'un coup** (/tu d‿œ̃ ku/ — *too duhn KOO*) is used alongside *tout à coup* everywhere in the francophone world (not a Québec-only form), and you will hear it often in Québec speech.
+- **Fait que...** **(QC)** (/fɛ kə/ — *feh KUH*) is an ubiquitous colloquial Canadian discourse marker meaning "So...", "Consequently...", or "As a result...":
   > *« J'ai manqué le bus, fait que je suis arrivé en retard. »* **(QC)** (Colloquial spoken Québec French)  
-  > Standard French equivalent: *« J'ai manqué le bus, alors je suis arrivé en retard. »* or *« ... donc je suis arrivé en retard. »*
+  > Standard French equivalent: *« J'ai manqué le bus, alors je suis arrivé en retard. »* (/a.lɔʁ/ — *ah-LOHR*) or *« ... donc je suis arrivé en retard. »* (/dɔ̃k/ — *DOHNK*)
 
 On the TCF Canada examination, listening dialogues set in Montreal or Quebec City may feature colloquial markers like *fait que*, while your writing should stick to standard connectors like **alors**, **donc**, and **par conséquent**.
 
@@ -201,18 +201,18 @@ This variety creates natural pacing and makes your narrative much easier to foll
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
    Add these 12 core chronological connectors with IPA and example sentences to your personal Anki flashcard deck:
-   - *d'abord* (/d‿a.bɔʁ/) — first / first of all
-   - *tout d'abord* (/tu d‿a.bɔʁ/) — first and foremost
-   - *ensuite* (/ɑ̃.sɥit/) — next / afterward
-   - *puis* (/pɥi/) — then
-   - *après* (/a.pʁɛ/) — after / afterward
-   - *plus tard* (/ply taʁ/) — later
-   - *pendant* (/pɑ̃.dɑ̃/) — during / for (duration)
-   - *pendant que* (/pɑ̃.dɑ̃ kə/) — while (clause)
-   - *soudain* (/su.dɛ̃/) — suddenly
-   - *tout à coup* (/tu.t‿a ku/) — all of a sudden
-   - *finalement* (/fi.nal.mɑ̃/) — finally / eventually
-   - *enfin* (/ɑ̃.fɛ̃/) — at last / finally
+   - *d'abord* (/d‿a.bɔʁ/ — *dah-BOHR*) — first / first of all
+   - *tout d'abord* (/tu d‿a.bɔʁ/ — *too dah-BOHR*) — first and foremost
+   - *ensuite* (/ɑ̃.sɥit/ — *ahn-SWEET*) — next / afterward
+   - *puis* (/pɥi/ — *PWEE*) — then
+   - *après* (/a.pʁɛ/ — *ah-PREH*) — after / afterward
+   - *plus tard* (/ply taʁ/ — *plew TAHR*) — later
+   - *pendant* (/pɑ̃.dɑ̃/ — *pahn-DAHN*) — during / for (duration)
+   - *pendant que* (/pɑ̃.dɑ̃ kə/ — *pahn-dahn KUH*) — while (clause)
+   - *soudain* (/su.dɛ̃/ — *soo-DEHN*) — suddenly
+   - *tout à coup* (/tu.t‿a ku/ — *too-tah-KOO*) — all of a sudden
+   - *finalement* (/fi.nal.mɑ̃/ — *fee-nahl-MAHN*) — finally / eventually
+   - *enfin* (/ɑ̃.fɛ̃/ — *ahn-FEHN*) — at last / finally
 
 3. **Step 3: Receptive Reading Task**  
    Read a short authentic narrative or testimony on [Radio-Canada — Récits d'immigration](https://ici.radio-canada.ca/).  
