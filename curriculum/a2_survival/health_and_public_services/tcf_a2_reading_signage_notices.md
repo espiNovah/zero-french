@@ -46,35 +46,35 @@ In public spaces, administrative buildings, transport networks, and commercial e
 
 Public prohibitions in France and Canada rarely use full conversational sentences (*« Vous ne devez pas... »*). Instead, they rely on nominalized warnings or the **infinitif négatif**:
 
-| Sign Heading / Text | IPA Pronunciation | English Meaning | Regulatory Implication |
-| :--- | :--- | :--- | :--- |
-| **Défense de fumer / vapoter** | /de.fɑ̃s də fy.me / va.pɔ.te/ | No smoking / vaping | Smoking or using e-cigarettes is strictly prohibited on the premises. |
-| **Interdit au public / Accès interdit** | /ɛ̃.tɛʁ.di o py.blik / ak.sɛ ɛ̃.tɛʁ.di/ | Unauthorized personnel only | Only employees or authorized personnel may enter. |
-| **Ne pas jeter de déchets** | /nə pa ʒə.te də de.ʃɛ/ | Do not litter | Leaving trash is subject to municipal fines. |
-| **Stationnement interdit** | /sta.sjɔn.mɑ̃ ɛ̃.tɛʁ.di/ | No parking | Vehicles parked here will be towed (*remorquage*). |
-| **Prière de ne pas déranger** | /pʁi.jɛʁ də nə pa de.ʁɑ̃.ʒe/ | Please do not disturb | Polite formal request to maintain privacy or quiet. |
-| **Interdiction de nourrir les animaux** | /ɛ̃.tɛʁ.dik.sjɔ̃ də nu.ʁiʁ le z‿a.ni.mo/ | Feeding animals prohibited | Visitors must not provide food to wildlife or pets. |
+| Sign Heading / Text | IPA Pronunciation | Phonetic Respelling | English Meaning | Regulatory Implication |
+| :--- | :--- | :--- | :--- | :--- |
+| **Défense de fumer / vapoter** | /de.fɑ̃s də fy.me / va.pɔ.te/ | (day-FAHNS duh few-MAY / vah-poh-TAY) | No smoking / vaping | Smoking or using e-cigarettes is strictly prohibited on the premises. |
+| **Interdit au public / Accès interdit** | /ɛ̃.tɛʁ.di o py.blik / ak.sɛ ɛ̃.tɛʁ.di/ | (ehn-tehr-DEE oh pew-BLEEK / ahk-SEH ehn-tehr-DEE) | Unauthorized personnel only | Only employees or authorized personnel may enter. |
+| **Ne pas jeter de déchets** | /nə pa ʒə.te də de.ʃɛ/ | (nuh pah zhuh-TAY duh day-SHEH) | Do not litter | Leaving trash is subject to municipal fines. |
+| **Stationnement interdit** | /sta.sjɔn.mɑ̃ ɛ̃.tɛʁ.di/ | (stah-syohn-MAHN ehn-tehr-DEE) | No parking | Vehicles parked here will be towed (*remorquage*). |
+| **Prière de ne pas déranger** | /pʁi.jɛʁ də nə pa de.ʁɑ̃.ʒe/ | (pree-YEHR duh nuh pah day-rahn-ZHAY) | Please do not disturb | Polite formal request to maintain privacy or quiet. |
+| **Interdiction de nourrir les animaux** | /ɛ̃.tɛʁ.dik.sjɔ̃ də nu.ʁiʁ le z‿a.ni.mo/ | (ehn-tehr-deek-SYOHN duh noo-REER lay zah-nee-MOH) | Feeding animals prohibited | Visitors must not provide food to wildlife or pets. |
 
 #### 2. Obligations, warnings, and safety directives
 
-| Sign Heading / Text | IPA Pronunciation | English Meaning | Practical Instruction |
-| :--- | :--- | :--- | :--- |
-| **Port du masque obligatoire** | /pɔʁ dy mask ɔ.bli.ɡa.twaʁ/ | Masks mandatory | You must wear a mask before entering the building. |
-| **Danger de mort / Haute tension** | /dɑ̃.ʒe də mɔʁ / ot tɑ̃.sjɔ̃/ | Danger of death / High voltage | Extreme hazard; stay away from electrical installations. |
-| **Sortie de secours** | /sɔʁ.ti də sə.kuʁ/ | Emergency exit | Door reserved exclusively for emergency evacuation. |
-| **Chantier interdit au public** | /ʃɑ̃.tje ɛ̃.tɛʁ.di o py.blik/ | Construction zone: keep out | Hard hat and authorized access required. |
-| **Sol glissant / Attention à la marche** | /sɔl ɡli.sɑ̃ / a.tɑ̃.sjɔ̃ a la maʁʃ/ | Slippery floor / Watch your step | Physical hazard warning against falling or tripping. |
-| **Ralentir : passage piétons** | /ʁa.lɑ̃.tiʁ pa.saʒ pje.tɔ̃/ | Slow down: pedestrian crossing | Drivers must reduce speed and yield to pedestrians. |
+| Sign Heading / Text | IPA Pronunciation | Phonetic Respelling | English Meaning | Practical Instruction |
+| :--- | :--- | :--- | :--- | :--- |
+| **Port du masque obligatoire** | /pɔʁ dy mask ɔ.bli.ɡa.twaʁ/ | (por dew MAHSK oh-blee-gah-TWAHR) | Masks mandatory | You must wear a mask before entering the building. |
+| **Danger de mort / Haute tension** | /dɑ̃.ʒe də mɔʁ / ot tɑ̃.sjɔ̃/ | (dahn-ZHAY duh MOR / oht tahn-SYOHN) | Danger of death / High voltage | Extreme hazard; stay away from electrical installations. |
+| **Sortie de secours** | /sɔʁ.ti də sə.kuʁ/ | (sor-TEE duh suh-KOOR) | Emergency exit | Door reserved exclusively for emergency evacuation. |
+| **Chantier interdit au public** | /ʃɑ̃.tje ɛ̃.tɛʁ.di o py.blik/ | (shahn-TYAY ehn-tehr-DEE oh pew-BLEEK) | Construction zone: keep out | Hard hat and authorized access required. |
+| **Sol glissant / Attention à la marche** | /sɔl ɡli.sɑ̃ / a.tɑ̃.sjɔ̃ a la maʁʃ/ | (sohl glee-SAHN / ah-tahn-SYOHN ah lah MARSH) | Slippery floor / Watch your step | Physical hazard warning against falling or tripping. |
+| **Ralentir : passage piétons** | /ʁa.lɑ̃.tiʁ pa.saʒ pje.tɔ̃/ | (rah-lahn-TEER : pah-SAHZH pyeh-TOHN) | Slow down: pedestrian crossing | Drivers must reduce speed and yield to pedestrians. |
 
 #### 3. Store hours and municipal notices
 
-| Notice Phrase | IPA Pronunciation | English Meaning | Temporal Decoding |
-| :--- | :--- | :--- | :--- |
-| **Ouvert du lundi au vendredi** | /u.vɛʁ dy lœ̃.di o vɑ̃.dʁə.di/ | Open Monday to Friday | Closed on weekends (*samedi et dimanche*). |
-| **Fermé les jours fériés** | /fɛʁ.me le ʒuʁ fe.ʁje/ | Closed on public holidays | Service unavailable on national and statutory holidays. |
-| **Ouvert sans interruption / En continu** | /u.vɛʁ sɑ̃ z‿ɛ̃.tɛ.ʁyp.sjɔ̃/ | Open continuously | No midday lunch closure (e.g., open straight from 9:00 to 18:00). |
-| **Fermeture exceptionnelle pour inventaire** | /fɛʁ.mə.tyʁ ɛk.sɛp.sjɔ.nɛl puʁ ɛ̃.vɑ̃.tɛʁ/ | Closed today for stocktaking | Temporary one-day administrative closure. |
-| **Heures de bureau : 8 h 30 à 16 h 30** | /œʁ də by.ʁo/ | Office hours: 8:30 AM to 4:30 PM | Standard Canadian public service operating hours. |
+| Notice Phrase | IPA Pronunciation | Phonetic Respelling | English Meaning | Temporal Decoding |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ouvert du lundi au vendredi** | /u.vɛʁ dy lœ̃.di o vɑ̃.dʁə.di/ | (oo-VEHR dew luhn-DEE oh vahn-druh-DEE) | Open Monday to Friday | Closed on weekends (*samedi et dimanche*). |
+| **Fermé les jours fériés** | /fɛʁ.me le ʒuʁ fe.ʁje/ | (fehr-MAY lay zhoor fay-RYAY) | Closed on public holidays | Service unavailable on national and statutory holidays. |
+| **Ouvert sans interruption / En continu** | /u.vɛʁ sɑ̃ z‿ɛ̃.tɛ.ʁyp.sjɔ̃/ | (oo-VEHR sahn zehn-teh-rewp-SYOHN / ahn kohn-tee-NEW) | Open continuously | No midday lunch closure (e.g., open straight from 9:00 to 18:00). |
+| **Fermeture exceptionnelle pour inventaire** | /fʁ.mə.tyʁ ɛk.sɛp.sjɔ.nɛl puʁ ɛ̃.vɑ̃.tɛʁ/ | (fehr-muh-TEWR ehk-sehp-syoh-NEHL poor ehn-vahn-TEHR) | Closed today for stocktaking | Temporary one-day administrative closure. |
+| **Heures de bureau : 8 h 30 à 16 h 30** | /œʁ də by.ʁo/ | (uhr duh bew-ROH) | Office hours: 8:30 AM to 4:30 PM | Standard Canadian public service operating hours. |
 
 ### Reading classified ads housing and employment snippets
 
@@ -270,21 +270,21 @@ If an option claims *« Le magasin est ouvert tous les jours »*, but the text s
    </details>
 
 3. **Step 3: Signage & Classified Vocabulary Flashcards**  
-   Add these 14 essential visual terms with IPA to your personal Anki deck:
-   - *défense de fumer* (/de.fɑ̃s də fy.me/) — no smoking
-   - *accès interdit* (/ak.sɛ ɛ̃.tɛʁ.di/) — unauthorized access prohibited
-   - *sortie de secours* (/sɔʁ.ti də sə.kuʁ/) — emergency exit
-   - *un jour férié* (/œ̃ ʒuʁ fe.ʁje/) — public / statutory holiday
-   - *sans interruption* (/sɑ̃ z‿ɛ̃.tɛ.ʁyp.sjɔ̃/) — continuously (no lunch break)
-   - *chauffage compris* (/ʃo.faʒ kɔ̃.pʁi/) — heating included
-   - *animaux non admis* (/a.ni.mo nɔ̃ n‿ad.mi/) — pets not permitted
-   - *un rabais* (/œ̃ ʁa.bɛ/) — discount / price reduction
-   - *à récupérer sur place* (/a ʁe.ky.pe.ʁe syʁ plas/) — pick up on-site
-   - *les aînés* (/le z‿e.ne/) — seniors / older adults
-   - *sur présentation de* (/syʁ pʁe.zɑ̃.ta.sjɔ̃ də/) — upon showing / presentation of
-   - *dans la limite des places disponibles* (/dɑ̃ la li.mit de plas dis.pɔ.nibl/) — subject to availability
-   - *le stationnement* (/lə sta.sjɔn.mɑ̃/) — parking
-   - *un atout* (/œ̃ n‿a.tu/) — an asset / advantage
+   Add these 14 essential visual terms with dual IPA and Phonetic Respelling to your personal Anki deck:
+   - *défense de fumer* (/de.fɑ̃s də fy.me/ — *day-FAHNS duh few-MAY*) — no smoking
+   - *accès interdit* (/ak.sɛ ɛ̃.tɛʁ.di/ — *ahk-SEH ehn-tehr-DEE*) — unauthorized access prohibited
+   - *sortie de secours* (/sɔʁ.ti də sə.kuʁ/ — *sor-TEE duh suh-KOOR*) — emergency exit
+   - *un jour férié* (/œ̃ ʒuʁ fe.ʁje/ — *uhn zhoor fay-RYAY*) — public / statutory holiday
+   - *sans interruption* (/sɑ̃ z‿ɛ̃.tɛ.ʁyp.sjɔ̃/ — *sahn zehn-teh-rewp-SYOHN*) — continuously (no lunch break)
+   - *chauffage compris* (/ʃo.faʒ kɔ̃.pʁi/ — *shoh-FAHZH kohn-PREE*) — heating included
+   - *animaux non admis* (/a.ni.mo nɔ̃ n‿ad.mi/ — *ah-nee-MOH nohn nahd-MEE*) — pets not permitted
+   - *un rabais* (/œ̃ ʁa.bɛ/ — *uhn rah-BEH*) — discount / price reduction
+   - *à récupérer sur place* (/a ʁe.ky.pe.ʁe syʁ plas/ — *ah ray-kew-pay-RAY sewr PLAHS*) — pick up on-site
+   - *les aînés* (/le z‿e.ne/ — *lay zay-NAY*) — seniors / older adults
+   - *sur présentation de* (/syʁ pʁe.zɑ̃.ta.sjɔ̃ də/ — *sewr pray-zahn-tah-SYOHN duh*) — upon showing / presentation of
+   - *dans la limite des places disponibles* (/dɑ̃ la li.mit de plas dis.pɔ.nibl/ — *dahn lah lee-MEET day plahs dees-poh-NEE-bluh*) — subject to availability
+   - *le stationnement* (/lə sta.sjɔn.mɑ̃/ — *luh stah-syohn-MAHN*) — parking
+   - *un atout* (/œ̃ n‿a.tu/ — *uhn nah-TOO*) — an asset / advantage
 
 4. **Step 4: Timed Speed-Scanning Challenge**  
    Set a timer for **3 minutes**. Find an authentic French flyer, transit bulletin, or storefront window picture on [Radio-Canada Régions](https://ici.radio-canada.ca/) or a local municipal portal. Identify and write down:
