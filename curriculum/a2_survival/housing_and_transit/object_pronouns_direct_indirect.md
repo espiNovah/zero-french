@@ -32,19 +32,19 @@ A **Direct Object** (*Complément d'Objet Direct* or **COD**) is a noun that dir
 
 The French direct object pronouns correspond to English *me, you, him, her, it, us,* and *them*:
 
-| Person | Pronoun | IPA | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **1st sg.** | **me / m'** | /mə / m/ | me | *Le propriétaire **m'**attend à midi.* |
-| **2nd sg.** | **te / t'** | /tə / t/ | you (informal) | *Je **t'**appelle dès que j'arrive.* |
-| **3rd sg. masc.** | **le / l'** | /lə / l/ | him / it (masc.) | *Cet appartement est beau, je **le** prends.* |
-| **3rd sg. fem.** | **la / l'** | /la / l/ | her / it (fem.) | *Cette annonce est intéressante, je **la** lis.* |
-| **1st pl.** | **nous** | /nu/ | us | *L'agent immobilier **nous** accompagne.* |
-| **2nd pl.** | **vous** | /vu/ | you (formal / plural) | *Je **vous** écoute avec attention.* |
-| **3rd pl.** | **les** | /le/ | them (masc. & fem.) | *Les clés ? Je **les** ai sur moi.* |
+| Person | Pronoun | IPA | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1st sg.** | **me / m'** | /mə / m/ | **muh / m** | me | *Le propriétaire **m'**attend à midi.* |
+| **2nd sg.** | **te / t'** | /tə / t/ | **tuh / t** | you (informal) | *Je **t'**appelle dès que j'arrive.* |
+| **3rd sg. masc.** | **le / l'** | /lə / l/ | **luh / l** | him / it (masc.) | *Cet appartement est beau, je **le** prends.* |
+| **3rd sg. fem.** | **la / l'** | /la / l/ | **lah / l** | her / it (fem.) | *Cette annonce est intéressante, je **la** lis.* |
+| **1st pl.** | **nous** | /nu/ | **NOO** | us | *L'agent immobilier **nous** accompagne.* |
+| **2nd pl.** | **vous** | /vu/ | **VOO** | you (formal / plural) | *Je **vous** écoute avec attention.* |
+| **3rd pl.** | **les** | /le/ | **LAY** | them (masc. & fem.) | *Les clés ? Je **les** ai sur moi.* |
 
 Notice that before a verb beginning with a vowel or silent *h*, **me, te, le,** and **la** elide to **m', t',** and **l'**:
-- *Je regarde l'appartement.* → *Je **l'**aime beaucoup.* (/ʒə l‿ɛm bo.ku/)
-- *Il écoute la radio.* → *Il **l'**écoute tous les soirs.* (/il l‿e.kut tu le swaʁ/)
+- *Je regarde l'appartement.* → *Je **l'**aime beaucoup.* (/ʒə l‿ɛm bo.ku/ — (zhuh lehm boh-KOO))
+- *Il écoute la radio.* → *Il **l'**écoute tous les soirs.* (/il l‿e.kut tu le swaʁ/ — (eel lay-koot too lay SWAHR))
 
 ### Indirect object pronouns: replacing people introduced by the preposition a
 
@@ -55,14 +55,14 @@ An **Indirect Object** (*Complément d'Objet Indirect* or **COI**) refers to a *
 
 The French indirect object pronouns are:
 
-| Person | Pronoun | IPA | English Meaning | Example Sentence |
-| :--- | :--- | :--- | :--- | :--- |
-| **1st sg.** | **me / m'** | /mə / m/ | to me | *Il **me** donne les clés.* |
-| **2nd sg.** | **te / t'** | /tə / t/ | to you (informal) | *Je **te** réponds immédiatement.* |
-| **3rd sg. (m. & f.)**| **lui** | /lɥi/ | **to him / to her** | *Je **lui** pose une question.* |
-| **1st pl.** | **nous** | /nu/ | to us | *Le concierge **nous** explique le règlement.*|
-| **2nd pl.** | **vous** | /vu/ | to you (formal / pl.) | *Je **vous** envoie le bail par courriel.* |
-| **3rd pl. (m. & f.)**| **leur** | /lœʁ/ | **to them** | *Nous **leur** montrons le quartier.* |
+| Person | Pronoun | IPA | Phonetic Respelling | English Meaning | Example Sentence |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1st sg.** | **me / m'** | /mə / m/ | **muh / m** | to me | *Il **me** donne les clés.* |
+| **2nd sg.** | **te / t'** | /tə / t/ | **tuh / t** | to you (informal) | *Je **te** réponds immédiatement.* |
+| **3rd sg. (m. & f.)**| **lui** | /lɥi/ | **LWEE** | **to him / to her** | *Je **lui** pose une question.* |
+| **1st pl.** | **nous** | /nu/ | **NOO** | to us | *Le concierge **nous** explique le règlement.*|
+| **2nd pl.** | **vous** | /vu/ | **VOO** | to you (formal / pl.) | *Je **vous** envoie le bail par courriel.* |
+| **3rd pl. (m. & f.)**| **leur** | /lœʁ/ | **LEUHR** | **to them** | *Nous **leur** montrons le quartier.* |
 
 <div class="lesson-note lesson-note--critical" markdown="1">
 
@@ -106,10 +106,10 @@ The pronoun sits directly between the subject pronoun and the conjugated verb:
 [Subject] + [PRONOUN] + [Conjugated Verb]
 ```
 
-> **Je connais ce quartier. → Je le connais très bien.** — /ʒə lə kɔ.nɛ tʁɛ bjɛ̃/  
+> **Je connais ce quartier. → Je le connais très bien.** — /ʒə lə kɔ.nɛ tʁɛ bjɛ̃/ (zhuh luh koh-neh treh BYEN)  
 > *I know this neighborhood. → I know it very well.*
 
-> **Le propriétaire répond aux locataires. → Le propriétaire leur répond.** — /lə pʁɔ.pʁi.je.tɛʁ lœʁ ʁe.pɔ̃/  
+> **Le propriétaire répond aux locataires. → Le propriétaire leur répond.** — /lə pʁɔ.pʁi.je.tɛʁ lœʁ ʁe.pɔ̃/ (luh proh-pree-yay-tehr leuhr ray-POHN)  
 > *The landlord replies to the tenants. → The landlord replies to them.*
 
 In negative sentences, **ne ... pas wraps around both the pronoun and the verb**:
@@ -118,8 +118,8 @@ In negative sentences, **ne ... pas wraps around both the pronoun and the verb**
 [Subject] + ne + [PRONOUN] + [Verb] + pas
 ```
 
-> **Je ne le connais pas.** — /ʒə nə lə kɔ.nɛ pa/ — *I do not know him / it.*  
-> **Nous ne lui parlons pas.** — /nu nə lɥi paʁ.lɔ̃ pa/ — *We do not speak to him / her.*
+> **Je ne le connais pas.** — /ʒə nə lə kɔ.nɛ pa/ (zhuh nuh luh koh-neh PAH) — *I do not know him / it.*  
+> **Nous ne lui parlons pas.** — /nu nə lɥi paʁ.lɔ̃ pa/ (noo nuh lwee pahr-lohn PAH) — *We do not speak to him / her.*
 
 #### 2. In Compound Tenses (Passé Composé)
 
@@ -129,15 +129,15 @@ In compound tenses, the pronoun sits **immediately before the auxiliary verb** (
 [Subject] + [PRONOUN] + [Auxiliary Avoir/Être] + [Past Participle]
 ```
 
-> **J'ai visité cet appartement. → Je l'ai visité hier.** — /ʒə l‿e vi.zi.te jɛʁ/  
+> **J'ai visité cet appartement. → Je l'ai visité hier.** — /ʒə l‿e vi.zi.te jɛʁ/ (zhuh lay vee-zee-tay YEHR)  
 > *I visited this apartment. → I visited it yesterday.*
 
-> **Elle a téléphoné au propriétaire. → Elle lui a téléphoné ce matin.** — /ɛl lɥi a te.le.fɔ.ne sə ma.tɛ̃/  
+> **Elle a téléphoné au propriétaire. → Elle lui a téléphoné ce matin.** — /ɛl lɥi a te.le.fɔ.ne sə ma.tɛ̃/ (ehl lwee ah tay-lay-foh-nay suh mah-TEHN)  
 > *She called the landlord. → She called him/her this morning.*
 
 In negative compound sentences:
-> **Je ne l'ai pas visité.** — /ʒə nə l‿e pa vi.zi.te/ — *I did not visit it.*  
-> **Elle ne lui a pas téléphoné.** — /ɛl nə lɥi a pa te.le.fɔ.ne/ — *She did not call him/her.*
+> **Je ne l'ai pas visité.** — /ʒə nə l‿e pa vi.zi.te/ (zhuh nuh lay pah vee-zee-TAY) — *I did not visit it.*  
+> **Elle ne lui a pas téléphoné.** — /ɛl nə lɥi a pa te.le.fɔ.ne/ (ehl nuh lwee ah pah tay-lay-foh-NAY) — *She did not call him/her.*
 
 #### 3. With Two Verbs (Modal and Semi-Auxiliary Structures)
 
@@ -147,13 +147,13 @@ When a sentence contains a conjugated verb followed by an infinitive (with verbs
 [Subject] + [Conjugated Verb] + [PRONOUN] + [Infinitive]
 ```
 
-> **Je vais louer cet appartement. → Je vais le louer.** — /ʒə vɛ lə lwe/  
+> **Je vais louer cet appartement. → Je vais le louer.** — /ʒə vɛ lə lwe/ (zhuh veh luh LWAY)  
 > *I am going to rent this apartment. → I am going to rent it.*
 
-> **Pouvez-vous donner les clés à Paul ? → Pouvez-vous lui donner les clés ?** — /pu.ve vu lɥi dɔ.ne le kle/  
+> **Pouvez-vous donner les clés à Paul ? → Pouvez-vous lui donner les clés ?** — /pu.ve vu lɥi dɔ.ne le kle/ (poo-vay voo lwee doh-nay lay KLAY ?)  
 > *Can you give the keys to Paul? → Can you give him the keys?*
 
-> **Je ne peux pas le contacter aujourd'hui.** — /ʒə nə pø pa lə kɔ̃.tak.te o.ʒuʁ.dɥi/  
+> **Je ne peux pas le contacter aujourd'hui.** — /ʒə nə pø pa lə kɔ̃.tak.te o.ʒuʁ.dɥi/ (zhuh nuh peuh pah luh kohn-tahk-tay oh-zhoor-DWEE)  
 > *I cannot contact him today.*
 
 <div class="lesson-note lesson-note--tip" markdown="1">
@@ -215,19 +215,19 @@ Using **le**, **la**, and **me** transforms your speech from robotic A1 queries 
    </details>
 
 2. **Step 2: Vocabulary & Anki Deck Expansion**  
-   Add these 12 core pronominal expressions and verbs with prepositions to your personal Anki flashcard deck:
-   - *le / la / les* (/lə / la / le/) — him / her / it / them (direct)
-   - *lui / leur* (/lɥi / lœʁ/) — to him or her / to them (indirect)
-   - *téléphoner à* (/te.le.fɔ.ne a/) — to phone someone (*lui téléphoner*)
-   - *écrire à* (/e.kʁiʁ a/) — to write to someone (*leur écrire*)
-   - *demander à* (/də.mɑ̃.de a/) — to ask someone (*lui demander*)
-   - *répondre à* (/ʁe.pɔ̃.dʁ‿a/) — to reply to someone (*lui répondre*)
-   - *donner à* (/dɔ.ne a/) — to give to someone (*leur donner*)
-   - *envoyer à* (/ɑ̃.vwa.je a/) — to send to someone (*lui envoyer*)
-   - *je le prends* (/ʒə lə pʁɑ̃/) — I'll take it (housing/item decision)
-   - *je vous remercie* (/ʒə vu ʁə.mɛʁ.si/) — I thank you (polite closing)
-   - *pouvez-vous me dire...* (/pu.ve vu mə diʁ/) — can you tell me...
-   - *je ne le connais pas* (/ʒə nə lə kɔ.nɛ pa/) — I don't know it/him
+   Add these 12 core pronominal expressions and verbs with prepositions to your personal Anki flashcard deck (with IPA and Phonetic Respelling):
+   - *le / la / les* (/lə / la / le/ — "luh / lah / lay") — him / her / it / them (direct)
+   - *lui / leur* (/lɥi / lœʁ/ — "lwee / leuhr") — to him or her / to them (indirect)
+   - *téléphoner à* (/te.le.fɔ.ne a/ — "tay-lay-foh-nay AH") — to phone someone (*lui téléphoner*)
+   - *écrire à* (/e.kʁiʁ a/ — "ay-kreer AH") — to write to someone (*leur écrire*)
+   - *demander à* (/də.mɑ̃.de a/ — "duh-mahn-day AH") — to ask someone (*lui demander*)
+   - *répondre à* (/ʁe.pɔ̃.dʁ‿a/ — "ray-pohn-drah") — to reply to someone (*lui répondre*)
+   - *donner à* (/dɔ.ne a/ — "doh-nay AH") — to give to someone (*leur donner*)
+   - *envoyer à* (/ɑ̃.vwa.je a/ — "ahn-vwah-yay AH") — to send to someone (*lui envoyer*)
+   - *je le prends* (/ʒə lə pʁɑ̃/ — "zhuh luh PRAHN") — I'll take it (housing/item decision)
+   - *je vous remercie* (/ʒə vu ʁə.mɛʁ.si/ — "zhuh voo ruh-mehr-SEE") — I thank you (polite closing)
+   - *pouvez-vous me dire...* (/pu.ve vu mə diʁ/ — "poo-vay voo muh DEER...") — can you tell me...
+   - *je ne le connais pas* (/ʒə nə lə kɔ.nɛ pa/ — "zhuh nuh luh koh-neh PAH") — I don't know it/him
 
 3. **Step 3: Receptive Audio Dialogue Practice**  
    Listen to a short rental inquiry dialogue on [Podcast Français Facile — Pronoms compléments directs (COD)](https://www.podcastfrancaisfacile.com/grammaire/pronoms-cod.html).  
